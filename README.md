@@ -90,22 +90,27 @@
 * [윤석찬](channy.creation.net)
 * [윤영식](mobicon.tistory.com)
 * [윤창석](changsuk.me) - 다음카카오
+* [이규원](https://justhackem.wordpress.com/)
 * [이병준](www.buggymind.com)
 * [이상욱](yisangwook.tumblr.com)
+* [이성호](http://blog.scaloid.org/) - 스칼라, 안드로이드
 * [이윤창](daddycat.blogspot.kr)
 * [이재홍](pyrasis.com)
 
 ### ㅈ
 
 * [장요셉](lastmind.net)
+* [장용석](http://devyongsik.tistory.com/)
 * [장혜식](openlook.org/wp) - 빅데이터
 * [전희원(고감자)](freesearch.pe.kr)
 * [정도현](www.moreagile.net) - 개발방법론
+* [정재화](http://blrunner.com/) - 타조 커미터. 하둡
 * [정성태](www.sysnet.pe.kr)
-* [정지훈](health20.kr)
+* [정지훈](health20.kr) - 트렌드
 * [조대협(bcho)](bcho.tistory.com) - Java
 * [조승연](blog.kivol.net) - 칼럼
 * [조영호](aeternum.egloos.com)
+* [진성주](http://softwaregeeks.org/) - 오픈소스
 
 ### ㅊ
 
@@ -160,15 +165,18 @@
 
 ## 국외 팀 사이트
 
+* [A list apart](http://alistapart.com/) - Web
 * [Code as Craft(Andrew Johnson)](codeascraft.com)
 * [Comunications of the ACM](cacm.acm.org/blogs/about-the-blogs)
 * [Dropbox Tech Blog](blogs.dropbox.com/tech)
 * [Facebook Developers](www.facebook.com/FacebookDevelopers)
 * [Facebook Engineering](www.facebook.com/Engineering)
+* [Go Language](http://blog.golang.org/) - Go
 * [InfoQ](www.infoq.com)
 * [Java Code Geek](www.javacodegeeks.com)
 * [Java World](www.javaworld.com)
 * [jGuru](www.jguru.com)
 * [Netflix Tech Blog](techblog.netflix.com)
+* [Rust Language](http://blog.rust-lang.org/) - Rust
 * [Takipi blog](http://blog.takipi.com/)
 * [Toptal Engineering Blog](www.toptal.com/blog)
