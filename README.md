@@ -61,6 +61,7 @@
 * [박상민](https://sangminpark.wordpress.com/)
 * [박영록](http://youngrok.com/) - 위키나무
 * [박일](http://parkpd.egloos.com/) - 게임 개발
+* [박재성(자바지기)](http://javajigi.net/) - Java
 * [방준영](http://bangjunyoung.blogspot.kr/) - Java
 * [배기홍](http://www.thestartupbible.com/) - IT 칼럼
 * [백기선](http://whiteship.me/) - Java
@@ -99,6 +100,7 @@
 
 ### ㅈ
 
+* [장선진](http://blog.java2game.com/)
 * [장요셉](http://lastmind.net/)
 * [장용석](http://devyongsik.tistory.com/)
 * [장혜식](http://openlook.org/wp/) - 빅데이터
@@ -134,9 +136,8 @@
 
 ## 국내 팀 사이트
 
-* [게임개발 포에버(포프, 친절한티스, 알콜코더 민군)](http://gamedevforever.com/)
+* [게임개발 포에버](http://gamedevforever.com/) - 포프, 친절한티스, 알콜코더 민군
 * [네이버](http://helloworld.naver.com/)
-* [박창우, 이신, 최용재](http://dogfeet.github.io/)
 * [버즈니](http://engineering.buzzni.com/)
 * [삼성소프트웨어멤버십](http://blog.secmem.org/)
 * [아이디인큐](http://blogs.idincu.com/dev/)
@@ -144,9 +145,12 @@
 * [엠비안](http://blog.embian.com/)
 * [이음소시어스](http://bigmatch.i-um.net/)
 * [코딩뉴스](http://www.codingnews.net/)
+* [한국게임기획자모임](http://gameplanner.cafe24.com/) - 전동주
 * [한빛네트워크](http://www.hanbit.co.kr/network/)
+* [dogfeet](http://dogfeet.github.io/) - 박창우, 이신, 최용재
 * [Google](http://googledevkr.blogspot.kr/)
 * [Mozilla](http://hacks.mozilla.or.kr/)
+* [SLiPP](http://slipp.net/) - 박재성, 김현기, 오진우
 * [Spoqa](http://spoqa.github.io/)
 * [SK 플래닛](http://readme.skplanet.com/)
 * [VCNC](http://engineering.vcnc.co.kr/)
@@ -176,6 +180,7 @@
 * [Java World](http://www.javaworld.com/) - Java
 * [jGuru](http://www.jguru.com/) - Java
 * [Netflix Tech Blog](http://techblog.netflix.com/)
+* [Prismatik](https://blog.prismatik.com.au/)
 * [Rust Language](http://blog.rust-lang.org/) - Rust
 * [Takipi blog](http://blog.takipi.com/)
 * [Toptal Engineering Blog](http://www.toptal.com/blog)
