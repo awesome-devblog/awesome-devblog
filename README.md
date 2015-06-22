@@ -9,6 +9,7 @@
 * [강규영](http://www.ecogwiki.com/)
 * [강대명](https://charsyam.wordpress.com/) - 서버 사이드
 * [강성훈](http://mearie.org/)
+* [강성희](https://medium.com/@shaynekang)
 * [구종만](http://theyearlyprophet.com/) - 알고리즘
 * [권남](http://kwon37xi.egloos.com/) - Java
 * [권정혁](http://xguru.net/guru) - 개발 트렌드
@@ -53,6 +54,10 @@
 * [류광](http://occamsrazr.net/) - 번역
 * [류종택](http://ryulib.tistory.com/)
 
+### ㅁ
+
+* [문형환](http://blog.lael.be/)
+
 ### ㅂ
 
 * [박경훈(HOONS)](http://hoonsbara.tistory.com/) - 닷넷
@@ -85,8 +90,10 @@
 * [안윤호](http://toyfab.tistory.com/) - 마이크로 프로세서
 * [안종태](http://qnibus.com/) - iOS
 * [양병규](http://blog.naver.com/delmadang) - 칼럼
-* [오동권](http://www.flowdas.com/) - 
+* [오광신](http://kwangshin.pe.kr/) - 함수형 언어
+* [오동권](http://www.flowdas.com/)
 * [오현석](http://www.enshahar.me/) - 스칼라, 스위프트
+* [용현택](http://yonght.tumblr.com/)
 * [윤상배](http://www.joinc.co.kr/) - 위키
 * [윤석찬](http://channy.creation.net/) - 오픈웹
 * [윤영식](http://mobicon.tistory.com/)
@@ -95,6 +102,7 @@
 * [이병준](http://www.buggymind.com/)
 * [이상욱](http://yisangwook.tumblr.com/) - 아키텍처 분석
 * [이성호](http://blog.scaloid.org/) - 스칼라, 안드로이드
+* [이세우](http://blog.xcoda.net/)
 * [이윤창](http://daddycat.blogspot.kr/)
 * [이재홍](http://pyrasis.com/) - Go
 
@@ -104,6 +112,7 @@
 * [장요셉](http://lastmind.net/)
 * [장용석](http://devyongsik.tistory.com/)
 * [장혜식](http://openlook.org/wp/) - 빅데이터
+* [전동규](http://www.php5.me/)
 * [전희원(고감자)](http://freesearch.pe.kr/) - 빅데이터
 * [정도현](http://www.moreagile.net/) - 개발방법론
 * [정재화](http://blrunner.com/) - 타조 커미터. 하둡
@@ -125,6 +134,7 @@
 
 * [하호진(Mimul)](http://www.mimul.com/) - 칼럼
 * [한승훈(kkamagui)](http://kkamagui.tistory.com/) - OS
+* [한정현](http://www.kazikai.net/)
 * [허준회(주네)](https://joone.wordpress.com/)
 * [홍민희(dahlia)](http://hongminhee.org/)
 * [홍성철](http://blog.fupfin.com/) - 함수형 언어
@@ -138,21 +148,29 @@
 
 * [게임개발 포에버](http://gamedevforever.com/) - 포프, 친절한티스, 알콜코더 민군
 * [네이버](http://helloworld.naver.com/)
+* [다음 DNA Lens](http://dna.daum.net/lens/)
+* [독립 개발자 네트워크](https://indidev.net/) - C/C++
 * [버즈니](http://engineering.buzzni.com/)
 * [삼성소프트웨어멤버십](http://blog.secmem.org/)
+* [스타일쉐어](http://styleshare.github.io/)
 * [아이디인큐](http://blogs.idincu.com/dev/)
+* [알스퀘어](http://dev.rsquare.co.kr/)
 * [엔씨소프트](http://blog.ncsoft.com/)
 * [엠비안](http://blog.embian.com/)
+* [이상한모임](http://blog.weirdx.io/)
 * [이음소시어스](http://bigmatch.i-um.net/)
 * [코딩뉴스](http://www.codingnews.net/)
+* [클리어보스](http://www.clearboth.org/)
+* [티몬](http://tmondev.blog.me/)
 * [한국게임기획자모임](http://gameplanner.cafe24.com/) - 전동주
 * [한빛네트워크](http://www.hanbit.co.kr/network/)
 * [dogfeet](http://dogfeet.github.io/) - 박창우, 이신, 최용재
 * [Google](http://googledevkr.blogspot.kr/)
-* [Mozilla](http://hacks.mozilla.or.kr/)
+* [Mozilla Hack](http://hacks.mozilla.or.kr/), [Mozilla Developer](https://developer.mozilla.org/ko/)
 * [SLiPP](http://slipp.net/) - 박재성, 김현기, 오진우
 * [Spoqa](http://spoqa.github.io/)
 * [SK 플래닛](http://readme.skplanet.com/)
+* [Tumblr](http://engineering.tumblr.com/)
 * [VCNC](http://engineering.vcnc.co.kr/)
 
 ## 국외 개인 사이트
