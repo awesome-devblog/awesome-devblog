@@ -13,6 +13,7 @@
 * [구종만](http://theyearlyprophet.com/) - 알고리즘
 * [권남](http://kwon37xi.egloos.com/) - Java
 * [권정혁](http://xguru.net/guru) - 개발 트렌드
+* [권창현](http://thoughts.chkwon.net/) - 산업공학
 * [김광현(광파리)](http://kwang82.hankyung.com/) - IT 소식
 * [김국현](http://goodhyun.com/) - IT 칼럼
 * [김놀부](http://nolboo.github.io/) - 번역 모음
@@ -21,6 +22,7 @@
 * [김민수](http://www.kmshack.kr/) - 안드로이드
 * [김민장](http://minjang.egloos.com/) - 컴퓨터 아키텍처
 * [김범준](http://bomjun.tistory.com/)
+* [김병환](http://kimbyeonghwan.tumblr.com/) - UX
 * [김성현](http://greemate.tistory.com/) - 윈도우즈 커널
 * [김성훈](http://www.se.or.kr/) - 학교 생활
 * [김수보](https://subokim.wordpress.com/) - IT 칼럼
@@ -43,6 +45,7 @@
 * [김포프](http://kblog.popekim.com/)
 * [김현유(미키김)](http://www.mickeykim.com/) - 구글
 * [김형준](http://www.gisdeveloper.co.kr/) - GIS
+* [김환희](http://greentec.egloos.com/) - 게임개발
 
 ### ㄴ
 
@@ -90,6 +93,7 @@
 * [안윤호](http://toyfab.tistory.com/) - 마이크로 프로세서
 * [안종태](http://qnibus.com/) - iOS
 * [양병규](http://blog.naver.com/delmadang) - 칼럼
+* [염재현](https://only2sea.wordpress.com/)
 * [오광신](http://kwangshin.pe.kr/) - 함수형 언어
 * [오동권](http://www.flowdas.com/)
 * [오현석](http://www.enshahar.me/) - 스칼라, 스위프트
@@ -99,8 +103,10 @@
 * [윤영식](http://mobicon.tistory.com/)
 * [윤창석](http://changsuk.me/) - 다음카카오
 * [이규원](https://justhackem.wordpress.com/)
+* [이도현](http://genesis8.tistory.com/)
 * [이병준](http://www.buggymind.com/)
 * [이상욱](http://yisangwook.tumblr.com/) - 아키텍처 분석
+* [이성규](http://www.shalomeir.com/)
 * [이성호](http://blog.scaloid.org/) - 스칼라, 안드로이드
 * [이세우](http://blog.xcoda.net/)
 * [이윤창](http://daddycat.blogspot.kr/)
@@ -119,6 +125,7 @@
 * [정성태](http://www.sysnet.pe.kr/) - 닷넷
 * [정지훈](http://health20.kr/) - IT 역사, 미래 트렌드
 * [조대협(bcho)](http://bcho.tistory.com/) - Java
+* [조성문](http://sungmooncho.com/) - 실리콘밸리
 * [조승연](http://kivol.net/) - 칼럼
 * [조영호](http://aeternum.egloos.com/)
 * [진성주](http://softwaregeeks.org/) - 오픈소스
@@ -141,6 +148,7 @@
 * [황장호](http://xrath.com/)
 * [황병선](http://www.futurewalker.kr/) - IT 칼럼
 * [황상철](http://pragmaticstory.com/) - 애자일
+* [황석주](http://dolppi.egloos.com/) - 금융공학
 * [히언](http://recipes.egloos.com/) - 하드웨어
 * [현승](http://iam-hs.com/) - 리버싱
 
@@ -159,6 +167,7 @@
 * [엠비안](http://blog.embian.com/)
 * [이상한모임](http://blog.weirdx.io/)
 * [이음소시어스](http://bigmatch.i-um.net/)
+* [카이스트 Applied Algorithm Lab.](http://aalog.tistory.com/)
 * [코딩뉴스](http://www.codingnews.net/)
 * [클리어보스](http://www.clearboth.org/)
 * [티몬](http://tmondev.blog.me/)
