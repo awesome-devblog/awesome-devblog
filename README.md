@@ -70,6 +70,7 @@
 * [박영록](http://youngrok.com/) - 위키나무
 * [박일](http://parkpd.egloos.com/) - 게임 개발
 * [박재성(자바지기)](http://javajigi.net/) - Java
+* [박정규](http://bagjunggyu.blogspot.kr/) - 리눅스
 * [방준영](http://bangjunyoung.blogspot.kr/) - Java
 * [배기홍](http://www.thestartupbible.com/) - IT 칼럼
 * [백기선](http://whiteship.me/) - Java
@@ -82,8 +83,9 @@
 * [서광열](http://gamecodingschool.org/) - 게임 개발
 * [서주영](http://seoz.com/) - 타이젠
 * [손영수(arload)](https://arload.wordpress.com/) - 개발방법론, Android
-* [신승환](http://www.talk-with-hani.com/)
+* [송성광](http://saltfactory.net/)
 * [송주성(빈꿈)](http://emptydream.tistory.com/) - IT 칼럼
+* [신승환](http://www.talk-with-hani.com/)
 * [신영진](http://www.jiniya.net/) - 보안
 * [신현묵](http://zetlos.tistory.com/)
 * [신현석](http://hyeonseok.com/) - 웹
@@ -110,7 +112,9 @@
 * [이성호](http://blog.scaloid.org/) - 스칼라, 안드로이드
 * [이세우](http://blog.xcoda.net/)
 * [이윤창](http://daddycat.blogspot.kr/)
+* [이일희(제닉스)](http://nixsense.net/) - IT 리뷰
 * [이재홍](http://pyrasis.com/) - Go
+* [임지훈](http://www.jimmyrim.com/) - 스타트업 투자
 
 ### ㅈ
 
@@ -118,10 +122,12 @@
 * [장요셉](http://lastmind.net/)
 * [장용석](http://devyongsik.tistory.com/)
 * [장혜식](http://openlook.org/wp/) - 빅데이터
+* [전규현](http://www.allofsoftware.net/)
 * [전동규](http://www.php5.me/)
 * [전희원(고감자)](http://freesearch.pe.kr/) - 빅데이터
 * [정도현](http://www.moreagile.net/) - 개발방법론
 * [정재화](http://blrunner.com/) - 타조 커미터. 하둡
+* [정상혁](http://blog.benelog.net/) - Java
 * [정성태](http://www.sysnet.pe.kr/) - 닷넷
 * [정지훈](http://health20.kr/) - IT 역사, 미래 트렌드
 * [조대협(bcho)](http://bcho.tistory.com/) - Java
@@ -154,8 +160,10 @@
 
 ## 국내 팀 사이트
 
+* [가비아 프론트엔드 개발팀](http://gabia-frontend-dev.com/) - 웹
 * [게임개발 포에버](http://gamedevforever.com/) - 포프, 친절한티스, 알콜코더 민군
 * [네이버](http://helloworld.naver.com/)
+* [넥스트리](http://www.nextree.co.kr/)
 * [다음 DNA Lens](http://dna.daum.net/lens/)
 * [독립 개발자 네트워크](https://indidev.net/) - C/C++
 * [버즈니](http://engineering.buzzni.com/)
@@ -167,13 +175,16 @@
 * [엠비안](http://blog.embian.com/)
 * [이상한모임](http://blog.weirdx.io/)
 * [이음소시어스](http://bigmatch.i-um.net/)
+* [지디넷 코리아](http://www.zdnet.co.kr/)
 * [카이스트 Applied Algorithm Lab.](http://aalog.tistory.com/)
 * [코딩뉴스](http://www.codingnews.net/)
 * [클리어보스](http://www.clearboth.org/)
+* [테크수다](http://www.techsuda.com/)
 * [티몬](http://tmondev.blog.me/)
 * [한국게임기획자모임](http://gameplanner.cafe24.com/) - 전동주
 * [한빛네트워크](http://www.hanbit.co.kr/network/)
 * [dogfeet](http://dogfeet.github.io/) - 박창우, 이신, 최용재
+* [eBrain Blog](http://www.ebrain.kr/category/blogs/) - HR
 * [Google](http://googledevkr.blogspot.kr/)
 * [Mozilla Hack](http://hacks.mozilla.or.kr/), [Mozilla Developer](https://developer.mozilla.org/ko/)
 * [SLiPP](http://slipp.net/) - 박재성, 김현기, 오진우
@@ -201,6 +212,7 @@
 * [Comunications of the ACM](http://cacm.acm.org/blogs/about-the-blogs)
 * [Dropbox Tech Blog](https://blogs.dropbox.com/tech/)
 * [Facebook Developers](https://www.facebook.com/FacebookDevelopers)
+* [Github Engineering](http://githubengineering.com/)
 * [Go Language](http://blog.golang.org/) - Go
 * [InfoQ](http://www.infoq.com/)
 * [Java Code Geek](http://www.javacodegeeks.com/)
