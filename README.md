@@ -171,10 +171,13 @@
 * [스타일쉐어](http://styleshare.github.io/)
 * [아이디인큐](http://blogs.idincu.com/dev/)
 * [알스퀘어](http://dev.rsquare.co.kr/)
+* [에이콘](http://www.acornpub.co.kr/blog) - 책
 * [엔씨소프트](http://blog.ncsoft.com/)
 * [엠비안](http://blog.embian.com/)
+* [위클립스](http://eclipse.or.kr/) - 이클립스. 지율.
 * [이상한모임](http://blog.weirdx.io/)
 * [이음소시어스](http://bigmatch.i-um.net/)
+* [인사이트](http://www.insightbook.co.kr/) - 책
 * [지디넷 코리아](http://www.zdnet.co.kr/)
 * [카이스트 Applied Algorithm Lab.](http://aalog.tistory.com/)
 * [코딩뉴스](http://www.codingnews.net/)
