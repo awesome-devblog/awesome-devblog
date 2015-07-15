@@ -1,6 +1,6 @@
 # awesome-devblog
 
-개발 블로그 모음
+개발자 사이트 모음
 
 ## 국내 개인 사이트
 
@@ -10,6 +10,7 @@
 * [강대명](https://charsyam.wordpress.com/) - 서버 사이드
 * [강성훈](http://mearie.org/)
 * [강성희](https://medium.com/@shaynekang)
+* [구교준](http://danielku.com/)
 * [구종만](http://theyearlyprophet.com/) - 알고리즘
 * [권남](http://kwon37xi.egloos.com/) - Java
 * [권정혁](http://xguru.net/guru) - 개발 트렌드
@@ -19,12 +20,14 @@
 * [김놀부](http://nolboo.github.io/) - 번역 모음
 * [김대권](http://nacyot.com/)
 * [김대현](http://hatemogi.com/) - 백엔드
+* [김덕홍](http://insanehong.kr/)
 * [김명준](http://html5lab.kr/) - 프론트엔드
 * [김민수](http://www.kmshack.kr/) - 안드로이드
 * [김민장](http://minjang.egloos.com/) - 컴퓨터 아키텍처
 * [김범준](http://bomjun.tistory.com/)
 * [김병환](http://kimbyeonghwan.tumblr.com/) - UX
 * [김성현](http://greemate.tistory.com/) - 윈도우즈 커널
+* [김성호](http://raccoonyy.github.io/)
 * [김성훈](http://www.se.or.kr/) - 학교 생활
 * [김수보](https://subokim.wordpress.com/) - IT 칼럼
 * [김슬기](http://blog.seulgi.kim/) - 서울대생
@@ -33,11 +36,14 @@
 * [김용현](http://blog.naver.com/drvoss) - C++
 * [김우승](https://kimws.wordpress.com/) - 빅데이터
 * [김원일](http://androidkr.blogspot.kr/) - 안드로이드
+* [김재국](https://jaigouk.com/)
 * [김재호](http://www.benjaminlog.com/) - C++
+* [김지현](http://hyeon.me/)
 * [김진국](http://forensic-proof.com/) - 포렌식
 * [김진욱](http://rein.kr/blog/)
 * [김창원](http://www.memoriesreloaded.net/) - 실리콘밸리
 * [김창준](http://agile.egloos.com/) - 애자일
+* [김충섭](http://subicura.com/)
 * [김코딩](http://huns.me/)
 * [김태곤](http://taegon.kim/) - 웹
 * [김태균](http://blog.gaerae.com/)
@@ -52,6 +58,7 @@
 
 * [남정현](http://www.rkttu.com/) - 클라우드
 * [노용환](http://bugsfixed.blogspot.kr/), [노용환](http://somma.egloos.com/) - 윈도우즈 커널
+* [노재민](http://korsnack.kr/)
 
 ### ㄹ
 
@@ -73,6 +80,7 @@
 * [박재성(자바지기)](http://javajigi.net/) - Java
 * [박정규](http://bagjunggyu.blogspot.kr/) - 리눅스
 * [박종명](http://m.mkexdev.net/)
+* [박현우](http://lqez.github.io/)
 * [방준영](http://bangjunyoung.blogspot.kr/) - Java
 * [배기홍](http://www.thestartupbible.com/) - IT 칼럼
 * [배성혁](http://debop.tumblr.com/) - 스칼라
@@ -103,10 +111,13 @@
 * [오동권](http://www.flowdas.com/)
 * [오현석](http://www.enshahar.me/) - 스칼라, 스위프트
 * [용현택](http://yonght.tumblr.com/)
+* [유동곤](http://blog.naver.com/ehdrhs1004) - C++
+* [유차영](https://yous.be/)
 * [윤상배](http://www.joinc.co.kr/) - 위키
 * [윤석찬](http://channy.creation.net/) - 오픈웹
 * [윤영식](http://mobicon.tistory.com/)
 * [윤창석](http://changsuk.me/) - 다음카카오
+* [이경원](http://blog.woniper.net/) - Java
 * [이규원](https://justhackem.wordpress.com/)
 * [이도현](http://genesis8.tistory.com/)
 * [이병준](http://www.buggymind.com/)
@@ -117,6 +128,7 @@
 * [이윤창](http://daddycat.blogspot.kr/)
 * [이일희(제닉스)](http://nixsense.net/) - IT 리뷰
 * [이재홍](http://pyrasis.com/) - Go
+* [이지훈](http://jihoonl.notemywish.com/)
 * [임지훈](http://www.jimmyrim.com/) - 스타트업 투자
 
 ### ㅈ
@@ -135,6 +147,7 @@
 * [정성태](http://www.sysnet.pe.kr/) - 닷넷
 * [정윤원](http://youknowone.github.io/) - IOS
 * [정지훈](http://health20.kr/) - IT 역사, 미래 트렌드
+* [정창훈](http://seapy.com/)
 * [조대협(bcho)](http://bcho.tistory.com/) - Java
 * [조성문](http://sungmooncho.com/) - 실리콘밸리
 * [조승연](http://kivol.net/) - 칼럼
@@ -148,6 +161,7 @@
 * [최백준](http://www.baekjoon.com/) - 알고리즘
 * [최범균](http://javacan.tistory.com/) - Java
 * [최성재](http://yumere.tistory.com/)
+* [최종찬](http://blog.0xabcdef.com/)
 * [최준건](http://junegunn.kr/) - 다음카카오
 * [최흥배](http://jacking.tistory.com/) - C++
 
@@ -155,10 +169,12 @@
 
 * [하호진(Mimul)](http://www.mimul.com/) - 칼럼
 * [한승훈(kkamagui)](http://kkamagui.tistory.com/) - OS
+* [한영빈](https://youngbin.tk/)
 * [한정현](http://www.kazikai.net/)
 * [허준회(주네)](https://joone.wordpress.com/)
 * [홍민희(dahlia)](http://hongminhee.org/)
 * [홍성철](http://blog.fupfin.com/) - 함수형 언어
+* [홍영택](hackerwins.github.io/) - 다음카카오
 * [황장호](http://xrath.com/)
 * [황병선](http://www.futurewalker.kr/) - IT 칼럼
 * [황상철](http://pragmaticstory.com/) - 애자일
