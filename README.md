@@ -17,6 +17,7 @@
 * [김광현(광파리)](http://kwang82.hankyung.com/) - IT 소식
 * [김국현](http://goodhyun.com/) - IT 칼럼
 * [김놀부](http://nolboo.github.io/) - 번역 모음
+* [김대권](http://nacyot.com/)
 * [김대현](http://hatemogi.com/) - 백엔드
 * [김명준](http://html5lab.kr/) - 프론트엔드
 * [김민수](http://www.kmshack.kr/) - 안드로이드
@@ -71,8 +72,10 @@
 * [박일](http://parkpd.egloos.com/) - 게임 개발
 * [박재성(자바지기)](http://javajigi.net/) - Java
 * [박정규](http://bagjunggyu.blogspot.kr/) - 리눅스
+* [박종명](http://m.mkexdev.net/)
 * [방준영](http://bangjunyoung.blogspot.kr/) - Java
 * [배기홍](http://www.thestartupbible.com/) - IT 칼럼
+* [배성혁](http://debop.tumblr.com/) - 스칼라
 * [백기선](http://whiteship.me/) - Java
 * [범이](http://blog.daum.net/funfunction) - FP
 * [변정훈](http://blog.outsider.ne.kr/) - 웹
@@ -127,8 +130,10 @@
 * [전희원(고감자)](http://freesearch.pe.kr/) - 빅데이터
 * [정도현](http://www.moreagile.net/) - 개발방법론
 * [정재화](http://blrunner.com/) - 타조 커미터. 하둡
+* [정재훈](http://uzys.net/)
 * [정상혁](http://blog.benelog.net/) - Java
 * [정성태](http://www.sysnet.pe.kr/) - 닷넷
+* [정윤원](http://youknowone.github.io/) - IOS
 * [정지훈](http://health20.kr/) - IT 역사, 미래 트렌드
 * [조대협(bcho)](http://bcho.tistory.com/) - Java
 * [조성문](http://sungmooncho.com/) - 실리콘밸리
@@ -138,9 +143,12 @@
 
 ### ㅊ
 
+* [차준범](http://khanrc.tistory.com/)
 * [채수원](http://blog.doortts.com/)
 * [최백준](http://www.baekjoon.com/) - 알고리즘
 * [최범균](http://javacan.tistory.com/) - Java
+* [최성재](http://yumere.tistory.com/)
+* [최준건](http://junegunn.kr/) - 다음카카오
 * [최흥배](http://jacking.tistory.com/) - C++
 
 ### ㅎ
@@ -169,6 +177,7 @@
 * [버즈니](http://engineering.buzzni.com/)
 * [삼성소프트웨어멤버십](http://blog.secmem.org/)
 * [스타일쉐어](http://styleshare.github.io/)
+* [슬로우뉴스](http://slownews.kr/category/tech)
 * [아이디인큐](http://blogs.idincu.com/dev/)
 * [알스퀘어](http://dev.rsquare.co.kr/)
 * [에이콘](http://www.acornpub.co.kr/blog) - 책
@@ -183,12 +192,14 @@
 * [코딩뉴스](http://www.codingnews.net/)
 * [클리어보스](http://www.clearboth.org/)
 * [테크수다](http://www.techsuda.com/)
+* [테크홀릭](http://techholic.co.kr/)
 * [티몬](http://tmondev.blog.me/)
 * [한국게임기획자모임](http://gameplanner.cafe24.com/) - 전동주
 * [한빛네트워크](http://www.hanbit.co.kr/network/)
 * [dogfeet](http://dogfeet.github.io/) - 박창우, 이신, 최용재
 * [eBrain Blog](http://www.ebrain.kr/category/blogs/) - HR
 * [Google](http://googledevkr.blogspot.kr/)
+* [IT월드](http://www.itworld.co.kr/)
 * [Mozilla Hack](http://hacks.mozilla.or.kr/), [Mozilla Developer](https://developer.mozilla.org/ko/)
 * [SLiPP](http://slipp.net/) - 박재성, 김현기, 오진우
 * [Spoqa](http://spoqa.github.io/)
@@ -198,8 +209,12 @@
 
 ## 국외 개인 사이트
 
+* [Andy Hunt](http://andy.pragprog.com/) - 실용주의 프로그래머, 프로그래밍 루비 공저
 * [Bram Cohen](http://bramcohen.com/) - 비트토렌트 창시자
+* [Chad Fowler](http://chadfowler.com/) - Rails Recipes 저자
+* [Dan Webb](http://danwebb.net/) - 프론트엔드 개발자
 * [David Thomas](http://pragdave.me/) - 실용주의 프로그래머 공저. Elixir 언어.
+* [Eric A. Meyer](http://meyerweb.com/)
 * [James D Bloom](http://blog.jamesdbloom.com/) - JVM
 * [Jeff Atwood](http://blog.codinghorror.com/) - 스택오버플로 주인장
 * [Joel Spolsky](http://www.joelonsoftware.com/) - 조엘온소프트웨어 저자. 개발방법론.
@@ -214,6 +229,8 @@
 * [Code as Craft(Andrew Johnson)](https://codeascraft.com/)
 * [Comunications of the ACM](http://cacm.acm.org/blogs/about-the-blogs)
 * [Dropbox Tech Blog](https://blogs.dropbox.com/tech/)
+* [DZone](https://dzone.com/)
+* [Facebook Code](https://code.facebook.com/)
 * [Facebook Developers](https://www.facebook.com/FacebookDevelopers)
 * [Github Engineering](http://githubengineering.com/)
 * [Go Language](http://blog.golang.org/) - Go
