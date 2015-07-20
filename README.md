@@ -78,6 +78,7 @@
 * [박영록](http://youngrok.com/) - 위키나무
 * [박일](http://parkpd.egloos.com/) - 게임 개발
 * [박재성(자바지기)](http://javajigi.net/) - Java
+* [박재호](http://jhrogue.blogspot.kr/)
 * [박정규](http://bagjunggyu.blogspot.kr/) - 리눅스
 * [박종명](http://m.mkexdev.net/)
 * [박현우](http://lqez.github.io/)
@@ -129,6 +130,7 @@
 * [이일희(제닉스)](http://nixsense.net/) - IT 리뷰
 * [이재홍](http://pyrasis.com/) - Go
 * [이지훈](http://jihoonl.notemywish.com/)
+* [이흥섭](http://subl.ee/) - 게임
 * [임지훈](http://www.jimmyrim.com/) - 스타트업 투자
 
 ### ㅈ
@@ -158,9 +160,11 @@
 
 * [차준범](http://khanrc.tistory.com/)
 * [채수원](http://blog.doortts.com/)
+* [최건우](http://blog.hardtack.me/)
 * [최백준](http://www.baekjoon.com/) - 알고리즘
 * [최범균](http://javacan.tistory.com/) - Java
 * [최성재](http://yumere.tistory.com/)
+* [최재훈](http://andromedarabbit.net/)
 * [최종찬](http://blog.0xabcdef.com/)
 * [최준건](http://junegunn.kr/) - 다음카카오
 * [최흥배](http://jacking.tistory.com/) - C++
@@ -171,7 +175,8 @@
 * [한승훈(kkamagui)](http://kkamagui.tistory.com/) - OS
 * [한영빈](https://youngbin.tk/)
 * [한정현](http://www.kazikai.net/)
-* [허준회(주네)](https://joone.wordpress.com/)
+* [허재위](http://import.re/)
+* [허준회(주네)](https://joone.wordpress.com/), [허준회(주네)](http://www.joone.net/)
 * [홍민희(dahlia)](http://hongminhee.org/)
 * [홍성철](http://blog.fupfin.com/) - 함수형 언어
 * [홍영택](hackerwins.github.io/) - 다음카카오
@@ -189,6 +194,7 @@
 * [네이버](http://helloworld.naver.com/)
 * [넥스트리](http://www.nextree.co.kr/)
 * [다음 DNA Lens](http://dna.daum.net/lens/)
+* [달리웍스](http://techblog.daliworks.net/)
 * [독립 개발자 네트워크](https://indidev.net/) - C/C++
 * [버즈니](http://engineering.buzzni.com/)
 * [삼성소프트웨어멤버십](http://blog.secmem.org/)
