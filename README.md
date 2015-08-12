@@ -57,6 +57,7 @@
 ### ㄴ
 
 * [남정현](http://www.rkttu.com/) - 클라우드
+* [남주명](http://namjmnam.blog.me/) - 보안
 * [노용환](http://bugsfixed.blogspot.kr/), [노용환](http://somma.egloos.com/) - 윈도우즈 커널
 * [노재민](http://korsnack.kr/)
 
@@ -123,6 +124,7 @@
 * [이도현](http://genesis8.tistory.com/)
 * [이병준](http://www.buggymind.com/)
 * [이상욱](http://yisangwook.tumblr.com/) - 아키텍처 분석
+* [이상주](http://surpreem.com/)
 * [이성규](http://www.shalomeir.com/)
 * [이성호](http://blog.scaloid.org/) - 스칼라, 안드로이드
 * [이세우](http://blog.xcoda.net/)
@@ -132,6 +134,7 @@
 * [이지훈](http://jihoonl.notemywish.com/)
 * [이흥섭](http://subl.ee/) - 게임
 * [임지훈](http://www.jimmyrim.com/) - 스타트업 투자
+* [Kevin Lee](https://lckymn.com/about-kevin) - 자바
 
 ### ㅈ
 
@@ -191,8 +194,10 @@
 
 * [가비아 프론트엔드 개발팀](http://gabia-frontend-dev.com/) - 웹
 * [게임개발 포에버](http://gamedevforever.com/) - 포프, 친절한티스, 알콜코더 민군
+* [나는 프로그래머다](http://iamprogrammer.io/) - 임작가, 데니스, 정개발
 * [네이버](http://helloworld.naver.com/)
 * [넥스트리](http://www.nextree.co.kr/)
+* [넷매니아즈](http://www.netmanias.com/ko/)
 * [다음 DNA Lens](http://dna.daum.net/lens/)
 * [달리웍스](http://techblog.daliworks.net/)
 * [독립 개발자 네트워크](https://indidev.net/) - C/C++
@@ -200,11 +205,13 @@
 * [삼성소프트웨어멤버십](http://blog.secmem.org/)
 * [스타일쉐어](http://styleshare.github.io/)
 * [슬로우뉴스](http://slownews.kr/category/tech)
+* [시스코](http://ciscokrblog.com/)
 * [아이디인큐](http://blogs.idincu.com/dev/)
 * [알스퀘어](http://dev.rsquare.co.kr/)
 * [에이콘](http://www.acornpub.co.kr/blog) - 책
 * [엔씨소프트](http://blog.ncsoft.com/)
 * [엠비안](http://blog.embian.com/)
+* [오픈튜토리얼스](https://opentutorials.org/)
 * [위클립스](http://eclipse.or.kr/) - 이클립스. 지율.
 * [이상한모임](http://blog.weirdx.io/)
 * [이음소시어스](http://bigmatch.i-um.net/)
@@ -222,6 +229,7 @@
 * [eBrain Blog](http://www.ebrain.kr/category/blogs/) - HR
 * [Google](http://googledevkr.blogspot.kr/)
 * [IT월드](http://www.itworld.co.kr/)
+* [LG CNS](http://blog.lgcns.com/)
 * [Mozilla Hack](http://hacks.mozilla.or.kr/), [Mozilla Developer](https://developer.mozilla.org/ko/)
 * [SLiPP](http://slipp.net/) - 박재성, 김현기, 오진우
 * [Spoqa](http://spoqa.github.io/)
