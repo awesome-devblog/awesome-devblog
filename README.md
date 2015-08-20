@@ -96,6 +96,7 @@
 * [서광열](http://gamecodingschool.org/) - 게임 개발
 * [서주영](http://seoz.com/) - 타이젠
 * [손영수(arload)](https://arload.wordpress.com/) - 개발방법론, Android
+* [송영환](https://purluno.wordpress.com/) - Akka
 * [송성광](http://saltfactory.net/)
 * [송주성(빈꿈)](http://emptydream.tistory.com/) - IT 칼럼
 * [신승환](http://www.talk-with-hani.com/)
@@ -139,6 +140,7 @@
 ### ㅈ
 
 * [장선진](http://blog.java2game.com/)
+* [장성민](http://www.jangkunblog.com/) - 웹접근성
 * [장요셉](http://lastmind.net/)
 * [장용석](http://devyongsik.tistory.com/)
 * [장혜식](http://openlook.org/wp/) - 빅데이터
@@ -157,6 +159,7 @@
 * [조성문](http://sungmooncho.com/) - 실리콘밸리
 * [조승연](http://kivol.net/) - 칼럼
 * [조영호](http://aeternum.egloos.com/)
+* [조현진](http://resistan.com/) - 웹접근성
 * [진성주](http://softwaregeeks.org/) - 오픈소스
 
 ### ㅊ
@@ -189,8 +192,11 @@
 * [황석주](http://dolppi.egloos.com/) - 금융공학
 * [히언](http://recipes.egloos.com/) - 하드웨어
 * [현승](http://iam-hs.com/) - 리버싱
+* [현준호](https://jhyun.wordpress.com/) - 웹접근성
 
 ## 국내 팀 사이트
+
+### ㄱ-ㅅ
 
 * [가비아 프론트엔드 개발팀](http://gabia-frontend-dev.com/) - 웹
 * [게임개발 포에버](http://gamedevforever.com/) - 포프, 친절한티스, 알콜코더 민군
@@ -206,11 +212,15 @@
 * [스타일쉐어](http://styleshare.github.io/)
 * [슬로우뉴스](http://slownews.kr/category/tech)
 * [시스코](http://ciscokrblog.com/)
+
+### ㅇ-ㅎ
+
 * [아이디인큐](http://blogs.idincu.com/dev/)
 * [알스퀘어](http://dev.rsquare.co.kr/)
 * [에이콘](http://www.acornpub.co.kr/blog) - 책
 * [엔씨소프트](http://blog.ncsoft.com/)
 * [엠비안](http://blog.embian.com/)
+* [오픈넷](http://opennet.or.kr/) - 웹접근성
 * [오픈튜토리얼스](https://opentutorials.org/)
 * [위클립스](http://eclipse.or.kr/) - 이클립스. 지율.
 * [이상한모임](http://blog.weirdx.io/)
@@ -222,9 +232,13 @@
 * [클리어보스](http://www.clearboth.org/)
 * [테크수다](http://www.techsuda.com/)
 * [테크홀릭](http://techholic.co.kr/)
-* [티몬](http://tmondev.blog.me/)
+* [티켓몬스터](http://tmondev.blog.me/)
 * [한국게임기획자모임](http://gameplanner.cafe24.com/) - 전동주
 * [한빛네트워크](http://www.hanbit.co.kr/network/)
+
+### A-Z
+
+* [CIO](http://www.ciokorea.com/)
 * [dogfeet](http://dogfeet.github.io/) - 박창우, 이신, 최용재
 * [eBrain Blog](http://www.ebrain.kr/category/blogs/) - HR
 * [Google](http://googledevkr.blogspot.kr/)
@@ -239,6 +253,7 @@
 
 ## 국외 개인 사이트
 
+* [Adam Bien](http://www.adam-bien.com/roller/abien/) - Real World Java EE Patterns 저자
 * [Andy Hunt](http://andy.pragprog.com/) - 실용주의 프로그래머, 프로그래밍 루비 공저
 * [Bram Cohen](http://bramcohen.com/) - 비트토렌트 창시자
 * [Chad Fowler](http://chadfowler.com/) - Rails Recipes 저자
@@ -268,8 +283,11 @@
 * [Java Code Geek](http://www.javacodegeeks.com/)
 * [Java World](http://www.javaworld.com/) - Java
 * [jGuru](http://www.jguru.com/) - Java
+* [Javarevisited](http://javarevisited.blogspot.sg/) - Java
 * [Netflix Tech Blog](http://techblog.netflix.com/)
+* [OpenCredo](https://www.opencredo.com/blog/) - Java
 * [Prismatik](https://blog.prismatik.com.au/)
+* [Riot Games Engineering](http://engineering.riotgames.com/) - Game
 * [Rust Language](http://blog.rust-lang.org/) - Rust
 * [Takipi blog](http://blog.takipi.com/)
 * [Toptal Engineering Blog](http://www.toptal.com/blog)
