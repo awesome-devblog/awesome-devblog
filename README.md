@@ -10,6 +10,7 @@
 * [강대명](https://charsyam.wordpress.com/) - 서버 사이드
 * [강성훈](http://mearie.org/)
 * [강성희](https://medium.com/@shaynekang)
+* [고형호](http://hhko.tistory.com/) - Functional Programming
 * [구교준](http://danielku.com/)
 * [구종만](http://theyearlyprophet.com/) - 알고리즘
 * [권남](http://kwon37xi.egloos.com/) - Java
@@ -52,6 +53,7 @@
 * [김포프](http://kblog.popekim.com/)
 * [김현유(미키김)](http://www.mickeykim.com/) - 구글
 * [김형준](http://www.gisdeveloper.co.kr/) - GIS
+* [김화수](http://flowerexcel.tistory.com/) - C++
 * [김환희](http://greentec.egloos.com/) - 게임개발
 
 ### ㄴ
@@ -114,6 +116,7 @@
 * [오동권](http://www.flowdas.com/)
 * [오현석](http://www.enshahar.me/) - 스칼라, 스위프트
 * [용현택](http://yonght.tumblr.com/)
+* [우준혁](http://blog.sarojaba.com/)
 * [유동곤](http://blog.naver.com/ehdrhs1004) - C++
 * [유차영](https://yous.be/)
 * [윤상배](http://www.joinc.co.kr/) - 위키
@@ -132,6 +135,7 @@
 * [이윤창](http://daddycat.blogspot.kr/)
 * [이일희(제닉스)](http://nixsense.net/) - IT 리뷰
 * [이재홍](http://pyrasis.com/) - Go
+* [이준행](blog.rainygirl.com)
 * [이지훈](http://jihoonl.notemywish.com/)
 * [이흥섭](http://subl.ee/) - 게임
 * [임지훈](http://www.jimmyrim.com/) - 스타트업 투자
@@ -157,6 +161,7 @@
 * [정창훈](http://seapy.com/)
 * [조대협(bcho)](http://bcho.tistory.com/) - Java
 * [조성문](http://sungmooncho.com/) - 실리콘밸리
+* [조수현](http://sapzapee.tistory.com/) - 자료구조
 * [조승연](http://kivol.net/) - 칼럼
 * [조영호](http://aeternum.egloos.com/)
 * [조현진](http://resistan.com/) - 웹접근성
@@ -226,6 +231,7 @@
 * [이상한모임](http://blog.weirdx.io/)
 * [이음소시어스](http://bigmatch.i-um.net/)
 * [인사이트](http://www.insightbook.co.kr/) - 책
+* [제이펍](http://jpub.tistory.com/) - 책
 * [지디넷 코리아](http://www.zdnet.co.kr/)
 * [카이스트 Applied Algorithm Lab.](http://aalog.tistory.com/)
 * [코딩뉴스](http://www.codingnews.net/)
@@ -261,18 +267,23 @@
 * [David Thomas](http://pragdave.me/) - 실용주의 프로그래머 공저. Elixir 언어.
 * [Eric A. Meyer](http://meyerweb.com/)
 * [James D Bloom](http://blog.jamesdbloom.com/) - JVM
+* [James Gosling](http://nighthacks.com/roller/jag/) - Java 창시자
 * [Jeff Atwood](http://blog.codinghorror.com/) - 스택오버플로 주인장
+* [Jeff Langr](http://langrsoft.com/jeff/) - 지금길로 빠르게 배울 수 있는 자바 저자
 * [Joel Spolsky](http://www.joelonsoftware.com/) - 조엘온소프트웨어 저자. 개발방법론.
 * [John Resig](http://ejohn.org/) - jQuery 창시자. 칸 아카데미 개발자.
 * [Lars Vogell](http://www.vogella.com/) - 이클립스 커미터
+* [Mark Otto](http://markdotto.com/) - Bootstrap 창시자. 디자이너.
 * [Martin Fowler](http://martinfowler.com/) - 리팩토링 창시자
 * [Scott Hanselman](http://www.hanselman.com/) - ASP.NET
+* [Stephen Colebourne](http://blog.joda.org/) - Joda-Time 창시자
 
 ## 국외 팀 사이트
 
 * [A list apart](http://alistapart.com/) - Web
 * [Code as Craft(Andrew Johnson)](https://codeascraft.com/)
 * [Comunications of the ACM](http://cacm.acm.org/blogs/about-the-blogs)
+* [Dr.Dobb's](http://www.drdobbs.com/blogs/)
 * [Dropbox Tech Blog](https://blogs.dropbox.com/tech/)
 * [DZone](https://dzone.com/)
 * [Facebook Code](https://code.facebook.com/)
@@ -284,7 +295,10 @@
 * [Java World](http://www.javaworld.com/) - Java
 * [jGuru](http://www.jguru.com/) - Java
 * [Javarevisited](http://javarevisited.blogspot.sg/) - Java
+* [MySQL](http://dev.mysql.com/)
 * [Netflix Tech Blog](http://techblog.netflix.com/)
+* [New Relic](https://blog.newrelic.com/)
+* [Nordic API](http://nordicapis.com/blog/) - Java, Scala, Spark
 * [OpenCredo](https://www.opencredo.com/blog/) - Java
 * [Prismatik](https://blog.prismatik.com.au/)
 * [Riot Games Engineering](http://engineering.riotgames.com/) - Game
