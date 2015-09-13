@@ -10,6 +10,7 @@
 * [강대명](https://charsyam.wordpress.com/) - 서버 사이드
 * [강성훈](http://mearie.org/)
 * [강성희](https://medium.com/@shaynekang)
+* [강진우](https://brunch.co.kr/@alden) - Linux
 * [고형호](http://hhko.tistory.com/) - Functional Programming
 * [구교준](http://danielku.com/)
 * [구종만](http://theyearlyprophet.com/) - 알고리즘
@@ -26,6 +27,7 @@
 * [김민수](http://www.kmshack.kr/) - 안드로이드
 * [김민장](http://minjang.egloos.com/) - 컴퓨터 아키텍처
 * [김범준](http://bomjun.tistory.com/)
+* [김범진](https://medium.com/@beejei)
 * [김병환](http://kimbyeonghwan.tumblr.com/) - UX
 * [김성현](http://greemate.tistory.com/) - 윈도우즈 커널
 * [김성호](http://raccoonyy.github.io/)
@@ -60,6 +62,7 @@
 
 * [남정현](http://www.rkttu.com/) - 클라우드
 * [남주명](http://namjmnam.blog.me/) - 보안
+* [노상범](https://medium.com/@sbroh)
 * [노용환](http://bugsfixed.blogspot.kr/), [노용환](http://somma.egloos.com/) - 윈도우즈 커널
 * [노재민](http://korsnack.kr/)
 
@@ -101,10 +104,12 @@
 * [송영환](https://purluno.wordpress.com/) - Akka
 * [송성광](http://saltfactory.net/)
 * [송주성(빈꿈)](http://emptydream.tistory.com/) - IT 칼럼
+* [송준현](https://medium.com/@it_sjh9973)
 * [신승환](http://www.talk-with-hani.com/)
 * [신영진](http://www.jiniya.net/) - 보안
 * [신현묵](http://zetlos.tistory.com/)
 * [신현석](http://hyeonseok.com/) - 웹
+* [신현식](https://medium.com/ics-lab)
 
 ### ㅇ
 
@@ -129,6 +134,7 @@
 * [이병준](http://www.buggymind.com/)
 * [이상욱](http://yisangwook.tumblr.com/) - 아키텍처 분석
 * [이상주](http://surpreem.com/)
+* [이선협](https://medium.com/sunhyoups-story)
 * [이성규](http://www.shalomeir.com/)
 * [이성호](http://blog.scaloid.org/) - 스칼라, 안드로이드
 * [이세우](http://blog.xcoda.net/)
@@ -137,6 +143,7 @@
 * [이재홍](http://pyrasis.com/) - Go
 * [이준행](blog.rainygirl.com)
 * [이지훈](http://jihoonl.notemywish.com/)
+* [이충영](https://medium.com/@wangmul)
 * [이흥섭](http://subl.ee/) - 게임
 * [임지훈](http://www.jimmyrim.com/) - 스타트업 투자
 * [Kevin Lee](https://lckymn.com/about-kevin) - 자바
@@ -156,6 +163,7 @@
 * [정재훈](http://uzys.net/)
 * [정상혁](http://blog.benelog.net/) - Java
 * [정성태](http://www.sysnet.pe.kr/) - 닷넷
+* [정윤성](http://sadang-hobbits.github.io/) - Rust
 * [정윤원](http://youknowone.github.io/) - IOS
 * [정지훈](http://health20.kr/) - IT 역사, 미래 트렌드
 * [정창훈](http://seapy.com/)
@@ -182,14 +190,17 @@
 
 ### ㅎ
 
+* [하동우](https://medium.com/@cookatrice)
 * [하호진(Mimul)](http://www.mimul.com/) - 칼럼
 * [한승훈(kkamagui)](http://kkamagui.tistory.com/) - OS
 * [한영빈](https://youngbin.tk/)
 * [한정현](http://www.kazikai.net/)
+* [한주영](https://medium.com/@jooyunghan)
 * [허재위](http://import.re/)
 * [허준회(주네)](https://joone.wordpress.com/), [허준회(주네)](http://www.joone.net/)
 * [홍민희(dahlia)](http://hongminhee.org/)
 * [홍성철](http://blog.fupfin.com/) - 함수형 언어
+* [홍성철](https://medium.com/@sungcheulhong)
 * [홍영택](hackerwins.github.io/) - 다음카카오
 * [황장호](http://xrath.com/)
 * [황병선](http://www.futurewalker.kr/) - IT 칼럼
@@ -271,10 +282,12 @@
 * [Jeff Atwood](http://blog.codinghorror.com/) - 스택오버플로 주인장
 * [Jeff Langr](http://langrsoft.com/jeff/) - 지금길로 빠르게 배울 수 있는 자바 저자
 * [Joel Spolsky](http://www.joelonsoftware.com/) - 조엘온소프트웨어 저자. 개발방법론.
+* [John Mumm](http://jtfmumm.com/blog/)
 * [John Resig](http://ejohn.org/) - jQuery 창시자. 칸 아카데미 개발자.
 * [Lars Vogell](http://www.vogella.com/) - 이클립스 커미터
 * [Mark Otto](http://markdotto.com/) - Bootstrap 창시자. 디자이너.
 * [Martin Fowler](http://martinfowler.com/) - 리팩토링 창시자
+* [Nicolai Parlog](http://blog.codefx.org/) - Java
 * [Scott Hanselman](http://www.hanselman.com/) - ASP.NET
 * [Stephen Colebourne](http://blog.joda.org/) - Joda-Time 창시자
 
@@ -302,6 +315,9 @@
 * [OpenCredo](https://www.opencredo.com/blog/) - Java
 * [Prismatik](https://blog.prismatik.com.au/)
 * [Riot Games Engineering](http://engineering.riotgames.com/) - Game
+* [RisingStack](https://blog.risingstack.com/)
 * [Rust Language](http://blog.rust-lang.org/) - Rust
+* [Scalac](http://blog.scalac.io/) - Scala, Akka
+* [Stack Builder](http://www.stackbuilders.com/)
 * [Takipi blog](http://blog.takipi.com/)
 * [Toptal Engineering Blog](http://www.toptal.com/blog)
