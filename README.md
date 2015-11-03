@@ -308,6 +308,7 @@
 * [Java World](http://www.javaworld.com/) - Java
 * [jGuru](http://www.jguru.com/) - Java
 * [Javarevisited](http://javarevisited.blogspot.sg/) - Java
+* [LINE](http://developers.linecorp.com/blog/)
 * [MySQL](http://dev.mysql.com/)
 * [Netflix Tech Blog](http://techblog.netflix.com/)
 * [New Relic](https://blog.newrelic.com/)
