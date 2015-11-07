@@ -79,6 +79,7 @@
 
 * [박경훈(HOONS)](http://hoonsbara.tistory.com/) - 닷넷
 * [박민근(알콜코더)](http://blog.naver.com/agebreak) - 게임 개발
+* [박민우](http://earlybird.kr/) - Realm
 * [박상길](http://likejazz.com/)
 * [박상민](https://sangminpark.wordpress.com/)
 * [박영록](http://youngrok.com/) - 위키나무
@@ -107,6 +108,7 @@
 * [송준현](https://medium.com/@it_sjh9973)
 * [신승환](http://www.talk-with-hani.com/)
 * [신영진](http://www.jiniya.net/) - 보안
+* [신용윤](http://uni2u.tistory.com/) - 네트워크
 * [신현묵](http://zetlos.tistory.com/)
 * [신현석](http://hyeonseok.com/) - 웹
 * [신현식](https://medium.com/ics-lab)
@@ -122,6 +124,7 @@
 * [오현석](http://www.enshahar.me/) - 스칼라, 스위프트
 * [용현택](http://yonght.tumblr.com/)
 * [우준혁](http://blog.sarojaba.com/)
+* [위현종](http://jasonwi.com/) - 스타트업
 * [유동곤](http://blog.naver.com/ehdrhs1004) - C++
 * [유차영](https://yous.be/)
 * [윤상배](http://www.joinc.co.kr/) - 위키
@@ -136,6 +139,7 @@
 * [이상주](http://surpreem.com/)
 * [이선협](https://medium.com/sunhyoups-story)
 * [이성규](http://www.shalomeir.com/)
+* [이성몽](http://blog.naver.com/santalsm) - 기술사
 * [이성호](http://blog.scaloid.org/) - 스칼라, 안드로이드
 * [이세우](http://blog.xcoda.net/)
 * [이윤창](http://daddycat.blogspot.kr/)
@@ -248,6 +252,7 @@
 * [코딩뉴스](http://www.codingnews.net/)
 * [클리어보스](http://www.clearboth.org/)
 * [테크수다](http://www.techsuda.com/)
+* [테크엠](http://www.techm.kr/home/) - IT
 * [테크홀릭](http://techholic.co.kr/)
 * [티켓몬스터](http://tmondev.blog.me/)
 * [한국게임기획자모임](http://gameplanner.cafe24.com/) - 전동주
@@ -274,6 +279,7 @@
 * [Andy Hunt](http://andy.pragprog.com/) - 실용주의 프로그래머, 프로그래밍 루비 공저
 * [Bram Cohen](http://bramcohen.com/) - 비트토렌트 창시자
 * [Chad Fowler](http://chadfowler.com/) - Rails Recipes 저자
+* [Cristian Esquivias](http://cesquivias.github.io/) - Java, Truffle
 * [Dan Webb](http://danwebb.net/) - 프론트엔드 개발자
 * [David Thomas](http://pragdave.me/) - 실용주의 프로그래머 공저. Elixir 언어.
 * [Eric A. Meyer](http://meyerweb.com/)
@@ -287,7 +293,9 @@
 * [Lars Vogell](http://www.vogella.com/) - 이클립스 커미터
 * [Mark Otto](http://markdotto.com/) - Bootstrap 창시자. 디자이너.
 * [Martin Fowler](http://martinfowler.com/) - 리팩토링 창시자
+* [Mike Gouline](https://blog.gouline.net/)
 * [Nicolai Parlog](http://blog.codefx.org/) - Java
+* [Paul Bakker](http://paulbakker.io/) - Modular Cloud Apps with OSGI 저자
 * [Scott Hanselman](http://www.hanselman.com/) - ASP.NET
 * [Stephen Colebourne](http://blog.joda.org/) - Joda-Time 창시자
 
@@ -308,6 +316,7 @@
 * [Java World](http://www.javaworld.com/) - Java
 * [jGuru](http://www.jguru.com/) - Java
 * [Javarevisited](http://javarevisited.blogspot.sg/) - Java
+* [JetBrains Blog](http://blog.jetbrains.com/)
 * [LINE](http://developers.linecorp.com/blog/)
 * [MySQL](http://dev.mysql.com/)
 * [Netflix Tech Blog](http://techblog.netflix.com/)
@@ -318,6 +327,7 @@
 * [Riot Games Engineering](http://engineering.riotgames.com/) - Game
 * [RisingStack](https://blog.risingstack.com/)
 * [Rust Language](http://blog.rust-lang.org/) - Rust
+* [Samsung Mobile Security Blog](http://security.samsungmobile.com/)
 * [Scalac](http://blog.scalac.io/) - Scala, Akka
 * [Stack Builder](http://www.stackbuilders.com/)
 * [Takipi blog](http://blog.takipi.com/)
