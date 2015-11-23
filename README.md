@@ -34,6 +34,7 @@
 * [김성훈](http://www.se.or.kr/) - 학교 생활
 * [김수보](https://subokim.wordpress.com/) - IT 칼럼
 * [김슬기](http://blog.seulgi.kim/) - 서울대생
+* [김용균](http://haruair.com/) - 웹
 * [김용묵](http://moogi.new21.org/) - 한글 언어, C++
 * [김용환](http://knight76.tistory.com/)
 * [김용현](http://blog.naver.com/drvoss) - C++
@@ -52,6 +53,7 @@
 * [김태균](http://blog.gaerae.com/)
 * [김태기](https://beyondj2ee.wordpress.com/) -Java
 * [김태호](http://androidhuman.com/) - 안드로이드
+* [김태헌](https://brunch.co.kr/@myte) - 해외 취업
 * [김포프](http://kblog.popekim.com/)
 * [김현유(미키김)](http://www.mickeykim.com/) - 구글
 * [김형준](http://www.gisdeveloper.co.kr/) - GIS
@@ -115,6 +117,7 @@
 
 ### ㅇ
 
+* [안성현](http://ash84.net/) - Python
 * [안윤호](http://toyfab.tistory.com/) - 마이크로 프로세서
 * [안종태](http://qnibus.com/) - iOS
 * [양병규](http://blog.naver.com/delmadang) - 칼럼
@@ -158,6 +161,7 @@
 * [장성민](http://www.jangkunblog.com/) - 웹접근성
 * [장요셉](http://lastmind.net/)
 * [장용석](http://devyongsik.tistory.com/)
+* [장현정](http://naleejang.tistory.com/) - OpenStack
 * [장혜식](http://openlook.org/wp/) - 빅데이터
 * [전규현](http://www.allofsoftware.net/)
 * [전동규](http://www.php5.me/)
@@ -329,6 +333,8 @@
 * [Rust Language](http://blog.rust-lang.org/) - Rust
 * [Samsung Mobile Security Blog](http://security.samsungmobile.com/)
 * [Scalac](http://blog.scalac.io/) - Scala, Akka
+* [SDxCentral](https://www.sdxcentral.com/) - SDx
 * [Stack Builder](http://www.stackbuilders.com/)
 * [Takipi blog](http://blog.takipi.com/)
+* [The New Stack](http://thenewstack.io/)
 * [Toptal Engineering Blog](http://www.toptal.com/blog)
