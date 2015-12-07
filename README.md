@@ -42,6 +42,7 @@
 * [김원일](http://androidkr.blogspot.kr/) - 안드로이드
 * [김재국](https://jaigouk.com/)
 * [김재호](http://www.benjaminlog.com/) - C++
+* [김지영](https://brunch.co.kr/@pubjinson) - Clojure
 * [김지현](http://hyeon.me/)
 * [김진국](http://forensic-proof.com/) - 포렌식
 * [김진욱](http://rein.kr/blog/)
@@ -75,6 +76,7 @@
 
 ### ㅁ
 
+* [마경욱](https://brunch.co.kr/@shwarzes) - 스타트업
 * [문형환](http://blog.lael.be/)
 
 ### ㅂ
@@ -84,6 +86,7 @@
 * [박민우](http://earlybird.kr/) - Realm
 * [박상길](http://likejazz.com/)
 * [박상민](https://sangminpark.wordpress.com/)
+* [박상훈](https://brunch.co.kr/@sanghoonpak) - 인도네시아 IT 소식
 * [박영록](http://youngrok.com/) - 위키나무
 * [박일](http://parkpd.egloos.com/) - 게임 개발
 * [박재성(자바지기)](http://javajigi.net/) - Java
@@ -95,6 +98,7 @@
 * [배기홍](http://www.thestartupbible.com/) - IT 칼럼
 * [배성혁](http://debop.tumblr.com/) - 스칼라
 * [백기선](http://whiteship.me/) - Java
+* [백명석](https://brunch.co.kr/@cleancode) - Java, OOP
 * [범이](http://blog.daum.net/funfunction) - FP
 * [변정훈](http://blog.outsider.ne.kr/) - 웹
 * [변수민](http://blog.suminb.com/)
@@ -102,6 +106,7 @@
 ### ㅅ
 
 * [서광열](http://gamecodingschool.org/) - 게임 개발
+* [서오석](https://brunch.co.kr/@elijah17) - Java
 * [서주영](http://seoz.com/) - 타이젠
 * [손영수(arload)](https://arload.wordpress.com/) - 개발방법론, Android
 * [송영환](https://purluno.wordpress.com/) - Akka
@@ -121,6 +126,7 @@
 * [안윤호](http://toyfab.tistory.com/) - 마이크로 프로세서
 * [안종태](http://qnibus.com/) - iOS
 * [양병규](http://blog.naver.com/delmadang) - 칼럼
+* [양지수](https://brunch.co.kr/@jisuyang) - IT 칼럼
 * [염재현](https://only2sea.wordpress.com/)
 * [오광신](http://kwangshin.pe.kr/) - 함수형 언어
 * [오동권](http://www.flowdas.com/)
@@ -166,6 +172,7 @@
 * [전규현](http://www.allofsoftware.net/)
 * [전동규](http://www.php5.me/)
 * [전희원(고감자)](http://freesearch.pe.kr/) - 빅데이터
+* [정광섭](https://www.lesstif.com/)
 * [정도현](http://www.moreagile.net/) - 개발방법론
 * [정재화](http://blrunner.com/) - 타조 커미터. 하둡
 * [정재훈](http://uzys.net/)
@@ -182,6 +189,7 @@
 * [조영호](http://aeternum.egloos.com/)
 * [조현진](http://resistan.com/) - 웹접근성
 * [진성주](http://softwaregeeks.org/) - 오픈소스
+* [진용진](https://brunch.co.kr/@yongjinjinipln) - IT 칼럼
 
 ### ㅊ
 
@@ -302,6 +310,7 @@
 * [Paul Bakker](http://paulbakker.io/) - Modular Cloud Apps with OSGI 저자
 * [Scott Hanselman](http://www.hanselman.com/) - ASP.NET
 * [Stephen Colebourne](http://blog.joda.org/) - Joda-Time 창시자
+* [Will McGugan](https://www.willmcgugan.com/) - Moya(no-Python Python Web Framework)
 
 ## 국외 팀 사이트
 
@@ -310,6 +319,7 @@
 * [Comunications of the ACM](http://cacm.acm.org/blogs/about-the-blogs)
 * [Dr.Dobb's](http://www.drdobbs.com/blogs/)
 * [Dropbox Tech Blog](https://blogs.dropbox.com/tech/)
+* [Durandal](http://blog.durandal.io/) - Web
 * [DZone](https://dzone.com/)
 * [Facebook Code](https://code.facebook.com/)
 * [Facebook Developers](https://www.facebook.com/FacebookDevelopers)
