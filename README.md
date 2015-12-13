@@ -102,6 +102,7 @@
 * [범이](http://blog.daum.net/funfunction) - FP
 * [변정훈](http://blog.outsider.ne.kr/) - 웹
 * [변수민](http://blog.suminb.com/)
+* [Steve Park](https://brunch.co.kr/@stevepark) - 미국 취업 성공기
 
 ### ㅅ
 
@@ -172,7 +173,7 @@
 * [전규현](http://www.allofsoftware.net/)
 * [전동규](http://www.php5.me/)
 * [전희원(고감자)](http://freesearch.pe.kr/) - 빅데이터
-* [정광섭](https://www.lesstif.com/)
+* [정광섭](https://www.lesstif.com/) - Linux
 * [정도현](http://www.moreagile.net/) - 개발방법론
 * [정재화](http://blrunner.com/) - 타조 커미터. 하둡
 * [정재훈](http://uzys.net/)
@@ -214,6 +215,7 @@
 * [한주영](https://medium.com/@jooyunghan)
 * [허재위](http://import.re/)
 * [허준회(주네)](https://joone.wordpress.com/), [허준회(주네)](http://www.joone.net/)
+* [홍길한](http://blog.naver.com/hgh73) - 워드프레스
 * [홍민희(dahlia)](http://hongminhee.org/)
 * [홍성철](http://blog.fupfin.com/) - 함수형 언어
 * [홍성철](https://medium.com/@sungcheulhong)
@@ -239,6 +241,7 @@
 * [다음 DNA Lens](http://dna.daum.net/lens/)
 * [달리웍스](http://techblog.daliworks.net/)
 * [독립 개발자 네트워크](https://indidev.net/) - C/C++
+* [모두의연구소 기술블로그](http://www.whydsp.org/)
 * [버즈니](http://engineering.buzzni.com/)
 * [삼성소프트웨어멤버십](http://blog.secmem.org/)
 * [스타일쉐어](http://styleshare.github.io/)
@@ -291,9 +294,11 @@
 * [Andy Hunt](http://andy.pragprog.com/) - 실용주의 프로그래머, 프로그래밍 루비 공저
 * [Bram Cohen](http://bramcohen.com/) - 비트토렌트 창시자
 * [Chad Fowler](http://chadfowler.com/) - Rails Recipes 저자
+* [Chris Ng](http://chrisrng.svbtle.com/) - Front-end
 * [Cristian Esquivias](http://cesquivias.github.io/) - Java, Truffle
 * [Dan Webb](http://danwebb.net/) - 프론트엔드 개발자
 * [David Thomas](http://pragdave.me/) - 실용주의 프로그래머 공저. Elixir 언어.
+* [Daniel Shiffman](http://shiffman.net/) - Processing
 * [Eric A. Meyer](http://meyerweb.com/)
 * [James D Bloom](http://blog.jamesdbloom.com/) - JVM
 * [James Gosling](http://nighthacks.com/roller/jag/) - Java 창시자
@@ -332,6 +337,7 @@
 * [Javarevisited](http://javarevisited.blogspot.sg/) - Java
 * [JetBrains Blog](http://blog.jetbrains.com/)
 * [LINE](http://developers.linecorp.com/blog/)
+* [Lua.Space](http://lua.space/) - Lua Community Blog
 * [MySQL](http://dev.mysql.com/)
 * [Netflix Tech Blog](http://techblog.netflix.com/)
 * [New Relic](https://blog.newrelic.com/)
