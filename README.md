@@ -11,6 +11,8 @@
 * [강성훈](http://mearie.org/)
 * [강성희](https://medium.com/@shaynekang)
 * [강진우](https://brunch.co.kr/@alden) - Linux
+* [고득녕](http://blog.naver.com/nackji80/) - 네트워크
+* [고재웅](https://jwgo.wordpress.com/) - IT 칼럼
 * [고형호](http://hhko.tistory.com/) - Functional Programming
 * [구교준](http://danielku.com/)
 * [구종만](http://theyearlyprophet.com/) - 알고리즘
@@ -127,6 +129,7 @@
 * [안윤호](http://toyfab.tistory.com/) - 마이크로 프로세서
 * [안종태](http://qnibus.com/) - iOS
 * [양병규](http://blog.naver.com/delmadang) - 칼럼
+* [양준철](https://brunch.co.kr/@promise4u) - 스타트업
 * [양지수](https://brunch.co.kr/@jisuyang) - IT 칼럼
 * [염재현](https://only2sea.wordpress.com/)
 * [오광신](http://kwangshin.pe.kr/) - 함수형 언어
@@ -244,6 +247,7 @@
 * [모두의연구소 기술블로그](http://www.whydsp.org/)
 * [버즈니](http://engineering.buzzni.com/)
 * [삼성소프트웨어멤버십](http://blog.secmem.org/)
+* [솔라나라](http://www.solanara.net/) - 솔라리스
 * [스타일쉐어](http://styleshare.github.io/)
 * [슬로우뉴스](http://slownews.kr/category/tech)
 * [시스코](http://ciscokrblog.com/)
@@ -279,6 +283,7 @@
 * [dogfeet](http://dogfeet.github.io/) - 박창우, 이신, 최용재
 * [eBrain Blog](http://www.ebrain.kr/category/blogs/) - HR
 * [Google](http://googledevkr.blogspot.kr/)
+* [IAMROOT](http://www.iamroot.org/) - 리눅스 커널 스터디 그룹
 * [IT월드](http://www.itworld.co.kr/)
 * [LG CNS](http://blog.lgcns.com/)
 * [Mozilla Hack](http://hacks.mozilla.or.kr/), [Mozilla Developer](https://developer.mozilla.org/ko/)
@@ -287,11 +292,13 @@
 * [SK 플래닛](http://readme.skplanet.com/)
 * [Tumblr](http://engineering.tumblr.com/)
 * [VCNC](http://engineering.vcnc.co.kr/)
+* [Web Framework](http://webframeworks.kr/)
 
 ## 국외 개인 사이트
 
 * [Adam Bien](http://www.adam-bien.com/roller/abien/) - Real World Java EE Patterns 저자
 * [Andy Hunt](http://andy.pragprog.com/) - 실용주의 프로그래머, 프로그래밍 루비 공저
+* [Armin Ronacher](http://lucumr.pocoo.org/) - Flask, Lektor 개발자
 * [Bram Cohen](http://bramcohen.com/) - 비트토렌트 창시자
 * [Chad Fowler](http://chadfowler.com/) - Rails Recipes 저자
 * [Chris Ng](http://chrisrng.svbtle.com/) - Front-end
