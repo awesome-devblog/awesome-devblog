@@ -56,6 +56,7 @@
 * [김태균](http://blog.gaerae.com/)
 * [김태기](https://beyondj2ee.wordpress.com/) -Java
 * [김태호](http://androidhuman.com/) - 안드로이드
+* [김태호](https://medium.com/@xissy) - 스타트업
 * [김태헌](https://brunch.co.kr/@myte) - 해외 취업
 * [김포프](http://kblog.popekim.com/)
 * [김현유(미키김)](http://www.mickeykim.com/) - 구글
@@ -96,6 +97,7 @@
 * [박정규](http://bagjunggyu.blogspot.kr/) - 리눅스
 * [박종명](http://m.mkexdev.net/)
 * [박현우](http://lqez.github.io/)
+* [박훈](http://1ambda.github.io/) - 함수형 언어
 * [방준영](http://bangjunyoung.blogspot.kr/) - Java
 * [배기홍](http://www.thestartupbible.com/) - IT 칼럼
 * [배성혁](http://debop.tumblr.com/) - 스칼라
@@ -191,6 +193,7 @@
 * [조수현](http://sapzapee.tistory.com/) - 자료구조
 * [조승연](http://kivol.net/) - 칼럼
 * [조영호](http://aeternum.egloos.com/)
+* [조인석](https://brunch.co.kr/@insuk) - SW 칼럼
 * [조현진](http://resistan.com/) - 웹접근성
 * [진성주](http://softwaregeeks.org/) - 오픈소스
 * [진용진](https://brunch.co.kr/@yongjinjinipln) - IT 칼럼
@@ -204,6 +207,7 @@
 * [최범균](http://javacan.tistory.com/) - Java
 * [최성재](http://yumere.tistory.com/)
 * [최재훈](http://andromedarabbit.net/)
+* [최종욱](http://johnwook.com/) - 웹
 * [최종찬](http://blog.0xabcdef.com/)
 * [최준건](http://junegunn.kr/) - 다음카카오
 * [최흥배](http://jacking.tistory.com/) - C++
@@ -257,6 +261,7 @@
 * [아이디인큐](http://blogs.idincu.com/dev/)
 * [알스퀘어](http://dev.rsquare.co.kr/)
 * [에이콘](http://www.acornpub.co.kr/blog) - 책
+* [에스엔티소프트](http://www.sntsoft.co.kr/)
 * [엔씨소프트](http://blog.ncsoft.com/)
 * [엠비안](http://blog.embian.com/)
 * [오픈넷](http://opennet.or.kr/) - 웹접근성
@@ -268,6 +273,7 @@
 * [제이펍](http://jpub.tistory.com/) - 책
 * [지디넷 코리아](http://www.zdnet.co.kr/)
 * [카이스트 Applied Algorithm Lab.](http://aalog.tistory.com/)
+* [커널스터디](http://kernelstudy.net/) - 리눅스 커널
 * [코딩뉴스](http://www.codingnews.net/)
 * [클리어보스](http://www.clearboth.org/)
 * [테크수다](http://www.techsuda.com/)
@@ -320,6 +326,7 @@
 * [Mike Gouline](https://blog.gouline.net/)
 * [Nicolai Parlog](http://blog.codefx.org/) - Java
 * [Paul Bakker](http://paulbakker.io/) - Modular Cloud Apps with OSGI 저자
+* [Robert C. Martin](http://blog.cleancoder.com/) - 클린 코드 저자
 * [Scott Hanselman](http://www.hanselman.com/) - ASP.NET
 * [Stephen Colebourne](http://blog.joda.org/) - Joda-Time 창시자
 * [Will McGugan](https://www.willmcgugan.com/) - Moya(no-Python Python Web Framework)
