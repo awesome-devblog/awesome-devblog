@@ -245,6 +245,7 @@
 * [게임개발 포에버](http://gamedevforever.com/) - 포프, 친절한티스, 알콜코더 민군
 * [나는 프로그래머다](http://iamprogrammer.io/) - 임작가, 데니스, 정개발
 * [네이버](http://helloworld.naver.com/)
+* [네이버 널리 블로그](http://nuli.navercorp.com/sharing/blog/main) - 웹 표준, 접근성
 * [넥스트리](http://www.nextree.co.kr/)
 * [넷매니아즈](http://www.netmanias.com/ko/)
 * [다음 DNA Lens](http://dna.daum.net/lens/)
