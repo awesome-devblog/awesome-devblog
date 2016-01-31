@@ -146,6 +146,7 @@
 * [윤석찬](http://channy.creation.net/) - 오픈웹
 * [윤영식](http://mobicon.tistory.com/)
 * [윤창석](http://changsuk.me/) - 다음카카오
+* [윤청하](https://brunch.co.kr/@brunch4nrs) - 구글러
 * [이경원](http://blog.woniper.net/) - Java
 * [이규원](https://justhackem.wordpress.com/)
 * [이도현](http://genesis8.tistory.com/)
@@ -177,6 +178,7 @@
 * [장혜식](http://openlook.org/wp/) - 빅데이터
 * [전규현](http://www.allofsoftware.net/)
 * [전동규](http://www.php5.me/)
+* [전호상](http://hosangjeon.com/) - 서버사이드
 * [전희원(고감자)](http://freesearch.pe.kr/) - 빅데이터
 * [정광섭](https://www.lesstif.com/) - Linux
 * [정도현](http://www.moreagile.net/) - 개발방법론
@@ -306,6 +308,7 @@
 * [Andy Hunt](http://andy.pragprog.com/) - 실용주의 프로그래머, 프로그래밍 루비 공저
 * [Armin Ronacher](http://lucumr.pocoo.org/) - Flask, Lektor 개발자
 * [Bram Cohen](http://bramcohen.com/) - 비트토렌트 창시자
+* [Brendan Eich](https://brendaneich.com/) - Javascript 창시자
 * [Chad Fowler](http://chadfowler.com/) - Rails Recipes 저자
 * [Chris Ng](http://chrisrng.svbtle.com/) - Front-end
 * [Cristian Esquivias](http://cesquivias.github.io/) - Java, Truffle
@@ -344,6 +347,7 @@
 * [Facebook Developers](https://www.facebook.com/FacebookDevelopers)
 * [Github Engineering](http://githubengineering.com/)
 * [Go Language](http://blog.golang.org/) - Go
+* [GVG-AI Competition](http://www.gvgai.net/) - AI
 * [InfoQ](http://www.infoq.com/)
 * [Java Code Geek](http://www.javacodegeeks.com/)
 * [Java World](http://www.javaworld.com/) - Java
@@ -368,3 +372,4 @@
 * [Takipi blog](http://blog.takipi.com/)
 * [The New Stack](http://thenewstack.io/)
 * [Toptal Engineering Blog](http://www.toptal.com/blog)
+* [Unity](http://blogs.unity3d.com/) - 3D Graphics
