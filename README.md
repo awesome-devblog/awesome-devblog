@@ -79,7 +79,7 @@
 
 ### ㅁ
 
-* [마경욱](https://brunch.co.kr/@shwarzes) - 스타트업
+* [마경욱](https://brunch.co.kr/@kyeongwook-ma) - 스타트업
 * [문형환](http://blog.lael.be/)
 
 ### ㅂ
