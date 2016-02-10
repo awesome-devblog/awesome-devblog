@@ -337,7 +337,12 @@
 
 ## 국외 팀 사이트
 
+### A-M
+
 * [A list apart](http://alistapart.com/) - Web
+* [Android Developers Blog](http://android-developers.blogspot.kr/)
+* [AutoCAD DevBlog](http://adndevblog.typepad.com/autocad/)
+* [BlackBerry Developer Blog](http://devblog.blackberry.com/)
 * [Code as Craft(Andrew Johnson)](https://codeascraft.com/)
 * [Comunications of the ACM](http://cacm.acm.org/blogs/about-the-blogs)
 * [Dr.Dobb's](http://www.drdobbs.com/blogs/)
@@ -348,6 +353,7 @@
 * [Facebook Developers](https://www.facebook.com/FacebookDevelopers)
 * [Github Engineering](http://githubengineering.com/)
 * [Go Language](http://blog.golang.org/) - Go
+* [Ghost Development Blog](https://dev.ghost.org/)
 * [GVG-AI Competition](http://www.gvgai.net/) - AI
 * [InfoQ](http://www.infoq.com/)
 * [Java Code Geek](http://www.javacodegeeks.com/)
@@ -357,12 +363,20 @@
 * [JetBrains Blog](http://blog.jetbrains.com/)
 * [LINE](http://developers.linecorp.com/blog/)
 * [Lua.Space](http://lua.space/) - Lua Community Blog
+* [Microsoft Edge Dev Blog](https://blogs.windows.com/msedgedev/)
+* [Microsoft Outlook Dev Blog](http://blogs.msdn.com/b/exchangedev/)
 * [MySQL](http://dev.mysql.com/)
+
+### N-Z
+
 * [Netflix Tech Blog](http://techblog.netflix.com/)
 * [New Relic](https://blog.newrelic.com/)
 * [Nordic API](http://nordicapis.com/blog/) - Java, Scala, Spark
 * [OpenCredo](https://www.opencredo.com/blog/) - Java
+* [Parrot Dev Blog](http://developer.parrot.com/blog/) - Drone
+* [PayPal Developer](https://devblog.paypal.com/)
 * [Prismatik](https://blog.prismatik.com.au/)
+* [Red Hat Developer Blog](http://developerblog.redhat.com/)
 * [Riot Games Engineering](http://engineering.riotgames.com/) - Game
 * [RisingStack](https://blog.risingstack.com/)
 * [Rust Language](http://blog.rust-lang.org/) - Rust
@@ -373,4 +387,5 @@
 * [Takipi blog](http://blog.takipi.com/)
 * [The New Stack](http://thenewstack.io/)
 * [Toptal Engineering Blog](http://www.toptal.com/blog)
+* [Uber Developer Blog](http://devblog.uber.com/)
 * [Unity](http://blogs.unity3d.com/) - 3D Graphics
