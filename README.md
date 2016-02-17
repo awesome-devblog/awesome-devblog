@@ -1,6 +1,9 @@
-# awesome-devblog
+## 목차
 
-개발자 사이트 모음
+- [국내 개인 사이트](https://github.com/sarojaba/awesome-devblog#%EA%B5%AD%EB%82%B4-%EA%B0%9C%EC%9D%B8-%EC%82%AC%EC%9D%B4%ED%8A%B8)
+- [국내 팀 사이트](https://github.com/sarojaba/awesome-devblog#%EA%B5%AD%EB%82%B4-%ED%8C%80-%EC%82%AC%EC%9D%B4%ED%8A%B8)
+- [국외 개인 사이트](https://github.com/sarojaba/awesome-devblog#%EA%B5%AD%EC%99%B8-%EA%B0%9C%EC%9D%B8-%EC%82%AC%EC%9D%B4%ED%8A%B8)
+- [국외 팀 사이트](https://github.com/sarojaba/awesome-devblog#%EA%B5%AD%EC%99%B8-%ED%8C%80-%EC%82%AC%EC%9D%B4%ED%8A%B8)
 
 ## 국내 개인 사이트
 
@@ -17,6 +20,7 @@
 * [구교준](http://danielku.com/)
 * [구종만](http://theyearlyprophet.com/) - 알고리즘
 * [권남](http://kwon37xi.egloos.com/) - Java
+* [권장표](http://willbesomething.com/) - 게임 기획
 * [권정혁](http://xguru.net/guru) - 개발 트렌드
 * [권창현](http://thoughts.chkwon.net/) - 산업공학
 * [김광현(광파리)](http://kwang82.hankyung.com/) - IT 소식
@@ -163,6 +167,7 @@
 * [이재홍](http://pyrasis.com/) - Go
 * [이준행](blog.rainygirl.com)
 * [이지훈](http://jihoonl.notemywish.com/)
+* [이진석](https://ask.festi.kr/) - Django
 * [이충영](https://medium.com/@wangmul)
 * [이흥섭](http://subl.ee/) - 게임
 * [임지훈](http://www.jimmyrim.com/) - 스타트업 투자
