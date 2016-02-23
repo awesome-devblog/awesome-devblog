@@ -48,7 +48,7 @@
 * [김원일](http://androidkr.blogspot.kr/) - 안드로이드
 * [김재국](https://jaigouk.com/)
 * [김재호](http://www.benjaminlog.com/) - C++
-* [김지영](https://brunch.co.kr/@pubjinson) - Clojure
+* [김지영](https://brunch.co.kr/@pubjinson)
 * [김지현](http://hyeon.me/)
 * [김진국](http://forensic-proof.com/) - 포렌식
 * [김진욱](http://rein.kr/blog/)
@@ -281,6 +281,7 @@
 * [제이펍](http://jpub.tistory.com/) - 책
 * [지디넷 코리아](http://www.zdnet.co.kr/)
 * [카이스트 Applied Algorithm Lab.](http://aalog.tistory.com/)
+* [카카오 기술 블로그](http://tech.kakao.com/)
 * [커널스터디](http://kernelstudy.net/) - 리눅스 커널
 * [코딩뉴스](http://www.codingnews.net/)
 * [클리어보스](http://www.clearboth.org/)
