@@ -29,6 +29,7 @@
 * [김대권](http://nacyot.com/)
 * [김대현](http://hatemogi.com/) - 백엔드
 * [김덕홍](http://insanehong.kr/)
+* [김도균](http://www.dokyun.pe.kr/)
 * [김명준](http://html5lab.kr/) - 프론트엔드
 * [김민수](http://www.kmshack.kr/) - 안드로이드
 * [김민장](http://minjang.egloos.com/) - 컴퓨터 아키텍처
@@ -80,6 +81,7 @@
 
 * [류광](http://occamsrazr.net/) - 번역
 * [류종택](http://ryulib.tistory.com/)
+* [류지형](http://www.jakemvc.com)
 
 ### ㅁ
 
