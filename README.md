@@ -116,7 +116,7 @@
 
 ### ㅅ
 
-* [서광열](http://gamecodingschool.org/) - 게임 개발
+* [서광열](https://github.com/sarojaba/awesome-devblog/blob/master/kwangyul.seo.md)([블로그](http://gamecodingschool.org/)) - 게임 개발
 * [서오석](https://brunch.co.kr/@elijah17) - Java
 * [서주영](http://seoz.com/) - 타이젠
 * [손영수(arload)](https://arload.wordpress.com/) - 개발방법론, Android
