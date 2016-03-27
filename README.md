@@ -18,7 +18,7 @@
 * [고재웅](https://jwgo.wordpress.com/) - IT 칼럼
 * [고형호](http://hhko.tistory.com/) - Functional Programming
 * [구교준](http://danielku.com/)
-* [구종만](http://theyearlyprophet.com/) - 알고리즘
+* [구종만](https://github.com/sarojaba/awesome-devblog/blob/master/theyearlyprophet.md)([블로그](http://theyearlyprophet.com/)) - 알고리즘
 * [권남](http://kwon37xi.egloos.com/) - Java
 * [권장표](http://willbesomething.com/) - 게임 기획
 * [권정혁](http://xguru.net/guru) - 개발 트렌드
