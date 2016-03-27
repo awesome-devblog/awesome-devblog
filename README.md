@@ -9,8 +9,8 @@
 
 ### ㄱ
 
-* [강규영](http://www.ecogwiki.com/)
-* [강대명](https://github.com/sarojaba/awesome-devblog/blob/master/charsyam.md)/[블로그](https://charsyam.wordpress.com/) - 서버 사이드
+* [강규영](https://github.com/sarojaba/awesome-devblog/blob/master/ecogwiki.md)([블로그](http://www.ecogwiki.com/))
+* [강대명](https://github.com/sarojaba/awesome-devblog/blob/master/charsyam.md)([블로그](https://charsyam.wordpress.com/)) - 서버 사이드
 * [강성훈](http://mearie.org/)
 * [강성희](https://medium.com/@shaynekang)
 * [강진우](https://brunch.co.kr/@alden) - Linux
