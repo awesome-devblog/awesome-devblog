@@ -36,6 +36,7 @@
 * [김범준](http://bomjun.tistory.com/)
 * [김범진](https://medium.com/@beejei)
 * [김병환](http://kimbyeonghwan.tumblr.com/) - UX
+* [김성수](http://sungsoo.github.io/)
 * [김성현](http://greemate.tistory.com/) - 윈도우즈 커널
 * [김성호](http://raccoonyy.github.io/)
 * [김성훈](http://www.se.or.kr/) - 학교 생활
