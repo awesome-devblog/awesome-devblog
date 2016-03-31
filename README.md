@@ -176,6 +176,7 @@
 * [이충영](https://medium.com/@wangmul)
 * [이흥섭](http://subl.ee/) - 게임
 * [임지훈](http://www.jimmyrim.com/) - 스타트업 투자
+* [임희진](http://epicdevs.com/) - Back-end
 * [Kevin Lee](https://lckymn.com/about-kevin) - 자바
 
 ### ㅈ
