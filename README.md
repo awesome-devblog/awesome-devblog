@@ -230,6 +230,7 @@
 
 * [하동우](https://medium.com/@cookatrice)
 * [하호진(Mimul)](http://www.mimul.com/) - 칼럼
+* [한상곤](http://www.sangkon.com/)
 * [한승훈(kkamagui)](http://kkamagui.tistory.com/) - OS
 * [한영빈](https://youngbin.tk/)
 * [한정현](http://www.kazikai.net/)
