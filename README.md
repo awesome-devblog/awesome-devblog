@@ -175,6 +175,7 @@
 * [이지훈](http://jihoonl.notemywish.com/)
 * [이진석](https://ask.festi.kr/) - Django
 * [이충영](https://medium.com/@wangmul)
+* [이현섭](http://hyunseob.github.io/) - Web
 * [이흥섭](http://subl.ee/) - 게임
 * [임지훈](http://www.jimmyrim.com/) - 스타트업 투자
 * [임희진](http://epicdevs.com/) - Back-end
