@@ -30,6 +30,7 @@
 * [김대현](http://hatemogi.com/) - 백엔드
 * [김덕홍](http://insanehong.kr/)
 * [김도균](http://www.dokyun.pe.kr/)
+* [김명신](http://himskim.egloos.com/)
 * [김명준](http://html5lab.kr/) - 프론트엔드
 * [김민수](http://www.kmshack.kr/) - 안드로이드
 * [김민장](http://minjang.egloos.com/) - 컴퓨터 아키텍처
@@ -249,6 +250,7 @@
 * [황상철](http://pragmaticstory.com/) - 애자일
 * [황석주](http://dolppi.egloos.com/) - 금융공학
 * [히언](http://recipes.egloos.com/) - 하드웨어
+* [현수명](http://soomong.net/)
 * [현승](http://iam-hs.com/) - 리버싱
 * [현준호](https://jhyun.wordpress.com/) - 웹접근성
 
