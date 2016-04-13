@@ -89,6 +89,7 @@
 ### ㅁ
 
 * [마경욱](https://brunch.co.kr/@kyeongwook-ma) - 스타트업
+* [모상우](https://brunch.co.kr/@aidenswmo)
 * [문형환](http://blog.lael.be/)
 
 ### ㅂ
@@ -143,6 +144,7 @@
 * [양병규](http://blog.naver.com/delmadang) - 칼럼
 * [양준철](https://brunch.co.kr/@promise4u) - 스타트업
 * [양지수](https://brunch.co.kr/@jisuyang) - IT 칼럼
+* [엄태웅](http://t-robotics.blogspot.kr/) - AI
 * [염재현](https://only2sea.wordpress.com/)
 * [오광신](http://kwangshin.pe.kr/) - 함수형 언어
 * [오동권](http://www.flowdas.com/)
