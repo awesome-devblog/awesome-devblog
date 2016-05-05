@@ -179,6 +179,7 @@
 * [이지훈](http://jihoonl.notemywish.com/)
 * [이진석](https://ask.festi.kr/) - Django
 * [이충영](https://medium.com/@wangmul)
+* [이해영](http://www.haeyounglee.com/) - 개발자 영어
 * [이현섭](http://hyunseob.github.io/) - Web
 * [이흥섭](http://subl.ee/) - 게임
 * [임지훈](http://www.jimmyrim.com/) - 스타트업 투자
@@ -329,6 +330,7 @@
 * [Adam Bien](http://www.adam-bien.com/roller/abien/) - Real World Java EE Patterns 저자
 * [Andy Hunt](http://andy.pragprog.com/) - 실용주의 프로그래머, 프로그래밍 루비 공저
 * [Armin Ronacher](http://lucumr.pocoo.org/) - Flask, Lektor 개발자
+* [Assaf Muller](https://assafmuller.com/) - OpenStack, SDN
 * [Bram Cohen](http://bramcohen.com/) - 비트토렌트 창시자
 * [Brendan Eich](https://brendaneich.com/) - Javascript 창시자
 * [Chad Fowler](http://chadfowler.com/) - Rails Recipes 저자
