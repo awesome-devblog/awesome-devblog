@@ -80,6 +80,10 @@
 * [노용환](http://bugsfixed.blogspot.kr/), [노용환](http://somma.egloos.com/) - 윈도우즈 커널
 * [노재민](http://korsnack.kr/)
 
+### ㄷ
+
+* [도경태](https://medium.com/@keendev)
+
 ### ㄹ
 
 * [류광](http://occamsrazr.net/) - 번역
