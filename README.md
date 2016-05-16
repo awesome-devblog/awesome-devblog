@@ -345,6 +345,7 @@
 * [David Thomas](http://pragdave.me/) - 실용주의 프로그래머 공저. Elixir 언어.
 * [Daniel Shiffman](http://shiffman.net/) - Processing
 * [Eric A. Meyer](http://meyerweb.com/)
+* [Gal Sagie](http://galsagie.github.io/) - OpenStack Networking
 * [James D Bloom](http://blog.jamesdbloom.com/) - JVM
 * [James Gosling](http://nighthacks.com/roller/jag/) - Java 창시자
 * [Jeff Atwood](http://blog.codinghorror.com/) - 스택오버플로 주인장
