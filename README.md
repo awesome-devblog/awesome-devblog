@@ -296,6 +296,7 @@
 * [엔씨소프트](http://blog.ncsoft.com/)
 * [엠비안](http://blog.embian.com/)
 * [오픈넷](http://opennet.or.kr/) - 웹접근성
+* [오픈스택 한국 커뮤니티](http://openstack.or.kr/) - OpenStack
 * [오픈튜토리얼스](https://opentutorials.org/)
 * [위클립스](http://eclipse.or.kr/) - 이클립스. 지율.
 * [이상한모임](http://blog.weirdx.io/)
