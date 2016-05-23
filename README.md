@@ -193,6 +193,7 @@
 
 ### ㅈ
 
+* [장나래](http://naleejang.tistory.com/) - OpenStack
 * [장선진](http://blog.java2game.com/)
 * [장성민](http://www.jangkunblog.com/) - 웹접근성
 * [장요셉](http://lastmind.net/)
