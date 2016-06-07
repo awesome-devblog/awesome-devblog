@@ -170,6 +170,7 @@
 * [이경원](http://blog.woniper.net/) - Java
 * [이규원](https://justhackem.wordpress.com/)
 * [이도현](http://genesis8.tistory.com/)
+* [이민석](http://hl1itj.tistory.com/)
 * [이병준](http://www.buggymind.com/)
 * [이상욱](http://yisangwook.tumblr.com/) - 아키텍처 분석
 * [이상주](http://surpreem.com/)
