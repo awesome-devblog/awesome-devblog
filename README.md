@@ -146,6 +146,7 @@
 
 * [안성현](http://ash84.net/) - Python
 * [안윤호](http://toyfab.tistory.com/) - 마이크로 프로세서
+* [안재우](http://blog.naver.com/saltynut)
 * [안정호](http://blog.ahnjungho.org/)
 * [안종태](http://qnibus.com/) - iOS
 * [양병규](http://blog.naver.com/delmadang) - 칼럼
