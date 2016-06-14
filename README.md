@@ -27,6 +27,7 @@
 * [김국현](http://goodhyun.com/) - IT 칼럼
 * [김놀부](http://nolboo.github.io/) - 번역 모음
 * [김대권](http://nacyot.com/)
+* [김대기](http://daegikim.github.io/) - 웹
 * [김대현](http://hatemogi.com/) - 백엔드
 * [김덕홍](http://insanehong.kr/)
 * [김도균](http://www.dokyun.pe.kr/)
