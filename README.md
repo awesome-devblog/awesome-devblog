@@ -54,6 +54,7 @@
 * [김원일](http://androidkr.blogspot.kr/) - 안드로이드
 * [김재국](https://jaigouk.com/)
 * [김재호](http://www.benjaminlog.com/) - C++
+* [김종욱](http://catlog.kr/)
 * [김지영](https://brunch.co.kr/@pubjinson)
 * [김지현](http://hyeon.me/)
 * [김진국](http://forensic-proof.com/) - 포렌식
