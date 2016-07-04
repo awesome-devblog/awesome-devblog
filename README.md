@@ -44,6 +44,7 @@
 * [김성호](http://raccoonyy.github.io/)
 * [김성훈](http://www.se.or.kr/) - 학교 생활
 * [김수보](https://subokim.wordpress.com/) - IT 칼럼
+* [김순식](http://i-bada.blogspot.kr/)
 * [김슬기](http://blog.seulgi.kim/) - 서울대생
 * [김용균](http://haruair.com/) - 웹
 * [김용묵](http://moogi.new21.org/) - 한글 언어, C++
