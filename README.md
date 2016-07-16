@@ -60,6 +60,7 @@
 * [김지영](https://brunch.co.kr/@pubjinson)
 * [김지현](http://hyeon.me/)
 * [김진국](http://forensic-proof.com/) - 포렌식
+* [김진수](https://item4.github.io/) - Web
 * [김진욱](http://rein.kr/blog/)
 * [김창원](http://www.memoriesreloaded.net/) - 실리콘밸리
 * [김창준](http://agile.egloos.com/) - 애자일
