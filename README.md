@@ -9,6 +9,7 @@
 
 ### ㄱ
 
+* [감성 프로그래밍](http://programmingsummaries.tistory.com/)
 * [강규영](https://github.com/sarojaba/awesome-devblog/blob/master/ecogwiki.md)([블로그](http://www.ecogwiki.com/))
 * [강대명](https://github.com/sarojaba/awesome-devblog/blob/master/charsyam.md)([블로그](https://charsyam.wordpress.com/)) - 서버 사이드
 * [강성일](https://b.luavis.kr/) - Python
