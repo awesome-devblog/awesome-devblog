@@ -9,7 +9,6 @@
 
 ### ㄱ
 
-* [감성 프로그래밍](http://programmingsummaries.tistory.com/)
 * [강규영](https://github.com/sarojaba/awesome-devblog/blob/master/ecogwiki.md)([블로그](http://www.ecogwiki.com/))
 * [강대명](https://github.com/sarojaba/awesome-devblog/blob/master/charsyam.md)([블로그](https://charsyam.wordpress.com/)) - 서버 사이드
 * [강성일](https://b.luavis.kr/) - Python
@@ -154,6 +153,7 @@
 * [안성현](http://ash84.net/) - Python
 * [안윤호](http://toyfab.tistory.com/) - 마이크로 프로세서
 * [안재우](http://blog.naver.com/saltynut)
+* [안재하](http://programmingsummaries.tistory.com/)
 * [안정호](http://blog.ahnjungho.org/)
 * [안종태](http://qnibus.com/) - iOS
 * [양병규](http://blog.naver.com/delmadang) - 칼럼
