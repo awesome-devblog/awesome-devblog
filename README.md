@@ -342,6 +342,7 @@
 * [IT월드](http://www.itworld.co.kr/)
 * [LG CNS](http://blog.lgcns.com/)
 * [Mozilla Hack](http://hacks.mozilla.or.kr/), [Mozilla Developer](https://developer.mozilla.org/ko/)
+* [Popit](http://www.popit.kr/)
 * [SLiPP](http://slipp.net/) - 박재성, 김현기, 오진우
 * [Spoqa](http://spoqa.github.io/)
 * [SK 플래닛](http://readme.skplanet.com/)
