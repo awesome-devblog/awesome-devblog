@@ -40,6 +40,7 @@
 * [김범진](https://medium.com/@beejei)
 * [김병환](http://kimbyeonghwan.tumblr.com/) - UX
 * [김보형](http://blog.dsdstudio.net/)
+* [김석기](https://brunch.co.kr/@neo3xdh) - IT 칼럼
 * [김성수](http://sungsoo.github.io/)
 * [김성현](http://greemate.tistory.com/) - 윈도우즈 커널
 * [김성호](http://raccoonyy.github.io/)
