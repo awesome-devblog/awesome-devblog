@@ -237,6 +237,7 @@
 * [조현진](http://resistan.com/) - 웹접근성
 * [주우영](http://blog.coderifleman.com/) - React.js
 * [진성주](http://softwaregeeks.org/) - 오픈소스
+* [진영화](https://brunch.co.kr/@timotolkie)
 * [진용진](https://brunch.co.kr/@yongjinjinipln) - IT 칼럼
 
 ### ㅊ
