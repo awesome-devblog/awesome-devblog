@@ -244,6 +244,7 @@
 
 * [차준범](http://khanrc.tistory.com/)
 * [채수원](http://blog.doortts.com/)
+* [채승훈](http://seunghoon-chae.com/) - Python
 * [최건우](http://blog.hardtack.me/)
 * [최백준](http://www.baekjoon.com/) - 알고리즘
 * [최범균](http://javacan.tistory.com/) - Java
