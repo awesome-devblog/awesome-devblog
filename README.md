@@ -172,6 +172,7 @@
 * [우준혁](http://blog.sarojaba.com/)
 * [위현종](http://jasonwi.com/) - 스타트업
 * [유동곤](http://blog.naver.com/ehdrhs1004) - C++
+* [유병후](https://libsora.so/)
 * [유주원](http://hipercube.tistory.com/)
 * [유차영](https://yous.be/)
 * [윤상배](http://www.joinc.co.kr/) - 위키
