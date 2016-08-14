@@ -396,6 +396,7 @@
 * [A list apart](http://alistapart.com/) - Web
 * [Android Developers Blog](http://android-developers.blogspot.kr/)
 * [AutoCAD DevBlog](http://adndevblog.typepad.com/autocad/)
+* [Awwwards Blog](http://www.awwwards.com/blog/) - Web
 * [BlackBerry Developer Blog](http://devblog.blackberry.com/)
 * [Code as Craft(Andrew Johnson)](https://codeascraft.com/)
 * [Comunications of the ACM](http://cacm.acm.org/blogs/about-the-blogs)
@@ -441,5 +442,6 @@
 * [Takipi blog](http://blog.takipi.com/)
 * [The New Stack](http://thenewstack.io/)
 * [Toptal Engineering Blog](http://www.toptal.com/blog)
+* [Treehouse Blog](http://blog.teamtreehouse.com/)
 * [Uber Developer Blog](http://devblog.uber.com/)
 * [Unity](http://blogs.unity3d.com/) - 3D Graphics
