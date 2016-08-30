@@ -391,6 +391,7 @@
 * [Nicolai Parlog](http://blog.codefx.org/) - Java
 * [Paul Bakker](http://paulbakker.io/) - Modular Cloud Apps with OSGI 저자
 * [Robert C. Martin](http://blog.cleancoder.com/) - 클린 코드 저자
+* [Sacha Greif](https://medium.com/@sachagreif) - Front-end
 * [Scott Hanselman](http://www.hanselman.com/) - ASP.NET
 * [Stephen Colebourne](http://blog.joda.org/) - Joda-Time 창시자
 * [Will McGugan](https://www.willmcgugan.com/) - Moya(no-Python Python Web Framework)
