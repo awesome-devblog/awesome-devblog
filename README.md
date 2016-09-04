@@ -418,6 +418,7 @@
 * [Go Language](http://blog.golang.org/) - Go
 * [Ghost Development Blog](https://dev.ghost.org/)
 * [GVG-AI Competition](http://www.gvgai.net/) - AI
+* [ImportJava](http://importjava.org/) - Java
 * [InfoQ](http://www.infoq.com/)
 * [Java Code Geek](http://www.javacodegeeks.com/)
 * [Java World](http://www.javaworld.com/) - Java
