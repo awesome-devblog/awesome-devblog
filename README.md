@@ -140,6 +140,7 @@
 * [서주영](http://seoz.com/) - 타이젠
 * [손영수(arload)](https://arload.wordpress.com/) - 개발방법론, Android
 * [손찬욱](https://sculove.github.io/blog/) - Web
+* [송영길](https://youngsong.com/) - 창업
 * [송영환](https://purluno.wordpress.com/) - Akka
 * [송성광](http://saltfactory.net/)
 * [송주성(빈꿈)](http://emptydream.tistory.com/) - IT 칼럼
