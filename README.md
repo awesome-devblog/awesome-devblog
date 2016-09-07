@@ -37,6 +37,7 @@
 * [김민수](http://www.kmshack.kr/) - 안드로이드
 * [김민장](http://minjang.egloos.com/) - 컴퓨터 아키텍처
 * [김범준](http://bomjun.tistory.com/)
+* [김범준](http://nolsigan.github.io/)
 * [김범진](https://medium.com/@beejei)
 * [김병환](http://kimbyeonghwan.tumblr.com/) - UX
 * [김보형](http://blog.dsdstudio.net/)
