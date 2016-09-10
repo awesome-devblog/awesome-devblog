@@ -169,7 +169,7 @@ var outlines = [{
 
 var result = opml(header, outlines);// => XML
 
-fs.writeFile('./opml.xml', result, function(err) {
+fs.writeFile('./Korea-Dev-RSS.opml', result, function(err) {
   if(err) throw err;
   console.log('File write completed');
 });
