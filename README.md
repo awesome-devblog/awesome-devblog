@@ -175,7 +175,7 @@
 * [오종빈](http://ohyecloudy.com/doku.php)
 * [오현석](https://github.com/sarojaba/awesome-devblog/blob/master/enshahar.md)([블로그](http://www.enshahar.me/)) - 스칼라, 스위프트
 * [용현택](http://yonght.tumblr.com/)
-* [우준혁](http://blog.sarojaba.com/)
+* [우준혁](http://sarojaba.tumblr.com/)
 * [위현종](http://jasonwi.com/) - 스타트업
 * [유동곤](http://blog.naver.com/ehdrhs1004) - C++
 * [유병후](https://libsora.so/)
