@@ -68,6 +68,7 @@
 * [김진욱](http://rein.kr/blog/)
 * [김창원](http://www.memoriesreloaded.net/) - 실리콘밸리
 * [김창준](http://agile.egloos.com/) - 애자일
+* [김청진](http://blog.puding.kr) - IT소식/리뷰, 개발(웹, 모바일)
 * [김충섭](http://subicura.com/)
 * [김코딩](http://huns.me/)
 * [김태곤](http://taegon.kim/) - 웹
