@@ -131,7 +131,7 @@ var feeds = {
     현승: 'http://iam-hs.com/rss',
 
     게임개발포에버: 'http://feeds.feedburner.com/gamedevforever?format=xml',
-    네이버: 'http://helloworld.naver.com/rss',
+    네이버: 'http://d2.naver.com/d2.atom',
     넥스트리: 'http://www.nextree.co.kr/feed/',
     삼성소프트웨어멤버십: 'http://blog.secmem.org/rss',
     아이디인큐: 'https://blogs.idincu.com/dev/feed/',
