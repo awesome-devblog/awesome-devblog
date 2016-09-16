@@ -167,6 +167,7 @@
 * [안정호](http://blog.ahnjungho.org/)
 * [안정훈](http://www.andrewahn.co/) - 실리콘밸리
 * [안종태](http://qnibus.com/) - iOS
+* [안중원](http://postgame.tistory.com/) - 게임개발, 웹툰
 * [양병규](http://blog.naver.com/delmadang) - 칼럼
 * [양욱진](http://blog.hazard.kr/)
 * [양준철](https://brunch.co.kr/@promise4u) - 스타트업
