@@ -151,6 +151,7 @@
 * [송성광](http://saltfactory.net/)
 * [송주성(빈꿈)](http://emptydream.tistory.com/) - IT 칼럼
 * [송준현](https://medium.com/@it_sjh9973)
+* [송효진](https://lovetoken.github.io/) - R
 * [신승환](http://www.talk-with-hani.com/)
 * [신영진](http://www.jiniya.net/) - 보안
 * [신용윤](http://uni2u.tistory.com/) - 네트워크
@@ -195,6 +196,7 @@
 * [이도현](http://genesis8.tistory.com/)
 * [이동련](http://start.goodtime.co.kr/)
 * [이민석](http://hl1itj.tistory.com/)
+* [이민호](http://lumiamitie.github.io/)
 * [이병준](http://www.buggymind.com/)
 * [이상욱](http://yisangwook.tumblr.com/) - 아키텍처 분석
 * [이상주](http://surpreem.com/)
@@ -390,6 +392,7 @@
 * [Dino Esposito](https://software2cents.wordpress.com/) - .NET 에반젤리스트
 * [Eric A. Meyer](http://meyerweb.com/)
 * [Gal Sagie](http://galsagie.github.io/) - OpenStack Networking
+* [Hadley Wickham](http://hadley.nz/) - R studio
 * [James D Bloom](http://blog.jamesdbloom.com/) - JVM
 * [James Gosling](http://nighthacks.com/roller/jag/) - Java 창시자
 * [Jeff Atwood](http://blog.codinghorror.com/) - 스택오버플로 주인장
