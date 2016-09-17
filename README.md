@@ -192,6 +192,7 @@
 * [윤창석](http://changsuk.me/) - 다음카카오
 * [윤청하](https://brunch.co.kr/@brunch4nrs) - 구글러
 * [이경원](http://blog.woniper.net/) - Java
+* [이경일](http://blog.leekyoungil.com/) - Java
 * [이규원](https://justhackem.wordpress.com/)
 * [이도현](http://genesis8.tistory.com/)
 * [이동련](http://start.goodtime.co.kr/)
