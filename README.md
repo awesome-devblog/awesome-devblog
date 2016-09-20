@@ -410,6 +410,7 @@
 * [Martin Fowler](http://martinfowler.com/) - 리팩토링 창시자
 * [Mike Gouline](https://blog.gouline.net/)
 * [Nicolai Parlog](http://blog.codefx.org/) - Java
+* [Phil Haack](http://haacked.com/) - Github 개발자
 * [Paul Bakker](http://paulbakker.io/) - Modular Cloud Apps with OSGI 저자
 * [Robert C. Martin](http://blog.cleancoder.com/) - 클린 코드 저자
 * [Sacha Greif](https://medium.com/@sachagreif) - Front-end
