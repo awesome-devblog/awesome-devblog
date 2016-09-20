@@ -392,6 +392,7 @@
 * [Dan Webb](http://danwebb.net/) - 프론트엔드 개발자
 * [David Thomas](http://pragdave.me/) - 실용주의 프로그래머 공저. Elixir 언어.
 * [Daniel Shiffman](http://shiffman.net/) - Processing
+* [Derick Bailey](https://derickbailey.com/) - Javascript 개발자
 * [Dino Esposito](https://software2cents.wordpress.com/) - .NET 에반젤리스트
 * [Eric A. Meyer](http://meyerweb.com/)
 * [Gal Sagie](http://galsagie.github.io/) - OpenStack Networking
