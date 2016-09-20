@@ -37,10 +37,12 @@
 * [김민수](http://www.kmshack.kr/) - 안드로이드
 * [김민장](http://minjang.egloos.com/) - 컴퓨터 아키텍처
 * [김범준](http://bomjun.tistory.com/)
+* [김범준](http://nolsigan.github.io/)
 * [김범진](https://medium.com/@beejei)
 * [김병환](http://kimbyeonghwan.tumblr.com/) - UX
 * [김보형](http://blog.dsdstudio.net/)
 * [김석기](https://brunch.co.kr/@neo3xdh) - IT 칼럼
+* [김석준](http://seokjun.kr/)
 * [김성수](http://sungsoo.github.io/)
 * [김성현](http://greemate.tistory.com/) - 윈도우즈 커널
 * [김성호](http://raccoonyy.github.io/)
@@ -48,6 +50,7 @@
 * [김수보](https://subokim.wordpress.com/) - IT 칼럼
 * [김순식](http://i-bada.blogspot.kr/)
 * [김슬기](http://blog.seulgi.kim/) - 서울대생
+* [김영재](https://youngjaekim.wordpress.com/)
 * [김용균](http://haruair.com/) - 웹
 * [김용묵](http://moogi.new21.org/) - 한글 언어, C++
 * [김용환](http://knight76.tistory.com/)
@@ -55,6 +58,7 @@
 * [김우승](https://kimws.wordpress.com/) - 빅데이터
 * [김우용](https://brunch.co.kr/@wedump) - 게임 개발
 * [김원일](http://androidkr.blogspot.kr/) - 안드로이드
+* [김정환](http://blog.jeonghwan.net/) - javascript,node
 * [김재국](https://jaigouk.com/)
 * [김재호](http://www.benjaminlog.com/) - C++
 * [김종욱](http://catlog.kr/)
@@ -65,6 +69,7 @@
 * [김진욱](http://rein.kr/blog/)
 * [김창원](http://www.memoriesreloaded.net/) - 실리콘밸리
 * [김창준](http://agile.egloos.com/) - 애자일
+* [김청진](http://blog.puding.kr) - IT소식/리뷰, 개발(웹, 모바일)
 * [김충섭](http://subicura.com/)
 * [김코딩](http://huns.me/)
 * [김태곤](http://taegon.kim/) - 웹
@@ -78,6 +83,7 @@
 * [김형준](http://www.gisdeveloper.co.kr/) - GIS
 * [김화수](http://flowerexcel.tistory.com/) - C++
 * [김환희](http://greentec.egloos.com/) - 게임개발
+* [김훈민(김코딩)](http://huns.me/) - Web
 
 ### ㄴ
 
@@ -124,6 +130,7 @@
 * [방준영](http://bangjunyoung.blogspot.kr/) - Java
 * [배기홍](http://www.thestartupbible.com/) - IT 칼럼
 * [배성혁](http://debop.tumblr.com/) - 스칼라
+* [배진호](https://medium.com/@baejinho/) - 스타트업
 * [백기선](http://whiteship.me/) - Java
 * [백명석](https://brunch.co.kr/@cleancode) - Java, OOP
 * [범이](http://blog.daum.net/funfunction) - FP
@@ -137,12 +144,15 @@
 * [서보룡](http://inter6.tistory.com/) - OpenStack
 * [서오석](https://brunch.co.kr/@elijah17) - Java
 * [서주영](http://seoz.com/) - 타이젠
+* [손승하](http://sonseungha.tistory.com/) - Linux
 * [손영수(arload)](https://arload.wordpress.com/) - 개발방법론, Android
 * [손찬욱](https://sculove.github.io/blog/) - Web
+* [송영길](https://youngsong.com/) - 창업
 * [송영환](https://purluno.wordpress.com/) - Akka
 * [송성광](http://saltfactory.net/)
 * [송주성(빈꿈)](http://emptydream.tistory.com/) - IT 칼럼
 * [송준현](https://medium.com/@it_sjh9973)
+* [송효진](https://lovetoken.github.io/) - R
 * [신승환](http://www.talk-with-hani.com/)
 * [신영진](http://www.jiniya.net/) - 보안
 * [신용윤](http://uni2u.tistory.com/) - 네트워크
@@ -159,6 +169,7 @@
 * [안정호](http://blog.ahnjungho.org/)
 * [안정훈](http://www.andrewahn.co/) - 실리콘밸리
 * [안종태](http://qnibus.com/) - iOS
+* [안중원](http://postgame.tistory.com/) - 게임개발, 웹툰
 * [양병규](http://blog.naver.com/delmadang) - 칼럼
 * [양욱진](http://blog.hazard.kr/)
 * [양준철](https://brunch.co.kr/@promise4u) - 스타트업
@@ -170,7 +181,7 @@
 * [오종빈](http://ohyecloudy.com/doku.php)
 * [오현석](https://github.com/sarojaba/awesome-devblog/blob/master/enshahar.md)([블로그](http://www.enshahar.me/)) - 스칼라, 스위프트
 * [용현택](http://yonght.tumblr.com/)
-* [우준혁](http://blog.sarojaba.com/)
+* [우준혁](http://sarojaba.tumblr.com/)
 * [위현종](http://jasonwi.com/) - 스타트업
 * [유동곤](http://blog.naver.com/ehdrhs1004) - C++
 * [유병후](https://libsora.so/)
@@ -182,9 +193,12 @@
 * [윤창석](http://changsuk.me/) - 다음카카오
 * [윤청하](https://brunch.co.kr/@brunch4nrs) - 구글러
 * [이경원](http://blog.woniper.net/) - Java
+* [이경일](http://blog.leekyoungil.com/) - Java
 * [이규원](https://justhackem.wordpress.com/)
 * [이도현](http://genesis8.tistory.com/)
+* [이동련](http://start.goodtime.co.kr/)
 * [이민석](http://hl1itj.tistory.com/)
+* [이민호](http://lumiamitie.github.io/)
 * [이병준](http://www.buggymind.com/)
 * [이상욱](http://yisangwook.tumblr.com/) - 아키텍처 분석
 * [이상주](http://surpreem.com/)
@@ -193,6 +207,7 @@
 * [이성몽](http://blog.naver.com/santalsm) - 기술사
 * [이성호](http://blog.scaloid.org/) - 스칼라, 안드로이드
 * [이세우](http://blog.xcoda.net/)
+* [이수홍](https://brunch.co.kr/@sbcoba) - Spring Boot
 * [이윤창](http://daddycat.blogspot.kr/)
 * [이일희(제닉스)](http://nixsense.net/) - IT 리뷰
 * [이재홍](http://pyrasis.com/) - Go
@@ -276,6 +291,8 @@
 * [홍성철](http://blog.fupfin.com/) - 함수형 언어
 * [홍성철](https://medium.com/@sungcheulhong)
 * [홍영택](hackerwins.github.io/) - 다음카카오
+* [홍철주](http://blog.angdev.io/), [홍철주](https://medium.com/@angdev) - Ruby, Javascript
+* [황인서](http://blog.chequer.io/) - Spring
 * [황장호](http://xrath.com/)
 * [황병선](http://www.futurewalker.kr/) - IT 칼럼
 * [황상철](http://pragmaticstory.com/) - 애자일
@@ -291,6 +308,7 @@
 
 * [가비아 프론트엔드 개발팀](http://gabia-frontend-dev.com/) - 웹
 * [게임개발 포에버](http://gamedevforever.com/) - 포프, 친절한티스, 알콜코더 민군
+* [굿닥 엔지니어링 블로그](http://dev.goodoc.co.kr/)
 * [나는 프로그래머다](http://iamprogrammer.io/) - 임작가, 데니스, 정개발
 * [네이버](http://helloworld.naver.com/)
 * [네이버 널리 블로그](http://nuli.navercorp.com/sharing/blog/main) - 웹 표준, 접근성
@@ -314,6 +332,7 @@
 * [알스퀘어](http://dev.rsquare.co.kr/)
 * [에어브릿지](http://blog.ab180.co/)
 * [에이콘](http://www.acornpub.co.kr/blog) - 책
+* [에일리언큐브 aliencube](http://blog.aliencube.org/) - 닷넷, C#
 * [에스엔티소프트](http://www.sntsoft.co.kr/)
 * [엔씨소프트](http://blog.ncsoft.com/)
 * [엠비안](http://blog.embian.com/)
@@ -345,6 +364,7 @@
 * [devpools](http://devpools.kr/)
 * [dogfeet](http://dogfeet.github.io/) - 박창우, 이신, 최용재
 * [eBrain Blog](http://www.ebrain.kr/category/blogs/) - HR
+* [EFL Korea Community] (http://efl.or.kr) - EFL, Enlightenment, Tizen
 * [Google](http://googledevkr.blogspot.kr/)
 * [IAMROOT](http://www.iamroot.org/) - 리눅스 커널 스터디 그룹
 * [IT월드](http://www.itworld.co.kr/)
@@ -372,8 +392,10 @@
 * [Dan Webb](http://danwebb.net/) - 프론트엔드 개발자
 * [David Thomas](http://pragdave.me/) - 실용주의 프로그래머 공저. Elixir 언어.
 * [Daniel Shiffman](http://shiffman.net/) - Processing
+* [Dino Esposito](https://software2cents.wordpress.com/) - .NET 에반젤리스트
 * [Eric A. Meyer](http://meyerweb.com/)
 * [Gal Sagie](http://galsagie.github.io/) - OpenStack Networking
+* [Hadley Wickham](http://hadley.nz/) - R studio
 * [James D Bloom](http://blog.jamesdbloom.com/) - JVM
 * [James Gosling](http://nighthacks.com/roller/jag/) - Java 창시자
 * [Jeff Atwood](http://blog.codinghorror.com/) - 스택오버플로 주인장
@@ -388,6 +410,7 @@
 * [Nicolai Parlog](http://blog.codefx.org/) - Java
 * [Paul Bakker](http://paulbakker.io/) - Modular Cloud Apps with OSGI 저자
 * [Robert C. Martin](http://blog.cleancoder.com/) - 클린 코드 저자
+* [Sacha Greif](https://medium.com/@sachagreif) - Front-end
 * [Scott Hanselman](http://www.hanselman.com/) - ASP.NET
 * [Stephen Colebourne](http://blog.joda.org/) - Joda-Time 창시자
 * [Will McGugan](https://www.willmcgugan.com/) - Moya(no-Python Python Web Framework)
@@ -413,6 +436,7 @@
 * [Go Language](http://blog.golang.org/) - Go
 * [Ghost Development Blog](https://dev.ghost.org/)
 * [GVG-AI Competition](http://www.gvgai.net/) - AI
+* [ImportJava](http://importjava.org/) - Java
 * [InfoQ](http://www.infoq.com/)
 * [Java Code Geek](http://www.javacodegeeks.com/)
 * [Java World](http://www.javaworld.com/) - Java
