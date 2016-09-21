@@ -267,6 +267,7 @@
 * [최백준](http://www.baekjoon.com/) - 알고리즘
 * [최범균](http://javacan.tistory.com/) - Java
 * [최성재](http://yumere.tistory.com/)
+* [최유석](http://whitechoi.tistory.com/) - Cloud
 * [최재훈](http://andromedarabbit.net/)
 * [최종욱](http://johnwook.com/) - 웹
 * [최종찬](http://blog.0xabcdef.com/)
