@@ -224,6 +224,7 @@
 
 ### ㅈ
 
+* [장기효(기효 조슈아 장)](https://joshuajangblog.wordpress.com/)
 * [장나래](http://naleejang.tistory.com/) - OpenStack
 * [장선진](http://blog.java2game.com/)
 * [장성민](http://www.jangkunblog.com/) - 웹접근성
@@ -391,8 +392,10 @@
 * [Chris Ng](http://chrisrng.svbtle.com/) - Front-end
 * [Cristian Esquivias](http://cesquivias.github.io/) - Java, Truffle
 * [Dan Webb](http://danwebb.net/) - 프론트엔드 개발자
+* [David Robinson](http://varianceexplained.org/) - 스택오버플로 데이터 과학자
 * [David Thomas](http://pragdave.me/) - 실용주의 프로그래머 공저. Elixir 언어.
 * [Daniel Shiffman](http://shiffman.net/) - Processing
+* [Derick Bailey](https://derickbailey.com/) - Javascript 개발자
 * [Dino Esposito](https://software2cents.wordpress.com/) - .NET 에반젤리스트
 * [Eric A. Meyer](http://meyerweb.com/)
 * [Gal Sagie](http://galsagie.github.io/) - OpenStack Networking
@@ -409,6 +412,7 @@
 * [Martin Fowler](http://martinfowler.com/) - 리팩토링 창시자
 * [Mike Gouline](https://blog.gouline.net/)
 * [Nicolai Parlog](http://blog.codefx.org/) - Java
+* [Phil Haack](http://haacked.com/) - Github 개발자
 * [Paul Bakker](http://paulbakker.io/) - Modular Cloud Apps with OSGI 저자
 * [Robert C. Martin](http://blog.cleancoder.com/) - 클린 코드 저자
 * [Sacha Greif](https://medium.com/@sachagreif) - Front-end
