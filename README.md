@@ -243,6 +243,7 @@
 * [정성태](http://www.sysnet.pe.kr/) - 닷넷
 * [정윤성](http://sadang-hobbits.github.io/) - Rust
 * [정윤원](http://youknowone.github.io/) - IOS
+* [정윤진](http://kerberosj.tistory.com/) - Cloud
 * [정지훈](http://health20.kr/) - IT 역사, 미래 트렌드
 * [정창훈](http://seapy.com/)
 * [조대협(bcho)](http://bcho.tistory.com/) - Java
