@@ -171,6 +171,7 @@
 * [안종태](http://qnibus.com/) - iOS
 * [안중원](http://postgame.tistory.com/) - 게임개발, 웹툰
 * [양병규](http://blog.naver.com/delmadang) - 칼럼
+* [양봉수](https://www.gitbook.com/book/yangbongsoo/study/details) - Java, Spring
 * [양욱진](http://blog.hazard.kr/)
 * [양준철](https://brunch.co.kr/@promise4u) - 스타트업
 * [양지수](https://brunch.co.kr/@jisuyang) - IT 칼럼
