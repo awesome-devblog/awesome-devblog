@@ -268,6 +268,7 @@
 * [채수원](http://blog.doortts.com/)
 * [채승훈](http://seunghoon-chae.com/) - Python
 * [최건우](http://blog.hardtack.me/)
+* [최근우](http://keunwoochoi.blogspot.kr/), [최근우](https://keunwoochoi.wordpress.com/) - 인공지능
 * [최백준](http://www.baekjoon.com/) - 알고리즘
 * [최범균](http://javacan.tistory.com/) - Java
 * [최성재](http://yumere.tistory.com/)
