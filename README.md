@@ -125,6 +125,7 @@
 * [박정규](http://bagjunggyu.blogspot.kr/) - 리눅스
 * [박종명](http://m.mkexdev.net/)
 * [박진서](http://jasonpark.me/)
+* [박찬욱](http://chanwookpark.github.io/) - Back-end
 * [박현우](http://lqez.github.io/)
 * [박훈](http://1ambda.github.io/) - 함수형 언어
 * [방준영](http://bangjunyoung.blogspot.kr/) - Java
