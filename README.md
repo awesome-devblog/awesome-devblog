@@ -258,6 +258,7 @@
 * [조승연](http://kivol.net/) - 칼럼
 * [조영호](http://aeternum.egloos.com/)
 * [조인석](https://brunch.co.kr/@insuk) - SW 칼럼
+* [조현영](https://www.zerocho.com/) - Javascript
 * [조현진](http://resistan.com/) - 웹접근성
 * [주우영](http://blog.coderifleman.com/) - React.js
 * [진성주](http://softwaregeeks.org/) - 오픈소스
