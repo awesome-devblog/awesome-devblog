@@ -16,7 +16,6 @@
 * [강성희](https://medium.com/@shaynekang)
 * [강진우](https://brunch.co.kr/@alden) - Linux
 * [고득녕](http://blog.naver.com/nackji80/) - 네트워크
-* [고재웅](https://jwgo.wordpress.com/) - IT 칼럼
 * [고형호](http://hhko.tistory.com/) - Functional Programming
 * [구교준](http://danielku.com/)
 * [구종만](https://github.com/sarojaba/awesome-devblog/blob/master/theyearlyprophet.md)([블로그](http://theyearlyprophet.com/)) - 알고리즘
