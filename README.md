@@ -187,6 +187,7 @@
 * [유동곤](http://blog.naver.com/ehdrhs1004) - C++
 * [유동환](https://brunch.co.kr/@yudong)
 * [유병후](https://libsora.so/)
+* [유영재](https://blog.asamaru.net/) - Android
 * [유주원](http://hipercube.tistory.com/)
 * [유차영](https://yous.be/)
 * [윤상배](http://www.joinc.co.kr/) - 위키
