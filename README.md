@@ -185,6 +185,7 @@
 * [우준혁](http://sarojaba.tumblr.com/)
 * [위현종](http://jasonwi.com/) - 스타트업
 * [유동곤](http://blog.naver.com/ehdrhs1004) - C++
+* [유동환](https://brunch.co.kr/@yudong)
 * [유병후](https://libsora.so/)
 * [유주원](http://hipercube.tistory.com/)
 * [유차영](https://yous.be/)
