@@ -53,6 +53,7 @@
 * [김용묵](http://moogi.new21.org/) - 한글 언어, C++
 * [김용환](http://knight76.tistory.com/)
 * [김용현](http://blog.naver.com/drvoss) - C++
+* [김우섭](https://brunch.co.kr/@linterpreteur)
 * [김우승](https://kimws.wordpress.com/) - 빅데이터
 * [김우용](https://brunch.co.kr/@wedump) - 게임 개발
 * [김원일](http://androidkr.blogspot.kr/) - 안드로이드
