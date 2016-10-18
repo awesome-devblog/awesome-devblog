@@ -372,6 +372,7 @@
 ### A-Z
 
 * [CIO](http://www.ciokorea.com/)
+* [CodinGame Blog](https://medium.com/@CodinGame)
 * [devpools](http://devpools.kr/)
 * [dogfeet](http://dogfeet.github.io/) - 박창우, 이신, 최용재
 * [eBrain Blog](http://www.ebrain.kr/category/blogs/) - HR
