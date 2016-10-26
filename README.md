@@ -258,6 +258,7 @@
 * [조수현](http://sapzapee.tistory.com/) - 자료구조
 * [조승연](http://kivol.net/) - 칼럼
 * [조영호](http://aeternum.egloos.com/)
+* [조우진](http://www.notforme.kr/) - Angular
 * [조인석](https://brunch.co.kr/@insuk) - SW 칼럼
 * [조현영](https://www.zerocho.com/) - Javascript
 * [조현진](http://resistan.com/) - 웹접근성
