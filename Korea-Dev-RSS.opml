@@ -59,14 +59,26 @@
       <outline title="김태균" type="rss" xmlUrl="http://feeds.feedburner.com/GaeraeBlog?format=xml"/>
       <outline title="김태기" type="rss" xmlUrl="https://beyondj2ee.wordpress.com/feed/"/>
       <outline title="김태호" type="rss" xmlUrl="http://androidhuman.com/rss"/>
+      <outline title="김태헌" type="rss" xmlUrl="https://brunch.co.kr/rss/@@ydx"/>
+      <outline title="김포프" type="rss" xmlUrl="http://kblog.popekim.com/feeds/posts/default"/>
       <outline title="김현유" type="rss" xmlUrl="http://www.mickeykim.com/rss"/>
       <outline title="김형준" type="rss" xmlUrl="http://www.gisdeveloper.co.kr/rss"/>
       <outline title="김환희" type="rss" xmlUrl="http://rss.egloos.com/blog/greentec"/>
-      <outline title="남정현" type="rss" xmlUrl="http://www.rkttu.com/atom"/>
+      <outline title="김훈민" type="rss" xmlUrl="http://huns.me/feed"/>
+      
+      <outline title="남정현" type="atom" xmlUrl="http://www.rkttu.com/atom"/>
+      <outline title="남주명" type="rss" xmlUrl="http://namjmnam.blog.me/rss"/>
       <outline title="노용환" type="rss" xmlUrl="http://bugsfixed.blogspot.com/feeds/posts/default"/>
+      
+      <outline title="도경태" type="rss" xmlUrl="https://medium.com/feed/@keendev"/>
+      
       <outline title="류광" type="rss" xmlUrl="http://occamsrazr.net/tt/index.xml"/>
       <outline title="류종택" type="rss" xmlUrl="http://ryulib.tistory.com/rss"/>
+      
+      <outline title="마경욱" type="rss" xmlUrl="https://brunch.co.kr/rss/@@JJj"/>
+      <outline title="모상우" type="rss" xmlUrl="https://brunch.co.kr/rss/@@FOY"/>
       <outline title="문형환" type="rss" xmlUrl="http://blog.lael.be/feed"/>
+      
       <outline title="박경훈" type="rss" xmlUrl="http://hoonsbara.tistory.com/rss"/>
       <outline title="박민근" type="rss" xmlUrl="http://agebreak.blog.me/rss"/>
       <outline title="박상길" type="rss" xmlUrl="http://likejazz.com/rss"/>
