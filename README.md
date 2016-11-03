@@ -164,6 +164,7 @@
 ### ㅇ
 
 * [안성현](http://ash84.net/) - Python
+* [안오균](http://ohgyun.com/) - iOS, Python
 * [안윤호](http://toyfab.tistory.com/) - 마이크로 프로세서
 * [안재우](http://blog.naver.com/saltynut)
 * [안재하](http://programmingsummaries.tistory.com/)
