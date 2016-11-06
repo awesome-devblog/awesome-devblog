@@ -333,7 +333,7 @@
 * [다음 DNA Lens](http://dna.daum.net/lens/)
 * [달리웍스](http://techblog.daliworks.net/)
 * [독립 개발자 네트워크](https://indidev.net/) - C/C++
-* [모두의연구소 기술블로그](http://www.whydsp.org/)
+* [모두의연구소](http://www.modulabs.co.kr/)
 * [모비인사이드](http://www.mobiinside.com/kr/) - 모바일
 * [버즈니](http://engineering.buzzni.com/)
 * [삼성소프트웨어멤버십](http://blog.secmem.org/)
