@@ -119,6 +119,7 @@
 * [박상민](https://sangminpark.wordpress.com/)
 * [박상훈](https://brunch.co.kr/@sanghoonpak) - 인도네시아 IT 소식
 * [박영록](http://youngrok.com/) - 위키나무
+* [박용권](https://brunch.co.kr/@arawn)
 * [박용서](https://gs.saro.me)
 * [박일](http://parkpd.egloos.com/) - 게임 개발
 * [박재성(자바지기)](http://javajigi.net/) - Java
