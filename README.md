@@ -192,6 +192,7 @@
 * [유병후](https://libsora.so/)
 * [유영재](https://blog.asamaru.net/) - Android
 * [유주원](http://hipercube.tistory.com/)
+* [유진호](https://brunch.co.kr/@jinhoyooephf)
 * [유차영](https://yous.be/)
 * [윤상배](http://www.joinc.co.kr/) - 위키
 * [윤석찬](http://channy.creation.net/) - 오픈웹
