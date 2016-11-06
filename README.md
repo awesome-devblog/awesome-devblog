@@ -258,6 +258,7 @@
 * [정창훈](http://seapy.com/)
 * [조대협(bcho)](http://bcho.tistory.com/) - Java
 * [조만석](http://manseok.blogspot.kr)
+* [조만영](https://medium.com/@manyoung) - Web
 * [조성문](http://sungmooncho.com/) - 실리콘밸리
 * [조수현](http://sapzapee.tistory.com/) - 자료구조
 * [조승연](http://kivol.net/) - 칼럼
