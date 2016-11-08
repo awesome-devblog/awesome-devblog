@@ -436,6 +436,7 @@
 * [Phil Haack](http://haacked.com/) - Github 개발자
 * [Paul Bakker](http://paulbakker.io/) - Modular Cloud Apps with OSGI 저자
 * [Robert C. Martin](http://blog.cleancoder.com/) - 클린 코드 저자
+* [Rod Johnson](https://medium.com/@springrod) - Spring 창시자
 * [Sacha Greif](https://medium.com/@sachagreif) - Front-end
 * [Scott Hanselman](http://www.hanselman.com/) - ASP.NET
 * [Stephen Colebourne](http://blog.joda.org/) - Joda-Time 창시자
