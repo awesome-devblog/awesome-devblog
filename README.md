@@ -109,6 +109,7 @@
 
 * [마경욱](https://brunch.co.kr/@kyeongwook-ma) - 스타트업
 * [모상우](https://brunch.co.kr/@aidenswmo)
+* [문준영](https://brunch.co.kr/@moonjoonyoung)
 * [문형환](http://blog.lael.be/)
 
 ### ㅂ
