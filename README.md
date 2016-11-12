@@ -313,7 +313,7 @@
 * [홍성철](https://medium.com/@sungcheulhong)
 * [홍영택](hackerwins.github.io/) - 다음카카오
 * [홍철주](http://blog.angdev.io/), [홍철주](https://medium.com/@angdev) - Ruby, Javascript
-* [황인서](http://blog.chequer.io/) - Spring
+* [황인서](http://brantiffy.axisj.com/) - Spring
 * [황장호](http://xrath.com/)
 * [황병선](http://www.futurewalker.kr/) - IT 칼럼
 * [황상철](http://pragmaticstory.com/) - 애자일
