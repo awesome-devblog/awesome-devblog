@@ -15,6 +15,7 @@
 * [강성훈](http://mearie.org/)
 * [강성희](https://medium.com/@shaynekang)
 * [강진우](https://brunch.co.kr/@alden) - Linux
+* [강태욱](http://daddynkidsmakers.blogspot.kr/) - IoT
 * [강한별](https://brunch.co.kr/@cloud09) - 데이터 분석
 * [고득녕](http://blog.naver.com/nackji80/) - 네트워크
 * [고형호](http://hhko.tistory.com/) - Functional Programming
