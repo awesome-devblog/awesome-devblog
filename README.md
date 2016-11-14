@@ -436,6 +436,7 @@
 * [Mark Otto](http://markdotto.com/) - Bootstrap 창시자. 디자이너.
 * [Martin Fowler](http://martinfowler.com/) - 리팩토링 창시자
 * [Mike Gouline](https://blog.gouline.net/)
+* [Mike Nakhimovich](https://medium.com/@theMikhail) - Google Developer Expert Android
 * [Nicolai Parlog](http://blog.codefx.org/), [Nicolai Parlog](https://medium.com/@nipa) - Java channel editor at SitePoint
 * [Phil Haack](http://haacked.com/) - Github 개발자
 * [Paul Bakker](http://paulbakker.io/) - Modular Cloud Apps with OSGI 저자
