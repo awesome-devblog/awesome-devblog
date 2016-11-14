@@ -438,6 +438,7 @@
 * [Nicolai Parlog](http://blog.codefx.org/), [Nicolai Parlog](https://medium.com/@nipa) - Java channel editor at SitePoint
 * [Phil Haack](http://haacked.com/) - Github 개발자
 * [Paul Bakker](http://paulbakker.io/) - Modular Cloud Apps with OSGI 저자
+* [Paul Lewis](https://aerotwist.com/) - Google Web Developer
 * [Robert C. Martin](http://blog.cleancoder.com/) - 클린 코드 저자
 * [Rod Johnson](https://medium.com/@springrod) - Spring 창시자
 * [Sacha Greif](https://medium.com/@sachagreif) - Front-end
