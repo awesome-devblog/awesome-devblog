@@ -384,6 +384,7 @@
 
 ### A-Z
 
+* [A MEAN Blog](http://www.a-mean-blog.com/ko) - Web
 * [CIO](http://www.ciokorea.com/)
 * [CodinGame Blog](https://medium.com/@CodinGame)
 * [devpools](http://devpools.kr/)
