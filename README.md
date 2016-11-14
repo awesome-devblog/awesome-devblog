@@ -158,6 +158,7 @@
 * [송주성(빈꿈)](http://emptydream.tistory.com/) - IT 칼럼
 * [송준현](https://medium.com/@it_sjh9973)
 * [송효진](https://lovetoken.github.io/) - R
+* [신관영](http://springsource.tistory.com/) - Spring
 * [신승환](http://www.talk-with-hani.com/)
 * [신영진](http://www.jiniya.net/) - 보안
 * [신용윤](http://uni2u.tistory.com/) - 네트워크
