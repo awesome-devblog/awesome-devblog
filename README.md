@@ -261,8 +261,8 @@
 * [정윤원](http://youknowone.github.io/) - IOS
 * [정윤진](http://kerberosj.tistory.com/) - Cloud
 * [정지훈](http://health20.kr/) - IT 역사, 미래 트렌드
-* [정창훈](http://seapy.com/)
-* [조대협(bcho)](http://bcho.tistory.com/) - Java
+* [정창훈](https://blog.iamseapy.com/)
+* [조병욱(조대협)](http://bcho.tistory.com/) - Java
 * [조만석](http://manseok.blogspot.kr)
 * [조만영](https://medium.com/@manyoung) - Web
 * [조성문](http://sungmooncho.com/) - 실리콘밸리
