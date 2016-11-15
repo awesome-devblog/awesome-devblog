@@ -292,6 +292,7 @@
 * [최성재](http://yumere.tistory.com/)
 * [최유석](http://whitechoi.tistory.com/) - Cloud
 * [최재훈](http://andromedarabbit.net/)
+* [최정대](http://blog.woosum.net/) - 오픈스택
 * [최종욱](http://johnwook.com/) - 웹
 * [최종찬](http://blog.0xabcdef.com/)
 * [최준건](http://junegunn.kr/) - 다음카카오
