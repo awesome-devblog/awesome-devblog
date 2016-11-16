@@ -61,6 +61,7 @@
 * [김원일](http://androidkr.blogspot.kr/) - 안드로이드
 * [김정환](http://blog.jeonghwan.net/) - javascript,node
 * [김재국](https://jaigouk.com/)
+* [김재원](https://jaewonism.com/) - Front-end
 * [김재호](http://www.benjaminlog.com/) - C++
 * [김종욱](http://catlog.kr/)
 * [김종인](http://zzong.net) - Java, Spring
