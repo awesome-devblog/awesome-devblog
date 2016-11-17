@@ -347,6 +347,7 @@
 * [독립 개발자 네트워크](https://indidev.net/) - C/C++
 * [모두의연구소](http://www.modulabs.co.kr/)
 * [모비인사이드](http://www.mobiinside.com/kr/) - 모바일
+* [미래웹](http://www.miraeweb.com/blog) - 웹
 * [버즈니](http://engineering.buzzni.com/)
 * [삼성소프트웨어멤버십](http://blog.secmem.org/)
 * [솔라나라](http://www.solanara.net/) - 솔라리스
