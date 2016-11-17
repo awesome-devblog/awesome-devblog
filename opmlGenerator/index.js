@@ -58,6 +58,7 @@ var feeds = {
     박상민: 'https://sangminpark.wordpress.com/feed/',
     박일: 'http://rss.egloos.com/blog/parkpd',
     박정규: 'http://bagjunggyu.blogspot.com/feeds/posts/default',
+    박정태: 'http://blog.naver.com/pjt3591oo',
     방준영: 'http://feeds.feedburner.com/junyoung?format=xml',
     배기홍: 'http://feeds.feedburner.com/baenefit/slXh',
     백기선: 'http://whiteship.me/?feed=rss2',
