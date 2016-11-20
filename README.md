@@ -234,6 +234,7 @@
 * [이현섭](http://hyunseob.github.io/) - Web
 * [이호성](https://brunch.co.kr/@leehosung) - 8퍼센트 CTO. 개발 문화
 * [이흥섭](http://subl.ee/) - 게임
+* [이흥현](https://medium.com/@maxzidell) - tyle.io CTO. 웹
 * [임지훈](http://www.jimmyrim.com/) - 스타트업 투자
 * [임희진](http://epicdevs.com/) - Back-end
 * [Kevin Lee](https://lckymn.com/about-kevin) - 자바
