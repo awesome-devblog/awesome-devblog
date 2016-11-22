@@ -404,6 +404,7 @@
 * [IAMROOT](http://www.iamroot.org/) - 리눅스 커널 스터디 그룹
 * [IT월드](http://www.itworld.co.kr/)
 * [LG CNS](http://blog.lgcns.com/)
+* [Line Enginners Blog](http://developers.linecorp.com/blog/ko/)
 * [Mozilla Hack](http://hacks.mozilla.or.kr/), [Mozilla Developer](https://developer.mozilla.org/ko/)
 * [Popit](http://www.popit.kr/)
 * [SLiPP](http://slipp.net/) - 박재성, 김현기, 오진우
