@@ -356,6 +356,7 @@
 * [삼성소프트웨어멤버십](http://blog.secmem.org/)
 * [솔라나라](http://www.solanara.net/) - 솔라리스
 * [스타일쉐어](http://styleshare.github.io/)
+* [스타트링크](https://blog.startlink.io/)
 * [슬로우뉴스](http://slownews.kr/category/tech)
 * [시스코](http://ciscokrblog.com/)
 
