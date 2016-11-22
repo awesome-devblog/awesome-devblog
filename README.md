@@ -242,6 +242,7 @@
 ### ㅈ
 
 * [장기효(기효 조슈아 장)](https://joshuajangblog.wordpress.com/)
+* [장동수](http://blog.iolo.kr/) - Web
 * [장선진](http://blog.java2game.com/)
 * [장성민](http://www.jangkunblog.com/) - 웹접근성
 * [장영철](http://dkdlel072.tistory.com/) - Unity
