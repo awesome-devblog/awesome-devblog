@@ -259,7 +259,7 @@
 * [정도현](http://www.moreagile.net/) - 개발방법론
 * [정재남](http://gomugom.github.io/) - Front-end
 * [정재화](http://blrunner.com/) - 타조 커미터. 하둡
-* [정재훈](http://uzys.net/)
+* [정재훈](http://uzys.net/) - Rankedin 개발자
 * [정상혁](http://blog.benelog.net/) - Java
 * [정성태](http://www.sysnet.pe.kr/) - 닷넷
 * [정윤성](http://sadang-hobbits.github.io/) - Rust
