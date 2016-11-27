@@ -22,6 +22,7 @@
 * [구교준](http://danielku.com/)
 * [구종만](https://github.com/sarojaba/awesome-devblog/blob/master/theyearlyprophet.md)([블로그](http://theyearlyprophet.com/)) - 알고리즘
 * [권남](http://kwon37xi.egloos.com/) - Java
+* [권동준](https://mayajuni.github.io/) - Web
 * [권장표](http://willbesomething.com/) - 게임 기획
 * [권정혁](http://xguru.net/guru) - 개발 트렌드
 * [권창현](http://thoughts.chkwon.net/) - 산업공학
