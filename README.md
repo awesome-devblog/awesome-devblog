@@ -281,7 +281,7 @@
 * [조영호](http://aeternum.egloos.com/)
 * [조우진](http://www.notforme.kr/) - Angular
 * [조인석](https://brunch.co.kr/@insuk) - SW 칼럼
-* [조현영](https://www.zerocho.com/) - Javascript
+* [조현영(ZeroCho)](https://www.zerocho.com/) - Javascript
 * [조현진](http://resistan.com/) - 웹접근성
 * [주우영](http://blog.coderifleman.com/) - React.js
 * [지국환](http://wlhermit.blog.me/) - 게임 개발
