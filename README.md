@@ -241,6 +241,7 @@
 * [이흥섭](http://subl.ee/) - 게임
 * [이흥현](https://medium.com/@maxzidell) - tyle.io CTO. 웹
 * [임지훈](http://www.jimmyrim.com/) - 스타트업 투자
+* [임한솔](http://hsol.tistory.com/) - 웹
 * [임희진](http://epicdevs.com/) - Back-end
 * [Kevin Lee](https://lckymn.com/about-kevin) - 자바
 
