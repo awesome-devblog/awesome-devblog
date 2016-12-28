@@ -120,6 +120,7 @@
 * [박경훈(HOONS)](http://hoonsbara.tistory.com/) - 닷넷
 * [박민근(알콜코더)](http://blog.naver.com/agebreak) - 게임 개발
 * [박민우](http://earlybird.kr/) - Realm
+* [박상권](http://gun0912.tistory.com/) - Android
 * [박상길](http://likejazz.com/)
 * [박상민](https://sangminpark.wordpress.com/)
 * [박상훈](https://brunch.co.kr/@sanghoonpak) - 인도네시아 IT 소식
