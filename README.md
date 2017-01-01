@@ -28,6 +28,7 @@
 * [권창현](http://thoughts.chkwon.net/) - 산업공학
 * [김광현(광파리)](http://kwang82.hankyung.com/) - IT 소식
 * [김국현](http://goodhyun.com/) - IT 칼럼
+* [김남윤](https://brunch.co.kr/@cheese10yun)
 * [김놀부](http://nolboo.github.io/) - 번역 모음
 * [김대권](http://nacyot.com/)
 * [김대기](http://daegikim.github.io/) - 웹
