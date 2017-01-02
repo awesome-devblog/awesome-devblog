@@ -198,6 +198,7 @@
 * [오현석](https://github.com/sarojaba/awesome-devblog/blob/master/enshahar.md)([블로그](http://www.enshahar.me/)) - 스칼라, 스위프트
 * [용현택](http://yonght.tumblr.com/)
 * [우준혁](http://sarojaba.tumblr.com/)
+* [원강민](https://blog.wonhada.com/) - 코로나
 * [위현종](http://jasonwi.com/) - 스타트업
 * [유동곤](http://blog.naver.com/ehdrhs1004) - C++
 * [유동환](https://brunch.co.kr/@yudong)
