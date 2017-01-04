@@ -195,6 +195,7 @@
 * [오광신](http://kwangshin.pe.kr/) - 함수형 언어
 * [오동권](http://www.flowdas.com/)
 * [오종빈](http://ohyecloudy.com/doku.php)
+* [오준석](https://brunch.co.kr/@hopeless) - Android
 * [오현석](https://github.com/sarojaba/awesome-devblog/blob/master/enshahar.md)([블로그](http://www.enshahar.me/)) - 스칼라, 스위프트
 * [용현택](http://yonght.tumblr.com/)
 * [우준혁](http://sarojaba.tumblr.com/)
