@@ -532,6 +532,7 @@
 * [Stack Builder](http://www.stackbuilders.com/)
 * [Takipi blog](http://blog.takipi.com/)
 * [The New Stack](http://thenewstack.io/)
+* [Thoughts on Java](http://www.thoughts-on-java.org/) - Java
 * [Toptal Engineering Blog](http://www.toptal.com/blog)
 * [Treehouse Blog](http://blog.teamtreehouse.com/)
 * [Uber Developer Blog](http://devblog.uber.com/)
