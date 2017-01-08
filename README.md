@@ -486,6 +486,7 @@
 * [Android Developers Blog](http://android-developers.blogspot.kr/)
 * [AutoCAD DevBlog](http://adndevblog.typepad.com/autocad/)
 * [Awwwards Blog](http://www.awwwards.com/blog/) - Web
+* [Baeldung](http://www.baeldung.com/) - Java, Spring
 * [BlackBerry Developer Blog](http://devblog.blackberry.com/)
 * [Code as Craft(Andrew Johnson)](https://codeascraft.com/)
 * [Comunications of the ACM](http://cacm.acm.org/blogs/about-the-blogs)
