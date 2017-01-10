@@ -232,6 +232,7 @@
 * [이성몽](http://blog.naver.com/santalsm) - 기술사
 * [이성호](http://blog.scaloid.org/) - 스칼라, 안드로이드
 * [이세우](http://blog.xcoda.net/)
+* [이소현](https://brunch.co.kr/@sohyeonlee)
 * [이수홍](https://brunch.co.kr/@sbcoba) - Spring Boot
 * [이승훈](https://brunch.co.kr/@seunghoon82)
 * [이윤창](http://daddycat.blogspot.kr/)
