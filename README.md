@@ -511,6 +511,7 @@
 * [jGuru](http://www.jguru.com/) - Java
 * [Javarevisited](http://javarevisited.blogspot.sg/) - Java
 * [JetBrains Blog](http://blog.jetbrains.com/)
+* [Klarna Engineering](https://engineering.klarna.com/)
 * [LINE](http://developers.linecorp.com/blog/)
 * [Lua.Space](http://lua.space/) - Lua Community Blog
 * [Microsoft Edge Dev Blog](https://blogs.windows.com/msedgedev/)
