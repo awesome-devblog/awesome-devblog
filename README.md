@@ -490,6 +490,7 @@
 * [Awwwards Blog](http://www.awwwards.com/blog/) - Web
 * [Baeldung](http://www.baeldung.com/) - Java, Spring
 * [BlackBerry Developer Blog](http://devblog.blackberry.com/)
+* [Built.io](https://www.built.io/blog/)
 * [Code as Craft(Andrew Johnson)](https://codeascraft.com/)
 * [Comunications of the ACM](http://cacm.acm.org/blogs/about-the-blogs)
 * [Dr.Dobb's](http://www.drdobbs.com/blogs/)
