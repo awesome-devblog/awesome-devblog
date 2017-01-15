@@ -401,6 +401,7 @@
 * [이음소시어스](http://bigmatch.i-um.net/)
 * [인사이트](http://www.insightbook.co.kr/) - 책
 * [제이펍](http://jpub.tistory.com/) - 책
+* [조이코퍼레이션](https://medium.com/zoyi-blog)
 * [지디넷 코리아](http://www.zdnet.co.kr/)
 * [카이스트 Applied Algorithm Lab.](http://aalog.tistory.com/)
 * [카카오 기술 블로그](http://tech.kakao.com/)
