@@ -24,6 +24,7 @@
 * [권남](http://kwon37xi.egloos.com/) - Java
 * [권동준](https://mayajuni.github.io/) - Web
 * [권영재](https://nesoy.github.io/)
+* [권윤학](http://web-front-end.tistory.com/) - Web
 * [권장표](http://willbesomething.com/) - 게임 기획
 * [권정혁](http://xguru.net/guru) - 개발 트렌드
 * [권창현](http://thoughts.chkwon.net/) - 산업공학
