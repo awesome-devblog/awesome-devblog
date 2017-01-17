@@ -88,6 +88,7 @@
 * [김태호](https://medium.com/@xissy) - 스타트업
 * [김태헌](https://brunch.co.kr/@myte) - 해외 취업
 * [김포프](http://kblog.popekim.com/)
+* [김한결](http://devkyeol.tistory.com/)
 * [김현유(미키김)](http://www.mickeykim.com/) - 구글
 * [김형준](http://www.gisdeveloper.co.kr/) - GIS
 * [김화수](http://flowerexcel.tistory.com/) - C++
