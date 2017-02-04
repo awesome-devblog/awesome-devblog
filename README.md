@@ -74,6 +74,7 @@
 * [김준철](http://jetalog.net/) - Solr
 * [김지영](https://brunch.co.kr/@pubjinson)
 * [김지현](https://hyeon.me/)
+* [김지홍](https://brunch.co.kr/@jihere1001) - 프로토타이핑
 * [김진국](http://forensic-proof.com/) - 포렌식
 * [김진수](https://item4.github.io/) - Web
 * [김진욱](http://rein.kr/blog/)
