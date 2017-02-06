@@ -44,7 +44,7 @@
       <outline title="김용묵" type="rss" xmlUrl="http://moogi.new21.org/tc/rss"/>
       <outline title="김용환" type="rss" xmlUrl="http://knight76.tistory.com/rss"/>
       <outline title="김용현" type="rss" xmlUrl="http://blog.rss.naver.com/drvoss.xml"/>
-      <outline title="김우섭" type="atom" xmlUrl="https://brunch.co.kr/atom/@@tcN"/>
+      <outline title="김우섭" type="rss" xmlUrl="https://blog.wooseop.kim/categories/%ED%91%B8%EB%A1%9C%EA%B5%AC%EB%9D%BC%EB%B0%8D/index.xml"/>
       <outline title="김우승" type="rss" xmlUrl="https://kimws.wordpress.com/feed/"/>
       <outline title="김우용" type="atom" xmlUrl="https://brunch.co.kr/atom/@@13x1"/>
       <outline title="김정환" type="rss" xmlUrl="http://blog.jeonghwan.net/feed.xml"/>
