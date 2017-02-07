@@ -11,6 +11,7 @@
 
 * [강규영](https://github.com/sarojaba/awesome-devblog/blob/master/ecogwiki.md)([블로그](http://www.ecogwiki.com/))
 * [강대명](https://github.com/sarojaba/awesome-devblog/blob/master/charsyam.md)([블로그](https://charsyam.wordpress.com/)) - 서버 사이드
+* [강동혁](https://brunch.co.kr/@dongkang) - 인디 개발
 * [강성일](https://b.luavis.kr/) - Python
 * [강성훈](http://mearie.org/)
 * [강성희](https://medium.com/@shaynekang)
