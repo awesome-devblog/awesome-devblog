@@ -250,7 +250,7 @@
 * [이제민](https://leejaymin.github.io/)([블로그](http://goodtogreate.tistory.com/)) - Data Science
 * [이준행](blog.rainygirl.com)
 * [이지훈](http://jihoonl.notemywish.com/)
-* [이진석](https://ask.festi.kr/) - Django
+* [이진석](https://medium.com/@allieuslee) - Python, Django
 * [이충영](https://medium.com/@wangmul)
 * [이하제](http://realignist.me/) - Java, Rust
 * [이해영](http://www.haeyounglee.com/) - 개발자 영어
