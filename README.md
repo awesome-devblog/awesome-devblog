@@ -252,6 +252,7 @@
 * [이일희(제닉스)](http://nixsense.net/) - IT 리뷰
 * [이재홍](http://pyrasis.com/) - Go
 * [이제민](https://leejaymin.github.io/)([블로그](http://goodtogreate.tistory.com/)) - Data Science
+* [이준범](https://beomi.github.io/) - Python
 * [이준행](blog.rainygirl.com)
 * [이지훈](http://jihoonl.notemywish.com/)
 * [이진석](https://medium.com/@allieuslee) - Python, Django
