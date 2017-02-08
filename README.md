@@ -103,6 +103,7 @@
 
 ### ㄴ
 
+* [남궁민](https://medium.com/@minnamgoong) - 스타트업
 * [남영환](http://www.iamfrom.kr/) - Java, Javascript
 * [남정현](http://www.rkttu.com/) - 클라우드
 * [남주명](http://namjmnam.blog.me/) - 보안
