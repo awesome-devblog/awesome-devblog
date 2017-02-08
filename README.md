@@ -235,6 +235,7 @@
 * [이경원](http://blog.woniper.net/) - Java
 * [이경일](http://blog.leekyoungil.com/) - Java
 * [이규원](https://justhackem.wordpress.com/)
+* [이규혁](http://kyuhyuk.kr/)
 * [이도현](http://genesis8.tistory.com/)
 * [이동련](http://start.goodtime.co.kr/)
 * [이민석](http://hl1itj.tistory.com/)
