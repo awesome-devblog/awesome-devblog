@@ -224,6 +224,7 @@
 * [윤상배](http://www.joinc.co.kr/) - 위키
 * [윤석찬](http://channy.creation.net/) - 오픈웹
 * [윤영식](http://mobicon.tistory.com/)
+* [유용우](http://luckyyowu.tistory.com/)
 * [유용호](http://blog.eedler.com/)
 * [윤창석](http://changsuk.me/) - 다음카카오
 * [윤청하](https://brunch.co.kr/@brunch4nrs) - 구글러
