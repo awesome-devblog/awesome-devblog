@@ -24,6 +24,7 @@
 * [구종만](https://github.com/sarojaba/awesome-devblog/blob/master/theyearlyprophet.md)([블로그](http://theyearlyprophet.com/)) - 알고리즘
 * [권남](http://kwon37xi.egloos.com/) - Java
 * [권동준](https://mayajuni.github.io/) - Web
+* [권민재](https://mingrammer.com/) - Python
 * [권영재](https://nesoy.github.io/)
 * [권윤학](http://web-front-end.tistory.com/) - Web
 * [권장표](http://willbesomething.com/) - 게임 기획
