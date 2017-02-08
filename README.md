@@ -245,6 +245,7 @@
 * [이도현](http://genesis8.tistory.com/)
 * [이동규](http://chandong83.blog.me/)
 * [이동련](http://start.goodtime.co.kr/)
+* [이명현](https://brunch.co.kr/@brightlee)
 * [이민석](http://hl1itj.tistory.com/)
 * [이민호](http://lumiamitie.github.io/)
 * [이병준](http://www.buggymind.com/)
