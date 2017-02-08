@@ -139,6 +139,7 @@
 * [박상권](http://gun0912.tistory.com/) - Android
 * [박상길](http://likejazz.com/)
 * [박상민](https://sangminpark.wordpress.com/)
+* [박상일](https://tkddlf59.github.io/) - AWS
 * [박상훈](https://brunch.co.kr/@sanghoonpak) - 인도네시아 IT 소식
 * [박성철](http://blog.fupfin.com/) - Java
 * [박영록](http://youngrok.com/) - 위키나무
