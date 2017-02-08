@@ -157,6 +157,7 @@
 * [박찬욱](http://chanwookpark.github.io/) - Back-end
 * [박현우](http://lqez.github.io/)
 * [박훈](http://1ambda.github.io/) - 함수형 언어
+* [박희근](http://sirini.net/grboard2/blog)
 * [박희찬](https://blog.chann.kr/)
 * [방준영](http://bangjunyoung.blogspot.kr/) - Java
 * [배기홍](http://www.thestartupbible.com/) - IT 칼럼
