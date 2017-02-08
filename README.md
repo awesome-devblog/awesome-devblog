@@ -76,6 +76,7 @@
 * [김종욱](http://catlog.kr/)
 * [김종인](http://zzong.net) - Java, Spring
 * [김준철](http://jetalog.net/) - Solr
+* [김준환](http://topnanis.tistory.com/)
 * [김지영](https://brunch.co.kr/@pubjinson)
 * [김지현](https://hyeon.me/)
 * [김지홍](https://brunch.co.kr/@jihere1001) - 프로토타이핑
