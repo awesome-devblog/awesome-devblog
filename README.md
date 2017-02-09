@@ -275,6 +275,7 @@
 * [이호성](https://brunch.co.kr/@leehosung) - 8퍼센트 CTO. 개발 문화
 * [이흥섭](http://subl.ee/) - 게임
 * [이흥현](https://medium.com/@maxzidell) - tyle.io CTO. 웹
+* [임정택](http://medium.com/@heartsavior) - 백엔드, 오픈소스
 * [임지훈](http://www.jimmyrim.com/) - 스타트업 투자
 * [임한솔](http://hsol.tistory.com/) - 웹
 * [임희진](http://epicdevs.com/) - Back-end
