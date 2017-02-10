@@ -227,7 +227,7 @@
       <outline title="데일리호텔" type="rss" xmlUrl="https://dailyhotel.io/feed"/>
       <outline title="에이콘" type="rss" xmlUrl="http://feeds.feedburner.com/acornpub"/>
       <outline title="엠비안" type="rss" xmlUrl="http://blog.embian.com/rss"/>
-      <outline title="위클립스" type="rss" xmlUrl="http://eclipse.or.kr/index.php?title=특수기능:최근바뀜&feed=atom"/>
+      <outline title="위클립스" type="rss" xmlUrl="http://eclipse.or.kr/index.php?title=특수기능:최근바뀜&amp;feed=atom"/>
       <outline title="이상한모임" type="rss" xmlUrl="http://blog.weirdx.io/feed/"/>
       <outline title="이음소시어스" type="rss" xmlUrl="http://bigmatch.i-um.net/feed/"/>
       <outline title="인사이트" type="rss" xmlUrl="http://blog.insightbook.co.kr/rss"/>
