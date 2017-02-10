@@ -26,7 +26,6 @@
       <outline title="김덕홍" type="rss" xmlUrl="http://insanehong.kr/rss.xml"/>
       <outline title="김도균" type="rss" xmlUrl="http://www.dokyun.pe.kr/rss"/>
       <outline title="김명신" type="rss" xmlUrl="http://rss.egloos.com/blog/himskim"/>
-      <outline title="김명준" type="rss" xmlUrl="http://html5lab.kr/feed/"/>
       <outline title="김민수" type="rss" xmlUrl="http://www.kmshack.kr/rss"/>
       <outline title="김민장" type="rss" xmlUrl="http://rss.egloos.com/blog/minjang"/>
       <outline title="김범준" type="rss" xmlUrl="http://bomjun.tistory.com/rss"/>
@@ -62,7 +61,7 @@
       <outline title="김태헌" type="rss" xmlUrl="https://brunch.co.kr/rss/@@ydx"/>
       <outline title="김포프" type="rss" xmlUrl="http://kblog.popekim.com/feeds/posts/default"/>
       <outline title="김현유" type="rss" xmlUrl="http://www.mickeykim.com/rss"/>
-      <outline title="김형준" type="rss" xmlUrl="http://www.gisdeveloper.co.kr/rss"/>
+      <outline title="김형준" type="rss" xmlUrl="http://www.gisdeveloper.co.kr/?feed=rss2"/>
       <outline title="김환희" type="rss" xmlUrl="http://rss.egloos.com/blog/greentec"/>
       <outline title="김훈민" type="rss" xmlUrl="http://huns.me/feed"/>
 
@@ -87,7 +86,7 @@
       <outline title="박일" type="rss" xmlUrl="http://rss.egloos.com/blog/parkpd"/>
       <outline title="박재호" type="atom" xmlUrl="http://feeds.feedburner.com/blogspot/ASpE"/>
       <outline title="박정규" type="rss" xmlUrl="http://bagjunggyu.blogspot.com/feeds/posts/default"/>
-      <outline title="박정태" type="rss" xmlUrl="http://blog.naver.com/pjt3591oo"/>
+      <outline title="박정태" type="rss" xmlUrl="http://blog.rss.naver.com/pjt3591oo.xml"/>
       <outline title="박종명" type="rss" xmlUrl="http://m.mkexdev.net/rss"/>
       <outline title="박현우" type="atom" xmlUrl="http://lqez.github.io/blog/feeds/all.atom.xml"/>
       <outline title="방준영" type="rss" xmlUrl="http://feeds.feedburner.com/junyoung?format=xml"/>
@@ -109,7 +108,6 @@
       <outline title="송영환" type="rss" xmlUrl="http://purluno.wordpress.com/feed/"/>
       <outline title="송주성" type="rss" xmlUrl="http://emptydream.tistory.com/rss"/>
       <outline title="송효진" type="rss" xmlUrl="https://lovetoken.github.io/feed.xml"/>
-      <outline title="신승환" type="rss" xmlUrl="http://www.talk-with-hani.com/rss"/>
       <outline title="신영진" type="rss" xmlUrl="http://feeds.feedburner.com/codewiz"/>
       <outline title="신용윤" type="rss" xmlUrl="http://uni2u.tistory.com/rss"/>
       <outline title="신현묵" type="rss" xmlUrl="http://zetlos.tistory.com/rss"/>
@@ -152,7 +150,6 @@
       <outline title="이동련" type="rss" xmlUrl="http://start.goodtime.co.kr/feed/"/>
       <outline title="이민석" type="rss" xmlUrl="http://hl1itj.tistory.com/rss"/>
       <outline title="이민호" type="rss" xmlUrl="http://lumiamitie.github.io/feed.xml"/>
-      <outline title="이병준" type="rss" xmlUrl="http://www.buggymind.com/rss"/>
       <outline title="이상욱" type="rss" xmlUrl="http://feeds.feedburner.com/sangwook?format=xml"/>
       <outline title="이상주" type="rss" xmlUrl="https://feeds.feedburner.com/surpreem"/>
       <outline title="이성규" type="rss" xmlUrl="http://www.shalomeir.com/feed/"/>
@@ -162,7 +159,6 @@
       <outline title="이수홍" type="rss" xmlUrl="https://brunch.co.kr/rss/@@so6"/>
       <outline title="이윤창" type="rss" xmlUrl="http://daddycat.blogspot.com/feeds/posts/default"/>
       <outline title="이재홍" type="rss" xmlUrl="http://feeds.feedburner.com/pyrasis?format=xml"/>
-      <outline title="이진석" type="rss" xmlUrl="https://ask.festi.kr/class/blog/rss/"/>
       <outline title="이해영" type="rss" xmlUrl="http://feeds.feedburner.com/haeyounglee"/>
       <outline title="이현섭" type="rss" xmlUrl="http://hyunseob.github.io/atom.xml"/>
       <outline title="임정택" type="rss" xmlUrl="https://medium.com/feed/@heartsavior"/>
@@ -187,7 +183,6 @@
       <outline title="정성태" type="rss" xmlUrl="http://www.sysnet.pe.kr/rss/getrss.aspx?boardId=635954948"/>
       <outline title="정윤성" type="atom" xmlUrl="http://sadang-hobbits.github.io/atom.xml"/>
       <outline title="정윤진" type="rss" xmlUrl="http://kerberosj.tistory.com/rss"/>
-      <outline title="정지훈" type="rss" xmlUrl="http://health20.kr/rss"/>
       <outline title="정창훈" type="rss" xmlUrl="https://blog.iamseapy.com/feed"/>
       <outline title="조만석" type="atom" xmlUrl="http://manseok.blogspot.com/feeds/posts/default"/>
       <outline title="조만영" type="rss" xmlUrl="https://medium.com/feed/@manyoung"/>
@@ -207,7 +202,7 @@
       <outline title="최근우" type="rss" xmlUrl="https://keunwoochoi.wordpress.com/feed/"/>
       <outline title="최범균" type="rss" xmlUrl="http://javacan.tistory.com/rss"/>
       <outline title="최유석" type="rss" xmlUrl="http://whitechoi.tistory.com/rss"/>
-      <outline title="최재훈" type="rss" xmlUrl="http://andromedarabbit.net/wp/feed/"/>
+      <outline title="최재훈" type="rss" xmlUrl="http://andromedarabbit.net/feed/"/>
       <outline title="최정대" type="rss" xmlUrl="http://blog.woosum.net/feed"/>
       <outline title="최종찬" type="atom" xmlUrl="http://blog.0xabcdef.com/rss/atom"/>
       <outline title="최준건" type="atom" xmlUrl="http://junegunn.kr/atom.xml"/>
@@ -222,13 +217,12 @@
       <outline title="홍민희" type="rss" xmlUrl="http://blog.dahlia.kr/rss"/>
       <outline title="홍성철" type="rss" xmlUrl="http://blog.fupfin.com/?feed=rss2"/>
       <outline title="황장호" type="rss" xmlUrl="http://xrath.com/feed/"/>
-      <outline title="황상철" type="rss" xmlUrl="http://pragmaticstory.com/feed/"/>
+      <outline title="황상철" type="rss" xmlUrl="http://pragmaticstory.com/?feed=rss2"/>
       <outline title="히언" type="rss" xmlUrl="http://rss.egloos.com/blog/recipes"/>
       <outline title="현승" type="rss" xmlUrl="http://iam-hs.com/rss"/>
       <outline title="게임개발포에버" type="rss" xmlUrl="http://feeds.feedburner.com/gamedevforever?format=xml"/>
-      <outline title="네이버" type="rss" xmlUrl="http://helloworld.naver.com/rss"/>
+      <outline title="네이버" type="rss" xmlUrl="http://d2.naver.com/d2.atom"/>
       <outline title="넥스트리" type="rss" xmlUrl="http://www.nextree.co.kr/feed/"/>
-      <outline title="아이디인큐" type="rss" xmlUrl="https://blogs.idincu.com/dev/feed/"/>
       <outline title="데일리호텔" type="rss" xmlUrl="https://dailyhotel.io/feed"/>
       <outline title="에이콘" type="rss" xmlUrl="http://feeds.feedburner.com/acornpub"/>
       <outline title="엠비안" type="rss" xmlUrl="http://blog.embian.com/rss"/>
@@ -236,7 +230,6 @@
       <outline title="이상한모임" type="rss" xmlUrl="http://blog.weirdx.io/feed/"/>
       <outline title="이음소시어스" type="rss" xmlUrl="http://bigmatch.i-um.net/feed/"/>
       <outline title="인사이트" type="rss" xmlUrl="http://blog.insightbook.co.kr/rss"/>
-      <outline title="코딩뉴스" type="rss" xmlUrl="http://www.codingnews.net/?feed=rss2"/>
       <outline title="테크수다" type="rss" xmlUrl="http://www.techsuda.com/feed"/>
       <outline title="티몬" type="rss" xmlUrl="http://tmondev.blog.me/rss"/>
       <outline title="한국게임기획자모임" type="rss" xmlUrl="http://gameplanner.cafe24.com/feed/"/>
