@@ -398,6 +398,7 @@
 * [넷매니아즈](http://www.netmanias.com/ko/)
 * [다음 DNA Lens](http://dna.daum.net/lens/)
 * [달리웍스](http://techblog.daliworks.net/)
+* [데일리호텔](https://dailyhotel.io)
 * [독립 개발자 네트워크](https://indidev.net/) - C/C++
 * [모두의연구소](http://www.modulabs.co.kr/)
 * [모비인사이드](http://www.mobiinside.com/kr/) - 모바일
