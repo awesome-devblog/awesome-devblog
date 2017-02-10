@@ -229,6 +229,7 @@
       <outline title="네이버" type="rss" xmlUrl="http://helloworld.naver.com/rss"/>
       <outline title="넥스트리" type="rss" xmlUrl="http://www.nextree.co.kr/feed/"/>
       <outline title="아이디인큐" type="rss" xmlUrl="https://blogs.idincu.com/dev/feed/"/>
+      <outline title="데일리호텔" type="rss" xmlUrl="https://dailyhotel.io/feed"/>
       <outline title="에이콘" type="rss" xmlUrl="http://feeds.feedburner.com/acornpub"/>
       <outline title="엠비안" type="rss" xmlUrl="http://blog.embian.com/rss"/>
       <outline title="위클립스" type="rss" xmlUrl="http://eclipse.or.kr/index.php?title=특수기능:최근바뀜&amp;feed=atom"/>
