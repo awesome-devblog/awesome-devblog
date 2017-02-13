@@ -253,6 +253,7 @@
 * [이민석](http://hl1itj.tistory.com/)
 * [이민호](http://lumiamitie.github.io/)
 * [이병준](http://www.buggymind.com/)
+* [이상영](http://blog.sangyoung.me/)
 * [이상우](http://prostars.net/) - C++
 * [이상욱](http://yisangwook.tumblr.com/) - 아키텍처 분석
 * [이상주](http://surpreem.com/)
