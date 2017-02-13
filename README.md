@@ -44,6 +44,7 @@
 * [김명준](http://html5lab.kr/) - 프론트엔드
 * [김민수](http://www.kmshack.kr/) - 안드로이드
 * [김민장](http://minjang.egloos.com/) - 컴퓨터 아키텍처
+* [김민준](https://velopert.com/) - Front-end
 * [김범준](http://bomjun.tistory.com/)
 * [김범준](http://nolsigan.github.io/)
 * [김범진](https://medium.com/@beejei)
