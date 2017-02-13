@@ -50,6 +50,7 @@
 * [김병환](http://kimbyeonghwan.tumblr.com/) - UX
 * [김석기](https://brunch.co.kr/@neo3xdh) - IT 칼럼
 * [김석준](http://seokjun.kr/)
+* [김성빈](http://sungbine.github.io/) - Web
 * [김성수](http://sungsoo.github.io/)
 * [김성현](http://greemate.tistory.com/) - 윈도우즈 커널
 * [김성호](http://raccoonyy.github.io/)
