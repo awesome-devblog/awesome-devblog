@@ -568,6 +568,7 @@
 * [Netflix Tech Blog](http://techblog.netflix.com/)
 * [New Relic](https://blog.newrelic.com/)
 * [Nordic API](http://nordicapis.com/blog/) - Java, Scala, Spark
+* [OpenAI](https://openai.com/blog/) - AI
 * [OpenCredo](https://www.opencredo.com/blog/) - Java
 * [Parrot Dev Blog](http://developer.parrot.com/blog/) - Drone
 * [PayPal Developer](https://devblog.paypal.com/)
