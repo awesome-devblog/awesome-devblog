@@ -147,6 +147,7 @@
 * [박상일](https://tkddlf59.github.io/) - AWS
 * [박상훈](https://brunch.co.kr/@sanghoonpak) - 인도네시아 IT 소식
 * [박성철](http://blog.fupfin.com/) - Java
+* [박성현](https://helloworldpark.github.io/)
 * [박영록](http://youngrok.com/) - 위키나무
 * [박용권](https://brunch.co.kr/@arawn)
 * [박용서](https://gs.saro.me)
