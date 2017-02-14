@@ -93,6 +93,7 @@
 * [김태곤](http://taegon.kim/) - 웹
 * [김태균](http://blog.gaerae.com/)
 * [김태기](https://beyondj2ee.wordpress.com/) -Java
+* [김태영](https://tykimos.github.io/) - 머신러닝
 * 김태호([신규](http://kunny.github.io/), [이전](http://androidhuman.com/)) - 안드로이드
 * [김태호](https://medium.com/@xissy) - 스타트업
 * [김태헌](https://brunch.co.kr/@myte) - 해외 취업
