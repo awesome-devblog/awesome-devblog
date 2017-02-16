@@ -291,7 +291,7 @@
 
 ### ㅈ
 
-* [장기효(기효 조슈아 장)](https://joshuajangblog.wordpress.com/)
+* [장기효(기효 조슈아 장)](https://joshuajangblog.wordpress.com/), [장기효](https://joshua1988.github.io/)
 * [장동수](http://blog.iolo.kr/) - Web
 * [장문익](http://mooneegee.blogspot.kr/) - 3D
 * [장선진](http://blog.java2game.com/)
