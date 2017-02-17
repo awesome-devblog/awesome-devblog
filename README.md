@@ -33,7 +33,7 @@
 * [권창현](http://thoughts.chkwon.net/) - 산업공학
 * [김광현(광파리)](http://kwang82.hankyung.com/) - IT 소식
 * [김국현](http://goodhyun.com/) - IT 칼럼
-* [김남윤](https://cheese10yun.github.io/) - Javascript
+* [김남윤](https://cheese10yun.github.io/) - Javascript, Node.JS
 * [김놀부](http://nolboo.github.io/) - 번역 모음
 * [김대권](http://nacyot.com/)
 * [김대기](http://daegikim.github.io/) - 웹
@@ -148,6 +148,7 @@
 * [박상일](https://tkddlf59.github.io/) - AWS
 * [박상훈](https://brunch.co.kr/@sanghoonpak) - 인도네시아 IT 소식
 * [박성철](http://blog.fupfin.com/) - Java
+* [박석제](https://parkseokje.github.io/)
 * [박성현](https://helloworldpark.github.io/)
 * [박영록](http://youngrok.com/) - 위키나무
 * [박용권](https://brunch.co.kr/@arawn)
@@ -156,7 +157,7 @@
 * [박재성(자바지기)](http://javajigi.net/) - Java
 * [박재호](http://jhrogue.blogspot.kr/)
 * [박정규](http://bagjunggyu.blogspot.kr/) - 리눅스
-* [박정태](http://blog.naver.com/pjt3591oo) - Back-end, 서버 
+* [박정태](http://blog.naver.com/pjt3591oo) - Back-end, 서버
 * [박종명](http://m.mkexdev.net/)
 * [박진서](http://jasonpark.me/)
 * [박찬욱](http://chanwookpark.github.io/) - Back-end
