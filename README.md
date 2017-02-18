@@ -277,6 +277,7 @@
 * [이준행](blog.rainygirl.com)
 * [이지훈](http://jihoonl.notemywish.com/)
 * [이진석](https://medium.com/@allieuslee) - Python, Django
+* [이태희](https://brunch.co.kr/@bradlee)
 * [이충영](https://medium.com/@wangmul)
 * [이하제](http://realignist.me/) - Java, Rust
 * [이해영](http://www.haeyounglee.com/) - 개발자 영어
