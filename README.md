@@ -20,6 +20,7 @@
 * [강한별](https://brunch.co.kr/@cloud09) - 데이터 분석
 * [고득녕](http://blog.naver.com/nackji80/) - 네트워크
 * [고형호](http://hhko.tistory.com/) - Functional Programming
+* [곽민수](https://brunch.co.kr/@imagineer)
 * [구교준](http://danielku.com/)
 * [구종만](https://github.com/sarojaba/awesome-devblog/blob/master/theyearlyprophet.md)([블로그](http://theyearlyprophet.com/)) - 알고리즘
 * [권기호](http://kwongyo.tistory.com/)
