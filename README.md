@@ -268,6 +268,7 @@
 * [이세우](http://blog.xcoda.net/)
 * [이소현](https://brunch.co.kr/@sohyeonlee)
 * [이수홍](https://brunch.co.kr/@sbcoba) - Spring Boot
+* [이승현](http://hamait.tistory.com/)
 * [이승훈](https://brunch.co.kr/@seunghoon82)
 * [이웅희](http://woongheelee.com/)
 * [이윤창](http://daddycat.blogspot.kr/)
