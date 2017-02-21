@@ -260,6 +260,7 @@
 * [이상영](http://blog.sangyoung.me/)
 * [이상우](http://prostars.net/) - C++
 * [이상욱](http://yisangwook.tumblr.com/) - 아키텍처 분석
+* [이상운](https://highluck.github.io/)
 * [이상주](http://surpreem.com/)
 * [이선협](https://medium.com/sunhyoups-story)
 * [이성규](http://www.shalomeir.com/)
