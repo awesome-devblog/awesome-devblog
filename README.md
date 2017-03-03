@@ -7,6 +7,8 @@
 
 ## 국내 개인 사이트
 
+![도메인 분포](http://imgur.com/download/lNmVfaX)
+
 ### ㄱ
 
 * [강규영](https://github.com/sarojaba/awesome-devblog/blob/master/ecogwiki.md)([블로그](http://www.ecogwiki.com/))
