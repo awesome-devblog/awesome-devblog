@@ -388,7 +388,7 @@
 * [홍민희(dahlia)](http://hongminhee.org/)
 * [홍성철](http://blog.fupfin.com/) - 함수형 언어
 * [홍성철](https://medium.com/@sungcheulhong)
-* [홍영택](hackerwins.github.io/) - 다음카카오
+* [홍영택](http://hackerwins.github.io/) - 다음카카오
 * [홍용남](https://brunch.co.kr/@doberman) - 스타트업
 * [홍철주](http://blog.angdev.io/), [홍철주](https://medium.com/@angdev) - Ruby, Javascript
 * [황규현](http://blog.lespinside.com/) - Reactive
