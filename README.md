@@ -166,6 +166,7 @@
 * [박지수](https://medium.com/little-big-programming)
 * [박진서](http://jasonpark.me/)
 * [박찬욱](http://chanwookpark.github.io/) - Back-end
+* [박해선](https://tensorflow.blog/) - TensorFlow
 * [박현우](http://lqez.github.io/)
 * [박훈](http://1ambda.github.io/) - 함수형 언어
 * [박희근](http://sirini.net/grboard2/blog)
