@@ -372,6 +372,7 @@
 * [최준건](http://junegunn.kr/) - 다음카카오
 * [최창원](https://qwefgh90.github.com) - 웹/번역, [최창원](https://qwefgh90.github.com/sphinx) - 컴퓨터 공학 분야
 * [최충엽](https://medium.com/@albertseewhy)
+* [최현민](https://medium.com/@hyunmin.choi) - Scala
 * [최흥배](http://jacking.tistory.com/) - C++
 
 ### ㅎ
