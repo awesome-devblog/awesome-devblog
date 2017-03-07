@@ -224,6 +224,7 @@
 * [양욱진](http://blog.hazard.kr/)
 * [양준철](https://brunch.co.kr/@promise4u) - 스타트업
 * [양지수](https://brunch.co.kr/@jisuyang) - IT 칼럼
+* [양현석](https://medium.com/@FourwingsY) - Front-end
 * [엄태웅](http://t-robotics.blogspot.kr/) - AI
 * [염재현](https://only2sea.wordpress.com/)
 * [오광신](http://kwangshin.pe.kr/) - 함수형 언어
