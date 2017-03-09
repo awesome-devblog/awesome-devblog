@@ -507,6 +507,7 @@
 * [Chris Ng](http://chrisrng.svbtle.com/) - Front-end
 * [Cristian Esquivias](http://cesquivias.github.io/) - Java, Truffle
 * [Dan Webb](http://danwebb.net/) - 프론트엔드 개발자
+* [David Bryant](https://medium.com/@david_bryant) - Mozilla
 * [David Robinson](http://varianceexplained.org/) - 스택오버플로 데이터 과학자
 * [David Thomas](http://pragdave.me/) - 실용주의 프로그래머 공저. Elixir 언어.
 * [Daniel Shiffman](http://shiffman.net/) - Processing
