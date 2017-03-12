@@ -100,6 +100,7 @@
 * 김태호([신규](http://kunny.github.io/), [이전](http://androidhuman.com/)) - 안드로이드
 * [김태호](https://medium.com/@xissy) - 스타트업
 * [김태헌](https://brunch.co.kr/@myte) - 해외 취업
+* [김태훈](http://carpedm20.github.io/)
 * [김포프](http://kblog.popekim.com/)
 * [김한결](http://devkyeol.tistory.com/)
 * [김현유(미키김)](http://www.mickeykim.com/) - 구글
