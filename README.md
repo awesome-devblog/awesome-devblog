@@ -189,6 +189,7 @@
 * [서보룡](http://inter6.tistory.com/) - OpenStack
 * [서오석](https://brunch.co.kr/@elijah17) - Java
 * [서주영](http://seoz.com/) - 타이젠
+* [서한교](https://brunch.co.kr/@zalhanilll) - 디자인
 * [손승하](http://sonseungha.tistory.com/) - Linux
 * [손영수(arload)](https://arload.wordpress.com/) - 개발방법론, Android
 * [손찬욱](https://sculove.github.io/blog/) - Web
