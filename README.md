@@ -243,6 +243,7 @@
 * [유동곤](http://blog.naver.com/ehdrhs1004) - C++
 * [유동환](https://brunch.co.kr/@yudong)
 * [유병후](https://libsora.so/)
+* [유성규](https://skyoo2003.github.io/)
 * [유영재](https://blog.asamaru.net/) - Android
 * [유재준](http://jaejunyoo.blogspot.com) - 머신러닝
 * [유주원](http://hipercube.tistory.com/)
