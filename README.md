@@ -43,6 +43,7 @@
 * [김대현](http://hatemogi.com/) - 백엔드
 * [김덕홍](http://insanehong.kr/)
 * [김도균](http://www.dokyun.pe.kr/)
+* [김래곤](http://raegon.kim/)
 * [김명신](http://himskim.egloos.com/)
 * [김명준](http://html5lab.kr/) - 프론트엔드
 * [김민수](http://www.kmshack.kr/) - 안드로이드
