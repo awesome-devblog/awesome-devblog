@@ -46,6 +46,7 @@
 * [김래곤](http://raegon.kim/)
 * [김명신](http://himskim.egloos.com/)
 * [김명준](http://html5lab.kr/) - 프론트엔드
+* [김민석](https://brunch.co.kr/@brunchqvxt) - Spring Boot
 * [김민수](http://www.kmshack.kr/) - 안드로이드
 * [김민장](http://minjang.egloos.com/) - 컴퓨터 아키텍처
 * [김민준](https://velopert.com/) - Front-end
