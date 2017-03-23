@@ -36,6 +36,7 @@
 * [권창현](http://thoughts.chkwon.net/) - 산업공학
 * [김광현(광파리)](http://kwang82.hankyung.com/) - IT 소식
 * [김국현](http://goodhyun.com/) - IT 칼럼
+* [김나솔](https://brunch.co.kr/@nassol) - 개발자 영어
 * [김남윤](https://cheese10yun.github.io/) - Javascript, Node.JS
 * [김놀부](http://nolboo.github.io/) - 번역 모음
 * [김대권](http://nacyot.com/)
