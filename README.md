@@ -38,6 +38,7 @@
 * [김국현](http://goodhyun.com/) - IT 칼럼
 * [김나솔](https://brunch.co.kr/@nassol) - 개발자 영어
 * [김남윤](https://cheese10yun.github.io/) - Javascript, Node.JS
+* [김남훈](http://namhoon.kim/) - Jekyll
 * [김놀부](http://nolboo.github.io/) - 번역 모음
 * [김대권](http://nacyot.com/)
 * [김대기](http://daegikim.github.io/) - 웹
