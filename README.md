@@ -459,6 +459,7 @@
 * [오픈넷](http://opennet.or.kr/) - 웹접근성
 * [오픈스택 한국 커뮤니티](http://openstack.or.kr/) - OpenStack
 * [오픈튜토리얼스](https://opentutorials.org/)
+* [와탭 블로그](http://blog.whatap.io/)
 * [우아한형제들 기술 블로그](http://woowabros.github.io/)
 * [위클립스](http://eclipse.or.kr/) - 이클립스. 지율.
 * [이상한모임](http://blog.weirdx.io/)
