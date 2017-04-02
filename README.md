@@ -24,6 +24,7 @@
 * [고형호](http://hhko.tistory.com/) - Functional Programming
 * [곽민수](https://brunch.co.kr/@imagineer)
 * [구교준](http://danielku.com/)
+* [구자철](http://forest71.tistory.com/)
 * [구종만](https://github.com/sarojaba/awesome-devblog/blob/master/theyearlyprophet.md)([블로그](http://theyearlyprophet.com/)) - 알고리즘
 * [권기호](http://kwongyo.tistory.com/)
 * [권남](http://kwon37xi.egloos.com/) - Java
