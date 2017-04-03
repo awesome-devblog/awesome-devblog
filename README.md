@@ -247,6 +247,7 @@
 * [용현택](http://yonght.tumblr.com/)
 * [우준혁](http://sarojaba.tumblr.com/)
 * [원강민](https://blog.wonhada.com/) - 코로나
+* [원종석](https://tedwon.atlassian.net/)
 * [위현종](http://jasonwi.com/) - 스타트업
 * [유동곤](http://blog.naver.com/ehdrhs1004) - C++
 * [유동환](https://brunch.co.kr/@yudong)
