@@ -235,6 +235,7 @@
 * [양준철](https://brunch.co.kr/@promise4u) - 스타트업
 * [양지수](https://brunch.co.kr/@jisuyang) - IT 칼럼
 * [양현석](https://medium.com/@FourwingsY) - Front-end
+* [엄승현](http://blog.eomdev.com)
 * [엄태규](https://lazygyu.net/) - HTML5 게임 개발
 * [엄태웅](http://t-robotics.blogspot.kr/) - AI
 * [염재현](https://only2sea.wordpress.com/)
