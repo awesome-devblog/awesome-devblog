@@ -88,7 +88,7 @@
 * [김종인](http://zzong.net) - Java, Spring
 * [김준철](http://jetalog.net/) - Solr
 * [김준환](http://topnanis.tistory.com/)
-* [김지영](https://brunch.co.kr/@pubjinson)
+* [김지영](https://brunch.co.kr/@pub Pson)
 * [김지혁](http://kimjihyok.info/) - 안드로이드, 오픈소스
 * [김지현](https://hyeon.me/)
 * [김지홍](https://brunch.co.kr/@jihere1001) - 프로토타이핑
@@ -546,7 +546,7 @@
 * [John McClean](https://medium.com/@johnmcclean) - Maintainer of Cyclops
 * [John Mumm](http://jtfmumm.com/blog/)
 * [John Resig](http://ejohn.org/) - jQuery 창시자. 칸 아카데미 개발자.
-* [Jin Park](https://www.jinpark.net/)
+* [Jin Park](https://www.jinpark.net/blog/)
 * [Lars Vogell](http://www.vogella.com/) - 이클립스 커미터
 * [Marius Schulz](https://blog.mariusschulz.com/) - Javascript 개발자
 * [Mark Otto](http://markdotto.com/) - Bootstrap 창시자. 디자이너.
