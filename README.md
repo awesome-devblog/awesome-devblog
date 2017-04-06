@@ -340,6 +340,7 @@
 * [정광섭](https://www.lesstif.com/) - Linux
 * [정도현](http://www.moreagile.net/) - 개발방법론
 * [정민혁](http://stunstun.tistory.com/) - Java
+* [정재광](https://jae-kwang.github.io/) - Front-end 
 * [정재남](http://gomugom.github.io/) - Front-end
 * [정재화](http://blrunner.com/) - 타조 커미터. 하둡
 * [정재훈](http://uzys.net/) - Rankedin 개발자
