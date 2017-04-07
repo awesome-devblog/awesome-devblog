@@ -367,6 +367,7 @@
 * [조인석](https://brunch.co.kr/@insuk) - SW 칼럼
 * [조현영(ZeroCho)](https://www.zerocho.com/) - Javascript
 * [조현진](http://resistan.com/) - 웹접근성
+* [조현철](https://cchcc.github.io/) - Kotlin
 * [주우영](http://blog.coderifleman.com/) - React.js
 * [지국환](http://wlhermit.blog.me/) - 게임 개발
 * [진성주](http://softwaregeeks.org/) - 오픈소스
