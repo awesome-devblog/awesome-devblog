@@ -170,7 +170,7 @@
 * [박재성(자바지기)](http://javajigi.net/) - Java
 * [박재호](http://jhrogue.blogspot.kr/)
 * [박정규](http://bagjunggyu.blogspot.kr/) - 리눅스
-* [박정태](http://blog.naver.com/pjt3591oo) - Back-end, 서버
+* [박정태](https://pjt3591oo.github.io/), [박정태](http://blog.naver.com/pjt3591oo) - Back-end, 서버
 * [박종명](http://m.mkexdev.net/)
 * [박지수](https://medium.com/little-big-programming)
 * [박진서](http://jasonpark.me/)
