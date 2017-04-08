@@ -216,6 +216,7 @@
 * [신현묵](http://zetlos.tistory.com/)
 * [신현석](http://hyeonseok.com/) - 웹
 * [신현식](https://medium.com/ics-lab)
+* [심혜진](https://simhyejin.github.io/)
 
 ### ㅇ
 
