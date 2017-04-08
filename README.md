@@ -594,6 +594,7 @@
 * [GVG-AI Competition](http://www.gvgai.net/) - AI
 * [ImportJava](http://importjava.org/) - Java
 * [InfoQ](http://www.infoq.com/)
+* [IntelliJ IDEA Blog](https://blog.jetbrains.com/idea/) - Java
 * [Java Code Geek](http://www.javacodegeeks.com/)
 * [Java World](http://www.javaworld.com/) - Java
 * [jGuru](http://www.jguru.com/) - Java
