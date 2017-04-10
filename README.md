@@ -330,6 +330,7 @@
 * [장성진](https://brunch.co.kr/@99-life) - 웹디자인
 * [장성민](http://www.jangkunblog.com/) - 웹접근성
 * [장영철](http://dkdlel072.tistory.com/) - Unity
+* [장영학](https://brunch.co.kr/@younghakjang) - 조직문화
 * [장요셉](http://lastmind.net/)
 * [장용석](http://devyongsik.tistory.com/)
 * [장재원](http://superjang.com/) - Front-end
