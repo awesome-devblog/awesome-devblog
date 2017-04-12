@@ -70,6 +70,7 @@
 * [김승호](http://raccoonyy.github.io/) - Python
 * [김슬기](http://blog.seulgi.kim/) - 서울대생
 * [김영재](https://youngjaekim.wordpress.com/)
+* [김요섭](https://josephkim75.wordpress.com/)
 * [김용균](http://haruair.com/) - 웹
 * [김용묵](http://moogi.new21.org/) - 한글 언어, C++
 * [김용환](http://knight76.tistory.com/)
