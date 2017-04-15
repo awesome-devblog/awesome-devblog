@@ -332,6 +332,7 @@
 * [장선진](http://blog.java2game.com/)
 * [장성진](https://brunch.co.kr/@99-life) - 웹디자인
 * [장성민](http://www.jangkunblog.com/) - 웹접근성
+* [전승현](https://fuzer.github.io/)
 * [장영철](http://dkdlel072.tistory.com/) - Unity
 * [장영학](https://brunch.co.kr/@younghakjang) - 조직문화
 * [장요셉](http://lastmind.net/)
