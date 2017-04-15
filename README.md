@@ -488,6 +488,7 @@
 * [지디넷 코리아](http://www.zdnet.co.kr/)
 * [카이스트 Applied Algorithm Lab.](http://aalog.tistory.com/)
 * [카카오 기술 블로그](http://tech.kakao.com/)
+* [카카오 정책지원팀 블로그](https://brunch.co.kr/@kakao-it)
 * [커널스터디](http://kernelstudy.net/) - 리눅스 커널
 * [코드스쿼드](https://medium.com/@codesquad_yoda)
 * [코딩뉴스](http://www.codingnews.net/)
