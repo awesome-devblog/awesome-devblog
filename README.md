@@ -282,6 +282,7 @@
 * [이동련](http://start.goodtime.co.kr/)
 * [이명현](https://brunch.co.kr/@brightlee)
 * [이민석](http://hl1itj.tistory.com/)
+* [이민철](http://bab2min.tistory.com/)
 * [이민호](http://lumiamitie.github.io/)
 * [이병준](http://www.buggymind.com/)
 * [이상영](http://blog.sangyoung.me/)
