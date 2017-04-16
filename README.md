@@ -404,6 +404,10 @@
 * [최현민](https://medium.com/@hyunmin.choi) - Scala
 * [최흥배](http://jacking.tistory.com/) - C++
 
+### ㅍ
+
+* [편해걸](http://dev-momo.tistory.com/) - Front-end
+
 ### ㅎ
 
 * [하동우](https://medium.com/@cookatrice)
