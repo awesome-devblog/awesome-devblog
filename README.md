@@ -310,8 +310,9 @@
 * [이준범](https://beomi.github.io/) - Python
 * [이지훈](http://jihoonl.notemywish.com/)
 * [이진석](https://medium.com/@allieuslee) - Python, Django
-* [이태희](https://brunch.co.kr/@bradlee)
+* [이찬행](http://blog.naver.com/PostList.nhn?blogId=dlcksgod1)
 * [이충영](https://medium.com/@wangmul)
+* [이태희](https://brunch.co.kr/@bradlee)
 * [이하제](http://realignist.me/) - Java, Rust
 * [이해영](http://www.haeyounglee.com/) - 개발자 영어
 * [이현규](https://codefict.com/) - Python, Go
