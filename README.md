@@ -381,6 +381,7 @@
 * [조은](https://brunch.co.kr/@techhtml) - Front-end
 * [조인석](https://brunch.co.kr/@insuk) - SW 칼럼
 * [조현영(ZeroCho)](https://www.zerocho.com/) - Javascript
+* [조현종](http://hangumkj.blogspot.kr/) - Eclipse
 * [조현진](http://resistan.com/) - 웹접근성
 * [조현철](https://cchcc.github.io/) - Kotlin
 * [주우영](http://blog.coderifleman.com/) - React.js
