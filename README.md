@@ -465,6 +465,7 @@
 * [독립 개발자 네트워크](https://indidev.net/) - C/C++
 * [드라마앤컴패니 블로그](http://blog.dramancompany.com/)
 * [레드아이스 기술 블로그](https://redice-inc.github.io/)
+* [리디북스 블로그](http://www.ridicorp.com/blog/)
 * [모두의연구소](http://www.modulabs.co.kr/)
 * [모비인사이드](http://www.mobiinside.com/kr/) - 모바일
 * [미래웹](http://www.miraeweb.com/blog) - 웹
