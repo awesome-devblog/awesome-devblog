@@ -88,6 +88,7 @@
 * [김종민](http://uroa.tistory.com/)
 * [김종욱](http://catlog.kr/)
 * [김종인](http://zzong.net) - Java, Spring
+* [김종희](https://kimpaper.github.io/) - Back-end
 * [김준철](http://jetalog.net/) - Solr
 * [김준환](http://topnanis.tistory.com/)
 * [김지영](https://brunch.co.kr/@pubjinson)
