@@ -320,6 +320,7 @@
 * [이현규](https://codefict.com/) - Python, Go
 * [이현섭](http://hyunseob.github.io/) - Web
 * [이호성](https://brunch.co.kr/@leehosung) - 8퍼센트 CTO. 개발 문화
+* [이호철](http://hochul.net/blog/) - 데이터 분석
 * [이홍규](https://medium.com/@mldevhong) - 머신러닝
 * [이흥섭](http://subl.ee/) - 게임
 * [이흥현](https://medium.com/@maxzidell) - tyle.io CTO. 웹
