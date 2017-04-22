@@ -408,6 +408,7 @@
 * [최종찬](http://blog.0xabcdef.com/)
 * [최준건](http://junegunn.kr/) - 다음카카오
 * [최창원](https://qwefgh90.github.com) - 웹/번역, [최창원](https://qwefgh90.github.com/sphinx) - 컴퓨터 공학 분야
+* [최철호](https://brunch.co.kr/@chulhochoiucj0) - UI/UX 디자인
 * [최충엽](https://medium.com/@albertseewhy)
 * [최혁재](https://brunch.co.kr/@mirr5510) - 스타트업
 * [최현민](https://medium.com/@hyunmin.choi) - Scala
