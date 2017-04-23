@@ -391,6 +391,7 @@
 * [조현종](http://hangumkj.blogspot.kr/) - Eclipse
 * [조현진](http://resistan.com/) - 웹접근성
 * [조현철](https://cchcc.github.io/) - Kotlin
+* [주길재](http://www.giljae.com/)
 * [주우영](http://blog.coderifleman.com/) - React.js
 * [지국환](http://wlhermit.blog.me/) - 게임 개발
 * [진성주](http://softwaregeeks.org/) - 오픈소스
