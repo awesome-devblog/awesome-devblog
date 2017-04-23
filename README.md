@@ -83,6 +83,7 @@
 * [김우승](https://kimws.wordpress.com/) - 빅데이터
 * [김우용](https://brunch.co.kr/@wedump) - 게임 개발
 * [김원일](http://androidkr.blogspot.kr/) - 안드로이드
+* [김인기](http://ingeec.tistory.com/) - Web
 * [김정환](http://blog.jeonghwan.net/) - javascript,node
 * [김재국](https://jaigouk.com/)
 * [김재원](https://jaewonism.com/) - Front-end
