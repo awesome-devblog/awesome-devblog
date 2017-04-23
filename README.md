@@ -9,6 +9,8 @@
 
 ![도메인 분포](http://imgur.com/download/lNmVfaX)
 
+![HTTPS 적용](https_chart.png)
+
 ### ㄱ
 
 * [강규영](https://github.com/sarojaba/awesome-devblog/blob/master/ecogwiki.md)([블로그](http://www.ecogwiki.com/))
