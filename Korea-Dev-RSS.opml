@@ -211,16 +211,29 @@
       <outline title="최충엽" type="rss" xmlUrl="https://medium.com/feed/@albertseewhy"/>
       <outline title="최흥배" type="rss" xmlUrl="http://jacking.tistory.com/rss"/>
 
+      <!-- ㅎ -->
+      <outline title="하동우" type="atom" xmlUrl="https://medium.com/feed/@cookatrice"/>
       <outline title="하호진" type="rss" xmlUrl="http://feeds.feedburner.com/Smartmob"/>
+      <outline title="한상곤" type="atom" xmlUrl="http://www.sangkon.com/rss/"/>
+      <outline title="한성민" type="rss" xmlUrl="http://blog.pigno.se/rss"/>
       <outline title="한승훈" type="rss" xmlUrl="http://kkamagui.tistory.com/rss"/>
+      <outline title="한재엽" type="rss" xmlUrl="http://asfirstalways.tistory.com/rss"/>
       <outline title="한정현" type="rss" xmlUrl="http://blog.kazikai.net/?feed=rss2"/>
+      <outline title="한주영" type="atom" xmlUrl="https://medium.com/feed/@jooyunghan"/>
       <outline title="허준회" type="rss" xmlUrl="https://joone.wordpress.com/feed/"/>
       <outline title="홍민희" type="rss" xmlUrl="http://blog.dahlia.kr/rss"/>
       <outline title="홍성철" type="rss" xmlUrl="http://blog.fupfin.com/?feed=rss2"/>
+      <outline title="홍철주" type="atom" xmlUrl="https://medium.com/feed/@angdev"/>
+      <outline title="황규현" type="atom" xmlUrl="http://blog.lespinside.com/feed.xml"/>
+      <outline title="황인서" type="rss" xmlUrl="https://medium.com/feed/chequer"/>
       <outline title="황장호" type="rss" xmlUrl="http://xrath.com/feed/"/>
       <outline title="황상철" type="rss" xmlUrl="http://pragmaticstory.com/?feed=rss2"/>
+      <outline title="황석주" type="rss" xmlUrl="http://rss.egloos.com/blog/dolppi"/>   
       <outline title="히언" type="rss" xmlUrl="http://rss.egloos.com/blog/recipes"/>
+      <outline title="현수명" type="atom" xmlUrl="http://soomong.net/atom.xml"/>
       <outline title="현승" type="rss" xmlUrl="http://iam-hs.com/rss"/>
+      <outline title="현준호" type="atom" xmlUrl="https://jhyun.wordpress.com/feed/"/>      
+      
       <outline title="게임개발포에버" type="rss" xmlUrl="http://feeds.feedburner.com/gamedevforever?format=xml"/>
       <outline title="네이버" type="rss" xmlUrl="http://d2.naver.com/d2.atom"/>
       <outline title="넥스트리" type="rss" xmlUrl="http://www.nextree.co.kr/feed/"/>
