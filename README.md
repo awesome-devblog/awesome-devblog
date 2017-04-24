@@ -251,6 +251,7 @@
 * [엄승현](http://blog.eomdev.com)
 * [엄태규](https://lazygyu.net/) - HTML5 게임 개발
 * [엄태웅](http://t-robotics.blogspot.kr/) - AI
+* [엄태형](https://brunch.co.kr/@taebari)
 * [염재현](https://only2sea.wordpress.com/)
 * [오광신](http://kwangshin.pe.kr/) - 함수형 언어
 * [오동권](http://www.flowdas.com/)
