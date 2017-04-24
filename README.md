@@ -437,6 +437,7 @@
 * [한영빈](https://youngbin.xyz/blog/)
 * [한장현](http://han41858.tistory.com/) - Web
 * [한재엽](http://asfirstalways.tistory.com/)
+* [한정일](https://brunch.co.kr/@lonnie)
 * [한정현](http://www.kazikai.net/)
 * [한주영](https://medium.com/@jooyunghan)
 * [허재위](http://import.re/)
