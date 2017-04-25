@@ -213,6 +213,7 @@
 * [송영길](https://youngsong.com/) - 창업
 * [송영환](https://purluno.wordpress.com/) - Akka
 * [송원준](http://blog.naver.com/PostList.nhn?blogId=swj8530)
+* [송은우](https://rampart81.github.io/) - Python
 * [송성광](http://saltfactory.net/)
 * [송주성(빈꿈)](http://emptydream.tistory.com/) - IT 칼럼
 * [송준현](https://medium.com/@it_sjh9973)
@@ -362,7 +363,7 @@
 * [전민수](https://brunch.co.kr/@ebprux) - UX
 * [전호상](http://hosangjeon.com/) - 서버사이드
 * [전희원(고감자)](http://freesearch.pe.kr/) - 빅데이터
-* [정겨울](https://winterj.me/) - Phython
+* [정겨울](https://winterj.me/) - Python
 * [정광섭](https://www.lesstif.com/) - Linux
 * [정도현](http://www.moreagile.net/) - 개발방법론
 * [정민혁](http://stunstun.tistory.com/) - Java
