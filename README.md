@@ -362,6 +362,7 @@
 * [전민수](https://brunch.co.kr/@ebprux) - UX
 * [전호상](http://hosangjeon.com/) - 서버사이드
 * [전희원(고감자)](http://freesearch.pe.kr/) - 빅데이터
+* [정겨울](https://winterj.me/) - Phython
 * [정광섭](https://www.lesstif.com/) - Linux
 * [정도현](http://www.moreagile.net/) - 개발방법론
 * [정민혁](http://stunstun.tistory.com/) - Java
