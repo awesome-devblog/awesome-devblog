@@ -626,6 +626,7 @@
 * [DZone](https://dzone.com/)
 * [Facebook Code](https://code.facebook.com/)
 * [Facebook Developers](https://www.facebook.com/FacebookDevelopers)
+* [Feathers Blog](https://blog.feathersjs.com/)
 * [Free Code Camp](https://medium.freecodecamp.com/)
 * [Github Engineering](http://githubengineering.com/)
 * [Go Language](http://blog.golang.org/) - Go
