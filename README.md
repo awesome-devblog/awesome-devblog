@@ -23,6 +23,7 @@
 * [강진우](https://brunch.co.kr/@alden) - Linux
 * [강태욱](http://daddynkidsmakers.blogspot.kr/) - IoT
 * [강한별](https://brunch.co.kr/@cloud09) - 데이터 분석
+* [계주성](http://kyejusung.com/)
 * [고득녕](http://blog.naver.com/nackji80/) - 네트워크
 * [고형호](http://hhko.tistory.com/) - Functional Programming
 * [곽민수](https://brunch.co.kr/@imagineer)
