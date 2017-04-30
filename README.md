@@ -351,6 +351,7 @@
 * [장문익](http://mooneegee.blogspot.kr/) - 3D
 * [장선진](http://blog.java2game.com/)
 * [장성진](https://brunch.co.kr/@99-life) - 웹디자인
+* [장성만](http://frontjang.info/)
 * [장성민](http://www.jangkunblog.com/) - 웹접근성
 * [전승현](https://fuzer.github.io/)
 * [장영철](http://dkdlel072.tistory.com/) - Unity
