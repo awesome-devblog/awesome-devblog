@@ -593,6 +593,7 @@
 * [Marius Schulz](https://blog.mariusschulz.com/) - Javascript 개발자
 * [Mark Otto](http://markdotto.com/) - Bootstrap 창시자. 디자이너.
 * [Martin Fowler](http://martinfowler.com/) - 리팩토링 창시자
+* [Michael Hausenblas](https://medium.com/@mhausenblas) - Open Shift, Kubernetes
 * [Mike Gouline](https://blog.gouline.net/)
 * [Mike Nakhimovich](https://medium.com/@theMikhail) - Google Developer Expert Android
 * [Nicolai Parlog](http://blog.codefx.org/), [Nicolai Parlog](https://medium.com/@nipa) - Java channel editor at SitePoint
