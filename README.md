@@ -291,6 +291,7 @@
 * [윤청하](https://brunch.co.kr/@brunch4nrs) - 구글러
 * [이경원](http://blog.woniper.net/) - Java
 * [이경일](http://blog.leekyoungil.com/) - Java
+* [이광식](http://www.kwangsiklee.com/)
 * [이광헌](http://honeyperl.tistory.com/) - Perl
 * [이규원](https://justhackem.wordpress.com/)
 * [이규혁](http://kyuhyuk.kr/)
