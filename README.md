@@ -497,6 +497,7 @@
 * [레드아이스 기술 블로그](https://redice-inc.github.io/)
 * [리디북스 블로그](http://www.ridicorp.com/blog/)
 * [모두의연구소](http://www.modulabs.co.kr/)
+* [모람씨앤티](http://blog.moramcnt.com/) - 이용민
 * [모비인사이드](http://www.mobiinside.com/kr/) - 모바일
 * [미래웹](http://www.miraeweb.com/blog) - 웹
 * [박스앤위스커](http://www.boxnwhis.kr/)
