@@ -101,6 +101,7 @@
 * [김지현](https://hyeon.me/)
 * [김지홍](https://brunch.co.kr/@jihere1001) - 프로토타이핑
 * [김진국](http://forensic-proof.com/) - 포렌식
+* [김진성](http://jinseong0928.blogspot.kr/)
 * [김진수](https://item4.github.io/) - Web
 * [김진욱](http://rein.kr/blog/)
 * [김창원](http://www.memoriesreloaded.net/) - 실리콘밸리
