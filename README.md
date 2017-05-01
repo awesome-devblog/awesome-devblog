@@ -400,6 +400,7 @@
 * [조영호](http://aeternum.egloos.com/)
 * [조우진](http://www.notforme.kr/) - Angular
 * [조은](https://brunch.co.kr/@techhtml) - Front-end
+* [조은상](http://itnp.kr/blog/)
 * [조인석](https://brunch.co.kr/@insuk) - SW 칼럼
 * [조현영(ZeroCho)](https://www.zerocho.com/) - Javascript
 * [조현종](http://hangumkj.blogspot.kr/) - Eclipse
