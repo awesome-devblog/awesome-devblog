@@ -297,6 +297,7 @@
 * [이규원](https://justhackem.wordpress.com/)
 * [이규혁](http://kyuhyuk.kr/)
 * [이기영](https://brunch.co.kr/@kiyoungleefige)
+* [이다윗](https://brunch.co.kr/@designforhuman) - 디자인
 * [이도현](http://genesis8.tistory.com/)
 * [이동규](http://chandong83.blog.me/)
 * [이동련](http://start.goodtime.co.kr/)
