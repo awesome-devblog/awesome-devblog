@@ -92,6 +92,7 @@
 * [김재국](https://jaigouk.com/)
 * [김재원](https://jaewonism.com/) - Front-end
 * [김재호](http://www.benjaminlog.com/) - C++
+* [김종민](http://blog.cmiscm.com/) - 인터렉티브 디벨로퍼
 * [김종민](http://uroa.tistory.com/)
 * [김종욱](http://catlog.kr/)
 * [김종인](http://zzong.net) - Java, Spring
