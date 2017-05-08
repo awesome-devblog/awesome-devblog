@@ -190,6 +190,7 @@
 * [박지수](https://medium.com/@JisuPark)
 * [박진서](http://jasonpark.me/)
 * [박진우](https://www.jinpark.net/)
+* [박찬민](https://walkinpcm.blogspot.kr/)
 * [박찬욱](http://chanwookpark.github.io/) - Back-end
 * [박해선](https://tensorflow.blog/) - TensorFlow
 * [박현우](http://lqez.github.io/)
