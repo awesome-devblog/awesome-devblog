@@ -189,6 +189,7 @@
 * [박종명](http://m.mkexdev.net/)
 * [박지수](https://medium.com/@JisuPark)
 * [박진서](http://jasonpark.me/)
+* [박진우](https://www.jinpark.net/)
 * [박찬욱](http://chanwookpark.github.io/) - Back-end
 * [박해선](https://tensorflow.blog/) - TensorFlow
 * [박현우](http://lqez.github.io/)
@@ -610,7 +611,6 @@
 * [John McClean](https://medium.com/@johnmcclean) - Maintainer of Cyclops
 * [John Mumm](http://jtfmumm.com/blog/)
 * [John Resig](http://ejohn.org/) - jQuery 창시자. 칸 아카데미 개발자.
-* [Jin Park](https://www.jinpark.net/blog/)
 * [Lars Vogell](http://www.vogella.com/) - 이클립스 커미터
 * [Marius Schulz](https://blog.mariusschulz.com/) - Javascript 개발자
 * [Mark Otto](http://markdotto.com/) - Bootstrap 창시자. 디자이너.
