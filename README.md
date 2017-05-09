@@ -327,6 +327,7 @@
 * [이세우](http://blog.xcoda.net/)
 * [이소은](https://medium.com/@soeunlee)
 * [이소현](https://brunch.co.kr/@sohyeonlee)
+* [이수지](https://brunch.co.kr/@thingsflow) - 기획
 * [이수홍](https://brunch.co.kr/@sbcoba) - Spring Boot
 * [이승현](http://hamait.tistory.com/)
 * [이승훈](https://brunch.co.kr/@seunghoon82)
