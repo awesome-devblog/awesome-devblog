@@ -605,6 +605,7 @@
 * [Eric A. Meyer](http://meyerweb.com/)
 * [Gal Sagie](http://galsagie.github.io/) - OpenStack Networking
 * [Hadley Wickham](http://hadley.nz/) - R studio
+* [Jake Wharton](http://jakewharton.com/) - Android
 * [James D Bloom](http://blog.jamesdbloom.com/) - JVM
 * [James Gosling](http://nighthacks.com/roller/jag/) - Java 창시자
 * [Jeff Atwood](http://blog.codinghorror.com/) - 스택오버플로 주인장
