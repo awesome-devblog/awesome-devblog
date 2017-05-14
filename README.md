@@ -335,6 +335,7 @@
 * [이수홍](https://brunch.co.kr/@sbcoba) - Spring Boot
 * [이승현](http://hamait.tistory.com/)
 * [이승훈](https://brunch.co.kr/@seunghoon82)
+* [이영훈](http://resoliwan.blogspot.kr/)
 * [이웅희](http://woongheelee.com/)
 * [이윤창](http://daddycat.blogspot.kr/)
 * [이일희(제닉스)](http://nixsense.net/) - IT 리뷰
