@@ -405,6 +405,7 @@
 * [정창수](http://downman.tistory.com/) - C
 * [정창훈](https://blog.iamseapy.com/)
 * [정희연](https://yeun.github.io/) - 웹디자인
+* [제갈민](http://jekalmin.tistory.com/)
 * [조병욱(조대협)](http://bcho.tistory.com/) - Java
 * [조만석](http://manseok.blogspot.kr)
 * [조만영](https://medium.com/@manyoung) - Web
