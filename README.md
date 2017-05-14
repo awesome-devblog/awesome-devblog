@@ -333,6 +333,7 @@
 * [이소현](https://brunch.co.kr/@sohyeonlee)
 * [이수지](https://brunch.co.kr/@thingsflow) - 기획
 * [이수홍](https://brunch.co.kr/@sbcoba) - Spring Boot
+* [이승우](https://blog.2dal.com/) - Docker, Kubernetes
 * [이승현](http://hamait.tistory.com/)
 * [이승훈](https://brunch.co.kr/@seunghoon82)
 * [이영훈](http://resoliwan.blogspot.kr/)
