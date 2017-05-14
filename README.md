@@ -73,7 +73,8 @@
 * [김성현](http://greemate.tistory.com/) - 윈도우즈 커널
 * [김성호](http://raccoonyy.github.io/)
 * [김성훈](http://www.se.or.kr/) - 학교 생활
-* [김성훈](http://elky84.github.io/) - C++, C#, Ruby, Python, 
+* [김성훈](http://elky84.github.io/) - C++, C#, Ruby, Python
+* [김수로](http://babysunmoon.tistory.com/)
 * [김수보](https://subokim.wordpress.com/) - IT 칼럼
 * [김순식](http://i-bada.blogspot.kr/)
 * [김승호](http://raccoonyy.github.io/) - Python
