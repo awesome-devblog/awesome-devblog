@@ -13,9 +13,9 @@
 
 ### ㄱ
 
-* [강규영](https://github.com/sarojaba/awesome-devblog/blob/master/ecogwiki.md)([블로그](http://www.ecogwiki.com/))
+* [강규영](ecogwiki.md)([블로그](http://www.ecogwiki.com/))
 * [강관우](https://brunch.co.kr/@kd4) - Java
-* [강대명](https://github.com/sarojaba/awesome-devblog/blob/master/charsyam.md)([블로그](https://charsyam.wordpress.com/)) - 서버 사이드
+* [강대명](charsyam.md)([블로그](https://charsyam.wordpress.com/)) - 서버 사이드
 * [강동혁](https://brunch.co.kr/@dongkang) - 인디 개발
 * [강성일](https://b.luavis.kr/) - Python
 * [강성훈](http://mearie.org/)
@@ -29,7 +29,7 @@
 * [곽민수](https://brunch.co.kr/@imagineer)
 * [구교준](http://danielku.com/)
 * [구자철](http://forest71.tistory.com/)
-* [구종만](https://github.com/sarojaba/awesome-devblog/blob/master/theyearlyprophet.md)([블로그](http://theyearlyprophet.com/)) - 알고리즘
+* [구종만](theyearlyprophet.md)([블로그](http://theyearlyprophet.com/)) - 알고리즘
 * [권기호](http://kwongyo.tistory.com/)
 * [권남](http://kwon37xi.egloos.com/) - Java
 * [권동준](https://mayajuni.github.io/) - Web
@@ -154,6 +154,7 @@
 * [류재영](http://longbe00.blogspot.kr/)
 * [류종택](http://ryulib.tistory.com/)
 * [류지형](http://www.jakemvc.com)
+* [류현오](https://activity.horyu.me)
 
 ### ㅁ
 
@@ -212,7 +213,7 @@
 
 ### ㅅ
 
-* [서광열](https://github.com/sarojaba/awesome-devblog/blob/master/kwangyul.seo.md)([블로그](http://gamecodingschool.org/)) - 게임 개발
+* [서광열](kwangyul.seo.md)([블로그](http://gamecodingschool.org/)) - 게임 개발
 * [서민상](http://blog.naver.com/seo0511) - Arduino
 * [서보룡](http://inter6.tistory.com/) - OpenStack
 * [서오석](https://brunch.co.kr/@elijah17) - Java
@@ -275,7 +276,7 @@
 * [오일석](http://ilseokoh.com/) - Azure
 * [오종빈](http://ohyecloudy.com/doku.php)
 * [오준석](https://brunch.co.kr/@hopeless) - Android
-* [오현석](https://github.com/sarojaba/awesome-devblog/blob/master/enshahar.md)([블로그](http://www.enshahar.me/)) - 스칼라, 스위프트
+* [오현석](enshahar.md)([블로그](http://www.enshahar.me/)) - 스칼라, 스위프트
 * [용찬호](http://blog.naver.com/alice_k106) - Docker
 * [용현택](http://yonght.tumblr.com/)
 * [우웅몬](https://brunch.co.kr/@wej6688) - UX
