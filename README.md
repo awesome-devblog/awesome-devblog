@@ -633,6 +633,7 @@
 * [Sacha Greif](https://medium.com/@sachagreif) - Front-end
 * [Scott Hanselman](http://www.hanselman.com/) - ASP.NET
 * [Stephen Colebourne](http://blog.joda.org/) - Joda-Time 창시자
+* [Thomas Stringer](https://medium.com/@trstringer) - Technical Evangelist at Microsoft
 * [Will McGugan](https://www.willmcgugan.com/) - Moya(no-Python Python Web Framework)
 
 ## 국외 팀 사이트
