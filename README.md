@@ -275,6 +275,7 @@
 * [염재현](https://only2sea.wordpress.com/)
 * [오광신](http://kwangshin.pe.kr/) - 함수형 언어
 * [오동권](http://www.flowdas.com/)
+* [오민호](http://wergia.tistory.com/) - 게임 개발
 * [오세빈](http://osebin.tistory.com/)
 * [오일석](http://ilseokoh.com/) - Azure
 * [오종빈](http://ohyecloudy.com/doku.php)
