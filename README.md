@@ -443,6 +443,7 @@
 * [최범균](http://javacan.tistory.com/) - Java
 * [최성재](http://yumere.tistory.com/)
 * [최유석](http://whitechoi.tistory.com/) - Cloud
+* [최윤섭](http://www.yoonsupchoi.com/) - 헬스케어
 * [최재훈](http://andromedarabbit.net/)
 * [최정대](http://blog.woosum.net/), [최정대](https://medium.com/@whitekid) - 오픈스택
 * [최종욱](http://johnwook.com/) - 웹
