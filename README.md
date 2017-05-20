@@ -331,6 +331,7 @@
 * [이상주](http://surpreem.com/)
 * [이선협](https://medium.com/sunhyoups-story)
 * [이성규](http://www.shalomeir.com/)
+* [이성근](http://crazrain.tistory.com/) - Spring Boot
 * [이성몽](http://blog.naver.com/santalsm) - 기술사
 * [이성호](http://blog.scaloid.org/) - 스칼라, 안드로이드
 * [이세우](http://blog.xcoda.net/)
