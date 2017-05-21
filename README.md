@@ -630,6 +630,7 @@
 * [Jeff Atwood](http://blog.codinghorror.com/) - 스택오버플로 주인장
 * [Jeff Langr](http://langrsoft.com/jeff/) - 지금길로 빠르게 배울 수 있는 자바 저자
 * [Joel Spolsky](http://www.joelonsoftware.com/) - 조엘온소프트웨어 저자. 개발방법론.
+* [John Gruber](https://daringfireball.net/) - Markdown 창시자
 * [John McClean](https://medium.com/@johnmcclean) - Maintainer of Cyclops
 * [John Mumm](http://jtfmumm.com/blog/)
 * [John Resig](http://ejohn.org/) - jQuery 창시자. 칸 아카데미 개발자.
