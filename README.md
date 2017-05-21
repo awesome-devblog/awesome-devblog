@@ -145,6 +145,7 @@
 * [남세현](https://medium.com/@Nam_se) - 게임 개발
 * [노용환](http://bugsfixed.blogspot.kr/), [노용환](http://somma.egloos.com/) - 윈도우즈 커널
 * [노재민](http://korsnack.kr/)
+* [노현석](http://pluu.github.io/) - Android
 
 ### ㄷ
 
