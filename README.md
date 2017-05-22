@@ -437,6 +437,7 @@
 * [주우영](http://blog.coderifleman.com/) - React.js
 * [지국환](http://wlhermit.blog.me/) - 게임 개발
 * [진성주](http://softwaregeeks.org/) - 오픈소스
+* [진수민](http://blog.naver.com/pistolcaffe) - Android
 * [진영화](https://brunch.co.kr/@timotolkie)
 * [진용진](https://brunch.co.kr/@yongjinjinipln) - IT 칼럼
 
