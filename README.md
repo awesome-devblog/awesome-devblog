@@ -351,6 +351,7 @@
 * [이윤창](http://daddycat.blogspot.kr/)
 * [이일희(제닉스)](http://nixsense.net/) - IT 리뷰
 * [이재홍](http://pyrasis.com/) - Go
+* [이정근](http://blog.cjred.net/) - OpenShift
 * [이제민](https://leejaymin.github.io/)([블로그](http://goodtogreate.tistory.com/)) - Data Science
 * [이준범](https://beomi.github.io/) - Python
 * [이지훈](http://jihoonl.notemywish.com/)
