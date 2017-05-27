@@ -437,6 +437,7 @@
 * [조현철](https://cchcc.github.io/) - Kotlin
 * [주길재](http://www.giljae.com/)
 * [주우영](http://blog.coderifleman.com/) - React.js
+* [주재범](http://joojaebum.com/) - 픽셀 아트
 * [지국환](http://wlhermit.blog.me/) - 게임 개발
 * [진성주](http://softwaregeeks.org/) - 오픈소스
 * [진수민](http://blog.naver.com/pistolcaffe) - Android
