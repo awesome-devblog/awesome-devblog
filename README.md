@@ -455,6 +455,7 @@
 * [최백준](http://www.baekjoon.com/) - 알고리즘
 * [최범균](http://javacan.tistory.com/) - Java
 * [최성재](http://yumere.tistory.com/)
+* [최수원](http://cionman.tistory.com/) - Linux
 * [최유석](http://whitechoi.tistory.com/) - Cloud
 * [최윤섭](http://www.yoonsupchoi.com/) - 헬스케어
 * [최재훈](http://andromedarabbit.net/)
