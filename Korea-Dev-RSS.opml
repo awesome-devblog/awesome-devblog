@@ -67,13 +67,17 @@
       <outline title="김환희" type="rss" xmlUrl="http://rss.egloos.com/blog/greentec"/>
       <outline title="김훈민" type="rss" xmlUrl="http://huns.me/feed"/>
 
+      <outline title="남궁민" type="atom" xmlUrl="https://medium.com/feed/@minnamgoong"/>
+      <outline title="남영환" type="atom" xmlUrl="http://www.iamfrom.kr/feeds/posts/default"/>
       <outline title="남정현" type="atom" xmlUrl="http://www.rkttu.com/atom"/>
       <outline title="남주명" type="rss" xmlUrl="http://namjmnam.blog.me/rss"/>
       <outline title="노용환" type="rss" xmlUrl="http://bugsfixed.blogspot.com/feeds/posts/default"/>
-
-      <outline title="도경태" type="rss" xmlUrl="https://medium.com/feed/@keendev"/>
+      <outline title="노현석" type="atom" xmlUrl="http://pluu.github.io/feed.xml"/>
+      
+      <outline title="도경태" type="atom" xmlUrl="https://medium.com/feed/@keendev"/>
 
       <outline title="류광" type="rss" xmlUrl="http://occamsrazr.net/tt/index.xml"/>
+      <outline title="류재영" type="atom" xmlUrl="http://longbe00.blogspot.com/feeds/posts/default"/>
       <outline title="류종택" type="rss" xmlUrl="http://ryulib.tistory.com/rss"/>
 
       <outline title="마경욱" type="rss" xmlUrl="https://brunch.co.kr/rss/@@JJj"/>
