@@ -26,6 +26,7 @@
 * [강한별](https://brunch.co.kr/@cloud09) - 데이터 분석
 * [계주성](http://kyejusung.com/)
 * [고득녕](http://blog.naver.com/nackji80/) - 네트워크
+* [고명환](https://brunch.co.kr/@maru7091) - 스타트업
 * [고형호](http://hhko.tistory.com/) - Functional Programming
 * [곽민수](https://brunch.co.kr/@imagineer)
 * [구교준](http://danielku.com/)
