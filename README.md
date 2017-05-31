@@ -226,6 +226,7 @@
 * [서인석](http://isseo90.tistory.com/) - 디자인
 * [서주영](http://seoz.com/) - 타이젠
 * [서한교](https://brunch.co.kr/@zalhanilll) - 디자인
+* [성대경](http://healthydeveloper.tistory.com/) - Algorithm
 * [손승하](http://sonseungha.tistory.com/) - Linux
 * [손영수(arload)](https://arload.wordpress.com/) - 개발방법론, Android
 * [손찬욱](https://sculove.github.io/blog/) - Web
