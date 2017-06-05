@@ -491,7 +491,7 @@
 * [한상훈](https://brunch.co.kr/@skykamja24)
 * [한성민](http://pignose-barn.tumblr.com/)
 * [한승훈(kkamagui)](http://kkamagui.tistory.com/) - OS
-* [한영빈](https://youngbin.xyz/blog/)
+* [한영빈](https://youngbin.xyz/blog/) - Ubuntu
 * [한장현](http://han41858.tistory.com/) - Web
 * [한재엽](http://asfirstalways.tistory.com/)
 * [한정일](https://brunch.co.kr/@lonnie)
