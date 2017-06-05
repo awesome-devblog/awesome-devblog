@@ -405,6 +405,7 @@
 * [전희원(고감자)](http://freesearch.pe.kr/) - 빅데이터
 * [정겨울](https://winterj.me/) - Python
 * [정광섭](https://www.lesstif.com/) - Linux
+* [정덕수](http://blog.iamartin.com/) - Cloud
 * [정도현](http://www.moreagile.net/) - 개발방법론
 * [정동민](http://jdm.kr/blog/) - Java
 * [정민혁](https://www.holaxprogramming.com/), [정민혁](http://stunstun.tistory.com/) - Java
