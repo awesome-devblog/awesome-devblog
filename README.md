@@ -192,6 +192,7 @@
 * [박은환](http://dainelpark.github.io/)
 * [박일](http://parkpd.egloos.com/) - 게임 개발
 * [박재성(자바지기)](http://javajigi.net/) - Java
+* [박재현](http://wisefree.tistory.com/) - IT 칼럼
 * [박재호](http://jhrogue.blogspot.kr/)
 * [박정규](http://bagjunggyu.blogspot.kr/) - 리눅스
 * [박정태](https://pjt3591oo.github.io/), [박정태](http://blog.naver.com/pjt3591oo) - Back-end, 서버
