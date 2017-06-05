@@ -258,6 +258,7 @@
 * [안도형](https://emaren84.github.io/blog/)
 * [안동혁](https://brunch.co.kr/@donghyeokahn)
 * [안성현](http://ash84.net/) - Python
+* [안승규](http://ahnseungkyu.com/) - OpenStack
 * [안오균](http://ohgyun.com/) - iOS, Python
 * [안윤호](http://toyfab.tistory.com/) - 마이크로 프로세서
 * [안재우](http://blog.naver.com/saltynut)
