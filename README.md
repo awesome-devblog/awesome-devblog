@@ -536,6 +536,7 @@
 * [모두의연구소](http://www.modulabs.co.kr/)
 * [모람씨앤티](http://blog.moramcnt.com/) - 이용민
 * [모비인사이드](http://www.mobiinside.com/kr/) - 모바일
+* [모씨 개발 수첩](https://nrise.github.io/)
 * [미래웹](http://www.miraeweb.com/blog) - 웹
 * [박스앤위스커](http://www.boxnwhis.kr/)
 * [버즈니](http://engineering.buzzni.com/)
