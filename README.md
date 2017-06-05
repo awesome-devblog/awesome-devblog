@@ -722,6 +722,7 @@
 * [Node.js Foundation Blog](https://medium.com/@nodejs)
 * [Nordic API](http://nordicapis.com/blog/) - Java, Scala, Spark
 * [Old St Lab Blog](https://medium.com/osldev-blog)
+* [OMG! Ubuntu!](http://www.omgubuntu.co.uk/)
 * [OpenAI](https://openai.com/blog/) - AI
 * [OpenCredo](https://www.opencredo.com/blog/) - Java
 * [Parrot Dev Blog](http://developer.parrot.com/blog/) - Drone
