@@ -735,5 +735,6 @@
 * [Toptal Engineering Blog](http://www.toptal.com/blog)
 * [Treehouse Blog](http://blog.teamtreehouse.com/)
 * [Uber Developer Blog](http://devblog.uber.com/)
+* [Ubuntu Insights](https://insights.ubuntu.com/) - Ubuntu
 * [Ubuntu Handbook](http://ubuntuhandbook.org/) - Ubuntu
 * [Unity](http://blogs.unity3d.com/) - 3D Graphics
