@@ -434,6 +434,7 @@
 * [조은](https://brunch.co.kr/@techhtml) - Front-end
 * [조은상](http://itnp.kr/blog/)
 * [조인석](https://brunch.co.kr/@insuk) - SW 칼럼
+* [조중현](http://blog.naver.com/chowin21) - 마케팅
 * [조현영(ZeroCho)](https://www.zerocho.com/) - Javascript
 * [조현종](http://hangumkj.blogspot.kr/) - Eclipse
 * [조현진](http://resistan.com/) - 웹접근성
