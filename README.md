@@ -691,6 +691,7 @@
 * [Dropbox Tech Blog](https://blogs.dropbox.com/tech/)
 * [Durandal](http://blog.durandal.io/) - Web
 * [DZone](https://dzone.com/)
+* [Evernote Tech Blog](http://blog.evernote.com/tech/)
 * [Facebook Code](https://code.facebook.com/)
 * [Facebook Developers](https://www.facebook.com/FacebookDevelopers)
 * [Feathers Blog](https://blog.feathersjs.com/)
