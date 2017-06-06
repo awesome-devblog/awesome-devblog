@@ -741,6 +741,7 @@
 * [Thoughts on Java](http://www.thoughts-on-java.org/) - Java
 * [Toptal Engineering Blog](http://www.toptal.com/blog)
 * [Treehouse Blog](http://blog.teamtreehouse.com/)
+* [Twitter Developer Blog](https://blog.twitter.com/developer/)
 * [Uber Developer Blog](http://devblog.uber.com/)
 * [Ubuntu Insights](https://insights.ubuntu.com/) - Ubuntu
 * [Ubuntu Handbook](http://ubuntuhandbook.org/) - Ubuntu
