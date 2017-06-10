@@ -243,6 +243,7 @@
 * [송준현](https://medium.com/@it_sjh9973)
 * [송호연](https://brunch.co.kr/@chris-song/)
 * [송효진](https://lovetoken.github.io/) - R
+* [신경식](http://multeng.tistory.com/) - AI
 * [신관영](http://springsource.tistory.com/) - Spring
 * [신동주](http://mopsyshin.com/) - UX
 * [신승환](http://www.talk-with-hani.com/)
