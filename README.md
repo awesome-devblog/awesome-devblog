@@ -620,6 +620,7 @@
 * [VCNC](http://engineering.vcnc.co.kr/)
 * [Web Framework](http://webframeworks.kr/)
 * [We Build Product](https://webuildproduct.com/) - 프로덕트 디자인 & 매니지먼트
+* [WIT 블로그](http://wit.nts-corp.com/) - Web
 
 ## 국외 개인 사이트
 
