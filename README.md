@@ -681,6 +681,7 @@
 * [Paul Bakker](http://paulbakker.io/) - Modular Cloud Apps with OSGI 저자
 * [Paul Lewis](https://aerotwist.com/) - Google Web Developer
 * [Ricardo Cabello](http://mrdoob.com/) - Three.js 창시자
+* [Richard Stallman](https://www.stallman.org/) - Free Software Foundation, GNU Project 창시자
 * [Robert C. Martin](http://blog.cleancoder.com/) - 클린 코드 저자
 * [Rod Johnson](https://medium.com/@springrod) - Spring 창시자
 * [Sacha Greif](https://medium.com/@sachagreif) - Front-end
