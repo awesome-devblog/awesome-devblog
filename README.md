@@ -475,6 +475,7 @@
 * [최재훈](http://andromedarabbit.net/)
 * [최정대](http://blog.woosum.net/), [최정대](https://medium.com/@whitekid) - 오픈스택
 * [최종욱](http://johnwook.com/) - 웹
+* [최종원](https://brunch.co.kr/@voiz) - 테크 칼럼
 * [최종찬](http://blog.0xabcdef.com/)
 * [최준건](http://junegunn.kr/) - 다음카카오
 * [최진호](http://calmglow.egloos.com/)
