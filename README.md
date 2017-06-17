@@ -668,6 +668,7 @@
 * [Josh Symonds](http://joshsymonds.com) - Founder of Symonds & Son, Devops
 * [Kevin Sookocheff](https://sookocheff.com/)
 * [Lars Vogell](http://www.vogella.com/) - 이클립스 커미터
+* [Linus Torvalds](https://plus.google.com/+LinusTorvalds) - Linux 창시자
 * [Marius Schulz](https://blog.mariusschulz.com/) - Javascript 개발자
 * [Mark Otto](http://markdotto.com/) - Bootstrap 창시자. 디자이너.
 * [Martin Fowler](http://martinfowler.com/) - 리팩토링 창시자
