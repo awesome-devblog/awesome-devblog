@@ -211,6 +211,7 @@
 * [방준영](http://bangjunyoung.blogspot.kr/) - Java
 * [배기홍](http://www.thestartupbible.com/) - IT 칼럼
 * [배성혁](http://debop.tumblr.com/) - 스칼라
+* [백재연](http://jybaek.tistory.com/)
 * [배진호](https://medium.com/@baejinho/) - 스타트업
 * [백기선](http://whiteship.me/) - Java
 * [백명석](https://brunch.co.kr/@cleancode) - Java, OOP
