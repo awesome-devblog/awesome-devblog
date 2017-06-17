@@ -197,6 +197,7 @@
 * [박정규](http://bagjunggyu.blogspot.kr/) - 리눅스
 * [박정태](https://pjt3591oo.github.io/), [박정태](http://blog.naver.com/pjt3591oo) - Back-end, 서버
 * [박종명](http://m.mkexdev.net/)
+* [박준규](https://brunch.co.kr/@kospoll-lab) - 인공지능
 * [박준규](https://brunch.co.kr/@nattybear)
 * [박지수](https://medium.com/@JisuPark)
 * [박진서](http://jasonpark.me/)
