@@ -104,6 +104,7 @@
 * [김종인](http://zzong.net) - Java, Spring
 * [김종희](https://kimpaper.github.io/) - Back-end
 * [김준철](http://jetalog.net/) - Solr
+* [김준형](https://medium.com/@ghilbut)
 * [김준환](http://topnanis.tistory.com/)
 * [김지영](https://brunch.co.kr/@pubjinson)
 * [김지혁](http://kimjihyok.info/) - 안드로이드, 오픈소스
