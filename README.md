@@ -653,6 +653,7 @@
 * [Derick Bailey](https://derickbailey.com/) - Javascript 개발자
 * [Dino Esposito](https://software2cents.wordpress.com/) - .NET 에반젤리스트
 * [Eric A. Meyer](http://meyerweb.com/)
+* [Eric S. Raymond](http://www.catb.org/~esr/) - The Cathedral and the Bazaar 저자
 * [Gal Sagie](http://galsagie.github.io/) - OpenStack Networking
 * [Hadley Wickham](http://hadley.nz/) - R studio
 * [Jake Wharton](http://jakewharton.com/) - Android
