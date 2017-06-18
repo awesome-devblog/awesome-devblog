@@ -416,10 +416,7 @@
 * [정도현](http://www.moreagile.net/) - 개발방법론
 * [정동민](http://jdm.kr/blog/) - Java
 * [정민혁](https://www.holaxprogramming.com/), [정민혁](http://stunstun.tistory.com/) - Java
-* [정재광](https://jae-kwang.github.io/) - Front-end 
-* [정재남](http://gomugom.github.io/) - Front-end
-* [정재화](http://blrunner.com/) - 타조 커미터. 하둡
-* [정재훈](http://uzys.net/) - Rankedin 개발자
+* [정병기](https://byeongkijeong.github.io/) - 인공지능
 * [정상혁](http://blog.benelog.net/) - Java
 * [정성태](http://www.sysnet.pe.kr/) - 닷넷
 * [정순형](https://medium.com/@soonhyungjung) - 블록체인
@@ -427,6 +424,10 @@
 * [정윤성](http://sadang-hobbits.github.io/) - Rust
 * [정윤원](http://youknowone.github.io/) - IOS
 * [정윤진](http://kerberosj.tistory.com/) - Cloud
+* [정재광](https://jae-kwang.github.io/) - Front-end 
+* [정재남](http://gomugom.github.io/) - Front-end
+* [정재화](http://blrunner.com/) - 타조 커미터. 하둡
+* [정재훈](http://uzys.net/) - Rankedin 개발자
 * [정지훈](http://health20.kr/) - IT 역사, 미래 트렌드
 * [정창수](http://downman.tistory.com/) - C
 * [정창훈](https://blog.iamseapy.com/)
