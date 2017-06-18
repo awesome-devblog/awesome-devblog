@@ -619,6 +619,7 @@
 * [LG CNS](http://blog.lgcns.com/)
 * [Line Enginners Blog](http://developers.linecorp.com/blog/ko/)
 * [Mozilla Hack](http://hacks.mozilla.or.kr/), [Mozilla Developer](https://developer.mozilla.org/ko/)
+* [MSDN Korea Evengelist](https://blogs.msdn.microsoft.com/eva/) - .Net
 * [Popit](http://www.popit.kr/)
 * [Refresh Studio](http://refreshstudio.tistory.com/) - UI/UX 디자인
 * [Remotty Tech Blog](http://blog.remotty.com/blog/)
