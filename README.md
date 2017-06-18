@@ -641,6 +641,7 @@
 * [Andy Hunt](http://andy.pragprog.com/) - 실용주의 프로그래머, 프로그래밍 루비 공저
 * [Armin Ronacher](http://lucumr.pocoo.org/) - Flask, Lektor 개발자
 * [Assaf Muller](https://assafmuller.com/) - OpenStack, SDN
+* [Bojan Gvozderac](https://medium.com/@bojangbusiness)
 * [Bram Cohen](http://bramcohen.com/) - 비트토렌트 창시자
 * [Brendan Eich](https://brendaneich.com/) - Javascript 창시자
 * [Chad Fowler](http://chadfowler.com/) - Rails Recipes 저자
