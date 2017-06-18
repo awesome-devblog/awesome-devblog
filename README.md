@@ -625,6 +625,7 @@
 * [SLiPP](http://slipp.net/) - 박재성, 김현기, 오진우
 * [Spoqa](http://spoqa.github.io/)
 * [SK 플래닛](http://readme.skplanet.com/)
+* [TECH M](http://techm.kr/) - IT 기사
 * [The Blockchain](http://theblockchain.kr/)
 * [Tumblr](http://engineering.tumblr.com/)
 * [tyle](https://blog.tyle.io/)
