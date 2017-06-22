@@ -301,6 +301,7 @@
 * [용찬호](http://blog.naver.com/alice_k106) - Docker
 * [용현택](http://yonght.tumblr.com/)
 * [우웅몬](https://brunch.co.kr/@wej6688) - UX
+* [우영준](http://blog.hax0r.info) - Serverside and security
 * [우준혁](http://sarojaba.github.io/) - Awesome-devblog
 * [원강민](https://blog.wonhada.com/) - 코로나
 * [원종석](https://tedwon.atlassian.net/)

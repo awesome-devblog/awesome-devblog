@@ -84,6 +84,7 @@ var feeds = {
     오동권: 'http://www.flowdas.com/blog/feeds/rss/',
     오현석: 'http://www.enshahar.me/feeds/posts/default',
     용현택: 'http://yonght.tumblr.com/rss',
+    우영준: 'http://blog.hax0r.info/rss',
     윤석찬: 'http://feeds.feedburner.com/channy',
     윤영식: 'http://mobicon.tistory.com/rss',
     윤창석: 'http://changsuk.me/?feed=rss2',
