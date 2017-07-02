@@ -246,6 +246,7 @@
 * [송원준](http://blog.naver.com/PostList.nhn?blogId=swj8530)
 * [송윤섭](https://songyunseop.github.io/) - Python, Node.js
 * [송은우](https://rampart81.github.io/) - Python
+* [송석호](https://devsdk.github.io/) - OS
 * [송성광](http://saltfactory.net/)
 * [송주성(빈꿈)](http://emptydream.tistory.com/) - IT 칼럼
 * [송준현](https://medium.com/@it_sjh9973)
