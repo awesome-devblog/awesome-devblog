@@ -54,6 +54,7 @@
 * [김대기](http://daegikim.github.io/) - 웹
 * [김대현](http://hatemogi.com/) - 백엔드
 * [김덕홍](http://insanehong.kr/)
+* [김도곤](http://dokonk.blogspot.kr/) - DB
 * [김도균](http://www.dokyun.pe.kr/)
 * [김래곤](http://raegon.kim/)
 * [김명신](http://himskim.egloos.com/)
