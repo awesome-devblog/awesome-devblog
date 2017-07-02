@@ -556,6 +556,7 @@
 * [독립 개발자 네트워크](https://indidev.net/) - C/C++
 * [드라마앤컴패니 블로그](http://blog.dramancompany.com/)
 * [라온피플](http://blog.naver.com/PostList.nhn?blogId=laonple) - 비전, 머신 러닝
+* [레진 기술 블로그](http://tech.lezhin.com/)
 * [리모트몬스터](https://blog.remotemonster.com/) - WebRTC
 * [모두의연구소](http://www.modulabs.co.kr/)
 * [모람씨앤티](http://blog.moramcnt.com/) - 이용민
