@@ -72,6 +72,7 @@
 * [김선철](http://blog.naver.com/PostList.nhn?blogId=sckim007)
 * [김성빈](http://sungbine.github.io/) - Web
 * [김성수](http://sungsoo.github.io/)
+* [김성식](http://devopser.me/) - DevOps
 * [김성중](http://sungjk.github.io/)
 * [김성현](http://greemate.tistory.com/) - 윈도우즈 커널
 * [김성호](http://raccoonyy.github.io/)
@@ -558,7 +559,7 @@
 * [라온피플](http://blog.naver.com/PostList.nhn?blogId=laonple) - 비전, 머신 러닝
 * [레진 기술 블로그](http://tech.lezhin.com/)
 * [리모트몬스터](https://blog.remotemonster.com/) - WebRTC
-* [린치핀소프트](http://www.linchpinsoft.com/blog/) - 데이터 마이닝
+* [린치핀소프트](http://www.linchpinsoft.com/blog/) - 한광희
 * [모두의연구소](http://www.modulabs.co.kr/)
 * [모람씨앤티](http://blog.moramcnt.com/) - 이용민
 * [모비인사이드](http://www.mobiinside.com/kr/) - 모바일
