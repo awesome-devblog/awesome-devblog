@@ -434,6 +434,7 @@
 * [정재화](http://blrunner.com/) - 타조 커미터. 하둡
 * [정재훈](http://uzys.net/) - Rankedin 개발자
 * [정지훈](http://health20.kr/) - IT 역사, 미래 트렌드
+* [정찬웅](https://korchris.github.io/)
 * [정창수](http://downman.tistory.com/) - C
 * [정창훈](https://blog.iamseapy.com/)
 * [정희연](https://yeun.github.io/) - 웹디자인
