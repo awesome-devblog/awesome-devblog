@@ -233,6 +233,7 @@
 * [서오석](https://brunch.co.kr/@elijah17) - Java
 * [서인석](http://isseo90.tistory.com/) - 디자인
 * [서주영](http://seoz.com/) - 타이젠
+* [서창욱](http://scw0531.blog.me/)
 * [서한교](https://brunch.co.kr/@zalhanilll) - 디자인
 * [성대경](http://healthydeveloper.tistory.com/) - Algorithm
 * [손승하](http://sonseungha.tistory.com/) - Linux
