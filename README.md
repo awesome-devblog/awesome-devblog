@@ -483,6 +483,7 @@
 * [최윤섭](http://www.yoonsupchoi.com/) - 헬스케어
 * [최재훈](http://andromedarabbit.net/)
 * [최정대](http://blog.woosum.net/), [최정대](https://medium.com/@whitekid) - 오픈스택
+* [최정연](http://blog.naver.com/cenodim) - Kotlin
 * [최종욱](http://johnwook.com/) - 웹
 * [최종원](https://brunch.co.kr/@voiz) - 테크 칼럼
 * [최종찬](http://blog.0xabcdef.com/)
