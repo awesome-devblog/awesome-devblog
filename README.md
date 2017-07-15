@@ -190,6 +190,7 @@
 * [박성철](http://blog.fupfin.com/) - Java
 * [박석제](https://parkseokje.github.io/)
 * [박성현](https://helloworldpark.github.io/)
+* [박연오](https://bakyeono.net/) - Python
 * [박영록](http://youngrok.com/) - 위키나무
 * [박용권](https://brunch.co.kr/@arawn)
 * [박용서](https://gs.saro.me)
