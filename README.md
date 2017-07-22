@@ -206,6 +206,7 @@
 * [박종명](http://m.mkexdev.net/)
 * [박준규](https://brunch.co.kr/@kospoll-lab) - 인공지능
 * [박준규](https://brunch.co.kr/@nattybear)
+* [박준호](http://junojunho.com/) - Front-end
 * [박지수](https://medium.com/@JisuPark)
 * [박진서](http://jasonpark.me/)
 * [박진우](https://www.jinpark.net/)
