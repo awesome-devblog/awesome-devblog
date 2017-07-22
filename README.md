@@ -117,6 +117,7 @@
 * [김진성](http://jinseong0928.blogspot.kr/)
 * [김진수](https://item4.github.io/) - Web
 * [김진욱](http://rein.kr/blog/)
+* [김짐](https://medium.com/@jimkimau) - Front-end
 * [김창원](http://www.memoriesreloaded.net/) - 실리콘밸리
 * [김창준](http://agile.egloos.com/) - 애자일
 * [김청진](http://jinblog.kr) - IT소식/리뷰, 개발(웹, 모바일)
