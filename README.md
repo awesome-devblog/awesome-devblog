@@ -349,6 +349,7 @@
 * [이민철](http://bab2min.tistory.com/)
 * [이민호](http://lumiamitie.github.io/)
 * [이병준](http://www.buggymind.com/)
+* [이상복](https://medium.com/@sangboaklee) - Front-end
 * [이상영](http://blog.sangyoung.me/)
 * [이상우](http://prostars.net/) - C++
 * [이상욱](https://sangwook.github.io/), [이상욱](http://yisangwook.tumblr.com/) - 아키텍처 분석
