@@ -711,6 +711,7 @@
 * [Robert C. Martin](http://blog.cleancoder.com/) - 클린 코드 저자
 * [Rod Johnson](https://medium.com/@springrod) - Spring 창시자
 * [Sacha Greif](https://medium.com/@sachagreif) - Front-end
+* [Sam Newman](http://samnewman.io/) - Building Microservices 저자
 * [Scott Hanselman](http://www.hanselman.com/) - ASP.NET
 * [Stephen Colebourne](http://blog.joda.org/) - Joda-Time 창시자
 * [Steve Wozniak](http://www.woz.org/) - Apple 공동창업자
