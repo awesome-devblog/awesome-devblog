@@ -356,6 +356,7 @@
 * [이상욱](https://sangwook.github.io/), [이상욱](http://yisangwook.tumblr.com/) - 아키텍처 분석
 * [이상운](https://highluck.github.io/)
 * [이상주](http://surpreem.com/)
+* [이상학](http://sanghaklee.tistory.com/) - Back-end
 * [이선협](https://medium.com/sunhyoups-story)
 * [이성규](http://www.shalomeir.com/)
 * [이성근](http://crazrain.tistory.com/) - Spring Boot
