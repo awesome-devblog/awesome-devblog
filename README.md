@@ -180,6 +180,7 @@
 * [박경욱](https://kyungw00k.github.io/)
 * [박경준](https://ryanpark.me/)
 * [박경훈(HOONS)](http://hoonsbara.tistory.com/) - 닷넷
+* [박민](https://isme2n.github.io/) - Front-end
 * [박민근(알콜코더)](http://blog.naver.com/agebreak) - 게임 개발
 * [박민우](http://earlybird.kr/) - Realm
 * [박상권](http://gun0912.tistory.com/) - Android
