@@ -675,6 +675,7 @@
 * [David Thomas](http://pragdave.me/) - 실용주의 프로그래머 공저. Elixir 언어.
 * [Derick Bailey](https://derickbailey.com/) - Javascript 개발자
 * [Dino Esposito](https://software2cents.wordpress.com/) - .NET 에반젤리스트
+* [Douglas Crockford](http://www.crockford.com/) - JSON 창시자. JavaScript: The Good Parts 저자
 * [Eric A. Meyer](http://meyerweb.com/)
 * [Eric S. Raymond](http://www.catb.org/~esr/) - The Cathedral and the Bazaar 저자
 * [Gal Sagie](http://galsagie.github.io/) - OpenStack Networking
