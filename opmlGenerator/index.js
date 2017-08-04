@@ -154,6 +154,12 @@ var feeds = {
     Mozilla: 'http://hacks.mozilla.or.kr/feed/',
     Spoqa: 'http://spoqa.github.io/rss',
     VCNC: 'http://engineering.vcnc.co.kr/atom.xml',
+    드라마앤컴패니: 'http://blog.dramancompany.com/category/develop/feed/',
+    라인: 'https://engineering.linecorp.com/ko/blog/rss2',
+    스포카: 'https://spoqa.github.io/rss',
+    우아한형제들: 'http://woowabros.github.io/feed',
+    카카오: 'http://tech.kakao.com/rss/',
+    레진: 'http://tech.lezhin.com/rss/',
 };
 
 var body = [];
