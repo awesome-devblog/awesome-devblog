@@ -144,6 +144,7 @@ var feeds = {
     이상한모임: 'http://blog.weirdx.io/feed/',
     이음소시어스: 'http://bigmatch.i-um.net/feed/',
     인사이트: 'http://blog.insightbook.co.kr/rss',
+    로지스팟: 'http://engineering.logi-spot.com/',
     코딩뉴스: 'http://www.codingnews.net/?feed=rss2',
     테크수다: 'http://www.techsuda.com/feed',
     티몬: 'http://tmondev.blog.me/rss',

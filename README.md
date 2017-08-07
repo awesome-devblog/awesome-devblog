@@ -601,6 +601,7 @@
 * [이상한모임](http://blog.weirdx.io/)
 * [이음소시어스](http://bigmatch.i-um.net/)
 * [인사이트](http://www.insightbook.co.kr/) - 책
+* [로지스팟](http://engineering.logi-spot.com/)
 * [제이펍](http://jpub.tistory.com/) - 책
 * [조이코퍼레이션](https://medium.com/zoyi-blog)
 * [줌 인터넷 개발 블로그](https://zumdev.github.io/)
