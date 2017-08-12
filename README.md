@@ -58,6 +58,7 @@
 * [김도균](http://www.dokyun.pe.kr/)
 * [김래곤](http://raegon.kim/)
 * [김명신](http://himskim.egloos.com/)
+* [김명주](http://blog.naver.com/bansuk78) - Lagom
 * [김명준](http://html5lab.kr/) - 프론트엔드
 * [김민서](http://blog.naver.com/mseokim011117) - Swift
 * [김민석](https://brunch.co.kr/@brunchqvxt) - Spring Boot
