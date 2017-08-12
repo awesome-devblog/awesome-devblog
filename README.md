@@ -20,29 +20,29 @@
 | [강대명](charsyam.md) | https://charsyam.wordpress.com/ | 서버 사이드 |
 | 강동혁 | https://brunch.co.kr/@dongkang | 인기 개발 |
 | 강병욱 | https://medium.com/@brillante9111 | 라이언봇 |
+| 강성일 | https://b.luavis.kr/ | Python |
+| 강성훈 | http://mearie.org/ | |
+| 강성희 | https://medium.com/@shaynekang | |
+| 강진우 | https://brunch.co.kr/@alden | Linux |
+| 강태욱 | http://daddynkidsmakers.blogspot.kr/ | IoT |
+| 강한별 | https://brunch.co.kr/@cloud09 | 데이터 분석 |
+| 계주성 | http://kyejusung.com/ | |
+| 고득녕 | http://blog.naver.com/nackji80/ | 네트워크 |
+| 고명환 | https://brunch.co.kr/@maru7091 | 스타트업 |
+| 고형호 | http://hhko.tistory.com/ | Functional Programming |
+| 곽민수 | https://brunch.co.kr/@imagineer | |
+| 구교준 | http://danielku.com/ | |
+| 구자철 | http://forest71.tistory.com/ | |
+| [구종만](theyearlyprophet.md) | http://theyearlyprophet.com/ | 알고리즘 |
+| 권기호 | http://kwongyo.tistory.com/ | |
+| 권남 | http://kwon37xi.egloos.com/ | Java |
+| 권동준 | https://mayajuni.github.io/ | Web |
+| 권민재 | https://mingrammer.com/ | Python |
+| 권영재 | https://nesoy.github.io/ | |
+| 권용근 | https://kingbbode.github.io/ | |
+| 권욱제 | http://wookje.dance/ | |
+| 권윤학 | http://web-front-end.tistory.com/ | Web |
 
-* [강성일](https://b.luavis.kr/) - Python
-* [강성훈](http://mearie.org/)
-* [강성희](https://medium.com/@shaynekang)
-* [강진우](https://brunch.co.kr/@alden) - Linux
-* [강태욱](http://daddynkidsmakers.blogspot.kr/) - IoT
-* [강한별](https://brunch.co.kr/@cloud09) - 데이터 분석
-* [계주성](http://kyejusung.com/)
-* [고득녕](http://blog.naver.com/nackji80/) - 네트워크
-* [고명환](https://brunch.co.kr/@maru7091) - 스타트업
-* [고형호](http://hhko.tistory.com/) - Functional Programming
-* [곽민수](https://brunch.co.kr/@imagineer)
-* [구교준](http://danielku.com/)
-* [구자철](http://forest71.tistory.com/)
-* [구종만](theyearlyprophet.md)([블로그](http://theyearlyprophet.com/)) - 알고리즘
-* [권기호](http://kwongyo.tistory.com/)
-* [권남](http://kwon37xi.egloos.com/) - Java
-* [권동준](https://mayajuni.github.io/) - Web
-* [권민재](https://mingrammer.com/) - Python
-* [권영재](https://nesoy.github.io/)
-* [권용근](https://kingbbode.github.io/)
-* [권욱제](http://wookje.dance/)
-* [권윤학](http://web-front-end.tistory.com/) - Web
 * [권장표](http://willbesomething.com/) - 게임 기획
 * [권정혁](http://xguru.net/guru) - 개발 트렌드
 * [권창현](http://thoughts.chkwon.net/) - 산업공학
