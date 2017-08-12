@@ -379,6 +379,7 @@
 * [이제민](https://leejaymin.github.io/)([블로그](http://goodtogreate.tistory.com/)) - Data Science
 * [이주영](https://dev-juyoung.github.io/) - Android
 * [이준범](https://beomi.github.io/) - Python
+* [이준용](https://brunch.co.kr/@junyong) - 해외 취업
 * [이지훈](http://jihoonl.notemywish.com/)
 * [이진석](https://medium.com/@allieuslee) - Python, Django
 * [이찬행](http://blog.naver.com/PostList.nhn?blogId=dlcksgod1)
