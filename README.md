@@ -42,36 +42,36 @@
 | 권용근 | https://kingbbode.github.io/ | |
 | 권욱제 | http://wookje.dance/ | |
 | 권윤학 | http://web-front-end.tistory.com/ | Web |
+| 권장표 | http://willbesomething.com/ | 게임 기획 |
+| 권정혁 | http://xguru.net/guru | 개발 트렌드 |
+| 권창현 | http://thoughts.chkwon.net/ | 산업공학 |
+| 김광현(광파리) | http://kwang82.hankyung.com/ | IT 소식 |
+| 김국현 | http://goodhyun.com/ | IT 칼럼 |
+| 김길호 | http://kilhokim.github.io/ | |
+| 김나솔 | https://brunch.co.kr/@nassol | 개발자 영어 |
+| 김남윤 | https://cheese10yun.github.io/ | Javascript, Node.JS |
+| 김남훈 | http://namhoon.kim/ | Jekyll |
+| 김놀부 | http://nolboo.github.io/ | 번역 모음 |
+| 김대권 | http://nacyot.com/ | |
+| 김대기 | http://daegikim.github.io/ | Web |
+| 김대현 | http://hatemogi.com/ | 백엔드 |
+| 김덕홍 | http://insanehong.kr/ | |
+| 김도곤 | http://dokonk.blogspot.kr/ | DB |
+| 김도균 | http://www.dokyun.pe.kr/ | |
+| 김래곤 | http://raegon.kim/ | |
+| 김명신 | http://himskim.egloos.com/ | |
+| 김명주 | http://blog.naver.com/bansuk78 | Lagom |
+| 김명준 | http://html5lab.kr/ | 프론트엔드 |
+| 김민서 | http://blog.naver.com/mseokim011117 | Swift |
+| 김민석 | https://brunch.co.kr/@brunchqvxt | Spring Boot |
+| 김민수 | http://www.kmshack.kr/ | 안드로이드 |
+| 김민장 | http://minjang.egloos.com/ | 컴퓨터 아키텍처 |
+| 김민준 | https://velopert.com/ | Front-end |
+| 김범준 | http://bomjun.tistory.com/ | |
+| 김범준 | http://nolsigan.github.io/ | |
+| 김범진 | https://medium.com/@beejei | |
+| 김병환 | http://kimbyeonghwan.tumblr.com/ | UX |
 
-* [권장표](http://willbesomething.com/) - 게임 기획
-* [권정혁](http://xguru.net/guru) - 개발 트렌드
-* [권창현](http://thoughts.chkwon.net/) - 산업공학
-* [김광현(광파리)](http://kwang82.hankyung.com/) - IT 소식
-* [김국현](http://goodhyun.com/) - IT 칼럼
-* [김길호](http://kilhokim.github.io/)
-* [김나솔](https://brunch.co.kr/@nassol) - 개발자 영어
-* [김남윤](https://cheese10yun.github.io/) - Javascript, Node.JS
-* [김남훈](http://namhoon.kim/) - Jekyll
-* [김놀부](http://nolboo.github.io/) - 번역 모음
-* [김대권](http://nacyot.com/)
-* [김대기](http://daegikim.github.io/) - 웹
-* [김대현](http://hatemogi.com/) - 백엔드
-* [김덕홍](http://insanehong.kr/)
-* [김도곤](http://dokonk.blogspot.kr/) - DB
-* [김도균](http://www.dokyun.pe.kr/)
-* [김래곤](http://raegon.kim/)
-* [김명신](http://himskim.egloos.com/)
-* [김명주](http://blog.naver.com/bansuk78) - Lagom
-* [김명준](http://html5lab.kr/) - 프론트엔드
-* [김민서](http://blog.naver.com/mseokim011117) - Swift
-* [김민석](https://brunch.co.kr/@brunchqvxt) - Spring Boot
-* [김민수](http://www.kmshack.kr/) - 안드로이드
-* [김민장](http://minjang.egloos.com/) - 컴퓨터 아키텍처
-* [김민준](https://velopert.com/) - Front-end
-* [김범준](http://bomjun.tistory.com/)
-* [김범준](http://nolsigan.github.io/)
-* [김범진](https://medium.com/@beejei)
-* [김병환](http://kimbyeonghwan.tumblr.com/) - UX
 * [김석기](https://brunch.co.kr/@neo3xdh) - IT 칼럼
 * [김석준](http://seokjun.kr/)
 * [김선철](http://blog.naver.com/PostList.nhn?blogId=sckim007)
