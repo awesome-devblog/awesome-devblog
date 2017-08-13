@@ -152,7 +152,6 @@
 * [남궁민](https://medium.com/@minnamgoong) - 스타트업
 * [남영환](http://www.iamfrom.kr/) - Java, Javascript
 * [남정현](http://www.rkttu.com/) - 클라우드
-* [남주명](http://namjmnam.blog.me/) - 보안
 * [노상범](https://medium.com/@sbroh)
 * [남세현](https://medium.com/@Nam_se) - 게임 개발
 * [노용환](http://bugsfixed.blogspot.kr/), [노용환](http://somma.egloos.com/) - 윈도우즈 커널
