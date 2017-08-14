@@ -71,142 +71,152 @@
 | 김범준 | http://nolsigan.github.io/ | |
 | 김범진 | https://medium.com/@beejei | |
 | 김병환 | http://kimbyeonghwan.tumblr.com/ | UX |
-
-* [김석기](https://brunch.co.kr/@neo3xdh) - IT 칼럼
-* [김석준](http://seokjun.kr/)
-* [김선철](http://blog.naver.com/PostList.nhn?blogId=sckim007)
-* [김성빈](http://sungbine.github.io/) - Web
-* [김성수](http://sungsoo.github.io/)
-* [김성식](http://devopser.me/) - DevOps
-* [김성중](http://sungjk.github.io/)
-* [김성현](http://greemate.tistory.com/) - 윈도우즈 커널
-* [김성호](http://raccoonyy.github.io/)
-* [김성훈](http://www.se.or.kr/) - 학교 생활
-* [김성훈](http://elky84.github.io/) - C++, C#, Ruby, Python
-* [김소연](http://makeajourney.github.io/) - Scala, Python
-* [김수로](http://babysunmoon.tistory.com/)
-* [김수보](https://subokim.wordpress.com/) - IT 칼럼
-* [김순식](http://i-bada.blogspot.kr/)
-* [김승호](http://raccoonyy.github.io/) - Python
-* [김슬기](http://blog.seulgi.kim/) - 서울대생
-* [김영재](https://youngjaekim.wordpress.com/)
-* [김영재](http://haviyj.tistory.com/)
-* [김요섭](https://josephkim75.wordpress.com/)
-* [김용균](http://haruair.com/) - 웹
-* [김용묵](http://moogi.new21.org/) - 한글 언어, C++
-* [김용환](http://knight76.tistory.com/)
-* [김용현](http://blog.naver.com/drvoss) - C++
-* [김용휘](http://ggoals.tistory.com/) - Data Infrastructure
-* [김우섭](https://brunch.co.kr/@linterpreteur)
-* [김우승](https://kimws.wordpress.com/) - 빅데이터
-* [김우용](https://brunch.co.kr/@wedump) - 게임 개발
-* [김원일](http://androidkr.blogspot.kr/) - 안드로이드
-* [김인기](http://ingeec.tistory.com/) - Web
-* [김정환](http://blog.jeonghwan.net/) - javascript,node
-* [김재국](https://jaigouk.com/)
-* [김재원](https://jaewonism.com/) - Front-end
-* [김재호](http://www.benjaminlog.com/) - C++
-* [김종민](http://blog.cmiscm.com/) - 인터렉티브 디벨로퍼
-* [김종민](http://uroa.tistory.com/)
-* [김종욱](http://catlog.kr/)
-* [김종인](http://zzong.net) - Java, Spring
-* [김종희](https://kimpaper.github.io/) - Back-end
-* [김준철](http://jetalog.net/) - Solr
-* [김준형](https://medium.com/@ghilbut)
-* [김준환](http://topnanis.tistory.com/)
-* [김지영](https://brunch.co.kr/@pubjinson)
-* [김지혁](http://kimjihyok.info/) - 안드로이드, 오픈소스
-* [김지현](https://hyeon.me/)
-* [김지홍](https://brunch.co.kr/@jihere1001) - 프로토타이핑
-* [김진국](http://forensic-proof.com/) - 포렌식
-* [김진성](http://jinseong0928.blogspot.kr/)
-* [김진수](https://item4.github.io/) - Web
-* [김진욱](http://rein.kr/blog/)
-* [김짐](https://medium.com/@jimkimau) - Front-end
-* [김창원](http://www.memoriesreloaded.net/) - 실리콘밸리
-* [김창준](http://agile.egloos.com/) - 애자일
-* [김청진](http://jinblog.kr) - IT소식/리뷰, 개발(웹, 모바일)
-* [김충섭](http://subicura.com/)
-* [김코딩](http://huns.me/)
-* [김태곤](http://taegon.kim/) - 웹
-* [김태균](http://blog.gaerae.com/)
-* [김태기](https://beyondj2ee.wordpress.com/) -Java
-* [김태영](https://tykimos.github.io/) - 머신러닝
-* 김태호([신규](http://kunny.github.io/), [이전](http://androidhuman.com/)) - 안드로이드
-* [김태호](https://medium.com/@xissy) - 스타트업
-* [김태환](http://thefinestartist.com/) - Java, Android
-* [김태헌](https://brunch.co.kr/@myte) - 해외 취업
-* [김태훈](http://carpedm20.github.io/)
-* [김포프](http://kblog.popekim.com/)
-* [김한결](http://devkyeol.tistory.com/)
-* [김한웅](https://hanwong.github.io/) - Front-end
-* [김현유(미키김)](http://www.mickeykim.com/) - 구글
-* [김형준](http://www.gisdeveloper.co.kr/) - GIS
-* [김화수](http://flowerexcel.tistory.com/) - C++
-* [김환희](http://greentec.egloos.com/) - 게임개발
-* [김훈민(김코딩)](http://huns.me/) - Web
-* [김희준](https://heejune.me/)
+| 김석기 | https://brunch.co.kr/@neo3xdh | IT 칼럼 |
+| 김석준 | http://seokjun.kr/ | |
+| 김선철 | http://blog.naver.com/PostList.nhn?blogId=sckim007 | | 
+| 김성빈 | http://sungbine.github.io/ | Web |
+| 김성수 | http://sungsoo.github.io/ | |
+| 김성식 | http://devopser.me/ | DevOps |
+| 김성중 | http://sungjk.github.io/ | |
+| 김성현 | http://greemate.tistory.com/ | 윈도우즈 커널 |
+| 김성호 | http://raccoonyy.github.io/ | |
+| 김성훈 | http://www.se.or.kr/ | 학교 생활 |
+| 김성훈 | http://elky84.github.io/ | C++, C#, Ruby, Python |
+| 김수로 | http://babysunmoon.tistory.com/ | |
+| 김수보 | https://subokim.wordpress.com/ | IT 칼럼 |
+| 김순식 | http://i-bada.blogspot.kr/ | |
+| 김승호 | http://raccoonyy.github.io/ | Python |
+| 김슬기 | http://blog.seulgi.kim/ | 서울대생 |
+| 김영재 | https://youngjaekim.wordpress.com/ | | 
+| 김영재 | http://haviyj.tistory.com/ | |
+| 김요섭 | https://josephkim75.wordpress.com/ | | 
+| 김용균 | http://haruair.com/ | Web |
+| 김용묵 | http://moogi.new21.org/ | 한글 언어, C++ |
+| 김용환 | http://knight76.tistory.com/ | |
+| 김용현 | http://blog.naver.com/drvoss | C++ |
+| 김용휘 | http://ggoals.tistory.com/ | Data Infrastructure |
+| 김우섭 | https://brunch.co.kr/@linterpreteur | |
+| 김우승 | https://kimws.wordpress.com/ | 빅데이터 |
+| 김우용 | https://brunch.co.kr/@wedump | 게임 개발 |
+| 김원일 | http://androidkr.blogspot.kr/ | 안드로이드 |
+| 김인기 | http://ingeec.tistory.com/ | Web |
+| 김정환 | http://blog.jeonghwan.net/ | Javascript, Node |
+| 김재국 | https://jaigouk.com/ | |
+| 김재원 | https://jaewonism.com/ | Front-end |
+| 김재호 | http://www.benjaminlog.com/ | C++ |
+| 김종민 | http://blog.cmiscm.com/ | 인터렉티브 디벨로퍼 |
+| 김종민 | http://uroa.tistory.com/ | |
+| 김종욱 | http://catlog.kr/ | |
+| 김종인 | http://zzong.net | Java, Spring |
+| 김종희 | https://kimpaper.github.io/ | Back-end |
+| 김준철 | http://jetalog.net/ | Solr |
+| 김준형 | https://medium.com/@ghilbut | |
+| 김준환 | http://topnanis.tistory.com/ | |
+| 김지영 | https://brunch.co.kr/@pubjinson | | 
+| 김지혁 | http://kimjihyok.info/ | 안드로이드, 오픈소스 |
+| 김지현 | https://hyeon.me/ | |
+| 김지홍 | https://brunch.co.kr/@jihere1001 | 프로토타이핑 |
+| 김진국 | http://forensic-proof.com/ | 포렌식 |
+| 김진성 | http://jinseong0928.blogspot.kr/ | |
+| 김진수 | https://item4.github.io/ | Web |
+| 김진욱 | http://rein.kr/blog/ | |
+| 김짐 | https://medium.com/@jimkimau | Front-end |
+| 김창원 | http://www.memoriesreloaded.net/ | 실리콘밸리 |
+| 김창준 | http://agile.egloos.com/ | 애자일 |
+| 김청진 | http://jinblog.kr | IT소식/리뷰, 개발(웹, 모바일) | 
+| 김충섭 | http://subicura.com/ | |
+| 김코딩 | http://huns.me/ | |
+| 김태곤 | http://taegon.kim/ | 웹 |
+| 김태균 | http://blog.gaerae.com/ | | 
+| 김태기 | https://beyondj2ee.wordpress.com/ | Java |
+| 김태영 | https://tykimos.github.io/ | 머신러닝 |
+| 김태호 | http://kunny.github.io/, http://androidhuman.com/ | 안드로이드 |
+| 김태호 | https://medium.com/@xissy | 스타트업 |
+| 김태환 | http://thefinestartist.com/ | Java, Android |
+| 김태헌 | https://brunch.co.kr/@myte | 해외 취업 |
+| 김태훈 | http://carpedm20.github.io/ | |
+| 김포프 | http://kblog.popekim.com/ | |
+| 김한결 | http://devkyeol.tistory.com/ | |
+| 김한웅 | https://hanwong.github.io/ | Front-end |
+| 김현유(미키김)| http://www.mickeykim.com/ | 구글 |
+| 김형준 | http://www.gisdeveloper.co.kr/ | GIS |
+| 김화수 | http://flowerexcel.tistory.com/ | C++ |
+| 김환희 | http://greentec.egloos.com/ | 게임개발 |
+| 김훈민(김코딩) | http://huns.me/ | Web |
+| 김희준 | https://heejune.me/ | |
 
 ### ㄴ
 
-* [나윤환](https://nayunhwan.github.io/) - React
-* [남궁민](https://medium.com/@minnamgoong) - 스타트업
-* [남영환](http://www.iamfrom.kr/) - Java, Javascript
-* [남정현](http://www.rkttu.com/) - 클라우드
-* [노상범](https://medium.com/@sbroh)
-* [남세현](https://medium.com/@Nam_se) - 게임 개발
-* [노용환](http://bugsfixed.blogspot.kr/), [노용환](http://somma.egloos.com/) - 윈도우즈 커널
-* [노재민](http://korsnack.kr/)
-* [노현석](http://pluu.github.io/) - Android
+| Name | Blog | Description |
+|---|---|---|
+| 나윤환 | https://nayunhwan.github.io/ | React |
+| 남궁민 | https://medium.com/@minnamgoong | 스타트업 |
+| 남영환 | http://www.iamfrom.kr/ | Java, Javascript |
+| 남정현 | http://www.rkttu.com/ | 클라우드 |
+| 노상범 | https://medium.com/@sbroh | |
+| 남세현 | https://medium.com/@Nam_se | 게임 개발 |
+| 노용환 | http://bugsfixed.blogspot.kr/, http://somma.egloos.com/ | 윈도우즈 커널 |
+| 노재민 | http://korsnack.kr/ | |
+| 노현석 | http://pluu.github.io/ | Android |
 
 ### ㄷ
 
-* [도경태](https://medium.com/@keendev)
+| Name | Blog | Description |
+|---|---|---|
+| 도경태 | https://medium.com/@keendev | |
 
 ### ㄹ
 
-* [류광](http://occamsrazr.net/) - 번역
-* [류재영](http://longbe00.blogspot.kr/)
-* [류종택](http://ryulib.tistory.com/)
-* [류지형](http://www.jakemvc.com)
-* [류현오](https://activity.horyu.me)
+| Name | Blog | Description |
+|---|---|---|
+| 류광 | http://occamsrazr.net/ | 번역 |
+| 류재영 | http://longbe00.blogspot.kr/ | | 
+| 류종택 | http://ryulib.tistory.com/ | |
+| 류지형 | http://www.jakemvc.com | |
+| 류현오 | https://activity.horyu.me | | 
 
 ### ㅁ
 
-* [마경욱](https://brunch.co.kr/@kyeongwook-ma) - 스타트업
-* [모상우](https://brunch.co.kr/@aidenswmo)
-* [문동선](http://dsmoon.tistory.com/) - 머신러닝
-* [문준영](https://brunch.co.kr/@moonjoonyoung)
-* [문형환](http://blog.lael.be/)
+| Name | Blog | Description |
+|---|---|---|
+| 마경욱 | https://brunch.co.kr/@kyeongwook-ma | 스타트업 |
+| 모상우 | https://brunch.co.kr/@aidenswmo | |
+| 문동선 | http://dsmoon.tistory.com/ | 머신러닝 |
+| 문준영 | https://brunch.co.kr/@moonjoonyoung | | 
+| 문형환 | http://blog.lael.be/ | |
 
 ### ㅂ
 
-* [박경욱](https://kyungw00k.github.io/)
-* [박경준](https://ryanpark.me/)
-* [박경훈(HOONS)](http://hoonsbara.tistory.com/) - 닷넷
-* [박민](https://isme2n.github.io/) - Front-end
-* [박민근(알콜코더)](http://blog.naver.com/agebreak) - 게임 개발
-* [박민우](http://earlybird.kr/) - Realm
-* [박상권](http://gun0912.tistory.com/) - Android
-* [박상근](http://parksk.tistory.com/)
-* [박상길](http://likejazz.com/)
-* [박상민](https://sangminpark.wordpress.com/)
-* [박상일](https://tkddlf59.github.io/) - AWS
-* [박상훈](https://brunch.co.kr/@sanghoonpak) - 인도네시아 IT 소식
-* [박성철](http://blog.fupfin.com/) - Java
-* [박석제](https://parkseokje.github.io/)
-* [박성현](https://helloworldpark.github.io/)
-* [박연오](https://bakyeono.net/) - Python
-* [박영록](http://youngrok.com/) - 위키나무
-* [박용권](https://brunch.co.kr/@arawn)
-* [박용서](https://gs.saro.me)
-* [박은환](http://dainelpark.github.io/)
-* [박일](http://parkpd.egloos.com/) - 게임 개발
-* [박재성(자바지기)](http://javajigi.net/) - Java
-* [박재현](http://wisefree.tistory.com/) - IT 칼럼
-* [박재호](http://jhrogue.blogspot.kr/)
-* [박정규](http://bagjunggyu.blogspot.kr/) - 리눅스
-* [박정운](https://jungwoon.github.io/)
+| Name | Blog | Description |
+|---|---|---|
+| 박경욱 | https://kyungw00k.github.io/ | | 
+| 박경준 | https://ryanpark.me/ | |
+| 박경훈(HOONS) | http://hoonsbara.tistory.com/ | 닷넷 |
+| 박민 | https://isme2n.github.io/ | Front-end |
+| 박민근(알콜코더) | http://blog.naver.com/agebreak | 게임 개발 |
+| 박민우 | http://earlybird.kr/ | Realm |
+| 박상권 | http://gun0912.tistory.com/ | Android |
+| 박상근 | http://parksk.tistory.com/ | |
+| 박상길 | http://likejazz.com/ | |
+| 박상민 | https://sangminpark.wordpress.com/ | | 
+| 박상일 | https://tkddlf59.github.io/ | AWS |
+| 박상훈 | https://brunch.co.kr/@sanghoonpak | 인도네시아 IT 소식 |
+| 박성철 | http://blog.fupfin.com/ | Java |
+| 박석제 | https://parkseokje.github.io/ | |
+| 박성현 | https://helloworldpark.github.io/ | | 
+| 박연오 | https://bakyeono.net/ | Python |
+| 박영록 | http://youngrok.com/ | 위키나무 |
+| 박용권 | https://brunch.co.kr/@arawn | |
+| 박용서 | https://gs.saro.me | |
+| 박은환 | http://dainelpark.github.io/ | | 
+| 박일 | http://parkpd.egloos.com/ | 게임 개발 |
+| 박재성(자바지기) | http://javajigi.net/ | Java |
+| 박재현 | http://wisefree.tistory.com/ | IT 칼럼 |
+| 박재호 | http://jhrogue.blogspot.kr/ | |
+| 박정규 | http://bagjunggyu.blogspot.kr/ | 리눅스 |
+| 박정운 | https://jungwoon.github.io/ | |
+| 박정태 | https://pjt3591oo.github.io/, http://blog.naver.com/pjt3591oo | Back-end, 서버 |
+
 * [박정태](https://pjt3591oo.github.io/), [박정태](http://blog.naver.com/pjt3591oo) - Back-end, 서버
 * [박종명](http://m.mkexdev.net/)
 * [박준규](https://brunch.co.kr/@kospoll-lab) - 인공지능
