@@ -575,247 +575,260 @@
 
 ### ㄱ-ㅅ
 
-* [가비아 프론트엔드 개발팀](http://gabia-frontend-dev.com/) - 웹
-* [게임개발 포에버](http://gamedevforever.com/) - 포프, 친절한티스, 알콜코더 민군
-* [굿닥 엔지니어링 블로그](http://dev.goodoc.co.kr/)
-* [나는 프로그래머다](http://iamprogrammer.io/) - 임작가, 데니스, 정개발
-* [네이버](http://helloworld.naver.com/)
-* [네이버 널리 블로그](http://nuli.navercorp.com/sharing/blog/main) - 웹 표준, 접근성
-* [넥스트리](http://www.nextree.co.kr/)
-* [넷매니아즈](http://www.netmanias.com/ko/)
-* [다음 DNA Lens](http://dna.daum.net/lens/)
-* [달리웍스](http://techblog.daliworks.net/)
-* [데일리호텔](https://dailyhotel.io)
-* [독립 개발자 네트워크](https://indidev.net/) - C/C++
-* [드라마앤컴패니 블로그](http://blog.dramancompany.com/)
-* [라온피플](http://blog.naver.com/PostList.nhn?blogId=laonple) - 비전, 머신 러닝
-* [레진 기술 블로그](http://tech.lezhin.com/)
-* [리모트몬스터](https://blog.remotemonster.com/) - WebRTC
-* [린치핀소프트](http://www.linchpinsoft.com/blog/) - 한광희
-* [모두의연구소](http://www.modulabs.co.kr/)
-* [모람씨앤티](http://blog.moramcnt.com/) - 이용민
-* [모비인사이드](http://www.mobiinside.com/kr/) - 모바일
-* [모씨 개발 수첩](https://nrise.github.io/)
-* [미래웹](http://www.miraeweb.com/blog) - 웹
-* [박스앤위스커](http://www.boxnwhis.kr/)
-* [버즈니](http://engineering.buzzni.com/)
-* [버즈아트](https://tech.bbuzzart.com/)
-* [삼성소프트웨어멤버십](http://blog.secmem.org/)
-* [솔라나라](http://www.solanara.net/) - 솔라리스
-* [스타일쉐어](http://styleshare.github.io/)
-* [스타트링크](https://blog.startlink.io/)
-* [슬로우뉴스](http://slownews.kr/category/tech)
-* [시스코](http://ciscokrblog.com/)
+| Name | Blog | Description |
+|---|---|---|
+| 가비아 프론트엔드 개발팀 | http://gabia-frontend-dev.com/ | Web |
+| 게임개발 포에버 | http://gamedevforever.com/ | 포프, 친절한티스, 알콜코더 민군 |
+| 굿닥 엔지니어링 블로그 | http://dev.goodoc.co.kr/ | |
+| 나는 프로그래머다 | http://iamprogrammer.io/ | 임작가, 데니스, 정개발 |
+| 네이버 | http://helloworld.naver.com/ | |
+| 네이버 널리 블로그 | http://nuli.navercorp.com/sharing/blog/main | 웹 표준, 접근성 |
+| 넥스트리 | http://www.nextree.co.kr/ | |
+| 넷매니아즈 | http://www.netmanias.com/ko/ | |
+| 다음 DNA Lens | http://dna.daum.net/lens/ | |
+| 달리웍스 | http://techblog.daliworks.net/ | |
+| 데일리호텔 | https://dailyhotel.io | |
+| 독립 개발자 네트워크 | https://indidev.net/ | C/C++ |
+| 드라마앤컴패니 블로그 | http://blog.dramancompany.com/ | |
+| 라온피플 | http://blog.naver.com/laonple | 비전, 머신 러닝 |
+| 레진 기술 블로그 | http://tech.lezhin.com/ | |
+| 리모트몬스터 | https://blog.remotemonster.com/ | WebRTC |
+| 린치핀소프트 | http://www.linchpinsoft.com/blog/ | 한광희 |
+| 모두의연구소 | http://www.modulabs.co.kr/ | |
+| 모람씨앤티 | http://blog.moramcnt.com/ | 이용민 |
+| 모비인사이드 | http://www.mobiinside.com/kr/ | 모바일 |
+| 모씨 개발 수첩 | https://nrise.github.io/ | |
+| 미래웹 | http://www.miraeweb.com/blog | 웹 |
+| 박스앤위스커 | http://www.boxnwhis.kr/ | |
+| 버즈니 | http://engineering.buzzni.com/ | |
+| 버즈아트 | https://tech.bbuzzart.com/ | |
+| 삼성소프트웨어멤버십 | http://blog.secmem.org/ | |
+| 솔라나라 | http://www.solanara.net/ | 솔라리스 |
+| 스타일쉐어 | http://styleshare.github.io/ | |
+| 스타트링크 | https://blog.startlink.io/ | |
+| 슬로우뉴스 | http://slownews.kr/category/tech | |
+| 시스코 | http://ciscokrblog.com/ | |
 
 ### ㅇ-ㅎ
 
-* [아이디인큐](http://blogs.idincu.com/dev/)
-* [알스퀘어](http://dev.rsquare.co.kr/)
-* [에어브릿지](http://blog.ab180.co/)
-* [에이콘](http://www.acornpub.co.kr/blog) - 책
-* [에일리언큐브 aliencube](http://blog.aliencube.org/) - 닷넷, C#
-* [에스엔티소프트](http://www.sntsoft.co.kr/)
-* [엔씨소프트](http://blog.ncsoft.com/)
-* [엠비안](http://blog.embian.com/)
-* [오픈넷](http://opennet.or.kr/) - 웹접근성
-* [오픈스택 한국 커뮤니티](http://openstack.or.kr/) - OpenStack
-* [오픈튜토리얼스](https://opentutorials.org/)
-* [와탭 블로그](http://blog.whatap.io/)
-* [우아한형제들 기술 블로그](http://woowabros.github.io/)
-* [위클립스](http://eclipse.or.kr/) - 이클립스. 지율.
-* [이상한모임](http://blog.weirdx.io/)
-* [이음소시어스](http://bigmatch.i-um.net/)
-* [인사이트](http://www.insightbook.co.kr/) - 책
-* [로지스팟](http://engineering.logi-spot.com/)
-* [제이펍](http://jpub.tistory.com/) - 책
-* [조이코퍼레이션](https://medium.com/zoyi-blog)
-* [줌 인터넷 개발 블로그](https://zumdev.github.io/)
-* [지디넷 코리아](http://www.zdnet.co.kr/)
-* [카이스트 Applied Algorithm Lab.](http://aalog.tistory.com/)
-* [카카오 기술 블로그](http://tech.kakao.com/)
-* [카카오 정책지원팀 블로그](https://brunch.co.kr/@kakao-it)
-* [커널스터디](http://kernelstudy.net/) - 리눅스 커널
-* [코드스쿼드](https://medium.com/@codesquad_yoda)
-* [코딩뉴스](http://www.codingnews.net/)
-* [퀘스트 소프트 블로그](http://www.questblog.co.kr/)
-* [클리어보스](http://www.clearboth.org/)
-* [테크수다](http://www.techsuda.com/)
-* [테크엠](http://www.techm.kr/home/) - IT
-* [테크홀릭](http://techholic.co.kr/)
-* [토스랩 기술 블로그](http://tosslab.github.io/)
-* [티켓몬스터](http://tmondev.blog.me/)
-* [포럼IT](http://forumit.kr/)
-* [한국게임기획자모임](http://gameplanner.cafe24.com/) - 전동주
-* [한빛네트워크](http://www.hanbit.co.kr/network/)
+| Name | Blog | Description |
+|---|---|---|
+| 아이디인큐 | http://blogs.idincu.com/dev/ | |
+| 알스퀘어 | http://dev.rsquare.co.kr/ | |
+| 에어브릿지 | http://blog.ab180.co/ | |
+| 에이콘 | http://www.acornpub.co.kr/blog | 책 |
+| 에일리언큐브 aliencube | http://blog.aliencube.org/ | 닷넷, C# |
+| 에스엔티소프트 | http://www.sntsoft.co.kr/ | |
+| 엔씨소프트 | http://blog.ncsoft.com/ | |
+| 엠비안 | http://blog.embian.com/ | |
+| 오픈넷 | http://opennet.or.kr/ | 웹접근성 |
+| 오픈스택 한국 커뮤니티 | http://openstack.or.kr/ | OpenStack |
+| 오픈튜토리얼스 | https://opentutorials.org/ | |
+| 와탭 블로그 | http://blog.whatap.io/ | |
+| 우아한형제들 기술 블로그 | http://woowabros.github.io/ | |
+| 위클립스 | http://eclipse.or.kr/ | 이클립스, 지율 |
+| 이상한모임 | http://blog.weirdx.io/ | |
+| 이음소시어스 | http://bigmatch.i-um.net/ | |
+| 인사이트 | http://www.insightbook.co.kr/ | 책 |
+| 로지스팟 | http://engineering.logi-spot.com/ | |
+| 제이펍 | http://jpub.tistory.com/ | 책 |
+| 조이코퍼레이션 | https://medium.com/zoyi-blog | |
+| 줌 인터넷 개발 블로그 | https://zumdev.github.io/ | |
+| 지디넷 코리아 | http://www.zdnet.co.kr/ | |
+| 카이스트 Applied Algorithm Lab. | http://aalog.tistory.com/ | |
+| 카카오 기술 블로그 | http://tech.kakao.com/ | |
+| 카카오 정책지원팀 블로그 | https://brunch.co.kr/@kakao-it | |
+| 커널스터디 | http://kernelstudy.net/ | 리눅스 커널 |
+| 코드스쿼드 | https://medium.com/@codesquad_yoda | |
+| 코딩뉴스 | http://www.codingnews.net/ | |
+| 퀘스트 소프트 블로그 | http://www.questblog.co.kr/ | |
+| 클리어보스 | http://www.clearboth.org/ | |
+| 테크수다 | http://www.techsuda.com/ | |
+| 테크엠 | http://www.techm.kr/home/ | IT |
+| 테크홀릭 | http://techholic.co.kr/ | |
+| 토스랩 기술 블로그 | http://tosslab.github.io/ | |
+| 티켓몬스터 | http://tmondev.blog.me/ | |
+| 포럼IT | http://forumit.kr/ | |
+| 한국게임기획자모임 | http://gameplanner.cafe24.com/ | 전동주 |
+| 한빛네트워크 | http://www.hanbit.co.kr/network/ | |
 
 ### A-Z
 
-* [A MEAN Blog](http://www.a-mean-blog.com/ko) - Web
-* [Aliencube](http://blog.aliencube.org/) - .Net
-* [CIO](http://www.ciokorea.com/)
-* [CodinGame Blog](https://medium.com/@CodinGame)
-* [developerWorks Korea](https://developer.ibm.com/kr/)
-* [devpools](http://devpools.kr/)
-* [dogfeet](http://dogfeet.github.io/) - 박창우, 이신, 최용재
-* [eBrain Blog](http://www.ebrain.kr/category/blogs/) - HR
-* [EFL Korea Community] (http://efl.or.kr) - EFL, Enlightenment, Tizen
-* [Google](http://googledevkr.blogspot.kr/)
-* [IAMROOT](http://www.iamroot.org/) - 리눅스 커널 스터디 그룹
-* [IT월드](http://www.itworld.co.kr/)
-* [LG CNS](http://blog.lgcns.com/)
-* [Line Enginners Blog](http://developers.linecorp.com/blog/ko/)
-* [Mozilla Hack](http://hacks.mozilla.or.kr/), [Mozilla Developer](https://developer.mozilla.org/ko/)
-* [MSDN Korea Evengelist](https://blogs.msdn.microsoft.com/eva/) - .Net
-* [Popit](http://www.popit.kr/)
-* [Refresh Studio](http://refreshstudio.tistory.com/) - UI/UX 디자인
-* [Remotty Tech Blog](http://blog.remotty.com/blog/)
-* [SLiPP](http://slipp.net/) - 박재성, 김현기, 오진우
-* [Spoqa](http://spoqa.github.io/)
-* [SK 플래닛](http://readme.skplanet.com/)
-* [TECH M](http://techm.kr/) - IT 기사
-* [The Blockchain](http://theblockchain.kr/)
-* [Tumblr](http://engineering.tumblr.com/)
-* [tyle](https://blog.tyle.io/)
-* [VCNC](http://engineering.vcnc.co.kr/)
-* [Web Framework](http://webframeworks.kr/)
-* [We Build Product](https://webuildproduct.com/) - 프로덕트 디자인 & 매니지먼트
-* [WIT 블로그](http://wit.nts-corp.com/) - Web
+| Name | Blog | Description |
+|---|---|---|
+| A MEAN Blog | http://www.a-mean-blog.com/ko | Web |
+| Aliencube | http://blog.aliencube.org/ | .Net |
+| CIO | http://www.ciokorea.com/ | |
+| CodinGame Blog | https://medium.com/@CodinGame | |
+| developerWorks Korea | https://developer.ibm.com/kr/ | |
+| devpools | http://devpools.kr/ | |
+| dogfeet | http://dogfeet.github.io/ | 박창우, 이신, 최용재 |
+| eBrain Blog | http://www.ebrain.kr/category/blogs/ | HR |
+| EFL Korea Community] (http://efl.or.kr | EFL, Enlightenment, Tizen |
+| Google | http://googledevkr.blogspot.kr/ | |
+| IAMROOT | http://www.iamroot.org/ | 리눅스 커널 스터디 그룹 |
+| IT월드 | http://www.itworld.co.kr/ | |
+| LG CNS | http://blog.lgcns.com/ | |
+| Line Enginners Blog | http://developers.linecorp.com/blog/ko/ | |
+| Mozilla Developer | https://developer.mozilla.org/ko/ | |
+| Mozilla Hack | http://hacks.mozilla.or.kr/ | | 
+| MSDN Korea Evengelist | https://blogs.msdn.microsoft.com/eva/ | .Net |
+| Popit | http://www.popit.kr/ | |
+| Refresh Studio | http://refreshstudio.tistory.com/ | UI/UX 디자인 |
+| Remotty Tech Blog | http://blog.remotty.com/blog/ | |
+| SLiPP | http://slipp.net/ | 박재성, 김현기, 오진우 |
+| Spoqa | http://spoqa.github.io/ | |
+| SK 플래닛 | http://readme.skplanet.com/ | |
+| TECH M | http://techm.kr/ | IT 기사 |
+| The Blockchain | http://theblockchain.kr/ | |
+| Tumblr | http://engineering.tumblr.com/ | |
+| tyle | https://blog.tyle.io/ | |
+| VCNC | http://engineering.vcnc.co.kr/ | |
+| Web Framework | http://webframeworks.kr/ | |
+| We Build Product | https://webuildproduct.com/ | 프로덕트 디자인 & 매니지먼트 |
+| WIT 블로그 | http://wit.nts-corp.com/ | Web |
 
 ## 국외 개인 사이트
 
-* [Adam Bien](http://www.adam-bien.com/roller/abien/) - Real World Java EE Patterns 저자
-* [Andy Hunt](http://andy.pragprog.com/) - 실용주의 프로그래머, 프로그래밍 루비 공저
-* [Armin Ronacher](http://lucumr.pocoo.org/) - Flask, Lektor 개발자
-* [Assaf Muller](https://assafmuller.com/) - OpenStack, SDN
-* [Bojan Gvozderac](https://medium.com/@bojangbusiness)
-* [Bram Cohen](http://bramcohen.com/) - 비트토렌트 창시자
-* [Brendan Eich](https://brendaneich.com/) - Javascript 창시자
-* [Chad Fowler](http://chadfowler.com/) - Rails Recipes 저자
-* [Chris Ng](http://chrisrng.svbtle.com/) - Front-end
-* [Cristian Esquivias](http://cesquivias.github.io/) - Java, Truffle
-* [Dan Webb](http://danwebb.net/) - 프론트엔드 개발자
-* [Daniel Shiffman](http://shiffman.net/) - Processing
-* [David Bryant](https://medium.com/@david_bryant) - Mozilla
-* [David Moreau Simard](https://dmsimard.com/) - RedHat Senior Software Engineer. OpenStack
-* [David Robinson](http://varianceexplained.org/) - 스택오버플로 데이터 과학자
-* [David Thomas](http://pragdave.me/) - 실용주의 프로그래머 공저. Elixir 언어.
-* [Derick Bailey](https://derickbailey.com/) - Javascript 개발자
-* [Dino Esposito](https://software2cents.wordpress.com/) - .NET 에반젤리스트
-* [Douglas Crockford](http://www.crockford.com/) - JSON 창시자. JavaScript: The Good Parts 저자
-* [Eric A. Meyer](http://meyerweb.com/)
-* [Eric S. Raymond](http://www.catb.org/~esr/) - The Cathedral and the Bazaar 저자
-* [Gal Sagie](http://galsagie.github.io/) - OpenStack Networking
-* [Hadley Wickham](http://hadley.nz/) - R studio
-* [Jake Wharton](http://jakewharton.com/) - Android
-* [James D Bloom](http://blog.jamesdbloom.com/) - JVM
-* [James Gosling](http://nighthacks.com/roller/jag/) - Java 창시자
-* [Jeff Atwood](http://blog.codinghorror.com/) - 스택오버플로 주인장
-* [Jeff Langr](http://langrsoft.com/jeff/) - 지금길로 빠르게 배울 수 있는 자바 저자
-* [Jessie Frazelle](https://blog.jessfraz.com/) - Container
-* [Joe Hewitt](http://joehewitt.com/) - Firebug 개발자
-* [Joel Spolsky](http://www.joelonsoftware.com/) - 조엘온소프트웨어 저자. 개발방법론.
-* [John Gruber](https://daringfireball.net/) - Markdown 창시자
-* [John McClean](https://medium.com/@johnmcclean) - Maintainer of Cyclops
-* [John Mumm](http://jtfmumm.com/blog/)
-* [John Resig](http://ejohn.org/) - jQuery 창시자. 칸 아카데미 개발자.
-* [Josh Symonds](http://joshsymonds.com) - Founder of Symonds & Son, Devops
-* [Kevin Sookocheff](https://sookocheff.com/)
-* [Lars Vogell](http://www.vogella.com/) - 이클립스 커미터
-* [Linus Torvalds](https://plus.google.com/+LinusTorvalds) - Linux 창시자
-* [Marius Schulz](https://blog.mariusschulz.com/) - Javascript 개발자
-* [Mark Otto](http://markdotto.com/) - Bootstrap 창시자. 디자이너.
-* [Martin Fowler](http://martinfowler.com/) - 리팩토링 창시자
-* [Michael Hausenblas](https://medium.com/@mhausenblas) - Open Shift, Kubernetes
-* [Mike Bostock](https://bost.ocks.org/mike/) - D3.js 창시자
-* [Mike Gouline](https://blog.gouline.net/)
-* [Mike Nakhimovich](https://medium.com/@theMikhail) - Google Developer Expert Android
-* [Nicolai Parlog](http://blog.codefx.org/), [Nicolai Parlog](https://medium.com/@nipa) - Java channel editor at SitePoint
-* [Phil Haack](http://haacked.com/) - Github 개발자
-* [Paul Bakker](http://paulbakker.io/) - Modular Cloud Apps with OSGI 저자
-* [Paul Lewis](https://aerotwist.com/) - Google Web Developer
-* [Ricardo Cabello](http://mrdoob.com/) - Three.js 창시자
-* [Richard Stallman](https://www.stallman.org/) - Free Software Foundation, GNU Project 창시자
-* [Robert C. Martin](http://blog.cleancoder.com/) - 클린 코드 저자
-* [Rod Johnson](https://medium.com/@springrod) - Spring 창시자
-* [Sacha Greif](https://medium.com/@sachagreif) - Front-end
-* [Sam Newman](http://samnewman.io/) - Building Microservices 저자
-* [Scott Hanselman](http://www.hanselman.com/) - ASP.NET
-* [Stephen Colebourne](http://blog.joda.org/) - Joda-Time 창시자
-* [Steve Wozniak](http://www.woz.org/) - Apple 공동창업자
-* [Thomas Stringer](https://medium.com/@trstringer) - Technical Evangelist at Microsoft
-* [Will McGugan](https://www.willmcgugan.com/) - Moya(no-Python Python Web Framework)
+| Name | Blog | Description |
+|---|---|---|
+| Adam Bien | http://www.adam-bien.com/roller/abien/ | Real World Java EE Patterns 저자 |
+| Andy Hunt | http://andy.pragprog.com/ | 실용주의 프로그래머, 프로그래밍 루비 공저 |
+| Armin Ronacher | http://lucumr.pocoo.org/ | Flask, Lektor 개발자 |
+| Assaf Muller | https://assafmuller.com/ | OpenStack, SDN |
+| Bojan Gvozderac | https://medium.com/@bojangbusiness | |
+| Bram Cohen | http://bramcohen.com/ | 비트토렌트 창시자 |
+| Brendan Eich | https://brendaneich.com/ | Javascript 창시자 |
+| Chad Fowler | http://chadfowler.com/ | Rails Recipes 저자 |
+| Chris Ng | http://chrisrng.svbtle.com/ | Front-end |
+| Cristian Esquivias | http://cesquivias.github.io/ | Java, Truffle |
+| Dan Webb | http://danwebb.net/ | 프론트엔드 개발자 |
+| Daniel Shiffman | http://shiffman.net/ | Processing |
+| David Bryant | https://medium.com/@david_bryant | Mozilla |
+| David Moreau Simard | https://dmsimard.com/ | RedHat Senior Software Engineer, OpenStack |
+| David Robinson | http://varianceexplained.org/ | 스택오버플로 데이터 과학자 |
+| David Thomas | http://pragdave.me/ | 실용주의 프로그래머 공저, Elixir 언어 |
+| Derick Bailey | https://derickbailey.com/ | Javascript 개발자 |
+| Dino Esposito | https://software2cents.wordpress.com/ | .NET 에반젤리스트 |
+| Douglas Crockford | http://www.crockford.com/ | JSON 창시자, JavaScript: The Good Parts 저자 |
+| Eric A. Meyer | http://meyerweb.com/ | |
+| Eric S. Raymond | http://www.catb.org/~esr/ | The Cathedral and the Bazaar 저자 |
+| Gal Sagie | http://galsagie.github.io/ | OpenStack Networking |
+| Hadley Wickham | http://hadley.nz/ | R studio |
+| Jake Wharton | http://jakewharton.com/ | Android |
+| James D Bloom | http://blog.jamesdbloom.com/ | JVM |
+| James Gosling | http://nighthacks.com/roller/jag/ | Java 창시자 |
+| Jeff Atwood | http://blog.codinghorror.com/ | 스택오버플로 주인장 |
+| Jeff Langr | http://langrsoft.com/jeff/ | 지금길로 빠르게 배울 수 있는 자바 저자 |
+| Jessie Frazelle | https://blog.jessfraz.com/ | Container |
+| Joe Hewitt | http://joehewitt.com/ | Firebug 개발자 |
+| Joel Spolsky | http://www.joelonsoftware.com/ | 조엘온소프트웨어 저자, 개발방법론 |
+| John Gruber | https://daringfireball.net/ | Markdown 창시자 |
+| John McClean | https://medium.com/@johnmcclean | Maintainer of Cyclops |
+| John Mumm | http://jtfmumm.com/blog/ | |
+| John Resig | http://ejohn.org/ | jQuery 창시자, 칸 아카데미 개발자 |
+| Josh Symonds | http://joshsymonds.com | Founder of Symonds & Son, Devops |
+| Kevin Sookocheff | https://sookocheff.com/ | |
+| Lars Vogell | http://www.vogella.com/ | 이클립스 커미터 |
+| Linus Torvalds | https://plus.google.com/+LinusTorvalds | Linux 창시자 |
+| Marius Schulz | https://blog.mariusschulz.com/ | Javascript 개발자 |
+| Mark Otto | http://markdotto.com/ | Bootstrap 창시자, 디자이너 |
+| Martin Fowler | http://martinfowler.com/ | 리팩토링 창시자 |
+| Michael Hausenblas | https://medium.com/@mhausenblas | Open Shift, Kubernetes |
+| Mike Bostock | https://bost.ocks.org/mike/ | D3.js 창시자 |
+| Mike Gouline | https://blog.gouline.net/ | |
+| Mike Nakhimovich | https://medium.com/@theMikhail | Google Developer Expert Android |
+| Nicolai Parlog | http://blog.codefx.org/, https://medium.com/@nipa | Java channel editor at SitePoint |
+| Phil Haack | http://haacked.com/ | Github 개발자 |
+| Paul Bakker | http://paulbakker.io/ | Modular Cloud Apps with OSGI 저자 |
+| Paul Lewis | https://aerotwist.com/ | Google Web Developer |
+| Ricardo Cabello | http://mrdoob.com/ | Three.js 창시자 |
+| Richard Stallman | https://www.stallman.org/ | Free Software Foundation, GNU Project 창시자 |
+| Robert C. Martin | http://blog.cleancoder.com/ | 클린 코드 저자 |
+| Rod Johnson | https://medium.com/@springrod | Spring 창시자 |
+| Sacha Greif | https://medium.com/@sachagreif | Front-end |
+| Sam Newman | http://samnewman.io/ | Building Microservices 저자 |
+| Scott Hanselman | http://www.hanselman.com/ | ASP.NET |
+| Stephen Colebourne | http://blog.joda.org/ | Joda-Time 창시자 |
+| Steve Wozniak | http://www.woz.org/ | Apple 공동창업자 |
+| Thomas Stringer | https://medium.com/@trstringer | Technical Evangelist at Microsoft |
+| Will McGugan | https://www.willmcgugan.com/ | Moya(no-Python Python Web Framework) |
 
 ## 국외 팀 사이트
 
 ### A-M
 
-* [A list apart](http://alistapart.com/) - Web
-* [Android Developers Blog](http://android-developers.blogspot.kr/)
-* [AutoCAD DevBlog](http://adndevblog.typepad.com/autocad/)
-* [Awwwards Blog](http://www.awwwards.com/blog/) - Web
-* [Baeldung](http://www.baeldung.com/) - Java, Spring
-* [BlackBerry Developer Blog](http://devblog.blackberry.com/)
-* [Built.io](https://www.built.io/blog/)
-* [Code as Craft(Andrew Johnson)](https://codeascraft.com/)
-* [Comunications of the ACM](http://cacm.acm.org/blogs/about-the-blogs)
-* [Dr.Dobb's](http://www.drdobbs.com/blogs/)
-* [Dropbox Tech Blog](https://blogs.dropbox.com/tech/)
-* [Durandal](http://blog.durandal.io/) - Web
-* [DZone](https://dzone.com/)
-* [Evernote Tech Blog](http://blog.evernote.com/tech/)
-* [Facebook Code](https://code.facebook.com/)
-* [Facebook Developers](https://www.facebook.com/FacebookDevelopers)
-* [Feathers Blog](https://blog.feathersjs.com/)
-* [Free Code Camp](https://medium.freecodecamp.com/)
-* [Github Engineering](http://githubengineering.com/)
-* [Go Language](http://blog.golang.org/) - Go
-* [Ghost Development Blog](https://dev.ghost.org/)
-* [GVG-AI Competition](http://www.gvgai.net/) - AI
-* [ImportJava](http://importjava.org/) - Java
-* [InfoQ](http://www.infoq.com/)
-* [Instagram Engineering](https://engineering.instagram.com/)
-* [IntelliJ IDEA Blog](https://blog.jetbrains.com/idea/) - Java
-* [Java Code Geek](http://www.javacodegeeks.com/)
-* [Java World](http://www.javaworld.com/) - Java
-* [jGuru](http://www.jguru.com/) - Java
-* [Javarevisited](http://javarevisited.blogspot.sg/) - Java
-* [JetBrains Blog](http://blog.jetbrains.com/)
-* [JNBridge](http://jnbridge.com/jnblog)
-* [Klarna Engineering](https://engineering.klarna.com/)
-* [LINE](http://developers.linecorp.com/blog/)
-* [Lua.Space](http://lua.space/) - Lua Community Blog
-* [Microsoft Edge Dev Blog](https://blogs.windows.com/msedgedev/)
-* [Microsoft Outlook Dev Blog](http://blogs.msdn.com/b/exchangedev/)
-* [MySQL](http://dev.mysql.com/)
+| Name | Blog | Description |
+|---|---|---|
+| A list apart | http://alistapart.com/ | Web |
+| Android Developers Blog | http://android-developers.blogspot.kr/ | |
+| AutoCAD DevBlog | http://adndevblog.typepad.com/autocad/ | |
+| Awwwards Blog | http://www.awwwards.com/blog/ | Web |
+| Baeldung | http://www.baeldung.com/ | Java, Spring |
+| BlackBerry Developer Blog | http://devblog.blackberry.com/ | |
+| Built.io | https://www.built.io/blog/ | |
+| Code as Craft(Andrew Johnson) | https://codeascraft.com/ | |
+| Comunications of the ACM | http://cacm.acm.org/blogs/about-the-blogs | |
+| Dr.Dobb's | http://www.drdobbs.com/blogs/ | |
+| Dropbox Tech Blog | https://blogs.dropbox.com/tech/ | |
+| Durandal | http://blog.durandal.io/ | Web |
+| DZone | https://dzone.com/ | |
+| Evernote Tech Blog | http://blog.evernote.com/tech/ | |
+| Facebook Code | https://code.facebook.com/ | |
+| Facebook Developers | https://www.facebook.com/FacebookDevelopers | |
+| Feathers Blog | https://blog.feathersjs.com/ | |
+| Free Code Camp | https://medium.freecodecamp.com/ | |
+| Github Engineering | http://githubengineering.com/ | |
+| Go Language | http://blog.golang.org/ | Go |
+| Ghost Development Blog | https://dev.ghost.org/ | |
+| GVG-AI Competition | http://www.gvgai.net/ | AI |
+| ImportJava | http://importjava.org/ | Java |
+| InfoQ | http://www.infoq.com/ | |
+| Instagram Engineering | https://engineering.instagram.com/ | |
+| IntelliJ IDEA Blog | https://blog.jetbrains.com/idea/ | Java |
+| Java Code Geek | http://www.javacodegeeks.com/ | |
+| Java World | http://www.javaworld.com/ | Java |
+| jGuru | http://www.jguru.com/ | Java |
+| Javarevisited | http://javarevisited.blogspot.sg/ | Java |
+| JetBrains Blog | http://blog.jetbrains.com/ | |
+| JNBridge | http://jnbridge.com/jnblog | |
+| Klarna Engineering | https://engineering.klarna.com/ | |
+| LINE | http://developers.linecorp.com/blog/ | |
+| Lua.Space | http://lua.space/ | Lua Community Blog |
+| Microsoft Edge Dev Blog | https://blogs.windows.com/msedgedev/ | |
+| Microsoft Outlook Dev Blog | http://blogs.msdn.com/b/exchangedev/ | |
+| MySQL | http://dev.mysql.com/ | |
 
 ### N-Z
 
-* [Netflix Tech Blog](http://techblog.netflix.com/)
-* [New Relic](https://blog.newrelic.com/)
-* [Node.js Foundation Blog](https://medium.com/@nodejs)
-* [Nordic API](http://nordicapis.com/blog/) - Java, Scala, Spark
-* [Old St Lab Blog](https://medium.com/osldev-blog)
-* [OMG! Ubuntu!](http://www.omgubuntu.co.uk/)
-* [OpenAI](https://openai.com/blog/) - AI
-* [OpenCredo](https://www.opencredo.com/blog/) - Java
-* [Parrot Dev Blog](http://developer.parrot.com/blog/) - Drone
-* [PayPal Developer](https://devblog.paypal.com/)
-* [Prismatik](https://blog.prismatik.com.au/)
-* [Red Hat Developer Blog](http://developerblog.redhat.com/)
-* [Riot Games Engineering](http://engineering.riotgames.com/) - Game
-* [RisingStack](https://blog.risingstack.com/)
-* [Rust Language](http://blog.rust-lang.org/) - Rust
-* [Samsung Mobile Security Blog](http://security.samsungmobile.com/)
-* [Scalac](http://blog.scalac.io/) - Scala, Akka
-* [SDxCentral](https://www.sdxcentral.com/) - SDx
-* [Stack Builder](http://www.stackbuilders.com/)
-* [Takipi blog](http://blog.takipi.com/)
-* [The New Stack](http://thenewstack.io/)
-* [Thoughts on Java](http://www.thoughts-on-java.org/) - Java
-* [Toptal Engineering Blog](http://www.toptal.com/blog)
-* [Treehouse Blog](http://blog.teamtreehouse.com/)
-* [Twitter Developer Blog](https://blog.twitter.com/developer/)
-* [Uber Developer Blog](http://devblog.uber.com/)
-* [Ubuntu Insights](https://insights.ubuntu.com/) - Ubuntu
-* [Ubuntu Handbook](http://ubuntuhandbook.org/) - Ubuntu
-* [Unity](http://blogs.unity3d.com/) - 3D Graphics
+| Name | Blog | Description |
+|---|---|---|
+| Netflix Tech Blog | http://techblog.netflix.com/ | |
+| New Relic | https://blog.newrelic.com/ | |
+| Node.js Foundation Blog | https://medium.com/@nodejs | |
+| Nordic API | http://nordicapis.com/blog/ | Java, Scala, Spark |
+| Old St Lab Blog | https://medium.com/osldev-blog | |
+| OMG! Ubuntu! | http://www.omgubuntu.co.uk/ | |
+| OpenAI | https://openai.com/blog/ | AI |
+| OpenCredo | https://www.opencredo.com/blog/ | Java |
+| Parrot Dev Blog | http://developer.parrot.com/blog/ | Drone |
+| PayPal Developer | https://devblog.paypal.com/ | |
+| Prismatik | https://blog.prismatik.com.au/ | |
+| Red Hat Developer Blog | http://developerblog.redhat.com/ | |
+| Riot Games Engineering | http://engineering.riotgames.com/ | Game |
+| RisingStack | https://blog.risingstack.com/ | |
+| Rust Language | http://blog.rust-lang.org/ | Rust |
+| Samsung Mobile Security Blog | http://security.samsungmobile.com/ | |
+| Scalac | http://blog.scalac.io/ | Scala, Akka |
+| SDxCentral | https://www.sdxcentral.com/ | SDx |
+| Stack Builder | http://www.stackbuilders.com/ | |
+| Takipi blog | http://blog.takipi.com/ | |
+| The New Stack | http://thenewstack.io/ | |
+| Thoughts on Java | http://www.thoughts-on-java.org/ | Java |
+| Toptal Engineering Blog | http://www.toptal.com/blog | |
+| Treehouse Blog | http://blog.teamtreehouse.com/ | |
+| Twitter Developer Blog | https://blog.twitter.com/developer/ | |
+| Uber Developer Blog | http://devblog.uber.com/ | |
+| Ubuntu Insights | https://insights.ubuntu.com/ | Ubuntu |
+| Ubuntu Handbook | http://ubuntuhandbook.org/ | Ubuntu |
+| Unity | http://blogs.unity3d.com/ | 3D Graphics |
