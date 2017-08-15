@@ -420,148 +420,156 @@
 
 ### ㅈ
 
-* [장기효(기효 조슈아 장)](https://joshuajangblog.wordpress.com/), [장기효](https://joshua1988.github.io/)
-* [장동수](http://blog.iolo.kr/) - Web
-* [장문익](http://mooneegee.blogspot.kr/) - 3D
-* [장선진](http://blog.java2game.com/)
-* [장성진](https://brunch.co.kr/@99-life) - 웹디자인
-* [장성만](http://frontjang.info/)
-* [장성민](http://www.jangkunblog.com/) - 웹접근성
-* [전승현](https://fuzer.github.io/)
-* [장영철](http://dkdlel072.tistory.com/) - Unity
-* [장영학](https://brunch.co.kr/@younghakjang) - 조직문화
-* [장요셉](http://lastmind.net/)
-* [장용석](http://devyongsik.tistory.com/)
-* [장재원](http://superjang.com/) - Front-end
-* [장현정](http://naleejang.tistory.com/) - OpenStack
-* [장혜식](http://openlook.org/wp/) - 빅데이터
-* [전규현](http://www.allofsoftware.net/)
-* [전동규](http://www.php5.me/)
-* [전민수](https://brunch.co.kr/@ebprux) - UX
-* [전형탁](http://hjun.me/)
-* [전호상](http://hosangjeon.com/) - 서버사이드
-* [전희원(고감자)](http://freesearch.pe.kr/) - 빅데이터
-* [정겨울](https://winterj.me/) - Python
-* [정광섭](https://www.lesstif.com/) - Linux
-* [정덕수](http://blog.iamartin.com/) - Cloud
-* [정도현](http://www.moreagile.net/) - 개발방법론
-* [정동민](http://jdm.kr/blog/) - Java
-* [정민혁](https://www.holaxprogramming.com/), [정민혁](http://stunstun.tistory.com/) - Java
-* [정병기](https://byeongkijeong.github.io/) - 인공지능
-* [정상혁](http://blog.benelog.net/) - Java
-* [정성태](http://www.sysnet.pe.kr/) - 닷넷
-* [정순형](https://medium.com/@soonhyungjung) - 블록체인
-* [정유진](http://dudmy.net/) - Android
-* [정윤성](http://sadang-hobbits.github.io/) - Rust
-* [정윤원](http://youknowone.github.io/) - IOS
-* [정윤진](http://kerberosj.tistory.com/) - Cloud
-* [정재광](https://jae-kwang.github.io/) - Front-end 
-* [정재남](http://gomugom.github.io/) - Front-end
-* [정재화](http://blrunner.com/) - 타조 커미터. 하둡
-* [정재훈](http://uzys.net/) - Rankedin 개발자
-* [정지훈](http://health20.kr/) - IT 역사, 미래 트렌드
-* [정찬웅](https://korchris.github.io/)
-* [정창수](http://downman.tistory.com/) - C
-* [정창훈](https://blog.iamseapy.com/)
-* [정희연](https://yeun.github.io/) - 웹디자인
-* [제갈민](http://jekalmin.tistory.com/)
-* [조동현](https://blog.l0gic.me/) - Front-end
-* [조병욱(조대협)](http://bcho.tistory.com/) - Java
-* [조만석](http://manseok.blogspot.kr)
-* [조만영](https://medium.com/@manyoung) - Web
-* [조성문](http://sungmooncho.com/) - 실리콘밸리
-* [조성수](https://printf.kr/) - Linux, Openstack
-* [조수현](http://sapzapee.tistory.com/) - 자료구조
-* [조승연](http://kivol.net/) - 칼럼
-* [조영국](https://brunch.co.kr/@ziyocode) - DevOps
-* [조영호](http://aeternum.egloos.com/)
-* [조우진](http://www.notforme.kr/) - Angular
-* [조은](https://brunch.co.kr/@techhtml) - Front-end
-* [조은상](http://itnp.kr/blog/)
-* [조인석](https://brunch.co.kr/@insuk) - SW 칼럼
-* [조중현](http://blog.naver.com/chowin21) - 마케팅
-* [조현영(ZeroCho)](https://www.zerocho.com/) - Javascript
-* [조현종](http://hangumkj.blogspot.kr/) - Eclipse
-* [조현진](http://resistan.com/) - 웹접근성
-* [조현철](https://cchcc.github.io/) - Kotlin
-* [주길재](http://www.giljae.com/)
-* [주우영](http://blog.coderifleman.com/) - React.js
-* [주재범](http://joojaebum.com/) - 픽셀 아트
-* [지국환](http://wlhermit.blog.me/) - 게임 개발
-* [진성주](http://softwaregeeks.org/) - 오픈소스
-* [진수민](http://blog.naver.com/pistolcaffe) - Android
-* [진영화](https://brunch.co.kr/@timotolkie)
-* [진용진](https://brunch.co.kr/@yongjinjinipln) - IT 칼럼
-* [진유림](https://milooy.wordpress.com/) - Front-end
+| Name | Blog | Description |
+|---|---|---|
+| 장기효(기효 조슈아 장) | https://joshuajangblog.wordpress.com/, https://joshua1988.github.io/ | |
+| 장동수 | http://blog.iolo.kr/ | Web |
+| 장문익 | http://mooneegee.blogspot.kr/ | 3D |
+| 장선진 | http://blog.java2game.com/ | |
+| 장성진 | https://brunch.co.kr/@99-life | 웹디자인 |
+| 장성만 | http://frontjang.info/ | |
+| 장성민 | http://www.jangkunblog.com/ | 웹접근성 |
+| 전승현 | https://fuzer.github.io/ | |
+| 장영철 | http://dkdlel072.tistory.com/ | Unity |
+| 장영학 | https://brunch.co.kr/@younghakjang | 조직문화 |
+| 장요셉 | http://lastmind.net/ | |
+| 장용석 | http://devyongsik.tistory.com/ | |
+| 장재원 | http://superjang.com/ | Front-end |
+| 장현정 | http://naleejang.tistory.com/ | OpenStack |
+| 장혜식 | http://openlook.org/wp/ | 빅데이터 |
+| 전규현 | http://www.allofsoftware.net/ | |
+| 전동규 | http://www.php5.me/ | |
+| 전민수 | https://brunch.co.kr/@ebprux | UX |
+| 전형탁 | http://hjun.me/ | |
+| 전호상 | http://hosangjeon.com/ | 서버사이드 |
+| 전희원(고감자) | http://freesearch.pe.kr/ | 빅데이터 |
+| 정겨울 | https://winterj.me/ | Python |
+| 정광섭 | https://www.lesstif.com/ | Linux |
+| 정덕수 | http://blog.iamartin.com/ | Cloud |
+| 정도현 | http://www.moreagile.net/ | 개발방법론 |
+| 정동민 | http://jdm.kr/blog/ | Java |
+| 정민혁 | https://www.holaxprogramming.com/, http://stunstun.tistory.com/ | Java |
+| 정병기 | https://byeongkijeong.github.io/ | 인공지능 |
+| 정상혁 | http://blog.benelog.net/ | Java |
+| 정성태 | http://www.sysnet.pe.kr/ | 닷넷 |
+| 정순형 | https://medium.com/@soonhyungjung | 블록체인 |
+| 정유진 | http://dudmy.net/ | Android |
+| 정윤성 | http://sadang-hobbits.github.io/ | Rust |
+| 정윤원 | http://youknowone.github.io/ | IOS |
+| 정윤진 | http://kerberosj.tistory.com/ | Cloud |
+| 정재광 | https://jae-kwang.github.io/ | Front-end | 
+| 정재남 | http://gomugom.github.io/ | Front-end |
+| 정재화 | http://blrunner.com/ | 타조 커미터. 하둡 |
+| 정재훈 | http://uzys.net/ | Rankedin 개발자 |
+| 정지훈 | http://health20.kr/ | IT 역사, 미래 트렌드 |
+| 정찬웅 | https://korchris.github.io/ |
+| 정창수 | http://downman.tistory.com/ | C |
+| 정창훈 | https://blog.iamseapy.com/ | |
+| 정희연 | https://yeun.github.io/ | 웹디자인 |
+| 제갈민 | http://jekalmin.tistory.com/ | |
+| 조동현 | https://blog.l0gic.me/ | Front-end |
+| 조병욱(조대협) | http://bcho.tistory.com/ | Java |
+| 조만석 | http://manseok.blogspot.kr | |
+| 조만영 | https://medium.com/@manyoung | Web |
+| 조성문 | http://sungmooncho.com/ | 실리콘밸리 |
+| 조성수 | https://printf.kr/ | Linux, Openstack |
+| 조수현 | http://sapzapee.tistory.com/ | 자료구조 |
+| 조승연 | http://kivol.net/ | 칼럼 |
+| 조영국 | https://brunch.co.kr/@ziyocode | DevOps |
+| 조영호 | http://aeternum.egloos.com/ | |
+| 조우진 | http://www.notforme.kr/ | Angular |
+| 조은 | https://brunch.co.kr/@techhtml | Front-end |
+| 조은상 | http://itnp.kr/blog/ | |
+| 조인석 | https://brunch.co.kr/@insuk | SW 칼럼 |
+| 조중현 | http://blog.naver.com/chowin21 | 마케팅 |
+| 조현영(ZeroCho) | https://www.zerocho.com/ | Javascript |
+| 조현종 | http://hangumkj.blogspot.kr/ | Eclipse |
+| 조현진 | http://resistan.com/ | 웹접근성 |
+| 조현철 | https://cchcc.github.io/ | Kotlin |
+| 주길재 | http://www.giljae.com/ | |
+| 주우영 | http://blog.coderifleman.com/ | React.js |
+| 주재범 | http://joojaebum.com/ | 픽셀 아트 |
+| 지국환 | http://wlhermit.blog.me/ | 게임 개발 |
+| 진성주 | http://softwaregeeks.org/ | 오픈소스 |
+| 진수민 | http://blog.naver.com/pistolcaffe | Android |
+| 진영화 | https://brunch.co.kr/@timotolkie | |
+| 진용진 | https://brunch.co.kr/@yongjinjinipln | IT 칼럼 |
+| 진유림 | https://milooy.wordpress.com/ | Front-end |
 
 ### ㅊ
 
-* [차준범](http://khanrc.tistory.com/)
-* [채수원](http://blog.doortts.com/)
-* [채승훈](http://seunghoon-chae.com/) - Python
-* [최건우](http://blog.hardtack.me/)
-* [최근우](http://keunwoochoi.blogspot.kr/), [최근우](https://keunwoochoi.wordpress.com/) - 인공지능
-* [최백준](http://www.baekjoon.com/) - 알고리즘
-* [최범균](http://javacan.tistory.com/) - Java
-* [최성재](http://yumere.tistory.com/)
-* [최수원](http://cionman.tistory.com/) - Linux
-* [최승필](https://brunch.co.kr/@pilsogood) - 트립그리다
-* [최유석](http://whitechoi.tistory.com/) - Cloud
-* [최윤섭](http://www.yoonsupchoi.com/) - 헬스케어
-* [최재훈](http://andromedarabbit.net/)
-* [최정대](http://blog.woosum.net/), [최정대](https://medium.com/@whitekid) - 오픈스택
-* [최정연](http://blog.naver.com/cenodim) - Kotlin
-* [최종욱](http://johnwook.com/) - 웹
-* [최종원](https://brunch.co.kr/@voiz) - 테크 칼럼
-* [최종찬](http://blog.0xabcdef.com/)
-* [최준건](http://junegunn.kr/) - 다음카카오
-* [최진호](http://calmglow.egloos.com/)
-* [최창원](https://qwefgh90.github.com) - 웹/번역, [최창원](https://qwefgh90.github.com/sphinx) - 컴퓨터 공학 분야
-* [최철호](https://brunch.co.kr/@chulhochoiucj0) - UI/UX 디자인
-* [최충엽](https://medium.com/@albertseewhy)
-* [최혁재](https://brunch.co.kr/@mirr5510) - 스타트업
-* [최현민](https://medium.com/@hyunmin.choi) - Scala
-* [최흥배](http://jacking.tistory.com/) - C++
+| Name | Blog | Description |
+|---|---|---|
+| 차준범 | http://khanrc.tistory.com/ | |
+| 채수원 | http://blog.doortts.com/ | |
+| 채승훈 | http://seunghoon-chae.com/ | Python |
+| 최건우 | http://blog.hardtack.me/ | |
+| 최근우 | http://keunwoochoi.blogspot.kr/, https://keunwoochoi.wordpress.com/ | 인공지능 |
+| 최백준 | http://www.baekjoon.com/ | 알고리즘 |
+| 최범균 | http://javacan.tistory.com/ | Java |
+| 최성재 | http://yumere.tistory.com/ | |
+| 최수원 | http://cionman.tistory.com/ | Linux |
+| 최승필 | https://brunch.co.kr/@pilsogood | 트립그리다 |
+| 최유석 | http://whitechoi.tistory.com/ | Cloud |
+| 최윤섭 | http://www.yoonsupchoi.com/ | 헬스케어 |
+| 최재훈 | http://andromedarabbit.net/ |
+| 최정대 | http://blog.woosum.net/, https://medium.com/@whitekid | 오픈스택 |
+| 최정연 | http://blog.naver.com/cenodim | Kotlin |
+| 최종욱 | http://johnwook.com/ | Web |
+| 최종원 | https://brunch.co.kr/@voiz | 테크 칼럼 |
+| 최종찬 | http://blog.0xabcdef.com/ | |
+| 최준건 | http://junegunn.kr/ | 다음카카오 | |
+| 최진호 | http://calmglow.egloos.com/ | |
+| 최창원 | https://qwefgh90.github.com, https://qwefgh90.github.com/sphinx | 웹/번역, 컴퓨터 공학 분야 |
+| 최철호 | https://brunch.co.kr/@chulhochoiucj0 | UI/UX 디자인 |
+| 최충엽 | https://medium.com/@albertseewhy | |
+| 최혁재 | https://brunch.co.kr/@mirr5510 | 스타트업 |
+| 최현민 | https://medium.com/@hyunmin.choi | Scala |
+| 최흥배 | http://jacking.tistory.com/ | C++ |
 
 ### ㅍ
 
-* [편해걸](http://dev-momo.tistory.com/) - Front-end
+| Name | Blog | Description |
+|---|---|---|
+| 편해걸 | http://dev-momo.tistory.com/ | Front-end |
 
 ### ㅎ
 
-* [하동우](https://medium.com/@cookatrice)
-* [하호진(Mimul)](http://www.mimul.com/) - 칼럼
-* [한상곤](http://www.sangkon.com/)
-* [한상훈](https://brunch.co.kr/@skykamja24)
-* [한성민](http://pignose-barn.tumblr.com/)
-* [한승훈(kkamagui)](http://kkamagui.tistory.com/) - OS
-* [한영빈](https://youngbin.xyz/blog/) - Ubuntu
-* [한장현](http://han41858.tistory.com/) - Web
-* [한재엽](https://jaeyeophan.github.io/), [한재엽](http://asfirstalways.tistory.com/)
-* [한정일](https://brunch.co.kr/@lonnie)
-* [한정현](http://www.kazikai.net/)
-* [한주영](https://medium.com/@jooyunghan)
-* [한창석](https://free-strings.blogspot.kr/)
-* [허재위](http://import.re/)
-* [허준회(주네)](https://joone.wordpress.com/), [허준회(주네)](http://www.joone.net/)
-* [홍길한](http://blog.naver.com/hgh73) - 워드프레스
-* [홍민희(dahlia)](http://hongminhee.org/)
-* [홍성철](http://blog.fupfin.com/) - 함수형 언어
-* [홍성철](https://medium.com/@sungcheulhong)
-* [홍영택](http://hackerwins.github.io/) - 다음카카오
-* [홍용남](https://brunch.co.kr/@doberman) - 스타트업
-* [홍철주](http://blog.angdev.io/), [홍철주](https://medium.com/@angdev) - Ruby, Javascript
-* [황규현](http://blog.lespinside.com/) - Reactive
-* [황인서](http://brantiffy.axisj.com/) - Spring
-* [황장호](http://xrath.com/)
-* [황병선](http://www.futurewalker.kr/) - IT 칼럼
-* [황상철](http://pragmaticstory.com/) - 애자일
-* [황석주](http://dolppi.egloos.com/) - 금융공학
-* [황치규](https://brunch.co.kr/@delight412)
-* [히언](http://recipes.egloos.com/) - 하드웨어
-* [현수명](http://soomong.net/)
-* [현승](http://iam-hs.com/) - 리버싱
-* [현준호](https://jhyun.wordpress.com/) - 웹접근성
+| Name | Blog | Description |
+|---|---|---|
+| 하동우 | https://medium.com/@cookatrice | |
+| 하호진(Mimul) | http://www.mimul.com/ | 칼럼 |
+| 한상곤 | http://www.sangkon.com/ | |
+| 한상훈 | https://brunch.co.kr/@skykamja24 | |
+| 한성민 | http://pignose-barn.tumblr.com/ | |
+| 한승훈(kkamagui) | http://kkamagui.tistory.com/ | OS |
+| 한영빈 | https://youngbin.xyz/blog/ | Ubuntu |
+| 한장현 | http://han41858.tistory.com/ | Web |
+| 한재엽 | https://jaeyeophan.github.io/, http://asfirstalways.tistory.com/ | |
+| 한정일 | https://brunch.co.kr/@lonnie | |
+| 한정현 | http://www.kazikai.net/ | |
+| 한주영 | https://medium.com/@jooyunghan | |
+| 한창석 | https://free-strings.blogspot.kr/ | |
+| 허재위 | http://import.re/ | |
+| 허준회(주네) | https://joone.wordpress.com/, http://www.joone.net/ | |
+| 홍길한 | http://blog.naver.com/hgh73 | 워드프레스 |
+| 홍민희(dahlia) | http://hongminhee.org/ | |
+| 홍성철 | http://blog.fupfin.com/ | 함수형 언어 |
+| 홍성철 | https://medium.com/@sungcheulhong | |
+| 홍영택 | http://hackerwins.github.io/ | 다음카카오 |
+| 홍용남 | https://brunch.co.kr/@doberman | 스타트업 |
+| 홍철주 | http://blog.angdev.io/, https://medium.com/@angdev | Ruby, Javascript |
+| 황규현 | http://blog.lespinside.com/ | Reactive |
+| 황인서 | http://brantiffy.axisj.com/ | Spring |
+| 황장호 | http://xrath.com/ | |
+| 황병선 | http://www.futurewalker.kr/ | IT 칼럼 |
+| 황상철 | http://pragmaticstory.com/ | 애자일 |
+| 황석주 | http://dolppi.egloos.com/ | 금융공학 |
+| 황치규 | https://brunch.co.kr/@delight412 | |
+| 히언 | http://recipes.egloos.com/ | 하드웨어 |
+| 현수명 | http://soomong.net/ | |
+| 현승 | http://iam-hs.com/ | 리버싱 |
+| 현준호 | https://jhyun.wordpress.com/ | 웹접근성 |
 
 ## 국내 팀 사이트
 
