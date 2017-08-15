@@ -23,7 +23,7 @@
 | 강성일 | https://b.luavis.kr/ | Python |
 | 강성훈 | http://mearie.org/ | |
 | 강성희 | https://medium.com/@shaynekang | |
-| 강진우 | https://brunch.co.kr/@alden | Linux |
+| [강진우](alden.md) | https://brunch.co.kr/@alden | Linux |
 | 강태욱 | http://daddynkidsmakers.blogspot.kr/ | IoT |
 | 강한별 | https://brunch.co.kr/@cloud09 | 데이터 분석 |
 | 계주성 | http://kyejusung.com/ | |
