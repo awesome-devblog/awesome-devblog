@@ -338,6 +338,8 @@
 | 유병후 | https://libsora.so/ | |
 | 유성규 | https://skyoo2003.github.io/ | | 
 | 유영재 | https://blog.asamaru.net/ | Android |
+| 유용우 | http://luckyyowu.tistory.com/ | |
+| 유용호 | http://blog.eedler.com/ | |
 | 유재준 | http://jaejunyoo.blogspot.com | 머신러닝 |
 | 유주원 | http://hipercube.tistory.com/ | |
 | 유진호 | https://brunch.co.kr/@jinhoyooephf | | 
@@ -345,8 +347,7 @@
 | 윤상배 | http://www.joinc.co.kr/ | 위키 |
 | 윤석찬 | http://channy.creation.net/ | 오픈웹 |
 | 윤영식 | http://mobicon.tistory.com/ | |
-| 유용우 | http://luckyyowu.tistory.com/ | |
-| 유용호 | http://blog.eedler.com/ | |
+| 윤진 | http://storycompiler.tistory.com/ | Tizen |
 | 윤창석 | http://changsuk.me/ | 다음카카오 |
 | 윤청하 | https://brunch.co.kr/@brunch4nrs | 구글러 |
 | 이경원 | http://blog.woniper.net/ | Java |
