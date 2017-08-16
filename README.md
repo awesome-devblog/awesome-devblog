@@ -283,6 +283,7 @@
 | 신현석 | http://hyeonseok.com/ | Web |
 | 신현식 | https://medium.com/ics-lab | | 
 | 심혜진 | https://simhyejin.github.io/ | |
+| 신호철 | http://hochulshin.com/ | Java |
 
 ### ㅇ
 
