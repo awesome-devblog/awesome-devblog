@@ -140,6 +140,7 @@
 | 김한웅 | https://hanwong.github.io/ | Front-end |
 | 김현유(미키김)| http://www.mickeykim.com/ | 구글 |
 | 김형준 | http://www.gisdeveloper.co.kr/ | GIS |
+| 김호동 | http://cogniti-works.blogspot.kr/ | nimf |
 | 김화수 | http://flowerexcel.tistory.com/ | C++ |
 | 김환희 | http://greentec.egloos.com/ | 게임개발 |
 | 김훈민(김코딩) | http://huns.me/ | Web |
