@@ -240,6 +240,7 @@
 | 백종찬 | https://brunch.co.kr/@jeffpaik | 블록체인 |
 | 백기선 | http://whiteship.me/ | Java |
 | 백명석 | https://brunch.co.kr/@cleancode | Java, OOP |
+| 백영진 | http://koreaceladon.tistory.com/ | Storage |
 | 범이 | http://blog.daum.net/funfunction | FP |
 | 변정훈 | http://blog.outsider.ne.kr/ | Web |
 | 변수민 | http://blog.suminb.com/ | |
