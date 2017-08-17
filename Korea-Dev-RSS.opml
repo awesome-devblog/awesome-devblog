@@ -70,6 +70,7 @@
       <outline title="남궁민" type="atom" xmlUrl="https://medium.com/feed/@minnamgoong"/>
       <outline title="남영환" type="atom" xmlUrl="http://www.iamfrom.kr/feeds/posts/default"/>
       <outline title="남정현" type="atom" xmlUrl="http://www.rkttu.com/atom"/>
+      <outline title="남세현" type="atom" xmlUrl="https://medium.com/feed/@Nam_se"/>
       <outline title="노용환" type="rss" xmlUrl="http://bugsfixed.blogspot.com/feeds/posts/default"/>
       <outline title="노현석" type="atom" xmlUrl="http://pluu.github.io/feed.xml"/>
       
@@ -81,11 +82,17 @@
 
       <outline title="마경욱" type="rss" xmlUrl="https://brunch.co.kr/rss/@@JJj"/>
       <outline title="모상우" type="rss" xmlUrl="https://brunch.co.kr/rss/@@FOY"/>
+      <outline title="문동선" type="rss" xmlUrl="http://dsmoon.tistory.com/rss"/>
+      <outline title="문준영" type="atom" xmlUrl="https://brunch.co.kr/atom/@@2o8u"/>
       <outline title="문형환" type="rss" xmlUrl="http://blog.lael.be/feed"/>
 
+      <outline title="박경욱" type="atom" xmlUrl="https://kyungw00k.github.io/atom.xml"/>
+      <outline title="박경준" type="atom" xmlUrl="https://ryanpark.me/feed.xml"/>
       <outline title="박경훈" type="rss" xmlUrl="http://hoonsbara.tistory.com/rss"/>
+      <outline title="박민" type="atom" xmlUrl="https://isme2n.github.io/feed.xml"/>
       <outline title="박민근" type="rss" xmlUrl="http://agebreak.blog.me/rss"/>
       <outline title="박민우" type="rss" xmlUrl="http://earlybird.kr/feed"/>
+      <outline title="박상근" type="rss" xmlUrl="http://parksk.tistory.com/rss"/>
       <outline title="박상길" type="rss" xmlUrl="http://likejazz.com/rss"/>
       <outline title="박상민" type="rss" xmlUrl="https://sangminpark.wordpress.com/feed/"/>
       <outline title="박일" type="rss" xmlUrl="http://rss.egloos.com/blog/parkpd"/>
