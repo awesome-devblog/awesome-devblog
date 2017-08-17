@@ -532,6 +532,7 @@
 | 최충엽 | https://medium.com/@albertseewhy | |
 | 최혁재 | https://brunch.co.kr/@mirr5510 | 스타트업 |
 | 최현민 | https://medium.com/@hyunmin.choi | Scala |
+| 최현식 | https://diveintodata.org/ | Apache Tajo |
 | 최흥배 | http://jacking.tistory.com/ | C++ |
 
 ### ㅍ
