@@ -522,6 +522,7 @@
 | 최윤섭 | http://www.yoonsupchoi.com/ | 헬스케어 |
 | 최재훈 | http://andromedarabbit.net/ |
 | 최정대 | http://blog.woosum.net/, https://medium.com/@whitekid | 오픈스택 |
+| 최정렬 | http://bestalign.github.io/ | Javascript |
 | 최정연 | http://blog.naver.com/cenodim | Kotlin |
 | 최종욱 | http://johnwook.com/ | Web |
 | 최종원 | https://brunch.co.kr/@voiz | 테크 칼럼 |
