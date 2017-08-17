@@ -15,15 +15,15 @@
 
 | Name | Blog | Description |
 |---|---|---|
-| [강규영](ecogwiki.md) | http://www.ecogwiki.com/ | |
+| [강규영](people/ecogwiki.md) | http://www.ecogwiki.com/ | |
 | 강관우 | https://brunch.co.kr/@kd4 | Java |
-| [강대명](charsyam.md) | https://charsyam.wordpress.com/ | 서버 사이드 |
+| [강대명](people/charsyam.md) | https://charsyam.wordpress.com/ | 서버 사이드 |
 | 강동혁 | https://brunch.co.kr/@dongkang | 인기 개발 |
 | 강병욱 | https://medium.com/@brillante9111 | 라이언봇 |
 | 강성일 | https://b.luavis.kr/ | Python |
 | 강성훈 | http://mearie.org/ | |
 | 강성희 | https://medium.com/@shaynekang | |
-| [강진우](alden.md) | https://brunch.co.kr/@alden | Linux |
+| [강진우](people/alden.md) | https://brunch.co.kr/@alden | Linux |
 | 강태욱 | http://daddynkidsmakers.blogspot.kr/ | IoT |
 | 강한별 | https://brunch.co.kr/@cloud09 | 데이터 분석 |
 | 계주성 | http://kyejusung.com/ | |
@@ -33,7 +33,7 @@
 | 곽민수 | https://brunch.co.kr/@imagineer | |
 | 구교준 | http://danielku.com/ | |
 | 구자철 | http://forest71.tistory.com/ | |
-| [구종만](theyearlyprophet.md) | http://theyearlyprophet.com/ | 알고리즘 |
+| [구종만](people/theyearlyprophet.md) | http://theyearlyprophet.com/ | 알고리즘 |
 | 권기호 | http://kwongyo.tistory.com/ | |
 | 권남 | http://kwon37xi.egloos.com/ | Java |
 | 권동준 | https://mayajuni.github.io/ | Web |
@@ -250,7 +250,7 @@
 
 | Name | Blog | Description |
 |---|---|---|
-| [서광열](kwangyul.seo.md) | http://gamecodingschool.org/ | 게임 개발 |
+| [서광열](people/kwangyul.seo.md) | http://gamecodingschool.org/ | 게임 개발 |
 | 서민상 | http://blog.naver.com/seo0511 | Arduino |
 | 서보룡 | http://inter6.tistory.com/ | OpenStack |
 | 서오석 | https://brunch.co.kr/@elijah17 | Java |
@@ -325,7 +325,7 @@
 | 오일석 | http://ilseokoh.com/ | Azure |
 | 오종빈 | http://ohyecloudy.com/doku.php | | 
 | 오준석 | https://brunch.co.kr/@hopeless | Android |
-| [오현석](enshahar.md) | http://www.enshahar.me/ | 스칼라, 스위프트 |
+| [오현석](people/enshahar.md) | http://www.enshahar.me/ | 스칼라, 스위프트 |
 | 용찬호 | http://blog.naver.com/alice_k106 | Docker |
 | 용현택 | http://yonght.tumblr.com/ | |
 | 우웅몬 | https://brunch.co.kr/@wej6688 | UX |
@@ -546,7 +546,7 @@
 | 한상곤 | http://www.sangkon.com/ | |
 | 한상훈 | https://brunch.co.kr/@skykamja24 | |
 | 한성민 | http://pignose-barn.tumblr.com/ | |
-| [한승훈(kkamagui)](kkamagui.md) | http://kkamagui.tistory.com/ | OS |
+| [한승훈(kkamagui)](people/kkamagui.md) | http://kkamagui.tistory.com/ | OS |
 | 한영빈 | https://youngbin.xyz/blog/ | Ubuntu |
 | 한장현 | http://han41858.tistory.com/ | Web |
 | 한재엽 | https://jaeyeophan.github.io/, http://asfirstalways.tistory.com/ | |
@@ -569,7 +569,7 @@
 | 황병선 | http://www.futurewalker.kr/ | IT 칼럼 |
 | 황상철 | http://pragmaticstory.com/ | 애자일 |
 | 황석주 | http://dolppi.egloos.com/ | 금융공학 |
-| [황준식](junkwhinger.md) | http://jsideas.net/ | Data Science |
+| [황준식](people/junkwhinger.md) | http://jsideas.net/ | Data Science |
 | 황치규 | https://brunch.co.kr/@delight412 | |
 | 히언 | http://recipes.egloos.com/ | 하드웨어 |
 | 현수명 | http://soomong.net/ | |
