@@ -526,6 +526,7 @@
 | 최정렬 | http://bestalign.github.io/ | Javascript |
 | 최정연 | http://blog.naver.com/cenodim | Kotlin |
 | 최종욱 | http://johnwook.com/ | Web |
+| 최종욱 | https://wook.kr/ | |
 | 최종원 | https://brunch.co.kr/@voiz | 테크 칼럼 |
 | 최종찬 | http://blog.0xabcdef.com/ | |
 | 최준건 | http://junegunn.kr/ | 다음카카오 | |
