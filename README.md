@@ -26,6 +26,7 @@
 | [강진우](people/alden.md) | https://brunch.co.kr/@alden | Linux |
 | 강태욱 | http://daddynkidsmakers.blogspot.kr/ | IoT |
 | 강한별 | https://brunch.co.kr/@cloud09 | 데이터 분석 |
+| 경준호 | http://firejune.com/ | Front-end |
 | 계주성 | http://kyejusung.com/ | |
 | 고득녕 | http://blog.naver.com/nackji80/ | 네트워크 |
 | 고명환 | https://brunch.co.kr/@maru7091 | 스타트업 |
