@@ -736,6 +736,7 @@
 | John McClean | https://medium.com/@johnmcclean | Maintainer of Cyclops |
 | John Mumm | http://jtfmumm.com/blog/ | |
 | John Resig | http://ejohn.org/ | jQuery 창시자, 칸 아카데미 개발자 |
+| Jonathan Snook | https://snook.ca/ | SMACSS 창시자 |
 | Josh Symonds | http://joshsymonds.com | Founder of Symonds & Son, Devops |
 | Kevin Sookocheff | https://sookocheff.com/ | |
 | Lars Vogell | http://www.vogella.com/ | 이클립스 커미터 |
@@ -760,6 +761,7 @@
 | Scott Hanselman | http://www.hanselman.com/ | ASP.NET |
 | Stephen Colebourne | http://blog.joda.org/ | Joda-Time 창시자 |
 | Steve Wozniak | http://www.woz.org/ | Apple 공동창업자 |
+| Thomas Fuchs | http://mir.aculo.us/ | script.aculo.us, Zepto.js 창시자
 | Thomas Stringer | https://medium.com/@trstringer | Technical Evangelist at Microsoft |
 | Will McGugan | https://www.willmcgugan.com/ | Moya(no-Python Python Web Framework) |
 
