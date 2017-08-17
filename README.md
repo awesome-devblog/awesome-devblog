@@ -460,6 +460,7 @@
 | 정상혁 | http://blog.benelog.net/ | Java |
 | 정성태 | http://www.sysnet.pe.kr/ | 닷넷 |
 | 정순형 | https://medium.com/@soonhyungjung | 블록체인 |
+| 정승욱 | https://medium.com/@jsuch2362 | Android |
 | 정유진 | http://dudmy.net/ | Android |
 | 정윤성 | http://sadang-hobbits.github.io/ | Rust |
 | 정윤원 | http://youknowone.github.io/ | IOS |
