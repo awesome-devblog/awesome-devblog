@@ -569,6 +569,7 @@
 | 황병선 | http://www.futurewalker.kr/ | IT 칼럼 |
 | 황상철 | http://pragmaticstory.com/ | 애자일 |
 | 황석주 | http://dolppi.egloos.com/ | 금융공학 |
+| [황준식](junkwhinger.md) | http://jsideas.net/ | Data Science |
 | 황치규 | https://brunch.co.kr/@delight412 | |
 | 히언 | http://recipes.egloos.com/ | 하드웨어 |
 | 현수명 | http://soomong.net/ | |
