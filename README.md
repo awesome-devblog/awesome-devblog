@@ -705,6 +705,7 @@
 | Bram Cohen | http://bramcohen.com/ | 비트토렌트 창시자 |
 | Brendan Eich | https://brendaneich.com/ | Javascript 창시자 |
 | Chad Fowler | http://chadfowler.com/ | Rails Recipes 저자 |
+| Chris Lattner | http://nondot.org/sabre/ | LLVM, Swift 창시자 |
 | Chris Ng | http://chrisrng.svbtle.com/ | Front-end |
 | Cristian Esquivias | http://cesquivias.github.io/ | Java, Truffle |
 | Dan Webb | http://danwebb.net/ | 프론트엔드 개발자 |
