@@ -101,6 +101,7 @@
 | 김우용 | https://brunch.co.kr/@wedump | 게임 개발 |
 | 김원일 | http://androidkr.blogspot.kr/ | 안드로이드 |
 | 김인기 | http://ingeec.tistory.com/ | Web |
+| 김인숙 | http://webholic.net/ | Web |
 | 김정환 | http://blog.jeonghwan.net/ | Javascript, Node |
 | 김재국 | https://jaigouk.com/ | |
 | 김재원 | https://jaewonism.com/ | Front-end |
