@@ -596,6 +596,7 @@
 | 가비아 프론트엔드 개발팀 | http://gabia-frontend-dev.com/ | Web |
 | 게임개발 포에버 | http://gamedevforever.com/ | 포프, 친절한티스, 알콜코더 민군 |
 | 굿닥 엔지니어링 블로그 | http://dev.goodoc.co.kr/ | |
+| 꿈많은 청년들 블로그 | https://blog.dreamyoungs.com/ | |
 | 나는 프로그래머다 | http://iamprogrammer.io/ | 임작가, 데니스, 정개발 |
 | 네이버 | http://helloworld.naver.com/ | |
 | 네이버 널리 블로그 | http://nuli.navercorp.com/sharing/blog/main | 웹 표준, 접근성 |
