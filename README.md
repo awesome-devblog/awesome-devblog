@@ -226,6 +226,7 @@
 | 박준규 | https://brunch.co.kr/@nattybear | |
 | 박준호 | http://junojunho.com/ | Front-end |
 | 박지수 | https://medium.com/@JisuPark | |
+| 박지홍 | https://medium.com/@ggikko | RxJava |
 | 박진서 | http://jasonpark.me/ | |
 | 박진우 | https://www.jinpark.net/ | | 
 | 박찬민 | https://walkinpcm.blogspot.kr/ | | 
