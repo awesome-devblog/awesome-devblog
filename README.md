@@ -22,7 +22,8 @@
 | 강병수 | https://01010011.blog/ | DevOps |
 | 강병욱 | https://medium.com/@brillante9111 | 라이언봇 |
 | 강성일 | https://b.luavis.kr/ | Python |
-| 강성훈 | http://mearie.org/ | |
+| 강성훈 | http://mearie.org/ | 카일루아 |
+| 강성훈 | https://medium.com/@devholic | RxJava |
 | 강성희 | https://medium.com/@shaynekang | |
 | [강진우](people/alden.md) | https://brunch.co.kr/@alden | Linux |
 | 강태욱 | http://daddynkidsmakers.blogspot.kr/ | IoT |
