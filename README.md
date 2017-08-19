@@ -632,6 +632,7 @@
 | Name | Blog | Description |
 |---|---|---|
 | 아이디인큐 | http://blogs.idincu.com/dev/ | |
+| 아해팀 블로그 | https://ahea.wordpress.com/ | Java, 김종인, 최경운, 노성현 |
 | 알스퀘어 | http://dev.rsquare.co.kr/ | |
 | 에어브릿지 | http://blog.ab180.co/ | |
 | 에이콘 | http://www.acornpub.co.kr/blog | 책 |
