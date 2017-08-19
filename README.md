@@ -369,6 +369,7 @@
 | 이동규 | http://chandong83.blog.me/ | |
 | 이동련 | http://start.goodtime.co.kr/ | |
 | 이동준 | http://javalab.org/ | Java, Math |
+| 이동준 | https://dongjunlee.github.io/ | |
 | 이명현 | https://brunch.co.kr/@brightlee | |
 | 이무열 | https://mooyoul.github.io/ | |
 | 이민석 | http://hl1itj.tistory.com/ | |
