@@ -22,7 +22,7 @@ Tag Cloud
 | [강규영](people/ecogwiki.md) | http://www.ecogwiki.com/ | |
 | 강관우 | https://brunch.co.kr/@kd4 | Java |
 | [강대명](people/charsyam.md) | https://charsyam.wordpress.com/ | 서버 사이드 |
-| 강동혁 | https://brunch.co.kr/@dongkang | 인기 개발 |
+| 강동혁 | https://brunch.co.kr/@dongkang | 인디 개발 |
 | 강병수 | https://01010011.blog/ | DevOps |
 | 강병욱 | https://medium.com/@brillante9111 | 라이언봇 |
 | 강성일 | https://b.luavis.kr/ | Python |
