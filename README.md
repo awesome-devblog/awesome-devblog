@@ -46,7 +46,7 @@ Tag Cloud
 | 권동준 | https://mayajuni.github.io/ | Web |
 | 권민재 | https://mingrammer.com/ | Python |
 | 권영재 | https://nesoy.github.io/ | |
-| 권용근 | https://kingbbode.github.io/ | |
+| 권용근 | https://kingbbode.github.io/ | Spring |
 | 권욱제 | http://wookje.dance/ | |
 | 권윤학 | http://web-front-end.tistory.com/ | Web |
 | 권장표 | http://willbesomething.com/ | 게임 기획 |
@@ -66,6 +66,7 @@ Tag Cloud
 | 김도곤 | http://dokonk.blogspot.kr/ | DB |
 | 김도균 | http://www.dokyun.pe.kr/ | |
 | 김래곤 | http://raegon.kim/ | |
+| 김만수 | https://mansoo-sw.blogspot.kr/ | |
 | 김명신 | http://himskim.egloos.com/ | |
 | 김명주 | http://blog.naver.com/bansuk78 | Lagom |
 | 김명준 | http://html5lab.kr/ | 프론트엔드 |
