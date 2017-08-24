@@ -479,7 +479,7 @@ Tag Cloud
 | 정재훈 | http://uzys.net/ | Rankedin 개발자 |
 | 정지훈 | http://health20.kr/ | IT 역사, 미래 트렌드 |
 | 정찬명 | http://naradesign.net/ | Front-end |
-| 정찬웅 | https://korchris.github.io/ |
+| 정찬웅 | https://korchris.github.io/ | |
 | 정창수 | http://downman.tistory.com/ | C |
 | 정창훈 | https://blog.iamseapy.com/ | |
 | 정희연 | https://yeun.github.io/ | 웹디자인 |
@@ -488,6 +488,7 @@ Tag Cloud
 | 조병욱(조대협) | http://bcho.tistory.com/ | Java |
 | 조만석 | http://manseok.blogspot.kr | |
 | 조만영 | https://medium.com/@manyoung | Web |
+| 조상현 | https://brunch.co.kr/@aaa | |
 | 조성문 | http://sungmooncho.com/ | 실리콘밸리 |
 | 조성수 | https://printf.kr/ | Linux, Openstack |
 | 조수현 | http://sapzapee.tistory.com/ | 자료구조 |
