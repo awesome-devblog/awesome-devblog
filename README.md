@@ -682,6 +682,7 @@ Tag Cloud
 |---|---|---|
 | A MEAN Blog | http://www.a-mean-blog.com/ko | Web |
 | Aliencube | http://blog.aliencube.org/ | .Net |
+| Apple Machine Learning Journal | https://machinelearning.apple.com/ | 머신러닝 |
 | CIO | http://www.ciokorea.com/ | |
 | ClearBoth | http://www.clearboth.org/ | Front-end |
 | CodinGame Blog | https://medium.com/@CodinGame | |
