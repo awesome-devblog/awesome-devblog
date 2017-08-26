@@ -582,6 +582,7 @@ Tag Cloud
 | 홍성철 | https://medium.com/@sungcheulhong | |
 | 홍영택 | http://hackerwins.github.io/ | 다음카카오 |
 | 홍용남 | https://brunch.co.kr/@doberman | 스타트업 |
+| 홍정모 | http://blog.naver.com/atelierjpro | AI |
 | 홍철주 | http://blog.angdev.io/, https://medium.com/@angdev | Ruby, Javascript |
 | 황규현 | http://blog.lespinside.com/ | Reactive |
 | 황인서 | http://brantiffy.axisj.com/ | Spring |
