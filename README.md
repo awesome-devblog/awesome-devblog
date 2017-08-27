@@ -494,6 +494,7 @@ Tag Cloud
 | 조성수 | https://printf.kr/ | Linux, Openstack |
 | 조수현 | http://sapzapee.tistory.com/ | 자료구조 |
 | 조승연 | http://kivol.net/ | 칼럼 |
+| 조승진 | http://www.tacogrammer.com/ | IT 칼럼 |
 | 조영국 | https://brunch.co.kr/@ziyocode | DevOps |
 | 조영호 | http://aeternum.egloos.com/ | |
 | 조우진 | http://www.notforme.kr/ | Angular |
