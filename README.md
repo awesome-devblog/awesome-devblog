@@ -293,6 +293,7 @@ Tag Cloud
 | 신영진 | http://www.jiniya.net/ | 보안 |
 | 신용윤 | http://uni2u.tistory.com/ | 네트워크 |
 | 신재명 | https://medium.com/@Jaemyung | |
+| 신철민 | https://blog.naver.com/kato75 | 엔트리 |
 | 신현묵 | http://zetlos.tistory.com/ | |
 | 신현석 | http://hyeonseok.com/ | Web |
 | 신현식 | https://medium.com/ics-lab | | 
