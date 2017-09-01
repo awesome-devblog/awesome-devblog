@@ -458,6 +458,7 @@ Tag Cloud
 | 전규현 | http://www.allofsoftware.net/ | |
 | 전동규 | http://www.php5.me/ | |
 | 전민수 | https://brunch.co.kr/@ebprux | UX |
+| 전상혁 | http://sanghyukchun.github.io/ | Machine Learning |
 | 전형탁 | http://hjun.me/ | |
 | 전호상 | http://hosangjeon.com/ | 서버사이드 |
 | 전희원(고감자) | http://freesearch.pe.kr/ | 빅데이터 |
