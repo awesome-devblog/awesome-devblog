@@ -330,6 +330,7 @@ Tag Cloud
 | 엄태형 | https://brunch.co.kr/@taebari | |
 | 염재현 | https://only2sea.wordpress.com/ | |
 | 오광신 | http://kwangshin.pe.kr/ | 함수형 언어 |
+| 오경식 | https://sikeeoh.github.io/ | Android |
 | 오동권 | http://www.flowdas.com/ | |
 | 오명운 | http://homoefficio.github.io/ | Spring |
 | 오민호 | http://wergia.tistory.com/ | 게임 개발 |
