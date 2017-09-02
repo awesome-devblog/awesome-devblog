@@ -747,6 +747,7 @@ Tag Cloud
 | Dan Webb | http://danwebb.net/ | 프론트엔드 개발자 |
 | Daniel Shiffman | http://shiffman.net/ | Processing |
 | David Bryant | https://medium.com/@david_bryant | Mozilla |
+| David Ford | https://medium.com/@daveford | Kotlin |
 | David Moreau Simard | https://dmsimard.com/ | RedHat Senior Software Engineer, OpenStack |
 | David Robinson | http://varianceexplained.org/ | 스택오버플로 데이터 과학자 |
 | David Thomas | http://pragdave.me/ | 실용주의 프로그래머 공저, Elixir 언어 |
