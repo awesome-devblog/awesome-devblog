@@ -413,6 +413,7 @@ Tag Cloud
 | 이재홍 | http://pyrasis.com/ | Go |
 | 이정근 | http://blog.cjred.net/ | OpenShift |
 | 이제민 | https://leejaymin.github.io/, http://goodtogreate.tistory.com/ | Data Science |
+| 이종립 | https://johngrib.github.io/ | Python |
 | 이종호 | http://jhleed.tistory.com/ | |
 | 이주영 | https://dev-juyoung.github.io/ | Android |
 | 이준범 | https://beomi.github.io/ | Python |
