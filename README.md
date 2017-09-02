@@ -757,6 +757,7 @@ Tag Cloud
 | Eli Bendersky | http://eli.thegreenplace.net/ | Haskell |
 | Eric A. Meyer | http://meyerweb.com/ | |
 | Eric S. Raymond | http://www.catb.org/~esr/ | The Cathedral and the Bazaar 저자 |
+| Erik Bernhardsson | https://erikbern.com/ | Better CTO. Machine Learning |
 | Gal Sagie | http://galsagie.github.io/ | OpenStack Networking |
 | Hadley Wickham | http://hadley.nz/ | R studio |
 | Jake Wharton | http://jakewharton.com/ | Android |
