@@ -219,7 +219,8 @@ Tag Cloud
 | 박영록 | http://youngrok.com/ | 위키나무 |
 | 박용권 | https://brunch.co.kr/@arawn | |
 | 박용서 | https://gs.saro.me | |
-| 박은환 | http://dainelpark.github.io/ | | 
+| 박은환 | http://dainelpark.github.io/ | |
+| 박인 | https://brunch.co.kr/@lynnata | 디지털 노마드 |
 | 박일 | http://parkpd.egloos.com/ | 게임 개발 |
 | 박재성(자바지기) | http://javajigi.net/ | Java |
 | 박재현 | http://wisefree.tistory.com/ | IT 칼럼 |
