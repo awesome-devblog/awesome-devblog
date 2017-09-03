@@ -229,6 +229,7 @@ Tag Cloud
 | 박정운 | https://jungwoon.github.io/ | |
 | 박정태 | https://pjt3591oo.github.io/, http://blog.naver.com/pjt3591oo | Back-end, 서버 |
 | 박종명 | http://m.mkexdev.net/ | |
+| 박종영 | https://medium.com/@mocona | iOS |
 | 박준규 | https://brunch.co.kr/@kospoll-lab | 인공지능 |
 | 박준규 | https://brunch.co.kr/@nattybear | |
 | 박준호 | http://junojunho.com/ | Front-end |
