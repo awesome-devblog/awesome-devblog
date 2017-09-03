@@ -276,7 +276,8 @@ Tag Cloud
 | 손승하 | http://sonseungha.tistory.com/ | Linux |
 | 손영수(arload) | https://arload.wordpress.com/ | 개발방법론, Android |
 | 손찬욱 | https://sculove.github.io/blog/ | Web |
-| 송기원 | http://blog.naver.com/agilesoft | | 
+| 송기원 | http://blog.naver.com/agilesoft | |
+| 송민승 | https://brunch.co.kr/@minseungsong | 실리콘밸리 |
 | 송영길 | https://youngsong.com/ | 창업 |
 | 송영환 | https://purluno.wordpress.com/ | Akka |
 | 송원준 | http://blog.naver.com/swj8530 | | 
