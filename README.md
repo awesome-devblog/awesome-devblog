@@ -17,9 +17,9 @@ Tag Cloud
 
 ### ㄱ
 
-| Name | Blog | Description |
-|---|---|---|
-| [강규영](people/ecogwiki.md) | http://www.ecogwiki.com/ | |
+| Name | Blog | Description | Feed |
+|---|---|---|:---:|
+| [강규영](people/ecogwiki.md) | http://www.ecogwiki.com/ | | [![](http://icons.iconarchive.com/icons/danleech/simple/24/rss-icon.png)](http://www.ecogwiki.com/sp.posts?_type=atom) |
 | 강관우 | https://brunch.co.kr/@kd4 | Java |
 | [강대명](people/charsyam.md) | https://charsyam.wordpress.com/ | 서버 사이드 |
 | 강동혁 | https://brunch.co.kr/@dongkang | 인디 개발 |
