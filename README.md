@@ -414,6 +414,7 @@ Tag Cloud
 | 이일희(제닉스) | http://nixsense.net/ | IT 리뷰 |
 | 이재홍 | http://pyrasis.com/ | Go |
 | 이정근 | http://blog.cjred.net/ | OpenShift |
+| 이정영 | https://blog.jyslash.com/@jungyounglee | UI 디자인 |
 | 이제민 | https://leejaymin.github.io/, http://goodtogreate.tistory.com/ | Data Science |
 | 이종립 | https://johngrib.github.io/ | Python |
 | 이종호 | http://jhleed.tistory.com/ | |
