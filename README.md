@@ -864,6 +864,7 @@ Tag Cloud
 | PayPal Developer | https://devblog.paypal.com/ | |
 | Prismatik | https://blog.prismatik.com.au/ | |
 | Red Hat Developer Blog | http://developerblog.redhat.com/ | |
+| RemObjects | http://blogs.remobjects.com/ | |
 | Riot Games Engineering | http://engineering.riotgames.com/ | Game |
 | RisingStack | https://blog.risingstack.com/ | |
 | Rust Language | http://blog.rust-lang.org/ | Rust |
