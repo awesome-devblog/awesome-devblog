@@ -411,6 +411,7 @@ Tag Cloud
 | 이수홍 | https://brunch.co.kr/@sbcoba | Spring Boot |
 | 이승우 | https://blog.2dal.com/ | Docker, Kubernetes |
 | 이승현 | http://hamait.tistory.com/ | |
+| 이승현 | https://brunch.co.kr/@oemilk | Android |
 | 이승훈 | https://brunch.co.kr/@seunghoon82 | | 
 | 이영훈 | http://resoliwan.blogspot.kr/ | |
 | 이웅희 | http://woongheelee.com/ | |
