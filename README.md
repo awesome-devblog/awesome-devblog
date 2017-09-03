@@ -123,7 +123,8 @@ Tag Cloud
 | 김준철 | http://jetalog.net/ | Solr |
 | 김준형 | https://medium.com/@ghilbut | |
 | 김준환 | http://topnanis.tistory.com/ | |
-| 김지영 | https://brunch.co.kr/@pubjinson | | 
+| 김지영 | https://brunch.co.kr/@pubjinson | |
+| 김지우 | https://brunch.co.kr/@ken1224 | 스타트업, 음악산업 |
 | 김지혁 | http://kimjihyok.info/ | 안드로이드, 오픈소스 |
 | 김지현 | https://hyeon.me/ | |
 | 김지홍 | https://brunch.co.kr/@jihere1001 | 프로토타이핑 |
