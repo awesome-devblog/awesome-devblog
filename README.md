@@ -85,6 +85,7 @@ Tag Cloud
 | 김성빈 | http://sungbine.github.io/ | Web |
 | 김성수 | http://sungsoo.github.io/ | |
 | 김성식 | http://devopser.me/ | DevOps |
+| 김성준 | https://brunch.co.kr/@sungjoonkim | IT 컬럼 |
 | 김성중 | http://sungjk.github.io/ | |
 | 김성현 | http://greemate.tistory.com/ | 윈도우즈 커널 |
 | 김성호 | http://raccoonyy.github.io/ | |
