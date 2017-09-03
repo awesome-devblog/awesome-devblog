@@ -601,6 +601,7 @@ Tag Cloud
 | 홍정모 | http://blog.naver.com/atelierjpro | AI |
 | 홍철주 | http://blog.angdev.io/, https://medium.com/@angdev | Ruby, Javascript |
 | 황규현 | http://blog.lespinside.com/ | Reactive |
+| 황다은 | https://brunch.co.kr/@eunload | UI 디자인 |
 | 황인서 | http://brantiffy.axisj.com/ | Spring |
 | 황장호 | http://xrath.com/ | |
 | 황병선 | http://www.futurewalker.kr/ | IT 칼럼 |
