@@ -525,6 +525,7 @@ Tag Cloud
 | 진영화 | https://brunch.co.kr/@timotolkie | |
 | 진용진 | https://brunch.co.kr/@yongjinjinipln | IT 칼럼 |
 | 진유림 | https://milooy.wordpress.com/ | Front-end |
+| Harrison Jung | https://medium.com/@HarrisonJung | |
 
 ### ㅊ
 
