@@ -528,6 +528,7 @@ Tag Cloud
 | 주우영 | http://blog.coderifleman.com/ | React.js |
 | 주재범 | http://joojaebum.com/ | 픽셀 아트 |
 | 지국환 | http://wlhermit.blog.me/ | 게임 개발 |
+| 지원준 | https://brunch.co.kr/@wjchee | IT 칼럼 |
 | 진성주 | http://softwaregeeks.org/ | 오픈소스 |
 | 진수민 | http://blog.naver.com/pistolcaffe | Android |
 | 진영화 | https://brunch.co.kr/@timotolkie | |
