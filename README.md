@@ -120,7 +120,7 @@ Tag Cloud
 | 김종욱 | http://catlog.kr/ | |
 | 김종인 | http://zzong.net | Java, Spring |
 | [김종하](people/wisedog.md) | http://story.wisedog.net/ | 정적분석 |
-| 김종헌 | shovelman.tistory.com | .NET |
+| 김종헌 | http://shovelman.tistory.com/ | .NET |
 | 김종희 | https://kimpaper.github.io/ | Back-end |
 | 김준철 | http://jetalog.net/ | Solr |
 | 김준형 | https://medium.com/@ghilbut | |
