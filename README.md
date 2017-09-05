@@ -549,6 +549,7 @@ Tag Cloud
 | 최근우 | http://keunwoochoi.blogspot.kr/, https://keunwoochoi.wordpress.com/ | 인공지능 |
 | 최백준 | http://www.baekjoon.com/ | 알고리즘 |
 | 최범균 | http://javacan.tistory.com/ | Java |
+| 최석균 | http://syaku.tistory.com/ | Full-stack |
 | 최성재 | http://yumere.tistory.com/ | |
 | 최수원 | http://cionman.tistory.com/ | Linux |
 | 최승필 | https://brunch.co.kr/@pilsogood | 트립그리다 |
