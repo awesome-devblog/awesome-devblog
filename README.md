@@ -815,6 +815,7 @@ Tag Cloud
 | Steve Wozniak | http://www.woz.org/ | Apple 공동창업자 |
 | Thomas Fuchs | http://mir.aculo.us/ | script.aculo.us, Zepto.js 창시자
 | Thomas Stringer | https://medium.com/@trstringer | Technical Evangelist at Microsoft |
+| Vinicius Isola | https://visola.github.io/ | Full-stack |
 | Will McGugan | https://www.willmcgugan.com/ | Moya(no-Python Python Web Framework) |
 
 ## 국외 팀 사이트
