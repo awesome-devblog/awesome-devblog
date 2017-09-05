@@ -120,6 +120,7 @@ Tag Cloud
 | 김종욱 | http://catlog.kr/ | |
 | 김종인 | http://zzong.net | Java, Spring |
 | [김종하](people/wisedog.md) | http://story.wisedog.net/ | 정적분석 |
+| 김종헌 | shovelman.tistory.com | .NET |
 | 김종희 | https://kimpaper.github.io/ | Back-end |
 | 김준철 | http://jetalog.net/ | Solr |
 | 김준형 | https://medium.com/@ghilbut | |
@@ -510,7 +511,6 @@ Tag Cloud
 | 조상현 | https://brunch.co.kr/@aaa | |
 | 조성문 | http://sungmooncho.com/ | 실리콘밸리 |
 | 조성수 | https://printf.kr/ | Linux, Openstack |
-| 조수현 | http://sapzapee.tistory.com/ | 자료구조 |
 | 조승연 | http://kivol.net/ | 칼럼 |
 | 조승진 | http://www.tacogrammer.com/ | IT 칼럼 |
 | 조영국 | https://brunch.co.kr/@ziyocode | DevOps |
