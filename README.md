@@ -693,6 +693,7 @@ Tag Cloud
 | 코드스쿼드 | https://medium.com/@codesquad_yoda | |
 | 코딩뉴스 | http://www.codingnews.net/ | |
 | 퀘스트 소프트 블로그 | http://www.questblog.co.kr/ | |
+| 클라우드스터딩 | http://cloudstudying.kr/ | |
 | 클리어보스 | http://www.clearboth.org/ | |
 | 테크수다 | http://www.techsuda.com/ | |
 | 테크엠 | http://www.techm.kr/home/ | IT |
