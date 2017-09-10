@@ -360,6 +360,7 @@ Tag Cloud
 | 오상준 | http://www.namooz.com/ | Spring Boot, Angular2 |
 | 오세빈 | http://osebin.tistory.com/ | |
 | 오일석 | http://ilseokoh.com/ | Azure |
+| 오정규 | http://ohjeonggyu.github.io/ | Kotlin |
 | 오종빈 | http://ohyecloudy.com/doku.php | | 
 | 오준석 | https://brunch.co.kr/@hopeless | Android |
 | [오현석](people/enshahar.md) | http://www.enshahar.me/ | 스칼라, 스위프트 |
