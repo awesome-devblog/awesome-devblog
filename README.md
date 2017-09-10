@@ -471,8 +471,8 @@ Tag Cloud
 
 ### ㅈ
 
-| Name | Blog | Description |
-|---|---|---|
+| Name | Blog | Description | Feed |
+|---|---|---|:---:|
 | 장기효(기효 조슈아 장) | https://joshuajangblog.wordpress.com/, https://joshua1988.github.io/ | |
 | 장동수 | http://blog.iolo.kr/ | Web |
 | 장문익 | http://mooneegee.blogspot.kr/ | 3D |
@@ -539,6 +539,7 @@ Tag Cloud
 | 조재우 | http://flowkater.github.io/ | Java |
 | 조중현 | http://blog.naver.com/chowin21 | 마케팅 |
 | 조현영(ZeroCho) | https://www.zerocho.com/ | Javascript |
+| 조현석 | https://dev.zzoman.com/ | Front-end | [![](http://icons.iconarchive.com/icons/danleech/simple/24/rss-icon.png)](https://dev.zzoman.com/atom.xml) |
 | 조현종 | http://hangumkj.blogspot.kr/ | Eclipse |
 | 조현진 | http://resistan.com/ | 웹접근성 |
 | 조현철 | https://cchcc.github.io/ | Kotlin |
