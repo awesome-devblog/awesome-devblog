@@ -32,11 +32,11 @@ Tag Cloud
 | Name | Blog | Description | Feed |
 |---|---|---|:---:|
 | [강규영](people/ecogwiki.md) | http://www.ecogwiki.com/ | | [![](icons/rss-icon.png)](http://www.ecogwiki.com/sp.posts?_type=atom) |
-| 강관우 | https://brunch.co.kr/@kd4 | Java |
-| [강대명](people/charsyam.md) | https://charsyam.wordpress.com/ | 서버 사이드 |
-| 강동혁 | https://brunch.co.kr/@dongkang | 인디 개발 |
-| 강병수 | https://01010011.blog/ | DevOps |
-| 강병욱 | https://medium.com/@brillante9111 | 라이언봇 |
+| 강관우 | https://brunch.co.kr/@kd4 | Java | [![](icons/rss-icon.png)](https://brunch.co.kr/rss/@@xTa) |
+| [강대명](people/charsyam.md) | https://charsyam.wordpress.com/ | 서버 사이드 | [![](icons/rss-icon.png)](http://charsyam.wordpress.com/feed/) |
+| 강동혁 | https://brunch.co.kr/@dongkang | 인디 개발 | [![](icons/rss-icon.png)](https://brunch.co.kr/rss/@@1fY0) |
+| 강병수 | https://01010011.blog/ | DevOps | [![](icons/rss-icon.png)](https://01010011.blog/feed/) |
+| 강병욱 | https://medium.com/@brillante9111 | 라이언봇 | [![](icons/rss-icon.png)](https://medium.com/feed/@brillante9111) |
 | 강성일 | https://b.luavis.kr/ | Python |
 | 강성훈 | http://mearie.org/ | 카일루아 |
 | 강성훈 | https://medium.com/@devholic | RxJava |
