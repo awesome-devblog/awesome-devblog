@@ -647,6 +647,7 @@ Tag Cloud
 | Name | Blog | Description |
 |---|---|---|
 | 가비아 프론트엔드 개발팀 | http://gabia-frontend-dev.com/ | Web |
+| 개발바보들 | http://devpools.kr/ | |
 | 게임개발 포에버 | http://gamedevforever.com/ | 포프, 친절한티스, 알콜코더 민군 |
 | 굿닥 엔지니어링 블로그 | http://dev.goodoc.co.kr/ | |
 | 꿈많은 청년들 블로그 | https://blog.dreamyoungs.com/ | |
