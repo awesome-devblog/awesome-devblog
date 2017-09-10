@@ -42,7 +42,7 @@ Tag Cloud
 | 강성훈 | https://medium.com/@devholic | RxJava |
 | 강성희 | https://medium.com/@shaynekang | |
 | [강진우](people/alden.md) | https://brunch.co.kr/@alden | Linux |
-| 강태욱 | http://daddynkidsmakers.blogspot.kr/ | IoT |
+| 강태욱 | http://daddynkidsmakers.blogspot.kr/ | IoT | [![](icons/rss-icon.png)](http://daddynkidsmakers.blogspot.com/feeds/posts/default) |
 | 강한별 | https://brunch.co.kr/@cloud09 | 데이터 분석 |
 | 경준호 | http://firejune.com/ | Front-end |
 | 계주성 | http://kyejusung.com/ | |
