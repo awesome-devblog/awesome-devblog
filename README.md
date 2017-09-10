@@ -31,7 +31,7 @@ Tag Cloud
 
 | Name | Blog | Description | Feed |
 |---|---|---|:---:|
-| [강규영](people/ecogwiki.md) | http://www.ecogwiki.com/ | | [![](http://icons.iconarchive.com/icons/danleech/simple/24/rss-icon.png)](http://www.ecogwiki.com/sp.posts?_type=atom) |
+| [강규영](people/ecogwiki.md) | http://www.ecogwiki.com/ | | [![](icons/rss-icon.png)](http://www.ecogwiki.com/sp.posts?_type=atom) |
 | 강관우 | https://brunch.co.kr/@kd4 | Java |
 | [강대명](people/charsyam.md) | https://charsyam.wordpress.com/ | 서버 사이드 |
 | 강동혁 | https://brunch.co.kr/@dongkang | 인디 개발 |
@@ -539,7 +539,7 @@ Tag Cloud
 | 조재우 | http://flowkater.github.io/ | Java |
 | 조중현 | http://blog.naver.com/chowin21 | 마케팅 |
 | 조현영(ZeroCho) | https://www.zerocho.com/ | Javascript |
-| 조현석 | https://dev.zzoman.com/ | Front-end | [![](http://icons.iconarchive.com/icons/danleech/simple/24/rss-icon.png)](https://dev.zzoman.com/atom.xml) |
+| 조현석 | https://dev.zzoman.com/ | Front-end | [![](icons/rss-icon.png)](https://dev.zzoman.com/atom.xml) |
 | 조현종 | http://hangumkj.blogspot.kr/ | Eclipse |
 | 조현진 | http://resistan.com/ | 웹접근성 |
 | 조현철 | https://cchcc.github.io/ | Kotlin |
