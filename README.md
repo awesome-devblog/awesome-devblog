@@ -540,6 +540,7 @@ Tag Cloud
 | 조현진 | http://resistan.com/ | 웹접근성 |
 | 조현철 | https://cchcc.github.io/ | Kotlin |
 | 주길재 | http://www.giljae.com/ | |
+| 주민하 | https://alegruz.imweb.me/ | Python |
 | 주우영 | http://blog.coderifleman.com/ | React.js |
 | 주재범 | http://joojaebum.com/ | 픽셀 아트 |
 | 지국환 | http://wlhermit.blog.me/ | 게임 개발 |
