@@ -519,6 +519,7 @@ Tag Cloud
 | 정찬웅 | https://korchris.github.io/ | |
 | 정창수 | http://downman.tistory.com/ | C |
 | 정창훈 | https://blog.iamseapy.com/ | |
+| 정태현 | http://chomman.github.io/blog/ | Back-end |
 | 정희연 | https://yeun.github.io/ | 웹디자인 |
 | 제갈민 | http://jekalmin.tistory.com/ | |
 | 조동현 | https://blog.l0gic.me/ | Front-end |
