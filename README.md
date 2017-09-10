@@ -385,6 +385,7 @@ Tag Cloud
 | 유주원 | http://hipercube.tistory.com/ | |
 | 유진호 | https://brunch.co.kr/@jinhoyooephf | | 
 | 유차영 | https://yous.be/ | |
+| 유현석 | http://duriepark.tistory.com/ | |
 | 유형준 | http://programmeringermany.blogspot.kr/ | 해외 취업 |
 | 윤상배 | http://www.joinc.co.kr/ | 위키 |
 | 윤석찬 | http://channy.creation.net/ | 오픈웹 |
