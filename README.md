@@ -460,6 +460,7 @@ Tag Cloud
 | 이호철 | http://hochul.net/blog/ | 데이터 분석 |
 | 이홍규 | https://medium.com/@mldevhong | 머신러닝 |
 | 이흥섭 | http://subl.ee/ | 게임 |
+| 이홍식 | http://alex.devpools.kr/ | |
 | 이흥현 | https://medium.com/@maxzidell | tyle.io CTO. Web |
 | 임성진 | http://blog.bbom.org/ | |
 | 임성현 | https://brunch.co.kr/@sunghyunlim | | 
