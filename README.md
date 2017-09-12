@@ -332,6 +332,7 @@ Tag Cloud
 | 안상욱 | https://www.bloter.net/archives/author/nuribit | 금융 |
 | 안성현 | http://ash84.net/ | Python |
 | 안승규 | http://ahnseungkyu.com/ | OpenStack |
+| 안영회 | http://www.popit.kr/author/tony/ | 아키텍처 |
 | 안오균 | http://ohgyun.com/ | iOS, Python |
 | 안윤호 | http://toyfab.tistory.com/ | 마이크로 프로세서 |
 | 안재우 | http://blog.naver.com/saltynut | |
