@@ -463,6 +463,7 @@ Tag Cloud
 | 이흥섭 | http://subl.ee/ | 게임 |
 | 이홍식 | http://alex.devpools.kr/ | |
 | 이흥현 | https://medium.com/@maxzidell | tyle.io CTO. Web |
+| 이희욱 | https://www.bloter.net/archives/author/asadal | 포털 |
 | 임성진 | http://blog.bbom.org/ | |
 | 임성현 | https://brunch.co.kr/@sunghyunlim | | 
 | 임정택 | http://medium.com/@heartsavior | 백엔드, 오픈소스 |
