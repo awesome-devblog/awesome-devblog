@@ -422,6 +422,7 @@ Tag Cloud
 | 이상학 | http://sanghaklee.tistory.com/ | Back-end |
 | 이선협 | https://medium.com/sunhyoups-story | |
 | 이성규 | http://www.shalomeir.com/ | |
+| 이성규 | https://www.bloter.net/archives/author/dangun76 | 저널리즘 |
 | 이성근 | http://crazrain.tistory.com/ | Spring Boot |
 | 이성몽 | http://blog.naver.com/santalsm | 기술사 |
 | 이성호 | http://blog.scaloid.org/ | 스칼라, 안드로이드 |
