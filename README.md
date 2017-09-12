@@ -170,6 +170,7 @@ Tag Cloud
 | 김한웅 | https://hanwong.github.io/ | Front-end |
 | 김현유(미키김)| http://www.mickeykim.com/ | 구글 |
 | 김형준 | http://www.gisdeveloper.co.kr/ | GIS |
+| 김형준 | http://www.jaso.co.kr/ | 마이크로 서비스 | [![](icons/rss-icon.png)](http://www.jaso.co.kr/index.php/feed/) |
 | 김호동 | http://cogniti-works.blogspot.kr/ | nimf |
 | 김화수 | http://flowerexcel.tistory.com/ | C++ |
 | 김환희 | http://greentec.egloos.com/ | 게임개발 |
