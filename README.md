@@ -329,6 +329,7 @@ Tag Cloud
 |---|---|---|
 | 안도형 | https://emaren84.github.io/blog/ | |
 | 안동혁 | https://brunch.co.kr/@donghyeokahn | |
+| 안상욱 | https://www.bloter.net/archives/author/nuribit | 금융 |
 | 안성현 | http://ash84.net/ | Python |
 | 안승규 | http://ahnseungkyu.com/ | OpenStack |
 | 안오균 | http://ohgyun.com/ | iOS, Python |
