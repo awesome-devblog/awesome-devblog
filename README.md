@@ -567,6 +567,7 @@ Tag Cloud
 | Name | Blog | Description |
 |---|---|---|
 | 차준범 | http://khanrc.tistory.com/ | |
+| 채반석 | https://www.bloter.net/archives/author/chaibs | |
 | 채수원 | http://blog.doortts.com/ | |
 | 채승훈 | http://seunghoon-chae.com/ | Python |
 | 최건우 | http://blog.hardtack.me/ | |
