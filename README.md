@@ -610,6 +610,7 @@ Tag Cloud
 | 한상곤 | http://www.sangkon.com/ | |
 | 한상훈 | https://brunch.co.kr/@skykamja24 | |
 | 한성민 | http://pignose-barn.tumblr.com/ | |
+| 한수연 | https://www.bloter.net/archives/author/again | 보안 |
 | [한승훈(kkamagui)](people/kkamagui.md) | http://kkamagui.tistory.com/ | OS |
 | 한영빈 | https://youngbin.xyz/blog/ | Ubuntu |
 | 한장현 | http://han41858.tistory.com/ | Web |
