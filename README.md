@@ -496,6 +496,7 @@ Tag Cloud
 | 장요셉 | http://lastmind.net/ | |
 | 장용석 | http://devyongsik.tistory.com/ | |
 | 장재원 | http://superjang.com/ | Front-end |
+| 장준혁 | https://medium.com/@hyuk | Interaction Design |
 | 장현정 | http://naleejang.tistory.com/ | OpenStack |
 | 장혜식 | http://openlook.org/wp/ | 빅데이터 |
 | 전규현 | http://www.allofsoftware.net/ | |
