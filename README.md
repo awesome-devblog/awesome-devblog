@@ -96,6 +96,7 @@ Tag Cloud
 | 김봉현 | https://harfangk.github.io/ | Elixir |
 | 김상훈 | https://interpiler.com/ | IT 칼럼 |
 | 김석기 | https://brunch.co.kr/@neo3xdh | IT 칼럼 |
+| 김선영 | http://sunyzero.tistory.com/ | Linux |
 | 김석준 | http://seokjun.kr/ | |
 | 김선철 | http://blog.naver.com/PostList.nhn?blogId=sckim007 | | 
 | 김성빈 | http://sungbine.github.io/ | Web |
