@@ -188,6 +188,7 @@ Tag Cloud
 | 남궁민 | https://medium.com/@minnamgoong | 스타트업 |
 | 남영환 | http://www.iamfrom.kr/ | Java, Javascript |
 | 남정현 | http://www.rkttu.com/ | 클라우드 |
+| 남혜연 | https://byline.network/author/smilla/ | IT 뉴스 |
 | 노상범 | https://medium.com/@sbroh | |
 | 남세현 | https://medium.com/@Nam_se | 게임 개발 |
 | 노용환 | http://bugsfixed.blogspot.kr/, http://somma.egloos.com/ | 윈도우즈 커널 |
@@ -328,6 +329,7 @@ Tag Cloud
 | 신현식 | https://medium.com/ics-lab | | 
 | 심혜진 | https://simhyejin.github.io/ | |
 | 신호철 | http://hochulshin.com/ | Java |
+| 심재석 | https://byline.network/author/jsshim0622/ | IT 뉴스 |
 
 ### ㅇ
 
@@ -445,6 +447,7 @@ Tag Cloud
 | 이승훈 | https://brunch.co.kr/@seunghoon82 | | 
 | 이영훈 | http://resoliwan.blogspot.kr/ | |
 | 이웅희 | http://woongheelee.com/ | |
+| 이유지 | https://byline.network/author/yjlee/ | IT 뉴스 |
 | 이윤창 | http://daddycat.blogspot.kr/ | | 
 | 이일희(제닉스) | http://nixsense.net/ | IT 리뷰 |
 | 이임복 | https://brunch.co.kr/@eundang | IT 트렌드 |
@@ -607,6 +610,7 @@ Tag Cloud
 | 최혁재 | https://brunch.co.kr/@mirr5510 | 스타트업 |
 | 최현민 | https://medium.com/@hyunmin.choi | Scala |
 | 최현식 | https://diveintodata.org/ | Apache Tajo |
+| 최호섭 | https://byline.network/author/hs-choi/ | IT 뉴스 |
 | 최흥배 | http://jacking.tistory.com/ | C++ |
 
 ### ㅍ
@@ -749,6 +753,7 @@ Tag Cloud
 | A MEAN Blog | http://www.a-mean-blog.com/ko | Web |
 | Aliencube | http://blog.aliencube.org/ | .Net |
 | Apple Machine Learning Journal | https://machinelearning.apple.com/ | 머신러닝 |
+| BYLINE NETWORK | https://byline.network/ | IT 뉴스 |
 | CIO | http://www.ciokorea.com/ | |
 | ClearBoth | http://www.clearboth.org/ | Front-end |
 | CodinGame Blog | https://medium.com/@CodinGame | |
