@@ -61,6 +61,7 @@ Tag Cloud
 | 권민재 | https://mingrammer.com/ | Python |
 | 권영재 | https://nesoy.github.io/ | |
 | 권용근 | https://kingbbode.github.io/ | Spring |
+| 권용진 | https://brunch.co.kr/@nsung | 퀀트 |
 | 권욱제 | http://wookje.dance/ | |
 | 권윤학 | http://web-front-end.tistory.com/ | Web |
 | 권장표 | http://willbesomething.com/ | 게임 기획 |
