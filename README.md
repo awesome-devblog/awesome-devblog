@@ -330,6 +330,7 @@ Tag Cloud
 | 신현식 | https://medium.com/ics-lab | | 
 | 심혜진 | https://simhyejin.github.io/ | |
 | 신호철 | http://hochulshin.com/ | Java |
+| 신황규 | https://medium.com/@hubert.shin | 개발방법론 |
 | 심재석 | https://byline.network/author/jsshim0622/ | IT 뉴스 |
 
 ### ㅇ
