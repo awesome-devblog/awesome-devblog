@@ -484,6 +484,7 @@ Tag Cloud
 | 임성진 | http://blog.bbom.org/ | |
 | 임성현 | https://brunch.co.kr/@sunghyunlim | | 
 | 임정택 | http://medium.com/@heartsavior | 백엔드, 오픈소스 |
+| 임종대 | https://medium.com/@jongdae.lim | Java, AI |
 | 임지훈 | http://www.jimmyrim.com/ | 스타트업 투자 |
 | 임한솔 | http://hsol.tistory.com/ | Web |
 | 임희진 | http://epicdevs.com/ | Back-end |
