@@ -908,6 +908,7 @@ Tag Cloud
 | JetBrains Blog | http://blog.jetbrains.com/ | |
 | JNBridge | http://jnbridge.com/jnblog | |
 | Klarna Engineering | https://engineering.klarna.com/ | |
+| Kublr Team | https://blog.kublr.com/ | Kubernetes |
 | LINE | http://developers.linecorp.com/blog/ | |
 | Lua.Space | http://lua.space/ | Lua Community Blog |
 | Microsoft Edge Dev Blog | https://blogs.windows.com/msedgedev/ | |
