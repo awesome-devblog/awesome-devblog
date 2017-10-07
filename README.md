@@ -147,7 +147,7 @@ Tag Cloud
 | 김준환 | http://topnanis.tistory.com/ | |
 | 김지영 | https://brunch.co.kr/@pubjinson | |
 | 김지우 | https://brunch.co.kr/@ken1224 | 스타트업, 음악산업 |
-| 김지혁 | http://kimjihyok.info/ | 안드로이드, 오픈소스 |
+| 김지혁 | http://kimjihyok.info/ | 안드로이드, 오픈소스 | [![](icons/rss-icon.png)](http://kimjihyok.info/feed/) |
 | 김지현 | https://hyeon.me/ | |
 | 김지홍 | https://brunch.co.kr/@jihere1001 | 프로토타이핑 |
 | 김진국 | http://forensic-proof.com/ | 포렌식 |
