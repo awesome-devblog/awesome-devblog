@@ -67,6 +67,7 @@ Tag Cloud
 | 권장표 | http://willbesomething.com/ | 게임 기획 |
 | 권정혁 | http://xguru.net/guru | 개발 트렌드 |
 | 권창현 | http://thoughts.chkwon.net/ | 산업공학 |
+| 권태환 | http://thdev.tech/ | Android, Kotlin |
 | 김광현(광파리) | http://kwang82.hankyung.com/ | IT 소식 |
 | 김국현 | http://goodhyun.com/ | IT 칼럼 |
 | 김길호 | http://kilhokim.github.io/ | |
