@@ -90,7 +90,7 @@ Tag Cloud
 | 김민석 | https://brunch.co.kr/@brunchqvxt | Spring Boot |
 | 김민수 | http://www.kmshack.kr/ | 안드로이드 |
 | 김민수 | http://alwayspr.tistory.com/ | |
-| 김민장 | http://minjang.egloos.com/ | 컴퓨터 아키텍처 |
+| 김민장 | http://minjang.github.io/, http://minjang.egloos.com/ | 컴퓨터 아키텍처 |
 | 김민준 | https://velopert.com/ | Front-end |
 | 김범준 | http://bomjun.tistory.com/ | |
 | 김범준 | http://nolsigan.github.io/ | |
