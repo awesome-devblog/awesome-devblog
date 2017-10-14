@@ -600,6 +600,7 @@ Tag Cloud
 | 최승필 | https://brunch.co.kr/@pilsogood | 트립그리다 |
 | 최유석 | http://whitechoi.tistory.com/ | Cloud |
 | 최윤섭 | http://www.yoonsupchoi.com/ | 헬스케어 |
+| 최은선 | https://im-mota.github.io/ | UX |
 | 최재훈 | http://andromedarabbit.net/ |
 | 최정대 | http://blog.woosum.net/, https://medium.com/@whitekid | 오픈스택 |
 | 최정렬 | http://bestalign.github.io/ | Javascript |
