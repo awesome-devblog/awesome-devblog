@@ -60,6 +60,7 @@ Tag Cloud
 | 계주성 | http://kyejusung.com/ | |
 | 고득녕 | http://blog.naver.com/nackji80/ | 네트워크 |
 | 고명환 | https://brunch.co.kr/@maru7091 | 스타트업 |
+| 고종범 | https://brunch.co.kr/@jbgo | 애자일 |
 | 고형호 | http://hhko.tistory.com/ | Functional Programming |
 | 곽민수 | https://brunch.co.kr/@imagineer | |
 | 구교준 | http://danielku.com/ | |
