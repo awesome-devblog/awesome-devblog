@@ -406,6 +406,7 @@ Tag Cloud
 | 유영재 | https://blog.asamaru.net/ | Android |
 | 유용우 | http://luckyyowu.tistory.com/ | |
 | 유용호 | http://blog.eedler.com/ | |
+| 유재석 | https://brunch.co.kr/@yoojs8512 | IT 컬럼 |
 | 유재준 | http://jaejunyoo.blogspot.com | 머신러닝 |
 | 유주원 | http://hipercube.tistory.com/ | |
 | 유진호 | https://brunch.co.kr/@jinhoyooephf | | 
