@@ -480,7 +480,7 @@ Tag Cloud
 | 이준용 | https://brunch.co.kr/@junyong | 해외 취업 |
 | 이지영 | https://www.bloter.net/archives/author/izziene | 통신, 금융 |
 | 이지현 | https://www.bloter.net/archives/author/jihyun | 오픈소스 |
-| 이지훈 | http://jihoonl.notemywish.com/ | |
+| 이지훈 | http://jihoonlee.io/ | 로봇공학 |
 | 이진석 | https://medium.com/@allieuslee | Python, Django |
 | 이찬행 | http://blog.naver.com/dlcksgod1 | | 
 | 이충영 | https://medium.com/@wangmul | |
