@@ -812,6 +812,7 @@ Tag Cloud
 | Name | Blog | Description |
 |---|---|---|
 | Adam Bien | http://www.adam-bien.com/roller/abien/ | Real World Java EE Patterns 저자 |
+| Adam Fletcher | https://medium.com/@adam_34309 | Gyroscope Software CEO |
 | Andrea Giammarchi | http://webreflection.blogspot.kr/ | Javascript |
 | Andy Hunt | http://andy.pragprog.com/ | 실용주의 프로그래머, 프로그래밍 루비 공저 |
 | Armin Ronacher | http://lucumr.pocoo.org/ | Flask, Lektor 개발자 |
