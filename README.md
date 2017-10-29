@@ -800,6 +800,7 @@ Tag Cloud
 | Mozilla Hack | http://hacks.mozilla.or.kr/ | | 
 | MSDN Korea Evengelist | https://blogs.msdn.microsoft.com/eva/ | .Net |
 | Popit | http://www.popit.kr/ | |
+| POSICUBE Blog | https://posicube.com/blog/ | 인공지능 |
 | Rainist Engineering | https://medium.com/rainist-engineering | 뱅크샐러드 |
 | Refresh Studio | http://refreshstudio.tistory.com/ | UI/UX 디자인 |
 | Remotty Tech Blog | http://blog.remotty.com/blog/ | |
