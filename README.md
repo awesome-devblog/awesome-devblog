@@ -602,6 +602,7 @@ Tag Cloud
 | 채반석 | https://www.bloter.net/archives/author/chaibs | |
 | 채수원 | http://blog.doortts.com/ | |
 | 채승훈 | http://seunghoon-chae.com/ | Python |
+| 채윤창 | http://mcchae.egloos.com/ | Python |
 | 최건우 | http://blog.hardtack.me/ | |
 | 최광민 | http://dl-ai.blogspot.kr/ | AI |
 | 최근우 | http://keunwoochoi.blogspot.kr/, https://keunwoochoi.wordpress.com/ | 인공지능 |
