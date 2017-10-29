@@ -379,6 +379,7 @@ Tag Cloud
 | 엄태웅 | http://t-robotics.blogspot.kr/ | AI |
 | 엄태형 | https://brunch.co.kr/@taebari | |
 | 염재현 | https://only2sea.wordpress.com/ | |
+| 염지원 | https://medium.com/@jwyeom63 | |
 | 오광신 | http://kwangshin.pe.kr/ | 함수형 언어 |
 | 오경식 | https://sikeeoh.github.io/ | Android |
 | 오동권 | http://www.flowdas.com/ | |
