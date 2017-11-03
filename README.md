@@ -314,6 +314,7 @@ Tag Cloud
 | 서한교 | https://brunch.co.kr/@zalhanilll | 디자인 |
 | 성대경 | http://healthydeveloper.tistory.com/ | Algorithm |
 | 성동찬 | http://gywn.net/ | Database |
+| 손병대 | http://miconblog.com/ | Front-end |
 | 손승하 | http://sonseungha.tistory.com/ | Linux |
 | 손영수(arload) | https://arload.wordpress.com/ | 개발방법론, Android |
 | 손찬욱 | https://sculove.github.io/blog/ | Web |
