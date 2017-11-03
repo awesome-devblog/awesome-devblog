@@ -135,6 +135,7 @@ Tag Cloud
 | 김요섭 | https://josephkim75.wordpress.com/ | |
 | 김용균 | http://haruair.com/ | Web |
 | 김용묵 | http://moogi.new21.org/ | 한글 언어, C++ |
+| 김용준 | https://kimkevin.net/ | Android |
 | 김용환 | http://knight76.tistory.com/ | |
 | 김용현 | http://blog.naver.com/drvoss | C++ |
 | 김용휘 | http://ggoals.tistory.com/ | Data Infrastructure |
