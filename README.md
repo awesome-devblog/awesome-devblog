@@ -681,6 +681,7 @@ Tag Cloud
 | 황병선 | http://www.futurewalker.kr/ | IT 칼럼 |
 | 황상철 | http://pragmaticstory.com/ | 애자일 |
 | 황석주 | http://dolppi.egloos.com/ | 금융공학 |
+| 황성재 | https://brunch.co.kr/@uxinventor | 창업 |
 | [황준식](people/junkwhinger.md) | http://jsideas.net/ | Data Science |
 | 황치규 | https://brunch.co.kr/@delight412 | |
 | 히언 | http://recipes.egloos.com/ | 하드웨어 |
