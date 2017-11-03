@@ -339,7 +339,7 @@ Tag Cloud
 | 신은광 | https://brendaniel.github.io/ | |
 | 신재명 | https://medium.com/@Jaemyung | |
 | 신철민 | https://blog.naver.com/kato75 | 엔트리 |
-| 신현묵 | http://zetlos.tistory.com/ | |
+| 신현묵 | https://brunch.co.kr/@supims, http://zetlos.tistory.com/ | IT 칼럼 |
 | 신현석 | http://hyeonseok.com/ | Web |
 | 신현식 | https://medium.com/ics-lab | | 
 | 심혜진 | https://simhyejin.github.io/ | |
