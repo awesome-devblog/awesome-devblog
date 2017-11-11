@@ -544,7 +544,7 @@ Tag Cloud
 | 정덕수 | http://blog.iamartin.com/ | Cloud |
 | 정도현 | http://www.moreagile.net/ | 개발방법론 |
 | 정동민 | http://jdm.kr/blog/ | Java |
-| 정민혁 | https://www.holaxprogramming.com/, http://stunstun.tistory.com/ | Java |
+| 정민혁 | https://www.holaxprogramming.com/ | JavaScript, DevOps |
 | 정병기 | https://byeongkijeong.github.io/ | 인공지능 |
 | 정상혁 | http://blog.benelog.net/ | Java |
 | 정성태 | http://www.sysnet.pe.kr/ | 닷넷 |
