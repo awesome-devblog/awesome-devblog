@@ -730,6 +730,7 @@ Tag Cloud
 | 박스앤위스커 | http://www.boxnwhis.kr/ | |
 | 버즈니 | http://engineering.buzzni.com/ | |
 | 버즈아트 | https://tech.bbuzzart.com/ | |
+| 보안뉴스 | http://www.boannews.com/ | 보안 |
 | 삼성소프트웨어멤버십 | http://blog.secmem.org/ | |
 | 솔라나라 | http://www.solanara.net/ | 솔라리스 |
 | 스타일쉐어 | http://styleshare.github.io/ | |
