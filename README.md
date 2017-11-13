@@ -484,6 +484,7 @@ Tag Cloud
 | 이주영 | https://dev-juyoung.github.io/ | Android |
 | 이준범 | https://beomi.github.io/ | Python |
 | 이준용 | https://brunch.co.kr/@junyong | 해외 취업 |
+| 이준호 | http://www.vonzone.kr/ | 기획 |
 | 이지영 | https://www.bloter.net/archives/author/izziene | 통신, 금융 |
 | 이지현 | https://www.bloter.net/archives/author/jihyun | 오픈소스 |
 | 이지훈 | http://jihoonlee.io/ | 로봇공학 |
