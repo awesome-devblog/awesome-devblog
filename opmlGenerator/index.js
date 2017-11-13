@@ -107,6 +107,7 @@ var feeds = {
     전동규: 'http://www.php5.me/blog/feed/',
     전희원: 'http://feeds.feedburner.com/gogamza?format=xml',
     정도현: 'http://www.moreagile.net/feeds/posts/default',
+    정민혁: 'https://www.holaxprogramming.com/atom.xml',
     정재화: 'http://blrunner.com/rss',
     정상혁: 'http://rss.egloos.com/blog/benelog',
     정성태: 'http://www.sysnet.pe.kr/rss/getrss.aspx?boardId=635954948',
