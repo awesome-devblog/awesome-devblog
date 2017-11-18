@@ -39,8 +39,8 @@ Tag Cloud
 
 ### ㄱ
 
-| Name | Blog | Description | Feed |
-|---|---|---|:---:|
+| Name | Blog | Description | Feed | |
+|---|---|---|:---:|---|
 | [강규영](people/ecogwiki.md) | http://www.ecogwiki.com/ | | [![](icons/rss-icon.png)](http://www.ecogwiki.com/sp.posts?_type=atom) |
 | 강관우 | https://brunch.co.kr/@kd4 | Java | [![](icons/rss-icon.png)](https://brunch.co.kr/rss/@@xTa) |
 | [강대명](people/charsyam.md) | https://charsyam.wordpress.com/ | 서버 사이드 | [![](icons/rss-icon.png)](http://charsyam.wordpress.com/feed/) |
@@ -114,7 +114,7 @@ Tag Cloud
 | 김석기 | https://brunch.co.kr/@neo3xdh | IT 칼럼 |
 | 김선영 | http://sunyzero.tistory.com/ | Linux |
 | 김석준 | http://seokjun.kr/ | |
-| 김선철 | http://blog.naver.com/PostList.nhn?blogId=sckim007 | | 
+| 김선철 | http://blog.naver.com/PostList.nhn?blogId=sckim007 | |
 | 김성빈 | http://sungbine.github.io/ | Web |
 | 김성수 | http://sungsoo.github.io/ | |
 | 김성식 | http://devopser.me/ | DevOps |
@@ -130,7 +130,7 @@ Tag Cloud
 | 김순식 | http://i-bada.blogspot.kr/ | |
 | 김승호 | http://raccoonyy.github.io/ | Python |
 | 김슬기 | http://blog.seulgi.kim/ | 서울대생 |
-| 김영재 | https://youngjaekim.wordpress.com/ | | 
+| 김영재 | https://youngjaekim.wordpress.com/ | |
 | 김영재 | http://haviyj.tistory.com/ | Spring Boot | [![](icons/rss-icon.png)](http://haviyj.tistory.com/rss) |
 | 김요섭 | https://josephkim75.wordpress.com/ | |
 | 김용균 | http://haruair.com/ | Web |
@@ -173,18 +173,18 @@ Tag Cloud
 | 김짐 | https://medium.com/@jimkimau | Front-end |
 | 김창원 | http://www.memoriesreloaded.net/ | 실리콘밸리 |
 | 김창준 | http://agile.egloos.com/ | 애자일 |
-| 김청진 | http://jinblog.kr | IT소식/리뷰, 개발(웹, 모바일) | 
+| 김청진 | http://jinblog.kr | IT소식/리뷰, 개발(웹, 모바일) |
 | 김충섭 | http://subicura.com/ | |
 | 김코딩 | http://huns.me/ | |
 | 김태곤 | http://taegon.kim/ | 웹 |
-| 김태균 | http://blog.gaerae.com/ | | 
+| 김태균 | http://blog.gaerae.com/ | |
 | 김태기 | https://beyondj2ee.wordpress.com/ | Java |
 | 김태영 | https://tykimos.github.io/ | 머신러닝 |
 | 김태호 | http://kunny.github.io/, http://androidhuman.com/ | 안드로이드 |
 | 김태호 | https://medium.com/@xissy | 스타트업 |
 | 김태환 | http://thefinestartist.com/ | Java, Android |
 | 김태헌 | https://brunch.co.kr/@myte | 해외 취업 |
-| 김태훈 | http://carpedm20.github.io/ | |
+| 김태훈 | http://carpedm20.github.io/ | | | [![](icons/slideshare-icon.png)](https://www.slideshare.net/carpedm20) |
 | 김포프 | http://kblog.popekim.com/ | |
 | 김한결 | http://devkyeol.tistory.com/ | |
 | 김한웅 | https://hanwong.github.io/ | Front-end |
@@ -223,10 +223,10 @@ Tag Cloud
 | Name | Blog | Description |
 |---|---|---|
 | 류광 | http://occamsrazr.net/ | 번역 |
-| 류재영 | http://longbe00.blogspot.kr/ | | 
+| 류재영 | http://longbe00.blogspot.kr/ | |
 | 류종택 | http://ryulib.tistory.com/ | |
 | 류지형 | http://www.jakemvc.com | |
-| 류현오 | https://activity.horyu.me | | 
+| 류현오 | https://activity.horyu.me | |
 
 ### ㅁ
 
@@ -235,14 +235,14 @@ Tag Cloud
 | 마경욱 | https://brunch.co.kr/@kyeongwook-ma | 스타트업 |
 | 모상우 | https://brunch.co.kr/@aidenswmo | |
 | 문동선 | http://dsmoon.tistory.com/ | 머신러닝 |
-| 문준영 | https://brunch.co.kr/@moonjoonyoung | | 
+| 문준영 | https://brunch.co.kr/@moonjoonyoung | |
 | 문형환 | http://blog.lael.be/ | |
 
 ### ㅂ
 
 | Name | Blog | Description | Feed |
 |---|---|---|---|
-| 박경욱 | https://kyungw00k.github.io/ | | 
+| 박경욱 | https://kyungw00k.github.io/ | |
 | 박경준 | https://ryanpark.me/ | |
 | 박경훈(HOONS) | http://hoonsbara.tistory.com/ | 닷넷 |
 | 박민 | https://isme2n.github.io/ | Front-end |
@@ -251,12 +251,12 @@ Tag Cloud
 | 박상권 | http://gun0912.tistory.com/ | Android |
 | 박상근 | http://parksk.tistory.com/ | |
 | 박상길 | http://likejazz.com/ | |
-| 박상민 | https://sangminpark.wordpress.com/ | | 
+| 박상민 | https://sangminpark.wordpress.com/ | |
 | 박상일 | https://tkddlf59.github.io/ | AWS |
 | 박상훈 | https://brunch.co.kr/@sanghoonpak | 인도네시아 IT 소식 |
 | 박성철 | http://blog.fupfin.com/ | Java |
 | 박석제 | https://parkseokje.github.io/ | |
-| 박성현 | https://helloworldpark.github.io/ | | 
+| 박성현 | https://helloworldpark.github.io/ | |
 | 박연오 | https://bakyeono.net/ | Python |
 | 박영록 | http://youngrok.com/ | 위키나무 |
 | 박용권 | https://brunch.co.kr/@arawn | |
@@ -279,8 +279,8 @@ Tag Cloud
 | 박지수 | https://medium.com/@JisuPark | |
 | 박지홍 | https://medium.com/@ggikko | RxJava |
 | 박진서 | http://jasonpark.me/ | |
-| 박진우 | https://www.jinpark.net/ | | 
-| 박찬민 | https://walkinpcm.blogspot.kr/ | | 
+| 박진우 | https://www.jinpark.net/ | |
+| 박찬민 | https://walkinpcm.blogspot.kr/ | |
 | 박찬욱 | http://chanwookpark.github.io/ | Back-end |
 | 박해선 | https://tensorflow.blog/ | TensorFlow |
 | 박현기 | http://blog.tylenol.goopy.kr/ | Kotlin |
@@ -324,19 +324,19 @@ Tag Cloud
 | 송민승 | https://brunch.co.kr/@minseungsong | 실리콘밸리 |
 | 송영길 | https://youngsong.com/ | 창업 |
 | 송영환 | https://purluno.wordpress.com/ | Akka |
-| 송원준 | http://blog.naver.com/swj8530 | | 
+| 송원준 | http://blog.naver.com/swj8530 | |
 | 송윤섭 | https://songyunseop.github.io/ | Python, Node.js |
 | 송은우 | https://rampart81.github.io/ | Python |
 | 송석호 | https://devsdk.github.io/ | OS |
 | 송성광 | http://saltfactory.net/ | |
 | 송주성(빈꿈) | http://emptydream.tistory.com/ | IT 칼럼 |
 | 송준현 | https://medium.com/@it_sjh9973 | |
-| 송호연 | https://brunch.co.kr/@chris-song/ | | 
+| 송호연 | https://brunch.co.kr/@chris-song/ | |
 | 송효진 | https://lovetoken.github.io/ | R |
 | 신경식 | http://multeng.tistory.com/ | AI |
 | 신관영 | http://springsource.tistory.com/ | Spring |
 | 신동주 | http://mopsyshin.com/ | UX |
-| 신승환 | http://www.talk-with-hani.com/ | | 
+| 신승환 | http://www.talk-with-hani.com/ | |
 | 신영진 | http://www.jiniya.net/ | 보안 |
 | 신예지 | http://dev.bloodevil.com/ | Python |
 | 신용윤 | http://uni2u.tistory.com/ | 네트워크 |
@@ -345,7 +345,7 @@ Tag Cloud
 | 신철민 | https://blog.naver.com/kato75 | 엔트리 |
 | 신현묵 | https://brunch.co.kr/@supims, http://zetlos.tistory.com/ | IT 칼럼 |
 | 신현석 | http://hyeonseok.com/ | Web |
-| 신현식 | https://medium.com/ics-lab | | 
+| 신현식 | https://medium.com/ics-lab | |
 | 심혜진 | https://simhyejin.github.io/ | |
 | 신호철 | http://hochulshin.com/ | Java |
 | 신황규 | https://medium.com/@hubert.shin | 개발방법론 |
@@ -364,7 +364,7 @@ Tag Cloud
 | 안오균 | http://ohgyun.com/ | iOS, Python |
 | 안윤호 | http://toyfab.tistory.com/ | 마이크로 프로세서 |
 | 안재우 | http://blog.naver.com/saltynut | |
-| 안재하 | http://programmingsummaries.tistory.com/ | | 
+| 안재하 | http://programmingsummaries.tistory.com/ | |
 | 안정호 | http://blog.ahnjungho.org/ | |
 | 안정훈 | http://www.andrewahn.co/ | 실리콘밸리 |
 | 안종태 | http://qnibus.com/ | iOS |
@@ -394,7 +394,7 @@ Tag Cloud
 | 오세빈 | http://osebin.tistory.com/ | |
 | 오일석 | http://ilseokoh.com/ | Azure |
 | 오정규 | http://ohjeonggyu.github.io/ | Kotlin |
-| 오종빈 | http://ohyecloudy.com/doku.php | | 
+| 오종빈 | http://ohyecloudy.com/doku.php | |
 | 오준석 | https://brunch.co.kr/@hopeless | Android |
 | [오현석](people/enshahar.md) | http://www.enshahar.me/ | 스칼라, 스위프트 |
 | 용찬호 | http://blog.naver.com/alice_k106 | Docker |
@@ -408,14 +408,14 @@ Tag Cloud
 | 유동곤 | http://blog.naver.com/ehdrhs1004 | C++ |
 | 유동환 | https://brunch.co.kr/@yudong | |
 | 유병후 | https://libsora.so/ | |
-| 유성규 | https://skyoo2003.github.io/ | | 
+| 유성규 | https://skyoo2003.github.io/ | |
 | 유영재 | https://blog.asamaru.net/ | Android |
 | 유용우 | http://luckyyowu.tistory.com/ | |
 | 유용호 | http://blog.eedler.com/ | |
 | 유재석 | https://brunch.co.kr/@yoojs8512 | IT 컬럼 |
 | 유재준 | http://jaejunyoo.blogspot.com | 머신러닝 |
 | 유주원 | http://hipercube.tistory.com/ | |
-| 유진호 | https://brunch.co.kr/@jinhoyooephf | | 
+| 유진호 | https://brunch.co.kr/@jinhoyooephf | |
 | 유차영 | https://yous.be/ | |
 | 유현석 | http://duriepark.tistory.com/ | |
 | 유형준 | http://programmeringermany.blogspot.kr/ | 해외 취업 |
@@ -432,7 +432,7 @@ Tag Cloud
 | 이광헌 | http://honeyperl.tistory.com/ | Perl |
 | 이규원 | https://justhackem.wordpress.com/ | |
 | 이규혁 | http://kyuhyuk.kr/ | |
-| 이기영 | https://brunch.co.kr/@kiyoungleefige | | 
+| 이기영 | https://brunch.co.kr/@kiyoungleefige | |
 | 이다윗 | https://brunch.co.kr/@designforhuman | 디자인 |
 | 이도현 | http://genesis8.tistory.com/ | |
 | 이동규 | http://chandong83.blog.me/ | |
@@ -461,18 +461,18 @@ Tag Cloud
 | 이성원 | http://blog.sungwonandseohyun.us/ | |
 | 이성호 | http://blog.scaloid.org/ | 스칼라, 안드로이드 |
 | 이세우 | http://blog.xcoda.net/ | |
-| 이소은 | https://medium.com/@soeunlee | | 
-| 이소현 | https://brunch.co.kr/@sohyeonlee | | 
+| 이소은 | https://medium.com/@soeunlee | |
+| 이소현 | https://brunch.co.kr/@sohyeonlee | |
 | 이수지 | https://brunch.co.kr/@thingsflow | 기획 |
 | 이수홍 | https://brunch.co.kr/@sbcoba | Spring Boot |
 | 이승우 | https://blog.2dal.com/ | Docker, Kubernetes |
 | 이승현 | http://hamait.tistory.com/ | |
 | 이승현 | https://brunch.co.kr/@oemilk | Android |
-| 이승훈 | https://brunch.co.kr/@seunghoon82 | | 
+| 이승훈 | https://brunch.co.kr/@seunghoon82 | |
 | 이영훈 | http://resoliwan.blogspot.kr/ | |
 | 이웅희 | http://woongheelee.com/ | |
 | 이유지 | https://byline.network/author/yjlee/ | IT 뉴스 |
-| 이윤창 | http://daddycat.blogspot.kr/ | | 
+| 이윤창 | http://daddycat.blogspot.kr/ | |
 | 이일희(제닉스) | http://nixsense.net/ | IT 리뷰 |
 | 이임복 | https://brunch.co.kr/@eundang | IT 트렌드 |
 | 이재홍 | http://pyrasis.com/ | Go |
@@ -490,7 +490,7 @@ Tag Cloud
 | 이지현 | https://www.bloter.net/archives/author/jihyun | 오픈소스 |
 | 이지훈 | http://jihoonlee.io/ | 로봇공학 |
 | 이진석 | https://medium.com/@allieuslee | Python, Django |
-| 이찬행 | http://blog.naver.com/dlcksgod1 | | 
+| 이찬행 | http://blog.naver.com/dlcksgod1 | |
 | 이충영 | https://medium.com/@wangmul | |
 | 이태희 | https://brunch.co.kr/@bradlee | |
 | 이하제 | http://realignist.me/ | Java, Rust |
@@ -505,7 +505,7 @@ Tag Cloud
 | 이흥현 | https://medium.com/@maxzidell | tyle.io CTO. Web |
 | 이희욱 | https://www.bloter.net/archives/author/asadal | 포털 |
 | 임성진 | http://blog.bbom.org/ | |
-| 임성현 | https://brunch.co.kr/@sunghyunlim | | 
+| 임성현 | https://brunch.co.kr/@sunghyunlim | |
 | 임정택 | http://medium.com/@heartsavior | 백엔드, 오픈소스 |
 | 임종대 | https://medium.com/@jongdae.lim | Java, AI |
 | 임지훈 | http://www.jimmyrim.com/ | 스타트업 투자 |
@@ -556,7 +556,7 @@ Tag Cloud
 | 정윤성 | http://sadang-hobbits.github.io/ | Rust |
 | 정윤원 | http://youknowone.github.io/ | IOS |
 | 정윤진 | http://kerberosj.tistory.com/ | Cloud |
-| 정재광 | https://jae-kwang.github.io/ | Front-end | 
+| 정재광 | https://jae-kwang.github.io/ | Front-end |
 | 정재남 | http://gomugom.github.io/ | Front-end |
 | 정재화 | http://blrunner.com/ | 타조 커미터. 하둡 |
 | 정재훈 | http://uzys.net/ | Rankedin 개발자 |
@@ -807,7 +807,7 @@ Tag Cloud
 | LG CNS | http://blog.lgcns.com/ | |
 | Line Enginners Blog | http://developers.linecorp.com/blog/ko/ | |
 | Mozilla Developer | https://developer.mozilla.org/ko/ | |
-| Mozilla Hack | http://hacks.mozilla.or.kr/ | | 
+| Mozilla Hack | http://hacks.mozilla.or.kr/ | |
 | MSDN Korea Evengelist | https://blogs.msdn.microsoft.com/eva/ | .Net |
 | Popit | http://www.popit.kr/ | |
 | POSICUBE Blog | https://posicube.com/blog/ | 인공지능 |
