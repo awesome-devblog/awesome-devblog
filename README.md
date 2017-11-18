@@ -240,8 +240,8 @@ Tag Cloud
 
 ### ㅂ
 
-| Name | Blog | Description |
-|---|---|---|
+| Name | Blog | Description | Feed |
+|---|---|---|---|
 | 박경욱 | https://kyungw00k.github.io/ | | 
 | 박경준 | https://ryanpark.me/ | |
 | 박경훈(HOONS) | http://hoonsbara.tistory.com/ | 닷넷 |
@@ -261,6 +261,7 @@ Tag Cloud
 | 박영록 | http://youngrok.com/ | 위키나무 |
 | 박용권 | https://brunch.co.kr/@arawn | |
 | 박용서 | https://gs.saro.me | |
+| 박은정 | https://www.lucypark.kr/ | 데이터 과학 | [![](icons/rss-icon.png)](http://feeds.feedburner.com/e9t) |
 | 박은환 | http://dainelpark.github.io/ | |
 | 박인 | https://brunch.co.kr/@lynnata | 디지털 노마드 |
 | 박일 | http://parkpd.egloos.com/ | 게임 개발 |
@@ -303,8 +304,8 @@ Tag Cloud
 
 ### ㅅ
 
-| Name | Blog | Description | Feed | |
-|---|---|---|---|---|
+| Name | Blog | Description |
+|---|---|---|
 | [서광열](people/kwangyul.seo.md) | http://gamecodingschool.org/ | 게임 개발 |
 | 서민상 | http://blog.naver.com/seo0511 | Arduino |
 | 서보룡 | http://inter6.tistory.com/ | OpenStack |
@@ -315,7 +316,7 @@ Tag Cloud
 | 서한교 | https://brunch.co.kr/@zalhanilll | 디자인 |
 | 성대경 | http://healthydeveloper.tistory.com/ | Algorithm |
 | 성동찬 | http://gywn.net/ | Database |
-| 손병대 | http://miconblog.com/ | Front-end | | [![](icons/slideshare-icon.png)](https://www.slideshare.net/byungdaesohn) |
+| 손병대 | http://miconblog.com/ | Front-end |
 | 손승하 | http://sonseungha.tistory.com/ | Linux |
 | 손영수(arload) | https://arload.wordpress.com/ | 개발방법론, Android |
 | 손찬욱 | https://sculove.github.io/blog/ | Web |
