@@ -45,12 +45,12 @@ Tag Cloud
 ### ᄀ
 
 | Name | Blog | Description | Others |
-|---|---|---|:---:|
+|---|---|---|---|
 | [강규영](people/ecogwiki.md) | http://www.ecogwiki.com/ |  | [![](icons/rss-icon.png)](http://www.ecogwiki.com/sp.posts?_type=atom) |
 | 강관우 | https://brunch.co.kr/@kd4 | Java | [![](icons/rss-icon.png)](https://brunch.co.kr/rss/@@xTa) |
 | [강대명](people/charsyam.md) | https://charsyam.wordpress.com/ | 서버 사이드 | [![](icons/rss-icon.png)](http://charsyam.wordpress.com/feed/) |
 | 강동혁 | https://brunch.co.kr/@dongkang | 인디 개발 | [![](icons/rss-icon.png)](https://brunch.co.kr/rss/@@1fY0) |
-| 강명훈 | http://kangmyounghun.blogspot.kr/ | 보안 | [![](icons/rss-icon.png)](http://kangmyounghun.blogspot.com/feeds/posts/default) |
+| 강명훈 | http://kangmyounghun.blogspot.kr/ | 보안 | [![](icons/rss-icon.png)](http://kangmyounghun.blogspot.com/feeds/posts/default)[![](icons/google-plus-icon.png)](https://plus.google.com/118273663905921239444) |
 | 강미경 | http://minieetea.com/ | 기획 | [![](icons/rss-icon.png)](http://minieetea.com/feed) |
 | 강병수 | https://01010011.blog/ | DevOps | [![](icons/rss-icon.png)](https://01010011.blog/feed/) |
 | 강병욱 | https://medium.com/@brillante9111 | 라이언봇 | [![](icons/rss-icon.png)](https://medium.com/feed/@brillante9111) |
@@ -205,7 +205,7 @@ Tag Cloud
 ### ᄂ
 
 | Name | Blog | Description | Others |
-|---|---|---|:---:|
+|---|---|---|---|
 | 나윤환 | https://nayunhwan.github.io/ | React |  |
 | 남궁민 | https://medium.com/@minnamgoong | 스타트업 |  |
 | 남영환 | http://www.iamfrom.kr/ | Java, Javascript |  |
@@ -220,13 +220,13 @@ Tag Cloud
 ### ᄃ
 
 | Name | Blog | Description | Others |
-|---|---|---|:---:|
+|---|---|---|---|
 | 도경태 | https://medium.com/@keendev |  |  |
 
 ### ᄅ
 
 | Name | Blog | Description | Others |
-|---|---|---|:---:|
+|---|---|---|---|
 | 류광 | http://occamsrazr.net/ | 번역 |  |
 | 류재영 | http://longbe00.blogspot.kr/ |  |  |
 | 류종택 | http://ryulib.tistory.com/ |  |  |
@@ -236,7 +236,7 @@ Tag Cloud
 ### ᄆ
 
 | Name | Blog | Description | Others |
-|---|---|---|:---:|
+|---|---|---|---|
 | 마경욱 | https://brunch.co.kr/@kyeongwook-ma | 스타트업 |  |
 | 모상우 | https://brunch.co.kr/@aidenswmo |  |  |
 | 문동선 | http://dsmoon.tistory.com/ | 머신러닝 |  |
@@ -246,7 +246,7 @@ Tag Cloud
 ### ᄇ
 
 | Name | Blog | Description | Others |
-|---|---|---|:---:|
+|---|---|---|---|
 | 박경욱 | https://kyungw00k.github.io/ |  |  |
 | 박경준 | https://ryanpark.me/ |  |  |
 | 박경훈(HOONS) | http://hoonsbara.tistory.com/ | 닷넷 |  |
@@ -309,13 +309,13 @@ Tag Cloud
 ### H
 
 | Name | Blog | Description | Others |
-|---|---|---|:---:|
+|---|---|---|---|
 | Harrison Jung | https://medium.com/@HarrisonJung |  |  |
 
 ### ᄉ
 
 | Name | Blog | Description | Others |
-|---|---|---|:---:|
+|---|---|---|---|
 | [서광열](people/kwangyul.seo.md) | http://gamecodingschool.org/ | 게임 개발 |  |
 | 서민상 | http://blog.naver.com/seo0511 | Arduino |  |
 | 서보룡 | http://inter6.tistory.com/ | OpenStack |  |
@@ -364,13 +364,13 @@ Tag Cloud
 ### K
 
 | Name | Blog | Description | Others |
-|---|---|---|:---:|
+|---|---|---|---|
 | Kevin Lee | https://lckymn.com/about-kevin | Java |  |
 
 ### ᄋ
 
 | Name | Blog | Description | Others |
-|---|---|---|:---:|
+|---|---|---|---|
 | 안도형 | https://emaren84.github.io/blog/ |  |  |
 | 안동혁 | https://brunch.co.kr/@donghyeokahn |  |  |
 | 안상욱 | https://www.bloter.net/archives/author/nuribit | 금융 |  |
@@ -531,7 +531,7 @@ Tag Cloud
 ### ᄌ
 
 | Name | Blog | Description | Others |
-|---|---|---|:---:|
+|---|---|---|---|
 | 장기효(기효 조슈아 장) | https://joshuajangblog.wordpress.com/, https://joshua1988.github.io/ |  |  |
 | 장동수 | http://blog.iolo.kr/ | Web |  |
 | 장문익 | http://mooneegee.blogspot.kr/ | 3D |  |
@@ -621,7 +621,7 @@ Tag Cloud
 ### ᄎ
 
 | Name | Blog | Description | Others |
-|---|---|---|:---:|
+|---|---|---|---|
 | 차준범 | http://khanrc.tistory.com/ |  |  |
 | 채반석 | https://www.bloter.net/archives/author/chaibs |  |  |
 | 채수원 | http://blog.doortts.com/ |  |  |
@@ -662,13 +662,13 @@ Tag Cloud
 ### ᄑ
 
 | Name | Blog | Description | Others |
-|---|---|---|:---:|
+|---|---|---|---|
 | 편해걸 | http://dev-momo.tistory.com/ | Front-end |  |
 
 ### ᄒ
 
 | Name | Blog | Description | Others |
-|---|---|---|:---:|
+|---|---|---|---|
 | 하동우 | https://medium.com/@cookatrice |  |  |
 | 하호진(Mimul) | http://www.mimul.com/ | 칼럼 |  |
 | 한민석 | http://creativeprm.tistory.com/ |  |  |
@@ -712,7 +712,7 @@ Tag Cloud
 ### S
 
 | Name | Blog | Description | Others |
-|---|---|---|:---:|
+|---|---|---|---|
 | Steve Park | https://brunch.co.kr/@stevepark | 미국 취업 성공기 |  |
 
 ## 국내 팀 사이트
