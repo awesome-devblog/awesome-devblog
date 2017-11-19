@@ -46,9 +46,9 @@ Tag Cloud
 
 | Name | Blog | Description | Others |
 |---|---|---|:---:|
-| 강규영 | http://www.ecogwiki.com/ |  | [![](icons/rss-icon.png)](http://www.ecogwiki.com/sp.posts?_type=atom) |
+| [강규영](people/ecogwiki.md) | http://www.ecogwiki.com/ |  | [![](icons/rss-icon.png)](http://www.ecogwiki.com/sp.posts?_type=atom) |
 | 강관우 | https://brunch.co.kr/@kd4 | Java | [![](icons/rss-icon.png)](https://brunch.co.kr/rss/@@xTa) |
-| 강대명 | https://charsyam.wordpress.com/ | 서버 사이드 | [![](icons/rss-icon.png)](http://charsyam.wordpress.com/feed/) |
+| [강대명](people/charsyam.md) | https://charsyam.wordpress.com/ | 서버 사이드 | [![](icons/rss-icon.png)](http://charsyam.wordpress.com/feed/) |
 | 강동혁 | https://brunch.co.kr/@dongkang | 인디 개발 | [![](icons/rss-icon.png)](https://brunch.co.kr/rss/@@1fY0) |
 | 강명훈 | http://kangmyounghun.blogspot.kr/ | 보안 | [![](icons/rss-icon.png)](http://kangmyounghun.blogspot.com/feeds/posts/default) |
 | 강미경 | http://minieetea.com/ | 기획 | [![](icons/rss-icon.png)](http://minieetea.com/feed) |
@@ -58,7 +58,7 @@ Tag Cloud
 | 강성훈 | http://mearie.org/ | 카일루아 |  |
 | 강성훈 | https://medium.com/@devholic | RxJava |  |
 | 강성희 | https://medium.com/@shaynekang |  |  |
-| 강진우 | https://brunch.co.kr/@alden | Linux |  |
+| [강진우](people/alden.md) | https://brunch.co.kr/@alden | Linux |  |
 | 강태욱 | http://daddynkidsmakers.blogspot.kr/ | IoT | [![](icons/rss-icon.png)](http://daddynkidsmakers.blogspot.com/feeds/posts/default) |
 | 강한별 | https://brunch.co.kr/@cloud09 | 데이터 분석 | [![](icons/rss-icon.png)](https://brunch.co.kr/rss/@@m6q) |
 | 강홍구 | https://wckhg89.github.io | Web | [![](icons/rss-icon.png)](https://wckhg89.github.io/feed.xml) |
@@ -71,7 +71,7 @@ Tag Cloud
 | 곽민수 | https://brunch.co.kr/@imagineer |  |  |
 | 구교준 | http://danielku.com/ |  |  |
 | 구자철 | http://forest71.tistory.com/ |  |  |
-| 구종만 | http://theyearlyprophet.com/ | 알고리즘 |  |
+| [구종만](people/theyearlyprophet.md) | http://theyearlyprophet.com/ | 알고리즘 |  |
 | 권기호 | http://kwongyo.tistory.com/ |  |  |
 | 권남 | http://kwon37xi.egloos.com/ | Java |  |
 | 권동준 | https://mayajuni.github.io/ | Web |  |
@@ -159,7 +159,7 @@ Tag Cloud
 | 김종민 | http://uroa.tistory.com/ |  |  |
 | 김종욱 | http://catlog.kr/ |  |  |
 | 김종인 | http://zzong.net | Java, Spring |  |
-| 김종하 | http://story.wisedog.net/ | 정적분석 |  |
+| [김종하](people/wisedog.md) | http://story.wisedog.net/ | 정적분석 |  |
 | 김종헌 | http://shovelman.tistory.com/ | .NET |  |
 | 김종희 | https://kimpaper.github.io/ | Back-end |  |
 | 김준철 | http://jetalog.net/ | Solr |  |
@@ -272,7 +272,7 @@ Tag Cloud
 | 박일 | http://parkpd.egloos.com/ | 게임 개발 |  |
 | 박재성(자바지기) | http://javajigi.net/ | Java |  |
 | 박재현 | http://wisefree.tistory.com/ | IT 칼럼 |  |
-| 박재호 | http://jhrogue.blogspot.kr/ |  |  |
+| [박재호](people/jhrogue.md) | http://jhrogue.blogspot.kr/ |  |  |
 | 박정규 | http://bagjunggyu.blogspot.kr/ | 리눅스 |  |
 | 박정운 | https://jungwoon.github.io/ |  |  |
 | 박정태 | https://pjt3591oo.github.io/, http://blog.naver.com/pjt3591oo | Back-end, 서버 |  |
@@ -316,7 +316,7 @@ Tag Cloud
 
 | Name | Blog | Description | Others |
 |---|---|---|:---:|
-| 서광열 | http://gamecodingschool.org/ | 게임 개발 |  |
+| [서광열](people/kwangyul.seo.md) | http://gamecodingschool.org/ | 게임 개발 |  |
 | 서민상 | http://blog.naver.com/seo0511 | Arduino |  |
 | 서보룡 | http://inter6.tistory.com/ | OpenStack |  |
 | 서오석 | https://brunch.co.kr/@elijah17 | Java |  |
@@ -412,7 +412,7 @@ Tag Cloud
 | 오정규 | http://ohjeonggyu.github.io/ | Kotlin |  |
 | 오종빈 | http://ohyecloudy.com/doku.php |  |  |
 | 오준석 | https://brunch.co.kr/@hopeless | Android |  |
-| 오현석 | http://www.enshahar.me/ | 스칼라, 스위프트 |  |
+| [오현석](people/enshahar.md) | http://www.enshahar.me/ | 스칼라, 스위프트 |  |
 | 용찬호 | http://blog.naver.com/alice_k106 | Docker |  |
 | 용현택 | http://yonght.tumblr.com/ |  |  |
 | 우웅몬 | https://brunch.co.kr/@wej6688 | UX |  |
@@ -676,7 +676,7 @@ Tag Cloud
 | 한상훈 | https://brunch.co.kr/@skykamja24 |  |  |
 | 한성민 | http://pignose-barn.tumblr.com/ |  |  |
 | 한수연 | https://www.bloter.net/archives/author/again | 보안 |  |
-| 한승훈(kkamagui) | http://kkamagui.tistory.com/ | OS |  |
+| [한승훈(kkamagui)](people/kkamagui.md) | http://kkamagui.tistory.com/ | OS |  |
 | 한영빈 | https://youngbin.xyz/blog/ | Ubuntu |  |
 | 한장현 | http://han41858.tistory.com/ | Web |  |
 | 한재엽 | https://jaeyeophan.github.io/, http://asfirstalways.tistory.com/ |  |  |
@@ -702,7 +702,7 @@ Tag Cloud
 | 황상철 | http://pragmaticstory.com/ | 애자일 |  |
 | 황석주 | http://dolppi.egloos.com/ | 금융공학 |  |
 | 황성재 | https://brunch.co.kr/@uxinventor | 창업 |  |
-| 황준식 | http://jsideas.net/ | Data Science |  |
+| [황준식](people/junkwhinger.md) | http://jsideas.net/ | Data Science |  |
 | 황치규 | https://brunch.co.kr/@delight412 |  |  |
 | 히언 | http://recipes.egloos.com/ | 하드웨어 |  |
 | 현수명 | http://soomong.net/ |  |  |
