@@ -56,7 +56,10 @@
   {
     "name": "강성일",
     "blog": "https://b.luavis.kr/",
-    "description": "Python"
+    "rss": "https://b.luavis.kr/feed.xml",
+    "description": "Python",
+    "facebook": "https://www.facebook.com/luavis",
+    "github": "https://github.com/luavis"
   },
   {
     "name": "강성훈",
@@ -2168,7 +2171,8 @@
   {
     "name": "이홍규",
     "blog": "https://medium.com/@mldevhong",
-    "description": "머신러닝"
+    "description": "머신러닝",
+    "facebook": "https://www.facebook.com/mldevhong"
   },
   {
     "name": "이흥섭",
