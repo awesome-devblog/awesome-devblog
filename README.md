@@ -51,16 +51,17 @@ Tag Cloud
 | [강대명](people/charsyam.md) | https://charsyam.wordpress.com/ | 서버 사이드 | [![](icons/rss-icon.png)](http://charsyam.wordpress.com/feed/) |
 | 강동혁 | https://brunch.co.kr/@dongkang | 인디 개발 | [![](icons/rss-icon.png)](https://brunch.co.kr/rss/@@1fY0) |
 | 강명훈 | http://kangmyounghun.blogspot.kr/ | 보안 | [![](icons/rss-icon.png)](http://kangmyounghun.blogspot.com/feeds/posts/default)[![](icons/google-plus-icon.png)](https://plus.google.com/118273663905921239444) |
-| 강미경 | http://minieetea.com/ | 기획 | [![](icons/rss-icon.png)](http://minieetea.com/feed) |
+| 강미경 | http://minieetea.com/ | 기획 | [![](icons/rss-icon.png)](http://minieetea.com/feed)[![](icons/facebook-icon.png)](https://www.facebook.com/minieetea)[![](icons/twitter-icon.png)](https://twitter.com/minieetea)[![](icons/github-icon.png)](https://github.com/minieetea) |
 | 강병수 | https://01010011.blog/ | DevOps | [![](icons/rss-icon.png)](https://01010011.blog/feed/) |
 | 강병욱 | https://medium.com/@brillante9111 | 라이언봇 | [![](icons/rss-icon.png)](https://medium.com/feed/@brillante9111) |
-| 강성일 | https://b.luavis.kr/ | Python |  |
-| 강성훈 | http://mearie.org/ | 카일루아 |  |
+| 강성일 | https://b.luavis.kr/ | Python | [![](icons/rss-icon.png)](https://b.luavis.kr/feed.xml)[![](icons/facebook-icon.png)](https://www.facebook.com/luavis)[![](icons/github-icon.png)](https://github.com/luavis) |
+| 강성훈 | http://mearie.org/ | 카일루아 | [![](icons/twitter-icon.png)](https://twitter.com/senokay/)[![](icons/github-icon.png)](https://github.com/lifthrasiir/) |
 | 강성훈 | https://medium.com/@devholic | RxJava |  |
 | 강성희 | https://medium.com/@shaynekang |  |  |
 | [강진우](people/alden.md) | https://brunch.co.kr/@alden | Linux |  |
 | 강태욱 | http://daddynkidsmakers.blogspot.kr/ | IoT | [![](icons/rss-icon.png)](http://daddynkidsmakers.blogspot.com/feeds/posts/default) |
 | 강한별 | https://brunch.co.kr/@cloud09 | 데이터 분석 | [![](icons/rss-icon.png)](https://brunch.co.kr/rss/@@m6q) |
+| 강형석 | https://hskang9.github.io/ | 머신러닝 | [![](icons/rss-icon.png)](https://hskang9.github.io/feed.xml)[![](icons/facebook-icon.png)](https://www.facebook.com/hskang960) |
 | 강홍구 | https://wckhg89.github.io | Web | [![](icons/rss-icon.png)](https://wckhg89.github.io/feed.xml) |
 | 경준호 | http://firejune.com/ | Front-end |  |
 | 계주성 | http://kyejusung.com/ |  |  |
@@ -454,6 +455,7 @@ Tag Cloud
 | 이도현 | http://genesis8.tistory.com/ |  |  |
 | 이동규 | http://chandong83.blog.me/ |  |  |
 | 이동련 | http://start.goodtime.co.kr/ |  |  |
+| 이동인 | https://brunch.co.kr/@leedongins | 서버 모니터링 |  |
 | 이동준 | http://javalab.org/ | Java, Math |  |
 | 이동준 | https://dongjunlee.github.io/ |  |  |
 | 이명현 | https://brunch.co.kr/@brightlee |  |  |
@@ -486,6 +488,7 @@ Tag Cloud
 | 이승현 | http://hamait.tistory.com/ |  |  |
 | 이승현 | https://brunch.co.kr/@oemilk | Android |  |
 | 이승훈 | https://brunch.co.kr/@seunghoon82 |  |  |
+| 이영민 | https://brunch.co.kr/@mapthecity | 인공지능 |  |
 | 이영훈 | http://resoliwan.blogspot.kr/ |  |  |
 | 이웅희 | http://woongheelee.com/ |  |  |
 | 이유지 | https://byline.network/author/yjlee/ | IT 뉴스 |  |
@@ -516,7 +519,7 @@ Tag Cloud
 | 이현섭 | http://hyunseob.github.io/ | Web |  |
 | 이호성 | https://brunch.co.kr/@leehosung | 8퍼센트 CTO. 개발 문화 |  |
 | 이호철 | http://hochul.net/blog/ | 데이터 분석 |  |
-| 이홍규 | https://medium.com/@mldevhong | 머신러닝 |  |
+| 이홍규 | https://medium.com/@mldevhong | 머신러닝 | [![](icons/facebook-icon.png)](https://www.facebook.com/mldevhong) |
 | 이흥섭 | http://subl.ee/ | 게임 |  |
 | 이홍식 | http://alex.devpools.kr/ |  |  |
 | 이흥현 | https://medium.com/@maxzidell | tyle.io CTO. Web |  |
@@ -704,7 +707,7 @@ Tag Cloud
 | 황석주 | http://dolppi.egloos.com/ | 금융공학 |  |
 | 황성재 | https://brunch.co.kr/@uxinventor | 창업 |  |
 | [황준식](people/junkwhinger.md) | http://jsideas.net/ | Data Science |  |
-| 황치규 | https://brunch.co.kr/@delight412 |  |  |
+| 황치규 | https://brunch.co.kr/@delight412 | IT 칼럼 |  |
 | 히언 | http://recipes.egloos.com/ | 하드웨어 |  |
 | 현수명 | http://soomong.net/ |  |  |
 | 현승 | http://iam-hs.com/ | 리버싱 |  |
