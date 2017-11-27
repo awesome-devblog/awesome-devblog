@@ -89,6 +89,13 @@
     "description": "데이터 분석"
   },
   {
+    "name": "강형석",
+    "blog": "https://hskang9.github.io/",
+    "rss": "https://hskang9.github.io/feed.xml",
+    "description": "머신러닝",
+    "facebook": "https://www.facebook.com/hskang960"
+  },
+  {
     "name": "강홍구",
     "blog": "https://wckhg89.github.io",
     "rss": "https://wckhg89.github.io/feed.xml",
