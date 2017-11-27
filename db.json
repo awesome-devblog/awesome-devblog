@@ -1836,6 +1836,11 @@
     "description": ""
   },
   {
+    "name": "이동인",
+    "blog": "https://brunch.co.kr/@leedongins",
+    "description": "서버 모니터링"
+  },
+  {
     "name": "이동준",
     "blog": "http://javalab.org/",
     "description": "Java, Math"
