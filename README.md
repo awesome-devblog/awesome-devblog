@@ -59,32 +59,31 @@ Tag Cloud
 | 강성훈 | https://medium.com/@devholic | RxJava |  |
 | 강성희 | https://medium.com/@shaynekang |  |  |
 | [강진우](people/alden.md) | https://brunch.co.kr/@alden | Linux |  |
-| 강태욱 | http://daddynkidsmakers.blogspot.kr/ | IoT | [![](icons/rss-icon.png)](http://daddynkidsmakers.blogspot.com/feeds/posts/default) |
+| 강태욱 | http://daddynkidsmakers.blogspot.kr/ | IoT | [![](icons/rss-icon.png)](http://daddynkidsmakers.blogspot.com/feeds/posts/default)[![](icons/google-plus-icon.png)](https://plus.google.com/112824100259820007072) |
 | 강한별 | https://brunch.co.kr/@cloud09 | 데이터 분석 | [![](icons/rss-icon.png)](https://brunch.co.kr/rss/@@m6q) |
-| 강형석 | https://hskang9.github.io/ | 머신러닝 | [![](icons/rss-icon.png)](https://hskang9.github.io/feed.xml)[![](icons/facebook-icon.png)](https://www.facebook.com/hskang960) |
-| 강홍구 | https://wckhg89.github.io | Web | [![](icons/rss-icon.png)](https://wckhg89.github.io/feed.xml) |
-| 경준호 | http://firejune.com/ | Front-end |  |
-| 계주성 | http://kyejusung.com/ |  |  |
-| 고득녕 | http://blog.naver.com/nackji80/ | 네트워크 |  |
+| 강형석 | https://hskang9.github.io/ | 머신러닝 | [![](icons/rss-icon.png)](https://hskang9.github.io/feed.xml)[![](icons/facebook-icon.png)](https://www.facebook.com/hskang960)[![](icons/github-icon.png)](https://github.com/hskang9) |
+| 강홍구 | https://wckhg89.github.io | Web | [![](icons/rss-icon.png)](https://wckhg89.github.io/feed.xml)[![](icons/github-icon.png)](https://github.com/wckhg89) |
+| 경준호 | http://firejune.com/ | Front-end | [![](icons/rss-icon.png)](https://feeds.feedburner.com/firejune)[![](icons/google-plus-icon.png)](https://plus.google.com/+JoonKyoung)[![](icons/facebook-icon.png)](https://www.facebook.com/firejune)[![](icons/twitter-icon.png)](https://twitter.com/firejune)[![](icons/github-icon.png)](https://github.com/firejune) |
+| 계주성 | http://kyejusung.com/ |  | [![](icons/twitter-icon.png)](https://twitter.com/kyejusung) |
+| 고득녕 | http://blog.naver.com/nackji80/ | 네트워크 | [![](icons/rss-icon.png)](http://blog.rss.naver.com/nackji80.xml) |
 | 고명환 | https://brunch.co.kr/@maru7091 | 스타트업 |  |
 | 고종범 | https://brunch.co.kr/@jbgo | 애자일 |  |
-| 고형호 | http://hhko.tistory.com/ | Functional Programming |  |
-| 곽민수 | https://brunch.co.kr/@imagineer |  |  |
-| 구교준 | http://danielku.com/ |  |  |
-| 구자철 | http://forest71.tistory.com/ |  |  |
-| [구종만](people/theyearlyprophet.md) | http://theyearlyprophet.com/ | 알고리즘 |  |
-| 권기호 | http://kwongyo.tistory.com/ |  |  |
-| 권남 | http://kwon37xi.egloos.com/ | Java |  |
-| 권동준 | https://mayajuni.github.io/ | Web |  |
-| 권민재 | https://mingrammer.com/ | Python |  |
-| 권영재 | https://nesoy.github.io/ |  |  |
-| 권용근 | https://kingbbode.github.io/ | Spring |  |
-| 권용진 | https://brunch.co.kr/@nsung | 퀀트 |  |
-| 권욱제 | http://wookje.dance/ |  |  |
-| 권윤학 | http://web-front-end.tistory.com/ | Web |  |
-| 권장표 | http://willbesomething.com/ | 게임 기획 |  |
-| 권정혁 | http://xguru.net/guru | 개발 트렌드 |  |
-| 권창현 | http://thoughts.chkwon.net/ | 산업공학 |  |
+| 고형호 | http://hhko.tistory.com/ | Functional Programming | [![](icons/rss-icon.png)](http://hhko.tistory.com/rss) |
+| 곽민수 | https://brunch.co.kr/@imagineer |  | [![](icons/facebook-icon.png)](https://www.facebook.com/marcosdeseul/) |
+| 구교준 | http://danielku.com/ | AWS | [![](icons/rss-icon.png)](http://danielku.com/atom.xml)[![](icons/facebook-icon.png)](https://www.facebook.com/kjunine)[![](icons/twitter-icon.png)](https://twitter.com/kjunine)[![](icons/github-icon.png)](https://github.com/kjunine) |
+| 구자철 | http://forest71.tistory.com/ |  | [![](icons/rss-icon.png)](http://forest71.tistory.com/rss) |
+| [구종만](people/theyearlyprophet.md) | http://theyearlyprophet.com/ | 알고리즘 | [![](icons/rss-icon.png)](http://feeds.feedburner.com/theyearlyprophet/GGGO)[![](icons/twitter-icon.png)](https://twitter.com/jongman)[![](icons/github-icon.png)](https://github.com/jongman) |
+| 권기호 | http://kwongyo.tistory.com/ |  | [![](icons/rss-icon.png)](http://kwongyo.tistory.com/rss) |
+| 권남 | http://kwon37xi.egloos.com/ | Java | [![](icons/rss-icon.png)](http://rss.egloos.com/blog/kwon37xi) |
+| 권동준 | https://mayajuni.github.io/ | Web | [![](icons/rss-icon.png)](https://mayajuni.github.io/feed.xml)[![](icons/facebook-icon.png)](https://www.facebook.com/dongjun.kwon.39)[![](icons/github-icon.png)](https://github.com/mayajuni) |
+| 권민재 | https://mingrammer.com/ | Python | [![](icons/rss-icon.png)](https://mingrammer.com/feed.xml)[![](icons/facebook-icon.png)](https://www.facebook.com/mingrammer)[![](icons/twitter-icon.png)](https://twitter.com/mingrammer)[![](icons/github-icon.png)](https://github.com/mingrammer) |
+| 권영재 | https://nesoy.github.io/ |  | [![](icons/rss-icon.png)](https://nesoy.github.io/atom.xml)[![](icons/slideshare-icon.png)](https://www.slideshare.net/YoungJaeKwon3)[![](icons/facebook-icon.png)](https://www.facebook.com/Nesoy92)[![](icons/github-icon.png)](https://github.com/nesoy) |
+| 권용근 | https://kingbbode.github.io/ | Spring | [![](icons/rss-icon.png)](https://kingbbode.github.io/feed.xml)[![](icons/facebook-icon.png)](https://www.facebook.com/kingbbode)[![](icons/github-icon.png)](https://github.com/kingbbode) |
+| 권용진 | https://brunch.co.kr/@nsung | 퀀트 | [![](icons/facebook-icon.png)](https://www.facebook.com/MrJin) |
+| 권욱제 | http://wookje.dance/ |  | [![](icons/facebook-icon.png)](https://www.facebook.com/profile.php?id=100008317802738)[![](icons/github-icon.png)](https://github.com/wookje) |
+| 권윤학 | http://web-front-end.tistory.com/ | Web | [![](icons/github-icon.png)](https://github.com/tienne) |
+| 권정혁 | http://xguru.net/guru | 개발 트렌드 | [![](icons/rss-icon.png)](http://xguru.net/feed)[![](icons/facebook-icon.png)](https://www.facebook.com/xguru)[![](icons/twitter-icon.png)](https://twitter.com/xguru) |
+| 권창현 | http://thoughts.chkwon.net/ | 산업공학 | [![](icons/rss-icon.png)](http://thoughts.chkwon.net/feed/)[![](icons/facebook-icon.png)](https://www.facebook.com/thoughts.chkwon.net)[![](icons/twitter-icon.png)](https://twitter.com/chghyn) |
 | 권태환 | http://thdev.tech/ | Android, Kotlin |  |
 | 김광현(광파리) | http://kwang82.hankyung.com/ | IT 소식 |  |
 | 김국현 | http://goodhyun.com/ | IT 칼럼 |  |
