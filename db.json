@@ -88,46 +88,65 @@
     "name": "강태욱",
     "blog": "http://daddynkidsmakers.blogspot.kr/",
     "rss": "http://daddynkidsmakers.blogspot.com/feeds/posts/default",
-    "description": "IoT"
+    "description": "IoT",
+    "googleplus": "https://plus.google.com/112824100259820007072"
   },
   {
     "name": "강한별",
     "blog": "https://brunch.co.kr/@cloud09",
     "rss": "https://brunch.co.kr/rss/@@m6q",
-    "description": "데이터 분석"
+    "description": "데이터 분석",
+    "linkedin": "https://www.linkedin.com/in/cloud09/"
   },
   {
     "name": "강형석",
     "blog": "https://hskang9.github.io/",
     "rss": "https://hskang9.github.io/feed.xml",
     "description": "머신러닝",
-    "facebook": "https://www.facebook.com/hskang960"
+    "facebook": "https://www.facebook.com/hskang960",
+    "linkedin": "https://www.linkedin.com/in/hyungsuk-kang-5217a7103/",
+    "github": "https://github.com/hskang9",
+    "medium": "https://medium.com/@hyungsukkang",
+    "instagram": "https://www.instagram.com/hyungsuk_k/"
   },
   {
     "name": "강홍구",
     "blog": "https://wckhg89.github.io",
     "rss": "https://wckhg89.github.io/feed.xml",
-    "description": "Web"
+    "description": "Web",
+    "github": "https://github.com/wckhg89",
+    "email": "mailto:wckhg89@gmail.com"
   },
   {
     "name": "경준호",
     "blog": "http://firejune.com/",
-    "description": "Front-end"
+    "rss": "https://feeds.feedburner.com/firejune",
+    "description": "Front-end",
+    "twitter": "https://twitter.com/firejune",
+    "facebook": "https://www.facebook.com/firejune",
+    "googleplus": "https://plus.google.com/+JoonKyoung",
+    "instagram": "https://www.instagram.com/firejune/",
+    "github": "https://github.com/firejune",
+    "linkedin": "https://www.linkedin.com/in/firejune/"
   },
   {
     "name": "계주성",
     "blog": "http://kyejusung.com/",
-    "description": ""
+    "description": "",
+    "twitter": "https://twitter.com/kyejusung",
+    "email": "kyejusung@gmail.com"
   },
   {
     "name": "고득녕",
     "blog": "http://blog.naver.com/nackji80/",
+    "rss": "http://blog.rss.naver.com/nackji80.xml",
     "description": "네트워크"
   },
   {
     "name": "고명환",
     "blog": "https://brunch.co.kr/@maru7091",
-    "description": "스타트업"
+    "description": "스타트업",
+    "email": "maru7091@gmail.com"
   },
   {
     "name": "고종범",
@@ -137,88 +156,138 @@
   {
     "name": "고형호",
     "blog": "http://hhko.tistory.com/",
+    "rss": "http://hhko.tistory.com/rss",
     "description": "Functional Programming"
   },
   {
     "name": "곽민수",
     "blog": "https://brunch.co.kr/@imagineer",
-    "description": ""
+    "description": "",
+    "facebook": "https://www.facebook.com/marcosdeseul/",
+    "youtube": "https://www.youtube.com/channel/UCFV9GoqZGovO_kqpUMJIcUA/"
   },
   {
     "name": "구교준",
     "blog": "http://danielku.com/",
-    "description": ""
+    "rss": "http://danielku.com/atom.xml",
+    "description": "AWS",
+    "email": "mailto:d@nielku.com",
+    "facebook": "https://www.facebook.com/kjunine",
+    "twitter": "https://twitter.com/kjunine",
+    "linkedin": "https://www.linkedin.com/in/kjunine/",
+    "github": "https://github.com/kjunine"
   },
   {
     "name": "구자철",
     "blog": "http://forest71.tistory.com/",
+    "rss": "http://forest71.tistory.com/rss",
     "description": ""
   },
   {
     "name": "구종만",
     "profile": "people/theyearlyprophet.md",
     "blog": "http://theyearlyprophet.com/",
-    "description": "알고리즘"
+    "rss": "http://feeds.feedburner.com/theyearlyprophet/GGGO",
+    "description": "알고리즘",
+    "twitter": "https://twitter.com/jongman",
+    "email": "jongman@gmail.com",
+    "github": "https://github.com/jongman",
+    "linkedin": "https://www.linkedin.com/in/jongman/"
   },
   {
     "name": "권기호",
     "blog": "http://kwongyo.tistory.com/",
+    "rss": "http://kwongyo.tistory.com/rss",
     "description": ""
   },
   {
     "name": "권남",
     "blog": "http://kwon37xi.egloos.com/",
+    "rss": "http://rss.egloos.com/blog/kwon37xi",
     "description": "Java"
   },
   {
     "name": "권동준",
     "blog": "https://mayajuni.github.io/",
-    "description": "Web"
+    "rss": "https://mayajuni.github.io/feed.xml",
+    "description": "Web",
+    "github": "https://github.com/mayajuni",
+    "email": "mailto:mayajuni10@gmail.com",
+    "facebook": "https://www.facebook.com/dongjun.kwon.39"
   },
   {
     "name": "권민재",
     "blog": "https://mingrammer.com/",
-    "description": "Python"
+    "rss": "https://mingrammer.com/feed.xml",
+    "description": "Python",
+    "email": "mailto:k239507@gmail.com",
+    "github": "https://github.com/mingrammer",
+    "medium": "https://medium.com/@mingrammer",
+    "speakerdeck": "https://speakerdeck.com/mingrammer",
+    "facebook": "https://www.facebook.com/mingrammer",
+    "twitter": "https://twitter.com/mingrammer"
   },
   {
     "name": "권영재",
     "blog": "https://nesoy.github.io/",
-    "description": ""
+    "rss": "https://nesoy.github.io/atom.xml",
+    "description": "",
+    "email": "mailto:kyoje11@gmail.com",
+    "github": "https://github.com/nesoy",
+    "facebook": "https://www.facebook.com/Nesoy92",
+    "linkedin": "https://www.linkedin.com/in/young-jae-kwon-3514b3141/",
+    "slideshare": "https://www.slideshare.net/YoungJaeKwon3"
   },
   {
     "name": "권용근",
     "blog": "https://kingbbode.github.io/",
-    "description": "Spring"
+    "rss": "https://kingbbode.github.io/feed.xml",
+    "description": "Spring",
+    "email": "mailto:Kingbbode@gmail.com",
+    "github": "https://github.com/kingbbode",
+    "tistory": "http://kingbbode.tistory.com/",
+    "facebook": "https://www.facebook.com/kingbbode"
   },
   {
     "name": "권용진",
     "blog": "https://brunch.co.kr/@nsung",
-    "description": "퀀트"
+    "description": "퀀트",
+    "facebook": "https://www.facebook.com/MrJin",
+    "linkedin": "https://www.linkedin.com/in/yongjinkwon/"
   },
   {
     "name": "권욱제",
     "blog": "http://wookje.dance/",
-    "description": ""
+    "description": "",
+    "github": "https://github.com/wookje",
+    "email": "mailto:wookje.happy@gmail.com",
+    "boj": "https://www.acmicpc.net/user/wookje",
+    "codeforces": "http://codeforces.com/profile/wookje.happy",
+    "facebook": "https://www.facebook.com/profile.php?id=100008317802738"
   },
   {
     "name": "권윤학",
     "blog": "http://web-front-end.tistory.com/",
-    "description": "Web"
-  },
-  {
-    "name": "권장표",
-    "blog": "http://willbesomething.com/",
-    "description": "게임 기획"
+    "description": "Web",
+    "github": "https://github.com/tienne",
+    "email": "mailto:tienne89@gmail.com"
   },
   {
     "name": "권정혁",
     "blog": "http://xguru.net/guru",
-    "description": "개발 트렌드"
+    "rss": "http://xguru.net/feed",
+    "description": "개발 트렌드",
+    "twitter": "https://twitter.com/xguru",
+    "facebook": "https://www.facebook.com/xguru",
+    "linkedin": "https://www.linkedin.com/in/xguru/"
   },
   {
     "name": "권창현",
     "blog": "http://thoughts.chkwon.net/",
-    "description": "산업공학"
+    "rss": "http://thoughts.chkwon.net/feed/",
+    "description": "산업공학",
+    "facebook": "https://www.facebook.com/thoughts.chkwon.net",
+    "twitter": "https://twitter.com/chghyn"
   },
   {
     "name": "권태환",
