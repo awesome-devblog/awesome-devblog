@@ -822,6 +822,7 @@ Tag Cloud
 | dogfeet | http://dogfeet.github.io/ | 박창우, 이신, 최용재 |
 | eBrain Blog | http://www.ebrain.kr/category/blogs/ | HR |
 | EFL Korea Community] (http://efl.or.kr | EFL, Enlightenment, Tizen |
+| Gitple | http://tech.gitple.io/ | |
 | Google | http://googledevkr.blogspot.kr/ | |
 | IAMROOT | http://www.iamroot.org/ | 리눅스 커널 스터디 그룹 |
 | IT월드 | http://www.itworld.co.kr/ | |
