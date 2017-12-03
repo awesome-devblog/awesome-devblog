@@ -115,7 +115,7 @@
     "rss": "https://wckhg89.github.io/feed.xml",
     "description": "Web",
     "github": "https://github.com/wckhg89",
-    "email": "mailto:wckhg89@gmail.com"
+    "email": "wckhg89@gmail.com"
   },
   {
     "name": "경준호",
@@ -171,7 +171,7 @@
     "blog": "http://danielku.com/",
     "rss": "http://danielku.com/atom.xml",
     "description": "AWS",
-    "email": "mailto:d@nielku.com",
+    "email": "d@nielku.com",
     "facebook": "https://www.facebook.com/kjunine",
     "twitter": "https://twitter.com/kjunine",
     "linkedin": "https://www.linkedin.com/in/kjunine/",
@@ -212,7 +212,7 @@
     "rss": "https://mayajuni.github.io/feed.xml",
     "description": "Web",
     "github": "https://github.com/mayajuni",
-    "email": "mailto:mayajuni10@gmail.com",
+    "email": "mayajuni10@gmail.com",
     "facebook": "https://www.facebook.com/dongjun.kwon.39"
   },
   {
@@ -220,7 +220,7 @@
     "blog": "https://mingrammer.com/",
     "rss": "https://mingrammer.com/feed.xml",
     "description": "Python",
-    "email": "mailto:k239507@gmail.com",
+    "email": "k239507@gmail.com",
     "github": "https://github.com/mingrammer",
     "medium": "https://medium.com/@mingrammer",
     "speakerdeck": "https://speakerdeck.com/mingrammer",
@@ -232,7 +232,7 @@
     "blog": "https://nesoy.github.io/",
     "rss": "https://nesoy.github.io/atom.xml",
     "description": "",
-    "email": "mailto:kyoje11@gmail.com",
+    "email": "kyoje11@gmail.com",
     "github": "https://github.com/nesoy",
     "facebook": "https://www.facebook.com/Nesoy92",
     "linkedin": "https://www.linkedin.com/in/young-jae-kwon-3514b3141/",
@@ -243,7 +243,7 @@
     "blog": "https://kingbbode.github.io/",
     "rss": "https://kingbbode.github.io/feed.xml",
     "description": "Spring",
-    "email": "mailto:Kingbbode@gmail.com",
+    "email": "Kingbbode@gmail.com",
     "github": "https://github.com/kingbbode",
     "tistory": "http://kingbbode.tistory.com/",
     "facebook": "https://www.facebook.com/kingbbode"
@@ -260,7 +260,7 @@
     "blog": "http://wookje.dance/",
     "description": "",
     "github": "https://github.com/wookje",
-    "email": "mailto:wookje.happy@gmail.com",
+    "email": "wookje.happy@gmail.com",
     "boj": "https://www.acmicpc.net/user/wookje",
     "codeforces": "http://codeforces.com/profile/wookje.happy",
     "facebook": "https://www.facebook.com/profile.php?id=100008317802738"
@@ -270,7 +270,7 @@
     "blog": "http://web-front-end.tistory.com/",
     "description": "Web",
     "github": "https://github.com/tienne",
-    "email": "mailto:tienne89@gmail.com"
+    "email": "tienne89@gmail.com"
   },
   {
     "name": "권정혁",
@@ -292,7 +292,12 @@
   {
     "name": "권태환",
     "blog": "http://thdev.tech/",
-    "description": "Android, Kotlin"
+    "rss": "http://thdev.tech/feed.xml",
+    "description": "Android, Kotlin",
+    "email": "taehwan@thdev.tech",
+    "github": "https://github.com/taehwandev",
+    "twitter": "https://twitter.com/cafe_k",
+    "linkedin": "https://www.linkedin.com/in/taehwankwon/"
   },
   {
     "name": "김광현(광파리)",
@@ -302,7 +307,9 @@
   {
     "name": "김국현",
     "blog": "http://goodhyun.com/",
-    "description": "IT 칼럼"
+    "rss": "http://feeds.feedburner.com/goodhyun",
+    "description": "IT 칼럼",
+    "twitter": "https://twitter.com/goodhyun"
   },
   {
     "name": "김길호",
@@ -317,37 +324,64 @@
   {
     "name": "김남윤",
     "blog": "https://cheese10yun.github.io/",
-    "description": "Javascript, Node.JS"
+    "rss": "https://cheese10yun.github.io/feed.xml",
+    "description": "Javascript, Node.JS",
+    "github": "https://github.com/cheese10yun",
+    "email": "cheese10yun@gmail.com"
   },
   {
     "name": "김남훈",
     "blog": "http://namhoon.kim/",
-    "description": "Jekyll"
+    "rss": "http://namhoon.kim/rss",
+    "description": "Jekyll, Firebase Korea",
+    "github": "https://github.com/mydamyda",
+    "email": "mydamyda1032@gmail.com"
   },
   {
     "name": "김놀부",
-    "blog": "http://nolboo.github.io/",
-    "description": "번역 모음"
+    "blog": "https://nolboo.kim/",
+    "rss": "https://nolboo.kim/feed.xml",
+    "description": "번역 모음",
+    "github": "https://github.com/nolboo",
+    "email": "nolboo.kim@gmail.com"
   },
   {
     "name": "김대권",
     "blog": "http://nacyot.com/",
-    "description": ""
+    "rss": "http://blog.nacyot.com/feed.xml",
+    "description": "",
+    "github": "https://github.com/nacyot",
+    "twitter": "https://twitter.com/nacyo_t",
+    "linkedin": "https://www.linkedin.com/in/nacyot/",
+    "slideshare": "https://www.slideshare.net/ext",
+    "googleplus": "https://plus.google.com/+KimDaekwon",
+    "stackoverflow": "https://stackoverflow.com/users/2689714/nacyot"
   },
   {
     "name": "김대기",
     "blog": "http://daegikim.github.io/",
-    "description": "Web"
+    "rss": "http://daegi.kim/feed",
+    "description": "Web",
+    "github": "https://github.com/DaegiKim",
+    "facebook": "https://www.facebook.com/DaegiKimmm",
+    "linkedin": "https://www.linkedin.com/in/daegi-kim-6b23045b/",
+    "stackoverflow": "https://stackoverflow.com/users/2438290/daegikim",
+    "strava": "https://www.strava.com/athletes/8753337"
   },
   {
     "name": "김대현",
     "blog": "http://hatemogi.com/",
-    "description": "백엔드"
+    "description": "백엔드",
+    "github": "https://github.com/hatemogi",
+    "twitter": "https://twitter.com/hatemogi",
+    "medium": "https://medium.com/@hatemogi"
   },
   {
     "name": "김덕홍",
     "blog": "http://insanehong.kr/",
-    "description": ""
+    "rss": "http://insanehong.kr/rss.xml",
+    "description": "",
+    "twitter": "https://twitter.com/insanehong"
   },
   {
     "name": "김도곤",
@@ -357,6 +391,7 @@
   {
     "name": "김도균",
     "blog": "http://www.dokyun.pe.kr/",
+    "rss": "http://www.dokyun.pe.kr/rss",
     "description": ""
   },
   {
@@ -367,21 +402,29 @@
   {
     "name": "김래곤",
     "blog": "http://raegon.kim/",
-    "description": ""
+    "rss": "http://raegon.kim/atom.xml",
+    "description": "",
+    "github": "https://github.com/raycon",
+    "email": "raegon@gmail.com"
   },
   {
     "name": "김만수",
     "blog": "https://mansoo-sw.blogspot.kr/",
+    "rss": "https://mansoo-sw.blogspot.com/feeds/posts/default",
     "description": ""
   },
   {
     "name": "김명신",
     "blog": "http://himskim.egloos.com/",
-    "description": ""
+    "rss": "http://rss.egloos.com/blog/himskim",
+    "description": "Microsoft",
+    "facebook": "https://www.facebook.com/himskim",
+    "twitter": "https://twitter.com/himskim"
   },
   {
     "name": "김명주",
     "blog": "http://blog.naver.com/bansuk78",
+    "rss": "http://blog.rss.naver.com/bansuk78.xml",
     "description": "Lagom"
   },
   {
@@ -392,7 +435,9 @@
   {
     "name": "김민서",
     "blog": "http://blog.naver.com/mseokim011117",
-    "description": "Swift"
+    "rss": "http://blog.rss.naver.com/mseokim011117.xml",
+    "description": "Swift",
+    "github": "github.com/mseokim"
   },
   {
     "name": "김민석",
@@ -402,7 +447,12 @@
   {
     "name": "김민수",
     "blog": "http://www.kmshack.kr/",
-    "description": "안드로이드"
+    "description": "안드로이드",
+    "github": "https://github.com/kmshack",
+    "facebook": "https://www.facebook.com/kmshack",
+    "twitter": "https://twitter.com/kmshack_kr",
+    "linkedin": "https://www.linkedin.com/in/kmshack/",
+    "email": "kmshack@naver.com"
   },
   {
     "name": "김민수",
