@@ -710,6 +710,7 @@ Tag Cloud
 | 황석주 | http://dolppi.egloos.com/ | 금융공학 |  |
 | 황성재 | https://brunch.co.kr/@uxinventor | 창업 |  |
 | [황준식](people/junkwhinger.md) | http://jsideas.net/ | Data Science |  |
+| 황지현 | http://jhhwang4195.tistory.com/ | NFV, 5G, Devops |  |
 | 황치규 | https://brunch.co.kr/@delight412 | IT 칼럼 |  |
 | 히언 | http://recipes.egloos.com/ | 하드웨어 |  |
 | 현수명 | http://soomong.net/ |  |  |
