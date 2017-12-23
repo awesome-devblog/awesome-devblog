@@ -150,12 +150,12 @@ Tag Cloud
 | 김원일 | http://androidkr.blogspot.kr/ | 안드로이드 | [![](icons/rss-icon.png)](https://androidkr.blogspot.com/feeds/posts/default) |
 | 김인기 | http://ingeec.tistory.com/ | Web | [![](icons/rss-icon.png)](http://ingeec.tistory.com/rss)[![](icons/twitter-icon.png)](https://twitter.com/ingeekim) |
 | 김인숙 | http://webholic.net/ | Web | [![](icons/rss-icon.png)](http://webholic.net/feed/) |
-| 김정원 | https://swtpumpkin.github.io/ | Javascript, Node |[![](icons/facebook-icon.png)](https://www.facebook.com/kim.jeongwon.9)[![](icons/github-icon.png)](https://github.com/swtpumpkin)|
-| 김정환 | http://blog.jeonghwan.net/ | Javascript, Node | [![](icons/rss-icon.png)](http://blog.jeonghwan.net/feed.xml)[![](icons/github-icon.png)](https://github.com/jeonghwan-kim) |
 | 김재국 | https://jaigouk.com/ |  | [![](icons/rss-icon.png)](https://jaigouk.com/rss/)[![](icons/twitter-icon.png)](https://twitter.com/jaigouk)[![](icons/github-icon.png)](https://github.com/jaigouk) |
 | 김재원 | https://jaewonism.com/ | Front-end |  |
 | 김재호 | http://www.benjaminlog.com/ | C++ | [![](icons/rss-icon.png)](http://feeds.feedburner.com/crazytazo?format=xml)[![](icons/github-icon.png)](https://github.com/BenjaminKim) |
+| 김정원 | https://swtpumpkin.github.io/ | Javascript, Node | [![](icons/facebook-icon.png)](https://www.facebook.com/kim.jeongwon.9)[![](icons/github-icon.png)](https://github.com/swtpumpkin) |
 | 김정헌 | http://feelteller.com/ | Android | [![](icons/rss-icon.png)](http://www.feelteller.com/rss) |
+| 김정환 | http://blog.jeonghwan.net/ | Javascript, Node | [![](icons/rss-icon.png)](http://blog.jeonghwan.net/feed.xml)[![](icons/github-icon.png)](https://github.com/jeonghwan-kim) |
 | 김종민 | http://blog.cmiscm.com/ | 인터렉티브 디벨로퍼 | [![](icons/rss-icon.png)](http://blog.cmiscm.com/?feed=rss2)[![](icons/twitter-icon.png)](https://twitter.com/cmiscm) |
 | 김종민 | http://uroa.tistory.com/ |  | [![](icons/rss-icon.png)](http://uroa.tistory.com/rss) |
 | 김종욱 | http://catlog.kr/ |  |  |
@@ -239,42 +239,41 @@ Tag Cloud
 | Name | Blog | Description | Social |
 |---|---|---|---|
 | 마경욱 | https://brunch.co.kr/@kyeongwook-ma | 스타트업 | [![](icons/rss-icon.png)](https://brunch.co.kr/rss/@@JJj) |
-| 모상우 | https://brunch.co.kr/@aidenswmo |  |  |
-| 문동선 | http://dsmoon.tistory.com/ | 머신러닝 |  |
-| 문준영 | https://brunch.co.kr/@moonjoonyoung |  |  |
+| 모상우 | https://brunch.co.kr/@aidenswmo |  | [![](icons/rss-icon.png)](https://brunch.co.kr/rss/@@FOY) |
+| 문동선 | http://dsmoon.tistory.com/ | 머신러닝 | [![](icons/rss-icon.png)](http://dsmoon.tistory.com/rss) |
+| 문준영 | https://brunch.co.kr/@moonjoonyoung |  | [![](icons/facebook-icon.png)](https://www.facebook.com/moonj) |
 | 문형환 | http://blog.lael.be/ |  |  |
 
 ### ᄇ
 
 | Name | Blog | Description | Social |
 |---|---|---|---|
-| 박경욱 | https://kyungw00k.github.io/ |  |  |
-| 박경준 | https://ryanpark.me/ |  |  |
-| 박경훈(HOONS) | http://hoonsbara.tistory.com/ | 닷넷 |  |
-| 박민 | https://isme2n.github.io/ | Front-end |  |
-| 박민근(알콜코더) | http://blog.naver.com/agebreak | 게임 개발 |  |
-| 박민우 | http://earlybird.kr/ | Realm |  |
-| 박상권 | http://gun0912.tistory.com/ | Android |  |
-| 박상근 | http://parksk.tistory.com/ |  |  |
-| 박상길 | http://likejazz.com/ |  |  |
-| 박상민 | https://sangminpark.wordpress.com/ |  |  |
-| 박상일 | https://tkddlf59.github.io/ | AWS |  |
-| 박상훈 | https://brunch.co.kr/@sanghoonpak | 인도네시아 IT 소식 |  |
-| 박성철 | http://blog.fupfin.com/ | Java |  |
-| 박석제 | https://parkseokje.github.io/ |  |  |
-| 박성현 | https://helloworldpark.github.io/ |  |  |
-| 박연오 | https://bakyeono.net/ | Python |  |
-| 박영록 | http://youngrok.com/ | 위키나무 |  |
-| 박용권 | https://brunch.co.kr/@arawn |  |  |
+| 박경욱 | https://kyungw00k.github.io/ |  | [![](icons/rss-icon.png)](https://kyungw00k.github.io/atom.xml)[![](icons/twitter-icon.png)](https://twitter.com/kyungw00k)[![](icons/github-icon.png)](https://github.com/kyungw00k) |
+| 박경준 | https://ryanpark.me/ | Domain Driven Design | [![](icons/rss-icon.png)](https://ryanpark.me/feed.xml)[![](icons/facebook-icon.png)](https://www.facebook.com/kyungjun.park.77)[![](icons/github-icon.png)](https://github.com/ryanpark91) |
+| 박경훈(HOONS) | http://hoonsbara.tistory.com/ | 닷넷 | [![](icons/rss-icon.png)](http://hoonsbara.tistory.com/rss)[![](icons/slideshare-icon.png)](https://www.slideshare.net/hoonsbara)[![](icons/facebook-icon.png)](https://www.facebook.com/hoonsbara)[![](icons/twitter-icon.png)](https://twitter.com/_hoons) |
+| 박민 | https://isme2n.github.io/ | Front-end | [![](icons/rss-icon.png)](https://isme2n.github.io/feed.xml)[![](icons/facebook-icon.png)](https://www.facebook.com/zooqzqz)[![](icons/github-icon.png)](https://github.com/isme2n) |
+| 박민근(알콜코더) | http://blog.naver.com/agebreak | 게임 개발 | [![](icons/rss-icon.png)](http://agebreak.blog.me/rss) |
+| 박민우 | http://earlybird.kr/ | Realm | [![](icons/rss-icon.png)](http://earlybird.kr/feed)[![](icons/slideshare-icon.png)](https://www.slideshare.net/tebica)[![](icons/twitter-icon.png)](https://twitter.com/tebica) |
+| 박상권 | http://gun0912.tistory.com/ | Android | [![](icons/rss-icon.png)](http://gun0912.tistory.com/rss) |
+| 박상근 | http://parksk.tistory.com/ |  | [![](icons/rss-icon.png)](http://parksk.tistory.com/rss) |
+| 박상길 | http://likejazz.com/ |  | [![](icons/rss-icon.png)](http://likejazz.com/rss) |
+| 박상민 | https://sangminpark.blog/ |  | [![](icons/rss-icon.png)](http://sangminpark.wordpress.com/feed/)[![](icons/twitter-icon.png)](https://twitter.com/sm_park)[![](icons/github-icon.png)](https://github.com/sangmin) |
+| 박상일 | https://tkddlf59.github.io/ | AWS | [![](icons/facebook-icon.png)](https://www.facebook.com/tkddlf59)[![](icons/github-icon.png)](https://github.com/tkddlf59) |
+| 박상훈 | https://brunch.co.kr/@sanghoonpak | 인도네시아 IT 소식 | [![](icons/rss-icon.png)](https://brunch.co.kr/rss/@@v0n) |
+| 박성철 | http://blog.fupfin.com/ | Java | [![](icons/rss-icon.png)](http://blog.fupfin.com/?feed=rss2) |
+| 박석제 | https://parkseokje.github.io/ |  | [![](icons/rss-icon.png)](https://parkseokje.github.io/atom.xml)[![](icons/google-plus-icon.png)](https://plus.google.com/u/0/110593671217098784885)[![](icons/twitter-icon.png)](https://twitter.com/PSJ1407)[![](icons/github-icon.png)](https://github.com/Parkseokje) |
+| 박성현 | https://helloworldpark.github.io/ | Graphics | [![](icons/rss-icon.png)](https://helloworldpark.github.io/feed.xml)[![](icons/github-icon.png)](https://github.com/helloworldpark) |
+| 박연오 | https://bakyeono.net/ | Python | [![](icons/rss-icon.png)](http://feeds.feedburner.com/bakyeono)[![](icons/github-icon.png)](https://github.com/bakyeono) |
+| 박영록 | http://youngrok.com/ | 위키나무 | [![](icons/facebook-icon.png)](https://www.facebook.com/pakyoungrok)[![](icons/twitter-icon.png)](https://twitter.com/pakyoungrok) |
+| 박용권 | https://brunch.co.kr/@arawn |  | [![](icons/rss-icon.png)](https://brunch.co.kr/rss/@@14mT) |
 | 박용서 | https://gs.saro.me |  |  |
-| 박은정 | https://www.lucypark.kr/ | 데이터 과학 | [![](icons/rss-icon.png)](http://feeds.feedburner.com/e9t) |
-| 박은환 | http://dainelpark.github.io/ |  |  |
-| 박인 | https://brunch.co.kr/@lynnata | 디지털 노마드 |  |
-| 박일 | http://parkpd.egloos.com/ | 게임 개발 |  |
+| 박은정 | https://www.lucypark.kr/ | 데이터 과학 | [![](icons/rss-icon.png)](http://feeds.feedburner.com/e9t)[![](icons/twitter-icon.png)](https://twitter.com/echojuliett)[![](icons/github-icon.png)](https://github.com/e9t) |
+| 박인 | https://brunch.co.kr/@lynnata | 디지털 노마드 | [![](icons/rss-icon.png)](https://brunch.co.kr/rss/@@1W2S) |
+| 박일 | http://parkpd.egloos.com/ | 게임 개발 | [![](icons/rss-icon.png)](http://rss.egloos.com/blog/parkpd)[![](icons/twitter-icon.png)](https://twitter.com/rigmania) |
 | 박재성(자바지기) | http://javajigi.net/ | Java |  |
-| 박재현 | http://wisefree.tistory.com/ | IT 칼럼 |  |
-| [박재호](people/jhrogue.md) | http://jhrogue.blogspot.kr/ |  |  |
-| 박정규 | http://bagjunggyu.blogspot.kr/ | 리눅스 |  |
+| 박재현 | http://wisefree.tistory.com/ | IT 칼럼 | [![](icons/rss-icon.png)](http://wisefree.tistory.com/rss) |
+| [박재호](people/jhrogue.md) | http://jhrogue.blogspot.kr/ | 빅데이터, 인공지능 | [![](icons/rss-icon.png)](http://feeds.feedburner.com/blogspot/ASpE) |
+| 박정규 | http://bagjunggyu.blogspot.kr/ | 리눅스 | [![](icons/rss-icon.png)](http://bagjunggyu.blogspot.com/feeds/posts/default?alt=rss)[![](icons/google-plus-icon.png)](https://plus.google.com/+bagjunggyu) |
 | 박정운 | https://jungwoon.github.io/ |  |  |
 | 박정태 | https://pjt3591oo.github.io/, http://blog.naver.com/pjt3591oo | Back-end, 서버 |  |
 | 박종명 | http://m.mkexdev.net/ |  |  |
