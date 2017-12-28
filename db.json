@@ -1250,12 +1250,14 @@
   {
     "name": "문준영",
     "blog": "https://brunch.co.kr/@moonjoonyoung",
+    "rss": "https://brunch.co.kr/atom/@@2o8u",
     "description": "",
     "facebook": "https://www.facebook.com/moonj"
   },
   {
     "name": "문형환",
     "blog": "http://blog.lael.be/",
+    "rss": "http://blog.lael.be/feed",
     "description": ""
   },
   {
@@ -1450,302 +1452,418 @@
   {
     "name": "박정운",
     "blog": "https://jungwoon.github.io/",
-    "description": ""
+    "rss": "https://jungwoon.github.io/feed.xml",
+    "description": "Android",
+    "twitter": "https://twitter.com/byPJW",
+    "facebook": "https://www.facebook.com/byjw.park",
+    "github": "https://github.com/jungwoon",
+    "linkedin": "https://www.linkedin.com/in/jungwoon-park-a6505966/"
   },
   {
     "name": "박정태",
     "blog": "https://pjt3591oo.github.io/, http://blog.naver.com/pjt3591oo",
-    "description": "Back-end, 서버"
+    "rss": "http://blog.rss.naver.com/pjt3591oo.xml",
+    "description": "Back-end, 서버",
+    "github": "https://github.com/pjt3591oo",
+    "facebook": "https://www.facebook.com/profile.php?id=100003874674961",
+    "stackoverflow": "https://stackoverflow.com/story/mung"
   },
   {
     "name": "박종명",
     "blog": "http://m.mkexdev.net/",
-    "description": ""
+    "rss": "http://m.mkexdev.net/rss",
+    "description": "기술사",
+    "twitter": "https://twitter.com/mkex"
   },
   {
     "name": "박종영",
     "blog": "https://medium.com/@mocona",
-    "description": "iOS"
+    "rss": "https://medium.com/feed/@mocona",
+    "description": "iOS",
+    "facebook": "https://www.facebook.com/abraham.park.923"
   },
   {
     "name": "박준규",
     "blog": "https://brunch.co.kr/@kospoll-lab",
+    "rss": "https://brunch.co.kr/rss/@@301t",
     "description": "인공지능"
   },
   {
     "name": "박준규",
     "blog": "https://brunch.co.kr/@nattybear",
+    "rss": "https://brunch.co.kr/rss/@@1noz",
     "description": ""
   },
   {
     "name": "박준호",
     "blog": "http://junojunho.com/",
+    "rss": "http://junojunho.com/feed.xml",
     "description": "Front-end"
   },
   {
     "name": "박지수",
     "blog": "https://medium.com/@JisuPark",
-    "description": ""
+    "rss": "https://medium.com/feed/@JisuPark",
+    "description": "",
+    "linkedin": "https://www.linkedin.com/in/jisupark91/",
+    "facebook": "https://www.facebook.com/catm1nt",
+    "twitter": "https://twitter.com/catm1nt"
   },
   {
     "name": "박지홍",
     "blog": "https://medium.com/@ggikko",
-    "description": "RxJava"
+    "rss": "https://medium.com/feed/@ggikko",
+    "description": "RxJava",
+    "github": "https://github.com/ggikko"
   },
   {
     "name": "박진서",
     "blog": "http://jasonpark.me/",
-    "description": ""
+    "description": "Algorithm",
+    "github": "https://github.com/parkjs814"
   },
   {
     "name": "박진우",
     "blog": "https://www.jinpark.net/",
-    "description": ""
+    "rss": "https://www.jinpark.net/feed.xml",
+    "description": "",
+    "github": "https://github.com/jinpark"
   },
   {
     "name": "박찬민",
     "blog": "https://walkinpcm.blogspot.kr/",
-    "description": ""
+    "rss": "https://walkinpcm.blogspot.com/feeds/posts/default",
+    "description": "AWS",
+    "googleplus": "https://plus.google.com/106450018792404056023",
+    "linkedin": "https://www.linkedin.com/in/chanminpark/"
   },
   {
     "name": "박찬욱",
     "blog": "http://chanwookpark.github.io/",
-    "description": "Back-end"
+    "description": "Back-end",
+    "github": "https://github.com/chanwookpark",
+    "facebook": "https://www.facebook.com/chanwook.park.1",
+    "linkedin": "https://www.linkedin.com/in/chanwook-park-47304148"
   },
   {
     "name": "박해선",
     "blog": "https://tensorflow.blog/",
-    "description": "TensorFlow"
-  },
-  {
-    "name": "박현기",
-    "blog": "http://blog.tylenol.goopy.kr/",
-    "description": "Kotlin"
-  },
-  {
-    "name": "박현우",
-    "blog": "http://lqez.github.io/",
-    "description": ""
+    "rss": "https://tensorflow.blog/feed/",
+    "description": "TensorFlow",
+    "github": "https://github.com/rickiepark",
+    "facebook": "https://www.facebook.com/haesunrpark",
+    "linkedin": "https://www.linkedin.com/in/rickypark/"
   },
   {
     "name": "박훈",
     "blog": "http://1ambda.github.io/",
-    "description": "함수형 언어"
+    "rss": "http://1ambda.github.io/rss/",
+    "description": "함수형 언어",
+    "linkedin": "https://www.linkedin.com/in/1ambda/",
+    "github": "https://github.com/1ambda"
   },
   {
     "name": "박희근",
     "blog": "http://sirini.net/grboard2/blog",
-    "description": ""
+    "rss": "http://sirini.net/grboard2/blog/rss",
+    "description": "GR BOARD"
   },
   {
     "name": "박희찬",
     "blog": "https://blog.chann.kr/",
-    "description": ""
+    "rss": "https://blog.chann.kr/index.xml",
+    "description": "",
+    "github": "https://github.com/channprj",
+    "twitter": "https://twitter.com/channprj",
+    "instagram": "https://www.instagram.com/channprj/"
   },
   {
     "name": "방준영",
     "blog": "http://bangjunyoung.blogspot.kr/",
+    "rss": "http://feeds.feedburner.com/junyoung?format=xml",
     "description": "Java"
   },
   {
     "name": "배기홍",
     "blog": "http://www.thestartupbible.com/",
-    "description": "IT 칼럼"
+    "rss": "http://feeds.feedburner.com/baenefit/slXh",
+    "description": "IT 칼럼",
+    "twitter": "https://twitter.com/khbae"
   },
   {
     "name": "배성혁",
     "blog": "http://debop.tumblr.com/",
+    "rss": "http://debop.tumblr.com/rss",
     "description": "스칼라"
   },
   {
     "name": "배진호",
     "blog": "https://medium.com/@baejinho/",
-    "description": "스타트업"
+    "rss": "https://medium.com/feed/@baejinho",
+    "description": "스타트업, 치킨모임",
+    "facebook": "https://www.facebook.com/bae.jinho.3"
   },
   {
     "name": "백재연",
     "blog": "http://jybaek.tistory.com/",
-    "description": "Cloud"
+    "rss": "http://jybaek.tistory.com/rss",
+    "description": "Cloud",
+    "github": "https://github.com/jybaek",
+    "facebook": "https://www.facebook.com/WeGuardia",
+    "stackoverflow": "https://stackoverflow.com/users/4599185/jaeyeon-baek"
   },
   {
     "name": "백종찬",
     "blog": "https://brunch.co.kr/@jeffpaik",
+    "rss": "https://brunch.co.kr/rss/@@CHl",
     "description": "블록체인"
   },
   {
     "name": "백기선",
     "blog": "http://whiteship.me/",
-    "description": "Java"
+    "rss": "http://whiteship.me/?feed=rss2",
+    "description": "Java, Spring"
   },
   {
     "name": "백명석",
     "blog": "https://brunch.co.kr/@cleancode",
+    "rss": "https://brunch.co.kr/rss/@@2xm",
     "description": "Java, OOP"
   },
   {
     "name": "백영진",
     "blog": "http://koreaceladon.tistory.com/",
-    "description": "Storage"
+    "rss": "http://koreaceladon.tistory.com/rss",
+    "description": "Storage",
+    "facebook": "https://www.facebook.com/Apheleia"
   },
   {
     "name": "범이",
     "blog": "http://blog.daum.net/funfunction",
+    "rss": "http://blog.daum.net/xml/rss/funfunction",
     "description": "FP"
   },
   {
-    "name": "변정훈",
+    "name": "변정훈(Outsider)",
     "blog": "http://blog.outsider.ne.kr/",
-    "description": "Web"
+    "rss": "http://feeds.feedburner.com/rss_outsider_dev?format=xml",
+    "description": "Web",
+    "github": "https://github.com/outsideris",
+    "twitter": "https://twitter.com/outsideris",
+    "facebook": "https://www.facebook.com/jeonghoon.byun",
+    "linkedin": "https://www.linkedin.com/in/jeonghun-byeon-5745b717/"
   },
   {
     "name": "변수민",
     "blog": "http://blog.suminb.com/",
-    "description": ""
+    "rss": "http://blog.suminb.com/feed.xml",
+    "description": "",
+    "github": "https://github.com/suminb",
+    "twitter": "https://twitter.com/suminb"
   },
   {
     "name": "Steve Park",
     "blog": "https://brunch.co.kr/@stevepark",
+    "rss": "https%3A%2F%2Fbrunch.co.kr%2Frss%2F%40%40Aex",
     "description": "미국 취업 성공기"
   },
   {
     "name": "서광열",
     "profile": "people/kwangyul.seo.md",
     "blog": "http://gamecodingschool.org/",
-    "description": "게임 개발"
+    "rss": "http://gamecodingschool.org/feed/",
+    "description": "게임 개발",
+    "twitter": "https://twitter.com/kwangyulseo",
+    "github": "https://github.com/kseo/"
   },
   {
     "name": "서민상",
     "blog": "http://blog.naver.com/seo0511",
+    "rss": "https://rss.blog.naver.com/seo0511.xml",
     "description": "Arduino"
   },
   {
     "name": "서보룡",
     "blog": "http://inter6.tistory.com/",
-    "description": "OpenStack"
+    "rss": "http://inter6.tistory.com/rss",
+    "description": "OpenStack",
+    "github": "https://github.com/inter6"
   },
   {
     "name": "서오석",
     "blog": "https://brunch.co.kr/@elijah17",
+    "rss": "https://brunch.co.kr/rss/@@2YE",
     "description": "Java"
   },
   {
     "name": "서인석",
     "blog": "http://isseo90.tistory.com/",
+    "rss": "http://isseo90.tistory.com/rss",
     "description": "디자인"
   },
   {
-    "name": "서주영",
+    "name": "서주영(천재태지)",
     "blog": "http://seoz.com/",
-    "description": "타이젠"
+    "rss": "http://rss.egloos.com/blog/seoz",
+    "description": "EFL, 타이젠",
+    "facebook": "https://www.facebook.com/seojuyung",
+    "twitter": "https://twitter.com/seojuyung",
+    "googleplus": "https://plus.google.com/+DanielJuyungSeo",
+    "slideshare": "https://www.slideshare.net/seojuyung",
+    "linkedin": "https://www.linkedin.com/in/daniel-juyung-seo-845a9816/",
+    "youtube": "https://www.youtube.com/user/DanielJuyungSeo/",
+    "stackoverflow": "https://stackoverflow.com/users/3458104/seoz"
   },
   {
     "name": "서창욱",
     "blog": "http://scw0531.blog.me/",
-    "description": ""
+    "rss": "http://scw0531.blog.me/rss",
+    "description": "IoT"
   },
   {
     "name": "서한교",
-    "blog": "https://brunch.co.kr/@zalhanilll",
+    "blog": "zalhan.kr",
+    "rss": "https://brunch.co.kr/rss/@@24xs",
     "description": "디자인"
   },
   {
     "name": "성대경",
     "blog": "http://healthydeveloper.tistory.com/",
+    "rss": "http://healthydeveloper.tistory.com/rss",
     "description": "Algorithm"
   },
   {
     "name": "성동찬",
     "blog": "http://gywn.net/",
+    "rss": "http://gywn.net/feed/",
     "description": "Database"
-  },
-  {
-    "name": "손병대",
-    "blog": "http://miconblog.com/",
-    "description": "Front-end"
   },
   {
     "name": "손승하",
     "blog": "http://sonseungha.tistory.com/",
+    "rss": "http://sonseungha.tistory.com/rss",
     "description": "Linux"
   },
   {
     "name": "손영수(arload)",
     "blog": "https://arload.wordpress.com/",
+    "rss": "https://arload.wordpress.com/feed/",
     "description": "개발방법론, Android"
   },
   {
     "name": "손찬욱",
     "blog": "https://sculove.github.io/blog/",
-    "description": "Web"
+    "rss": "https://sculove.github.io/blog/rss2.xml",
+    "description": "Web",
+    "linkedin": "https://www.linkedin.com/in/chan-uk-son-8989ba56/",
+    "github": "https://github.com/sculove",
+    "facebook": "https://www.facebook.com/chanuk.son",
+    "youtube": "https://www.youtube.com/user/sculoveKor"
   },
   {
     "name": "송기원",
     "blog": "http://blog.naver.com/agilesoft",
-    "description": ""
+    "rss": "https://rss.blog.naver.com/agilesoft.xml",
+    "description": "Front-end"
   },
   {
     "name": "송민승",
     "blog": "https://brunch.co.kr/@minseungsong",
+    "rss": "https://brunch.co.kr/rss/@@SN6",
     "description": "실리콘밸리"
+  },
+  {
+    "name": "송석호",
+    "blog": "https://devsdk.github.io/",
+    "rss": "https://devsdk.github.io/feed.xml",
+    "description": "OS",
+    "facebook": "https://www.facebook.com/profile.php?id=100006277740856",
+    "linkedin": "https://www.linkedin.com/in/%EC%84%9D%ED%98%B8-%EC%86%A1-81a999135/",
+    "github": "https://github.com/devsdk"
+
+  },
+  {
+    "name": "송성광",
+    "blog": "http://blog.saltfactory.net/",
+    "rss": "http://blog.saltfactory.net/feed",
+    "description": "Ghost, AWS",
+    "github": "https://github.com/saltfactory",
+    "twitter": "https://twitter.com/saltfactory",
+    "facebook": "https://www.facebook.com/salthub",
+    "googleplus": "https://plus.google.com/+SungKwangSong",
+    "linkedin": "https://www.linkedin.com/in/saltfactory/"
   },
   {
     "name": "송영길",
     "blog": "https://youngsong.com/",
+    "rss": "http://youngsong.com/feed/",
     "description": "창업"
   },
   {
     "name": "송영환",
     "blog": "https://purluno.wordpress.com/",
-    "description": "Akka"
+    "rss": "http://purluno.wordpress.com/feed/",
+    "description": "Akka",
+    "twitter": "https://twitter.com/purluno/",
+    "github": "https://github.com/purluno/",
+    "youtube": "https://www.youtube.com/channel/UCp-OlcZyTRiYehQJWdoidxw"
   },
   {
     "name": "송원준",
-    "blog": "http://blog.naver.com/swj8530",
-    "description": ""
+    "blog": "http://wonjun.kr/",
+    "rss": "http://blog.wonjun.kr/rss",
+    "description": "",
+    "github": "https://github.com/songjun51"
   },
   {
     "name": "송윤섭",
     "blog": "https://songyunseop.github.io/",
-    "description": "Python, Node.js"
+    "rss": "https://songyunseop.github.io/atom.xml",
+    "description": "Python, Node.js",
+    "facebook": "https://www.facebook.com/yunseop.song.9",
+    "linkedin": "https://www.linkedin.com/in/yunseop-song-698226110/",
+    "github": "https://github.com/songyunseop"
   },
   {
     "name": "송은우",
     "blog": "https://rampart81.github.io/",
-    "description": "Python"
-  },
-  {
-    "name": "송석호",
-    "blog": "https://devsdk.github.io/",
-    "description": "OS"
-  },
-  {
-    "name": "송성광",
-    "blog": "http://saltfactory.net/",
-    "description": ""
+    "rss": "https://rampart81.github.io/index.xml",
+    "description": "Python",
+    "github": "https://github.com/rampart81",
+    "linkedin": "https://www.linkedin.com/in/ewsong/"
   },
   {
     "name": "송주성(빈꿈)",
     "blog": "http://emptydream.tistory.com/",
+    "rss": "http://emptydream.tistory.com/rss",
     "description": "IT 칼럼"
   },
   {
     "name": "송준현",
     "blog": "https://medium.com/@it_sjh9973",
-    "description": ""
+    "rss": "https://medium.com/feed/@it_sjh9973",
+    "description": "",
+    "twitter": "https://twitter.com/it_sjh9973"
   },
   {
     "name": "송호연",
     "blog": "https://brunch.co.kr/@chris-song/",
+    "rss": "https://brunch.co.kr/rss/@@IgT",
     "description": ""
   },
   {
     "name": "송효진",
     "blog": "https://lovetoken.github.io/",
-    "description": "R"
+    "rss": "https://lovetoken.github.io/feed.xml",
+    "description": "R",
+    "twitter": "https://twitter.com/LT_Lovetoken",
+    "linkedin": "https://www.linkedin.com/in/lovetoken/",
+    "github": "https://github.com/lovetoken"
   },
   {
     "name": "신경식",
     "blog": "http://multeng.tistory.com/",
+    "rss": "http://multeng.tistory.com/rss",
     "description": "AI"
   },
   {
@@ -1754,89 +1872,119 @@
     "description": "Spring"
   },
   {
-    "name": "신동주",
-    "blog": "http://mopsyshin.com/",
-    "description": "UX"
-  },
-  {
     "name": "신승환",
     "blog": "http://www.talk-with-hani.com/",
-    "description": ""
+    "description": "",
+    "facebook": "https://www.facebook.com/talkwithhani"
   },
   {
     "name": "신영진",
     "blog": "http://www.jiniya.net/",
-    "description": "보안"
+    "rss": "http://feeds.feedburner.com/codewiz",
+    "description": "보안",
+    "twitter": "https://twitter.com/codemaru",
+    "github": "https://github.com/amorvita"
   },
   {
     "name": "신예지",
     "blog": "http://dev.bloodevil.com/",
+    "rss": "http://dev.bloodevil.com/rss",
     "description": "Python"
   },
   {
     "name": "신용윤",
     "blog": "http://uni2u.tistory.com/",
-    "description": "네트워크"
+    "rss": "http://uni2u.tistory.com/rss",
+    "description": "네트워크",
+    "facebook": "https://www.facebook.com/uni2u",
+    "github": "https://github.com/uni2u",
+    "linkedin": "https://www.linkedin.com/in/yongyoon-shin-80a8b557/",
+    "slideshare": "https://www.slideshare.net/uni2u"
   },
   {
     "name": "신은광",
     "blog": "https://brendaniel.github.io/",
-    "description": ""
+    "rss": "https://brendaniel.github.io/feed",
+    "description": "",
+    "github": "https://github.com/brendaniel"
   },
   {
     "name": "신재명",
     "blog": "https://medium.com/@Jaemyung",
+    "rss": "https://medium.com/feed/@Jaemyung",
     "description": ""
   },
   {
     "name": "신철민",
-    "blog": "https://blog.naver.com/kato75",
+    "blog": "https://kato75.blog.me/",
+    "rss": "http://kato75.blog.me/rss",
     "description": "엔트리"
   },
   {
     "name": "신현묵",
-    "blog": "https://brunch.co.kr/@supims, http://zetlos.tistory.com/",
+    "blog": "https://brunch.co.kr/@supims",
+    "rss": "https://brunch.co.kr/rss/@@19F4",
     "description": "IT 칼럼"
   },
   {
     "name": "신현석",
     "blog": "http://hyeonseok.com/",
-    "description": "Web"
+    "rss": "http://hyeonseok.com/rss/",
+    "description": "Web",
+    "twitter": "https://twitter.com/hyeonseok",
+    "facebook": "https://www.facebook.com/hyeonseok",
+    "github": "https://github.com/hyeonseok",
+    "pinterest": "https://www.pinterest.co.kr/hyeonseok/",
+    "flickr": "https://www.flickr.com/photos/28458636@N08/"
   },
   {
     "name": "신현식",
-    "blog": "https://medium.com/ics-lab",
-    "description": ""
+    "blog": "https://medium.com/@Hyeon_SS",
+    "rss": "https://medium.com/feed/@Hyeon_SS",
+    "description": "Android",
+    "twitter": "https://twitter.com/Hyeon_SS",
+    "facebook": "https://www.facebook.com/HyeonSS"
   },
   {
     "name": "심혜진",
     "blog": "https://simhyejin.github.io/",
-    "description": ""
+    "rss": "https://simhyejin.github.io/atom.xml",
+    "description": "",
+    "github": "https://github.com/Simhyejin"
   },
   {
     "name": "신호철",
     "blog": "http://hochulshin.com/",
-    "description": "Java"
+    "rss": "http://hochulshin.com/feed",
+    "description": "Java",
+    "github": "https://github.com/dakoo",
+    "facebook": "https://www.facebook.com/hochul.shin0",
+    "linkedin": "https://www.linkedin.com/in/hochulshin0/"
   },
   {
     "name": "신황규",
     "blog": "https://medium.com/@hubert.shin",
-    "description": "개발방법론"
+    "rss": "https://medium.com/feed/@hubert.shin",
+    "description": "개발방법론",
+    "facebook": "https://www.facebook.com/hubert.shin"
   },
   {
     "name": "심재석",
     "blog": "https://byline.network/author/jsshim0622/",
-    "description": "IT 뉴스"
+    "description": "IT 뉴스",
+    "facebook": "https://www.facebook.com/shimgiza"
   },
   {
     "name": "안도형",
-    "blog": "https://emaren84.github.io/blog/",
-    "description": ""
+    "blog": "https://emaren84.github.io/",
+    "rss": "https://emaren84.github.io/rss.xml",
+    "description": "Javascript"
   },
   {
     "name": "안동혁",
     "blog": "https://brunch.co.kr/@donghyeokahn",
-    "description": ""
+    "rss": "https://brunch.co.kr/rss/@@3o3x",
+    "description": "부산모아"
   },
   {
     "name": "안상욱",
@@ -2737,6 +2885,14 @@
     "name": "전동규",
     "blog": "http://www.php5.me/",
     "description": ""
+  },
+  {
+    "name": "전무익",
+    "blog": "https://medium.com/@muik",
+    "description": "",
+    "twitter": "https://twitter.com/muik",
+    "facebook": "https://www.facebook.com/muik.jeon",
+    "aboutme": "https://about.me/muik"
   },
   {
     "name": "전민수",
