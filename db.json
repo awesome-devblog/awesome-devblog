@@ -2485,137 +2485,204 @@
   {
     "name": "이규원",
     "blog": "https://justhackem.wordpress.com/",
-    "description": ""
+    "rss": "https://justhackem.wordpress.com/feed/",
+    "description": "OOP",
+    "facebook": "https://www.facebook.com/gyuwon.yi",
+    "github": "https://github.com/gyuwon",
+    "linkedin": "https://www.linkedin.com/in/gyuwonyi/"
   },
   {
     "name": "이규혁",
     "blog": "http://kyuhyuk.kr/",
-    "description": ""
+    "rss": "http://kyuhyuk.kr/feed.xml",
+    "description": "Security",
+    "github": "https://github.com/LeeKyuHyuk",
+    "facebook": "https://www.facebook.com/LeeKyuHyuk"
   },
   {
     "name": "이기영",
     "blog": "https://brunch.co.kr/@kiyoungleefige",
+    "rss": "https://brunch.co.kr/rss/@@2ND6",
     "description": ""
   },
   {
     "name": "이다윗",
     "blog": "https://brunch.co.kr/@designforhuman",
+    "rss": "https://brunch.co.kr/rss/@@RSS",
     "description": "디자인"
   },
   {
     "name": "이도현",
     "blog": "http://genesis8.tistory.com/",
+    "rss": "http://genesis8.tistory.com/rss",
     "description": ""
   },
   {
     "name": "이동건",
     "blog": "http://baked-corn.tistory.com",
+    "rss": "http://baked-corn.tistory.com/rss",
     "description": "iOS"
   },
   {
     "name": "이동규",
     "blog": "http://chandong83.blog.me/",
+    "rss": "https://rss.blog.naver.com/chandong83.xml",
     "description": ""
   },
   {
     "name": "이동련",
     "blog": "http://start.goodtime.co.kr/",
+    "rss": "http://start.goodtime.co.kr/feed/",
     "description": ""
   },
   {
     "name": "이동인",
     "blog": "https://brunch.co.kr/@leedongins",
+    "rss": "https://brunch.co.kr/rss/@@1ffs",
     "description": "서버 모니터링"
   },
   {
     "name": "이동준",
     "blog": "http://javalab.org/",
-    "description": "Java, Math"
+    "rss": "http://javalab.org/feed/",
+    "description": "Java, Math",
+    "facebook": "https://www.facebook.com/dongjoonjava"
   },
   {
     "name": "이동준",
     "blog": "https://dongjunlee.github.io/",
-    "description": ""
+    "rss": "https://dongjunlee.github.io/feed.xml",
+    "description": "ML",
+    "facebook": "https://www.facebook.com/dongjun.lee.98284",
+    "twitter": "https://twitter.com/hb_djlee",
+    "linkedin": "https://www.linkedin.com/in/dongjun-lee/",
+    "github": "https://github.com/DongjunLee",
+    "medium": "https://medium.com/@humanbrain.djlee"
+  },
+  {
+    "name": "이명종",
+    "blog": "https://jijong.github.io/",
+    "rss": "https://jijong.github.io/feed.xml",
+    "description": "Front-end",
+    "facebook": "https://www.facebook.com/Lmyeongjong",
+    "github": "https://github.com/JiJong",
+    "home": "https://qnfzks55.github.io/"
   },
   {
     "name": "이명현",
     "blog": "https://brunch.co.kr/@brightlee",
-    "description": ""
+    "rss": "https://brunch.co.kr/rss/@@2kai",
+    "description": "스타트업"
   },
   {
     "name": "이무열",
     "blog": "https://mooyoul.github.io/",
-    "description": ""
+    "rss": "https://mooyoul.github.io/atom.xml",
+    "description": "",
+    "github": "https://github.com/mooyoul",
+    "linkedin": "https://www.linkedin.com/in/mooyoul/"
   },
   {
     "name": "이민석",
     "blog": "http://hl1itj.tistory.com/",
+    "rss": "http://hl1itj.tistory.com/rss",
     "description": ""
   },
   {
     "name": "이민우",
     "blog": "https://brunch.co.kr/@minwoo",
+    "rss": "https://brunch.co.kr/rss/@@7E8",
     "description": "기획"
   },
   {
     "name": "이민철",
     "blog": "http://bab2min.tistory.com/",
-    "description": ""
+    "rss": "http://bab2min.tistory.com/rss",
+    "description": "Python"
   },
   {
     "name": "이민호",
     "blog": "http://lumiamitie.github.io/",
-    "description": ""
+    "rss": "http://lumiamitie.github.io/feed.xml",
+    "description": "Data Science",
+    "github": "https://github.com/lumiamitie",
+    "instagram": "https://www.instagram.com/miika__el/"
   },
   {
     "name": "이병준",
     "blog": "http://www.buggymind.com/",
-    "description": ""
+    "rss": "http://buggymind.com/rss",
+    "description": "Agile"
   },
   {
     "name": "이상복",
     "blog": "https://medium.com/@sangboaklee",
-    "description": "Front-end"
+    "rss": "https://medium.com/feed/@sangboaklee",
+    "description": "Front-end",
+    "facebook": "https://www.facebook.com/sangboak"
   },
   {
     "name": "이상영",
     "blog": "http://blog.sangyoung.me/",
-    "description": ""
+    "rss": "http://blog.sangyoung.me/feed",
+    "description": "",
+    "github": "https://github.com/cluina",
+    "facebook": "https://www.facebook.com/sangyoung.lee.391"
   },
   {
     "name": "이상우",
     "blog": "http://prostars.net/",
-    "description": "C++"
+    "rss": "http://prostars.net/rss",
+    "description": "C++",
+    "facebook": "https://www.facebook.com/prostars0"
   },
   {
     "name": "이상욱",
-    "blog": "https://sangwook.github.io/, http://yisangwook.tumblr.com/",
-    "description": "아키텍처 분석"
+    "blog": "https://sangwook.github.io/",
+    "rss": "http://feeds.feedburner.com/sangwook",
+    "description": "아키텍처 분석",
+    "facebook": "https://www.facebook.com/2sangwook",
+    "twitter": "https://twitter.com/yiisw",
+    "github": "https://github.com/sangwook"
   },
   {
     "name": "이상운",
     "blog": "https://highluck.github.io/",
-    "description": ""
+    "description": "Back-end",
+    "facebook": "https://www.facebook.com/sangwn.lee",
+    "github": "https://github.com/highluck"
   },
   {
     "name": "이상주",
     "blog": "http://surpreem.com/",
-    "description": ""
+    "rss": "https://surpreem.com/feed/",
+    "description": "",
+    "twitter": "https://twitter.com/spreem"
   },
   {
     "name": "이상학",
     "blog": "http://sanghaklee.tistory.com/",
+    "rss": "http://sanghaklee.tistory.com/rss",
     "description": "Back-end"
   },
   {
     "name": "이선협",
     "blog": "https://medium.com/sunhyoups-story",
-    "description": ""
+    "rss": "https://medium.com/feed/sunhyoups-story",
+    "description": "Back-end",
+    "facebook": "https://www.facebook.com/sunhyoup.lee",
+    "github": "https://github.com/kciter"
   },
   {
     "name": "이성규",
     "blog": "http://www.shalomeir.com/",
-    "description": ""
+    "rss": "http://www.shalomeir.com/feed/",
+    "description": "",
+    "twitter": "https://twitter.com/shalomeir",
+    "facebook": "https://www.facebook.com/shalomeir",
+    "googleplus": "https://plus.google.com/u/0/+SeonggyuLee",
+    "linkedin": "https://www.linkedin.com/in/seonggyu-lee-b1765920/",
+    "github": "https://github.com/shalomeir"
   },
   {
     "name": "이성규",
