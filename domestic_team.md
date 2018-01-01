@@ -87,6 +87,7 @@
 | 포럼IT | http://forumit.kr/ | |
 | 한국게임기획자모임 | http://gameplanner.cafe24.com/ | 전동주 |
 | 한빛네트워크 | http://www.hanbit.co.kr/network/ | |
+| 호빗원정대 | http://sadang-hobbits.github.io/ | |
 
 ## A-Z
 
