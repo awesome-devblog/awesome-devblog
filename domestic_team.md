@@ -35,6 +35,7 @@
 | 버즈니 | http://engineering.buzzni.com/ | |
 | 버즈아트 | https://tech.bbuzzart.com/ | |
 | 보안뉴스 | http://www.boannews.com/ | 보안 |
+| 블로터 | http://www.bloter.net/ | IT 뉴스 |
 | 삼성소프트웨어멤버십 | http://blog.secmem.org/ | |
 | 솔라나라 | http://www.solanara.net/ | 솔라리스 |
 | 스타일쉐어 | http://styleshare.github.io/ | |
@@ -84,6 +85,7 @@
 | 테크홀릭 | http://techholic.co.kr/ | |
 | 토스랩 기술 블로그 | http://tosslab.github.io/ | |
 | 티켓몬스터 | http://tmondev.blog.me/ | |
+| ㅍㅍㅅㅅ | http://ppss.kr/archives/category/tech | |
 | 포럼IT | http://forumit.kr/ | |
 | 한국게임기획자모임 | http://gameplanner.cafe24.com/ | 전동주 |
 | 한빛네트워크 | http://www.hanbit.co.kr/network/ | |
@@ -114,6 +116,7 @@
 | Mozilla Developer | https://developer.mozilla.org/ko/ | |
 | Mozilla Hack | http://hacks.mozilla.or.kr/ | |
 | MSDN Korea Evengelist | https://blogs.msdn.microsoft.com/eva/ | .Net |
+| PoiemaWeb | http://poiemaweb.com/ | 이웅모 |
 | Popit | http://www.popit.kr/ | |
 | POSICUBE Blog | https://posicube.com/blog/ | 인공지능 |
 | Rainist Engineering | https://medium.com/rainist-engineering | 뱅크샐러드 |
@@ -130,3 +133,4 @@
 | Web Framework | http://webframeworks.kr/ | |
 | We Build Product | https://webuildproduct.com/ | 프로덕트 디자인 & 매니지먼트 |
 | WIT 블로그 | http://wit.nts-corp.com/ | Web |
+| ZDNet Korea | http://www.zdnet.co.kr/ | IT 기사 |

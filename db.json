@@ -1288,6 +1288,15 @@
     "slideshare": "https://www.slideshare.net/hoonsbara"
   },
   {
+    "name": "박기상",
+    "blog": "https://medium.com/@kpak",
+    "rss": "https://medium.com/feed/@kpak",
+    "description": "실리콘밸리",
+    "facebook": "https://www.facebook.com/kisang.pak",
+    "linkedin": "https://www.linkedin.com/in/kisangpak/",
+    "twitter": "https://twitter.com/kpakguy"
+  },
+  {
     "name": "박민",
     "blog": "https://isme2n.github.io/",
     "rss": "https://isme2n.github.io/feed.xml",
@@ -1664,7 +1673,7 @@
   {
     "name": "Steve Park",
     "blog": "https://brunch.co.kr/@stevepark",
-    "rss": "https%3A%2F%2Fbrunch.co.kr%2Frss%2F%40%40Aex",
+    "rss": "https://brunch.co.kr/rss/@@Aex",
     "description": "미국 취업 성공기"
   },
   {
@@ -2094,6 +2103,12 @@
     "description": "Android"
   },
   {
+    "name": "안희종",
+    "blog": "http://ahnheejong.name/",
+    "description": "Front-end",
+    "twitter": "https://twitter.com/heejongahn"
+  },
+  {
     "name": "양권성",
     "blog": "https://blog.perfectacle.com/",
     "rss": "https://blog.perfectacle.com/atom.xml",
@@ -2285,7 +2300,10 @@
     "rss": "http://sarojaba.github.io/atom.xml",
     "description": "Awesome-devblog",
     "facebook": "https://www.facebook.com/sarojaba",
-    "github": "https://github.com/sarojaba"
+    "github": "https://github.com/sarojaba",
+    "linkedin": "https://www.linkedin.com/in/%EC%9A%B0%EC%A4%80%ED%98%81-sarojaba/",
+    "twitter": "https://twitter.com/sarojaba",
+    "aboutme": "https://about.me/sarojaba"
   },
   {
     "name": "원강민",
@@ -2384,7 +2402,6 @@
   {
     "name": "유차영",
     "blog": "https://yous.be/",
-    "rss": "https://yous.be/atom.xml",
     "description": "CTF",
     "twitter": "https://twitter.com/_Yous",
     "github": "https://github.com/yous",
@@ -2403,6 +2420,13 @@
     "rss": "http://programmeringermany.blogspot.com/feeds/posts/default",
     "description": "해외 취업",
     "googleplus": "https://plus.google.com/101919770088297477965"
+  },
+  {
+    "name": "육승찬",
+    "blog": "http://loup1788.blogspot.kr/",
+    "rss": "http://loup1788.blogspot.com/feeds/posts/default",
+    "description": "",
+    "googleplus": "https://plus.google.com/110908827009415369452"
   },
   {
     "name": "윤상배",
@@ -2437,12 +2461,6 @@
     "rss": "http://storycompiler.tistory.com/rss",
     "description": "Tizen",
     "facebook": "https://www.facebook.com/theojini"
-  },
-  {
-    "name": "윤창석",
-    "blog": "http://changsuk.me/",
-    "rss": "http://changsuk.me/?feed=rss2",
-    "description": "다음카카오"
   },
   {
     "name": "윤청하",
@@ -3106,16 +3124,16 @@
     "askfm": "https://ask.fm/iolothebard"
   },
   {
+    "name": "장메튜",
+    "blog": "https://matthew.kr/",
+    "description": "Spring",
+    "github": "https://github.com/IkwhanChang"
+  },
+  {
     "name": "장문익",
     "blog": "http://mooneegee.blogspot.kr/",
     "rss": "https://mooneegee.blogspot.com/feeds/posts/default",
     "description": "3D"
-  },
-  {
-    "name": "장선진",
-    "blog": "http://blog.java2game.com/",
-    "rss": "http://blog.java2game.com/rss",
-    "description": ""
   },
   {
     "name": "장성진",

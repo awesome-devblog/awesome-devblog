@@ -539,6 +539,7 @@
       <outline title="네이버" type="rss" xmlUrl="http://d2.naver.com/d2.atom"/>
       <outline title="넥스트리" type="rss" xmlUrl="http://www.nextree.co.kr/feed/"/>
       <outline title="데일리호텔" type="rss" xmlUrl="https://dailyhotel.io/feed"/>
+      <outline title="블로터" xmlUrl="http://feeds.feedburner.com/Bloter"/>
       <outline title="에이콘" type="rss" xmlUrl="http://feeds.feedburner.com/acornpub"/>
       <outline title="엠비안" type="rss" xmlUrl="http://blog.embian.com/rss"/>
       <outline title="위클립스" type="rss" xmlUrl="http://eclipse.or.kr/index.php?title=특수기능:최근바뀜&amp;feed=atom"/>
@@ -547,12 +548,14 @@
       <outline title="인사이트" type="rss" xmlUrl="http://blog.insightbook.co.kr/rss"/>
       <outline title="테크수다" type="rss" xmlUrl="http://www.techsuda.com/feed"/>
       <outline title="티몬" type="rss" xmlUrl="http://tmondev.blog.me/rss"/>
+      <outline title="ㅍㅍㅅㅅ" xmlUrl="http://ppss.kr/archives/category/tech/feed"/>
       <outline title="한국게임기획자모임" type="rss" xmlUrl="http://gameplanner.cafe24.com/feed/"/>
       <outline title="SK플래닛" type="rss" xmlUrl="http://feeds.feedburner.com/skpreadme?format=xml"/>
       <outline title="VCNC" type="rss" xmlUrl="http://engineering.vcnc.co.kr/atom.xml"/>
       <outline title="Google" type="rss" xmlUrl="http://feeds.feedburner.com/GoogleDevelopersKorea?format=xml"/>
       <outline title="Mozilla" type="rss" xmlUrl="http://hacks.mozilla.or.kr/feed/"/>
       <outline title="Spoqa" type="rss" xmlUrl="http://spoqa.github.io/rss"/>
+      <outline title="ZDNet Korea" xmlUrl="http://www.zdnet.co.kr/Include2/ZDNetKorea_News.xml"/>
     </outline>
   </body>
 </opml>
