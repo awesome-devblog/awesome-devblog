@@ -169,6 +169,7 @@
       <outline title="박경욱" xmlUrl="https://kyungw00k.github.io/atom.xml"></outline>
       <outline title="박경준" xmlUrl="https://ryanpark.me/feed.xml"></outline>
       <outline title="박경훈(HOONS)" xmlUrl="http://hoonsbara.tistory.com/rss"></outline>
+      <outline title="박기상" xmlUrl="https://medium.com/feed/@kpak"></outline>
       <outline title="박민" xmlUrl="https://isme2n.github.io/feed.xml"></outline>
       <outline title="박민근(알콜코더)" xmlUrl="http://agebreak.blog.me/rss"></outline>
       <outline title="박민우" xmlUrl="http://earlybird.kr/feed"></outline>
@@ -215,7 +216,7 @@
       <outline title="범이" xmlUrl="http://blog.daum.net/xml/rss/funfunction"></outline>
       <outline title="변정훈(Outsider)" xmlUrl="http://feeds.feedburner.com/rss_outsider_dev?format=xml"></outline>
       <outline title="변수민" xmlUrl="http://blog.suminb.com/feed.xml"></outline>
-      <outline title="Steve Park" xmlUrl="https%3A%2F%2Fbrunch.co.kr%2Frss%2F%40%40Aex"></outline>
+      <outline title="Steve Park" xmlUrl="https://brunch.co.kr/rss/@@Aex"></outline>
       <outline title="서광열" xmlUrl="http://gamecodingschool.org/feed/"></outline>
       <outline title="서민상" xmlUrl="https://rss.blog.naver.com/seo0511.xml"></outline>
       <outline title="서보룡" xmlUrl="http://inter6.tistory.com/rss"></outline>
@@ -310,13 +311,12 @@
       <outline title="유재준" xmlUrl="http://jaejunyoo.blogspot.com/feeds/posts/default"></outline>
       <outline title="유주원" xmlUrl="http://hipercube.tistory.com/rss"></outline>
       <outline title="유진호" xmlUrl="https://brunch.co.kr/atom/@@z8s"></outline>
-      <outline title="유차영" xmlUrl="https://yous.be/atom.xml"></outline>
       <outline title="유현석" xmlUrl="http://duriepark.tistory.com/rss"></outline>
       <outline title="유형준" xmlUrl="http://programmeringermany.blogspot.com/feeds/posts/default"></outline>
+      <outline title="육승찬" xmlUrl="http://loup1788.blogspot.com/feeds/posts/default"></outline>
       <outline title="윤석찬" xmlUrl="http://feeds.feedburner.com/channy"></outline>
       <outline title="윤영식" xmlUrl="http://mobicon.tistory.com/rss"></outline>
       <outline title="윤진" xmlUrl="http://storycompiler.tistory.com/rss"></outline>
-      <outline title="윤창석" xmlUrl="http://changsuk.me/?feed=rss2"></outline>
       <outline title="윤청하" xmlUrl="https://brunch.co.kr/rss/@@zav"></outline>
       <outline title="윤현철" xmlUrl="http://rss.egloos.com/blog/metashower"></outline>
       <outline title="이경원" xmlUrl="http://blog.woniper.net/rss"></outline>
@@ -400,7 +400,6 @@
       <outline title="장기효(기효 조슈아 장)" xmlUrl="https://joshua1988.github.io/atom.xml"></outline>
       <outline title="장동수" xmlUrl="http://blog.iolo.kr/rss"></outline>
       <outline title="장문익" xmlUrl="https://mooneegee.blogspot.com/feeds/posts/default"></outline>
-      <outline title="장선진" xmlUrl="http://blog.java2game.com/rss"></outline>
       <outline title="장성진" xmlUrl="https://brunch.co.kr/rss/@@L61"></outline>
       <outline title="장성만" xmlUrl="http://frontjang.info/rss"></outline>
       <outline title="장성민" xmlUrl="http://feeds.feedburner.com/jangkunblog?format=xml"></outline>
@@ -555,7 +554,6 @@
       <outline title="Google" type="rss" xmlUrl="http://feeds.feedburner.com/GoogleDevelopersKorea?format=xml"/>
       <outline title="Mozilla" type="rss" xmlUrl="http://hacks.mozilla.or.kr/feed/"/>
       <outline title="Spoqa" type="rss" xmlUrl="http://spoqa.github.io/rss"/>
-      <outline title="ZDNet Korea" xmlUrl="http://www.zdnet.co.kr/Include2/ZDNetKorea_News.xml"/>
     </outline>
   </body>
 </opml>
