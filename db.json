@@ -220,7 +220,7 @@
   {
     "name": "권민재",
     "blog": "https://mingrammer.com/",
-    "rss": "https://mingrammer.com/feed.xml",
+    "rss": "https://mingrammer.com/index.xml",
     "description": "Python",
     "github": "https://github.com/mingrammer",
     "medium": "https://medium.com/@mingrammer",
@@ -361,7 +361,6 @@
   {
     "name": "김대기",
     "blog": "http://daegikim.github.io/",
-    "rss": "http://daegi.kim/feed",
     "description": "Web",
     "github": "https://github.com/DaegiKim",
     "facebook": "https://www.facebook.com/DaegiKimmm",
@@ -562,7 +561,6 @@
   {
     "name": "김성식",
     "blog": "http://devopser.me/",
-    "rss": "http://devopser.me/posts.rss",
     "description": "DevOps",
     "github": "https://github.com/kssminus"
   },
@@ -590,7 +588,6 @@
   {
     "name": "김성훈",
     "blog": "http://www.se.or.kr/",
-    "rss": "http://www.se.or.kr/rss",
     "description": "학교 생활",
     "twitter": "https://twitter.com/hunkimKR"
   },
@@ -927,7 +924,6 @@
   {
     "name": "김진욱",
     "blog": "http://rein.kr/blog/",
-    "rss": "http://rein.upnl.org/wordpress/feed",
     "description": ""
   },
   {
@@ -1135,7 +1131,6 @@
   {
     "name": "남정현",
     "blog": "http://www.rkttu.com/",
-    "rss": "http://www.rkttu.com/rss",
     "description": "클라우드",
     "github": "https://github.com/rkttu",
     "twitter": "https://twitter.com/rkttu",
@@ -2006,7 +2001,6 @@
   {
     "name": "안성현",
     "blog": "http://ash84.net/",
-    "rss": "http://ash84.net/rss/",
     "description": "Python",
     "github": "https://github.com/AhnSeongHyun",
     "linkedin": "https://www.linkedin.com/in/seonghyun-ahn-9098a640/",
@@ -2131,7 +2125,6 @@
   {
     "name": "양욱진",
     "blog": "http://blog.hazard.kr/",
-    "rss": "http://blog.hazard.kr/feed",
     "description": "",
     "facebook": "https://www.facebook.com/ukjinplant",
     "linkedin": "https://www.linkedin.com/in/ukjinplant/",
@@ -3636,7 +3629,6 @@
   {
     "name": "조현철",
     "blog": "https://cchcc.github.io/",
-    "rss": "https://cchcc.github.io/feed.xml",
     "description": "Kotlin",
     "facebook": "https://www.facebook.com/thatisthelife",
     "github": "https://github.com/cchcc",
