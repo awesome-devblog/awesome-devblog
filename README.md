@@ -281,6 +281,7 @@ Tag Cloud
 | 박종영 | https://medium.com/@mocona | iOS | [![](icons/rss-icon.png)](https://medium.com/feed/@mocona)[![](icons/facebook-icon.png)](https://www.facebook.com/abraham.park.923) |
 | 박준규 | https://brunch.co.kr/@kospoll-lab | 인공지능 | [![](icons/rss-icon.png)](https://brunch.co.kr/rss/@@301t) |
 | 박준규 | https://brunch.co.kr/@nattybear |  | [![](icons/rss-icon.png)](https://brunch.co.kr/rss/@@1noz) |
+| 박준영 | https://swalloow.github.io/ | BigData, AI | [![](icons/rss-icon.png)](http://swalloow.github.io/feed.xml)[![](icons/github-icon.png)](https://github.com/Swalloow) |
 | 박준호 | http://junojunho.com/ | Front-end | [![](icons/rss-icon.png)](http://junojunho.com/feed.xml) |
 | 박지수 | https://medium.com/@JisuPark |  | [![](icons/rss-icon.png)](https://medium.com/feed/@JisuPark)[![](icons/facebook-icon.png)](https://www.facebook.com/catm1nt)[![](icons/twitter-icon.png)](https://twitter.com/catm1nt)[![](icons/linkedin-icon.png)](https://www.linkedin.com/in/jisupark91/) |
 | 박지홍 | https://medium.com/@ggikko | RxJava | [![](icons/rss-icon.png)](https://medium.com/feed/@ggikko)[![](icons/github-icon.png)](https://github.com/ggikko) |
