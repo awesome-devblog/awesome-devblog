@@ -4,7 +4,7 @@
     <title>awesome-devblog</title>
   </head>
   <body>
-    <outline text="KORDEV" title="KORDEV">
+    <outline text="Domestic" title="Domestic">
       <outline title="강규영" xmlUrl="http://www.ecogwiki.com/sp.posts?_type=atom"></outline>
       <outline title="강관우" xmlUrl="https://brunch.co.kr/rss/@@xTa"></outline>
       <outline title="강대명" xmlUrl="http://charsyam.wordpress.com/feed/"></outline>
@@ -546,7 +546,7 @@
       <outline title="Mozilla" type="rss" xmlUrl="http://hacks.mozilla.or.kr/feed/"/>
       <outline title="Spoqa" type="rss" xmlUrl="http://spoqa.github.io/rss"/>
     </outline>
-    <outline text="ENGDEV" title="ENGDEV">
+    <outline text="Overseas" title="Overseas">
       <outline title="Adam Bien" xmlUrl="http://www.adam-bien.com/roller/abien/feed/entries/atom"/>
       <outline title="Adam Fletcher" xmlUrl="https://medium.com/feed/@adam_34309"/>
       <outline title="Andrea Giammarchi" xmlUrl="http://webreflection.blogspot.com/feeds/posts/default"/>
