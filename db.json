@@ -727,7 +727,7 @@
   {
     "name": "김원일",
     "blog": "http://androidkr.blogspot.kr/",
-    "rss": "https://androidkr.blogspot.com/feeds/posts/default",
+    "rss": "http://feeds.feedburner.com/mobilesw",
     "description": "안드로이드"
   },
   {
@@ -1497,6 +1497,13 @@
     "blog": "https://brunch.co.kr/@nattybear",
     "rss": "https://brunch.co.kr/rss/@@1noz",
     "description": ""
+  },
+  {
+    "name": "박준영",
+    "blog": "https://swalloow.github.io/",
+    "rss": "http://swalloow.github.io/feed.xml",
+    "description": "BigData, AI",
+    "github": "https://github.com/Swalloow"
   },
   {
     "name": "박준호",
