@@ -558,6 +558,22 @@
       <outline title="Chad Fowler" xmlUrl="http://www.chadfowler.com/?rss"/>
       <outline title="Chris Ng" xmlUrl="http://chrisrng.svbtle.com/feed"/>
       <outline title="Cristian Esquivias" xmlUrl="http://cesquivias.github.io/feeds/all.rss.xml"/>
+      <outline title="Daniel Shiffman" xmlUrl="http://vimeo.com/shiffman/videos/rss"/>
+      <outline title="David Bryant" xmlUrl="https://medium.com/feed/@david_bryant"/>
+      <outline title="David Ford" xmlUrl="https://medium.com/feed/@daveford"/>
+      <outline title="David Moreau Simard" xmlUrl="https://dmsimard.com/index.xml"/>
+      <outline title="David Robinson" xmlUrl="http://varianceexplained.org/feed.xml"/>
+      <outline title="David Walsh" xmlUrl="http://feeds.feedburner.com/Bludice"/>
+      <outline title="Derick Bailey" xmlUrl="http://feeds.feedblitz.com/derickbailey"/>
+      <outline title="Eli Bendersky" xmlUrl="http://eli.thegreenplace.net/feed/"/>
+      <outline title="Eric A. Meyer" xmlUrl="http://meyerweb.com/eric/thoughts/rss2/summary"/>
+      <outline title="Erik Bernhardsson" xmlUrl="http://erikbern.com/?feed=rss2"/>
+      <outline title="Gal Sagie" xmlUrl="http://galsagie.github.io/feed.xml"/>
+      <outline title="Jake Wharton" xmlUrl="http://jakewharton.com/atom.xml"/>
+      <outline title="James Gosling" xmlUrl="http://feeds.feedburner.com/nighthacks/feed"/>
+      <outline title="Jeff Atwood" xmlUrl="http://feeds.feedburner.com/codinghorror/"/>
+      <outline title="Jeff Langr" xmlUrl="http://langrsoft.com/feed/"/>
+      <outline title="Jessie Frazelle" xmlUrl="https://blog.jessfraz.com/index.xml"/>
     </outline>
   </body>
 </opml>
