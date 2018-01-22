@@ -574,6 +574,14 @@
       <outline title="Jeff Atwood" xmlUrl="http://feeds.feedburner.com/codinghorror/"/>
       <outline title="Jeff Langr" xmlUrl="http://langrsoft.com/feed/"/>
       <outline title="Jessie Frazelle" xmlUrl="https://blog.jessfraz.com/index.xml"/>
+      <outline title="Joe Hewitt" xmlUrl="http://joehewitt.com/index.xml"/>
+      <outline title="Joel Spolsky" xmlUrl="http://www.joelonsoftware.com/rss.xml"/>
+      <outline title="John Gruber" xmlUrl="http://daringfireball.net/index.xml"/>
+      <outline title="John McClean" xmlUrl="https://medium.com/feed/@johnmcclean"/>
+      <outline title="John Resig" xmlUrl="http://ejohn.org/category/blog/feed/rss/"/>
+      <outline title="Jonathan Snook" xmlUrl="http://feeds.feedburner.com/snookca"/>
+      <outline title="Josh Symonds" xmlUrl="http://joshsymonds.com/atom.xml"/>
+      <outline title="Kevin Sookocheff" xmlUrl="http://sookocheff.com/index.xml"/>
     </outline>
   </body>
 </opml>
