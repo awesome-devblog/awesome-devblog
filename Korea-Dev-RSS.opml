@@ -582,6 +582,18 @@
       <outline title="Jonathan Snook" xmlUrl="http://feeds.feedburner.com/snookca"/>
       <outline title="Josh Symonds" xmlUrl="http://joshsymonds.com/atom.xml"/>
       <outline title="Kevin Sookocheff" xmlUrl="http://sookocheff.com/index.xml"/>
+      <outline title="Lars Vogell" xmlUrl="http://www.vogella.de/blog/feed/"/>
+      <outline title="Marius Schulz" xmlUrl="http://feeds.feedburner.com/mariusschulz"/>
+      <outline title="Mark Otto" xmlUrl="http://feeds.feedburner.com/mdo"/>
+      <outline title="Martin Fowler" xmlUrl="http://martinfowler.com/bliki/bliki.atom"/>
+      <outline title="Michael Hausenblas" xmlUrl="https://medium.com/feed/@mhausenblas"/>
+      <outline title="Mike Bostock" xmlUrl="http://bost.ocks.org/mike/index.rss"/>
+      <outline title="Mike Gouline" xmlUrl="http://blog.gouline.net/rss/"/>
+      <outline title="Mike Nakhimovich" xmlUrl="https://medium.com/feed/@theMikhail"/>
+      <outline title="Nicolai Parlog" xmlUrl="http://blog.codefx.org/feed/"/>
+      <outline title="Phil Haack" xmlUrl="http://feeds.haacked.com/haacked/"/>
+      <outline title="Paul Bakker" xmlUrl="http://paulbakker.io/feed.xml"/>
+      <outline title="Paul Lewis" xmlUrl="http://aerotwist.com/blog/feed/"/>
     </outline>
   </body>
 </opml>
