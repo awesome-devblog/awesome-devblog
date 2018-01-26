@@ -17,6 +17,7 @@
 | Cristian Esquivias | http://cesquivias.github.io/ | Java, Truffle |
 | Dan Webb | http://danwebb.net/ | 프론트엔드 개발자 |
 | Daniel Shiffman | http://shiffman.net/ | Processing |
+| Dave Smith | https://medium.com/@djsmith42 | Soft Skills 팟캐스트 호스트 |
 | David Bryant | https://medium.com/@david_bryant | Mozilla |
 | David Ford | https://medium.com/@daveford | Kotlin |
 | David Moreau Simard | https://dmsimard.com/ | RedHat Senior Software Engineer, OpenStack |
@@ -30,6 +31,7 @@
 | Eric A. Meyer | http://meyerweb.com/ | |
 | Eric S. Raymond | http://www.catb.org/~esr/ | The Cathedral and the Bazaar 저자 |
 | Erik Bernhardsson | https://erikbern.com/ | Better CTO. Machine Learning |
+| Evan You | http://evanyou.me/ | Vue 창시자 |
 | Gal Sagie | http://galsagie.github.io/ | OpenStack Networking |
 | Hadley Wickham | http://hadley.nz/ | R studio |
 | Jake Wharton | http://jakewharton.com/ | Android |
@@ -37,6 +39,7 @@
 | James Gosling | http://nighthacks.com/roller/jag/ | Java 창시자 |
 | Jeff Atwood | http://blog.codinghorror.com/ | 스택오버플로 주인장 |
 | Jeff Langr | http://langrsoft.com/jeff/ | 지금길로 빠르게 배울 수 있는 자바 저자 |
+| Jeremy Thomas | https://jgthms.com/ | Bulma 창시자 |
 | Jessie Frazelle | https://blog.jessfraz.com/ | Container |
 | Joe Hewitt | http://joehewitt.com/ | Firebug 개발자 |
 | Joel Spolsky | http://www.joelonsoftware.com/ | 조엘온소프트웨어 저자, 개발방법론 |

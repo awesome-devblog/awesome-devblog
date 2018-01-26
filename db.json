@@ -315,6 +315,16 @@
     "twitter": "https://twitter.com/goodhyun"
   },
   {
+    "name": "김기훈",
+    "blog": "http://kihoonkim.github.io/",
+    "rss": "",
+    "description": "Agile",
+    "facebook": "https://www.facebook.com/koreakihoon",
+    "github": "https://github.com/kihoonkim",
+    "slideshare": "https://www.slideshare.net/koreakihoon",
+    "linkedin": "https://www.linkedin.com/in/kihoon-kim-4630ba13b/"
+  },
+  {
     "name": "김길호",
     "blog": "http://kilhokim.github.io/",
     "description": ""
@@ -655,6 +665,12 @@
     "blog": "http://haviyj.tistory.com/",
     "rss": "http://haviyj.tistory.com/rss",
     "description": "Spring Boot"
+  },
+  {
+    "name": "김영하",
+    "blog": "https://brunch.co.kr/@fermat39",
+    "rss": "https://brunch.co.kr/rss/@@sJg",
+    "description": ""
   },
   {
     "name": "김요섭",
@@ -1334,6 +1350,15 @@
     "description": ""
   },
   {
+    "name": "박상길",
+    "blog": "https://kidmam.github.io/",
+    "rss": "",
+    "description": "",
+    "github": "https://github.com/kidmam",
+    "facebook": "https://www.facebook.com/psk2343",
+    "twitter": "https://twitter.com/sangkilpark"
+  },
+  {
     "name": "박상민",
     "blog": "https://sangminpark.blog/",
     "rss": "http://sangminpark.wordpress.com/feed/",
@@ -1926,6 +1951,10 @@
     "description": ""
   },
   {
+    "name": "신재인",
+    "blog": "http://jaynewho.com/"
+  },
+  {
     "name": "신철민",
     "blog": "https://kato75.blog.me/",
     "rss": "http://kato75.blog.me/rss",
@@ -2363,7 +2392,9 @@
     "name": "유용우",
     "blog": "http://luckyyowu.tistory.com/",
     "rss": "http://luckyyowu.tistory.com/rss",
-    "description": ""
+    "description": "",
+    "facebook": "https://www.facebook.com/LuckyYowu",
+    "home": "https://uyu423.github.io/resume/"
   },
   {
     "name": "유용호",
@@ -2624,6 +2655,13 @@
     "description": "Data Science",
     "github": "https://github.com/lumiamitie",
     "instagram": "https://www.instagram.com/miika__el/"
+  },
+  {
+    "name": "이범재",
+    "blog": "https://medium.com/@beomjae",
+    "rss": "https://medium.com/feed/@beomjae",
+    "twitter": "https://twitter.com/beomjae",
+    "facebook": "https://www.facebook.com/scloudycom"
   },
   {
     "name": "이병준",
@@ -3556,6 +3594,13 @@
     "description": "DevOps"
   },
   {
+    "name": "조영인",
+    "blog": "http://codersbrunch.blogspot.kr/",
+    "rss": "http://codersbrunch.blogspot.com/feeds/posts/default",
+    "description": "Algorithm",
+    "googleplus": "https://plus.google.com/117056175547478056738"
+  },
+  {
     "name": "조영호",
     "blog": "http://aeternum.egloos.com/",
     "rss": "http://rss.egloos.com/blog/aeternum",
@@ -3845,6 +3890,10 @@
     "linkedin": "https://www.linkedin.com/in/eunsunmota/"
   },
   {
+    "name": "최재길",
+    "blog": "http://blog.devjoshua.me/"
+  },
+  {
     "name": "최재훈",
     "blog": "http://andromedarabbit.net/",
     "rss": "http://andromedarabbit.net/feed/",
@@ -3899,6 +3948,12 @@
     "description": "fzf",
     "github": "https://github.com/junegunn",
     "tumblr": "http://junegunn.tumblr.com/"
+  },
+  {
+    "name": "최준호",
+    "blog": "http://blog.saturnsoft.net/",
+    "rss": "http://blog.saturnsoft.net/feeds/posts/default",
+    "description": ""
   },
   {
     "name": "최진호",

@@ -65,6 +65,7 @@
 | 위클립스 | http://eclipse.or.kr/ | 이클립스, 지율 |
 | 이상한모임 | http://blog.weirdx.io/ | |
 | 이음소시어스 | http://bigmatch.i-um.net/ | |
+| 인공지능신문 | http://www.aitimes.kr/ | |
 | 인사이트 | http://www.insightbook.co.kr/ | 책 |
 | 로지스팟 | http://engineering.logi-spot.com/ | |
 | 제이펍 | http://jpub.tistory.com/ | 책 |
@@ -89,6 +90,7 @@
 | 포럼IT | http://forumit.kr/ | |
 | 한국게임기획자모임 | http://gameplanner.cafe24.com/ | 전동주 |
 | 한빛네트워크 | http://www.hanbit.co.kr/network/ | |
+| 해줌스토리 | http://story.haezoom.com/ | |
 | 호빗원정대 | http://sadang-hobbits.github.io/ | |
 
 ## A-Z
@@ -116,6 +118,7 @@
 | Mozilla Developer | https://developer.mozilla.org/ko/ | |
 | Mozilla Hack | http://hacks.mozilla.or.kr/ | |
 | MSDN Korea Evengelist | https://blogs.msdn.microsoft.com/eva/ | .Net |
+| NVIDA | http://blogs.nvidia.co.kr/ | Graphic |
 | PoiemaWeb | http://poiemaweb.com/ | 이웅모 |
 | Popit | http://www.popit.kr/ | |
 | POSICUBE Blog | https://posicube.com/blog/ | 인공지능 |
