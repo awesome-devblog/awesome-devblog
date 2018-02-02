@@ -4,7 +4,7 @@
     <title>awesome-devblog</title>
   </head>
   <body>
-    <outline text="Domestic" title="Domestic">
+    <outline title="domestic" text="국내 개발자 블로그 모음">
       <outline title="강규영" xmlUrl="http://www.ecogwiki.com/sp.posts?_type=atom"></outline>
       <outline title="강관우" xmlUrl="https://brunch.co.kr/rss/@@xTa"></outline>
       <outline title="강대명" xmlUrl="http://charsyam.wordpress.com/feed/"></outline>
@@ -525,6 +525,9 @@
       <outline title="황지현" xmlUrl="http://jhhwang4195.tistory.com/rss"></outline>
       <outline title="황치규" xmlUrl="https://brunch.co.kr/rss/@@ZVA"></outline>
       <outline title="히언" xmlUrl="http://rss.egloos.com/blog/recipes"></outline>
+    </outline>
+
+    <outline title="team" text="국내 단체 블로그 모음" >
       <outline title="게임개발포에버" type="rss" xmlUrl="http://feeds.feedburner.com/gamedevforever?format=xml"/>
       <outline title="네이버" type="rss" xmlUrl="http://d2.naver.com/d2.atom"/>
       <outline title="넥스트리" type="rss" xmlUrl="http://www.nextree.co.kr/feed/"/>
@@ -546,7 +549,8 @@
       <outline title="Mozilla" type="rss" xmlUrl="http://hacks.mozilla.or.kr/feed/"/>
       <outline title="Spoqa" type="rss" xmlUrl="http://spoqa.github.io/rss"/>
     </outline>
-    <outline text="Overseas" title="Overseas">
+
+    <outline title="overseas" text="해외 개발자 블로그 모음">
       <outline title="Adam Bien" xmlUrl="http://www.adam-bien.com/roller/abien/feed/entries/atom"/>
       <outline title="Adam Fletcher" xmlUrl="https://medium.com/feed/@adam_34309"/>
       <outline title="Andrea Giammarchi" xmlUrl="http://webreflection.blogspot.com/feeds/posts/default"/>
