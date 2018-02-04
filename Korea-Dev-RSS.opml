@@ -601,6 +601,19 @@
       <outline title="Paul Bakker" xmlUrl="http://paulbakker.io/feed.xml"/>
       <outline title="Paul Lewis" xmlUrl="http://aerotwist.com/blog/feed/"/>
       <outline title="Ricardo Cabello" xmlUrl="http://feeds.feedburner.com/mrdoob"/>
+      <outline title="Robert C. Martin" xmlUrl="http://blog.cleancoder.com/atom.xml"/>
+      <outline title="Rod Johnson" xmlUrl="https://medium.com/feed/@springrod"/>
+      <outline title="Sacha Greif" xmlUrl="https://medium.com/feed/@sachagreif"/>
+      <outline title="Sam Newman" xmlUrl="http://samnewman.io/blog/feed.xml"/>
+      <outline title="Scott Hanselman" xmlUrl="http://feeds.hanselman.com/ScottHanselman"/>
+      <outline title="Stephen Colebourne" xmlUrl="http://blog.joda.org/feeds/posts/default"/>
+      <outline title="Thomas Fuchs" xmlUrl="http://feeds.feedburner.com/miraculous"/>
+      <outline title="Thomas Stringer" xmlUrl="https://medium.com/feed/@trstringer"/>
+      <outline title="Vinicius Isola" xmlUrl="https://visola.github.io/rss.xml"/>
+      <outline title="Will McGugan" xmlUrl="http://www.willmcgugan.com/blog/rootblog/feeds/posts/"/>
+      <outline title="A List Apart" xmlUrl="http://www.alistapart.com/rss.xml"/>
+      <outline title="Android Developers Blog" xmlUrl="http://feeds.feedburner.com/blogspot/hsDu"/>
+      <outline title="Hacker Noon" xmlUrl="https://hackernoon.com/feed"/>
     </outline>
   </body>
 </opml>

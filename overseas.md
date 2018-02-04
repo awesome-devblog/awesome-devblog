@@ -83,8 +83,8 @@
 
 | Name | Blog | Description |
 |---|---|---|
-| A list apart | http://alistapart.com/ | Web |
-| Android Developers Blog | http://android-developers.blogspot.kr/ | |
+| A List Apart | http://alistapart.com/ | Web |
+| Android Developers Blog | https://android-developers.googleblog.com/ | |
 | AutoCAD DevBlog | http://adndevblog.typepad.com/autocad/ | |
 | Awwwards Blog | http://www.awwwards.com/blog/ | Web |
 | Baeldung | http://www.baeldung.com/ | Java, Spring |
