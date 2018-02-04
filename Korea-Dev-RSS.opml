@@ -531,10 +531,17 @@
       <outline title="게임개발포에버" type="rss" xmlUrl="http://feeds.feedburner.com/gamedevforever?format=xml"/>
       <outline title="네이버" type="rss" xmlUrl="http://d2.naver.com/d2.atom"/>
       <outline title="넥스트리" type="rss" xmlUrl="http://www.nextree.co.kr/feed/"/>
+      <outline title="달리웍스" xmlUrl="http://techblog.daliworks.net/feed.xml"/>
       <outline title="데일리호텔" type="rss" xmlUrl="https://dailyhotel.io/feed"/>
+      <outline title="드라마앤컴패니 블로그" xmlUrl="http://developer.dramancompany.com/feed/"/>
+      <outline title="모비인사이드" xmlUrl="http://feeds.feedburner.com/mobiinside/kr"/>
+      <outline title="보안뉴스" xmlUrl="http://www.boannews.com/media/news_rss.xml"/>
       <outline title="블로터" xmlUrl="http://feeds.feedburner.com/Bloter"/>
+      <outline title="슬로우뉴스-테크" xmlUrl="http://slownews.kr/category/tech/feed"/>
+      <outline title="아해팀 블로그" xmlUrl="https://ahea.wordpress.com/feed/"/>
       <outline title="에이콘" type="rss" xmlUrl="http://feeds.feedburner.com/acornpub"/>
       <outline title="엠비안" type="rss" xmlUrl="http://blog.embian.com/rss"/>
+      <outline title="우아한형제들 기술 블로그" xmlUrl="http://woowabros.github.io/feed.xml"/>
       <outline title="위클립스" type="rss" xmlUrl="http://eclipse.or.kr/index.php?title=특수기능:최근바뀜&amp;feed=atom"/>
       <outline title="이상한모임" type="rss" xmlUrl="http://blog.weirdx.io/feed/"/>
       <outline title="이음소시어스" type="rss" xmlUrl="http://bigmatch.i-um.net/feed/"/>

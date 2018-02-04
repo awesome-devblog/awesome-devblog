@@ -15,7 +15,6 @@
 | 네이버 널리 블로그 | http://nuli.navercorp.com/sharing/blog/main | 웹 표준, 접근성 |
 | 넥스트리 | http://www.nextree.co.kr/ | |
 | 넷매니아즈 | http://www.netmanias.com/ko/ | |
-| 다음 DNA Lens | http://dna.daum.net/lens/ | |
 | 달리웍스 | http://techblog.daliworks.net/ | |
 | 데일리호텔 | https://dailyhotel.io | |
 | 독립 개발자 네트워크 | https://indidev.net/ | C/C++ |
@@ -32,11 +31,9 @@
 | 모씨 개발 수첩 | https://nrise.github.io/ | |
 | 미래웹 | http://www.miraeweb.com/blog | 웹 |
 | 박스앤위스커 | http://www.boxnwhis.kr/ | |
-| 버즈니 | http://engineering.buzzni.com/ | |
 | 버즈아트 | https://tech.bbuzzart.com/ | |
 | 보안뉴스 | http://www.boannews.com/ | 보안 |
 | 블로터 | http://www.bloter.net/ | IT 뉴스 |
-| 삼성소프트웨어멤버십 | http://blog.secmem.org/ | |
 | 솔라나라 | http://www.solanara.net/ | 솔라리스 |
 | 스타일쉐어 | http://styleshare.github.io/ | |
 | 스타트링크 | https://blog.startlink.io/ | |
@@ -49,7 +46,6 @@
 |---|---|---|
 | 아이디인큐 | http://blogs.idincu.com/dev/ | |
 | 아해팀 블로그 | https://ahea.wordpress.com/ | Java, 김종인, 최경운, 노성현 |
-| 알스퀘어 | http://dev.rsquare.co.kr/ | |
 | 에어브릿지 | http://blog.ab180.co/ | |
 | 에이콘 | http://www.acornpub.co.kr/blog | 책 |
 | 에일리언큐브 aliencube | http://blog.aliencube.org/ | 닷넷, C# |
