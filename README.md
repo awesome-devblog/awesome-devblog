@@ -338,6 +338,7 @@ Tag Cloud
 | 송원준 | http://wonjun.kr/ |  | [![](icons/rss-icon.png)](http://blog.wonjun.kr/rss)[![](icons/github-icon.png)](https://github.com/songjun51) |
 | 송윤섭 | https://songyunseop.github.io/ | Python, Node.js | [![](icons/rss-icon.png)](https://songyunseop.github.io/atom.xml)[![](icons/facebook-icon.png)](https://www.facebook.com/yunseop.song.9)[![](icons/github-icon.png)](https://github.com/songyunseop)[![](icons/linkedin-icon.png)](https://www.linkedin.com/in/yunseop-song-698226110/) |
 | 송은우 | https://rampart81.github.io/ | Python | [![](icons/rss-icon.png)](https://rampart81.github.io/index.xml)[![](icons/github-icon.png)](https://github.com/rampart81)[![](icons/linkedin-icon.png)](https://www.linkedin.com/in/ewsong/) |
+| 송재윤 | http://blog.jaeyoon.io/ | Front-end | [![](icons/rss-icon.png)](http://blog.jaeyoon.io/feed/)[![](icons/facebook-icon.png)](https://www.facebook.com/i.am.jyoon)[![](icons/github-icon.png)](https://github.com/jyoonsong) |
 | 송주성(빈꿈) | http://emptydream.tistory.com/ | IT 칼럼 | [![](icons/rss-icon.png)](http://emptydream.tistory.com/rss) |
 | 송준현 | https://medium.com/@it_sjh9973 |  | [![](icons/rss-icon.png)](https://medium.com/feed/@it_sjh9973)[![](icons/twitter-icon.png)](https://twitter.com/it_sjh9973) |
 | 송호연 | https://brunch.co.kr/@chris-song/ |  | [![](icons/rss-icon.png)](https://brunch.co.kr/rss/@@IgT) |
