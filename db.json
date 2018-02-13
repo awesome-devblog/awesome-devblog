@@ -412,6 +412,13 @@
     "description": ""
   },
   {
+    "name": "김도훈",
+    "blog": "https://dohoons.com/",
+    "rss": "https://dohoons.com/blog/feed",
+    "description": "Web",
+    "github": "https://github.com/dohoons"
+  },
+  {
     "name": "김래곤",
     "blog": "http://raegon.kim/",
     "rss": "http://raegon.kim/atom.xml",
