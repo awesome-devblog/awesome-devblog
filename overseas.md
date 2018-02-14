@@ -85,16 +85,16 @@
 |---|---|---|
 | A List Apart | http://alistapart.com/ | Web |
 | Android Developers Blog | https://android-developers.googleblog.com/ | |
+| Aurelia Blog | http://aurelia.io/blog/ | Aurelia |
 | AutoCAD DevBlog | http://adndevblog.typepad.com/autocad/ | |
 | Awwwards Blog | http://www.awwwards.com/blog/ | Web |
 | Baeldung | http://www.baeldung.com/ | Java, Spring |
 | BlackBerry Developer Blog | http://devblog.blackberry.com/ | |
 | Built.io | https://www.built.io/blog/ | |
-| Code as Craft(Andrew Johnson) | https://codeascraft.com/ | |
+| Code as Craft(Etsy) | https://codeascraft.com/ | |
 | Comunications of the ACM | http://cacm.acm.org/blogs/about-the-blogs | |
 | Dr.Dobb's | http://www.drdobbs.com/blogs/ | |
 | Dropbox Tech Blog | https://blogs.dropbox.com/tech/ | |
-| Durandal | http://blog.durandal.io/ | Web |
 | DZone | https://dzone.com/ | |
 | Evernote Tech Blog | http://blog.evernote.com/tech/ | |
 | Facebook Code | https://code.facebook.com/ | |

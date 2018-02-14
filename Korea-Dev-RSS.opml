@@ -621,7 +621,18 @@
       <outline title="Will McGugan" xmlUrl="http://www.willmcgugan.com/blog/rootblog/feeds/posts/"/>
       <outline title="A List Apart" xmlUrl="http://www.alistapart.com/rss.xml"/>
       <outline title="Android Developers Blog" xmlUrl="http://feeds.feedburner.com/blogspot/hsDu"/>
+      <outline title="Baeldung" xmlUrl="http://feeds.feedburner.com/Baeldung?format=xml"/>
+      <outline title="Bootstrap Blog" xmlUrl="http://blog.getbootstrap.com/feed.xml"/>
+      <outline title="Code as Craft(Etsy)" xmlUrl="https://codeascraft.com/feed/atom/"/>
+      <outline title="Dropbox Tech Blog" xmlUrl="https://blogs.dropbox.com/tech/feed/"/>
+      <outline title="Evernote Tech Blog" xmlUrl="http://blog.evernote.com/tech/feed/"/>
+      <outline title="Facebook Code" xmlUrl="https://code.facebook.com/posts/rss/"/>
+      <outline title="Feathers Blog" xmlUrl="https://blog.feathersjs.com/feed"/>
+      <outline title="Github Engineering" xmlUrl="https://githubengineering.com/atom.xml"/>
+      <outline title="Go Blog" xmlUrl="http://blog.golang.org/feeds/posts/default"/>
+      <outline title="Ghost Dev" xmlUrl="http://dev.ghost.org/rss/"/>
       <outline title="Hacker Noon" xmlUrl="https://hackernoon.com/feed"/>
+      <outline title="Instagram Engineering" xmlUrl="https://engineering.instagram.com/"/>
     </outline>
   </body>
 </opml>
