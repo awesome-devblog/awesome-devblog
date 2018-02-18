@@ -67,6 +67,7 @@
 | 제이펍 | http://jpub.tistory.com/ | 책 |
 | 조이코퍼레이션 | https://medium.com/zoyi-blog | |
 | 줌 인터넷 개발 블로그 | https://zumdev.github.io/ | |
+| 지금 써보러 갑니다 | http://icunow.co.kr/ | |
 | 지디넷 코리아 | http://www.zdnet.co.kr/ | |
 | 카이스트 Applied Algorithm Lab. | http://aalog.tistory.com/ | |
 | 카카오 기술 블로그 | http://tech.kakao.com/ | |

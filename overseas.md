@@ -63,6 +63,7 @@
 | Phil Haack | http://haacked.com/ | Github 개발자 |
 | Paul Bakker | http://paulbakker.io/ | Modular Cloud Apps with OSGI 저자 |
 | Paul Lewis | https://aerotwist.com/ | Google Web Developer |
+| Prateeksha Singh | https://medium.com/@pratu16x7 | Open Source Developer at Frappé |
 | Ricardo Cabello | http://mrdoob.com/ | Three.js 창시자 |
 | Richard Stallman | https://www.stallman.org/ | Free Software Foundation, GNU Project 창시자 |
 | Robert C. Martin | http://blog.cleancoder.com/ | 클린 코드 저자 |
