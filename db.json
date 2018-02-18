@@ -818,6 +818,16 @@
   },
   {
     "name": "김종민",
+    "blog": "http://kimjmin.net/",
+    "rss": "http://kimjmin.net/atom.xml",
+    "description": "Elastic Stack",
+    "twitter": "https://twitter.com/kimjmin",
+    "facebook": "https://www.facebook.com/kimjmin81",
+    "github": "https://github.com/kimjmin",
+    "linkedin": "https://www.linkedin.com/in/kimjmin/"
+  },
+  {
+    "name": "김종민",
     "blog": "http://blog.cmiscm.com/",
     "rss": "http://blog.cmiscm.com/?feed=rss2",
     "description": "인터렉티브 디벨로퍼",
