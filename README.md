@@ -16,7 +16,7 @@
 ## 목차
 
 - [국내 개인 사이트](https://github.com/sarojaba/awesome-devblog#%EA%B5%AD%EB%82%B4-%EA%B0%9C%EC%9D%B8-%EC%82%AC%EC%9D%B4%ED%8A%B8)
-  - [ㄱ](https://github.com/sarojaba/awesome-devblog#ㄱ)
+  - [ㄱ](https://github.com/sarojaba/awesome-devblog#ᄀ)
     [ㄴ](https://github.com/sarojaba/awesome-devblog#ᄂ)
     [ㄷ](https://github.com/sarojaba/awesome-devblog#ᄃ)
     [ㄹ](https://github.com/sarojaba/awesome-devblog#ᄅ)
