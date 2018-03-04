@@ -159,6 +159,12 @@
     "description": "스타트업"
   },
   {
+    "name": "고유영",
+    "blog": "https://medium.com/@yooyoungko",
+    "description": "Javascript",
+    "facebook": "https://www.facebook.com/lunayyko"
+  },
+  {
     "name": "고종범",
     "blog": "https://brunch.co.kr/@jbgo",
     "rss": "https://brunch.co.kr/rss/@@24SO",
@@ -424,6 +430,13 @@
     "rss": "https://dohoons.com/blog/feed",
     "description": "Web",
     "github": "https://github.com/dohoons"
+  },
+  {
+    "name": "김동우",
+    "blog": "https://dongwoo.blog/",
+    "rss": "https://dongwoo.blog/feed/",
+    "description": "Javascript",
+    "github": "https://github.com/dongwoo-kim"
   },
   {
     "name": "김래곤",
@@ -841,6 +854,13 @@
     "description": ""
   },
   {
+    "name": "김종민",
+    "blog": "https://jongmin92.github.io/",
+    "description": "Spring",
+    "facebook": "https://www.facebook.com/jongmin.kim.7796420",
+    "github": "https://github.com/jongmin92"
+  },
+  {
     "name": "김종욱",
     "blog": "http://catlog.kr/",
     "description": ""
@@ -901,6 +921,14 @@
     "blog": "https://brunch.co.kr/@ken1224",
     "rss": "https://brunch.co.kr/rss/@@R2L",
     "description": "스타트업, 음악산업"
+  },
+  {
+    "name": "김지운",
+    "blog": "https://kishe89.github.io/",
+    "rss": "https://kishe89.github.io/feed.xml",
+    "description": "Javascript",
+    "github": "https://github.com/kishe89",
+    "facebook": "https://www.facebook.com/profile.php?id=100008052494285"
   },
   {
     "name": "김지혁",
@@ -1340,6 +1368,13 @@
     "twitter": "https://twitter.com/kpakguy"
   },
   {
+    "name": "박미정",
+    "blog": "https://medium.com/@mjspring",
+    "rss": "https://medium.com/feed/@mjspring",
+    "description": "Java",
+    "facebook": "https://www.facebook.com/mjspring03"
+  },
+  {
     "name": "박민",
     "blog": "https://isme2n.github.io/",
     "rss": "https://isme2n.github.io/feed.xml",
@@ -1491,6 +1526,16 @@
     "description": "Java"
   },
   {
+    "name": "박재성",
+    "blog": "https://medium.com/@jspark141515"
+  },
+  {
+    "name": "박재성",
+    "blog": "https://medium.com/@alberto.park",
+    "rss": "https://medium.com/feed/@alberto.park",
+    "description": "billboard.js"
+  },
+  {
     "name": "박재현",
     "blog": "http://wisefree.tistory.com/",
     "rss": "http://wisefree.tistory.com/rss",
@@ -1612,6 +1657,17 @@
     "github": "https://github.com/chanwookpark",
     "facebook": "https://www.facebook.com/chanwook.park.1",
     "linkedin": "https://www.linkedin.com/in/chanwook-park-47304148"
+  },
+  {
+    "name": "박천",
+    "blog": "https://say8425.github.io/",
+    "rss": "https://say8425.github.io/feed.xml",
+    "description": "Ruby",
+    "facebook": "https://www.facebook.com/say8425",
+    "github": "https://github.com/say8425",
+    "twitter": "https://twitter.com/say8425",
+    "stackoverflow": "https://stackoverflow.com/users/3910390/penguin",
+    "rocketpunch": "https://www.rocketpunch.com/@say8425"
   },
   {
     "name": "박해선",
@@ -1805,6 +1861,16 @@
     "blog": "http://gywn.net/",
     "rss": "http://gywn.net/feed/",
     "description": "Database"
+  },
+  {
+    "name": "소용환",
+    "blog": "http://www.sauru.so/",
+    "rss": "http://feeds.feedburner.com/sauru-so?format=xml",
+    "description": "Docker, Elastic",
+    "github": "https://github.com/sio4/",
+    "linkedin": "https://www.linkedin.com/in/scinix/",
+    "twitter": "https://twitter.com/scinix",
+    "stackoverflow": "https://stackoverflow.com/users/1111002/sio4"
   },
   {
     "name": "손승하",
@@ -2898,6 +2964,11 @@
     "googleplus": "https://plus.google.com/106861633273056853029"
   },
   {
+    "name": "이완근",
+    "blog": "http://icednut.github.io/",
+    "description": "Spark"
+  },
+  {
     "name": "이웅희",
     "blog": "http://woongheelee.com/",
     "rss": "http://woongheelee.com/rss",
@@ -2950,6 +3021,12 @@
     "blog": "https://blog.jyslash.com/@jungyounglee",
     "description": "UI 디자인",
     "facebook": "https://www.facebook.com/leejungyoung"
+  },
+  {
+    "name": "이정운",
+    "blog": "https://medium.com/@jwlee98",
+    "rss": "https://medium.com/feed/@jwlee98",
+    "description":"GCP"
   },
   {
     "name": "이정원",
@@ -3056,6 +3133,12 @@
     "blog": "http://blog.naver.com/dlcksgod1",
     "rss": "https://rss.blog.naver.com/dlcksgod1.xml",
     "description": "3D Graphics"
+  },
+  {
+    "name": "이찬희",
+    "blog": "https://iamchanii.github.io/",
+    "description": "Go",
+    "github": "https://github.com/iamchanii"
   },
   {
     "name": "이태희",
@@ -3312,6 +3395,14 @@
     "facebook": "https://www.facebook.com/superjang11"
   },
   {
+    "name": "장재휴",
+    "blog": "https://jaehue.github.io/",
+    "description": "Go",
+    "facebook": "https://www.facebook.com/bbugguj",
+    "linkedin": "https://kr.linkedin.com/in/jaehue-jang-036aa7a8",
+    "slideshare": "https://www.slideshare.net/JaehueJang"
+  },
+  {
     "name": "장준혁",
     "blog": "https://medium.com/@hyuk",
     "rss": "https://medium.com/feed/@hyuk",
@@ -3387,6 +3478,14 @@
     "blog": "http://sanghyukchun.github.io/",
     "rss": "http://sanghyukchun.github.io/atom.xml",
     "description": "Machine Learning"
+  },
+  {
+    "name": "전현준",
+    "blog": "http://guswnsxodlf.github.io/",
+    "rss": "http://guswnsxodlf.github.io/feed.xml",
+    "description": "Web",
+    "facebook": "https://www.facebook.com/guswnsxodlf",
+    "github": "https://github.com/guswnsxodlf"
   },
   {
     "name": "전형탁",
