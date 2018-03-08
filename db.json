@@ -2627,6 +2627,14 @@
     "linkedin": "https://www.linkedin.com/in/kyoungil-lee-5bb2539b/?trk=hp-identity-photo"
   },
   {
+    "name": "이경찬",
+    "blog": "http://leekchan.com/",
+    "description": "Go",
+    "facebook": "https://www.facebook.com/leekchan",
+    "linkedin": "https://kr.linkedin.com/in/leekchan",
+    "github": "https://github.com/leekchan/"
+  },
+  {
     "name": "이광식",
     "blog": "http://www.kwangsiklee.com/",
     "rss": "http://www.kwangsiklee.com/ko/feed/",
@@ -2923,6 +2931,14 @@
     "blog": "https://brunch.co.kr/@sbcoba",
     "rss": "https://brunch.co.kr/rss/@@so6",
     "description": "Spring Boot, Security"
+  },
+  {
+    "name": "이슬",
+    "blog": "https://lee-seul.github.io/",
+    "rss": "https://lee-seul.github.io/feed.xml",
+    "description": "Django",
+    "facebook": "https://www.facebook.com/blacksangi",
+    "github": "https://github.com/lee-seul"
   },
   {
     "name": "이승우",
@@ -3229,6 +3245,13 @@
     "description": "tyle.io CTO. Web",
     "twitter": "https://twitter.com/maxzidell",
     "facebook": "https://www.facebook.com/maxzidell"
+  },
+  {
+    "name": "이희승",
+    "blog": "http://t.motd.kr/ko/",
+    "rss": "http://t.motd.kr/ko/feed",
+    "description": "armedia",
+    "twitter": "https://twitter.com/trustin_ko"
   },
   {
     "name": "이희욱",
@@ -3696,8 +3719,8 @@
   },
   {
     "name": "조동현",
-    "blog": "https://blog.l0gic.me/",
-    "rss": "https://blog.l0gic.me/feed/",
+    "blog": "https://hudi.kr/",
+    "rss": "https://hudi.kr/feed/",
     "description": "Front-end",
     "facebook": "https://www.facebook.com/profile.php?id=100007156273191",
     "github": "https://github.com/technol0gic",
@@ -4324,6 +4347,12 @@
     "rss": "https://free-strings.blogspot.kr/atom.xml",
     "description": "Rust",
     "twitter": "https://twitter.com/_freestrings"
+  },
+  {
+    "name": "허광남",
+    "blog": "http://okjsp.tistory.com/",
+    "rss": "http://okjsp.tistory.com/rss",
+    "description": "OKKY"
   },
   {
     "name": "허원철",
