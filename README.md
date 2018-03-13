@@ -596,7 +596,7 @@ Tag Cloud
 | 정태현 | http://chomman.github.io/blog/ | Back-end | [![](icons/rss-icon.png)](http://chomman.github.io/blog/feed)[![](icons/google-plus-icon.png)](https://plus.google.com/+TaeHyunJung)[![](icons/twitter-icon.png)](https://twitter.com/JungTaehyun)[![](icons/github-icon.png)](https://github.com/chomman) |
 | 정희연 | https://yeun.github.io/ | 웹디자인 | [![](icons/twitter-icon.png)](https://twitter.com/_heeyeun)[![](icons/github-icon.png)](https://github.com/yeun) |
 | 제갈민 | http://jekalmin.tistory.com/ | Spring | [![](icons/rss-icon.png)](http://jekalmin.tistory.com/rss) |
-| 조동현 | https://blog.l0gic.me/ | Front-end | [![](icons/rss-icon.png)](https://blog.l0gic.me/feed/)[![](icons/slideshare-icon.png)](https://www.slideshare.net/Chodonghyun)[![](icons/facebook-icon.png)](https://www.facebook.com/profile.php?id=100007156273191)[![](icons/github-icon.png)](https://github.com/technol0gic) |
+| 조동현 | http://hudi.kr/ | Front-end | [![](icons/rss-icon.png)](http://hudi.kr/feed/)[![](icons/slideshare-icon.png)](https://www.slideshare.net/Chodonghyun)[![](icons/facebook-icon.png)](https://www.facebook.com/profile.php?id=100007156273191)[![](icons/github-icon.png)](https://github.com/technol0gic) |
 | 조만석 | http://manseok.blogspot.kr |  | [![](icons/rss-icon.png)](http://manseok.blogspot.com/feeds/posts/default)[![](icons/google-plus-icon.png)](https://plus.google.com/104502755347533903451) |
 | 조만영 | https://medium.com/@manyoung | Web | [![](icons/rss-icon.png)](https://medium.com/feed/@manyoung) |
 | 조병욱(조대협) | http://bcho.tistory.com/ | Java | [![](icons/rss-icon.png)](http://bcho.tistory.com/rss)[![](icons/facebook-icon.png)](https://www.facebook.com/terry.cho.7) |
