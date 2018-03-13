@@ -619,7 +619,7 @@ Tag Cloud
 | 조현진 | http://resistan.com/ | 웹접근성 | [![](icons/rss-icon.png)](http://resistan.com/atom.xml)[![](icons/facebook-icon.png)](https://www.facebook.com/hj.soif)[![](icons/twitter-icon.png)](https://twitter.com/resistan)[![](icons/github-icon.png)](https://github.com/resistan) |
 | 조현철 | https://cchcc.github.io/ | Kotlin | [![](icons/facebook-icon.png)](https://www.facebook.com/thatisthelife)[![](icons/github-icon.png)](https://github.com/cchcc) |
 | 주길재 | http://www.giljae.com/ | Cloud | [![](icons/rss-icon.png)](http://www.giljae.com/feeds/posts/default)[![](icons/google-plus-icon.png)](https://plus.google.com/+TrustinGiljaeJoo)[![](icons/facebook-icon.png)](https://www.facebook.com/giljae)[![](icons/twitter-icon.png)](https://twitter.com/giljae)[![](icons/github-icon.png)](https://github.com/giljae) |
-| 주민하 | https://alegruz.imweb.me/ | Python | [![](icons/facebook-icon.png)](https://www.facebook.com/minhaju.ju) |
+| 주민하 | https://alegruz.imweb.me/ | Python, 게임 개발, C  | [![](icons/facebook-icon.png)](https://www.facebook.com/minhaju.ju) |
 | 주영익 | http://haah.kr/ | Web, PHP | [![](icons/rss-icon.png)](http://haah.kr/atom.xml)[![](icons/facebook-icon.png)](https://www.facebook.com/profile.php?id=100001259884599)[![](icons/github-icon.png)](https://github.com/youngiggy) |
 | 주우영 | http://blog.coderifleman.com/ | React.js | [![](icons/rss-icon.png)](http://blog.coderifleman.com/atom.xml) |
 | 주재범 | http://joojaebum.com/ | 픽셀 아트 |  |
