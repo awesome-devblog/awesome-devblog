@@ -581,6 +581,7 @@ Tag Cloud
 | 정순형 | https://medium.com/@soonhyungjung | 블록체인 | [![](icons/rss-icon.png)](https://medium.com/feed/@soonhyungjung)[![](icons/facebook-icon.png)](https://www.facebook.com/soonhyung.jung.5) |
 | 정승욱 | https://medium.com/@jsuch2362 | Android | [![](icons/rss-icon.png)](https://medium.com/feed/@jsuch2362)[![](icons/facebook-icon.png)](https://www.facebook.com/steve.SU.J)[![](icons/twitter-icon.png)](https://twitter.com/jsuch2362) |
 | 정유진 | http://dudmy.net/ | Android | [![](icons/rss-icon.png)](http://dudmy.net/feed)[![](icons/github-icon.png)](https://github.com/dudmy)[![](icons/linkedin-icon.png)](https://www.linkedin.com/in/dudmy/) |
+| 정유택 | https://takeuu.tistory.com | Front-end | [![](icons/github-icon.png)](https://github.com/JungYouTaek) |
 | 정윤성 | http://yoonsung.github.io/ | Rust | [![](icons/rss-icon.png)](http://yoonsung.github.io/atom.xml)[![](icons/github-icon.png)](https://github.com/YoonSung) |
 | 정윤원 | http://youknowone.github.io/ | IOS | [![](icons/github-icon.png)](https://github.com/youknowone/) |
 | 정윤진 | http://kerberosj.tistory.com/ | Cloud | [![](icons/rss-icon.png)](http://kerberosj.tistory.com/rss) |
