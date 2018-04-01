@@ -100,7 +100,8 @@
     "blog": "https://brunch.co.kr/@cloud09",
     "rss": "https://brunch.co.kr/rss/@@m6q",
     "description": "데이터 분석",
-    "linkedin": "https://www.linkedin.com/in/cloud09/"
+    "linkedin": "https://www.linkedin.com/in/cloud09/",
+    "github": "https://github.com/dearcloud09"
   },
   {
     "name": "강형석",
@@ -309,7 +310,8 @@
     "description": "Android, Kotlin",
     "github": "https://github.com/taehwandev",
     "twitter": "https://twitter.com/cafe_k",
-    "linkedin": "https://www.linkedin.com/in/taehwankwon/"
+    "linkedin": "https://www.linkedin.com/in/taehwankwon/",
+    "slideshare": "https://www.slideshare.net/taehwandev"
   },
   {
     "name": "김광현(광파리)",
@@ -437,13 +439,6 @@
     "rss": "https://dongwoo.blog/feed/",
     "description": "Javascript",
     "github": "https://github.com/dongwoo-kim"
-  },
-  {
-    "name": "김래곤",
-    "blog": "http://raegon.kim/",
-    "rss": "http://raegon.kim/atom.xml",
-    "description": "",
-    "github": "https://github.com/raycon"
   },
   {
     "name": "김만수",
@@ -1190,6 +1185,13 @@
     "name": "나윤환",
     "blog": "https://nayunhwan.github.io/",
     "description": "React"
+  },
+  {
+    "name": "남경진",
+    "blog": "https://kanteloper.github.io/",
+    "rss": "https://kanteloper.github.io/atom.xml",
+    "description": "Centos",
+    "github": "https://github.com/Kanteloper"
   },
   {
     "name": "남궁민",
@@ -2671,6 +2673,15 @@
     "description": ""
   },
   {
+    "name": "이기창",
+    "blog": "https://ratsgo.github.io/",
+    "rss": "https://ratsgo.github.io/atom.xml",
+    "description": "NLP, ML",
+    "facebook": "https://www.facebook.com/gichanglee.84",
+    "linkedin": "https://www.linkedin.com/in/gichanglee/",
+    "github": "https://github.com/ratsgo"
+  },
+  {
     "name": "이다윗",
     "blog": "https://brunch.co.kr/@designforhuman",
     "rss": "https://brunch.co.kr/rss/@@RSS",
@@ -2947,6 +2958,15 @@
     "description": "Docker, Kubernetes, AWS",
     "github": "https://github.com/asbubam",
     "facebook": "https://www.facebook.com/asbubam"
+  },
+  {
+    "name": "이승재",
+    "blog": "https://saystone.github.io/",
+    "rss": "https://saystone.github.io/atom.xml",
+    "description": "Hexo",
+    "facebook": "https://www.facebook.com/saystone",
+    "twitter": "https://twitter.com/saystone",
+    "github": "https://github.com/saystone"
   },
   {
     "name": "이승현",
@@ -3329,6 +3349,14 @@
     "wordpress": "https://joshuajangblog.wordpress.com/"
   },
   {
+    "name": "장동민",
+    "blog": "https://medium.com/@Dongmin_Jang",
+    "rss": "https://medium.com/feed/@Dongmin_Jang",
+    "description": "Front-end",
+    "twitter": "https://twitter.com/Dongmin_JANG",
+    "facebook": "https://www.facebook.com/jdm85kor"
+  },
+  {
     "name": "장동수",
     "blog": "http://blog.iolo.kr/",
     "rss": "http://blog.iolo.kr/rss",
@@ -3616,6 +3644,13 @@
     "github": "https://github.com/dudmy"
   },
   {
+    "name": "정유택",
+    "blog": "https://takeuu.tistory.com",
+    "rss": "http://takeuu.tistory.com/rss",
+    "description": "Front-end",
+    "github": "https://github.com/JungYouTaek"
+  },
+  {
     "name": "정윤성",
     "blog": "http://yoonsung.github.io/",
     "rss": "http://yoonsung.github.io/atom.xml",
@@ -3848,6 +3883,12 @@
     "facebook": "https://www.facebook.com/chowin21"
   },
   {
+    "name": "조창민",
+    "blog": "http://incredible.ai/",
+    "rss": "http://incredible.ai/feed.xml",
+    "description": "AI"
+  },
+  {
     "name": "조현영(ZeroCho)",
     "blog": "https://www.zerocho.com/",
     "rss": "https://www.zerocho.com/api/rss.xml",
@@ -3899,7 +3940,7 @@
   {
     "name": "주민하",
     "blog": "https://alegruz.imweb.me/",
-    "description": "Python",
+    "description": "Python, 게임 개발, C",
     "facebook": "https://www.facebook.com/minhaju.ju"
   },
   {
@@ -3970,10 +4011,10 @@
     "soundcloud": "https://soundcloud.com/hellojayjin"
   },
   {
-    "name": "Harrison Jung",
+    "name": "정민석",
     "blog": "https://medium.com/@HarrisonJung",
     "rss": "https://medium.com/feed/@HarrisonJung",
-    "description": "",
+    "description": "꿈많은청년들",
     "facebook": "https://www.facebook.com/calmlake79"
   },
   {
