@@ -333,7 +333,7 @@ Tag Cloud
 | 서인석 | http://isseo90.tistory.com/ | 디자인 | [![](icons/rss-icon.png)](http://isseo90.tistory.com/rss) |
 | 서주영(천재태지) | http://seoz.com/ | EFL, 타이젠 | [![](icons/rss-icon.png)](http://rss.egloos.com/blog/seoz)[![](icons/slideshare-icon.png)](https://www.slideshare.net/seojuyung)[![](icons/google-plus-icon.png)](https://plus.google.com/+DanielJuyungSeo)[![](icons/facebook-icon.png)](https://www.facebook.com/seojuyung)[![](icons/twitter-icon.png)](https://twitter.com/seojuyung)[![](icons/linkedin-icon.png)](https://www.linkedin.com/in/daniel-juyung-seo-845a9816/) |
 | 서창욱 | http://scw0531.blog.me/ | IoT | [![](icons/rss-icon.png)](http://scw0531.blog.me/rss) |
-| 서한교 | zalhan.kr | 디자인 | [![](icons/rss-icon.png)](https://brunch.co.kr/rss/@@24xs) |
+| 서한교 | http://zalhan.kr | 디자인 | [![](icons/rss-icon.png)](https://brunch.co.kr/rss/@@24xs) |
 | 성대경 | http://healthydeveloper.tistory.com/ | Algorithm | [![](icons/rss-icon.png)](http://healthydeveloper.tistory.com/rss) |
 | 성동찬 | http://gywn.net/ | Database | [![](icons/rss-icon.png)](http://gywn.net/feed/) |
 | 소용환 | http://www.sauru.so/ | Docker, Elastic | [![](icons/rss-icon.png)](http://feeds.feedburner.com/sauru-so?format=xml)[![](icons/twitter-icon.png)](https://twitter.com/scinix)[![](icons/github-icon.png)](https://github.com/sio4/)[![](icons/linkedin-icon.png)](https://www.linkedin.com/in/scinix/) |
