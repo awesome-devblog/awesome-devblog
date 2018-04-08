@@ -1326,6 +1326,16 @@
     "description": "스타트업"
   },
   {
+    "name": "맹윤호",
+    "blog": "http://maengdev.tistory.com/",
+    "rss": "http://maengdev.tistory.com/rss",
+    "description": "Data Science",
+    "facebook": "https://www.facebook.com/yunho0130",
+    "github": "https://github.com/yunho0130",
+    "linkedin": "https://www.linkedin.com/in/yunho0130/",
+    "home": "https://maeng-dev.blog.me/"
+  },
+  {
     "name": "모상우",
     "blog": "https://brunch.co.kr/@aidenswmo",
     "rss": "https://brunch.co.kr/rss/@@FOY",
