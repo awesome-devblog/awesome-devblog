@@ -664,5 +664,27 @@
       <outline title="Hacker Noon" xmlUrl="https://hackernoon.com/feed"/>
       <outline title="Instagram Engineering" xmlUrl="https://engineering.instagram.com/"/>
     </outline>
+
+    <outline title="slide" text="슬라이드 모음">
+      <outline title="권영재" xmlUrl="https://www.slideshare.net/rss/user/YoungJaeKwon3"/>
+      <outline title="권태환" xmlUrl="https://www.slideshare.net/rss/user/taehwandev"/>
+      <outline title="김기훈" xmlUrl="https://www.slideshare.net/rss/user/koreakihoon"/>
+      <outline title="김대권" xmlUrl="https://www.slideshare.net/rss/user/ext"/>
+      <outline title="김태훈" xmlUrl="https://www.slideshare.net/rss/user/carpedm20"/>
+      <outline title="김훈민" xmlUrl="https://www.slideshare.net/rss/user/jeokrang"/>
+      <outline title="박경훈" xmlUrl="https://www.slideshare.net/rss/user/hoonsbara"/>
+      <outline title="박민우" xmlUrl="https://www.slideshare.net/rss/user/tebica"/>
+      <outline title="서주영" xmlUrl="https://www.slideshare.net/rss/user/seojuyung"/>
+      <outline title="신용윤" xmlUrl="https://www.slideshare.net/rss/user/uni2u"/>
+      <outline title="안오균" xmlUrl="https://www.slideshare.net/rss/user/OhgyunAhn"/>
+      <outline title="윤석찬" xmlUrl="https://www.slideshare.net/rss/user/Channy"/>
+      <outline title="장재휴" xmlUrl="https://www.slideshare.net/rss/user/JaehueJang"/>
+      <outline title="정겨울" xmlUrl="https://www.slideshare.net/rss/user/wintermy201"/>
+      <outline title="조동현" xmlUrl="https://www.slideshare.net/rss/user/Chodonghyun"/>
+      <outline title="조현종" xmlUrl="https://www.slideshare.net/rss/user/hangum"/>
+      <outline title="한성민" xmlUrl="https://www.slideshare.net/rss/user/KennethCeyer"/>
+      <outline title="한재엽" xmlUrl="https://www.slideshare.net/rss/user/JaeYeopHan"/>
+      <outline title="황상철" xmlUrl="https://www.slideshare.net/rss/user/k16wire"/>
+    </outline>
   </body>
 </opml>
