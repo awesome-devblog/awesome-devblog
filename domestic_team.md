@@ -45,6 +45,7 @@
 | Name | Blog | Description |
 |---|---|---|
 | 아이디인큐 | http://blogs.idincu.com/dev/ | |
+| 아토리서치 블로그 | https://blog.naver.com/attoresearch | SDN, NFV |
 | 아해팀 블로그 | https://ahea.wordpress.com/ | Java, 김종인, 최경운, 노성현 |
 | 에어브릿지 | http://blog.ab180.co/ | |
 | 에이콘 | http://www.acornpub.co.kr/blog | 책 |
