@@ -873,6 +873,14 @@
     "description": "Java, Spring"
   },
   {
+    "name": "김종철",
+    "blog": "https://infoscis.github.io/",
+    "rss": "https://infoscis.github.io/feed.xml",
+    "description": "Front-end",
+    "github": "https://github.com/infoscis",
+    "aboutme": "https://about.me/jongcheol.kim"
+  },
+  {
     "name": "김종하",
     "profile": "people/wisedog.md",
     "blog": "http://story.wisedog.net/",
