@@ -677,6 +677,7 @@ Tag Cloud
 | 최성재 | http://yumere.tistory.com/ | Paper Review | [![](icons/rss-icon.png)](http://yumere.tistory.com/rss) |
 | 최수원 | http://cionman.tistory.com/ | Linux | [![](icons/rss-icon.png)](http://cionman.tistory.com/rss) |
 | 최승필 | https://brunch.co.kr/@pilsogood | 트립그리다 | [![](icons/rss-icon.png)](https://brunch.co.kr/rss/@@1iQC) |
+| 최용석 | https://blog.naver.com/cys_star | | [![](icons/rss-icon.png)](https://rss.blog.naver.com/cys_star.xml) |
 | 최유석 | http://whitechoi.tistory.com/ | Cloud | [![](icons/rss-icon.png)](http://whitechoi.tistory.com/rss) |
 | 최윤섭 | http://www.yoonsupchoi.com/ | 헬스케어 | [![](icons/rss-icon.png)](http://www.yoonsupchoi.com/feed/)[![](icons/facebook-icon.png)](https://www.facebook.com/yoonsup.choi)[![](icons/twitter-icon.png)](https://twitter.com/pelexus) |
 | 최은선 | https://im-mota.github.io/ | UX | [![](icons/linkedin-icon.png)](https://www.linkedin.com/in/eunsunmota/) |
