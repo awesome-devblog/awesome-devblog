@@ -304,6 +304,16 @@
     "twitter": "https://twitter.com/chghyn"
   },
   {
+    "name": "권태형",
+    "blog": "https://taebbong.github.io/",
+    "rss": "https://taebbong.github.io/feed.xml",
+    "description": "Node.js",
+    "facebook": "https://www.facebook.com/taebbong",
+    "linkedin": "https://www.linkedin.com/in/taebbong/",
+    "github": "https://github.com/TaeBbong",
+    "instagram": "https://www.instagram.com/taebbong1127/"
+  },
+  {
     "name": "권태환",
     "blog": "http://thdev.tech/",
     "rss": "http://thdev.tech/feed.xml",
