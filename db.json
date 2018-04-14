@@ -1225,6 +1225,13 @@
     "description": "스타트업"
   },
   {
+    "name": "남세현",
+    "blog": "https://medium.com/@Nam_se",
+    "rss": "https://medium.com/feed/@Nam_se",
+    "description": "게임 개발",
+    "facebook": "https://www.facebook.com/sehyeon.nam.9"
+  },
+  {
     "name": "남영환",
     "blog": "http://www.whynam.com/",
     "rss": "http://www.whynam.com/feeds/posts/default",
@@ -1253,13 +1260,6 @@
     "description": "",
     "twitter": "https://twitter.com/sbroh",
     "facebook": "https://www.facebook.com/sbroh"
-  },
-  {
-    "name": "남세현",
-    "blog": "https://medium.com/@Nam_se",
-    "rss": "https://medium.com/feed/@Nam_se",
-    "description": "게임 개발",
-    "facebook": "https://www.facebook.com/sehyeon.nam.9"
   },
   {
     "name": "노용환",
