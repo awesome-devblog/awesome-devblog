@@ -3488,6 +3488,14 @@
     "youtube": "https://www.youtube.com/jangkunblog"
   },
   {
+    "name": "전미정",
+    "blog": "https://mijeongjeon.github.io/",
+    "rss": "https://mijeongjeon.github.io/feed.xml",
+    "description": "iOS, Keras",
+    "github": "https://github.com/mijeongjeon",
+    "facebook": "https://www.facebook.com/Ninevincent"
+  },
+  {
     "name": "전승현",
     "blog": "https://fuzer.github.io/",
     "rss": "https://fuzer.github.io/feed",
