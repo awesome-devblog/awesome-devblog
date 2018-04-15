@@ -58,6 +58,7 @@
 | Michael Hausenblas | https://medium.com/@mhausenblas | Open Shift, Kubernetes |
 | Mike Bostock | https://bost.ocks.org/mike/ | D3.js 창시자 |
 | Mike Gouline | https://blog.gouline.net/ | |
+| Mike McQuaid | https://mikemcquaid.com/ | Homebrew Lead Maintainer |
 | Mike Nakhimovich | https://medium.com/@theMikhail | Google Developer Expert Android |
 | Nicolai Parlog | http://blog.codefx.org/, https://medium.com/@nipa | Java channel editor at SitePoint |
 | Phil Haack | http://haacked.com/ | Github 개발자 |
