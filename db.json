@@ -645,6 +645,16 @@
     "description": "윈도우즈 커널"
   },
   {
+    "name": "김성호",
+    "blog": "http://shiren.github.io/",
+    "rss": "http://shiren.github.io/feed.xml",
+    "description": "Front-end",
+    "facebook": "https://www.facebook.com/shirenbeat",
+    "github": "https://github.com/shiren",
+    "twitter": "https://twitter.com/shirenbeat",
+    "instagram": "https://www.instagram.com/shiren/"
+  },
+  {
     "name": "김성훈",
     "blog": "http://www.se.or.kr/",
     "description": "학교 생활",
