@@ -1882,6 +1882,12 @@
     "description": "미국 취업 성공기"
   },
   {
+    "name": "서강혁",
+    "blog": "https://medium.com/@darkrasid",
+    "rss": "https://medium.com/feed/@darkrasid",
+    "description": "Docker"
+  },
+  {
     "name": "서광열",
     "profile": "people/kwangyul.seo.md",
     "blog": "http://gamecodingschool.org/",
