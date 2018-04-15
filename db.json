@@ -3969,6 +3969,12 @@
     "description": "DevOps"
   },
   {
+    "name": "조영규",
+    "blog": "http://dev.youngkyu.kr/",
+    "rss": "http://dev.youngkyu.kr/rss",
+    "description": "Android"
+  },
+  {
     "name": "조영인",
     "blog": "http://codersbrunch.blogspot.kr/",
     "rss": "http://codersbrunch.blogspot.com/feeds/posts/default",
