@@ -709,5 +709,17 @@
       <outline title="한재엽" xmlUrl="https://www.slideshare.net/rss/user/JaeYeopHan"/>
       <outline title="황상철" xmlUrl="https://www.slideshare.net/rss/user/k16wire"/>
     </outline>
+
+    <outline title="youtube" text="방송 모음">
+      <outline title="김성"훈 xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCML9R2ol-l0Ab9OXoNnr7Lw"/>
+      <outline title="백기선" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCwjaZf1WggZdbczi36bWlBA"/>
+      <outline title="이일민" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCcqH2RV1-9ebRBhmN_uaSNg"/>
+      <outline title="자가발전" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCtPPlvfv8-SzTLEPds_OWZA"/>
+      <outline title="뚜벅개발TV" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCl6ss_VCMBOSCCrVjzW2r0Q"/>
+      <outline title="케빈 TV" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCsOJxLxzQl8IbwGS-Cp5t8w"/>
+      <outline title="Ubuntu Korea" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCid525Nc3OXk6SjLZ28cX5Q"/>
+      <outline title="Assaf Muller" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC2hevos8HGSSqrv3IiHN3fg"/>
+      <outline title="David Mahler" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCEoaojfEY_6L5TWWjIn9t9Q"/>
+    </outline>
   </body>
 </opml>
