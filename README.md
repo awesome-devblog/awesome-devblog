@@ -670,6 +670,7 @@ Tag Cloud
 | 진영화 | https://brunch.co.kr/@timotolkie |  | [![](icons/rss-icon.png)](https://brunch.co.kr/rss/@@12yA) |
 | 진용진 | https://brunch.co.kr/@yongjinjinipln | IT 칼럼 | [![](icons/rss-icon.png)](https://brunch.co.kr/rss/@@2rV) |
 | 진유림 | https://milooy.wordpress.com/ | Front-end | [![](icons/rss-icon.png)](http://milooy.wordpress.com/feed/)[![](icons/facebook-icon.png)](https://www.facebook.com/jay.jin.0427)[![](icons/twitter-icon.png)](https://twitter.com/jayjinjay/)[![](icons/github-icon.png)](https://github.com/milooy)[![](icons/linkedin-icon.png)](https://www.linkedin.com/in/hellojayjin/) |
+| 전창완 | http://wani.kr/ | PHP, Backend | [![](icons/rss-icon.png)](http://wani.kr/feed)[![](icons/github-icon.png)](https://github.com/wan2land) |
 | 정민석 | https://medium.com/@HarrisonJung | 꿈많은청년들 | [![](icons/rss-icon.png)](https://medium.com/feed/@HarrisonJung)[![](icons/facebook-icon.png)](https://www.facebook.com/calmlake79) |
 
 ### ᄎ
@@ -703,7 +704,7 @@ Tag Cloud
 | 최종원 | https://brunch.co.kr/@voiz | 테크 칼럼 | [![](icons/rss-icon.png)](https://brunch.co.kr/rss/@@2nnc) |
 | 최종찬 | http://blog.0xabcdef.com/ |  | [![](icons/rss-icon.png)](http://blog.0xabcdef.com/rss/atom)[![](icons/twitter-icon.png)](https://twitter.com/disjukr)[![](icons/github-icon.png)](https://github.com/disjukr) |
 | 최준건 | http://junegunn.kr/ | fzf | [![](icons/rss-icon.png)](http://junegunn.kr/atom.xml)[![](icons/github-icon.png)](https://github.com/junegunn) |
-| 최준석 | https://jicjjang.github.io/ | Front-end | [![](icons/github-icon.png)](https://github.com/jicjjang)[![](icons/linkedin-icon.png)](https://www.linkedin.com/in/jicjjang/) |
+| 최준석 | https://jicjjang.github.io/blog | Front-end | [![](icons/github-icon.png)](https://github.com/jicjjang)[![](icons/linkedin-icon.png)](https://www.linkedin.com/in/jicjjang/) |
 | 최준호 | http://blog.saturnsoft.net/ |  | [![](icons/rss-icon.png)](http://blog.saturnsoft.net/feeds/posts/default) |
 | 최진호 | http://calmglow.egloos.com/ | Web | [![](icons/rss-icon.png)](http://rss.egloos.com/blog/calmglow) |
 | 최창원 | https://qwefgh90.github.io | 웹/번역, 컴퓨터 공학 분야 | [![](icons/rss-icon.png)](http://qwefgh90.github.io/feed.xml)[![](icons/github-icon.png)](https://github.com/qwefgh90) |
