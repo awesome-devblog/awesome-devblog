@@ -711,7 +711,7 @@
     </outline>
 
     <outline title="youtube" text="방송 모음">
-      <outline title="김성"훈 xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCML9R2ol-l0Ab9OXoNnr7Lw"/>
+      <outline title="김성훈" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCML9R2ol-l0Ab9OXoNnr7Lw"/>
       <outline title="백기선" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCwjaZf1WggZdbczi36bWlBA"/>
       <outline title="이일민" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCcqH2RV1-9ebRBhmN_uaSNg"/>
       <outline title="자가발전" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCtPPlvfv8-SzTLEPds_OWZA"/>
