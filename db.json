@@ -3911,6 +3911,13 @@
     "twitter": "https://twitter.com/seapy"
   },
   {
+    "name": "정철",
+    "blog": "http://rokking1.blog.me",
+    "rss": "http://rokking1.blog.me/rss",
+    "description": "Full-Stack",
+    "github": "https://github.com/weduls"
+  },
+  {
     "name": "정태현",
     "blog": "http://chomman.github.io/blog/",
     "rss": "http://chomman.github.io/blog/feed",
@@ -3927,13 +3934,6 @@
     "twitter": "https://twitter.com/_heeyeun",
     "dribbble": "https://dribbble.com/heeyeun",
     "behance": "https://www.behance.net/heeyeun"
-  },
-  {
-    "name": "정철",
-    "blog": "http://rokking1.blog.me",
-    "rss": "http://rokking1.blog.me/rss",
-    "description": "Full-Stack",
-    "github": "https://github.com/weduls"
   },
   {
     "name": "제갈민",

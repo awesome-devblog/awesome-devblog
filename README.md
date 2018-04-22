@@ -631,9 +631,9 @@ Tag Cloud
 | 정찬웅 | https://korchris.github.io/ |  | [![](icons/github-icon.png)](https://github.com/KorChris) |
 | 정창수 | http://downman.tistory.com/ | C | [![](icons/rss-icon.png)](http://downman.tistory.com/rss) |
 | 정창훈 | https://code.iamseapy.com/ | iOS | [![](icons/rss-icon.png)](https://code.iamseapy.com/feed)[![](icons/facebook-icon.png)](https://www.facebook.com/iamseapy)[![](icons/twitter-icon.png)](https://twitter.com/seapy) |
+| 정철 | http://rokking1.blog.me | Full-Stack | [![](icons/rss-icon.png)](http://rokking1.blog.me/rss)[![](icons/github-icon.png)](https://github.com/weduls) |
 | 정태현 | http://chomman.github.io/blog/ | Back-end | [![](icons/rss-icon.png)](http://chomman.github.io/blog/feed)[![](icons/google-plus-icon.png)](https://plus.google.com/+TaeHyunJung)[![](icons/twitter-icon.png)](https://twitter.com/JungTaehyun)[![](icons/github-icon.png)](https://github.com/chomman) |
 | 정희연 | https://yeun.github.io/ | 웹디자인 | [![](icons/twitter-icon.png)](https://twitter.com/_heeyeun)[![](icons/github-icon.png)](https://github.com/yeun) |
-| 정철 | http://rokking1.blog.me | Full-Stack | [![](icons/rss-icon.png)](http://rokking1.blog.me/rss)[![](icons/github-icon.png)](https://github.com/weduls) |
 | 제갈민 | http://jekalmin.tistory.com/ | Spring | [![](icons/rss-icon.png)](http://jekalmin.tistory.com/rss) |
 | 조동현 | https://hudi.kr/ | Front-end | [![](icons/rss-icon.png)](https://hudi.kr/feed/)[![](icons/slideshare-icon.png)](https://www.slideshare.net/Chodonghyun)[![](icons/facebook-icon.png)](https://www.facebook.com/profile.php?id=100007156273191)[![](icons/github-icon.png)](https://github.com/technol0gic) |
 | 조만석 | http://manseok.blogspot.kr |  | [![](icons/rss-icon.png)](http://manseok.blogspot.com/feeds/posts/default)[![](icons/google-plus-icon.png)](https://plus.google.com/104502755347533903451) |
