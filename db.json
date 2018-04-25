@@ -1474,6 +1474,12 @@
     "description": ""
   },
   {
+    "name": "민경운",
+    "blog": "http://min-it.tistory.com/",
+    "rss": "http://min-it.tistory.com/rss",
+    "description": "Docker"
+  },
+  {
     "name": "박경욱",
     "blog": "https://kyungw00k.github.io/",
     "rss": "https://kyungw00k.github.io/atom.xml",
