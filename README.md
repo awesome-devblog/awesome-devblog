@@ -34,10 +34,6 @@
 
 ## 국내 개인 사이트
 
-![도메인 분포](https://cdn-images-1.medium.com/max/800/1*ENxPCwUcU6drwWj044nRGw.png)
-
-![HTTPS 적용](https_chart.png)
-
 Tag Cloud
 
 ![Tag Cloud](https://cdn-images-1.medium.com/max/800/0*J6kjz84gOsXX4pNX.png)
