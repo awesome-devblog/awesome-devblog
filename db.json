@@ -316,7 +316,7 @@
     "name": "권태관",
     "blog": "https://taetaetae.github.io/",
     "rss": "https://taetaetae.github.io/atom.xml",
-    "description": "Back-end"
+    "description": "Back-end",
     "facebook": "https://www.facebook.com/taetaetae0",
     "linkedin": "https://www.linkedin.com/in/%ED%83%9C%EA%B4%80-%EA%B6%8C-517825129/"
   },
@@ -3362,6 +3362,12 @@
     "blog": "http://www.haeyounglee.com/",
     "rss": "http://feeds.feedburner.com/haeyounglee",
     "description": "개발자 영어"
+  },
+  {
+    "name": "이현",
+    "blog": "https://hy00un.github.io/",
+    "rss": "https://hy00un.github.io/feed.xml",
+    "description": "정보보호"
   },
   {
     "name": "이현규",
