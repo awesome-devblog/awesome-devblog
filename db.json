@@ -739,6 +739,13 @@
     "description": "Spring Boot"
   },
   {
+    "name": "김영웅",
+    "blog": "http://keyassist.tistory.com/",
+    "rss": "http://keyassist.tistory.com/rss",
+    "description": "Data Science",
+    "facebook": "https://www.facebook.com/keyassist"
+  },
+  {
     "name": "김영재",
     "blog": "https://youngjaekim.wordpress.com/",
     "rss": "https://youngjaekim.wordpress.com/feed/",
