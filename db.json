@@ -503,6 +503,14 @@
     "description": "프론트엔드"
   },
   {
+    "name": "김민근",
+    "blog": "http://mingeun.com/",
+    "rss": "http://mingeun.com/feed",
+    "description": "Laravel",
+    "github": "https://github.com/getsolaris",
+    "facebook": "https://www.facebook.com/mingeun.kr"
+  },
+  {
     "name": "김민서",
     "blog": "http://blog.naver.com/mseokim011117",
     "rss": "http://blog.rss.naver.com/mseokim011117.xml",
