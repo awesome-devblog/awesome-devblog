@@ -3221,7 +3221,11 @@
   {
     "name": "이완근",
     "blog": "http://icednut.github.io/",
-    "description": "Spark"
+    "rss": "http://icednut.github.io/feed",
+    "description": "Java, Spark",
+    "facebook": "https://www.facebook.com/wangeunl",
+    "github": "https://github.com/icednut",
+    "linkedin": "https://www.linkedin.com/in/wangeun-lee-550a93a2/"
   },
   {
     "name": "이웅희",
