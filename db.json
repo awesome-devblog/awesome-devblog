@@ -3048,6 +3048,17 @@
     "description": "Agile"
   },
   {
+    "name": "이봉균",
+    "blog": "https://medium.com/@deptno",
+    "rss": "https://medium.com/feed/@deptno",
+    "description": "Front-end",
+    "github": "https://github.com/deptno",
+    "twitter": "https://twitter.com/deptno",
+    "facebook": "https://www.facebook.com/bonggyun.lee.7",
+    "linkedin": "https://www.linkedin.com/in/bonggyun-lee-b55359b3/",
+    "home": "https://bglee.me/"
+  },
+  {
     "name": "이상복",
     "blog": "https://medium.com/@sangboaklee",
     "rss": "https://medium.com/feed/@sangboaklee",
