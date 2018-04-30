@@ -592,9 +592,6 @@
       <outline title="데일리호텔" type="rss" xmlUrl="https://dailyhotel.io/feed"/>
       <outline title="드라마앤컴패니 블로그" xmlUrl="http://developer.dramancompany.com/feed/"/>
       <outline title="모비인사이드" xmlUrl="http://feeds.feedburner.com/mobiinside/kr"/>
-      <outline title="보안뉴스" xmlUrl="http://www.boannews.com/media/news_rss.xml"/>
-      <outline title="블로터" xmlUrl="http://feeds.feedburner.com/Bloter"/>
-      <outline title="슬로우뉴스-테크" xmlUrl="http://slownews.kr/category/tech/feed"/>
       <outline title="아해팀 블로그" xmlUrl="https://ahea.wordpress.com/feed/"/>
       <outline title="에이콘" type="rss" xmlUrl="http://feeds.feedburner.com/acornpub"/>
       <outline title="엠비안" type="rss" xmlUrl="http://blog.embian.com/rss"/>
@@ -604,7 +601,6 @@
       <outline title="이음소시어스" type="rss" xmlUrl="http://bigmatch.i-um.net/feed/"/>
       <outline title="인사이트" type="rss" xmlUrl="http://blog.insightbook.co.kr/rss"/>
       <outline title="지금 써보러 갑니다" xmlUrl="http://icunow.co.kr/feed/"/>
-      <outline title="테크수다" type="rss" xmlUrl="http://www.techsuda.com/feed"/>
       <outline title="티몬" type="rss" xmlUrl="http://tmondev.blog.me/rss"/>
       <outline title="ㅍㅍㅅㅅ" xmlUrl="http://ppss.kr/archives/category/tech/feed"/>
       <outline title="한국게임기획자모임" type="rss" xmlUrl="http://gameplanner.cafe24.com/feed/"/>
@@ -613,6 +609,13 @@
       <outline title="Google" type="rss" xmlUrl="http://feeds.feedburner.com/GoogleDevelopersKorea?format=xml"/>
       <outline title="Mozilla" type="rss" xmlUrl="http://hacks.mozilla.or.kr/feed/"/>
       <outline title="Spoqa" type="rss" xmlUrl="http://spoqa.github.io/rss"/>
+    </outline>
+
+    <outline title="news" text="국내 IT 소식 모음">
+      <outline title="보안뉴스" xmlUrl="http://www.boannews.com/media/news_rss.xml"/>
+      <outline title="블로터" xmlUrl="http://feeds.feedburner.com/Bloter"/>
+      <outline title="슬로우뉴스-테크" xmlUrl="http://slownews.kr/category/tech/feed"/>
+      <outline title="테크수다" type="rss" xmlUrl="http://www.techsuda.com/feed"/>
     </outline>
 
     <outline title="overseas" text="해외 개발자 블로그 모음">
