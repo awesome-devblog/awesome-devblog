@@ -2430,6 +2430,14 @@
     "description": "Front-end"
   },
   {
+    "name": "안정우",
+    "blog": "https://medium.com/@jeongwooahn",
+    "rss": "https://medium.com/feed/@jeongwooahn",
+    "description": "Vue.js",
+    "twitter": "https://twitter.com/momentousChange",
+    "instagram": "https://www.instagram.com/you_and_mydrawing/"
+  },
+  {
     "name": "안정호",
     "blog": "http://ahnjungho.org/",
     "rss": "http://blog.ahnjungho.org/atom.xml",
