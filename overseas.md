@@ -140,6 +140,7 @@
 | Parrot Dev Blog | http://developer.parrot.com/blog/ | Drone |
 | PayPal Developer | https://devblog.paypal.com/ | |
 | Prismatik | https://blog.prismatik.com.au/ | |
+| Qt Blog | http://blog.qt.io/ | QT |
 | Red Hat Developer Blog | http://developerblog.redhat.com/ | |
 | RemObjects | http://blogs.remobjects.com/ | |
 | Riot Games Engineering | http://engineering.riotgames.com/ | Game |
