@@ -148,6 +148,7 @@
 | Samsung Mobile Security Blog | http://security.samsungmobile.com/ | |
 | Scalac | http://blog.scalac.io/ | Scala, Akka |
 | SDxCentral | https://www.sdxcentral.com/ | SDx |
+| Slack Engineering | https://slack.engineering/ | |
 | Stack Builder | http://www.stackbuilders.com/ | |
 | Takipi blog | http://blog.takipi.com/ | |
 | The New Stack | http://thenewstack.io/ | |
