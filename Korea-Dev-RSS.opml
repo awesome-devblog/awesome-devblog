@@ -616,7 +616,6 @@
       <outline title="달리웍스" xmlUrl="http://techblog.daliworks.net/feed.xml"/>
       <outline title="데일리호텔" type="rss" xmlUrl="https://dailyhotel.io/feed"/>
       <outline title="드라마앤컴패니 블로그" xmlUrl="http://developer.dramancompany.com/feed/"/>
-      <outline title="모비인사이드" xmlUrl="http://feeds.feedburner.com/mobiinside/kr"/>
       <outline title="아해팀 블로그" xmlUrl="https://ahea.wordpress.com/feed/"/>
       <outline title="에이콘" type="rss" xmlUrl="http://feeds.feedburner.com/acornpub"/>
       <outline title="엠비안" type="rss" xmlUrl="http://blog.embian.com/rss"/>
@@ -638,6 +637,7 @@
     </outline>
 
     <outline title="news" text="국내 IT 소식 모음">
+      <outline title="모비인사이드" xmlUrl="http://feeds.feedburner.com/mobiinside/kr"/>
       <outline title="보안뉴스" xmlUrl="http://www.boannews.com/media/news_rss.xml"/>
       <outline title="블로터" xmlUrl="http://feeds.feedburner.com/Bloter"/>
       <outline title="슬로우뉴스-테크" xmlUrl="http://slownews.kr/category/tech/feed"/>
