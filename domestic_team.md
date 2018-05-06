@@ -108,6 +108,7 @@
 | dogfeet | http://dogfeet.github.io/ | 박창우, 이신, 최용재 |
 | eBrain Blog | http://www.ebrain.kr/category/blogs/ | HR |
 | EFL Korea Community] | http://efl.or.kr | EFL, Enlightenment, Tizen |
+| Elastic Blog | https://www.elastic.co/kr/blog | Elastic Stack |
 | Gitple | http://tech.gitple.io/ | |
 | Google | http://googledevkr.blogspot.kr/ | |
 | hyper-cube.io | http://hyper-cube.io/ | |
