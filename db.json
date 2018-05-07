@@ -1197,9 +1197,12 @@
   },
   {
     "name": "김태호",
-    "blog": "http://kunny.github.io/",
-    "rss": "http://kunny.github.io/feed.xml",
-    "description": "안드로이드"
+    "blog": "http://www.androidhuman.com/",
+    "rss": "http://www.androidhuman.com/feed.xml",
+    "description": "안드로이드",
+    "twitter": "https://twitter.com/Androidhuman",
+    "linkedin": "https://www.linkedin.com/in/taeho-kim-2806ba44/",
+    "slideshare": "https://www.slideshare.net/jyte"
   },
   {
     "name": "김태호",
