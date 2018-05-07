@@ -3171,11 +3171,13 @@
   },
   {
     "name": "이선협",
-    "blog": "https://medium.com/sunhyoups-story",
-    "rss": "https://medium.com/feed/sunhyoups-story",
+    "blog": "https://medium.com/@kciter",
+    "rss": "https://medium.com/feed/@kciter",
     "description": "Back-end",
     "facebook": "https://www.facebook.com/sunhyoup.lee",
-    "github": "https://github.com/kciter"
+    "github": "https://github.com/kciter",
+    "linkedin": "https://www.linkedin.com/in/%EC%84%A0%ED%98%91-%EC%9D%B4-17951392/",
+    "slideshare": "http://www.slideshare.net/sunhyouplee"
   },
   {
     "name": "이성규",
