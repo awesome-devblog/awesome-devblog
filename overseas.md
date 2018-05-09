@@ -98,6 +98,7 @@
 | Dr.Dobb's | http://www.drdobbs.com/blogs/ | |
 | Dropbox Tech Blog | https://blogs.dropbox.com/tech/ | |
 | DZone | https://dzone.com/ | |
+| Elastic Blog | https://www.elastic.co/blog | Elastic Stack |
 | Evernote Tech Blog | http://blog.evernote.com/tech/ | |
 | Facebook Code | https://code.facebook.com/ | |
 | Facebook Developers | https://www.facebook.com/FacebookDevelopers | |

@@ -712,6 +712,7 @@
       <outline title="Bootstrap Blog" xmlUrl="http://blog.getbootstrap.com/feed.xml"/>
       <outline title="Code as Craft(Etsy)" xmlUrl="https://codeascraft.com/feed/atom/"/>
       <outline title="Dropbox Tech Blog" xmlUrl="https://blogs.dropbox.com/tech/feed/"/>
+      <outline title="Elastic Blog" xmlUrl="https://www.elastic.co/blog/feed"/>
       <outline title="Evernote Tech Blog" xmlUrl="http://blog.evernote.com/tech/feed/"/>
       <outline title="Facebook Code" xmlUrl="https://code.facebook.com/posts/rss/"/>
       <outline title="Feathers Blog" xmlUrl="https://blog.feathersjs.com/feed"/>
