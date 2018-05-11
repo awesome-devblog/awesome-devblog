@@ -1648,6 +1648,14 @@
     "description": "인도네시아 IT 소식"
   },
   {
+    "name": "박성범",
+    "blog": "http://ferrumdev.tistory.com",
+    "rss": "http://ferrumdev.tistory.com/rss",
+    "description": "컴퓨터공학, 디자인",
+    "github": "https://github.com/ParkSB",
+    "facebook": "https://www.facebook.com/parkgds"
+  },
+  {
     "name": "박성철",
     "blog": "http://blog.fupfin.com/",
     "rss": "http://blog.fupfin.com/?feed=rss2",
