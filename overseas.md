@@ -122,6 +122,7 @@
 | Kublr Team | https://blog.kublr.com/ | Kubernetes |
 | LINE | http://developers.linecorp.com/blog/ | |
 | Lua.Space | http://lua.space/ | Lua Community Blog |
+| MicroProfile Blog | https://microprofile.io/blog | MicroProfile |
 | Microsoft Edge Dev Blog | https://blogs.windows.com/msedgedev/ | |
 | Microsoft Outlook Dev Blog | http://blogs.msdn.com/b/exchangedev/ | |
 | MySQL | http://dev.mysql.com/ | |
