@@ -219,6 +219,7 @@ Tag Cloud
 | 김현유(미키김) | http://www.mickeykim.com/ | 구글 | [![](icons/rss-icon.png)](http://www.mickeykim.com/rss)[![](icons/facebook-icon.png)](https://www.facebook.com/mickeyk)[![](icons/twitter-icon.png)](https://twitter.com/mickeyk) |
 | 김형준 | http://www.gisdeveloper.co.kr/ | GIS | [![](icons/rss-icon.png)](http://www.gisdeveloper.co.kr/?feed=rss2) |
 | 김형준 | http://www.jaso.co.kr/ | 마이크로 서비스 | [![](icons/rss-icon.png)](http://www.jaso.co.kr/index.php/feed/) |
+| 김형록 | http://rokrokss.com/ | NLP | [![](icons/rss-icon.png)](http://rokrokss.com/feed.xml) | [![](icons/facebook-icon.png)](https://www.facebook.com/100004915320124) | [![](icons/github-icon.png)](https://github.com/q0115643) |
 | 김호동 | http://cogniti-works.blogspot.kr/ | nimf | [![](icons/rss-icon.png)](http://cogniti-works.blogspot.com/feeds/posts/default)[![](icons/github-icon.png)](https://github.com/cogniti) |
 | 김화수 | http://flowerexcel.tistory.com/ | C++ | [![](icons/rss-icon.png)](http://flowerexcel.tistory.com/rss) |
 | 김환희 | http://greentec.egloos.com/ | 게임개발 | [![](icons/rss-icon.png)](http://rss.egloos.com/blog/greentec) |
