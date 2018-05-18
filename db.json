@@ -1380,6 +1380,15 @@
     "description": "스타트업"
   },
   {
+    "name": "남상욱",
+    "blog": "https://nso502354.github.io/",
+    "rss": "https://nso502354.github.io/feed.xml",
+    "description": "Swift",
+    "github": "https://github.com/nso502354",
+    "baekjoon": "https://www.acmicpc.net/user/nso502354",
+    "rocketpunch": "https://www.rocketpunch.com/@nso502354"
+  },
+  {
     "name": "남세현",
     "blog": "https://medium.com/@Nam_se",
     "rss": "https://medium.com/feed/@Nam_se",
