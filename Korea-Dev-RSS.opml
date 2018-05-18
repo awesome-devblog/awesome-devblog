@@ -631,6 +631,7 @@
       <outline title="Elastic" xmlUrl="https://www.elastic.co/kr/blog/feed"/>
       <outline title="VCNC" type="rss" xmlUrl="http://engineering.vcnc.co.kr/atom.xml"/>
       <outline title="Google" type="rss" xmlUrl="http://feeds.feedburner.com/GoogleDevelopersKorea?format=xml"/>
+      <outline title="Line Engineering Blog" xmlUrl="https://engineering.linecorp.com/ko/blog/rss2"/>
       <outline title="Make Korea" type="rss" xmlUrl="http://www.make.co.kr/?feed=rss2"/>
       <outline title="Mozilla" type="rss" xmlUrl="http://hacks.mozilla.or.kr/feed/"/>
       <outline title="Popit" xmlUrl="http://www.popit.kr/feed/"/>
