@@ -636,6 +636,7 @@
       <outline title="Make Korea" type="rss" xmlUrl="http://www.make.co.kr/?feed=rss2"/>
       <outline title="Mozilla" type="rss" xmlUrl="http://hacks.mozilla.or.kr/feed/"/>
       <outline title="Popit" xmlUrl="http://www.popit.kr/feed/"/>
+      <outline title="Realm Blog" xmlUrl="https://realm.io/kr/feed.xml"/>
       <outline title="Spoqa" type="rss" xmlUrl="http://spoqa.github.io/rss"/>
     </outline>
 

@@ -127,6 +127,7 @@
 | POSICUBE Blog | https://posicube.com/blog/ | 인공지능 |
 | Rainist Engineering | https://medium.com/rainist-engineering | 뱅크샐러드 |
 | Refresh Studio | http://refreshstudio.tistory.com/ | UI/UX 디자인 |
+| Realm Blog | https://realm.io/kr/blog/ | Realm |
 | Remotty Tech Blog | http://blog.remotty.com/blog/ | |
 | RGP Tech Blog | https://rgpkorea.github.io/ | |
 | SLiPP | http://slipp.net/ | 박재성, 김현기, 오진우 |
