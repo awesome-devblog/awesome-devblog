@@ -121,6 +121,7 @@
 | Mozilla Hack | http://hacks.mozilla.or.kr/ | |
 | MSDN Korea Evengelist | https://blogs.msdn.microsoft.com/eva/ | .Net |
 | NVIDA | http://blogs.nvidia.co.kr/ | Graphic |
+| opennaru Blog | http://www.opennaru.com/blog/ | APM |
 | PoiemaWeb | http://poiemaweb.com/ | 이웅모 |
 | Popit | http://www.popit.kr/ | |
 | POSICUBE Blog | https://posicube.com/blog/ | 인공지능 |
