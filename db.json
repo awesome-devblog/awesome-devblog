@@ -1555,6 +1555,15 @@
     "description": "Docker"
   },
   {
+    "name": "민형기",
+    "blog": "http://pinkwink.kr/",
+    "rss": "http://pinkwink.kr/rss",
+    "description": "Robot, Data Science",
+    "facebook": "https://www.facebook.com/hyunggi.min.16",
+    "github": "https://github.com/PinkWink/",
+    "youtube": "https://www.youtube.com/user/pinkwink95"
+  },
+  {
     "name": "박경욱",
     "blog": "https://kyungw00k.github.io/",
     "rss": "https://kyungw00k.github.io/atom.xml",
