@@ -4486,6 +4486,13 @@
     "description": "IT 칼럼"
   },
   {
+    "name": "진민규",
+    "blog": "https://medium.com/@justin_jin",
+    "rss": "https://medium.com/feed/@justin_jin",
+    "description": "마케팅",
+    "twitter": "https://twitter.com/justin_jin"
+  },
+  {
     "name": "진성주",
     "blog": "http://softwaregeeks.org/",
     "rss": "http://softwaregeeks.org/feed/",
