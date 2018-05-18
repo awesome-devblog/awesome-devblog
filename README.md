@@ -93,7 +93,7 @@ Tag Cloud
 | 김기훈 | http://kihoonkim.github.io/ | Agile | [![](icons/slideshare-icon.png)](https://www.slideshare.net/koreakihoon)[![](icons/facebook-icon.png)](https://www.facebook.com/koreakihoon)[![](icons/github-icon.png)](https://github.com/kihoonkim)[![](icons/linkedin-icon.png)](https://www.linkedin.com/in/kihoon-kim-4630ba13b/) |
 | 김길호 | http://kilhokim.github.io/ |  |  |
 | 김나솔 | https://brunch.co.kr/@nassol | 개발자 영어 | [![](icons/rss-icon.png)](https://brunch.co.kr/rss/@@14Ig) |
-| 김남윤 | https://cheese10yun.github.io/ | Javascript, Node.JS | [![](icons/rss-icon.png)](https://cheese10yun.github.io/feed.xml)[![](icons/github-icon.png)](https://github.com/cheese10yun) |
+| 김남윤 | https://cheese10yun.github.io/ | Node.JS, Spring | [![](icons/rss-icon.png)](https://cheese10yun.github.io/feed.xml)[![](icons/github-icon.png)](https://github.com/cheese10yun) |
 | 김남훈 | http://namhoon.kim/ | Jekyll, Firebase Korea | [![](icons/rss-icon.png)](http://namhoon.kim/rss)[![](icons/github-icon.png)](https://github.com/mydamyda) |
 | 김놀부 | https://nolboo.kim/ | 번역 모음 | [![](icons/rss-icon.png)](https://nolboo.kim/feed.xml)[![](icons/github-icon.png)](https://github.com/nolboo) |
 | 김대권 | http://nacyot.com/ |  | [![](icons/rss-icon.png)](http://blog.nacyot.com/feed.xml)[![](icons/slideshare-icon.png)](https://www.slideshare.net/ext)[![](icons/google-plus-icon.png)](https://plus.google.com/+KimDaekwon)[![](icons/twitter-icon.png)](https://twitter.com/nacyo_t)[![](icons/github-icon.png)](https://github.com/nacyot)[![](icons/linkedin-icon.png)](https://www.linkedin.com/in/nacyot/) |
