@@ -633,6 +633,7 @@
       <outline title="Google" type="rss" xmlUrl="http://feeds.feedburner.com/GoogleDevelopersKorea?format=xml"/>
       <outline title="Make Korea" type="rss" xmlUrl="http://www.make.co.kr/?feed=rss2"/>
       <outline title="Mozilla" type="rss" xmlUrl="http://hacks.mozilla.or.kr/feed/"/>
+      <outline title="Popit" xmlUrl="http://www.popit.kr/feed/"/>
       <outline title="Spoqa" type="rss" xmlUrl="http://spoqa.github.io/rss"/>
     </outline>
 
