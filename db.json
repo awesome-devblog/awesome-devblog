@@ -3726,6 +3726,12 @@
     "description": "포털"
   },
   {
+    "name": "임동문",
+    "blog": "http://dmlim.egloos.com/",
+    "rss": "http://rss.egloos.com/blog/dmlim",
+    "description": "Java"
+  },
+  {
     "name": "임성진",
     "blog": "http://blog.bbom.org/",
     "rss": "http://blog.bbom.org/rss",
