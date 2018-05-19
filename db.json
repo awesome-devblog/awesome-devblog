@@ -3455,6 +3455,12 @@
     "tistory": "http://second-brain.tistory.com/"
   },
   {
+    "name": "이재현",
+    "blog": "http://www.unity3dstudy.com/",
+    "rss": "http://www.unity3dstudy.com/feed",
+    "description": "Unity"
+  },
+  {
     "name": "이재홍",
     "blog": "http://pyrasis.com/",
     "rss": "http://feeds.feedburner.com/pyrasis?format=xml",
