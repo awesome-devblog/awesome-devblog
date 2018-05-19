@@ -125,6 +125,7 @@
 | PoiemaWeb | http://poiemaweb.com/ | 이웅모 |
 | Popit | http://www.popit.kr/ | |
 | POSICUBE Blog | https://posicube.com/blog/ | 인공지능 |
+| pxd Lab | http://lab.pxd.co.kr | UX |
 | Rainist Engineering | https://medium.com/rainist-engineering | 뱅크샐러드 |
 | Refresh Studio | http://refreshstudio.tistory.com/ | UI/UX 디자인 |
 | Realm Blog | https://realm.io/kr/blog/ | Realm |
