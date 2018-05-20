@@ -3152,7 +3152,8 @@
     "blog": "https://medium.com/@premist",
     "rss": "https://medium.com/feed/@premist",
     "description": "Docker",
-    "twitter": "https://twitter.com/premist"
+    "twitter": "https://twitter.com/premist",
+    "home": "https://si.mpli.st/"
   },
   {
     "name": "이민석",
