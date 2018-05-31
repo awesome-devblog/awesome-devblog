@@ -340,6 +340,7 @@ Tag Cloud
 | 방준영 | http://bangjunyoung.blogspot.kr/ | Java | [![](icons/rss-icon.png)](http://feeds.feedburner.com/junyoung?format=xml) |
 | 배기홍 | http://www.thestartupbible.com/ | IT 칼럼 | [![](icons/rss-icon.png)](http://feeds.feedburner.com/baenefit/slXh)[![](icons/twitter-icon.png)](https://twitter.com/khbae) |
 | 배성혁 | http://debop.tumblr.com/ | 스칼라 | [![](icons/rss-icon.png)](http://debop.tumblr.com/rss) |
+| 배수한 | https://blog.naver.com/soohan530 | 고등학생 개발 | [![](icons/rss-icon.png)](https://rss.blog.naver.com/soohan530.xml)[![](icons/github-icon.png)](https://github.com/SoohanBae)|
 | 배진호 | https://medium.com/@baejinho/ | 스타트업, 치킨모임 | [![](icons/rss-icon.png)](https://medium.com/feed/@baejinho)[![](icons/facebook-icon.png)](https://www.facebook.com/bae.jinho.3) |
 | 백재연 | http://jybaek.tistory.com/ | Cloud | [![](icons/rss-icon.png)](http://jybaek.tistory.com/rss)[![](icons/facebook-icon.png)](https://www.facebook.com/WeGuardia)[![](icons/github-icon.png)](https://github.com/jybaek) |
 | 백종찬 | https://brunch.co.kr/@jeffpaik | 블록체인 | [![](icons/rss-icon.png)](https://brunch.co.kr/rss/@@CHl) |
