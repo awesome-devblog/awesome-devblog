@@ -781,6 +781,13 @@
     "description": "Spring Boot"
   },
   {
+    "name": "김영우",
+    "blog": "http://datajournal.kr/",
+    "rss": "http://datajournal.kr/feed/",
+    "description": "데이터 분석",
+    "github": "https://github.com/youngwoos"
+  },
+  {
     "name": "김영웅",
     "blog": "http://keyassist.tistory.com/",
     "rss": "http://keyassist.tistory.com/rss",
