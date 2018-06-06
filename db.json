@@ -3185,6 +3185,12 @@
     "description": ""
   },
   {
+    "name": "이동욱",
+    "blog": "https://blog.naver.com/edy5016",
+    "rss": "https://rss.blog.naver.com/edy5016.xml",
+    "description": "Spring Boot"
+  },
+  {
     "name": "이동인",
     "blog": "https://brunch.co.kr/@leedongins",
     "rss": "https://brunch.co.kr/rss/@@1ffs",
