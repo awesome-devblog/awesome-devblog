@@ -1900,6 +1900,13 @@
     "description": "Front-end"
   },
   {
+    "name": "박준호",
+    "blog": "https://blessingdev.wordpress.com/",
+    "rss": "https://blessingdev.wordpress.com/feed/",
+    "description": "Python",
+    "github": "https://github.com/BlessingDev"
+  },
+  {
     "name": "박지수",
     "blog": "https://medium.com/@JisuPark",
     "rss": "https://medium.com/feed/@JisuPark",
