@@ -821,6 +821,7 @@
       <outline title="devCAT Studio" xmlUrl="https://www.slideshare.net/rss/user/devcatpublications"/>
       <outline title="NAVER D2" xmlUrl="https://www.slideshare.net/rss/user/deview"/>
       <outline title="Oracle Korea" xmlUrl="https://www.slideshare.net/rss/user/OracleDeveloperkr"/>
+      <outline title="Ubuntu Korea Community" xmlUrl="https://www.slideshare.net/rss/user/UbuntuKorea"/>
     </outline>
 
     <outline title="youtube" text="방송 모음">
@@ -833,6 +834,7 @@
       <outline title="Ubuntu Korea" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCid525Nc3OXk6SjLZ28cX5Q"/>
       <outline title="Assaf Muller" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC2hevos8HGSSqrv3IiHN3fg"/>
       <outline title="David Mahler" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCEoaojfEY_6L5TWWjIn9t9Q"/>
+      <outline title="Ubuntu Korea" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCid525Nc3OXk6SjLZ28cX5Q"/>
     </outline>
   </body>
 </opml>

@@ -138,6 +138,7 @@
 | The Blockchain | http://theblockchain.kr/ | |
 | Tumblr | http://engineering.tumblr.com/ | |
 | tyle | https://blog.tyle.io/ | |
+| Ubuntu Korea Community | https://www.ubuntu-kr.org/ | Ubuntu |
 | VCNC | http://engineering.vcnc.co.kr/ | |
 | Web Framework | http://webframeworks.kr/ | |
 | We Build Product | https://webuildproduct.com/ | 프로덕트 디자인 & 매니지먼트 |
