@@ -2361,8 +2361,8 @@
   },
   {
     "name": "송재윤",
-    "blog": "http://blog.jaeyoon.io/",
-    "rss": "http://blog.jaeyoon.io/feed/",
+    "blog": "https://blog.jaeyoon.io/",
+    "rss": "https://blog.jaeyoon.io/feed.xml",
     "description": "Front-end",
     "facebook": "https://www.facebook.com/i.am.jyoon",
     "github": "https://github.com/jyoonsong",
