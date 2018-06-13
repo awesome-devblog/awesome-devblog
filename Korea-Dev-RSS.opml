@@ -846,5 +846,17 @@
       <outline title="SnowL TV" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCQb8-qm-W9f4Wvf6r_kEf0A"/>
       <outline title="Smile Han" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCM8wseo6DkA-D7yGlCrcrwA"/>
     </outline>
+
+    <outline title="release" text="릴리즈 노트">
+      <outline title="Boostnote" xmlUrl="https://github.com/BoostIO/Boostnote/releases.atom"/>
+      <outline title="deno" xmlUrl="https://github.com/ry/deno/releases.atom"/>
+      <outline title="flutter" xmlUrl="https://github.com/flutter/flutter/releases.atom"/>
+      <outline title="react" xmlUrl="https://github.com/facebook/react/releases.atom"/>
+      <outline title="signale" xmlUrl="https://github.com/klauscfhq/signale/releases.atom"/>
+      <outline title="Stacer" xmlUrl="https://github.com/oguzhaninan/Stacer/releases.atom"/>
+      <outline title="tensorflow" xmlUrl="https://github.com/tensorflow/tensorflow/releases.atom"/>
+      <outline title="vscode" xmlUrl="https://github.com/Microsoft/vscode/releases.atom"/>
+      <outline title="vue" xmlUrl="https://github.com/vuejs/vue/releases.atom"/>
+    </outline>
   </body>
 </opml>
