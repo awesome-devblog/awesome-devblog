@@ -4696,9 +4696,10 @@
   },
   {
     "name": "진영화",
-    "blog": "https://brunch.co.kr/@timotolkie",
-    "rss": "https://brunch.co.kr/rss/@@12yA",
-    "description": ""
+    "blog": "https://medium.com/@timotolkie",
+    "rss": "https://medium.com/feed/@timotolkie",
+    "description": "Javascript",
+    "twitter": "https://twitter.com/timotolkie"
   },
   {
     "name": "진용진",
