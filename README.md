@@ -54,7 +54,7 @@ Tag Cloud
 | 강성훈 | http://mearie.org/ | 카일루아 | [![](icons/rss-icon.png)](http://j.mearie.org/rss)[![](icons/twitter-icon.png)](https://twitter.com/senokay/)[![](icons/github-icon.png)](https://github.com/lifthrasiir/) |
 | 강성훈 | https://medium.com/@devholic | RxJava | [![](icons/rss-icon.png)](https://medium.com/feed/@devholic) |
 | 강성희 | https://medium.com/@shaynekang |  | [![](icons/rss-icon.png)](https://medium.com/feed/@shaynekang) |
-| 강준영 | http://juneyoung.kr/ | Web | [![](icons/rss-icon.png)](https://juneyoung-kang.github.io/blog/feed)[![](icons/facebook-icon.png)](https://www.facebook.com/develophics)[![](icons/twitter-icon.png)](https://twitter.com/juneyoung_kang)[![](icons/github-icon.png)](https://github.com/juneyoung-kang) |
+| 강준영 | http://juneyoung.kr/ | Web | [![](icons/facebook-icon.png)](https://www.facebook.com/develophics)[![](icons/twitter-icon.png)](https://twitter.com/juneyoung_kang)[![](icons/github-icon.png)](https://github.com/juneyoung-kang) |
 | [강진우](people/alden.md) | https://brunch.co.kr/@alden | Linux | [![](icons/rss-icon.png)](https://brunch.co.kr/rss/@@3Y0) |
 | 강태욱 | http://daddynkidsmakers.blogspot.kr/ | IoT | [![](icons/rss-icon.png)](http://daddynkidsmakers.blogspot.com/feeds/posts/default)[![](icons/google-plus-icon.png)](https://plus.google.com/112824100259820007072) |
 | 강한별 | https://brunch.co.kr/@cloud09 | 데이터 분석 | [![](icons/rss-icon.png)](https://brunch.co.kr/rss/@@m6q)[![](icons/github-icon.png)](https://github.com/dearcloud09)[![](icons/linkedin-icon.png)](https://www.linkedin.com/in/cloud09/) |
@@ -228,6 +228,7 @@ Tag Cloud
 | 김형준 | http://www.gisdeveloper.co.kr/ | GIS | [![](icons/rss-icon.png)](http://www.gisdeveloper.co.kr/?feed=rss2) |
 | 김형준 | http://www.jaso.co.kr/ | 마이크로 서비스 | [![](icons/rss-icon.png)](http://www.jaso.co.kr/index.php/feed/) |
 | 김형준 | http://www.smallake.kr/ | 트레이딩 | [![](icons/rss-icon.png)](http://www.smallake.kr/?feed=rss2)[![](icons/google-plus-icon.png)](https://plus.google.com/100380198405576126401)[![](icons/facebook-icon.png)](https://www.facebook.com/smallake)[![](icons/twitter-icon.png)](https://twitter.com/smallake) |
+| 김형철 | https://sites.google.com/site/hcgoon | Java, 개인위키(주로 일본어) | [![](icons/facebook-icon.png)](https://www.facebook.com/buzzricksons)[![](icons/github-icon.png)](https://github.com/buzzricksons)[![](icons/linkedin-icon.png)](https://www.linkedin.com/in/hyungcheol-kim) |
 | 김형록 | http://rokrokss.com | NLP | [![](icons/rss-icon.png)](http://rokrokss.com/feed.xml)[![](icons/facebook-icon.png)](https://www.facebook.com/100004915320124)[![](icons/github-icon.png)](https://github.com/q0115643) |
 | 김호동 | http://cogniti-works.blogspot.kr/ | nimf | [![](icons/rss-icon.png)](http://cogniti-works.blogspot.com/feeds/posts/default)[![](icons/github-icon.png)](https://github.com/cogniti) |
 | 김화수 | http://flowerexcel.tistory.com/ | C++ | [![](icons/rss-icon.png)](http://flowerexcel.tistory.com/rss) |
@@ -335,6 +336,7 @@ Tag Cloud
 | 박진서 | http://jasonpark.me/ | Algorithm | [![](icons/github-icon.png)](https://github.com/parkjs814) |
 | 박진우 | https://www.jinpark.net/ |  | [![](icons/rss-icon.png)](https://www.jinpark.net/feed.xml)[![](icons/github-icon.png)](https://github.com/jinpark) |
 | 박찬민 | https://walkinpcm.blogspot.kr/ | AWS | [![](icons/rss-icon.png)](https://walkinpcm.blogspot.com/feeds/posts/default)[![](icons/google-plus-icon.png)](https://plus.google.com/106450018792404056023)[![](icons/linkedin-icon.png)](https://www.linkedin.com/in/chanminpark/) |
+| 박찬성 | https://medium.com/@parkchansung | TensorFlow | [![](icons/rss-icon.png)](https://medium.com/feed/@parkchansung)[![](icons/facebook-icon.png)](https://www.facebook.com/Thomas.CS.Park) |
 | 박찬준 | http://blog.naver.com/bcj1210 | NLP | [![](icons/rss-icon.png)](https://rss.blog.naver.com/bcj1210.xml)[![](icons/facebook-icon.png)](https://www.facebook.com/chanjune.park) |
 | 박찬엽 | https://mrchypark.github.io/ | R | [![](icons/rss-icon.png)](https://mrchypark.github.io/index.xml)[![](icons/facebook-icon.png)](https://www.facebook.com/mrchypark)[![](icons/twitter-icon.png)](https://twitter.com/mrchypark_)[![](icons/github-icon.png)](https://github.com/mrchypark)[![](icons/linkedin-icon.png)](https://www.linkedin.com/in/chanyubpark/) |
 | 박찬욱 | http://chanwookpark.github.io/ | Back-end | [![](icons/facebook-icon.png)](https://www.facebook.com/chanwook.park.1)[![](icons/github-icon.png)](https://github.com/chanwookpark)[![](icons/linkedin-icon.png)](https://www.linkedin.com/in/chanwook-park-47304148) |
@@ -346,8 +348,8 @@ Tag Cloud
 | 반진우 | https://mathbarn.wordpress.com/ | Ubuntu | [![](icons/rss-icon.png)](https://mathbarn.wordpress.com/feed/) |
 | 방준영 | http://bangjunyoung.blogspot.kr/ | Java | [![](icons/rss-icon.png)](http://feeds.feedburner.com/junyoung?format=xml) |
 | 배기홍 | http://www.thestartupbible.com/ | IT 칼럼 | [![](icons/rss-icon.png)](http://feeds.feedburner.com/baenefit/slXh)[![](icons/twitter-icon.png)](https://twitter.com/khbae) |
+| 배수한 | https://blog.naver.com/soohan530/ | 고등학생 개발 | [![](icons/rss-icon.png)](https://rss.blog.naver.com/soohan530.xml)[![](icons/github-icon.png)](https://github.com/SoohanBae) |
 | 배성혁 | http://debop.tumblr.com/ | 스칼라 | [![](icons/rss-icon.png)](http://debop.tumblr.com/rss) |
-| 배수한 | https://blog.naver.com/soohan530 | 고등학생 개발 | [![](icons/rss-icon.png)](https://rss.blog.naver.com/soohan530.xml)[![](icons/github-icon.png)](https://github.com/SoohanBae)|
 | 배진호 | https://medium.com/@baejinho/ | 스타트업, 치킨모임 | [![](icons/rss-icon.png)](https://medium.com/feed/@baejinho)[![](icons/facebook-icon.png)](https://www.facebook.com/bae.jinho.3) |
 | 백재연 | http://jybaek.tistory.com/ | Cloud | [![](icons/rss-icon.png)](http://jybaek.tistory.com/rss)[![](icons/facebook-icon.png)](https://www.facebook.com/WeGuardia)[![](icons/github-icon.png)](https://github.com/jybaek) |
 | 백종찬 | https://brunch.co.kr/@jeffpaik | 블록체인 | [![](icons/rss-icon.png)](https://brunch.co.kr/rss/@@CHl) |
@@ -356,7 +358,7 @@ Tag Cloud
 | 백영진 | http://koreaceladon.tistory.com/ | Storage | [![](icons/rss-icon.png)](http://koreaceladon.tistory.com/rss)[![](icons/facebook-icon.png)](https://www.facebook.com/Apheleia) |
 | 범이 | http://blog.daum.net/funfunction | FP | [![](icons/rss-icon.png)](http://blog.daum.net/xml/rss/funfunction) |
 | 변규현 | https://novemberde.github.io/ | AWS | [![](icons/github-icon.png)](https://github.com/novemberde)[![](icons/linkedin-icon.png)](https://www.linkedin.com/in/kyuhyun-byun-70a228115/) |
-| 변성윤 | https://zzsza.github.io/ | Machine Learning, Deep Learning, Data Engineering, BigQuery | [![](icons/rss-icon.png)](https://zzsza.github.io/feed)[![](icons/facebook-icon.png)](https://www.facebook.com/zzsza)[![](icons/github-icon.png)](https://github.com/zzsza)[![](icons/linkedin-icon.png)](https://www.linkedin.com/in/seong-yun-byeon-8183a8113/)
+| 변성윤 | https://zzsza.github.io/ | Machine Learning, Deep Learning, Data Engineering, BigQuery | [![](icons/rss-icon.png)](https://zzsza.github.io/feed)[![](icons/facebook-icon.png)](https://www.facebook.com/zzsza)[![](icons/github-icon.png)](https://github.com/zzsza)[![](icons/linkedin-icon.png)](https://www.linkedin.com/in/seong-yun-byeon-8183a8113/) |
 | 변정훈(Outsider) | http://blog.outsider.ne.kr/ | Web | [![](icons/rss-icon.png)](http://feeds.feedburner.com/rss_outsider_dev?format=xml)[![](icons/facebook-icon.png)](https://www.facebook.com/jeonghoon.byun)[![](icons/twitter-icon.png)](https://twitter.com/outsideris)[![](icons/github-icon.png)](https://github.com/outsideris)[![](icons/linkedin-icon.png)](https://www.linkedin.com/in/jeonghun-byeon-5745b717/) |
 | 변수민 | http://blog.suminb.com/ |  | [![](icons/rss-icon.png)](http://blog.suminb.com/feed.xml)[![](icons/twitter-icon.png)](https://twitter.com/suminb)[![](icons/github-icon.png)](https://github.com/suminb) |
 | 부종민 | https://durtchrt.github.io/blog/ | Java, Spring | [![](icons/facebook-icon.png)](https://www.facebook.com/boojongmin)[![](icons/github-icon.png)](https://github.com/boojongmin) |
@@ -392,7 +394,7 @@ Tag Cloud
 | 송원준 | http://wonjun.kr/ |  | [![](icons/rss-icon.png)](http://blog.wonjun.kr/rss)[![](icons/github-icon.png)](https://github.com/songjun51) |
 | 송윤섭 | https://songyunseop.github.io/ | Python, Node.js | [![](icons/rss-icon.png)](https://songyunseop.github.io/atom.xml)[![](icons/facebook-icon.png)](https://www.facebook.com/yunseop.song.9)[![](icons/github-icon.png)](https://github.com/songyunseop)[![](icons/linkedin-icon.png)](https://www.linkedin.com/in/yunseop-song-698226110/) |
 | 송은우 | https://rampart81.github.io/ | Python | [![](icons/rss-icon.png)](https://rampart81.github.io/index.xml)[![](icons/github-icon.png)](https://github.com/rampart81)[![](icons/linkedin-icon.png)](https://www.linkedin.com/in/ewsong/) |
-| 송재윤 | http://blog.jaeyoon.io/ | Front-end | [![](icons/rss-icon.png)](http://blog.jaeyoon.io/feed/)[![](icons/facebook-icon.png)](https://www.facebook.com/i.am.jyoon)[![](icons/github-icon.png)](https://github.com/jyoonsong) |
+| 송재윤 | https://blog.jaeyoon.io/ | Front-end | [![](icons/rss-icon.png)](https://blog.jaeyoon.io/feed.xml)[![](icons/facebook-icon.png)](https://www.facebook.com/i.am.jyoon)[![](icons/github-icon.png)](https://github.com/jyoonsong)[![](icons/linkedin-icon.png)](https://www.linkedin.com/in/jyoonsong/) |
 | 송주성(빈꿈) | http://emptydream.tistory.com/ | IT 칼럼 | [![](icons/rss-icon.png)](http://emptydream.tistory.com/rss) |
 | 송준현 | https://medium.com/@it_sjh9973 |  | [![](icons/rss-icon.png)](https://medium.com/feed/@it_sjh9973)[![](icons/twitter-icon.png)](https://twitter.com/it_sjh9973) |
 | 송호연 | https://brunch.co.kr/@chris-song/ |  | [![](icons/rss-icon.png)](https://brunch.co.kr/rss/@@IgT) |
@@ -433,6 +435,7 @@ Tag Cloud
 | 안성현 | http://ash84.net/ | Python | [![](icons/facebook-icon.png)](https://www.facebook.com/sh84ahn)[![](icons/twitter-icon.png)](https://twitter.com/sh84ahn)[![](icons/github-icon.png)](https://github.com/AhnSeongHyun)[![](icons/linkedin-icon.png)](https://www.linkedin.com/in/seonghyun-ahn-9098a640/) |
 | 안수빈 | http://nyeong.github.io/ | Python | [![](icons/rss-icon.png)](http://nyeong.github.io/feed.xml)[![](icons/github-icon.png)](https://github.com/nyeong) |
 | 안승규 | http://ahnseungkyu.com/ | OpenStack | [![](icons/rss-icon.png)](http://ahnseungkyu.com/rss) |
+| 안영선 | https://lovemewithoutall.github.io/ | Android, Web | [![](icons/rss-icon.png)](https://lovemewithoutall.github.io/feed.xml)[![](icons/facebook-icon.png)](https://www.facebook.com/youngsun.ahn.14)[![](icons/twitter-icon.png)](https://twitter.com/@Ahn_YoungSun)[![](icons/github-icon.png)](https://github.com/LoveMeWithoutAll)[![](icons/linkedin-icon.png)](https://www.linkedin.com/in/youngseon-ahn/) |
 | 안영회 | http://www.popit.kr/author/tony/ | 아키텍처 | [![](icons/rss-icon.png)](http://www.popit.kr/author/tony/feed/) |
 | 안오균 | http://ohgyun.com/ | iOS, Python | [![](icons/rss-icon.png)](http://ohgyun.com/rss)[![](icons/slideshare-icon.png)](https://www.slideshare.net/OhgyunAhn)[![](icons/facebook-icon.png)](https://www.facebook.com/ohgyun.ahn.5)[![](icons/twitter-icon.png)](https://twitter.com/ohgyun/)[![](icons/github-icon.png)](https://github.com/ohgyun)[![](icons/linkedin-icon.png)](https://www.linkedin.com/in/ohgyun/) |
 | 안윤호 | http://toyfab.tistory.com/ | 마이크로 프로세서 | [![](icons/rss-icon.png)](http://toyfab.tistory.com/rss) |
@@ -574,7 +577,7 @@ Tag Cloud
 | 이임복 | https://brunch.co.kr/@eundang | IT 트렌드 | [![](icons/facebook-icon.png)](https://www.facebook.com/prestonbok)[![](icons/twitter-icon.png)](https://twitter.com/eundang)[![](icons/linkedin-icon.png)](https://www.linkedin.com/in/lim-bok-lee-2a4b6541/) |
 | 이재현 | http://www.unity3dstudy.com/ | Unity | [![](icons/rss-icon.png)](http://www.unity3dstudy.com/feed) |
 | 이재홍 | http://pyrasis.com/ | Go | [![](icons/rss-icon.png)](http://feeds.feedburner.com/pyrasis?format=xml)[![](icons/github-icon.png)](https://github.com/pyrasis) |
-| 이정근 | http://blog.cjred.net/ | OpenShift | [![](icons/facebook-icon.png)](https://www.facebook.com/cjred77)[![](icons/twitter-icon.png)](https://twitter.com/cjred77)[![](icons/github-icon.png)](https://github.com/redrebel) |
+| 이정근 | http://blog.cjred.net/ | OpenShift | [![](icons/slideshare-icon.png)](https://www.slideshare.net/redrebel)[![](icons/facebook-icon.png)](https://www.facebook.com/cjred77)[![](icons/twitter-icon.png)](https://twitter.com/cjred77)[![](icons/github-icon.png)](https://github.com/redrebel)[![](icons/linkedin-icon.png)](https://www.linkedin.com/in/junggeun-lee/) |
 | 이정영 | https://blog.jyslash.com/@jungyounglee | UI 디자인 | [![](icons/facebook-icon.png)](https://www.facebook.com/leejungyoung) |
 | 이정운 | https://medium.com/@jwlee98 | GCP | [![](icons/rss-icon.png)](https://medium.com/feed/@jwlee98) |
 | 이정원 | https://brunch.co.kr/@madlymissyou | IT 칼럼 | [![](icons/rss-icon.png)](https://brunch.co.kr/rss/@@aBL)[![](icons/facebook-icon.png)](https://www.facebook.com/madlymissyou) |
@@ -652,6 +655,7 @@ Tag Cloud
 | 전무익 | https://medium.com/@muik |  | [![](icons/rss-icon.png)](https://medium.com/feed/@muik)[![](icons/facebook-icon.png)](https://www.facebook.com/muik.jeon)[![](icons/twitter-icon.png)](https://twitter.com/muik) |
 | 전민수 | https://brunch.co.kr/@ebprux | UX | [![](icons/rss-icon.png)](https://brunch.co.kr/rss/@@2fEJ) |
 | 전상혁 | http://sanghyukchun.github.io/ | Machine Learning | [![](icons/rss-icon.png)](http://sanghyukchun.github.io/atom.xml) |
+| 전종홍 | http://mobile2.tistory.com/ | 기술 동향 | [![](icons/rss-icon.png)](http://mobile2.tistory.com/rss)[![](icons/facebook-icon.png)](https://www.facebook.com/1biit) |
 | 전창완 | http://wani.kr/ | PHP, Backend | [![](icons/rss-icon.png)](http://wani.kr/feed)[![](icons/github-icon.png)](https://github.com/wan2land) |
 | 전현준 | http://guswnsxodlf.github.io/ | Web | [![](icons/rss-icon.png)](http://guswnsxodlf.github.io/feed.xml)[![](icons/facebook-icon.png)](https://www.facebook.com/guswnsxodlf)[![](icons/github-icon.png)](https://github.com/guswnsxodlf) |
 | 전형탁 | http://hjun.me/ | UI | [![](icons/linkedin-icon.png)](https://www.linkedin.com/in/jsonjun/) |
@@ -724,7 +728,7 @@ Tag Cloud
 | 진민규 | https://medium.com/@justin_jin | 마케팅 | [![](icons/rss-icon.png)](https://medium.com/feed/@justin_jin)[![](icons/twitter-icon.png)](https://twitter.com/justin_jin) |
 | 진성주 | http://softwaregeeks.org/ | 오픈소스 | [![](icons/rss-icon.png)](http://softwaregeeks.org/feed/) |
 | 진수민 | http://blog.naver.com/pistolcaffe | Android | [![](icons/rss-icon.png)](https://rss.blog.naver.com/pistolcaffe.xml) |
-| 진영화 | https://brunch.co.kr/@timotolkie |  | [![](icons/rss-icon.png)](https://brunch.co.kr/rss/@@12yA) |
+| 진영화 | https://medium.com/@timotolkie | Javascript | [![](icons/rss-icon.png)](https://medium.com/feed/@timotolkie)[![](icons/twitter-icon.png)](https://twitter.com/timotolkie) |
 | 진용진 | https://brunch.co.kr/@yongjinjinipln | IT 칼럼 | [![](icons/rss-icon.png)](https://brunch.co.kr/rss/@@2rV) |
 | 진유림 | https://milooy.wordpress.com/ | Front-end | [![](icons/rss-icon.png)](http://milooy.wordpress.com/feed/)[![](icons/slideshare-icon.png)](https://www.slideshare.net/jayjin0427)[![](icons/facebook-icon.png)](https://www.facebook.com/jay.jin.0427)[![](icons/twitter-icon.png)](https://twitter.com/jayjinjay/)[![](icons/github-icon.png)](https://github.com/milooy)[![](icons/linkedin-icon.png)](https://www.linkedin.com/in/hellojayjin/) |
 | 정민석 | https://medium.com/@HarrisonJung | 꿈많은청년들 | [![](icons/rss-icon.png)](https://medium.com/feed/@HarrisonJung)[![](icons/facebook-icon.png)](https://www.facebook.com/calmlake79) |
@@ -770,6 +774,7 @@ Tag Cloud
 | 최진호 | http://calmglow.egloos.com/ | Web | [![](icons/rss-icon.png)](http://rss.egloos.com/blog/calmglow) |
 | 최창규 | https://brunch.co.kr/@cg4jins | 카카오헤어샵 서버 개발 후기 | [![](icons/rss-icon.png)](https://brunch.co.kr/rss/@@399)[![](icons/github-icon.png)](https://github.com/cg4jins) |
 | 최창원 | https://qwefgh90.github.io | 웹/번역, 컴퓨터 공학 분야 | [![](icons/rss-icon.png)](http://qwefgh90.github.io/feed.xml)[![](icons/github-icon.png)](https://github.com/qwefgh90) |
+| 최창하 | https://alklid.github.io/dlog/ | Spark | [![](icons/rss-icon.png)](https://alklid.github.io/dlog/feed)[![](icons/github-icon.png)](https://github.com/alklid) |
 | 최철호 | https://brunch.co.kr/@chulhochoiucj0 | UI/UX 디자인 | [![](icons/rss-icon.png)](https://brunch.co.kr/rss/@@2Qq) |
 | 최충엽 | https://medium.com/@albertseewhy |  | [![](icons/rss-icon.png)](https://medium.com/feed/@albertseewhy)[![](icons/facebook-icon.png)](https://www.facebook.com/albertseewhy)[![](icons/twitter-icon.png)](https://twitter.com/AlbertSeeWhy) |
 | 최혁재 | https://brunch.co.kr/@mirr5510 | 스타트업 | [![](icons/rss-icon.png)](https://brunch.co.kr/rss/@@kDx) |
