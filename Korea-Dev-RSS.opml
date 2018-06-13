@@ -826,6 +826,7 @@
 
     <outline title="youtube" text="방송 모음">
       <outline title="김성훈" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCML9R2ol-l0Ab9OXoNnr7Lw"/>
+      <outline title="두들낙서" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCmGcqqKdIKnH_-oHnkoyshg"/>
       <outline title="백기선" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCwjaZf1WggZdbczi36bWlBA"/>
       <outline title="생활코딩" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCvc8kv-i5fvFTJBFAk6n1SA"/>
       <outline title="스무디 TV" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCo-7BoOyUN6SrtCGWaAV81Q"/>
