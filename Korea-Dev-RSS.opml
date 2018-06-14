@@ -849,14 +849,24 @@
 
     <outline title="release" text="릴리즈 노트">
       <outline title="Boostnote" xmlUrl="https://github.com/BoostIO/Boostnote/releases.atom"/>
+      <outline title="containerd" xmlUrl="https://github.com/containerd/containerd/releases.atom"/>
       <outline title="deno" xmlUrl="https://github.com/ry/deno/releases.atom"/>
+      <outline title="elasticsearch" xmlUrl="https://github.com/elastic/elasticsearch/releases.atom"/>
+      <outline title="fluentd" xmlUrl="https://github.com/fluent/fluentd/releases.atom"/>
       <outline title="flutter" xmlUrl="https://github.com/flutter/flutter/releases.atom"/>
+      <outline title="grpc" xmlUrl="https://github.com/grpc/grpc/releases.atom"/>
+      <outline title="keras" xmlUrl="https://github.com/keras-team/keras/releases.atom"/>
+      <outline title="kibana" xmlUrl="https://github.com/elastic/kibana/releases.atom"/>
+      <outline title="kubernetes" xmlUrl="https://github.com/kubernetes/kubernetes/releases.atom"/>
+      <outline title="linkerd" xmlUrl="https://github.com/linkerd/linkerd/releases.atom"/>
       <outline title="react" xmlUrl="https://github.com/facebook/react/releases.atom"/>
       <outline title="signale" xmlUrl="https://github.com/klauscfhq/signale/releases.atom"/>
+      <outline title="spring-boot" xmlUrl="https://github.com/spring-projects/spring-boot/releases.atom"/>
       <outline title="Stacer" xmlUrl="https://github.com/oguzhaninan/Stacer/releases.atom"/>
       <outline title="tensorflow" xmlUrl="https://github.com/tensorflow/tensorflow/releases.atom"/>
       <outline title="vscode" xmlUrl="https://github.com/Microsoft/vscode/releases.atom"/>
       <outline title="vue" xmlUrl="https://github.com/vuejs/vue/releases.atom"/>
+      <outline title="prometheus" xmlUrl="https://github.com/prometheus/prometheus/releases.atom"/>
     </outline>
   </body>
 </opml>
