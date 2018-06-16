@@ -661,6 +661,7 @@
       <outline title="아해팀 블로그" xmlUrl="https://ahea.wordpress.com/feed/"/>
       <outline title="에이콘" type="rss" xmlUrl="http://feeds.feedburner.com/acornpub"/>
       <outline title="엠비안" type="rss" xmlUrl="http://blog.embian.com/rss"/>
+      <outline title="오라클 클라우드 기술 블로그" xmlUrl="http://www.oracloud.kr/index.xml"/>
       <outline title="우아한형제들 기술 블로그" xmlUrl="http://woowabros.github.io/feed.xml"/>
       <outline title="위클립스" type="rss" xmlUrl="http://eclipse.or.kr/index.php?title=특수기능:최근바뀜&amp;feed=atom"/>
       <outline title="이상한모임" type="rss" xmlUrl="http://blog.weirdx.io/feed/"/>

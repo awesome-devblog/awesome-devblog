@@ -54,6 +54,7 @@
 | 에스엔티소프트 | http://www.sntsoft.co.kr/ | |
 | 엔씨소프트 | http://blog.ncsoft.com/ | |
 | 엠비안 | http://blog.embian.com/ | |
+| 오라클 클라우드 기술 블로그 | http://www.oracloud.kr/ | Cloud |
 | 오마이트립 기술블로그 | https://ohmytriptech.github.io/ | |
 | 오픈넷 | http://opennet.or.kr/ | 웹접근성 |
 | 오픈스택 한국 커뮤니티 | http://openstack.or.kr/ | OpenStack |
