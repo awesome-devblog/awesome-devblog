@@ -851,25 +851,48 @@
     </outline>
 
     <outline title="release" text="릴리즈 노트">
+      <outline title="AngularJS" xmlUrl="https://github.com/angular/angular.js/releases.atom"/>
+      <outline title="Animate.css" xmlUrl="https://github.com/daneden/animate.css/releases.atom"/>
+      <outline title="Ansible" xmlUrl="https://github.com/ansible/ansible/releases.atom"/>
+      <outline title="Atom" xmlUrl="https://github.com/atom/atom/releases.atom"/>
+      <outline title="Babel" xmlUrl="https://github.com/babel/babel/releases.atom"/>
       <outline title="Boostnote" xmlUrl="https://github.com/BoostIO/Boostnote/releases.atom"/>
+      <outline title="Bootstrap" xmlUrl="https://github.com/twbs/bootstrap/releases.atom"/>
       <outline title="containerd" xmlUrl="https://github.com/containerd/containerd/releases.atom"/>
+      <outline title="D3" xmlUrl="https://github.com/d3/d3/releases.atom"/>
       <outline title="deno" xmlUrl="https://github.com/ry/deno/releases.atom"/>
+      <outline title="Django" xmlUrl="https://github.com/django/django/releases.atom"/>
       <outline title="elasticsearch" xmlUrl="https://github.com/elastic/elasticsearch/releases.atom"/>
-      <outline title="fluentd" xmlUrl="https://github.com/fluent/fluentd/releases.atom"/>
-      <outline title="flutter" xmlUrl="https://github.com/flutter/flutter/releases.atom"/>
-      <outline title="grpc" xmlUrl="https://github.com/grpc/grpc/releases.atom"/>
+      <outline title="Electron" xmlUrl="https://github.com/electron/electron/releases.atom"/>
+      <outline title="express" xmlUrl="https://github.com/expressjs/express/releases.atom"/>
+      <outline title="Flask" xmlUrl="https://github.com/pallets/flask/releases.atom"/>
+      <outline title="Fluentd" xmlUrl="https://github.com/fluent/fluentd/releases.atom"/>
+      <outline title="Flutter" xmlUrl="https://github.com/flutter/flutter/releases.atom"/>
+      <outline title="Fort Awesome" xmlUrl="https://github.com/FortAwesome/Font-Awesome/releases.atom"/>
+      <outline title="Go" xmlUrl="https://github.com/golang/go/releases.atom"/>
+      <outline title="gRPC" xmlUrl="https://github.com/grpc/grpc/releases.atom"/>
+      <outline title="Hadoop" xmlUrl="https://github.com/apache/hadoop/releases.atom"/>
+      <outline title="jQuery" xmlUrl="https://github.com/jquery/jquery/releases.atom"/>
       <outline title="keras" xmlUrl="https://github.com/keras-team/keras/releases.atom"/>
       <outline title="kibana" xmlUrl="https://github.com/elastic/kibana/releases.atom"/>
-      <outline title="kubernetes" xmlUrl="https://github.com/kubernetes/kubernetes/releases.atom"/>
-      <outline title="linkerd" xmlUrl="https://github.com/linkerd/linkerd/releases.atom"/>
-      <outline title="react" xmlUrl="https://github.com/facebook/react/releases.atom"/>
+      <outline title="Kubernetes" xmlUrl="https://github.com/kubernetes/kubernetes/releases.atom"/>
+      <outline title="Linkerd" xmlUrl="https://github.com/linkerd/linkerd/releases.atom"/>
+      <outline title="Linux" xmlUrl="https://github.com/torvalds/linux/releases.atom"/>
+      <outline title="Maven" xmlUrl="https://github.com/apache/maven/releases.atom"/>
+      <outline title="Moby" xmlUrl="https://github.com/moby/moby/releases.atom"/>
+      <outline title="Oh My Zsh" xmlUrl="https://github.com/robbyrussell/oh-my-zsh/releases.atom"/>
+      <outline title="OpenAI Gym" xmlUrl="https://github.com/openai/gym/releases.atom"/>
+      <outline title="Prometheus" xmlUrl="https://github.com/prometheus/prometheus/releases.atom"/>
+      <outline title="React" xmlUrl="https://github.com/facebook/react/releases.atom"/>
+      <outline title="React Native" xmlUrl="https://github.com/facebook/react-native/releases.atom"/>
       <outline title="signale" xmlUrl="https://github.com/klauscfhq/signale/releases.atom"/>
+      <outline title="Spark" xmlUrl="https://github.com/apache/spark/releases.atom"/>
       <outline title="spring-boot" xmlUrl="https://github.com/spring-projects/spring-boot/releases.atom"/>
       <outline title="Stacer" xmlUrl="https://github.com/oguzhaninan/Stacer/releases.atom"/>
-      <outline title="tensorflow" xmlUrl="https://github.com/tensorflow/tensorflow/releases.atom"/>
+      <outline title="Swift" xmlUrl="https://github.com/apple/swift/releases.atom"/>
+      <outline title="TensorFlow" xmlUrl="https://github.com/tensorflow/tensorflow/releases.atom"/>
       <outline title="vscode" xmlUrl="https://github.com/Microsoft/vscode/releases.atom"/>
       <outline title="vue" xmlUrl="https://github.com/vuejs/vue/releases.atom"/>
-      <outline title="prometheus" xmlUrl="https://github.com/prometheus/prometheus/releases.atom"/>
     </outline>
   </body>
 </opml>
