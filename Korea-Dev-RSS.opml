@@ -652,36 +652,36 @@
     </outline>
 
     <outline title="team" text="국내 단체 블로그 모음" >
-      <outline title="게임개발포에버" type="rss" xmlUrl="http://feeds.feedburner.com/gamedevforever?format=xml"/>
-      <outline title="네이버" type="rss" xmlUrl="http://d2.naver.com/d2.atom"/>
-      <outline title="넥스트리" type="rss" xmlUrl="http://www.nextree.co.kr/feed/"/>
+      <outline title="게임개발포에버" xmlUrl="http://feeds.feedburner.com/gamedevforever?format=xml"/>
+      <outline title="네이버" xmlUrl="http://d2.naver.com/d2.atom"/>
+      <outline title="넥스트리" xmlUrl="http://www.nextree.co.kr/feed/"/>
       <outline title="달리웍스" xmlUrl="http://techblog.daliworks.net/feed.xml"/>
-      <outline title="데일리호텔" type="rss" xmlUrl="https://dailyhotel.io/feed"/>
+      <outline title="데일리호텔" xmlUrl="https://dailyhotel.io/feed"/>
       <outline title="드라마앤컴패니 블로그" xmlUrl="http://developer.dramancompany.com/feed/"/>
       <outline title="아해팀 블로그" xmlUrl="https://ahea.wordpress.com/feed/"/>
-      <outline title="에이콘" type="rss" xmlUrl="http://feeds.feedburner.com/acornpub"/>
-      <outline title="엠비안" type="rss" xmlUrl="http://blog.embian.com/rss"/>
+      <outline title="에이콘" xmlUrl="http://feeds.feedburner.com/acornpub"/>
+      <outline title="엠비안" xmlUrl="http://blog.embian.com/rss"/>
       <outline title="오라클 클라우드 기술 블로그" xmlUrl="http://www.oracloud.kr/index.xml"/>
       <outline title="우아한형제들 기술 블로그" xmlUrl="http://woowabros.github.io/feed.xml"/>
-      <outline title="위클립스" type="rss" xmlUrl="http://eclipse.or.kr/index.php?title=특수기능:최근바뀜&amp;feed=atom"/>
-      <outline title="이상한모임" type="rss" xmlUrl="http://blog.weirdx.io/feed/"/>
-      <outline title="이음소시어스" type="rss" xmlUrl="http://bigmatch.i-um.net/feed/"/>
-      <outline title="인사이트" type="rss" xmlUrl="http://blog.insightbook.co.kr/rss"/>
+      <outline title="위클립스" xmlUrl="http://eclipse.or.kr/index.php?title=특수기능:최근바뀜&amp;feed=atom"/>
+      <outline title="이상한모임" xmlUrl="http://blog.weirdx.io/feed/"/>
+      <outline title="이음소시어스" xmlUrl="http://bigmatch.i-um.net/feed/"/>
+      <outline title="인사이트" xmlUrl="http://blog.insightbook.co.kr/rss"/>
       <outline title="지금 써보러 갑니다" xmlUrl="http://icunow.co.kr/feed/"/>
       <outline title="카카오 기술 블로그" xmlUrl="http://tech.kakao.com/rss/"/>
-      <outline title="티몬" type="rss" xmlUrl="http://tmondev.blog.me/rss"/>
+      <outline title="티몬" xmlUrl="http://tmondev.blog.me/rss"/>
       <outline title="ㅍㅍㅅㅅ" xmlUrl="http://ppss.kr/archives/category/tech/feed"/>
-      <outline title="한국게임기획자모임" type="rss" xmlUrl="http://gameplanner.cafe24.com/feed/"/>
-      <outline title="SK플래닛" type="rss" xmlUrl="http://feeds.feedburner.com/skpreadme?format=xml"/>
+      <outline title="한국게임기획자모임" xmlUrl="http://gameplanner.cafe24.com/feed/"/>
+      <outline title="SK플래닛" xmlUrl="http://feeds.feedburner.com/skpreadme?format=xml"/>
       <outline title="Elastic" xmlUrl="https://www.elastic.co/kr/blog/feed"/>
-      <outline title="VCNC" type="rss" xmlUrl="http://engineering.vcnc.co.kr/atom.xml"/>
-      <outline title="Google" type="rss" xmlUrl="http://feeds.feedburner.com/GoogleDevelopersKorea?format=xml"/>
+      <outline title="VCNC" xmlUrl="http://engineering.vcnc.co.kr/atom.xml"/>
+      <outline title="Google" xmlUrl="http://feeds.feedburner.com/GoogleDevelopersKorea?format=xml"/>
       <outline title="Line Engineering Blog" xmlUrl="https://engineering.linecorp.com/ko/blog/rss2"/>
-      <outline title="Make Korea" type="rss" xmlUrl="http://www.make.co.kr/?feed=rss2"/>
-      <outline title="Mozilla" type="rss" xmlUrl="http://hacks.mozilla.or.kr/feed/"/>
+      <outline title="Make Korea" xmlUrl="http://www.make.co.kr/?feed=rss2"/>
+      <outline title="Mozilla" xmlUrl="http://hacks.mozilla.or.kr/feed/"/>
       <outline title="Popit" xmlUrl="http://www.popit.kr/feed/"/>
       <outline title="Realm Blog" xmlUrl="https://realm.io/kr/feed.xml"/>
-      <outline title="Spoqa" type="rss" xmlUrl="http://spoqa.github.io/rss"/>
+      <outline title="Spoqa" xmlUrl="http://spoqa.github.io/rss"/>
     </outline>
 
     <outline title="news" text="국내 IT 소식 모음">
@@ -689,7 +689,7 @@
       <outline title="보안뉴스" xmlUrl="http://www.boannews.com/media/news_rss.xml"/>
       <outline title="블로터" xmlUrl="http://feeds.feedburner.com/Bloter"/>
       <outline title="슬로우뉴스-테크" xmlUrl="http://slownews.kr/category/tech/feed"/>
-      <outline title="테크수다" type="rss" xmlUrl="http://www.techsuda.com/feed"/>
+      <outline title="테크수다" xmlUrl="http://www.techsuda.com/feed"/>
     </outline>
 
     <outline title="overseas" text="해외 개발자 블로그 모음">
