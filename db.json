@@ -4251,6 +4251,13 @@
     "description": "Linux"
   },
   {
+    "name": "정기욱",
+    "blog": "http://jusths.tistory.com/",
+    "rss": "http://jusths.tistory.com/rss",
+    "description": "Python",
+    "facebook": "https://www.facebook.com/kiwook.jeong"
+  },
+  {
     "name": "정덕수",
     "blog": "http://blog.iamartin.com/",
     "rss": "http://iamartin-gh.herokuapp.com/rss/",
