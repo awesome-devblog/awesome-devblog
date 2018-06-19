@@ -190,6 +190,7 @@ Tag Cloud
 | 김준형 | https://medium.com/@ghilbut |  | [![](icons/rss-icon.png)](https://medium.com/feed/@ghilbut)[![](icons/facebook-icon.png)](https://www.facebook.com/ghilbut) |
 | 김준환 | http://topnanis.tistory.com/ |  | [![](icons/rss-icon.png)](http://topnanis.tistory.com/rss) |
 | 김준희 | https://wnsgml972.github.io/ |  | [![](icons/rss-icon.png)](https://wnsgml972.github.io/wnsgml972.github.io/feed.xml)[![](icons/facebook-icon.png)](https://www.facebook.com/profile.php?id=100002784525012)[![](icons/github-icon.png)](https://github.com/wnsgml972) |
+| 김중근 | http://confluence.swtool.review/ |IT Tourist, Tools, Android, SW Internal | [![](icons/rss-icon.png)](http://http://confluence.swtool.review/spaces/createrssfeed.action?types=page&spaces=HOME&maxResults=15&title=[HOME]+Pages+Feed&amp;publicFeed=false&amp;os_authType=basic)[![](icons/facebook-icon.png)](https://www.facebook.com/av9300)[![](icons/github-icon.png)](https://github.com/av930) |
 | 김지영 | https://brunch.co.kr/@pubjinson |  | [![](icons/rss-icon.png)](https://brunch.co.kr/rss/@@l9p) |
 | 김지우 | https://brunch.co.kr/@ken1224 | 스타트업, 음악산업 | [![](icons/rss-icon.png)](https://brunch.co.kr/rss/@@R2L) |
 | 김지운 | https://kishe89.github.io/ | Javascript | [![](icons/rss-icon.png)](https://kishe89.github.io/feed.xml)[![](icons/facebook-icon.png)](https://www.facebook.com/profile.php?id=100008052494285)[![](icons/github-icon.png)](https://github.com/kishe89) |
