@@ -881,7 +881,6 @@
       <outline title="Go" xmlUrl="https://github.com/golang/go/releases.atom"/>
       <outline title="gRPC" xmlUrl="https://github.com/grpc/grpc/releases.atom"/>
       <outline title="Hadoop" xmlUrl="https://github.com/apache/hadoop/releases.atom"/>
-      <outline title="jQuery" xmlUrl="https://github.com/jquery/jquery/releases.atom"/>
       <outline title="keras" xmlUrl="https://github.com/keras-team/keras/releases.atom"/>
       <outline title="kibana" xmlUrl="https://github.com/elastic/kibana/releases.atom"/>
       <outline title="Kubernetes" xmlUrl="https://github.com/kubernetes/kubernetes/releases.atom"/>
