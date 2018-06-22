@@ -794,10 +794,13 @@
   facebook: https://www.facebook.com/profile.php?id=100002784525012
   github: https://github.com/wnsgml972
 - name: 김중근
-  blog: http://confluence.swtool.review/
-  rss: http://http://confluence.swtool.review/spaces/createrssfeed.action?types=page&spaces=HOME&maxResults=15&title=[HOME]+Pages+Feed&amp;publicFeed=false&amp;os_authType=basic
+  blog: http://confluence.swtool.review/display/SWEN
+  description: IT Tour Guider, SW Tools, SW Internals, Android
+  linkedin: https://www.linkedin.com/in/av9300
   facebook: https://www.facebook.com/av9300
+  stackoverflow: https://stackoverflow.com/users/1265770/kjk
   github: https://github.com/av930
+  bitbucket: https://bitbucket.org/developenv
 - name: 김지영
   blog: https://brunch.co.kr/@pubjinson
   rss: https://brunch.co.kr/rss/@@l9p
