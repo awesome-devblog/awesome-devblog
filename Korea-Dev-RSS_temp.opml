@@ -1,0 +1,277 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="2.0">
+    <head>
+        <title>awesome-devblog</title>
+    </head>
+    <body>
+        <outline title="team" text="국내 단체 블로그 모음">
+            <outline title="게임개발포에버" xmlUrl="http://feeds.feedburner.com/gamedevforever?format=xml"/>
+            <outline title="네이버" xmlUrl="http://d2.naver.com/d2.atom"/>
+            <outline title="넥스트리" xmlUrl="http://www.nextree.co.kr/feed/"/>
+            <outline title="달리웍스" xmlUrl="http://techblog.daliworks.net/feed.xml"/>
+            <outline title="데일리호텔" xmlUrl="https://dailyhotel.io/feed"/>
+            <outline title="드라마앤컴패니 블로그" xmlUrl="http://developer.dramancompany.com/feed/"/>
+            <outline title="아해팀 블로그" xmlUrl="https://ahea.wordpress.com/feed/"/>
+            <outline title="에이콘" xmlUrl="http://feeds.feedburner.com/acornpub"/>
+            <outline title="엠비안" xmlUrl="http://blog.embian.com/rss"/>
+            <outline title="오라클 클라우드 기술 블로그" xmlUrl="http://www.oracloud.kr/index.xml"/>
+            <outline title="우아한형제들 기술 블로그" xmlUrl="http://woowabros.github.io/feed.xml"/>
+            <outline title="위클립스" xmlUrl="http://eclipse.or.kr/index.php?title=특수기능:최근바뀜&amp;feed=atom"/>
+            <outline title="이상한모임" xmlUrl="http://blog.weirdx.io/feed/"/>
+            <outline title="이음소시어스" xmlUrl="http://bigmatch.i-um.net/feed/"/>
+            <outline title="인사이트" xmlUrl="http://blog.insightbook.co.kr/rss"/>
+            <outline title="지금 써보러 갑니다" xmlUrl="http://icunow.co.kr/feed/"/>
+            <outline title="카카오 기술 블로그" xmlUrl="http://tech.kakao.com/rss/"/>
+            <outline title="티몬" xmlUrl="http://tmondev.blog.me/rss"/>
+            <outline title="ㅍㅍㅅㅅ" xmlUrl="http://ppss.kr/archives/category/tech/feed"/>
+            <outline title="한국게임기획자모임" xmlUrl="http://gameplanner.cafe24.com/feed/"/>
+            <outline title="SK플래닛" xmlUrl="http://feeds.feedburner.com/skpreadme?format=xml"/>
+            <outline title="Elastic" xmlUrl="https://www.elastic.co/kr/blog/feed"/>
+            <outline title="VCNC" xmlUrl="http://engineering.vcnc.co.kr/atom.xml"/>
+            <outline title="Google" xmlUrl="http://feeds.feedburner.com/GoogleDevelopersKorea?format=xml"/>
+            <outline title="Line Engineering Blog" xmlUrl="https://engineering.linecorp.com/ko/blog/rss2"/>
+            <outline title="Make Korea" xmlUrl="http://www.make.co.kr/?feed=rss2"/>
+            <outline title="Mozilla" xmlUrl="http://hacks.mozilla.or.kr/feed/"/>
+            <outline title="Popit" xmlUrl="http://www.popit.kr/feed/"/>
+            <outline title="Realm Blog" xmlUrl="https://realm.io/kr/feed.xml"/>
+            <outline title="Spoqa" xmlUrl="http://spoqa.github.io/rss"/>
+        </outline>
+
+        <outline title="news" text="국내 IT 소식 모음">
+            <outline title="모비인사이드" xmlUrl="http://feeds.feedburner.com/mobiinside/kr"/>
+            <outline title="보안뉴스" xmlUrl="http://www.boannews.com/media/news_rss.xml"/>
+            <outline title="블로터" xmlUrl="http://feeds.feedburner.com/Bloter"/>
+            <outline title="슬로우뉴스-테크" xmlUrl="http://slownews.kr/category/tech/feed"/>
+            <outline title="테크수다" xmlUrl="http://www.techsuda.com/feed"/>
+        </outline>
+
+        <outline title="overseas" text="해외 개발자 블로그 모음">
+            <outline title="Adam Bien" xmlUrl="http://www.adam-bien.com/roller/abien/feed/entries/atom"/>
+            <outline title="Adam Fletcher" xmlUrl="https://medium.com/feed/@adam_34309"/>
+            <outline title="Andrea Giammarchi" xmlUrl="http://webreflection.blogspot.com/feeds/posts/default"/>
+            <outline title="Armin Ronacher" xmlUrl="http://lucumr.pocoo.org/feed.atom"/>
+            <outline title="Assaf Muller" xmlUrl="http://assafmuller.wordpress.com/feed/"/>
+            <outline title="Bojan Gvozderac" xmlUrl="https%3A%2F%2Fmedium.com%2Ffeed%2F%40bojangbusiness"/>
+            <outline title="Bram Cohen" xmlUrl="http://bramcohen.livejournal.com/data/rss"/>
+            <outline title="Brendan Eich" xmlUrl="http://brendaneich.com/feed/"/>
+            <outline title="Chad Fowler" xmlUrl="http://www.chadfowler.com/?rss"/>
+            <outline title="Chris Ng" xmlUrl="http://chrisrng.svbtle.com/feed"/>
+            <outline title="Cristian Esquivias" xmlUrl="http://cesquivias.github.io/feeds/all.rss.xml"/>
+            <outline title="Daniel Shiffman" xmlUrl="http://vimeo.com/shiffman/videos/rss"/>
+            <outline title="Dave Smith" xmlUrl="https://medium.com/feed/@djsmith42"/>
+            <outline title="David Bryant" xmlUrl="https://medium.com/feed/@david_bryant"/>
+            <outline title="David Ford" xmlUrl="https://medium.com/feed/@daveford"/>
+            <outline title="David Moreau Simard" xmlUrl="https://dmsimard.com/index.xml"/>
+            <outline title="David Robinson" xmlUrl="http://varianceexplained.org/feed.xml"/>
+            <outline title="David Walsh" xmlUrl="http://feeds.feedburner.com/Bludice"/>
+            <outline title="Derick Bailey" xmlUrl="http://feeds.feedblitz.com/derickbailey"/>
+            <outline title="Eli Bendersky" xmlUrl="http://eli.thegreenplace.net/feed/"/>
+            <outline title="Eric A. Meyer" xmlUrl="http://meyerweb.com/eric/thoughts/rss2/summary"/>
+            <outline title="Erik Bernhardsson" xmlUrl="http://erikbern.com/?feed=rss2"/>
+            <outline title="Evan You" xmlUrl="https://medium.com/feed/@youyuxi"/>
+            <outline title="Gal Sagie" xmlUrl="http://galsagie.github.io/feed.xml"/>
+            <outline title="Jake Wharton" xmlUrl="http://jakewharton.com/atom.xml"/>
+            <outline title="James Gosling" xmlUrl="http://feeds.feedburner.com/nighthacks/feed"/>
+            <outline title="Jeff Atwood" xmlUrl="http://feeds.feedburner.com/codinghorror/"/>
+            <outline title="Jeff Langr" xmlUrl="http://langrsoft.com/feed/"/>
+            <outline title="Jessie Frazelle" xmlUrl="https://blog.jessfraz.com/index.xml"/>
+            <outline title="Joe Hewitt" xmlUrl="http://joehewitt.com/index.xml"/>
+            <outline title="Joel Spolsky" xmlUrl="http://www.joelonsoftware.com/rss.xml"/>
+            <outline title="John Gruber" xmlUrl="http://daringfireball.net/index.xml"/>
+            <outline title="John McClean" xmlUrl="https://medium.com/feed/@johnmcclean"/>
+            <outline title="John Resig" xmlUrl="http://ejohn.org/category/blog/feed/rss/"/>
+            <outline title="Jonathan Snook" xmlUrl="http://feeds.feedburner.com/snookca"/>
+            <outline title="Josh Symonds" xmlUrl="http://joshsymonds.com/atom.xml"/>
+            <outline title="Kevin Sookocheff" xmlUrl="http://sookocheff.com/index.xml"/>
+            <outline title="Lars Vogell" xmlUrl="http://www.vogella.de/blog/feed/"/>
+            <outline title="Marius Schulz" xmlUrl="http://feeds.feedburner.com/mariusschulz"/>
+            <outline title="Mark Otto" xmlUrl="http://feeds.feedburner.com/mdo"/>
+            <outline title="Martin Fowler" xmlUrl="http://martinfowler.com/bliki/bliki.atom"/>
+            <outline title="Michael Hausenblas" xmlUrl="https://medium.com/feed/@mhausenblas"/>
+            <outline title="Mike Bostock" xmlUrl="http://bost.ocks.org/mike/index.rss"/>
+            <outline title="Mike Gouline" xmlUrl="http://blog.gouline.net/rss/"/>
+            <outline title="Mike Nakhimovich" xmlUrl="https://medium.com/feed/@theMikhail"/>
+            <outline title="Nicolai Parlog" xmlUrl="http://blog.codefx.org/feed/"/>
+            <outline title="Phil Haack" xmlUrl="http://feeds.haacked.com/haacked/"/>
+            <outline title="Paul Bakker" xmlUrl="http://paulbakker.io/feed.xml"/>
+            <outline title="Paul Lewis" xmlUrl="http://aerotwist.com/blog/feed/"/>
+            <outline title="Ricardo Cabello" xmlUrl="http://feeds.feedburner.com/mrdoob"/>
+            <outline title="Robert C. Martin" xmlUrl="http://blog.cleancoder.com/atom.xml"/>
+            <outline title="Rod Johnson" xmlUrl="https://medium.com/feed/@springrod"/>
+            <outline title="Sacha Greif" xmlUrl="https://medium.com/feed/@sachagreif"/>
+            <outline title="Sam Newman" xmlUrl="http://samnewman.io/blog/feed.xml"/>
+            <outline title="Scott Hanselman" xmlUrl="http://feeds.hanselman.com/ScottHanselman"/>
+            <outline title="Stephen Colebourne" xmlUrl="http://blog.joda.org/feeds/posts/default"/>
+            <outline title="Thomas Fuchs" xmlUrl="http://feeds.feedburner.com/miraculous"/>
+            <outline title="Thomas Stringer" xmlUrl="https://medium.com/feed/@trstringer"/>
+            <outline title="Vinicius Isola" xmlUrl="https://visola.github.io/rss.xml"/>
+            <outline title="Will McGugan" xmlUrl="http://www.willmcgugan.com/blog/rootblog/feeds/posts/"/>
+            <outline title="A List Apart" xmlUrl="http://www.alistapart.com/rss.xml"/>
+            <outline title="Android Developers Blog" xmlUrl="http://feeds.feedburner.com/blogspot/hsDu"/>
+            <outline title="Baeldung" xmlUrl="http://feeds.feedburner.com/Baeldung?format=xml"/>
+            <outline title="Bootstrap Blog" xmlUrl="http://blog.getbootstrap.com/feed.xml"/>
+            <outline title="Code as Craft(Etsy)" xmlUrl="https://codeascraft.com/feed/atom/"/>
+            <outline title="Dropbox Tech Blog" xmlUrl="https://blogs.dropbox.com/tech/feed/"/>
+            <outline title="Elastic Blog" xmlUrl="https://www.elastic.co/blog/feed"/>
+            <outline title="Evernote Tech Blog" xmlUrl="http://blog.evernote.com/tech/feed/"/>
+            <outline title="Facebook Code" xmlUrl="https://code.facebook.com/posts/rss/"/>
+            <outline title="Feathers Blog" xmlUrl="https://blog.feathersjs.com/feed"/>
+            <outline title="Github Engineering" xmlUrl="https://githubengineering.com/atom.xml"/>
+            <outline title="Go Blog" xmlUrl="http://blog.golang.org/feeds/posts/default"/>
+            <outline title="Ghost Dev" xmlUrl="http://dev.ghost.org/rss/"/>
+            <outline title="Hacker Noon" xmlUrl="https://hackernoon.com/feed"/>
+            <outline title="Instagram Engineering" xmlUrl="https://engineering.instagram.com/"/>
+            <outline title="Uber Engineering Blog" xmlUrl="https://eng.uber.com/feed/"/>
+        </outline>
+
+        <outline title="slide" text="슬라이드 모음">
+            <outline title="강대명" xmlUrl="https://www.slideshare.net/rss/user/charsyam2"/>
+            <outline title="권민재" xmlUrl="https://speakerdeck.com/mingrammer.atom"/>
+            <outline title="권영재" xmlUrl="https://www.slideshare.net/rss/user/YoungJaeKwon3"/>
+            <outline title="권정혁" xmlUrl="https://www.slideshare.net/rss/user/guruguru"/>
+            <outline title="권태환" xmlUrl="https://www.slideshare.net/rss/user/taehwandev"/>
+            <outline title="김기훈" xmlUrl="https://www.slideshare.net/rss/user/koreakihoon"/>
+            <outline title="김대권" xmlUrl="https://www.slideshare.net/rss/user/ext"/>
+            <outline title="김민태" xmlUrl="https://www.slideshare.net/rss/user/ibare"/>
+            <outline title="김병부" xmlUrl="https://www.slideshare.net/rss/user/benjaminbkim9"/>
+            <outline title="김영재" xmlUrl="https://www.slideshare.net/rss/user/youngjaekim58"/>
+            <outline title="김재석" xmlUrl="https://www.slideshare.net/rss/user/tcaesvk"/>
+            <outline title="김정주" xmlUrl="https://www.slideshare.net/rss/user/ssuser163469"/>
+            <outline title="김지환" xmlUrl="https://www.slideshare.net/rss/user/mastrayer"/>
+            <outline title="김태훈" xmlUrl="https://www.slideshare.net/rss/user/carpedm20"/>
+            <outline title="김태호" xmlUrl="https://www.slideshare.net/rss/user/jyte"/>
+            <outline title="김훈민" xmlUrl="https://www.slideshare.net/rss/user/jeokrang"/>
+            <outline title="박경훈" xmlUrl="https://www.slideshare.net/rss/user/hoonsbara"/>
+            <outline title="박민우" xmlUrl="https://www.slideshare.net/rss/user/tebica"/>
+            <outline title="박성철" xmlUrl="https://www.slideshare.net/rss/user/gyumee"/>
+            <outline title="박일" xmlUrl="https://www.slideshare.net/rss/user/parkpd"/>
+            <outline title="박조은" xmlUrl="https://www.slideshare.net/rss/user/zzonee"/>
+            <outline title="박주홍" xmlUrl="https://www.slideshare.net/rss/user/JPark0426"/>
+            <outline title="서주영" xmlUrl="https://www.slideshare.net/rss/user/seojuyung"/>
+            <outline title="신용윤" xmlUrl="https://www.slideshare.net/rss/user/uni2u"/>
+            <outline title="안오균" xmlUrl="https://www.slideshare.net/rss/user/OhgyunAhn"/>
+            <outline title="양승화" xmlUrl="https://www.slideshare.net/rss/user/leoyang991"/>
+            <outline title="엄태욱" xmlUrl="https://www.slideshare.net/rss/user/taewook"/>
+            <outline title="용영환" xmlUrl="https://www.slideshare.net/rss/user/xenonix"/>
+            <outline title="원종석" xmlUrl="https://www.slideshare.net/rss/user/tedwon"/>
+            <outline title="윤석찬" xmlUrl="https://www.slideshare.net/rss/user/Channy"/>
+            <outline title="윤성준" xmlUrl="https://www.slideshare.net/rss/user/exnis"/>
+            <outline title="이무열" xmlUrl="https://www.slideshare.net/rss/user/mooyoul"/>
+            <outline title="이민석" xmlUrl="https://www.slideshare.net/rss/user/MinsukLee"/>
+            <outline title="이상균" xmlUrl="https://www.slideshare.net/rss/user/iyooha"/>
+            <outline title="이선협" xmlUrl="https://www.slideshare.net/rss/user/sunhyouplee"/>
+            <outline title="이용혁" xmlUrl="https://www.slideshare.net/rss/user/unlogicaldev"/>
+            <outline title="이웅원" xmlUrl="https://www.slideshare.net/rss/user/WoongwonLee"/>
+            <outline title="이윤환" xmlUrl="https://www.slideshare.net/rss/user/yoonani"/>
+            <outline title="이응준" xmlUrl="https://www.slideshare.net/rss/user/eungjun"/>
+            <outline title="이정근" xmlUrl="https://www.slideshare.net/rss/user/redrebel"/>
+            <outline title="이한" xmlUrl="https://www.slideshare.net/rss/user/Sn0wLe0pard"/>
+            <outline title="이흥섭" xmlUrl="https://www.slideshare.net/rss/user/sublee"/>
+            <outline title="장재휴" xmlUrl="https://www.slideshare.net/rss/user/JaehueJang"/>
+            <outline title="정겨울" xmlUrl="https://www.slideshare.net/rss/user/wintermy201"/>
+            <outline title="정호영" xmlUrl="https://www.slideshare.net/rss/user/hoyoung2jung"/>
+            <outline title="조동현" xmlUrl="https://www.slideshare.net/rss/user/Chodonghyun"/>
+            <outline title="조민환" xmlUrl="https://www.slideshare.net/rss/user/ssuser611bac"/>
+            <outline title="조영호" xmlUrl="https://www.slideshare.net/rss/user/baejjae93"/>
+            <outline title="조현종" xmlUrl="https://www.slideshare.net/rss/user/hangum"/>
+            <outline title="진유림" xmlUrl="https://www.slideshare.net/rss/user/jayjin0427"/>
+            <outline title="차경묵" xmlUrl="https://www.slideshare.net/rss/user/hannal.cha"/>
+            <outline title="최윤상" xmlUrl="https://www.slideshare.net/rss/user/oddpoet"/>
+            <outline title="하용호" xmlUrl="https://www.slideshare.net/rss/user/yongho"/>
+            <outline title="한성민" xmlUrl="https://www.slideshare.net/rss/user/KennethCeyer"/>
+            <outline title="한성일" xmlUrl="https://www.slideshare.net/rss/user/ssusercf5d12"/>
+            <outline title="한재엽" xmlUrl="https://www.slideshare.net/rss/user/JaeYeopHan"/>
+            <outline title="현수명" xmlUrl="https://www.slideshare.net/rss/user/soomong"/>
+            <outline title="황상철" xmlUrl="https://www.slideshare.net/rss/user/k16wire"/>
+            <outline title="Amazon Web Services Korea" xmlUrl="https://www.slideshare.net/rss/user/awskorea"/>
+            <outline title="devCAT Studio" xmlUrl="https://www.slideshare.net/rss/user/devcatpublications"/>
+            <outline title="NAVER D2" xmlUrl="https://www.slideshare.net/rss/user/deview"/>
+            <outline title="Oracle Korea" xmlUrl="https://www.slideshare.net/rss/user/OracleDeveloperkr"/>
+            <outline title="Ubuntu Korea Community" xmlUrl="https://www.slideshare.net/rss/user/UbuntuKorea"/>
+        </outline>
+
+        <outline title="youtube" text="방송 모음">
+            <outline title="김성훈" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCML9R2ol-l0Ab9OXoNnr7Lw"/>
+            <outline title="나도코딩"
+                     xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC7iAOLiALt2rtMVAWWl4pnw"/>
+            <outline title="두들낙서"
+                     xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCmGcqqKdIKnH_-oHnkoyshg"/>
+            <outline title="백기선" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCwjaZf1WggZdbczi36bWlBA"/>
+            <outline title="생활코딩"
+                     xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCvc8kv-i5fvFTJBFAk6n1SA"/>
+            <outline title="스무디 TV"
+                     xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCo-7BoOyUN6SrtCGWaAV81Q"/>
+            <outline title="이일민" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCcqH2RV1-9ebRBhmN_uaSNg"/>
+            <outline title="자가발전"
+                     xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCtPPlvfv8-SzTLEPds_OWZA"/>
+            <outline title="뚜벅개발TV"
+                     xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCl6ss_VCMBOSCCrVjzW2r0Q"/>
+            <outline title="케빈 TV"
+                     xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCsOJxLxzQl8IbwGS-Cp5t8w"/>
+            <outline title="포프TV"
+                     xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC63J0Q5huHSlbNT3KxvAaHQ"/>
+            <outline title="한빛미디어"
+                     xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC31Gc42xzclOOi5Gp1xIpZw"/>
+            <outline title="Ubuntu Korea"
+                     xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCid525Nc3OXk6SjLZ28cX5Q"/>
+            <outline title="TV플루토"
+                     xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC8JVpZGSvoIwO6usKUYItHA"/>
+            <outline title="Assaf Muller"
+                     xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC2hevos8HGSSqrv3IiHN3fg"/>
+            <outline title="David Mahler"
+                     xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCEoaojfEY_6L5TWWjIn9t9Q"/>
+            <outline title="Ho-sung Choi"
+                     xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCdGTtaI-ERLjzZNLuBj3X6A"/>
+            <outline title="O'Reilly"
+                     xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC3BGlwmI-Vk6PWyMt15dKGw"/>
+            <outline title="SnowL TV"
+                     xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCQb8-qm-W9f4Wvf6r_kEf0A"/>
+            <outline title="Smile Han"
+                     xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCM8wseo6DkA-D7yGlCrcrwA"/>
+        </outline>
+
+        <outline title="release" text="릴리즈 노트">
+            <outline title="AngularJS" xmlUrl="https://github.com/angular/angular.js/releases.atom"/>
+            <outline title="Animate.css" xmlUrl="https://github.com/daneden/animate.css/releases.atom"/>
+            <outline title="Ansible" xmlUrl="https://github.com/ansible/ansible/releases.atom"/>
+            <outline title="Atom" xmlUrl="https://github.com/atom/atom/releases.atom"/>
+            <outline title="Babel" xmlUrl="https://github.com/babel/babel/releases.atom"/>
+            <outline title="Boostnote" xmlUrl="https://github.com/BoostIO/Boostnote/releases.atom"/>
+            <outline title="Bootstrap" xmlUrl="https://github.com/twbs/bootstrap/releases.atom"/>
+            <outline title="containerd" xmlUrl="https://github.com/containerd/containerd/releases.atom"/>
+            <outline title="D3" xmlUrl="https://github.com/d3/d3/releases.atom"/>
+            <outline title="deno" xmlUrl="https://github.com/ry/deno/releases.atom"/>
+            <outline title="Django" xmlUrl="https://github.com/django/django/releases.atom"/>
+            <outline title="elasticsearch" xmlUrl="https://github.com/elastic/elasticsearch/releases.atom"/>
+            <outline title="Electron" xmlUrl="https://github.com/electron/electron/releases.atom"/>
+            <outline title="express" xmlUrl="https://github.com/expressjs/express/releases.atom"/>
+            <outline title="Flask" xmlUrl="https://github.com/pallets/flask/releases.atom"/>
+            <outline title="Fluentd" xmlUrl="https://github.com/fluent/fluentd/releases.atom"/>
+            <outline title="Flutter" xmlUrl="https://github.com/flutter/flutter/releases.atom"/>
+            <outline title="Fort Awesome" xmlUrl="https://github.com/FortAwesome/Font-Awesome/releases.atom"/>
+            <outline title="Go" xmlUrl="https://github.com/golang/go/releases.atom"/>
+            <outline title="gRPC" xmlUrl="https://github.com/grpc/grpc/releases.atom"/>
+            <outline title="Hadoop" xmlUrl="https://github.com/apache/hadoop/releases.atom"/>
+            <outline title="keras" xmlUrl="https://github.com/keras-team/keras/releases.atom"/>
+            <outline title="kibana" xmlUrl="https://github.com/elastic/kibana/releases.atom"/>
+            <outline title="Kubernetes" xmlUrl="https://github.com/kubernetes/kubernetes/releases.atom"/>
+            <outline title="Linkerd" xmlUrl="https://github.com/linkerd/linkerd/releases.atom"/>
+            <outline title="Linux" xmlUrl="https://github.com/torvalds/linux/releases.atom"/>
+            <outline title="Maven" xmlUrl="https://github.com/apache/maven/releases.atom"/>
+            <outline title="Moby" xmlUrl="https://github.com/moby/moby/releases.atom"/>
+            <outline title="Oh My Zsh" xmlUrl="https://github.com/robbyrussell/oh-my-zsh/releases.atom"/>
+            <outline title="OpenAI Gym" xmlUrl="https://github.com/openai/gym/releases.atom"/>
+            <outline title="Prometheus" xmlUrl="https://github.com/prometheus/prometheus/releases.atom"/>
+            <outline title="React" xmlUrl="https://github.com/facebook/react/releases.atom"/>
+            <outline title="React Native" xmlUrl="https://github.com/facebook/react-native/releases.atom"/>
+            <outline title="signale" xmlUrl="https://github.com/klauscfhq/signale/releases.atom"/>
+            <outline title="Spark" xmlUrl="https://github.com/apache/spark/releases.atom"/>
+            <outline title="spring-boot" xmlUrl="https://github.com/spring-projects/spring-boot/releases.atom"/>
+            <outline title="Stacer" xmlUrl="https://github.com/oguzhaninan/Stacer/releases.atom"/>
+            <outline title="Swift" xmlUrl="https://github.com/apple/swift/releases.atom"/>
+            <outline title="TensorFlow" xmlUrl="https://github.com/tensorflow/tensorflow/releases.atom"/>
+            <outline title="vscode" xmlUrl="https://github.com/Microsoft/vscode/releases.atom"/>
+            <outline title="vue" xmlUrl="https://github.com/vuejs/vue/releases.atom"/>
+        </outline>
+    </body>
+</opml>
