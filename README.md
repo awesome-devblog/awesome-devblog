@@ -727,6 +727,7 @@ Tag Cloud
 | 지국환 | http://wlhermit.blog.me/ | 게임 개발 | [![](icons/rss-icon.png)](http://wlhermit.blog.me/rss/atom) |
 | 지원준 | https://brunch.co.kr/@wjchee | IT 칼럼 | [![](icons/rss-icon.png)](https://brunch.co.kr/atom/@@3SO) |
 | 진민규 | https://medium.com/@justin_jin | 마케팅 | [![](icons/rss-icon.png)](https://medium.com/feed/@justin_jin)[![](icons/twitter-icon.png)](https://twitter.com/justin_jin) |
+| 진민완 | https://minwan1.github.io/ | Spring | [![](icons/github-icon.png)](https://github.com/minwan1) |
 | 진성주 | http://softwaregeeks.org/ | 오픈소스 | [![](icons/rss-icon.png)](http://softwaregeeks.org/feed/) |
 | 진수민 | http://blog.naver.com/pistolcaffe | Android | [![](icons/rss-icon.png)](https://rss.blog.naver.com/pistolcaffe.xml) |
 | 진영화 | https://medium.com/@timotolkie | Javascript | [![](icons/rss-icon.png)](https://medium.com/feed/@timotolkie)[![](icons/twitter-icon.png)](https://twitter.com/timotolkie) |
