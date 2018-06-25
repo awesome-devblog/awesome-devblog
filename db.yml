@@ -3466,6 +3466,10 @@
   rss: https://medium.com/feed/@justin_jin
   description: 마케팅
   twitter: https://twitter.com/justin_jin
+- name: 진민완
+  blog: https://minwan1.github.io/
+  description: Stpring
+  github: https://github.com/minwan1
 - name: 진성주
   blog: http://softwaregeeks.org/
   rss: http://softwaregeeks.org/feed/
