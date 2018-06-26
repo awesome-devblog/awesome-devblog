@@ -255,7 +255,7 @@
     "medium": "https://medium.com/@mingrammer",
     "speakerdeck": "https://speakerdeck.com/mingrammer",
     "facebook": "https://www.facebook.com/mingrammer",
-    "twitter": "https://twitter.com/mingrammer"
+    "twitter": "https://twitter.com/kwen5600"
   },
   {
     "name": "권보경",
@@ -265,6 +265,15 @@
     "facebook": "https://www.facebook.com/elliebkwon",
     "linkedin": "https://www.linkedin.com/in/elliekwon/",
     "github": "https://github.com/elliekwon"
+  },
+  {
+    "name": "권성준",
+    "blog": "https://gwonsungjun.github.io/",
+    "rss": "https://gwonsungjun.github.io/atom.xml",
+    "description": "Back-end",
+    "github": "https://github.com/gwonsungjun",
+    "facebook": "https://www.facebook.com/sungjun.gwon",
+    "twitter": "https://twitter.com/kwen5600"
   },
   {
     "name": "권수호",
