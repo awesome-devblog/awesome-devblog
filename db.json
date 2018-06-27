@@ -395,6 +395,14 @@
     "facebook": "https://www.facebook.com/AlexHyuckKwon"
   },
   {
+    "name": "김강호",
+    "blog": "https://cimfalab.github.io/deepscan/",
+    "rss": "https://cimfalab.github.io/deepscan/atom.xml",
+    "description": "정적분석",
+    "facebook": "https://www.facebook.com/deepscan.io",
+    "github": "https://github.com/deepscan"
+  },
+  {
     "name": "김광현(광파리)",
     "blog": "https://kwang82.blogspot.kr/",
     "rss": "https://kwang82.blogspot.com/feeds/posts/default",
