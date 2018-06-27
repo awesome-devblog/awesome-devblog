@@ -216,6 +216,7 @@ Tag Cloud
 | 김태기 | https://beyondj2ee.wordpress.com/ | Java | [![](icons/rss-icon.png)](https://beyondj2ee.wordpress.com/feed/) |
 | 김태영 | https://tykimos.github.io/ | 머신러닝 | [![](icons/rss-icon.png)](http://tykimos.github.io/feed.xml)[![](icons/facebook-icon.png)](https://www.facebook.com/tykimo) |
 | 김태완 | http://taewan.kim/ | Oracle | [![](icons/rss-icon.png)](http://taewan.kim/index.xml) |
+| 김태현 | http://javaexpert.tistory.com/ | 블록체인, 웹, 모바일 | [![](icons/rss-icon.png)](http://javaexpert.tistory.com/rss)[![](icons/github-icon.png)](https://github.com/bear2u) |
 | 김태호 | http://www.androidhuman.com/ | 안드로이드 | [![](icons/rss-icon.png)](http://www.androidhuman.com/feed.xml)[![](icons/slideshare-icon.png)](https://www.slideshare.net/jyte)[![](icons/twitter-icon.png)](https://twitter.com/Androidhuman)[![](icons/linkedin-icon.png)](https://www.linkedin.com/in/taeho-kim-2806ba44/) |
 | 김태호 | https://medium.com/@xissy | 스타트업 | [![](icons/rss-icon.png)](https://medium.com/feed/@xissy)[![](icons/twitter-icon.png)](https://twitter.com/xissy) |
 | 김태환 | http://thefinestartist.com/ | Java, Android | [![](icons/facebook-icon.png)](https://www.facebook.com/TheFinestArtist)[![](icons/github-icon.png)](https://github.com/TheFinestArtist)[![](icons/linkedin-icon.png)](https://www.linkedin.com/in/thefinestartist/) |
