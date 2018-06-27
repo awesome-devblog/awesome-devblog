@@ -248,13 +248,14 @@
             <outline title="Flask" xmlUrl="https://github.com/pallets/flask/releases.atom"/>
             <outline title="Fluentd" xmlUrl="https://github.com/fluent/fluentd/releases.atom"/>
             <outline title="Flutter" xmlUrl="https://github.com/flutter/flutter/releases.atom"/>
-            <outline title="Fort Awesome" xmlUrl="https://github.com/FortAwesome/Font-Awesome/releases.atom"/>
+            <outline title="Font Awesome" xmlUrl="https://github.com/FortAwesome/Font-Awesome/releases.atom"/>
             <outline title="Go" xmlUrl="https://github.com/golang/go/releases.atom"/>
             <outline title="GraphQL" xmlUrl="https://github.com/facebook/graphql/releases.atom"/>
             <outline title="gRPC" xmlUrl="https://github.com/grpc/grpc/releases.atom"/>
             <outline title="Guava" xmlUrl="https://github.com/google/guava/releases.atom"/>
             <outline title="Hadoop" xmlUrl="https://github.com/apache/hadoop/releases.atom"/>
             <outline title="Hyper" xmlUrl="https://github.com/zeit/hyper/releases.atom"/>
+            <outline title="impress.js" xmlUrl="https://github.com/impress/impress.js/releases.atom"/>
             <outline title="jQuery" xmlUrl="https://github.com/jquery/jquery/releases.atom"/>
             <outline title="Keras" xmlUrl="https://github.com/keras-team/keras/releases.atom"/>
             <outline title="Kibana" xmlUrl="https://github.com/elastic/kibana/releases.atom"/>
@@ -264,6 +265,7 @@
             <outline title="Maven" xmlUrl="https://github.com/apache/maven/releases.atom"/>
             <outline title="Moby" xmlUrl="https://github.com/moby/moby/releases.atom"/>
             <outline title="Neofetch" xmlUrl="https://github.com/dylanaraps/neofetch/releases.atom"/>
+            <outline title="Node.js" xmlUrl="https://github.com/nodejs/node/releases.atom"/>
             <outline title="Oh My Zsh" xmlUrl="https://github.com/robbyrussell/oh-my-zsh/releases.atom"/>
             <outline title="OkHttp" xmlUrl="https://github.com/square/okhttp/releases.atom"/>
             <outline title="OpenAI Gym" xmlUrl="https://github.com/openai/gym/releases.atom"/>
@@ -272,6 +274,7 @@
             <outline title="Prometheus" xmlUrl="https://github.com/prometheus/prometheus/releases.atom"/>
             <outline title="React" xmlUrl="https://github.com/facebook/react/releases.atom"/>
             <outline title="React Native" xmlUrl="https://github.com/facebook/react-native/releases.atom"/>
+            <outline title="Ruby on Rails" xmlUrl="https://github.com/rails/rails/releases.atom"/>
             <outline title="Rust" xmlUrl="https://github.com/rust-lang/rust/releases.atom"/>
             <outline title="RxJava" xmlUrl="https://github.com/ReactiveX/RxJava/releases.atom"/>
             <outline title="Servo" xmlUrl="https://github.com/servo/servo/releases.atom"/>
@@ -281,10 +284,12 @@
             <outline title="Spring-boot" xmlUrl="https://github.com/spring-projects/spring-boot/releases.atom"/>
             <outline title="Spring-fu" xmlUrl="https://github.com/spring-projects/spring-fu/releases.atom"/>
             <outline title="Stacer" xmlUrl="https://github.com/oguzhaninan/Stacer/releases.atom"/>
+            <outline title="Storm" xmlUrl="https://github.com/apache/storm/releases.atom"/>
             <outline title="Swift" xmlUrl="https://github.com/apple/swift/releases.atom"/>
             <outline title="TensorFlow" xmlUrl="https://github.com/tensorflow/tensorflow/releases.atom"/>
             <outline title="VSCode" xmlUrl="https://github.com/Microsoft/vscode/releases.atom"/>
             <outline title="Vue" xmlUrl="https://github.com/vuejs/vue/releases.atom"/>
+            <outline title="Yarn" xmlUrl="https://github.com/yarnpkg/yarn/releases.atom"/>
             <outline title="Zuul" xmlUrl="https://github.com/Netflix/zuul/releases.atom"/>
         </outline>
     </body>
