@@ -42,8 +42,9 @@
             <outline title="보안뉴스" xmlUrl="http://www.boannews.com/media/news_rss.xml"/>
             <outline title="블로터" xmlUrl="http://feeds.feedburner.com/Bloter"/>
             <outline title="슬로우뉴스-테크" xmlUrl="http://slownews.kr/category/tech/feed"/>
-            <outline title="테크수다" xmlUrl="http://www.techsuda.com/feed"/>
             <outline title="인공지능 신문" xmlUrl="http://www.aitimes.kr/rss/allArticle.xml"/>
+            <outline title="테크수다" xmlUrl="http://www.techsuda.com/feed"/>
+            <outline title="ㅍㅍㅅㅅ 테크" xmlUrl="https://ppss.kr/archives/category/tech/feed"/>
         </outline>
 
         <outline title="overseas" text="해외 개발자 블로그 모음">
