@@ -240,6 +240,7 @@
             <outline title="Bootstrap" xmlUrl="https://github.com/twbs/bootstrap/releases.atom"/>
             <outline title="containerd" xmlUrl="https://github.com/containerd/containerd/releases.atom"/>
             <outline title="D3" xmlUrl="https://github.com/d3/d3/releases.atom"/>
+            <outline title="DC/OS" xmlUrl="https://github.com/dcos/dcos/releases.atom"/>
             <outline title="deno" xmlUrl="https://github.com/ry/deno/releases.atom"/>
             <outline title="Django" xmlUrl="https://github.com/django/django/releases.atom"/>
             <outline title="Elasticsearch" xmlUrl="https://github.com/elastic/elasticsearch/releases.atom"/>
@@ -254,6 +255,7 @@
             <outline title="gRPC" xmlUrl="https://github.com/grpc/grpc/releases.atom"/>
             <outline title="Guava" xmlUrl="https://github.com/google/guava/releases.atom"/>
             <outline title="Hadoop" xmlUrl="https://github.com/apache/hadoop/releases.atom"/>
+            <outline title="HAProxy" xmlUrl="https://github.com/haproxy/haproxy/releases.atom"/>
             <outline title="Hyper" xmlUrl="https://github.com/zeit/hyper/releases.atom"/>
             <outline title="impress.js" xmlUrl="https://github.com/impress/impress.js/releases.atom"/>
             <outline title="jQuery" xmlUrl="https://github.com/jquery/jquery/releases.atom"/>
@@ -262,15 +264,20 @@
             <outline title="Kubernetes" xmlUrl="https://github.com/kubernetes/kubernetes/releases.atom"/>
             <outline title="Linkerd" xmlUrl="https://github.com/linkerd/linkerd/releases.atom"/>
             <outline title="Linux" xmlUrl="https://github.com/torvalds/linux/releases.atom"/>
+            <outline title="Marathon" xmlUrl="https://github.com/mesosphere/marathon/releases.atom"/>
             <outline title="Maven" xmlUrl="https://github.com/apache/maven/releases.atom"/>
+            <outline title="Mininet" xmlUrl="https://github.com/mininet/mininet/releases.atom"/>
             <outline title="Moby" xmlUrl="https://github.com/moby/moby/releases.atom"/>
             <outline title="Neofetch" xmlUrl="https://github.com/dylanaraps/neofetch/releases.atom"/>
             <outline title="Node.js" xmlUrl="https://github.com/nodejs/node/releases.atom"/>
             <outline title="Oh My Zsh" xmlUrl="https://github.com/robbyrussell/oh-my-zsh/releases.atom"/>
             <outline title="OkHttp" xmlUrl="https://github.com/square/okhttp/releases.atom"/>
+            <outline title="ONOS" xmlUrl="https://github.com/opennetworkinglab/onos/releases.atom"/>
             <outline title="OpenAI Gym" xmlUrl="https://github.com/openai/gym/releases.atom"/>
+            <outline title="p5.js" xmlUrl="https://github.com/processing/p5.js/releases.atom"/>
             <outline title="PollyJS" xmlUrl="https://github.com/Netflix/pollyjs/releases.atom"/>
             <outline title="Polymer" xmlUrl="https://github.com/Polymer/polymer/releases.atom"/>
+            <outline title="Processing" xmlUrl="https://github.com/processing/processing/releases.atom"/>
             <outline title="Prometheus" xmlUrl="https://github.com/prometheus/prometheus/releases.atom"/>
             <outline title="React" xmlUrl="https://github.com/facebook/react/releases.atom"/>
             <outline title="React Native" xmlUrl="https://github.com/facebook/react-native/releases.atom"/>
