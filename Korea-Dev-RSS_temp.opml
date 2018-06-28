@@ -194,6 +194,7 @@
         </outline>
 
         <outline title="youtube" text="방송 모음">
+            <outline title="권오흠" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC-cOmaeWLm7Ii7erMQNatvA"/>
             <outline title="김성훈" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCML9R2ol-l0Ab9OXoNnr7Lw"/>
             <outline title="나도코딩"
                      xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC7iAOLiALt2rtMVAWWl4pnw"/>
@@ -202,8 +203,12 @@
             <outline title="백기선" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCwjaZf1WggZdbczi36bWlBA"/>
             <outline title="생활코딩"
                      xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCvc8kv-i5fvFTJBFAk6n1SA"/>
+            <outline title="쉐어드아이티"
+                     xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCKmGquVYo0RkOwfAsxJ-WCQ"/>
             <outline title="스무디 TV"
                      xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCo-7BoOyUN6SrtCGWaAV81Q"/>
+            <outline title="엔지니어대한민국"
+                     xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCWMAh9cSkEn8v42YRO90BHA"/>
             <outline title="이일민" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCcqH2RV1-9ebRBhmN_uaSNg"/>
             <outline title="자가발전"
                      xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCtPPlvfv8-SzTLEPds_OWZA"/>
