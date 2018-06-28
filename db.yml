@@ -999,8 +999,7 @@
   rss: http://www.gisdeveloper.co.kr/?feed=rss2
   description: GIS
 - name: 김형준
-  blog: http://www.jaso.co.kr/
-  rss: http://www.jaso.co.kr/index.php/feed/
+  blog: https://www.popit.kr/author/babokim
   description: 마이크로 서비스
 - name: 김형준
   blog: http://www.smallake.kr/
