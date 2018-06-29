@@ -307,5 +307,10 @@
             <outline title="Yarn" xmlUrl="https://github.com/yarnpkg/yarn/releases.atom"/>
             <outline title="Zuul" xmlUrl="https://github.com/Netflix/zuul/releases.atom"/>
         </outline>
+
+        <outline title="twitter" text="트위터">
+            <outline title="강대명" xmlUrl="https://www.twitrss.me/twitter_user_to_rss/?user=charsyam"/>
+            <outline title="강미경" xmlUrl="https://www.twitrss.me/twitter_user_to_rss/?user=minieetea"/>
+        </outline>
     </body>
 </opml>
