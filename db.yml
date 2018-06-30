@@ -2607,6 +2607,15 @@
   description: Python, Django
   facebook: https://www.facebook.com/blacksangi
   github: https://github.com/lee-seul
+- name: 이승민
+  blog: https://medium.com/@rfrost77
+  rss: https://medium.com/feed/@rfrost77
+  description: Android
+  facebook: https://www.facebook.com/rfrost77
+  twitter: https://twitter.com/rfrost77
+  linkedin: https://www.linkedin.com/in/rfrost77/
+  instagram: https://www.instagram.com/rfrost77/
+  speakerdeck: https://speakerdeck.com/rfrost77
 - name: 이승우
   blog: https://blog.2dal.com/
   rss: https://blog.2dal.com/feed/
