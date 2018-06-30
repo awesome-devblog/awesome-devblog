@@ -3074,6 +3074,16 @@
   blog: http://openlook.org/wp/
   rss: http://openlook.org/wp/feed/
   description: 빅데이터
+- name: 장혜준
+  blog: http://jhyejun.com/blog/
+  rss: http://jhyejun.com/feed.xml
+  description: Swift
+  facebook: https://www.facebook.com/jhyejun
+  twitter: https://twitter.com/jhyejun417
+  linkedin: https://www.linkedin.com/in/jhyejun/
+  github: https://github.com/jhyejun
+  instagram: https://www.instagram.com/jhyejun/
+  home: http://jhyejun.com/
 - name: 전규현
   blog: http://www.allofsoftware.net/
   rss: http://feeds.feedburner.com/allofsoftware?format=xml
