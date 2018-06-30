@@ -3894,8 +3894,8 @@
   linkedin: https://www.linkedin.com/in/seunghuh/
   facebook: https://www.facebook.com/profile.php?id=100001916494658
 - name: 허원철
-  blog: http://heowc.tistory.com/
-  rss: http://heowc.tistory.com/rss
+  blog: https://heowc.github.io/
+  tistory: http://heowc.tistory.com/
   description: Java
 - name: 허재위
   blog: http://blog.import.re/
