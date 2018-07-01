@@ -486,6 +486,10 @@
   facebook: https://www.facebook.com/kimbowon
   github: https://github.com/boribap
   instagram: https://www.instagram.com/kim_bo_1/
+- name: 김봉조
+  blog: http://fishpoint.tistory.com/
+  rss: http://fishpoint.tistory.com/rss
+  description: 라즈베리 파이
 - name: 김봉현
   blog: https://harfangk.github.io/
   rss: https://harfangk.github.io/feed.xml
