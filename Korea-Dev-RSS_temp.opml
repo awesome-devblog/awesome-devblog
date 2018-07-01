@@ -291,6 +291,7 @@
             <outline title="OkHttp" xmlUrl="https://github.com/square/okhttp/releases.atom"/>
             <outline title="ONOS" xmlUrl="https://github.com/opennetworkinglab/onos/releases.atom"/>
             <outline title="OpenAI Gym" xmlUrl="https://github.com/openai/gym/releases.atom"/>
+            <outline title="OpenShot" xmlUrl="https://github.com/OpenShot/openshot-qt/releases.atom"/>
             <outline title="p5.js" xmlUrl="https://github.com/processing/p5.js/releases.atom"/>
             <outline title="Parcel" xmlUrl="https://github.com/parcel-bundler/parcel/releases.atom"/>
             <outline title="PollyJS" xmlUrl="https://github.com/Netflix/pollyjs/releases.atom"/>
@@ -322,14 +323,6 @@
             <outline title="webpack" xmlUrl="https://github.com/webpack/webpack/releases.atom"/>
             <outline title="Yarn" xmlUrl="https://github.com/yarnpkg/yarn/releases.atom"/>
             <outline title="Zuul" xmlUrl="https://github.com/Netflix/zuul/releases.atom"/>
-        </outline>
-
-        <outline title="twitter" text="트위터">
-            <outline title="강대명" xmlUrl="https://www.twitrss.me/twitter_user_to_rss/?user=charsyam"/>
-            <outline title="강미경" xmlUrl="https://www.twitrss.me/twitter_user_to_rss/?user=minieetea"/>
-            <outline title="강성훈" xmlUrl="https://www.twitrss.me/twitter_user_to_rss/?user=senokay"/>
-            <outline title="경준호" xmlUrl="https://www.twitrss.me/twitter_user_to_rss/?user=firejune"/>
-            <outline title="계주성" xmlUrl="https://www.twitrss.me/twitter_user_to_rss/?user=kyejusung"/>
         </outline>
     </body>
 </opml>
