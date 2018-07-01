@@ -1518,6 +1518,8 @@
   linkedin: https://www.linkedin.com/in/rickypark/
 - name: 박현우
   blog: http://lqez.github.io/blog/
+  rss: http://lqez.github.io/blog/feeds/all.atom.xml
+  description: Python
   facebook: https://www.facebook.com/ez.amiryo
   twitter: https://twitter.com/lqez
   github: https://github.com/lqez
