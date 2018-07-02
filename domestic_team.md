@@ -113,6 +113,7 @@
 | Elastic Blog | https://www.elastic.co/kr/blog | Elastic Stack |
 | Gitple | http://tech.gitple.io/ | |
 | Google | http://googledevkr.blogspot.kr/ | |
+| Hashcode | https://hashcode.co.kr/ | |
 | hyper-cube.io | http://hyper-cube.io/ | |
 | IAMROOT | http://www.iamroot.org/ | 리눅스 커널 스터디 그룹 |
 | IT월드 | http://www.itworld.co.kr/ | |
@@ -123,6 +124,7 @@
 | Mozilla Hack | http://hacks.mozilla.or.kr/ | |
 | MSDN Korea Evengelist | https://blogs.msdn.microsoft.com/eva/ | .Net |
 | NVIDA | http://blogs.nvidia.co.kr/ | Graphic |
+| OKKY | https://okky.kr/ | Q&A |
 | opennaru Blog | http://www.opennaru.com/blog/ | APM |
 | PoiemaWeb | http://poiemaweb.com/ | 이웅모 |
 | Popit | http://www.popit.kr/ | |
