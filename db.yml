@@ -1907,6 +1907,12 @@
   rss: https://simhyejin.github.io/atom.xml
   description: ''
   github: https://github.com/Simhyejin
+- name: 신호석
+  blog: https://medium.com/@erish
+  rss: https://medium.com/feed/@erish
+  description: Python, Android
+  facebook: https://ko-kr.facebook.com/hosuk0w0
+  github: https://github.com/erishforG
 - name: 신호철
   blog: http://hochulshin.com/
   rss: http://hochulshin.com/feed
