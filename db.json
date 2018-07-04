@@ -4342,6 +4342,12 @@
     "googleplus": "https://plus.google.com/+%EC%A0%95%EB%8F%84%ED%98%84Developer"
   },
   {
+    "name": "정동교",
+    "blog": "http://jeong-pro.tistory.com/",
+    "description": "Java, javascript",
+    "rss": "http://jeong-pro.tistory.com/"
+  },
+  {
     "name": "정동민",
     "blog": "http://jdm.kr/blog/",
     "description": "Java"
