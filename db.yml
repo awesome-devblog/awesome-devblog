@@ -3159,13 +3159,13 @@
   rss: http://www.moreagile.net/feeds/posts/default
   description: 개발방법론
   googleplus: https://plus.google.com/+%EC%A0%95%EB%8F%84%ED%98%84Developer
-- name: 정동민
-  blog: http://jdm.kr/blog/
-  description: Java
 - name: 정동교
   blog: http://jeong-pro.tistory.com/
   rss: http://jeong-pro.tistory.com/rss
   description: Java, Javascript
+- name: 정동민
+  blog: http://jdm.kr/blog/
+  description: Java
 - name: 정민혁
   blog: https://www.holaxprogramming.com/
   rss: https://www.holaxprogramming.com/atom.xml
