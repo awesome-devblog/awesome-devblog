@@ -2569,6 +2569,13 @@
   rss: https://surpreem.com/feed/
   description: ''
   twitter: https://twitter.com/spreem
+- name: 이상철(문화일상)
+  blog: https://1ilsang.blog.me/
+  rss: http://1ilsang.blog.me/rss
+  description: IT 서적 리뷰, JavaScript, Back-End
+  facebook: https://www.facebook.com/dlehdlcl
+  github: https://github.com/1ilsang
+  linkedin: https://www.linkedin.com/in/sangchul-lee-91a32b154/
 - name: 이상학
   blog: http://sanghaklee.tistory.com/
   rss: http://sanghaklee.tistory.com/rss
