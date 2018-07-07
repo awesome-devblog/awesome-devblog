@@ -3677,6 +3677,13 @@
   blog: http://javacan.tistory.com/
   rss: http://javacan.tistory.com/rss
   description: Java
+- name: 최병규
+  blog: https://gyukebox.github.io/
+  rss: https://gyukebox.github.io/index.xml
+  description: Django
+  facebook: https://www.facebook.com/gyukebox
+  github: https://github.com/gyukebox
+  linkedin: https://www.linkedin.com/in/%eb%b3%91%ea%b7%9c-%ec%b5%9c-43290213b/
 - name: 최석균
   blog: http://syaku.tistory.com/
   rss: http://syaku.tistory.com/rss
