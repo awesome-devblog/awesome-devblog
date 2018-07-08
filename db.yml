@@ -605,6 +605,10 @@
   blog: https://brunch.co.kr/@springboot
   rss: https://brunch.co.kr/rss/@@2MrI
   description: Spring Boot
+- name: 김시준
+  blog: https://medium.com/@ksjksj0122
+  rss: https://medium.com/feed/@ksjksj0122
+  description: 블록체인
 - name: 김영우
   blog: http://datajournal.kr/
   rss: http://datajournal.kr/feed/

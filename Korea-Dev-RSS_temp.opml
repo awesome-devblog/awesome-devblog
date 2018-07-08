@@ -323,6 +323,7 @@
             <outline title="Swift" xmlUrl="https://github.com/apple/swift/releases.atom"/>
             <outline title="TensorFlow" xmlUrl="https://github.com/tensorflow/tensorflow/releases.atom"/>
             <outline title="TensorFlow.js" xmlUrl="https://github.com/tensorflow/tfjs/releases.atom"/>
+            <outline title="Toast UI Editor" xmlUrl="https://github.com/nhnent/tui.editor/releases.atom"/>
             <outline title="Tornado" xmlUrl="https://github.com/tornadoweb/tornado/releases.atom"/>
             <outline title="Vibora" xmlUrl="https://github.com/vibora-io/vibora/releases.atom"/>
             <outline title="VSCode" xmlUrl="https://github.com/Microsoft/vscode/releases.atom"/>
