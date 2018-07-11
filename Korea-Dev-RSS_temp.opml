@@ -276,6 +276,7 @@
             <outline title="gRPC" xmlUrl="https://github.com/grpc/grpc/releases.atom"/>
             <outline title="Guava" xmlUrl="https://github.com/google/guava/releases.atom"/>
             <outline title="Hadoop" xmlUrl="https://github.com/apache/hadoop/releases.atom"/>
+            <outline title="Handsontable" xmlUrl="https://github.com/handsontable/handsontable/releases.atom"/>
             <outline title="HAProxy" xmlUrl="https://github.com/haproxy/haproxy/releases.atom"/>
             <outline title="Hyper" xmlUrl="https://github.com/zeit/hyper/releases.atom"/>
             <outline title="impress.js" xmlUrl="https://github.com/impress/impress.js/releases.atom"/>
