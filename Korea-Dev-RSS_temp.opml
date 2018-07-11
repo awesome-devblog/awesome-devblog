@@ -28,6 +28,8 @@
             <outline title="ㅍㅍㅅㅅ 테크" xmlUrl="https://ppss.kr/archives/category/tech/feed"/>
             <outline title="한국게임기획자모임" xmlUrl="http://gameplanner.cafe24.com/feed/"/>
             <outline title="Amazon Web Services 한국 블로그" xmlUrl="https://aws.amazon.com/ko/blogs/korea/feed/"/>
+            <outline title="developerWorks Korea" xmlUrl="http://www.ibm.com/developerworks/kr/views/rss/customrssatom.jsp?zone_by=Web+services&type_by=Articles&type_by=Tutorials&search_by=&day=1&month=01&year=2004&max_entries=10&feed_by=rss&isGUI=true&Submit.x=36&Submit.y=12"/>
+            <outline title="devpools" xmlUrl="http://www.devpools.kr/atom.xml"/>
             <outline title="SK플래닛" xmlUrl="http://feeds.feedburner.com/skpreadme?format=xml"/>
             <outline title="Elastic" xmlUrl="https://www.elastic.co/kr/blog/feed"/>
             <outline title="VCNC" xmlUrl="http://engineering.vcnc.co.kr/atom.xml"/>
@@ -46,6 +48,7 @@
             <outline title="블로터" xmlUrl="http://feeds.feedburner.com/Bloter"/>
             <outline title="인공지능 신문" xmlUrl="http://www.aitimes.kr/rss/allArticle.xml"/>
             <outline title="테크수다" xmlUrl="http://www.techsuda.com/feed"/>
+            <outline title="IT월드" xmlUrl="http://www.itworld.co.kr/rss/feed"/>
         </outline>
 
         <outline title="overseas" text="해외 개발자 블로그 모음">
