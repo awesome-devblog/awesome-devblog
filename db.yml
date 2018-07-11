@@ -1453,6 +1453,12 @@
   rss: http://swalloow.github.io/feed.xml
   description: BigData, AI
   github: https://github.com/Swalloow
+- name: 박준영
+  blog: https://b.chalk.pe/
+  rss: https://b.chalk.pe/index.xml
+  description: Ubuntu
+  github: https://github.com/ChalkPE
+  twitter: https://twitter.com/amato17
 - name: 박준호
   blog: http://junojunho.com/
   rss: http://junojunho.com/feed.xml
