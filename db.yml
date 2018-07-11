@@ -574,6 +574,12 @@
   rss: https://elky84.github.io/feed.xml
   description: C++, C#, Ruby, Python
   github: https://github.com/elky84
+- name: 김소현
+  blog: https://aa9390.github.io/
+  rss: https://aa9390.github.io/feed.xml
+  description: 인공지능
+  github: https://github.com/aa9390
+  instagram: https://www.instagram.com/yn.yeon/
 - name: 김수로
   blog: http://babysunmoon.tistory.com/
   rss: http://babysunmoon.tistory.com/rss
