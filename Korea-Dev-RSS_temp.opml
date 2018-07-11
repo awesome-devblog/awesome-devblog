@@ -11,6 +11,8 @@
             <outline title="달리웍스" xmlUrl="http://techblog.daliworks.net/feed.xml"/>
             <outline title="데일리호텔" xmlUrl="https://dailyhotel.io/feed"/>
             <outline title="드라마앤컴패니 블로그" xmlUrl="http://developer.dramancompany.com/feed/"/>
+            <outline title="로켓펀치 블로그" xmlUrl="https://blog.rocketpunch.com/feed/"/>
+            <outline title="슬로우뉴스-테크" xmlUrl="http://slownews.kr/category/tech/feed"/>
             <outline title="아해팀 블로그" xmlUrl="https://ahea.wordpress.com/feed/"/>
             <outline title="에이콘" xmlUrl="http://feeds.feedburner.com/acornpub"/>
             <outline title="엠비안" xmlUrl="http://blog.embian.com/rss"/>
@@ -23,6 +25,7 @@
             <outline title="지금 써보러 갑니다" xmlUrl="http://icunow.co.kr/feed/"/>
             <outline title="카카오 기술 블로그" xmlUrl="http://tech.kakao.com/rss/"/>
             <outline title="티몬" xmlUrl="http://tmondev.blog.me/rss"/>
+            <outline title="ㅍㅍㅅㅅ 테크" xmlUrl="https://ppss.kr/archives/category/tech/feed"/>
             <outline title="한국게임기획자모임" xmlUrl="http://gameplanner.cafe24.com/feed/"/>
             <outline title="Amazon Web Services 한국 블로그" xmlUrl="https://aws.amazon.com/ko/blogs/korea/feed/"/>
             <outline title="SK플래닛" xmlUrl="http://feeds.feedburner.com/skpreadme?format=xml"/>
@@ -41,10 +44,8 @@
             <outline title="모비인사이드" xmlUrl="http://feeds.feedburner.com/mobiinside/kr"/>
             <outline title="보안뉴스" xmlUrl="http://www.boannews.com/media/news_rss.xml"/>
             <outline title="블로터" xmlUrl="http://feeds.feedburner.com/Bloter"/>
-            <outline title="슬로우뉴스-테크" xmlUrl="http://slownews.kr/category/tech/feed"/>
             <outline title="인공지능 신문" xmlUrl="http://www.aitimes.kr/rss/allArticle.xml"/>
             <outline title="테크수다" xmlUrl="http://www.techsuda.com/feed"/>
-            <outline title="ㅍㅍㅅㅅ 테크" xmlUrl="https://ppss.kr/archives/category/tech/feed"/>
         </outline>
 
         <outline title="overseas" text="해외 개발자 블로그 모음">
