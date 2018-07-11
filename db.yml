@@ -2004,9 +2004,10 @@
   description: Java
   facebook: https://www.facebook.com/jb7959
 - name: 안재우
-  blog: http://blog.naver.com/saltynut
-  rss: https://rss.blog.naver.com/saltynut.xml
+  blog: https://brunch.co.kr/@jaewooahn
+  rss: https://brunch.co.kr/rss/@@22CG
   description: 해외취업
+  naver: http://blog.naver.com/saltynut
 - name: 안재하
   blog: http://programmingsummaries.tistory.com/
   rss: http://programmingsummaries.tistory.com/rss
