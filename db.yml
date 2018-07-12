@@ -3142,19 +3142,6 @@
   linkedin: https://www.linkedin.com/in/jangkunblog/
   flickr: https://www.flickr.com/photos/jangkunblog/
   youtube: https://www.youtube.com/jangkunblog
-- name: 전미정
-  blog: https://mijeongjeon.github.io/
-  rss: https://mijeongjeon.github.io/feed.xml
-  description: iOS, Keras
-  github: https://github.com/mijeongjeon
-  facebook: https://www.facebook.com/Ninevincent
-- name: 전승현
-  blog: https://fuzer.github.io/
-  rss: https://fuzer.github.io/feed
-  description: ''
-  linkedin: https://www.linkedin.com/in/fuzer/
-  github: https://github.com/FuZer
-  facebook: https://www.facebook.com/shtowever
 - name: 장영철
   blog: http://dkdlel072.tistory.com/
   rss: http://dkdlel072.tistory.com/rss
@@ -3260,6 +3247,12 @@
   twitter: https://twitter.com/muik
   facebook: https://www.facebook.com/muik.jeon
   aboutme: https://about.me/muik
+- name: 전미정
+  blog: https://mijeongjeon.github.io/
+  rss: https://mijeongjeon.github.io/feed.xml
+  description: iOS, Keras
+  github: https://github.com/mijeongjeon
+  facebook: https://www.facebook.com/Ninevincent
 - name: 전민수
   blog: https://brunch.co.kr/@ebprux
   rss: https://brunch.co.kr/rss/@@2fEJ
@@ -3268,6 +3261,13 @@
   blog: http://sanghyukchun.github.io/
   rss: http://sanghyukchun.github.io/atom.xml
   description: Machine Learning
+- name: 전승현
+  blog: https://fuzer.github.io/
+  rss: https://fuzer.github.io/feed
+  description: ''
+  linkedin: https://www.linkedin.com/in/fuzer/
+  github: https://github.com/FuZer
+  facebook: https://www.facebook.com/shtowever
 - name: 전재훈
   blog: https://blog.naver.com/hupers
   rss: https://rss.blog.naver.com/hupers.xml
@@ -3490,6 +3490,13 @@
   facebook: https://www.facebook.com/nuti001
   github: https://github.com/hyeonil
   googleplus: https://plus.google.com/108950067977492994909
+- name: 정효기
+  blog: https://hyogij.wordpress.com/
+  rss: https://hyogij.wordpress.com/feed/
+  description: Android, Interview
+  facebook: https://www.facebook.com/hyogij
+  linkedin: https://www.linkedin.com/in/hyogij/
+  slideshare: https://www.slideshare.net/hyogij
 - name: 정희연
   blog: https://yeun.github.io/
   description: 웹디자인
