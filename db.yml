@@ -1330,6 +1330,11 @@
   blog: https://brunch.co.kr/@sanghoonpak
   rss: https://brunch.co.kr/rss/@@v0n
   description: 인도네시아 IT 소식
+- name: 박선준
+  blog: http://baactree.tistory.com/
+  rss: http://baactree.tistory.com/rss
+  description: 알고리즘
+  github: https://github.com/baactree
 - name: 박성범
   blog: http://ferrumdev.tistory.com
   rss: http://ferrumdev.tistory.com/rss
