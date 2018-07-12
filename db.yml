@@ -652,6 +652,11 @@
   blog: https://brunch.co.kr/@fermat39
   rss: https://brunch.co.kr/rss/@@sJg
   description: ''
+- name: 김영훈
+  blog: https://blog.martinwork.co.kr/
+  rss: https://blog.martinwork.co.kr/feed.xml
+  description: AI, Javascript
+  github: https://github.com/MartinYounghoonKim/
 - name: 김요섭
   blog: https://josephkim75.wordpress.com/
   rss: https://josephkim75.wordpress.com/feed/
