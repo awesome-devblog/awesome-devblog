@@ -33,6 +33,7 @@
 | 미래웹 | http://www.miraeweb.com/blog | 웹 |
 | 박스앤위스커 | http://www.boxnwhis.kr/ | |
 | 버즈아트 | https://tech.bbuzzart.com/ | |
+| 보드나라 | http://www.bodnara.co.kr/ | IT 뉴스 |
 | 보안뉴스 | http://www.boannews.com/ | 보안 |
 | 블로터 | http://www.bloter.net/ | IT 뉴스 |
 | 솔라나라 | http://www.solanara.net/ | 솔라리스 |

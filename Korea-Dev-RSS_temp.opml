@@ -44,6 +44,7 @@
 
         <outline title="news" text="국내 IT 소식 모음">
             <outline title="모비인사이드" xmlUrl="http://feeds.feedburner.com/mobiinside/kr"/>
+            <outline title="보드나라" xmlUrl="http://www.bodnara.co.kr/rss/news.xml"/>
             <outline title="보안뉴스" xmlUrl="http://www.boannews.com/media/news_rss.xml"/>
             <outline title="블로터" xmlUrl="http://feeds.feedburner.com/Bloter"/>
             <outline title="씨넷코리아" xmlUrl="http://www.cnet.co.kr/sitelink/rss_url/"/>
