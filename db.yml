@@ -1869,6 +1869,7 @@
   rss: https://medium.com/feed/@jungkees
   description: Web
   twitter: https://twitter.com/jungkees
+  github: https://github.com/jungkees
 - name: 송주성(빈꿈)
   blog: http://emptydream.tistory.com/
   rss: http://emptydream.tistory.com/rss
@@ -3255,6 +3256,11 @@
   blog: http://sanghyukchun.github.io/
   rss: http://sanghyukchun.github.io/atom.xml
   description: Machine Learning
+- name: 전재훈
+  blog: https://blog.naver.com/hupers
+  rss: https://rss.blog.naver.com/hupers.xml
+  description: MES
+  facebook: https://www.facebook.com/hupers
 - name: 전종홍
   blog: http://mobile2.tistory.com/
   rss: http://mobile2.tistory.com/rss
