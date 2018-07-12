@@ -3201,6 +3201,10 @@
   description: PHP
   facebook: https://www.facebook.com/jawebdev
   home: http://www.php5.me/
+- name: 전명우
+  blog: http://blog.myungwoo.kr/
+  rss: http://blog.myungwoo.kr/rss
+  description: 알고리즘
 - name: 전무익
   blog: https://medium.com/@muik
   rss: https://medium.com/feed/@muik
