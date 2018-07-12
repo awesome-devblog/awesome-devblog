@@ -3814,6 +3814,10 @@
   blog: https://brunch.co.kr/@voiz
   rss: https://brunch.co.kr/rss/@@2nnc
   description: 테크 칼럼
+- name: 최종원
+  blog: https://jongwony.github.io/blog/
+  description: Back-end
+  github: https://github.com/jongwony
 - name: 최종찬
   blog: http://blog.0xabcdef.com/
   rss: http://blog.0xabcdef.com/rss/atom
