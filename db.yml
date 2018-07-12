@@ -1114,13 +1114,15 @@
   description: Java, Javascript, Clojure
   googleplus: https://plus.google.com/113718280768717218211
 - name: 남정현
-  blog: http://www.rkttu.com/
+  blog: https://medium.com/@rkttu
+  rss: https://medium.com/feed/@rkttu
   description: 클라우드
   github: https://github.com/rkttu
   twitter: https://twitter.com/rkttu
   medium: https://medium.com/@rkttu
   aboutme: https://about.me/rkttu
   googleplus: https://plus.google.com/+%EB%82%A8%EC%A0%95%ED%98%84
+  slideshare: https://www.slideshare.net/rkttu
 - name: 남혜연
   blog: https://byline.network/author/smilla/
   description: IT 뉴스
