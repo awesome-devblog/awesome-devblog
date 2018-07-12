@@ -86,6 +86,7 @@
 | 퀘스트 소프트 블로그 | http://www.questblog.co.kr/ | |
 | 클라우드스터딩 | http://cloudstudying.kr/ | |
 | 클리어보스 | http://www.clearboth.org/ | |
+| 테크니들 | http://techneedle.com/ | IT 뉴스 |
 | 테크수다 | http://www.techsuda.com/ | |
 | 테크엠 | http://www.techm.kr/home/ | IT |
 | 테크홀릭 | http://techholic.co.kr/ | |

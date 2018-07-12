@@ -50,6 +50,7 @@
             <outline title="씨넷코리아" xmlUrl="http://www.cnet.co.kr/sitelink/rss_url/"/>
             <outline title="인공지능 신문" xmlUrl="http://www.aitimes.kr/rss/allArticle.xml"/>
             <outline title="전자신문" xmlUrl="http://rss.etnews.co.kr/Section901.xml"/>
+            <outline title="테크니들" xmlUrl="http://techneedle.com/feed"/>
             <outline title="테크수다" xmlUrl="http://www.techsuda.com/feed"/>
             <outline title="IT동아" xmlUrl="http://it.donga.com/feeds/rss/recent/"/>
             <outline title="IT월드" xmlUrl="http://www.itworld.co.kr/rss/feed"/>
