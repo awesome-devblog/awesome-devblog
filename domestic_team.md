@@ -119,7 +119,8 @@
 | Hashcode | https://hashcode.co.kr/ | |
 | hyper-cube.io | http://hyper-cube.io/ | |
 | IAMROOT | http://www.iamroot.org/ | 리눅스 커널 스터디 그룹 |
-| IT월드 | http://www.itworld.co.kr/ | |
+| IT동아 | http://it.donga.com/ | IT 뉴스 |
+| IT월드 | http://www.itworld.co.kr/ | IT 뉴스 |
 | LG CNS | http://blog.lgcns.com/ | |
 | Line Enginners Blog | http://developers.linecorp.com/blog/ko/ | |
 | Make Korea | https://make.co.kr/ | DIY |
