@@ -40,6 +40,7 @@
 | 스타트링크 | https://blog.startlink.io/ | |
 | 슬로우뉴스 | http://slownews.kr/category/tech | |
 | 시스코 | http://ciscokrblog.com/ | |
+| 씨넷코리아 | http://www.cnet.co.kr/ | IT 뉴스 |
 
 ## ㅇ-ㅎ
 

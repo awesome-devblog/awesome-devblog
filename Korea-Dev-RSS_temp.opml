@@ -46,6 +46,7 @@
             <outline title="모비인사이드" xmlUrl="http://feeds.feedburner.com/mobiinside/kr"/>
             <outline title="보안뉴스" xmlUrl="http://www.boannews.com/media/news_rss.xml"/>
             <outline title="블로터" xmlUrl="http://feeds.feedburner.com/Bloter"/>
+            <outline title="씨넷코리아" xmlUrl="http://www.cnet.co.kr/sitelink/rss_url/"/>
             <outline title="인공지능 신문" xmlUrl="http://www.aitimes.kr/rss/allArticle.xml"/>
             <outline title="테크수다" xmlUrl="http://www.techsuda.com/feed"/>
             <outline title="IT월드" xmlUrl="http://www.itworld.co.kr/rss/feed"/>
