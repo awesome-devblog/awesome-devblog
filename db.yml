@@ -410,6 +410,13 @@
   rss: https://dohoons.com/blog/feed
   description: Web
   github: https://github.com/dohoons
+- name: 김동열
+  blog: http://greatkim91.tistory.com/
+  rss: http://greatkim91.tistory.com/rss
+  description: Back-end
+  twitter: https://twitter.com/greatkim91
+  slideshare: https://www.slideshare.net/greatkim91
+  linkedin: https://www.linkedin.com/in/동열-김-27a70428/
 - name: 김동우
   blog: https://dongwoo.blog/
   rss: https://dongwoo.blog/feed/
