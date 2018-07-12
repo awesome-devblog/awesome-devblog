@@ -2074,6 +2074,11 @@
   blog: http://blog.naver.com/delmadang
   rss: https://rss.blog.naver.com/delmadang.xml
   description: 칼럼
+- name: 양병석
+  blog: https://fstory97.blog.me/
+  rss: http://fstory97.blog.me/rss
+  description: IT 칼럼
+  facebook: https://www.facebook.com/fstory97
 - name: 양봉수
   blog: https://yangbongsoo.gitbooks.io/study/content/
   description: Java, Spring
