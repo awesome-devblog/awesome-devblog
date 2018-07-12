@@ -245,11 +245,12 @@
 - name: 권욱제
   blog: http://wookje.dance/
   rss: http://wookje.github.io/rss/
-  description: ''
+  description: 알고리즘
   github: https://github.com/wookje
   boj: https://www.acmicpc.net/user/wookje
   codeforces: http://codeforces.com/profile/wookje.happy
   facebook: https://www.facebook.com/profile.php?id=100008317802738
+  opgg: https://overlog.gg/detail/overview/239042227252217170213224
 - name: 권윤학
   blog: http://web-front-end.tistory.com/
   rss: http://web-front-end.tistory.com/rss
@@ -1084,6 +1085,11 @@
   rss: https://heejune.me/feed/
   description: ''
   linkedin: https://www.linkedin.com/in/heejune/
+- name: 나동빈
+  blog: https://blog.naver.com/ndb796
+  rss: https://rss.blog.naver.com/ndb796.xml
+  description: 알고리즘
+  youtube: https://www.youtube.com/channel/UChflhu32f5EUHlY7_SetNWw
 - name: 나윤환
   blog: https://nayunhwan.github.io/
   description: React
