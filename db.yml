@@ -2205,6 +2205,13 @@
   blog: https://brunch.co.kr/@hopeless
   rss: https://brunch.co.kr/rss/@@2iiS
   description: Android
+- name: 오준영
+  blog: https://blog.naver.com/lestat85
+  rss: https://rss.blog.naver.com/lestat85.xml
+  description: Java
+  facebook: https://www.facebook.com/juneyoung.oh.7
+  linkedin: https://www.linkedin.com/in/juneyoung
+  slideshare: https://www.slideshare.net/juneyoungoh7
 - name: 오현석
   profile: people/enshahar.md
   blog: http://www.enshahar.me/
