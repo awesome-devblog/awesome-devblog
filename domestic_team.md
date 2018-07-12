@@ -69,6 +69,7 @@
 | 인공지능신문 | http://www.aitimes.kr/ | |
 | 인사이트 | http://www.insightbook.co.kr/ | 책 |
 | 로지스팟 | http://engineering.logi-spot.com/ | |
+| 전자신문 | http://www.etnews.com/ | IT 뉴스 |
 | 제이펍 | http://jpub.tistory.com/ | 책 |
 | 조이코퍼레이션 | https://medium.com/zoyi-blog | |
 | 줌 인터넷 개발 블로그 | https://zumdev.github.io/ | |
