@@ -3721,6 +3721,10 @@
   blog: http://mcchae.egloos.com/
   rss: http://rss.egloos.com/blog/mcchae
   description: Python
+- name: 천민호
+  blog: http://kesakiyo.tistory.com/
+  rss: http://kesakiyo.tistory.com/rss
+  description: 알고리즘
 - name: 최광민
   blog: http://dl-ai.blogspot.kr/
   rss: http://dl-ai.blogspot.com/feeds/posts/default
