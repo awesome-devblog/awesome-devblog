@@ -4032,6 +4032,11 @@
 - name: 한수연
   blog: https://www.bloter.net/archives/author/again
   description: 블록체인, 빅데이터
+- name: 한수훈
+  blog: https://tech.ssut.me/
+  rss: https://tech.ssut.me/rss/
+  description: Node, Go, Python
+  github: https://github.com/ssut
 - name: 한승훈(kkamagui)
   profile: people/kkamagui.md
   blog: http://kkamagui.tistory.com/
