@@ -1605,11 +1605,12 @@
   soundcloud: https://soundcloud.com/lqez
   home: http://lqez.github.io/
 - name: 박훈
-  blog: http://1ambda.github.io/
-  rss: http://1ambda.github.io/rss/
-  description: 함수형 언어
+  blog: https://1ambda.blog/
+  rss: https://1ambda.blog/feed/
+  description: 함수형 언어, AWS
   linkedin: https://www.linkedin.com/in/1ambda/
   github: https://github.com/1ambda
+  facebook: https://www.facebook.com/1ambda
 - name: 박희근
   blog: http://sirini.net/grboard2/blog
   rss: http://sirini.net/grboard2/blog/rss
