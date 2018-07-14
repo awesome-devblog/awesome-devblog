@@ -25,6 +25,7 @@
 | 리디북스 | https://www.ridicorp.com/blog/ | |
 | 리모트몬스터 | https://blog.remotemonster.com/ | WebRTC |
 | 린치핀소프트 | http://www.linchpinsoft.com/blog/ | 한광희 |
+| 마이크로소프트웨어 | https://www.imaso.co.kr/ | |
 | 멋쟁이 사자처럼 | https://likelion.net/ | |
 | 모두의연구소 | http://www.modulabs.co.kr/ | |
 | 모람씨앤티 | http://blog.moramcnt.com/ | 이용민 |
