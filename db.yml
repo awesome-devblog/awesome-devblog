@@ -2675,6 +2675,12 @@
   blog: http://sanghaklee.tistory.com/
   rss: http://sanghaklee.tistory.com/rss
   description: Back-end
+- name: 이상희
+  blog: http://schoolofweb.net/blog/
+  description: Python, Django
+  github: https://github.com/sanghee911
+  facebook: https://www.facebook.com/sanghee.lee.1029
+  home: http://schoolofweb.net/
 - name: 이선협
   blog: https://medium.com/@kciter
   rss: https://medium.com/feed/@kciter
