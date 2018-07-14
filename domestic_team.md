@@ -134,6 +134,7 @@
 | NVIDA | http://blogs.nvidia.co.kr/ | Graphic |
 | OKKY | https://okky.kr/ | Q&A |
 | opennaru Blog | http://www.opennaru.com/blog/ | APM |
+| Outstanding | https://outstanding.kr/ | IT 뉴스 |
 | PoiemaWeb | http://poiemaweb.com/ | 이웅모 |
 | Popit | http://www.popit.kr/ | |
 | POSICUBE Blog | https://posicube.com/blog/ | 인공지능 |
