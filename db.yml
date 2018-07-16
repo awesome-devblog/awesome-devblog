@@ -2317,6 +2317,11 @@
   blog: http://www.enshahar.me/
   rss: http://www.enshahar.me/feeds/posts/default
   description: 스칼라, 스위프트
+- name: 오혜진
+  blog: http://zinee-world.tistory.com/
+  rss: http://zinee-world.tistory.com/rss
+  description: Front-end
+  github: https://github.com/mmt-zinee
 - name: 용영환
   blog: https://xenonix.com/
   rss: https://xenonix.com/feed/
