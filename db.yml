@@ -3926,6 +3926,11 @@
   linkedin: https://www.linkedin.com/in/eunsunmota/
 - name: 최재길
   blog: http://blog.devjoshua.me/
+- name: 최재원
+  blog: https://medium.com/@jaewon.james.choi
+  rss: https://medium.com/feed/@jaewon.james.choi
+  description: C++
+  github: https://github.com/jafffy
 - name: 최재훈
   blog: http://andromedarabbit.net/
   rss: http://andromedarabbit.net/feed/
