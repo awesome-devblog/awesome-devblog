@@ -94,6 +94,11 @@
   description: 데이터 분석
   linkedin: https://www.linkedin.com/in/cloud09/
   github: https://github.com/dearcloud09
+- name: 강한용
+  blog: http://flowvalue.tistory.com/
+  rss: http://flowvalue.tistory.com/rss
+  description: Swift
+  github: https://github.com/skydice
 - name: 강형석
   blog: https://hskang9.github.io/
   rss: https://hskang9.github.io/feed.xml
