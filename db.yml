@@ -1897,7 +1897,7 @@
   description: Web
   twitter: https://twitter.com/jungkees
   github: https://github.com/jungkees
-  - name: 송정훈
+- name: 송정훈
   blog: https://medium.com/@gaemi
   rss: https://medium.com/feed/@gaemi
   description: Web, Java
