@@ -1155,6 +1155,14 @@
 - name: 남혜연
   blog: https://byline.network/author/smilla/
   description: IT 뉴스
+- name: 노경모
+  blog: https://brightparagon.wordpress.com/
+  rss: https://brightparagon.wordpress.com/feed/
+  description: JavaScript React Webpack 머신러닝 스타트업
+  facebook: https://www.facebook.com/brightparagons
+  github: https://github.com/brightparagon
+  linkedin: https://www.linkedin.com/in/brightparagon/
+  instagram: https://www.instagram.com/brightparagon/
 - name: 노상범
   blog: https://medium.com/@sbroh
   rss: https://medium.com/feed/@sbroh
@@ -1889,6 +1897,11 @@
   description: Web
   twitter: https://twitter.com/jungkees
   github: https://github.com/jungkees
+- name: 송정훈
+  blog: https://medium.com/@gaemi
+  rss: https://medium.com/feed/@gaemi
+  description: Web, Java
+  twitter: https://twitter.com/darkGaemi
 - name: 송주성(빈꿈)
   blog: http://emptydream.tistory.com/
   rss: http://emptydream.tistory.com/rss
