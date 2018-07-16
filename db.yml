@@ -1897,6 +1897,11 @@
   description: Web
   twitter: https://twitter.com/jungkees
   github: https://github.com/jungkees
+  - name: 송정훈
+  blog: https://medium.com/@gaemi
+  rss: https://medium.com/feed/@gaemi
+  description: Web, Java
+  twitter: https://twitter.com/darkGaemi
 - name: 송주성(빈꿈)
   blog: http://emptydream.tistory.com/
   rss: http://emptydream.tistory.com/rss
