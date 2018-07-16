@@ -632,6 +632,7 @@
   description: Python
   twitter: https://twitter.com/raccoonyy
   facebook: https://www.facebook.com/raccoonyy
+  github: https://github.com/raccoonyy
 - name: 김슬기
   blog: http://blog.seulgi.kim/
   rss: http://blog.seulgi.kim/feeds/posts/default
@@ -1203,6 +1204,10 @@
   description: ''
   twitter: https://twitter.com/Snack_X
   github: https://github.com/Snack-X
+- name: 노태환
+  blog: https://taehwanno.github.io/
+  rss: https://taehwanno.github.io/feed.xml
+  github: https://github.com/taehwanno
 - name: 노현석
   blog: http://pluu.github.io/
   rss: http://pluu.github.io/feed.xml
