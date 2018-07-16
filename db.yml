@@ -21,6 +21,16 @@
   blog: https://brunch.co.kr/@dongkang
   rss: https://brunch.co.kr/rss/@@1fY0
   description: 인디 개발
+- name: 강명서
+  blog: https://blog.leop0ld.org/
+  rss: https://blog.leop0ld.org/feed.xml
+  description: Django
+  twitter: https://twitter.com/__leop0ld__
+  facebook: https://www.facebook.com/leop0ld
+  linkedin: https://www.linkedin.com/in/leop0ld/
+  github: https://github.com/leop0ld
+  stackoverflow: https://stackoverflow.com/users/5506957/leop0ld
+  slideshare: https://www.slideshare.net/ssuseraaed82
 - name: 강명훈
   blog: http://kangmyounghun.blogspot.kr/
   rss: http://kangmyounghun.blogspot.com/feeds/posts/default
