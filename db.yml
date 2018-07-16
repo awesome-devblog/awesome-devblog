@@ -661,6 +661,11 @@
   blog: http://haviyj.tistory.com/
   rss: http://haviyj.tistory.com/rss
   description: Spring Boot
+- name: 김영중
+  blog: https://quarl894.github.io/
+  rss: https://quarl894.github.io/atom.xml
+  description: Android
+  github: https://github.com/quarl894
 - name: 김영하
   blog: https://brunch.co.kr/@fermat39
   rss: https://brunch.co.kr/rss/@@sJg
