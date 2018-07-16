@@ -10,8 +10,17 @@
     1. OPML 파일도 db.yml 파일에서 생성하고 있습니다. (평균 주 1회 생성)
     1. 각종 차트도 db.yml 파일에서 생성하고 있습니다. (Feed Reader의 통계 페이지에서 확인하실 수 있습니다.)
     1. db.yml 파일을 이용한 2차 저작 환영합니다.
-    1. db.json 파일은 더이상 관리하지 않습니다. deprecated 되었습니다.
 1. 좋아요, 포크, 제보, 풀리퀘 모두 환영입니다.
+
+## 소개글
+- [2017년 awesome-devblog 회고](https://medium.com/@sarojaba/2017년-awesome-devblog-회고-294694e0f99d)
+- [개발자를 위한 (블로그) 글쓰기 intro](https://www.slideshare.net/zzsza/intro-102870757)
+- [(tech-trend) 구루들이 찾는다는 테크 트렌드 - 유명 블로그와 소셜 유명인](http://keen.devpools.kr/2017/08/03/tech-trend-03/)
+
+## 형제자매 프로젝트
+- [어썸블로그(안드로이드)](https://play.google.com/store/apps/details?id=org.petabytes.awesomeblogs)
+- [어썸블로그(iOS)](https://itunes.apple.com/us/app/어썸-블로그/id1276023809)
+- [Daily DevBlog](http://daily-devblog.mooo.com/)
 
 ## 목차
 
