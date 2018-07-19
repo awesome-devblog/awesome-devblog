@@ -335,6 +335,11 @@
   rss: https://medium.com/feed/@khwsc1
   description: React
   facebook: https://www.facebook.com/AlexHyuckKwon
+- name: 권희정
+  blog: https://gmlwjd9405.github.io/
+  rss: https://gmlwjd9405.github.io/feed
+  description: ''
+  github: https://github.com/gmlwjd9405
 - name: 김광현(광파리)
   blog: https://kwang82.blogspot.kr/
   rss: https://kwang82.blogspot.com/feeds/posts/default
