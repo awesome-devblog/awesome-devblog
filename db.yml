@@ -339,6 +339,12 @@
   rss: https://gmlwjd9405.github.io/feed
   description: ''
   github: https://github.com/gmlwjd9405
+- name: 김경록
+  blog: http://krksap.tistory.com/
+  rss: http://krksap.tistory.com/rss
+  description: Python, Java
+  github: https://github.com/Kyeongrok
+  youtube: https://www.youtube.com/channel/UCG6V3hF7lN5veSLXWkcMG3g
 - name: 김광현(광파리)
   blog: https://kwang82.blogspot.kr/
   rss: https://kwang82.blogspot.com/feeds/posts/default

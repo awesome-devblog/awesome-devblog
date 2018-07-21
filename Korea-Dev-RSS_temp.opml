@@ -225,6 +225,7 @@
 
         <outline title="youtube" text="방송 모음">
             <outline title="권오흠" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC-cOmaeWLm7Ii7erMQNatvA"/>
+            <outline title="김경록" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCG6V3hF7lN5veSLXWkcMG3g"/>
             <outline title="김왼손의 왼손코딩" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC0h8NzL2vllvp3PjdoYSK4g"/>
             <outline title="김민준" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCmMgRlN-3GKQ_CH7cOtLdvg"/>
             <outline title="김성훈" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCML9R2ol-l0Ab9OXoNnr7Lw"/>
