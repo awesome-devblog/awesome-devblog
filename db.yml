@@ -2482,6 +2482,15 @@
 - name: 윤상배
   blog: http://www.joinc.co.kr/
   description: 위키
+- name: 윤석준
+  blog: https://devstarsj.github.io/
+  rss: https://devstarsj.github.io/atom.xml
+  description: AWS
+  facebook: https://www.facebook.com/seokjoon.yun.9
+  github: https://github.com/DevStarSJ
+  linkedin: https://www.linkedin.com/in/sjyun/
+  slideshare: https://www.slideshare.net/seokjoonyun9
+  googleplus: https://plus.google.com/108379332089647292574
 - name: 윤석찬
   blog: http://channy.creation.net/
   rss: http://feeds.feedburner.com/channy
