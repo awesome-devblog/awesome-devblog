@@ -586,6 +586,10 @@
   blog: http://devopser.me/
   description: DevOps
   github: https://github.com/kssminus
+- name: 김성원
+  blog: http://eaglesoft.tistory.com/
+  rss: http://eaglesoft.tistory.com/rss
+  description: Delphi, QuantumGrid
 - name: 김성준
   blog: https://brunch.co.kr/@sungjoonkim
   rss: https://brunch.co.kr/rss/@@20dR
