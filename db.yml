@@ -570,6 +570,10 @@
   blog: http://blog.naver.com/PostList.nhn?blogId=sckim007
   rss: http://blog.rss.naver.com/sckim007.xml
   description: ''
+- name: 김성렬
+  blog: http://kimsoungryoul.tistory.com/
+  rss: http://kimsoungryoul.tistory.com/rss
+  description: Java
 - name: 김성빈
   blog: http://sungbine.github.io/
   rss: http://sungbine.github.io/feed.xml
