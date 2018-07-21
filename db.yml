@@ -4370,3 +4370,9 @@
   blog: http://recipes.egloos.com/
   rss: http://rss.egloos.com/blog/recipes
   description: Embedded Recipes
+- name: Han Harry
+  blog: https://medium.com/@herryhan2435
+  rss: https://medium.com/feed/@herryhan2435
+  description: AWS
+  github: https://github.com/harryhan24
+  instagram: https://www.instagram.com/harryhan2435/
