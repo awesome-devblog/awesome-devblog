@@ -2492,6 +2492,11 @@
 - name: 윤상배
   blog: http://www.joinc.co.kr/
   description: 위키
+- name: 윤상섭
+  blog: http://doublesprogramming.tistory.com/
+  rss: http://doublesprogramming.tistory.com/rss
+  description: Spring MVC
+  github: https://github.com/walbatrossw
 - name: 윤석준
   blog: https://devstarsj.github.io/
   rss: https://devstarsj.github.io/atom.xml
