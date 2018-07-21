@@ -6,7 +6,6 @@
   description: ''
 - name: 강관우
   blog: https://brunch.co.kr/@kd4
-  rss: https://brunch.co.kr/rss/@@xTa
   description: Java
 - name: 강대명
   profile: people/charsyam.md
@@ -335,6 +334,11 @@
   rss: https://medium.com/feed/@khwsc1
   description: React
   facebook: https://www.facebook.com/AlexHyuckKwon
+- name: 권희정
+  blog: https://gmlwjd9405.github.io/
+  rss: https://gmlwjd9405.github.io/feed
+  description: ''
+  github: https://github.com/gmlwjd9405
 - name: 김광현(광파리)
   blog: https://kwang82.blogspot.kr/
   rss: https://kwang82.blogspot.com/feeds/posts/default
@@ -1797,7 +1801,6 @@
   description: Java
 - name: 서용마
   blog: https://brunch.co.kr/@bonfire
-  rss: https://brunch.co.kr/rss/@@RF6
   description: Workflowy
 - name: 서인석
   blog: http://isseo90.tistory.com/
