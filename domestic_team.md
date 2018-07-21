@@ -70,6 +70,7 @@
 | 이음소시어스 | http://bigmatch.i-um.net/ | |
 | 인공지능신문 | http://www.aitimes.kr/ | |
 | 인사이트 | http://www.insightbook.co.kr/ | 책 |
+| 인프런 블로그 | http://blog.inflearn.com/ | |
 | 로지스팟 | http://engineering.logi-spot.com/ | |
 | 전자신문 | http://www.etnews.com/ | IT 뉴스 |
 | 제이펍 | http://jpub.tistory.com/ | 책 |
