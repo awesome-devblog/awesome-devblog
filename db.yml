@@ -2112,6 +2112,10 @@
   blog: http://ahnseungkyu.com/
   rss: http://ahnseungkyu.com/rss
   description: OpenStack
+- name: 안승은
+  blog: http://thisase.tistory.com/
+  rss: http://thisase.tistory.com/rss
+  description: 개발방법론
 - name: 안영선
   blog: https://lovemewithoutall.github.io/
   rss: https://lovemewithoutall.github.io/feed.xml
