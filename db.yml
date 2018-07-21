@@ -3979,6 +3979,10 @@
   blog: https://blog.naver.com/cys_star
   rss: https://rss.blog.naver.com/cys_star.xml
   description: ''
+- name: 최용호
+  blog: http://yongho1037.tistory.com/
+  rss: http://yongho1037.tistory.com/rss
+  description: 도서 리뷰
 - name: 최유석
   blog: http://whitechoi.tistory.com/
   rss: http://whitechoi.tistory.com/rss
@@ -4123,6 +4127,8 @@
   linkedin: https://www.linkedin.com/in/%ED%9D%A5%EB%B0%B0-%EC%B5%9C-aa024344/
   twitter: https://twitter.com/jacking75
   tistory: http://jacking.tistory.com/
+  slideshare: https://www.slideshare.net/jacking
+  youtube: https://www.youtube.com/user/jacking75
 - name: 편해걸
   blog: http://dev-momo.tistory.com/
   rss: http://dev-momo.tistory.com/rss
