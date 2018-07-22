@@ -2471,6 +2471,11 @@
   blog: http://blog.eedler.com/
   rss: http://blog.eedler.com/rss
   description: Swift
+- name: 유인동
+  blog: https://medium.com/@indongyoo
+  rss: https://medium.com/feed/@indongyoo
+  description: 함수형 자바스크립트
+  github: https://github.com/indongyoo
 - name: 유재석
   blog: https://brunch.co.kr/@yoojs8512
   rss: https://brunch.co.kr/rss/@@9TM
