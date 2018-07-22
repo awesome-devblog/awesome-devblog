@@ -56,6 +56,12 @@
   description: Python
   facebook: https://www.facebook.com/luavis
   github: https://github.com/luavis
+- name: 강성진
+  blog: https://ujuc.kr/
+  rss: https://ujuc.kr/feed
+  description: 도서 리뷰
+  facebook: https://www.facebook.com/ujuckr
+  twitter: https://twitter.com/ujuc
 - name: 강성훈
   blog: http://mearie.org/
   rss: http://j.mearie.org/rss
