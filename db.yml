@@ -2329,6 +2329,13 @@
   blog: http://osebin.tistory.com/
   rss: http://osebin.tistory.com/rss
   description: ''
+- name: 오승환
+  blog: https://bluesh55.github.io
+  rss: https://bluesh55.github.io/atom.xml
+  description: Rails, Swift
+  facebook: https://www.facebook.com/profile.php?id=100003308714951
+  github: https://github.com/bluesh55
+  instagram: https://www.instagram.com/bluesh55/
 - name: 오일석
   blog: http://ilseokoh.com/
   rss: http://ilseokoh.com/rss/
