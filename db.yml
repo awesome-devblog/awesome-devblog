@@ -2029,6 +2029,12 @@
   description: ''
 - name: 신재인
   blog: http://jaynewho.com/
+  rss: http://jaynewho.com/feed
+  description: Web, Infra
+- name: 신지웅
+  blog: https://medium.com/@shinjiwoong1656
+  rss: https://medium.com/feed/@shinjiwoong1656
+  description: Linux
 - name: 신철민
   blog: https://kato75.blog.me/
   rss: http://kato75.blog.me/rss
