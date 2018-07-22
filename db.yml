@@ -3742,6 +3742,12 @@
   blog: https://brunch.co.kr/@insuk
   rss: https://brunch.co.kr/rss/@@102g
   description: SW 칼럼
+- name: 조일하
+  blog: https://medium.com/@jiraknet
+  rss: https://medium.com/feed/@jiraknet
+  description: SE
+  twitter: https://twitter.com/jiraknet
+  home: https://jirak.net/
 - name: 조재우
   blog: http://flowkater.github.io/
   rss: http://flowkater.github.io/atom.xml
