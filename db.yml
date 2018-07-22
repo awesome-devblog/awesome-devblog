@@ -3937,6 +3937,11 @@
   blog: http://kesakiyo.tistory.com/
   rss: http://kesakiyo.tistory.com/rss
   description: 알고리즘
+- name: 최경훈
+  blog: https://medium.com/@idchoi2
+  rss: https://medium.com/feed/@idchoi2
+  description: Vue.js
+  home: http://idchoi2.com/
 - name: 최광민
   blog: http://dl-ai.blogspot.kr/
   rss: http://dl-ai.blogspot.com/feeds/posts/default
