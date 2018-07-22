@@ -2058,6 +2058,9 @@
   description: Android
   twitter: https://twitter.com/Hyeon_SS
   facebook: https://www.facebook.com/HyeonSS
+- name: 신희제
+  blog: https://medium.com/@wufniks
+  rss: https://medium.com/feed/@wufniks
 - name: 심혜진
   blog: https://simhyejin.github.io/
   rss: https://simhyejin.github.io/atom.xml
