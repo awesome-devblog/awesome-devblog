@@ -2503,6 +2503,12 @@
   rss: http://loup1788.blogspot.com/feeds/posts/default
   description: ''
   googleplus: https://plus.google.com/110908827009415369452
+- name: 윤민식
+  blog: https://medium.com/@yms9654
+  rss: https://medium.com/feed/@yms9654
+  description: Back-end
+  twitter: https://twitter.com/yms9654
+  github: https://github.com/yms9654
 - name: 윤상배
   blog: http://www.joinc.co.kr/
   description: 위키
