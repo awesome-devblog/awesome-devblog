@@ -757,6 +757,10 @@
   blog: http://blog.naver.com/drvoss
   rss: http://blog.rss.naver.com/drvoss.xml
   description: C++
+- name: 김용호
+  blog: https://medium.com/@kimyh1981
+  rss: https://medium.com/feed/@kimyh1981
+  description: Swift
 - name: 김용휘
   blog: https://ggoals.github.io/
   rss: https://ggoals.github.io/feed
