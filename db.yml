@@ -519,6 +519,11 @@
   description: Front-end
   github: https://github.com/velopert
   facebook: https://www.facebook.com/velopert
+- name: 김민태
+  blog: https://medium.com/@ibare
+  rss: https://medium.com/feed/@ibare
+  description: 자바스크립트
+  twitter: https://twitter.com/ibare
 - name: 김범준
   blog: http://bomjun.tistory.com/
   rss: http://bomjun.tistory.com/rss
