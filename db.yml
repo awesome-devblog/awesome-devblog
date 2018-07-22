@@ -928,6 +928,10 @@
   description: Javascript
   github: https://github.com/kishe89
   facebook: https://www.facebook.com/profile.php?id=100008052494285
+- name: 김지태
+  blog: https://medium.com/@originerd
+  rss: https://medium.com/feed/@originerd
+  description: React
 - name: 김지혁
   blog: http://kimjihyok.info/
   rss: http://kimjihyok.info/feed/
