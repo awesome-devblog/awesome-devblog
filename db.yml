@@ -1878,6 +1878,10 @@
   description: 해외 취업
   twitter: https://twitter.com/zechery1
   medium: https://medium.com/@zechery1
+- name: 서지형
+  blog: https://medium.com/@jee0645
+  rss: https://medium.com/feed/@jee0645
+  description: AWS
 - name: 서창욱
   blog: http://scw0531.blog.me/
   rss: http://scw0531.blog.me/rss
