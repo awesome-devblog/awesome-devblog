@@ -2870,6 +2870,12 @@
   blog: https://brunch.co.kr/@sohyeonlee
   rss: https://brunch.co.kr/rss/@@KYN
   description: ''
+- name: 이수완
+  blog: https://medium.com/@blaswan
+  rss: https://medium.com/feed/@blaswan
+  description: AWS
+  twitter: https://twitter.com/blaswan
+  facebook: https://www.facebook.com/blaswan
 - name: 이수진
   blog: http://sujinlee.me/
   rss: http://sujinlee.me/rss/
