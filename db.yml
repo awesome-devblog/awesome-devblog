@@ -559,6 +559,11 @@
   blog: https://interpiler.com/
   rss: http://interpiler.com/index.php/feed/
   description: IT 칼럼
+- name: 김상희
+  blog: https://medium.com/@sanghee
+  rss: https://medium.com/feed/@sanghee
+  description: Python
+  twitter: https://twitter.com/sangheestyle
 - name: 김석기
   blog: https://brunch.co.kr/@neo3xdh
   rss: https://brunch.co.kr/rss/@@ERG
