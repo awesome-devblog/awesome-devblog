@@ -462,6 +462,10 @@
   rss: https://dongwoo.blog/feed/
   description: Javascript
   github: https://github.com/dongwoo-kim
+- name: 김동철
+  blog: https://medium.com/@idus_devteam
+  rss: https://medium.com/feed/@idus_devteam
+  description: 백엔드
 - name: 김만수
   blog: https://mansoo-sw.blogspot.kr/
   rss: https://mansoo-sw.blogspot.com/feeds/posts/default
