@@ -2029,6 +2029,10 @@
   blog: https://brunch.co.kr/@adrenalinee31
   rss: https://brunch.co.kr/rss/@@1pJY
   description: ''
+- name: 신동주
+  blog: https://medium.com/@dongjushin
+  rss: https://medium.com/feed/@dongjushin
+  description: 디자인
 - name: 신민욱
   blog: https://minwook-shin.github.io/
   rss: https://minwook-shin.github.io/feed
