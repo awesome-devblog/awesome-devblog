@@ -1487,6 +1487,11 @@
   rss: https://devwaf.blogspot.com/feeds/posts/default
   description: Front-end
   googleplus: https://plus.google.com/103832301375908707871
+- name: 박시홍
+  blog: https://hongsii.github.io/
+  rss: https://hongsii.github.io/atom.xml
+  description: Linux
+  github: https://github.com/hongsii
 - name: 박연오
   blog: https://bakyeono.net/
   rss: http://feeds.feedburner.com/bakyeono
