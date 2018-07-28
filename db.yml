@@ -340,6 +340,11 @@
   rss: https://medium.com/feed/@khwsc1
   description: React
   facebook: https://www.facebook.com/AlexHyuckKwon
+- name: 권현아
+  blog: http://hyeooona825.tistory.com/
+  rss: http://hyeooona825.tistory.com/rss
+  description: 알고리즘
+  github: https://github.com/kwonhyeona
 - name: 권희정
   blog: https://gmlwjd9405.github.io/
   rss: https://gmlwjd9405.github.io/feed
