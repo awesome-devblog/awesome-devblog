@@ -2263,6 +2263,11 @@
   blog: http://qnibus.com/
   rss: http://qnibus.com/feed/
   description: iOS
+- name: 안종하
+  blog: http://www.mrlatte.net/blog
+  rss: http://www.mrlatte.net/feed.xml
+  description: jQuery
+  github: https://github.com/jongha
 - name: 안중원
   blog: http://postgame.tistory.com/
   rss: http://postgame.tistory.com/rss
