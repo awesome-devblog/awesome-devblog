@@ -20,7 +20,7 @@
 ## 형제자매 프로젝트
 - [어썸블로그(안드로이드)](https://play.google.com/store/apps/details?id=org.petabytes.awesomeblogs)
 - [어썸블로그(iOS)](https://itunes.apple.com/us/app/어썸-블로그/id1276023809)
-- [Daily DevBlog(뉴스레터)](http://daily-devblog.mooo.com/)
+- [Daily DevBlog(뉴스레터)](http://daily-devblog.com/)
 
 ## 목차
 
