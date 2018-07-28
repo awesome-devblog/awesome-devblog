@@ -1038,7 +1038,7 @@
 - name: 김청진
   blog: http://jinblog.kr
   rss: http://jinblog.kr/rss
-  description: IT소식/리뷰, 개발(웹, 모바일)
+  description: IT소식/리뷰, 웹, 모바일
 - name: 김충섭
   blog: http://subicura.com/
   rss: https://subicura.com/feed.xml
@@ -2207,6 +2207,10 @@
   linkedin: https://www.linkedin.com/in/youngseon-ahn/
   github: https://github.com/LoveMeWithoutAll
   twitter: https://twitter.com/@Ahn_YoungSun
+- name: 안영현
+  blog: https://brunch.co.kr/@ayhhh1
+  rss: https://brunch.co.kr/rss/@@1jyl
+  description: 디자인
 - name: 안영회
   blog: http://www.popit.kr/author/tony/
   rss: http://www.popit.kr/author/tony/feed/
