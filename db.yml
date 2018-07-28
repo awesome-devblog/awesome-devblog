@@ -455,6 +455,11 @@
   rss: https://dohoons.com/blog/feed
   description: Web
   github: https://github.com/dohoons
+- name: 김동건
+  blog: http://dgkim5360.tistory.com/
+  rss: http://dgkim5360.tistory.com/rss
+  description: Machine Learning
+  github: https://github.com/dgkim5360
 - name: 김동열
   blog: http://greatkim91.tistory.com/
   rss: http://greatkim91.tistory.com/rss
