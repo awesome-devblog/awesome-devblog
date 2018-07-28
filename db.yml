@@ -590,15 +590,20 @@
   blog: https://brunch.co.kr/@neo3xdh
   rss: https://brunch.co.kr/rss/@@ERG
   description: IT 칼럼
-- name: 김선영
-  blog: http://sunyzero.tistory.com/
-  rss: http://sunyzero.tistory.com/rss
-  description: Linux
+- name: 김석범
+  blog: http://chaoxifer.tistory.com/
+  rss: http://chaoxifer.tistory.com/rss
+  description: Linux, Windows
+  github: https://github.com/seokbeomKim
 - name: 김석준
   blog: http://seokjun.kr/
   rss: http://seokjun.kr/rss/
   description: React
   linkedin: https://www.linkedin.com/in/seokjunkim/
+- name: 김선영
+  blog: http://sunyzero.tistory.com/
+  rss: http://sunyzero.tistory.com/rss
+  description: Linux
 - name: 김선철
   blog: http://blog.naver.com/PostList.nhn?blogId=sckim007
   rss: http://blog.rss.naver.com/sckim007.xml
