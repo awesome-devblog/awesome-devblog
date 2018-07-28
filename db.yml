@@ -1745,6 +1745,11 @@
   slideshare: https://www.slideshare.net/debop
   speakerdeck: https://speakerdeck.com/debop
   blogspot: http://debop.blogspot.com/
+- name: 배지원
+  blog: https://medium.com/jiwon-bae
+  rss: https://medium.com/feed/jiwon-bae
+  description: Java
+  github: https://github.com/jiwonbabe
 - name: 배진호
   blog: https://medium.com/@baejinho/
   rss: https://medium.com/feed/@baejinho
