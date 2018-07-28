@@ -434,6 +434,11 @@
 - name: 김덕주
   blog: https://medium.com/@darkzeus86
   rss: https://medium.com/feed/@darkzeus86
+- name: 김덕현
+  blog: https://brunch.co.kr/@duk-hyun
+  rss: https://brunch.co.kr/rss/@@3L0s
+  description: 4차 산업혁명
+  naver: https://blog.naver.com/dhkim53
 - name: 김덕홍
   blog: http://insanehong.kr/
   rss: http://insanehong.kr/rss.xml
