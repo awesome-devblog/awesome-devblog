@@ -1130,9 +1130,6 @@
   facebook: https://www.facebook.com/hanwong85
   twitter: https://twitter.com/HanW000ng
   instagram: https://www.instagram.com/hanationbear/
-- name: 김현남
-  blog: http://booksummary.tistory.com/
-  description: ''
 - name: 김헌기
   blog: https://hunlabs.wordpress.com/
   rss: https://hunlabs.wordpress.com/feed/
@@ -1140,6 +1137,14 @@
   facebook: https://www.facebook.com/hnki0104
   linkedin: https://www.linkedin.com/in/darion-kim-9a8b2aa6
   slideshare: https://www.slideshare.net/hnki0104
+- name: 김헌진
+  blog: http://flymogi.tistory.com/
+  rss: http://flymogi.tistory.com/rss
+  github: https://github.com/KimHunJin
+  description: Android  
+- name: 김현남
+  blog: http://booksummary.tistory.com/
+  description: ''
 - name: 김현유(미키김)
   blog: http://www.mickeykim.com/
   rss: http://www.mickeykim.com/rss

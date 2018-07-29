@@ -235,6 +235,7 @@ Tag Cloud
 | 김포프 | http://kblog.popekim.com/ |  | [![](icons/rss-icon.png)](http://feeds.feedburner.com/kblog-blindrenderer?format=xml)[![](icons/google-plus-icon.png)](https://plus.google.com/+%EA%B9%80%ED%8F%AC%ED%94%84)[![](icons/facebook-icon.png)](https://www.facebook.com/profile.php?id=100001300259016)[![](icons/twitter-icon.png)](https://twitter.com/blindrendererkr) |
 | 김한결 | http://devkyeol.tistory.com/ |  | [![](icons/rss-icon.png)](http://devkyeol.tistory.com/rss) |
 | 김한솔 | https://medium.com/@zvuc |  | [![](icons/rss-icon.png)](https://medium.com/feed/@zvuc)[![](icons/twitter-icon.png)](https://twitter.com/zvuuc) |
+| 김헌진 | http://flymogi.tistory.com/ | Android | [![](icons/rss-icon.png)](http://flymogi.tistory.com/rss)[![](icons/github-icon.png)](https://github.com/KimHunJin) |
 | 김현남 | http://booksummary.tistory.com/ |  |  |
 | 김한웅 | https://hanwong.github.io/ | Front-end | [![](icons/facebook-icon.png)](https://www.facebook.com/hanwong85)[![](icons/twitter-icon.png)](https://twitter.com/HanW000ng)[![](icons/github-icon.png)](https://github.com/hanwong) |
 | 김현유(미키김) | http://www.mickeykim.com/ | 구글 | [![](icons/rss-icon.png)](http://www.mickeykim.com/rss)[![](icons/facebook-icon.png)](https://www.facebook.com/mickeyk)[![](icons/twitter-icon.png)](https://twitter.com/mickeyk) |
