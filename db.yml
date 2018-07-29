@@ -1922,7 +1922,8 @@
 - name: 서창욱
   blog: http://scw0531.blog.me/
   rss: http://scw0531.blog.me/rss
-  description: IoT
+  description: Web, Mobile, IoT
+  github: https://github.com/seochangwook
 - name: 서충원
   blog: http://snowdeer.github.io/
   rss: http://snowdeer.github.io/atom.xml
