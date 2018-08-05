@@ -671,6 +671,10 @@
   rss: https://elky84.github.io/feed.xml
   description: C++, C#, Ruby, Python
   github: https://github.com/elky84
+- name: 김세창
+  blog: http://ksch93.tistory.com/
+  rss: http://ksch93.tistory.com/rss
+  description: Android
 - name: 김소현
   blog: https://aa9390.github.io/
   rss: https://aa9390.github.io/feed.xml
