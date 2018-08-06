@@ -483,6 +483,11 @@
   blog: https://medium.com/@idus_devteam
   rss: https://medium.com/feed/@idus_devteam
   description: 백엔드
+- name: 김동환
+  blog: https://wraithkim.wordpress.com/
+  rss: https://wraithkim.wordpress.com/feed/
+  description: Algorithm
+  github: https://github.com/WraithKim
 - name: 김만수
   blog: https://mansoo-sw.blogspot.kr/
   rss: https://mansoo-sw.blogspot.com/feeds/posts/default
@@ -1954,6 +1959,7 @@
   description: Javascript, Algorithm
   github: https://github.com/Seolhun
   home: https://seolhun.github.io/
+  tistory: http://postitforhooney.tistory.com
 - name: 성대경
   blog: http://healthydeveloper.tistory.com/
   rss: http://healthydeveloper.tistory.com/rss
