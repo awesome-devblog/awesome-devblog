@@ -830,6 +830,7 @@
   rss: https://rss.blog.naver.com/gi_balja.xml
   facebook: https://www.facebook.com/inkweon7269
   youtube: https://www.youtube.com/user/INKWEON7269
+  brunch: https://brunch.co.kr/@brunch92ny
 - name: 김인기
   blog: http://ingeec.tistory.com/
   rss: http://ingeec.tistory.com/rss
@@ -1898,6 +1899,12 @@
   description: 게임 개발
   twitter: https://twitter.com/kwangyulseo
   github: https://github.com/kseo/
+- name: 서대영
+  blog: http://www.daleseo.com/
+  description: Javascript, AWS
+  facebook: https://www.facebook.com/dale0713
+  github: https://github.com/DaleSeo
+  linkedin: https://www.linkedin.com/in/daleseo/
 - name: 서민상
   blog: http://blog.naver.com/seo0511
   rss: https://rss.blog.naver.com/seo0511.xml
