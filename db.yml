@@ -877,6 +877,12 @@
   rss: http://wonderer80.github.io/feed.xml
   description: 소프트웨어 개발
   github: https://github.com/wonderer80
+- name: 김제준
+  blog: http://starplatina.tistory.com
+  rss: http://starplatina.tistory.com/rss
+  description: Java, Spring
+  facebook: https://www.facebook.com/profile.php?id=100001521942286
+  linkedin: https://www.linkedin.com/in/jejun-kim-39385176/
 - name: 김종민
   blog: http://kimjmin.net/
   rss: http://kimjmin.net/atom.xml
