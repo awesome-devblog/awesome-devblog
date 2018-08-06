@@ -649,6 +649,10 @@
   blog: http://eaglesoft.tistory.com/
   rss: http://eaglesoft.tistory.com/rss
   description: Delphi, QuantumGrid
+- name: 김성일
+  blog: http://dev-daddy.tistory.com/
+  rss: http://dev-daddy.tistory.com/rss
+  description: Android, Java
 - name: 김성준
   blog: https://brunch.co.kr/@sungjoonkim
   rss: https://brunch.co.kr/rss/@@20dR
@@ -3684,6 +3688,7 @@
 - name: 정동민
   blog: http://jdm.kr/blog/
   description: Java
+  home: https://jdm.kr/
 - name: 정민혁
   blog: https://www.holaxprogramming.com/
   rss: https://www.holaxprogramming.com/atom.xml
