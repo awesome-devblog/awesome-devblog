@@ -1252,6 +1252,12 @@
   blog: https://medium.com/@minnamgoong
   rss: https://medium.com/feed/@minnamgoong
   description: 스타트업
+- name: 남규진
+  blog: https://namkyujin.com/
+  rss: https://namkyujin.com/feed.xml
+  description: Java
+  github: https://github.com/iamkyu
+  linkedin: https://www.linkedin.com/in/kyujinnam/
 - name: 남상욱
   blog: https://nso502354.github.io/
   rss: https://nso502354.github.io/feed.xml
@@ -2729,7 +2735,7 @@
 - name: 이광식
   blog: http://www.kwangsiklee.com/
   rss: http://www.kwangsiklee.com/ko/feed/
-  description: ''
+  description: DevOps
 - name: 이광헌
   blog: http://honeyperl.tistory.com/
   rss: http://honeyperl.tistory.com/rss
