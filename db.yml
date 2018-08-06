@@ -1948,6 +1948,12 @@
   rss: https://brunch.co.kr/rss/@@24xs
   description: 디자인
   home: http://zalhan.kr
+- name: 설훈
+  blog: https://seolhun.github.io/blog/
+  rss: https://seolhun.github.io/blog/feed.xml
+  description: Javascript, Algorithm
+  github: https://github.com/Seolhun
+  home: https://seolhun.github.io/
 - name: 성대경
   blog: http://healthydeveloper.tistory.com/
   rss: http://healthydeveloper.tistory.com/rss
