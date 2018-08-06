@@ -2193,7 +2193,7 @@
 - name: 신호철
   blog: http://hochulshin.com/
   rss: http://hochulshin.com/feed
-  description: Java
+  description: Java, Algorithm, Linux
   github: https://github.com/dakoo
   facebook: https://www.facebook.com/hochul.shin0
   linkedin: https://www.linkedin.com/in/hochulshin0/
@@ -2576,6 +2576,10 @@
   description: Ansible
   linkedin: https://www.linkedin.com/in/%EC%84%B1%EA%B7%9C-%EC%9C%A0-6b2251b7/
   github: https://github.com/skyoo2003
+- name: 유영모
+  blog: https://medium.com/@SlackBeck
+  rss: https://medium.com/feed/@SlackBeck
+  description: Java, Spring
 - name: 유영재
   blog: https://blog.asamaru.net/
   rss: https://blog.asamaru.net/atom.xml
@@ -4171,6 +4175,7 @@
   blog: http://javacan.tistory.com/
   rss: http://javacan.tistory.com/rss
   description: Java
+  slideshare: https://www.slideshare.net/madvirus
 - name: 최병규
   blog: https://gyukebox.github.io/
   rss: https://gyukebox.github.io/index.xml
