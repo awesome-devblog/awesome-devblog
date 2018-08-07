@@ -2372,6 +2372,10 @@
   description: Front-end
   github: https://github.com/perfectacle
   facebook: https://www.facebook.com/perfectacle
+- name: 양기엽
+  blog: https://medium.com/@kiyeopyang
+  rss: https://medium.com/feed/@kiyeopyang
+  description: React
 - name: 양병규
   blog: http://blog.naver.com/delmadang
   rss: https://rss.blog.naver.com/delmadang.xml
