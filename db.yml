@@ -356,6 +356,10 @@
   rss: https://gmlwjd9405.github.io/feed
   description: ''
   github: https://github.com/gmlwjd9405
+- name: 김강천
+  blog: https://medium.com/@rlarkdcjs12
+  rss: https://medium.com/feed/@rlarkdcjs12
+  description: Algorithm
 - name: 김경록
   blog: http://krksap.tistory.com/
   rss: http://krksap.tistory.com/rss
