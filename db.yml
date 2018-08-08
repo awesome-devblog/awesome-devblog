@@ -309,6 +309,10 @@
   blog: http://jinhokwon.tistory.com/
   rss: http://jinhokwon.tistory.com/rss
   description: Full Stack
+- name: 권진환
+  blog: https://medium.com/@jinkwon711
+  rss: https://medium.com/feed/@jinkwon711
+  description: Python, Django
 - name: 권창현
   blog: http://thoughts.chkwon.net/
   rss: http://thoughts.chkwon.net/feed/
