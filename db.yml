@@ -2539,6 +2539,10 @@
   rss: http://zinee-world.tistory.com/rss
   description: Front-end
   github: https://github.com/mmt-zinee
+- name: 왕형준
+  blog: https://medium.com/@whj2013123218
+  rss: https://medium.com/feed/@whj2013123218
+  description: Python, Django
 - name: 용영환
   blog: https://xenonix.com/
   rss: https://xenonix.com/feed/
