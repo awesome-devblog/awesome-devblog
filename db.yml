@@ -1479,6 +1479,10 @@
   blog: http://blog.naver.com/agebreak
   rss: http://agebreak.blog.me/rss
   description: 게임 개발
+- name: 박민서
+  blog: https://medium.com/@minseopark
+  rss: https://medium.com/feed/@minseopark
+  description: Python, Blockchain
 - name: 박민우
   blog: http://earlybird.kr/
   rss: http://earlybird.kr/feed
