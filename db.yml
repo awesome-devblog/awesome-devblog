@@ -3623,6 +3623,12 @@
   blog: http://sanghyukchun.github.io/
   rss: http://sanghyukchun.github.io/atom.xml
   description: Machine Learning
+- name: 전수열
+  blog: https://medium.com/@devxoul
+  rss: https://medium.com/feed/@devxoul
+  description: iOS, Swift
+  twitter: https://twitter.com/devxoul
+  github: https://github.com/devxoul
 - name: 전승현
   blog: https://fuzer.github.io/
   rss: https://fuzer.github.io/feed
