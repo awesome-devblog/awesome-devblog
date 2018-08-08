@@ -1249,6 +1249,10 @@
   rss: https://rss.blog.naver.com/ndb796.xml
   description: 알고리즘
   youtube: https://www.youtube.com/channel/UChflhu32f5EUHlY7_SetNWw
+- name: 나세화
+  blog: https://medium.com/@nsh235482
+  rss: https://medium.com/feed/@nsh235482
+  description: Python
 - name: 나윤환
   blog: https://nayunhwan.github.io/
   description: React
