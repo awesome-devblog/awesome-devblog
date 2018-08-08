@@ -2028,6 +2028,10 @@
   blog: http://blog.naver.com/agilesoft
   rss: https://rss.blog.naver.com/agilesoft.xml
   description: Front-end
+- name: 송다운
+  blog: https://medium.com/@downy
+  rss: https://medium.com/feed/@downy
+  description: Python, Django
 - name: 송민승
   blog: https://brunch.co.kr/@minseungsong
   rss: https://brunch.co.kr/rss/@@SN6
