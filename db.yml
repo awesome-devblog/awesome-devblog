@@ -4691,6 +4691,10 @@
   rss: http://nuxlear.tistory.com/rss
   description: Keras
   facebook: https://www.facebook.com/nuxlearHwang
+- name: 황지영
+  blog: https://medium.com/@jiyounghwang_412
+  rss: https://medium.com/feed/@jiyounghwang_412
+  description: Python, Django
 - name: 황지현
   blog: http://jhhwang4195.tistory.com/
   rss: http://jhhwang4195.tistory.com/rss
