@@ -3793,6 +3793,10 @@
   github: https://github.com/Jae-kwang
   facebook: https://www.facebook.com/fullest.sway
   home: https://jae-kwang.github.io/
+- name: 정재광
+  blog: https://medium.com/@fullest.sway
+  rss: https://medium.com/feed/@fullest.sway
+  description: Python, Django
 - name: 정재남
   blog: http://gomugom.github.io/
   description: Front-end
