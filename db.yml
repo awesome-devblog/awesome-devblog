@@ -1057,6 +1057,7 @@
   github: https://github.com/item4/
   twitter: https://twitter.com/item4/
   linkedin: https://www.linkedin.com/in/item4/
+  slideshare: https://www.slideshare.net/item4
 - name: 김진영
   blog: https://brunch.co.kr/@lifidea
   rss: https://brunch.co.kr/rss/@@C6L
@@ -2476,6 +2477,11 @@
   blog: https://brunch.co.kr/@taebari
   rss: https://brunch.co.kr/rss/@@179k
   description: ''
+- name: 여종현
+  blog: https://mindgitrwx.github.io/
+  rss: https://mindgitrwx.github.io/feed.xml
+  description: DL4J
+  github: https://github.com/mindgitrwx
 - name: 여준호
   blog: http://nogadaworks.tistory.com/
   rss: http://nogadaworks.tistory.com/rss
