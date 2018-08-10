@@ -451,7 +451,7 @@ Tag Cloud
 | 안수빈 | http://nyeong.github.io/ | Python | [![](icons/rss-icon.png)](http://nyeong.github.io/feed.xml)[![](icons/github-icon.png)](https://github.com/nyeong) |
 | 안승규 | http://ahnseungkyu.com/ | OpenStack | [![](icons/rss-icon.png)](http://ahnseungkyu.com/rss) |
 | 안영선 | https://lovemewithoutall.github.io/ | Android, Web | [![](icons/rss-icon.png)](https://lovemewithoutall.github.io/feed.xml)[![](icons/facebook-icon.png)](https://www.facebook.com/youngsun.ahn.14)[![](icons/twitter-icon.png)](https://twitter.com/@Ahn_YoungSun)[![](icons/github-icon.png)](https://github.com/LoveMeWithoutAll)[![](icons/linkedin-icon.png)](https://www.linkedin.com/in/youngseon-ahn/) |
-| 안영회 | http://www.popit.kr/author/tony/ | 아키텍처 | [![](icons/rss-icon.png)](http://www.popit.kr/author/tony/feed/) |
+| 안영회 (Tony Lee) | https://www.popit.kr/author/tony | 아키텍처 | [![](icons/rss-icon.png)](http://www.popit.kr/author/tony/feed/) |
 | 안오균 | http://ohgyun.com/ | iOS, Python | [![](icons/rss-icon.png)](http://ohgyun.com/rss)[![](icons/slideshare-icon.png)](https://www.slideshare.net/OhgyunAhn)[![](icons/facebook-icon.png)](https://www.facebook.com/ohgyun.ahn.5)[![](icons/twitter-icon.png)](https://twitter.com/ohgyun/)[![](icons/github-icon.png)](https://github.com/ohgyun)[![](icons/linkedin-icon.png)](https://www.linkedin.com/in/ohgyun/) |
 | 안윤호 | http://toyfab.tistory.com/ | 마이크로 프로세서 | [![](icons/rss-icon.png)](http://toyfab.tistory.com/rss) |
 | 안재열 | http://doublem.org/ | Java | [![](icons/rss-icon.png)](http://doublem.org/feed.xml)[![](icons/facebook-icon.png)](https://www.facebook.com/jb7959) |
