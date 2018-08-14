@@ -1864,7 +1864,8 @@
   facebook: https://www.facebook.com/bae.jinho.3
 - name: 백승엽
   blog: https://blog.naver.com/backsajang420
-  description: Web
+  rss: https://rss.blog.naver.com/backsajang420.xml
+  description: Web, Front-end, Back-end
   github: https://github.com/Dev-JeromeBaek
   pinterest: https://www.pinterest.co.kr/jeromebaek/
   portfolio: https://jeromeBaek-portfolio.ml
