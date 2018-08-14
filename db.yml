@@ -3067,6 +3067,11 @@
   blog: http://blog.sungwonandseohyun.us/
   rss: http://blog.sungwonandseohyun.us/rss/
   description: ''
+- name: 이성준
+  blog: https://blog.naver.com/occidere
+  rss: https://rss.blog.naver.com/occidere.xml
+  github: https://github.com/occidere
+  discription: Algorithms, Java, Linux, OpenSources
 - name: 이성호
   blog: http://blog.scaloid.org/
   rss: http://blog.scaloid.org/feeds/posts/default
