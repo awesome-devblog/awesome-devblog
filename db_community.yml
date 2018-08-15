@@ -1,0 +1,171 @@
+---
+- name: 생활코딩
+  facebook: https://www.facebook.com/groups/codingeverybody/
+  home: https://opentutorials.org/
+  twitter: https://twitter.com/opentutorialss
+- name: Javawocky
+  facebook: https://www.facebook.com/groups/javawocky/
+- name: Korea Ceph User Group
+  facebook: https://www.facebook.com/groups/620899444961207/
+- name: Zabbix Users Korea
+  facebook: https://www.facebook.com/groups/1549599631997752/
+- name: Microsoft MVPs in Korea
+  facebook: https://www.facebook.com/groups/MVPKorea/
+- name: Autonomous Driving Research KR
+  facebook: https://www.facebook.com/groups/106272686509360/
+- name: PCL Research Group KR
+  facebook: https://www.facebook.com/groups/165198587522918/
+- name: Navigation & Control Research KR
+  facebook: https://www.facebook.com/groups/1712143652200320/
+- name: OpenCV 프로그래밍
+  facebook: https://www.facebook.com/groups/opencvprogramming/
+- name: 아두이노로 학급 코딩하기(Ahakco)
+  facebook: https://www.facebook.com/groups/2031442780417576/
+- name: MSA and Software modeling - 클라우드 SW 모델링 강의
+  facebook: https://www.facebook.com/groups/cloudswmoding/
+- name: 오조봇 이보 사용자 모임 Ozobot Evo User Group
+  facebook: https://www.facebook.com/groups/ozobotuser/
+- name: 글로벌 SW교육 연구 모임 Global Computing Education Group
+  facebook: https://www.facebook.com/groups/globalsw/
+- name: 럭스로보 모디 사용자 모임 Luxrobo MODI User Group
+  facebook: https://www.facebook.com/groups/luxroboer/
+- name: NodeMCU 사용자 모임
+  facebook: https://www.facebook.com/groups/1984960828444627/
+- name: 1Day1Make
+  facebook: https://www.facebook.com/groups/981396648628570/
+- name: 코딩교육연구회
+  facebook: https://www.facebook.com/groups/ludenscode/
+- name: AI(인공지능) / Deep Learning(딥러닝) 정보 그룹
+  facebook: https://www.facebook.com/groups/1945386765733837/
+- name: 팹랩대전 커뮤니티(Fab Lab Daejeon)
+  facebook: https://www.facebook.com/groups/217998138756276/
+- name: Korea Blazor User Group
+  facebook: https://www.facebook.com/groups/kblug/
+- name: GDG Pangyo
+  facebook: https://www.facebook.com/groups/gdgpangyo/
+  meetup: https://www.meetup.com/ko-KR/pangyo-gdg/
+  slack: http://slack.gdg.kr/
+- name: Facebook Developer Circle
+  facebook: https://www.facebook.com/groups/DevCSeoul/
+- name: Vue.js Korea
+  facebook: https://www.facebook.com/groups/vuejs.korea/
+  slack: https://vuejs-korea.herokuapp.com
+  discord: https://discordapp.com/invite/x3Vjg9C
+  home: http://vuejs.kr/
+  github: https://github.com/vuejs-kr
+- name: 프론트엔드개발그룹
+  facebook: https://www.facebook.com/groups/webfrontend/
+- name: 자바스크립트 개발자 포럼
+  facebook: https://www.facebook.com/groups/jsdev.kr/
+- name: 코드스피츠
+  facebook: https://www.facebook.com/groups/codespitz/
+- name: 리액트 네이티브[React Native] 한국 사용자 그룹
+  facebook: https://www.facebook.com/groups/reactapp/
+- name: Kubernetes & Docker 스터디 그룹
+  facebook: https://www.facebook.com/groups/k8skorea/
+- name: Korea Chaos Engineering Group
+  facebook: https://www.facebook.com/groups/chaosengkorea/
+- name: GDG Korea WebTech
+  facebook: https://www.facebook.com/groups/webTechKR/
+- name: Serverless Korea User Group
+  facebook: https://www.facebook.com/groups/serverless.korea/
+- name: 소사모 (한국 소나큐브 사용자 모임)
+  facebook: https://www.facebook.com/groups/korea.sonarqube.user.group/
+- name: Rancher User Group
+  facebook: https://www.facebook.com/groups/1139420319448983/
+- name: AI 클럽
+  facebook: https://www.facebook.com/groups/aiclub/
+- name: 코드버스킹 - Codebusking
+  facebook: https://www.facebook.com/codebusking.show/
+  home: https://codebusking.show/
+  youtube: https://www.youtube.com/channel/UCrKE8ihOKHxYHBzI0Ys-Oow
+  twitter: https://twitter.com/codebusking
+- name: JetBrains 코리아
+  facebook: https://www.facebook.com/jetbrainsKR/
+  home: https://www.jetbrains.com/
+- name: Google Developer Group Korea
+  facebook: https://www.facebook.com/gdgkorea/
+- name: Kotlin Korea
+  home: http://kotlin.kr/
+  blog: http://kotlin.kr/blog/
+  facebook: https://www.facebook.com/groups/kotlinkr
+  twitter: https://twitter.com/kotlinkr
+  meetup: https://www.meetup.com/ko-KR/kotlinkr/
+  slack: https://kotlinkr.slack.com/
+  github: https://github.com/kotlinkr/kotlinkr.github.io
+- name: Golang Korea
+  home: https://golangkorea.github.io/
+  facebook: https://www.facebook.com/groups/golangko/
+  meetup: https://www.meetup.com/ko-KR/Seoul-Go-Meetup/
+  slack: https://golang-korea.slack.com/
+  gitter: https://gitter.im/golang-korean-community
+  googleplus: https://plus.google.com/communities/115721275599816202991
+  github: https://github.com/golangkorea
+- name: ReactiveX Lab
+  facebook: https://www.facebook.com/groups/reactivexLab/
+- name: FunFunStudy
+  facebook: https://www.facebook.com/groups/1189616354467814/
+- name: Firebase
+  facebook: https://www.facebook.com/groups/1650124438643831/
+- name: CQRS
+  facebook: https://www.facebook.com/groups/1919342698298205/
+- name: 개발자모드
+  facebook: https://www.facebook.com/devmode3/
+- name: Daum 개발자 네트워크
+  facebook: https://www.facebook.com/daumdevelopers/
+- name: 티몬의 개발이야기
+  facebook: https://www.facebook.com/tmondev/
+  blog: https://tmondev.blog.me/
+- name: SK플래닛 개발자활동
+  facebook: https://www.facebook.com/README.SKP/
+  blog: http://readme.skplanet.com/
+- name: NAVER LABS
+  facebook: https://www.facebook.com/naverlabs/
+  home: https://www.naverlabs.com/
+  instagram: https://www.instagram.com/naverlabs/
+  youtube: https://www.youtube.com/channel/UCdYiLrXdXkkvD8WdaG3rstQ
+  linkedin: https://www.linkedin.com/company/naverlabs/
+  behance: https://www.behance.net/naverlabs
+- name: HeXA
+  facebook: https://www.facebook.com/unist.hexa/
+  home: http://hexa.pro/
+  blog: http://hexa-unist.github.io/
+- name: Naver D2
+  facebook: https://www.facebook.com/naverd2/
+  home: https://d2.naver.com/home
+- name: jinyPHP
+  facebook: https://www.facebook.com/groups/422759191427518/
+- name: Slipp 스터디
+  facebook: https://www.facebook.com/slipp.study/
+  home: https://www.slipp.net/
+- name: Devlog : 개발 스터디
+  facebook: https://www.facebook.com/Jbee.dev/
+- name: 개발자들
+  facebook: https://www.facebook.com/GoodDeveloper/
+  home: https://devdogs.kr/
+- name: PRESSer
+  facebook: https://www.facebook.com/groups/1473988286034801/
+- name: Little Big Data: 다양한 사람들의 데이터 사이언스 이야기
+  facebook: https://www.facebook.com/groups/littlebigdata/
+- name: 데이터 분석 커뮤니티
+  facebook: https://www.facebook.com/groups/datacommunity/
+- name: 한국 Tidyverse
+  facebook: https://www.facebook.com/groups/1404219106509417/
+- name: 추천시스템 연구소(Recommender Systems Labs)
+  facebook: https://www.facebook.com/groups/recolabs/
+- name: 함께하는 딥러닝
+  facebook: https://www.facebook.com/groups/withdl/
+- name: 댑스 코리아 (DApps Korea)
+  facebook: https://www.facebook.com/groups/dappskorea/
+- name: 딥리워드
+  facebook: https://www.facebook.com/groups/DeepReward/
+- name: Google Colaboratory KR
+  facebook: https://www.facebook.com/groups/1986745628242135/
+- name: 자바 모듈 프로그래밍
+  facebook: https://www.facebook.com/groups/javamodule/
+- name: Popit contributor
+  facebook: https://www.facebook.com/groups/popitcontributor/
+- name: 자바의신
+  facebook: https://www.facebook.com/GodOfJavaBook/
+- name: PyData Korea
+  facebook: https://www.facebook.com/groups/pydatakorea/
