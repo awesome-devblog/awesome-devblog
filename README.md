@@ -15,6 +15,7 @@
 ## 소개글
 - [2017년 awesome-devblog 회고](https://medium.com/@sarojaba/2017년-awesome-devblog-회고-294694e0f99d)
 - [개발자를 위한 (블로그) 글쓰기 intro](https://www.slideshare.net/zzsza/intro-102870757)
+- [기술블로그 구독서비스 개발 후기 - 1부](https://taetaetae.github.io/2018/08/05/daily-dev-blog-1/)
 - [(tech-trend) 구루들이 찾는다는 테크 트렌드 - 유명 블로그와 소셜 유명인](http://keen.devpools.kr/2017/08/03/tech-trend-03/)
 
 ## 형제자매 프로젝트
