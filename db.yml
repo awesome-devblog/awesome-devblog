@@ -2038,6 +2038,14 @@
   blog: http://gywn.net/
   rss: http://gywn.net/feed/
   description: Database
+- name: 성열우
+  blog: http://sungyeolwoo.github.io/
+  rss: http://sungyeolwoo.github.io/atom.xml
+  description: Go
+  github: https://github.com/SungYeolWoo
+  linkedin: https://www.linkedin.com/in/whitehairprogrammer/
+  facebook: https://www.facebook.com/altari1415
+  instagram: https://www.instagram.com/sungyeolwoo/
 - name: 소용환
   blog: http://www.sauru.so/
   rss: http://feeds.feedburner.com/sauru-so?format=xml
