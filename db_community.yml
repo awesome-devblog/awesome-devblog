@@ -1,4 +1,8 @@
 ---
+- name: 1Day1Make
+  facebook: https://www.facebook.com/groups/981396648628570/
+- name: 2017영메이커연구그룹
+  facebook: https://www.facebook.com/groups/163147807533180/
 - name: 생활코딩
   facebook: https://www.facebook.com/groups/codingeverybody/
   home: https://opentutorials.org/
@@ -31,8 +35,6 @@
   facebook: https://www.facebook.com/groups/luxroboer/
 - name: NodeMCU 사용자 모임
   facebook: https://www.facebook.com/groups/1984960828444627/
-- name: 1Day1Make
-  facebook: https://www.facebook.com/groups/981396648628570/
 - name: 코딩교육연구회
   facebook: https://www.facebook.com/groups/ludenscode/
 - name: AI(인공지능) / Deep Learning(딥러닝) 정보 그룹
@@ -177,8 +179,6 @@
   facebook: https://www.facebook.com/groups/458166777716821
 - name: 영메이커 클럽
   facebook: https://www.facebook.com/groups/youngmakerclub/
-- name: 2017영메이커연구그룹
-  facebook: https://www.facebook.com/groups/163147807533180/
 - name: 대시앤닷 큐 사용자 모임 Dash and Dot cue User Group
   facebook: https://www.facebook.com/groups/dashndotuser/
 - name: 뚜루뚜루 사용자 모임 TrueTrue Coding Robot User Group
@@ -353,3 +353,68 @@
   facebook: https://www.facebook.com/javascriptors/
 - name: 자바스크립트 연구소
   facebook: https://www.facebook.com/javascriptors/
+- name: AWSKRUG - AWS한국사용자모임
+  home: http://www.awskr.org/
+  facebook: https://www.facebook.com/groups/awskrug/
+  slack: https://awskrug.slack.com/
+  meetup: https://www.meetup.com/ko-KR/awskrug/
+  github: https://github.com/awskrug
+  twitter: https://twitter.com/awskrug
+- name: GDG Incheon
+  facebook: https://www.facebook.com/gdgincheon
+  meetup: https://www.meetup.com/ko-KR/GDG-Incheon/
+  github: https://github.com/GDGincheonAndroidStudy
+  googleplus: https://plus.google.com/communities/104783014618153871181
+- name: GDG Seoul
+  facebook: https://www.facebook.com/groups/gdgseoul/
+  meetup: https://www.meetup.com/ko-KR/GDG-Seoul/
+  slack: https://gdgkr.slack.com/
+  twitter: https://twitter.com/gdgseoul
+  googleplus: https://plus.google.com/116593433820963567116
+- name: GDG Suwon
+  meetup: https://www.meetup.com/ko-KR/gdg-suwon/
+  googlegroups: https://groups.google.com/forum/#!forum/gdg-suwon
+- name: Meteor Seoul
+  meetup: https://www.meetup.com/ko-KR/Meteor-Seoul/
+  github: https://github.com/meteor-seoul/
+- name: Docker Seoul
+  meetup: https://www.meetup.com/ko-KR/Docker-Seoul/
+- name: Hongdae Machine Learning Study
+  meetup: https://www.meetup.com/ko-KR/Hongdae-Machine-Learning-Study/
+  github: https://github.com/rickiepark/hongdae-ml-study
+- name: 리액트 네이티브 서울
+  home: https://reactnativeseoul.org/
+  meetup: https://www.meetup.com/ko-KR/react-native-seoul/
+  github: https://github.com/react-native-seoul
+- name: 한국R사용자커뮤니티(R Korea)
+  facebook: https://www.facebook.com/groups/KoreaRUsers/
+  meetup: https://www.meetup.com/ko-KR/R-Korea/
+- name: Seoul iOS Developer
+  meetup: https://www.meetup.com/ko-KR/Seoul-iOS-Developer/
+- name: GDG Cloud Korea
+  meetup: https://www.meetup.com/ko-KR/GDG-Cloud-Korea/
+  googleplus: https://plus.google.com/communities/100306609804963352061
+- name: GDG Gwangmyeong
+  meetup: https://www.meetup.com/ko-KR/GDG-Gwangmyeong/
+- name: IBM developerWorks
+  meetup: https://www.meetup.com/ko-KR/IBM-developerWorks-Meetup/
+- name: Seoul Artificial Intelligence
+  home: http://seoulai.com/
+  facebook: https://www.facebook.com/seoulai
+  meetup: https://www.meetup.com/ko-KR/Seoul-Artificial-Intelligence/
+  slack: https://seoulai.slack.com/
+  twitter: https://twitter.com/seoul_ai
+- name: Data Scientist Meetup in Seoul
+  meetup: https://www.meetup.com/ko-KR/Data-Scientist-Meetup-in-Seoul/
+- name: 서울 Greenplum Meetup
+  meetup: https://www.meetup.com/ko-KR/서울-Greenplum-Meetup/
+- name: 그래프 데이터베이스 in Korea
+  meetup: https://www.meetup.com/ko-KR/graphdatabase/
+- name: Seoul Elixir Meetup
+  meetup: https://www.meetup.com/ko-KR/Seoul-Elixir-Meetup/
+- name: 분당 AI ( Oject detection ) 스터디
+  meetup: https://www.meetup.com/ko-KR/분당-AI-Oject-detection-스터디/
+- name: Play project with Arduino, Raspberry pi, at Songpa Seoul
+  meetup: https://www.meetup.com/ko-KR/Play-project-with-Arduino-Raspberry-pi-at-Songpa-Seoul/
+- name: 송도 딥러닝 스터디
+  meetup: https://www.meetup.com/ko-KR/송도-딥러닝-스터디/
