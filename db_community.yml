@@ -297,19 +297,10 @@
 - name: 멋쟁이 사자처럼 at 덕성여자대학교
   home: http://duksung.likelion.net/
   facebook: https://www.facebook.com/likelion.ds/
-- name: 멋쟁이사자처럼 at 동국대학교
-  home: http://dongguk.likelion.org/
-  facebook: https://www.facebook.com/DGUlion/
-- name: 멋쟁이사자처럼 at 목포대학교
-  home: mnu.likelion.org
-  facebook: https://www.facebook.com/mokpolion
 - name: 멋쟁이 사자처럼 at 상명대학교
   facebook: https://www.facebook.com/likelionSMU
 - name: 멋쟁이사자처럼 at 서울과학기술대학교
   facebook: https://www.facebook.com/likelionatseoultech/
-- name: 멋쟁이사자처럼 at 서울시립대
-  home: uos.likelion.org
-  facebook: https://www.facebook.com/uoslion/
 - name: 멋쟁이사자처럼 at 아주대학교
   home: https://aulikelion.github.io/
   facebook: https://www.facebook.com/aulikelion/
@@ -420,3 +411,124 @@
   meetup: https://www.meetup.com/ko-KR/송도-딥러닝-스터디/
 - name: GDG SongDo
   meetup: https://www.meetup.com/ko-KR/GDG-SongDo/
+- name: 게임개발포에버
+  blog: http://gamedevforever.tistory.com/
+  rss: http://feeds.feedburner.com/gamedevforever?format=xml
+  facebook: https://www.facebook.com/GameDevForever/
+- name: NAVER D2 - 네이버
+  blog: https://d2.naver.com/
+  rss: http://d2.naver.com/d2.atom
+  facebook: https://www.facebook.com/naverd2/
+  twitter: https://twitter.com/naver_d2
+  youtube: https://www.youtube.com/channel/UCNrehnUq7Il-J7HQxrzp7CA
+  slideshare: https://www.slideshare.net/deview
+- name: 넥스트리
+  blog: http://www.nextree.co.kr/
+  rss: http://www.nextree.co.kr/feed/
+- name: 달리웍스
+  blog: http://techblog.daliworks.net/
+  rss: http://techblog.daliworks.net/feed.xml
+- name: 데일리호텔
+  blog: https://dailyhotel.io/
+  rss: https://dailyhotel.io/feed
+- name: 드라마앤컴패니 블로그
+  blog: http://developer.dramancompany.com/
+  rss: http://developer.dramancompany.com/feed/
+- name: 로켓펀치 블로그
+  blog: https://blog.rocketpunch.com/
+  rss: https://blog.rocketpunch.com/feed/
+- name: 마이크로소프트웨어
+  blog: https://www.imaso.co.kr/
+  rss: http://feeds.feedburner.com/imaso
+- name: 슬로우뉴스-테크
+  blog: http://slownews.kr/category/tech
+  rss: http://slownews.kr/category/tech/feed
+- name: 아해팀 블로그
+  blog: https://ahea.wordpress.com/
+  rss: https://ahea.wordpress.com/feed/
+- name: 에이콘
+  blog: http://www.acornpub.co.kr/blog
+  rss: http://feeds.feedburner.com/acornpub
+  facebook: https://www.facebook.com/acornpub/
+  twitter: https://twitter.com/acornpub
+- name: 엠비안
+  blog: http://blog.embian.com/
+  rss: http://blog.embian.com/rss
+- name: 오라클 클라우드 기술 블로그
+  blog: http://www.oracloud.kr/
+  rss: http://www.oracloud.kr/index.xml
+- name: 우아한형제들 기술 블로그
+  blog: http://woowabros.github.io
+  rss: http://woowabros.github.io/feed.xml
+- name: 이상한모임
+  blog: http://blog.weirdx.io
+  rss: http://blog.weirdx.io/feed/
+- name: 이음소시어스
+  blog: http://bigmatch.i-um.net
+  rss: http://bigmatch.i-um.net/feed/
+- name: 인사이트
+  blog: http://blog.insightbook.co.kr
+  rss: http://blog.insightbook.co.kr/rss
+  facebook: https://www.facebook.com/insightbook
+  twitter: https://twitter.com/insightbook
+- name: 인프런 블로그
+  blog: http://blog.inflearn.com
+  rss: http://blog.inflearn.com/feed/
+- name: 지금 써보러 갑니다
+  blog: http://icunow.co.kr
+  rss: http://icunow.co.kr/feed/
+  facebook: https://www.facebook.com/%EC%A7%80%EA%B8%88-%EC%8D%A8%EB%B3%B4%EB%9F%AC-%EA%B0%91%EB%8B%88%EB%8B%A4-532187963596766/
+- name: 카카오 기술 블로그
+  blog: http://tech.kakao.com/
+  rss: http://tech.kakao.com/rss/
+- name: 티몬
+  blog: http://tmondev.blog.me/
+  rss: http://tmondev.blog.me/rss
+- name: ㅍㅍㅅㅅ 테크
+  blog: https://ppss.kr/archives/category/tech
+  rss: https://ppss.kr/archives/category/tech/feed
+- name: 한국게임기획자모임
+  blog: http://gameplanner.cafe24.com
+  rss: http://gameplanner.cafe24.com/feed/
+- name: Amazon Web Services 한국 블로그
+  blog: https://aws.amazon.com/ko/blogs/korea/
+  rss: https://aws.amazon.com/ko/blogs/korea/feed/
+  facebook: https://www.facebook.com/amazonwebservices.ko
+  twitter: https://twitter.com/awskorea
+- name: developerWorks Korea
+  blog: https://developer.ibm.com/kr/blog/
+  rss: https://developer.ibm.com/kr/blog/feed/
+- name: devpools
+  blog: http://www.devpools.kr
+  rss: http://www.devpools.kr/atom.xml
+- name: Elastic
+  blog: https://www.elastic.co/kr/blog
+  rss: https://www.elastic.co/kr/blog/feed
+- name: VCNC
+  blog: http://engineering.vcnc.co.kr
+  rss: http://engineering.vcnc.co.kr/atom.xml
+  github: https://github.com/vcnc/
+- name: Google
+  blog: https://developers-kr.googleblog.com/
+  rss: http://feeds.feedburner.com/GoogleDevelopersKorea
+- name: Line Engineering Blog
+  blog: https://engineering.linecorp.com/ko/blog
+  rss: https://engineering.linecorp.com/ko/blog/rss2
+- name: Make Korea
+  blog: https://make.co.kr/
+  rss: https://make.co.kr/feed/
+- name: Mozilla Hacks
+  blog: http://hacks.mozilla.or.kr
+  rss: http://hacks.mozilla.or.kr/feed/
+  youtube: https://www.youtube.com/user/mozhacks
+  slack: https://mozkr.slack.com/
+- name: Popit
+  blog: http://www.popit.kr
+  rss: http://www.popit.kr/feed/
+- name: Realm Blog
+  blog: https://realm.io/kr/blog/
+  rss: https://realm.io/kr/blog/feed.xml
+- name: Spoqa
+  blog: http://spoqa.github.io/
+  rss: http://spoqa.github.io/rss
+  github: https://github.com/spoqa
