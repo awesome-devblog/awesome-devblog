@@ -4649,6 +4649,15 @@
   rss: http://joone.net/feed/
   description: 만화
   twitter: https://twitter.com/joone_net
+- name: 허진수
+  blog: https://blog.koriel.kr/
+  rss: https://blog.koriel.kr/rss/
+  description: AWS
+  facebook: https://www.facebook.com/devkoriel
+  github: https://github.com/devkoriel
+  twitter: https://twitter.com/devkoriel
+  linkedin: https://www.linkedin.com/in/devkoriel/
+  home: https://koriel.kr/
 - name: 허진호
   blog: https://medium.com/@hur
   rss: https://medium.com/feed/@hur
