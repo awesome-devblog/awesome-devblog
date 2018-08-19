@@ -1529,14 +1529,15 @@
 - name: 박상길
   blog: http://likejazz.com/
   rss: http://likejazz.com/rss
-  description: ''
+  description: 도서 리뷰
 - name: 박상길
-  blog: https://kidmam.github.io/
-  rss: ''
+  blog: https://parksangkil.github.io/
+  rss: https://parksangkil.github.io/rss.xml
   description: ''
   github: https://github.com/kidmam
   facebook: https://www.facebook.com/psk2343
   twitter: https://twitter.com/sangkilpark
+  home: https://kidmam.github.io/
 - name: 박상민
   blog: https://sangminpark.blog/
   rss: http://sangminpark.wordpress.com/feed/
