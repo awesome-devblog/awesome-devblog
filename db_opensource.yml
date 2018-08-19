@@ -14,7 +14,7 @@
   tags: Javascript, Front-end Framework
 - name: Animate.css
   home: https://daneden.github.io/animate.css/
-  github: https://github.com/daneden/animate.css/
+  github: https://github.com/daneden/animate.css
   cdnjs: https://cdnjs.com/libraries/animate.css/
   tags: Animation
 - name: Ansible
