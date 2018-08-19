@@ -1689,6 +1689,12 @@
   rss: https://medium.com/feed/@mocona
   description: iOS
   facebook: https://www.facebook.com/abraham.park.923
+- name: 박주형
+  blog: https://medium.com/@majecty
+  rss: https://medium.com/feed/@majecty
+  description: Ethereum, Rust
+  facebook: https://www.facebook.com/majecty
+  home: http://blog.majecty.com/
 - name: 박준규
   blog: https://brunch.co.kr/@kospoll-lab
   rss: https://brunch.co.kr/rss/@@301t
