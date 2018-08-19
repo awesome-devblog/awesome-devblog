@@ -2127,6 +2127,7 @@
   description: Python
   github: https://github.com/rampart81
   linkedin: https://www.linkedin.com/in/ewsong/
+  facebook: https://www.facebook.com/songew
 - name: 송재윤
   blog: https://blog.jaeyoon.io/
   rss: https://blog.jaeyoon.io/feed.xml
@@ -4777,6 +4778,10 @@
   rss: http://nuxlear.tistory.com/rss
   description: Keras
   facebook: https://www.facebook.com/nuxlearHwang
+- name: 황준일
+  blog: http://junil-hwang.com/
+  rss: http://junil-hwang.com/blog/feed/
+  description: Front-end, Back-end
 - name: 황지영
   blog: https://medium.com/@jiyounghwang_412
   rss: https://medium.com/feed/@jiyounghwang_412
