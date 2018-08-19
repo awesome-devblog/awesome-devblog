@@ -116,6 +116,9 @@
   twitter: https://twitter.com/EnvoyProxy
   medium: https://blog.envoyproxy.io/
   tags: DevOps, Proxy
+- name: epic-spinners
+  github: https://github.com/epicmaxco/epic-spinners
+  tags: CSS Spinner
 - name: ESLint
   home: https://eslint.org/
   github: https://github.com/eslint/eslint
@@ -318,6 +321,16 @@
   blog: https://mobyproject.org/
   twitter: https://twitter.com/moby
   tags: DevOps, Container Runtime
+- name: Monaco Editor
+  home: https://microsoft.github.io/monaco-editor/index.html
+  github: https://github.com/Microsoft/monaco-editor
+  npm: https://www.npmjs.com/package/monaco-editor
+  tags: Code Editor
+- name: Mono
+  home: https://www.mono-project.com/
+  github: https://github.com/mono/mono
+  rss: https://www.mono-project.com/atom.xml
+  tags: .NET, Runtime
 - name: Neofetch
   github: https://github.com/dylanaraps/neofetch
   tags: Monitoring
@@ -505,6 +518,12 @@
   github: https://github.com/tornadoweb/tornado
   stackoverflow: https://stackoverflow.com/questions/tagged/tornado
   tags: Python, Back-end Framework
+- name: TypeScript
+  home: https://www.typescriptlang.org/
+  github: https://github.com/Microsoft/TypeScript
+  blog: https://blogs.msdn.microsoft.com/typescript/
+  twitter: https://twitter.com/typescriptlang
+  tags: Programming Language
 - name: Vibora
   home: https://vibora.io/
   github: https://github.com/vibora-io/vibora
