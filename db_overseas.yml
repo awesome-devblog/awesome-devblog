@@ -1,0 +1,229 @@
+---
+- name: Adam Bien
+  blog: http://www.adam-bien.com/roller/abien/
+  description: Real World Java EE Patterns 저자
+- name: Adam Fletcher
+  blog: https://medium.com/@adam_34309
+  description: Gyroscope Software CEO
+- name: Andrea Giammarchi
+  blog: http://webreflection.blogspot.kr/
+  description: Javascript
+- name: Andy Hunt
+  blog: http://andy.pragprog.com/
+  description: 실용주의 프로그래머, 프로그래밍 루비 공저
+- name: Armin Ronacher
+  blog: http://lucumr.pocoo.org/
+  description: Flask, Lektor 개발자
+- name: Assaf Muller
+  blog: https://assafmuller.com/
+  description: OpenStack, SDN
+- name: Bojan Gvozderac
+  blog: https://medium.com/@bojangbusiness
+  description:
+- name: Bram Cohen
+  blog: http://bramcohen.com/
+  description: 비트토렌트 창시자
+- name: Brendan Eich
+  blog: https://brendaneich.com/
+  description: Javascript 창시자
+- name: Chad Fowler
+  blog: http://chadfowler.com/
+  description: Rails Recipes 저자
+- name: Chris Lattner
+  blog: http://nondot.org/sabre/
+  description: LLVM, Swift 창시자
+- name: Chris Ng
+  blog: http://chrisrng.svbtle.com/
+  description: Front-end
+- name: Cristian Esquivias
+  blog: http://cesquivias.github.io/
+  description: Java, Truffle
+- name: Dan Webb
+  blog: http://danwebb.net/
+  description: 프론트엔드 개발자
+- name: Daniel Shiffman
+  blog: http://shiffman.net/
+  description: Processing
+- name: Dave Smith
+  blog: https://medium.com/@djsmith42
+  description: Soft Skills 팟캐스트 호스트
+- name: David Bryant
+  blog: https://medium.com/@david_bryant
+  description: Mozilla
+- name: David Ford
+  blog: https://medium.com/@daveford
+  description: Kotlin
+- name: David Moreau Simard
+  blog: https://dmsimard.com/
+  description: RedHat Senior Software Engineer, OpenStack
+- name: David Robinson
+  blog: http://varianceexplained.org/
+  description: 스택오버플로 데이터 과학자
+- name: David Thomas
+  blog: http://pragdave.me/
+  description: 실용주의 프로그래머 공저, Elixir 언어
+- name: David Walsh
+  blog: https://davidwalsh.name/
+  description: Javascript
+- name: Derick Bailey
+  blog: https://derickbailey.com/
+  description: Javascript 개발자
+- name: Dino Esposito
+  blog: https://software2cents.wordpress.com/
+  description: .NET 에반젤리스트
+- name: Douglas Crockford
+  blog: http://www.crockford.com/
+  description: JSON 창시자, JavaScript: The Good Parts 저자
+- name: Eli Bendersky
+  blog: http://eli.thegreenplace.net/
+  description: Haskell
+- name: Eric A. Meyer
+  blog: http://meyerweb.com/
+  description:
+- name: Eric S. Raymond
+  blog: http://www.catb.org/~esr/
+  description: The Cathedral and the Bazaar 저자
+- name: Erik Bernhardsson
+  blog: https://erikbern.com/
+  description: Better CTO. Machine Learning
+- name: Evan You
+  blog: http://evanyou.me/
+  description: Vue 창시자
+- name: Gal Sagie
+  blog: http://galsagie.github.io/
+  description: OpenStack Networking
+- name: Hadley Wickham
+  blog: http://hadley.nz/
+  description: R studio
+- name: Jake Wharton
+  blog: http://jakewharton.com/
+  description: Android
+- name: James D Bloom
+  blog: http://blog.jamesdbloom.com/
+  description: JVM
+- name: James Gosling
+  blog: http://nighthacks.com/roller/jag/
+  description: Java 창시자
+- name: Jeff Atwood
+  blog: http://blog.codinghorror.com/
+  description: 스택오버플로 주인장
+- name: Jeff Langr
+  blog: http://langrsoft.com/jeff/
+  description: 지금길로 빠르게 배울 수 있는 자바 저자
+- name: Jeremy Thomas
+  blog: https://jgthms.com/
+  description: Bulma 창시자
+- name: Jessie Frazelle
+  blog: https://blog.jessfraz.com/
+  description: Container
+- name: Joe Hewitt
+  blog: http://joehewitt.com/
+  description: Firebug 개발자
+- name: Joel Spolsky
+  blog: http://www.joelonsoftware.com/
+  description: 조엘온소프트웨어 저자, 개발방법론
+- name: John Gruber
+  blog: https://daringfireball.net/
+  description: Markdown 창시자
+- name: John McClean
+  blog: https://medium.com/@johnmcclean
+  description: Maintainer of Cyclops
+- name: John Mumm
+  blog: http://jtfmumm.com/blog/
+  description:
+- name: John Resig
+  blog: http://ejohn.org/
+  description: jQuery 창시자, 칸 아카데미 개발자
+- name: Jonathan Snook
+  blog: https://snook.ca/
+  description: SMACSS 창시자
+- name: Josh Symonds
+  blog: http://joshsymonds.com
+  description: Founder of Symonds & Son, Devops
+- name: Kevin Sookocheff
+  blog: https://sookocheff.com/
+  description:
+- name: Lars Vogell
+  blog: http://www.vogella.com/
+  description: 이클립스 커미터
+- name: Linus Torvalds
+  blog: https://plus.google.com/+LinusTorvalds
+  description: Linux 창시자
+- name: Marius Schulz
+  blog: https://blog.mariusschulz.com/
+  description: Javascript 개발자
+- name: Mark Otto
+  blog: http://markdotto.com/
+  description: Bootstrap 창시자, 디자이너
+- name: Martin Fowler
+  blog: http://martinfowler.com/
+  description: 리팩토링 창시자
+- name: Michael Hausenblas
+  blog: https://medium.com/@mhausenblas
+  description: Open Shift, Kubernetes
+- name: Mike Bostock
+  blog: https://bost.ocks.org/mike/
+  description: D3.js 창시자
+- name: Mike Gouline
+  blog: https://blog.gouline.net/
+  description:
+- name: Mike McQuaid
+  blog: https://mikemcquaid.com/
+  description: Homebrew Lead Maintainer
+- name: Mike Nakhimovich
+  blog: https://medium.com/@theMikhail
+  description: Google Developer Expert Android
+- name: Nicolai Parlog
+  blog: http://blog.codefx.org/, https://medium.com/@nipa
+  description: Java channel editor at SitePoint
+- name: Phil Haack
+  blog: http://haacked.com/
+  description: Github 개발자
+- name: Paul Bakker
+  blog: http://paulbakker.io/
+  description: Modular Cloud Apps with OSGI 저자
+- name: Paul Lewis
+  blog: https://aerotwist.com/
+  description: Google Web Developer
+- name: Prateeksha Singh
+  blog: https://medium.com/@pratu16x7
+  description: Open Source Developer at Frappé
+- name: Ricardo Cabello
+  blog: http://mrdoob.com/
+  description: Three.js 창시자
+- name: Richard Stallman
+  blog: https://www.stallman.org/
+  description: Free Software Foundation, GNU Project 창시자
+- name: Robert C. Martin
+  blog: http://blog.cleancoder.com/
+  description: 클린 코드 저자
+- name: Rod Johnson
+  blog: https://medium.com/@springrod
+  description: Spring 창시자
+- name: Sacha Greif
+  blog: https://medium.com/@sachagreif
+  description: Front-end
+- name: Sam Newman
+  blog: http://samnewman.io/
+  description: Building Microservices 저자
+- name: Scott Hanselman
+  blog: http://www.hanselman.com/
+  description: ASP.NET
+- name: Stephen Colebourne
+  blog: http://blog.joda.org/
+  description: Joda-Time 창시자
+- name: Steve Wozniak
+  blog: http://www.woz.org/
+  description: Apple 공동창업자
+- name: Thomas Fuchs
+  blog: http://mir.aculo.us/
+  description: script.aculo.us, Zepto.js 창시자
+- name: Thomas Stringer
+  blog: https://medium.com/@trstringer
+  description: Technical Evangelist at Microsoft
+- name: Vinicius Isola
+  blog: https://visola.github.io/
+  description: Full-stack
+- name: Will McGugan
+  blog: https://www.willmcgugan.com/
+  description: Moya(no-Python Python Web Framework)
