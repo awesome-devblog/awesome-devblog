@@ -77,12 +77,14 @@
   rss: https://medium.com/feed/@shaynekang
   description: ''
 - name: 강준영
-  blog: http://juneyoung.kr/
+  blog: https://juneyoung-kang.github.io/blog/
+  rss: https://juneyoung-kang.github.io/blog/feed
   description: Web
-  facebook: https://www.facebook.com/develophics
+  facebook: https://www.facebook.com/juneyoungdev
   instagram: https://www.instagram.com/juneyoung_kang/
   twitter: https://twitter.com/juneyoung_kang
   github: https://github.com/juneyoung-kang
+  home: http://juneyoung.kr/
 - name: 강진우
   profile: people/alden.md
   blog: https://brunch.co.kr/@alden
@@ -135,8 +137,15 @@
   twitter: https://twitter.com/kyejusung
 - name: 고득녕
   blog: http://blog.naver.com/nackji80/
-  rss: http://blog.rss.naver.com/nackji80.xml
+  rss:  http://blog.rss.naver.com/nackji80.xml
   description: 네트워크
+- name: 고명석
+  blog: http://blog.myeongsku.com/
+  rss: http://blog.myeongsku.com/rss
+  description: React
+  facebook: https://www.facebook.com/myeongsku
+  github: https://github.com/AlbertKo827
+  home: http://myeongsku.com/
 - name: 고명진
   blog: https://rjs1197.github.io/
   rss: https://rjs1197.github.io/feed.xml

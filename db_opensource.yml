@@ -97,6 +97,9 @@
   blog: https://www.djangoproject.com/weblog/
   twitter: https://twitter.com/djangoproject
   tags: Python, Web framework
+- name: Dumper.js
+  github: https://github.com/zeeshanu/dumper.js
+  tags: Javascript, Debug
 - name: Elasticsearch
   home: https://www.elastic.co/kr/products/elasticsearch
   github: https://github.com/elastic/elasticsearch
@@ -303,6 +306,12 @@
   home: http://mininet.org/
   github: https://github.com/mininet/mininet
   tags: Network Simulation
+- name: Mithril
+  home: https://mithril.js.org/
+  github: https://github.com/MithrilJS/mithril.js
+  gitter: https://gitter.im/mithriljs/mithril.js
+  stackoverflow: https://stackoverflow.com/questions/tagged/mithril.js
+  tags: Javascript, Front-end Framework
 - name: Moby
   home: https://mobyproject.org/
   github: https://github.com/moby/moby
