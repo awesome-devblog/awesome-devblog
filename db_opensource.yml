@@ -113,6 +113,12 @@
   blog: https://electronjs.org/blog
   twitter: https://twitter.com/electronjs
   tags: Desktop, Application Framework
+- name: Ember.js
+  home: https://emberjs.com/
+  github: https://github.com/emberjs/ember.js
+  twitter: https://twitter.com/emberjs
+  slack: https://embercommunity.slack.com/
+  tags: Javascript, Front-end Framework
 - name: Envoy
   home: https://www.envoyproxy.io/
   github: https://github.com/envoyproxy/envoy
@@ -234,6 +240,11 @@
   home: https://impress.js.org/
   github: https://github.com/impress/impress.js
   tags: Javascript, Presentation
+- name: Inferno
+  home: https://www.infernojs.org/
+  github: https://github.com/infernojs/inferno
+  npm: https://github.com/infernojs/inferno
+  tags: Javascript, Front-end Framework
 - name: InfluxDB
   home: https://www.influxdata.com/time-series-platform/influxdb/
   github: https://github.com/influxdata/influxdb
@@ -424,6 +435,10 @@
   stackoverflow: https://stackoverflow.com/tags/polymer
   googleplus: https://plus.google.com/+PolymerProject
   tags: Javascript, Front-end Framework
+- name: Preact
+  home: https://preactjs.com/
+  github: https://github.com/developit/preact
+  tags: Javascript, Front-end Framework
 - name: Processing
   home: https://processing.org/
   github: https://github.com/processing/processing
@@ -450,6 +465,10 @@
   blog: http://facebook.github.io/react-native/blog/
   twitter: https://twitter.com/reactnative
   tags: Mobile, Application Framework
+- name: Riot
+  home: https://riot.js.org/
+  github: https://github.com/riot/riot
+  twitter: https://twitter.com/riotjs_
 - name: Ruby
   home: https://www.ruby-lang.org/
   github: https://github.com/ruby/ruby
