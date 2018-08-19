@@ -5,10 +5,12 @@
   pypi: https://pypi.org/project/aiohttp/
   tags: Python
 - name: AngularJS
-  home: https://angularjs.org/
-  github: https://github.com/angular/angular.js
-  googleplus: https://plus.google.com/+AngularJS
+  home: https://angular.io/
+  github: https://github.com/angular/angular
   twitter: https://twitter.com/angular
+  blog: https://blog.angular.io
+  gitter: https://gitter.im/angular/angular
+  stackoverflow: https://stackoverflow.com/questions/tagged/angular
   tags: Javascript, Front-end Framework
 - name: Animate.css
   home: https://daneden.github.io/animate.css/
@@ -113,6 +115,7 @@
   tags: Desktop, Application Framework
 - name: Envoy
   home: https://www.envoyproxy.io/
+  github: https://github.com/envoyproxy/envoy
   twitter: https://twitter.com/EnvoyProxy
   medium: https://blog.envoyproxy.io/
   tags: DevOps, Proxy
@@ -305,6 +308,13 @@
   home: https://maven.apache.org/
   github: https://github.com/apache/maven
   tags: Java, Package Manager, Build Automation
+- name: Meteor
+  home: https://www.meteor.com/
+  github: https://github.com/meteor/meteor
+  twitter: https://twitter.com/meteorjs
+  forums: https://forums.meteor.com/
+  youtube: https://www.youtube.com/user/MeteorVideos
+  facebook: https://www.facebook.com/meteorjs/
 - name: Mininet
   home: http://mininet.org/
   github: https://github.com/mininet/mininet
