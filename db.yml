@@ -3050,7 +3050,8 @@
 - name: 이상학
   blog: http://sanghaklee.tistory.com/
   rss: http://sanghaklee.tistory.com/rss
-  description: Back-end
+  description: Back-end, Node.js, JavaScript, Cloud Computing
+  github: https://github.com/sanghaklee
 - name: 이상희
   blog: http://schoolofweb.net/blog/
   description: Python, Django
