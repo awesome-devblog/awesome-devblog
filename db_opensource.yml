@@ -227,6 +227,11 @@
   twitter: https://twitter.com/handsontable
   stackoverflow: https://stackoverflow.com/questions/tagged/handsontable
   tags: Javascript, Spreadsheet
+- name: hapi
+  home: https://hapijs.com/
+  github: https://github.com/hapijs/hapi
+  twitter: https://twitter.com/hapijs
+  tags: Javascript, Back-end Framework
 - name: HAProxy
   home: http://www.haproxy.org/
   github: https://github.com/haproxy/haproxy
@@ -267,6 +272,14 @@
   home: https://www.elastic.co/products/kibana
   github: https://github.com/elastic/kibana
   tags: Monitoring
+- name: Koa
+  home: https://koajs.com/
+  github: https://github.com/koajs/koa
+  googleplus: https://plus.google.com/communities/101845768320796750641
+  gitter: https://gitter.im/koajs/koa
+  reddit: https://www.reddit.com/r/koajs/
+  opencollective: https://opencollective.com/koajs
+  tags: Javascript, Back-end Framework
 - name: Kotlin
   home: https://kotlinlang.org/
   github: https://github.com/JetBrains/kotlin
@@ -299,6 +312,12 @@
   googleplus: https://plus.google.com/+LinuxfoundationOrg
   linkedin: https://www.linkedin.com/company/the-linux-foundation/
   tags: Kernel
+- name: LoopBack
+  home: https://loopback.io/
+  github: https://github.com/strongloop/loopback
+  gitter: https://gitter.im/strongloop/loopback
+  googlegroups: https://groups.google.com/forum/#!forum/loopbackjs
+  tags: Javascript, Back-end Framework
 - name: LXC
   home: https://linuxcontainers.org/lxc/
   github: https://github.com/lxc/lxc
@@ -487,6 +506,12 @@
 - name: RxJava
   github: https://github.com/ReactiveX/RxJava
   tags: Java, Core Library
+- name: Snails
+  home: https://sailsjs.com/
+  github: https://github.com/balderdashy/sails
+  gitter: https://gitter.im/balderdashy/sails
+  twitter: https://twitter.com/sailsjs
+  tags: Javascript, Back-end Framework
 - name: Sanic
   home: https://sanic.readthedocs.io/
   github: https://github.com/channelcat/sanic
