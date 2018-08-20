@@ -1854,6 +1854,11 @@
   rss: http://feeds.feedburner.com/baenefit/slXh
   description: IT 칼럼
   twitter: https://twitter.com/khbae
+- name: 배두식
+  blog: http://blog.doosikbae.com/
+  rss: http://blog.doosikbae.com/rss
+  description: Python
+  home: https://www.doosikbae.com/
 - name: 배수한
   blog: https://blog.naver.com/soohan530/
   rss: https://rss.blog.naver.com/soohan530.xml

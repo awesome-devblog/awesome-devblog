@@ -7,6 +7,7 @@
   facebook: https://www.facebook.com/groups/codingeverybody/
   home: https://opentutorials.org/
   twitter: https://twitter.com/opentutorialss
+  youtube: https://www.youtube.com/user/egoing2
 - name: Javawocky
   facebook: https://www.facebook.com/groups/javawocky/
 - name: Korea Ceph User Group
@@ -718,3 +719,19 @@
   home: https://datayanolja.github.io/
   facebook: https://www.facebook.com/datayanolja.github.io/
   github: https://github.com/datayanolja
+- name: 코딩클럽
+  home: http://codingclubs.org/
+  facebook: https://www.facebook.com/codingclubs/
+  youtube: https://www.youtube.com/channel/UCUr3XU8t9UrfGfkcP1mG8sA
+- name: SONOL_코딩.소프트웨어놀이터
+  naver: https://cafe.naver.com/gubass
+  youtube: https://www.youtube.com/channel/UC576all-JloCWvzLrc2QZxw
+- name: 한국 스프링 사용자 모임(KSUG)
+  home: http://www.ksug.org/
+  facebook: https://www.facebook.com/groups/springkorea/
+- name: Django Girls Seoul
+  home: https://djangogirls.org/seoul/
+  facebook: https://www.facebook.com/djangogirlsseoul
+  twitter: https://twitter.com/djangogirlseoul
+  medium: https://medium.com/djangogirlsseoul-codecamp
+  rss: https://medium.com/feed/djangogirlsseoul-codecamp
