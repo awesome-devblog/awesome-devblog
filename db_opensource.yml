@@ -23,6 +23,14 @@
   blog: https://www.ansible.com/blog
   meetup: https://www.meetup.com/ko-KR/Ansible-Seoul/
   tags: DevOps
+- name: Apollo
+  home: https://www.apollographql.com/
+  github: https://github.com/apollographql/apollo
+  blog: https://blog.apollographql.com/
+  slack: https://www.apollographql.com/slack
+  twitter: https://twitter.com/apollographql
+  youtube: https://www.youtube.com/channel/UC0pEW_GOrMJ23l8QcrGdKSw
+  tags: GraphQL
 - name: Atom
   home: https://atom.io/
   github: https://github.com/atom/atom
@@ -256,6 +264,11 @@
   twitter: https://twitter.com/influxdb
   facebook: https://www.facebook.com/influxdb
   tags: Time Series Database
+- name: Javalin
+  home: https://javalin.io/
+  github: https://github.com/tipsy/javalin
+  gitter: https://gitter.im/javalin-io/general
+  tags: Java, Back-end Framework
 - name: jQuery
   home: https://jquery.com/
   github: https://github.com/jquery/jquery
@@ -458,6 +471,15 @@
   home: https://preactjs.com/
   github: https://github.com/developit/preact
   tags: Javascript, Front-end Framework
+- name: Prisma
+  home: https://www.prisma.io/
+  github: https://github.com/prisma/prisma
+  twitter: https://twitter.com/prisma
+  slack: https://slack.prisma.io/
+  forum: https://www.prisma.io/forum/
+  blog: https://www.prisma.io/blog/
+  youtube: https://www.youtube.com/channel/UCptAHlN1gdwD89tFM3ENb6w
+  tags: GraphQL
 - name: Processing
   home: https://processing.org/
   github: https://github.com/processing/processing

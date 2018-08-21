@@ -764,3 +764,17 @@
 - name: 커넥트재단
   home: https://connect.or.kr/
   facebook: https://www.facebook.com/connect.naver/
+- name: 프로그래머스
+  home: https://programmers.co.kr/
+  blog: https://brunch.co.kr/@programmers
+- name: 모여서 각자 코딩하는 모임.
+  facebook: https://www.facebook.com/groups/mogaco/
+  github: https://github.com/OpenMogaco
+- name: 모의 침투 연구회
+  facebook: https://www.facebook.com/groups/metasploits/
+- name: 딥스터딩: 딥러닝하는 고등학생 네트워크
+  facebook: https://www.facebook.com/groups/174054533149440/
+  discord: https://discordapp.com/invite/gY7eJYz
+- name: SecurityFactory
+  facebook: https://www.facebook.com/groups/631179123759684/
+  blog: http://securityfactory.tistory.com/
