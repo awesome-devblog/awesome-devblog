@@ -3216,6 +3216,12 @@
   rss: http://resoliwan.blogspot.com/feeds/posts/default
   description: ''
   googleplus: https://plus.google.com/106861633273056853029
+- name: 이예빈
+  blog: http://happily70.dothome.co.kr/
+  rss: http://happily70.dothome.co.kr/?feed=rss2
+  description: Front-end
+  facebook: https://www.facebook.com/yebin.lee.31
+  linkedin: https://www.linkedin.com/in/yebeen-lee-a16680146/
 - name: 이완근
   blog: http://icednut.github.io/
   rss: http://icednut.github.io/feed
