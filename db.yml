@@ -2200,6 +2200,13 @@
 - name: 신관영
   blog: http://springsource.tistory.com/
   description: Spring
+- name: 신동리
+  blog: https://shindongri.github.io/
+  rss: https://shindongri.github.io/feed
+  description: Front-end
+  github: https://github.com/shindongri
+  linkedin: https://www.linkedin.com/in/shindongri/
+  instagram: https://www.instagram.com/shindongri/
 - name: 신동성
   blog: https://brunch.co.kr/@adrenalinee31
   rss: https://brunch.co.kr/rss/@@1pJY
