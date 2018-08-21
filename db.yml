@@ -1055,6 +1055,10 @@
   description: 포렌식
   facebook: https://www.facebook.com/proneer
   twitter: https://twitter.com/pr0neer
+- name: 김진석
+  blog: http://syalot506.tistory.com/
+  rss: http://syalot506.tistory.com/rss
+  description: Javascript
 - name: 김진섭
   blog: http://vmfhrmfoaj.gitlab.io/
   description: Clojure
