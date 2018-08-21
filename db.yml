@@ -1119,7 +1119,9 @@
 - name: 김태균
   blog: http://blog.gaerae.com/
   rss: http://feeds.feedburner.com/GaeraeBlog?format=xml
-  description: ''
+  description: 기술 큐레이션
+  facebook: https://www.facebook.com/gaerae
+  home: https://gaerae.com/
 - name: 김태기
   blog: https://beyondj2ee.wordpress.com/
   rss: https://beyondj2ee.wordpress.com/feed/
@@ -1809,6 +1811,10 @@
   github: https://github.com/rickiepark
   facebook: https://www.facebook.com/haesunrpark
   linkedin: https://www.linkedin.com/in/rickypark/
+- name: 박현규
+  blog: https://canine89.github.io/
+  description: Django
+  github: https://github.com/Canine89
 - name: 박현우
   blog: http://lqez.github.io/blog/
   rss: http://lqez.github.io/blog/feeds/all.atom.xml
