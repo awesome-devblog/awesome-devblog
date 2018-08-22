@@ -2519,6 +2519,12 @@
   description: Docker
   github: https://github.com/yangroro
   facebook: https://www.facebook.com/heechanyan
+- name: 엄민석
+  blog: https://blog.naver.com/eominsuk55
+  rss: https://rss.blog.naver.com/eominsuk55.xml
+  description: Android
+  facebook: https://www.facebook.com/profile.php?id=100003794115240
+  github: https://github.com/BoxResin
 - name: 엄승현
   blog: http://blog.eomdev.com
   rss: http://blog.eomdev.com/feed
