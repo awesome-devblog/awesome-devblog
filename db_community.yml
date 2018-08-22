@@ -738,6 +738,8 @@
 - name: 모두의연구소
   home: http://www.modulabs.co.kr/
   facebook: https://www.facebook.com/lab4all/
+- name: 모두의연구소 커뮤니티
+  facebook: https://www.facebook.com/groups/modulabs/
 - name: 하이브아레나
   home: https://hivearena.com/
   facebook: https://www.facebook.com/hivearena/
@@ -778,3 +780,72 @@
 - name: SecurityFactory
   facebook: https://www.facebook.com/groups/631179123759684/
   blog: http://securityfactory.tistory.com/
+- name: TensorFlow KR
+  facebook: https://www.facebook.com/groups/TensorFlowKR/
+  slack: https://tensorflowkr.slack.com/
+- name: 캐글뽀개기
+  facebook: https://www.facebook.com/groups/kagglebreak/
+- name: 데이터그램
+  facebook: https://www.facebook.com/groups/datergram/
+- name: 파이썬 라이브러리를 활용한 데이터 분석
+  facebook: https://www.facebook.com/groups/205108996327195/
+- name: SLAM Research Group KR
+  facebook: https://www.facebook.com/groups/slamkr/
+- name: 한국 ROS Community
+  facebook: https://www.facebook.com/groups/427060150825583/
+- name: 로봇활용코딩교육
+  facebook: https://www.facebook.com/groups/robotcodingedu/
+- name: 글로벌 STEM 교육자 모임 Global STEM Educator Group (with STEAM)
+  facebook: https://www.facebook.com/groups/globalstem/
+- name: 오픈 드론 프로젝트
+  facebook: https://www.facebook.com/groups/opendrone/
+- name: 음향 음성 오디오 언어 처리 그룹 Soundly - 딥러닝 및 머신러닝
+  facebook: https://www.facebook.com/groups/soundly/
+- name: 게임 서버 개발자 모임
+  naver: http://cafe.naver.com/ongameserver
+  youtube: https://www.youtube.com/channel/UCYnvySStWs6IDeYr8IeyayA
+- name: C# 스터디 그룹
+  facebook: https://www.facebook.com/groups/200708093411111/
+- name: 초중급 게임 개발자 스터디 「데브루키」
+  facebook: https://www.facebook.com/groups/devrookie/
+  naver: http://cafe.naver.com/devrookie
+- name: 리눅스 시스템에서 프로그래밍까지
+  facebook: https://www.facebook.com/groups/902488053175342/
+- name: 공공장소
+  home: http://gonggongplace.com
+- name: 싸이그래머
+  facebook: https://www.facebook.com/groups/psygrammer/
+- name: 얼리버드
+  home: http://earlybird.ai/
+  blog: http://earlybird.ai/main/blog/
+- name: C++, OpenSource Study
+  facebook: https://www.facebook.com/groups/OpenCPP/
+- name: SW아키텍처 실무자 포럼
+  facebook: https://www.facebook.com/groups/SWarchitecture/
+- name: CloudZ Labs
+  home: http://cloudz-labs.sk.com/
+  blog: https://tech.cloudz-labs.io/
+- name: 오픈소스컨설팅 기술 블로그
+  blog: https://tech.osci.kr/
+- name: 퀄컴코리아
+  blog: https://blog.naver.com/qualcommkr
+- name: 코드스피츠
+  facebook: https://www.facebook.com/groups/codespitz/
+- name: 함수형 자바스크립트
+  facebook: https://www.facebook.com/groups/539983619537858/
+- name: MySQL Korea User Group
+  facebook: https://www.facebook.com/groups/mysqlko/
+- name: Korea Git User Group
+  facebook: https://www.facebook.com/groups/kgugs/
+- name: GraphQL Korea
+  facebook: https://www.facebook.com/groups/278701352891443/
+- name: Angular Korea
+  facebook: https://www.facebook.com/groups/ngkorea/
+- name: PyTorch KR
+  facebook: https://www.facebook.com/groups/PyTorchKR/
+  slack: https://pytorchkr.slack.com/
+- name: Elm User Group
+  facebook: https://www.facebook.com/groups/1264019540340462/
+- name: Electron Korea
+  facebook: https://www.facebook.com/groups/electronkorea/
+  slack: https://electron-kr.slack.com/
