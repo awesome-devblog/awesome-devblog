@@ -17,6 +17,11 @@
   github: https://github.com/daneden/animate.css
   cdnjs: https://cdnjs.com/libraries/animate.css/
   tags: Animation
+- name: Anime
+  home: http://animejs.com/
+  github: https://github.com/juliangarnier/anime
+  codepen: https://codepen.io/collection/XLebem
+  tags: Animation
 - name: Ansible
   home: https://www.ansible.com/
   github: https://github.com/ansible/ansible
@@ -57,10 +62,24 @@
   facebook: https://www.facebook.com/BraveSoftware/
   youtube: https://www.youtube.com/bravesoftware
   tags: Web Browser
+- name: Bulma
+  home: https://bulma.io/
+  github: https://github.com/jgthms/bulma
+  blog: https://bulma.io/blog/
+  tags: UI Framework
+- name: C3.js
+  home: https://c3js.org/
+  github: https://github.com/c3js/c3
+  googlegroups: https://groups.google.com/forum/#!forum/c3js
+  tags: Javascript, Chart
 - name: Chart.js
   home: https://www.chartjs.org/
   github: https://github.com/chartjs/Chart.js
-  tags: Chart
+  tags: Javascript, Chart
+- name: Chartist.js
+  home: https://gionkunz.github.io/chartist-js/
+  github: https://github.com/gionkunz/chartist-js
+  tags: Javascript, Chart
 - name: Consul
   home: https://www.consul.io/
   github: https://github.com/hashicorp/consul
@@ -115,6 +134,10 @@
   github: https://github.com/elastic/elasticsearch
   blog: https://www.elastic.co/kr/blog
   tags: Distributed Search Engine
+- name: ECharts
+  home: http://incubator.apache.org/projects/echarts.html
+  github: https://github.com/apache/incubator-echarts
+  tags: Javascript, Chart
 - name: Electron
   home: https://electronjs.org/
   github: https://github.com/electron/electron
@@ -149,6 +172,15 @@
   npm: https://www.npmjs.com/package/express
   gitter: https://gitter.im/expressjs/express
   googlegroups: https://groups.google.com/group/express-js
+  tags: Javascript, Back-end Framework
+- name: Feathers
+  home: https://feathersjs.com/
+  github: https://github.com/feathersjs/feathers
+  npm: https://www.npmjs.com/package/@feathersjs/feathers
+  twitter: https://twitter.com/feathersjs
+  slack: http://slack.feathersjs.com/
+  blog: https://blog.feathersjs.com/
+  stackoverflow: https://stackoverflow.com/questions/tagged/feathersjs
   tags: Javascript, Back-end Framework
 - name: Flask
   home: http://flask.pocoo.org/
@@ -186,6 +218,12 @@
   twitter: https://twitter.com/fontawesome
   facebook: https://www.facebook.com/fontawesome
   tags: Font
+- name: Foundation
+  home: https://foundation.zurb.com/
+  github: https://github.com/zurb/foundation-sites
+  forum: https://foundation.zurb.com/forum
+  blog: https://zurb.com/blog
+  tags: UI Framework
 - name: Go
   home: https://golang.org/
   github: https://github.com/golang/go
@@ -220,6 +258,12 @@
   stackoverflow: https://stackoverflow.com/tags/grpc/
   youtube: https://www.youtube.com/channel/UCrnk1HWelWnYtF78YZX80fg
   tags: RPC Framework
+- name: GSAP
+  home: https://greensock.com/
+  github: https://github.com/greensock/GreenSock-JS
+  forum: https://greensock.com/forums/
+  codepen: https://codepen.io/GreenSock
+  tags: Animation
 - name: Guava
   github: https://github.com/google/guava
   maven: https://mvnrepository.com/artifact/com.google.guava/guava
@@ -245,6 +289,11 @@
   github: https://github.com/haproxy/haproxy
   slack: https://slack.haproxy.org/
   tags: DevOps, Proxy
+- name: Highcharts
+  home: https://www.highcharts.com/
+  github: https://github.com/highcharts/highcharts
+  blog: https://www.highcharts.com/blog/
+  tags: Javascript, Chart
 - name: Hyper
   home: https://hyper.is/
   github: https://github.com/zeit/hyper
@@ -347,10 +396,20 @@
   slack: https://mesosphere.slack.com/
   jira: https://jira.mesosphere.com
   tags: DevOps, Container Orchestration
+- name: Materialize
+  home: https://materializecss.com/
+  github: https://github.com/Dogfalo/materialize
+  cdnjs: https://cdnjs.com/libraries/materialize
+  gitter: https://gitter.im/Dogfalo/materialize
+  tags: UI Framework
 - name: Maven
   home: https://maven.apache.org/
   github: https://github.com/apache/maven
   tags: Java, Package Manager, Build Automation
+- name: MDC Web
+  home: https://material.io/develop/
+  github: https://github.com/material-components/material-components-web
+  tags: UI Framework
 - name: Meteor
   home: https://www.meteor.com/
   github: https://github.com/meteor/meteor
@@ -358,6 +417,11 @@
   forums: https://forums.meteor.com/
   youtube: https://www.youtube.com/user/MeteorVideos
   facebook: https://www.facebook.com/meteorjs/
+- name: mini.css
+  home: https://minicss.org/
+  github: https://github.com/Chalarangelo/mini.css
+  cdnjs: https://cdnjs.com/libraries/mini.css
+  tags: UI Framework
 - name: Mininet
   home: http://mininet.org/
   github: https://github.com/mininet/mininet
@@ -387,6 +451,11 @@
 - name: Neofetch
   github: https://github.com/dylanaraps/neofetch
   tags: Monitoring
+- name: Nest
+  home: https://nestjs.com/
+  github: https://github.com/nestjs/nest
+  twitter: https://twitter.com/nestframework
+  tags: Javascript, Back-end Framework
 - name: Next.js
   home: https://nextjs.org/
   github: https://github.com/zeit/next.js
@@ -493,6 +562,10 @@
   twitter: https://twitter.com/PrometheusIO
   blog: https://prometheus.io/blog/
   tags: Monitoring
+- name: Pure
+  home: https://purecss.io/
+  github: https://github.com/pure-css/pure/
+  tags: UI Framework
 - name: React
   home: https://reactjs.org/
   github: https://github.com/facebook/react
@@ -506,6 +579,10 @@
   blog: http://facebook.github.io/react-native/blog/
   twitter: https://twitter.com/reactnative
   tags: Mobile, Application Framework
+- name: Recharts
+  home: http://recharts.org/
+  github: https://github.com/recharts/recharts
+  tags: Javascript, Chart
 - name: Riot
   home: https://riot.js.org/
   github: https://github.com/riot/riot
@@ -538,6 +615,13 @@
   home: https://sanic.readthedocs.io/
   github: https://github.com/channelcat/sanic
   tags: Python, Back-end Framework
+- name: Semantic UI
+  home: https://semantic-ui.com/
+  github: https://github.com/Semantic-Org/Semantic-UI
+  stackoverflow: https://stackoverflow.com/questions/tagged/semantic-ui
+  gitter: https://gitter.im/Semantic-Org/Semantic-UI
+  googlegroups: https://groups.google.com/forum/#!forum/semantic-ui
+  tags: UI Framework
 - name: Servo
   home: https://servo.org/
   github: https://github.com/servo/servo
@@ -547,11 +631,23 @@
   npm: https://www.npmjs.com/package/signale
   gitter: https://gitter.im/klauscfhq/signale
   tags: Javascript, Logging
+- name: Snap.svg
+  home: http://snapsvg.io/
+  github: https://github.com/adobe-webplatform/Snap.svg
+  twitter: https://twitter.com/snapsvg
+  slack: https://snapsvg.slack.com/
+  googlegroups: https://groups.google.com/forum/#!forum/snapsvg
+  tags: Animation
 - name: Spark
   home: https://spark.apache.org/
   github: https://github.com/apache/spark
   jira: https://issues.apache.org/jira/projects/SPARK
   tags: Distributed Processing
+- name: Spectre.css
+  home: https://picturepan2.github.io/spectre/
+  github: https://github.com/picturepan2/spectre
+  twitter: https://twitter.com/spectrecss
+  tags: UI Framework
 - name: Spring-boot
   home: http://spring.io/projects/spring-boot
   github: https://github.com/spring-projects/spring-boot
@@ -600,6 +696,12 @@
   blog: https://blogs.msdn.microsoft.com/typescript/
   twitter: https://twitter.com/typescriptlang
   tags: Programming Language
+- name: UIkit
+  home: https://getuikit.com/
+  github: https://github.com/uikit/uikit
+  twitter: https://twitter.com/getuikit
+  gitter: https://gitter.im/uikit/uikit
+  tags: UI Framework
 - name: Vibora
   home: https://vibora.io/
   github: https://github.com/vibora-io/vibora
