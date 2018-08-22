@@ -3419,6 +3419,12 @@
   blog: https://iamchanii.github.io/
   description: Go
   github: https://github.com/iamchanii
+- name: 이치웅
+  blog: https://chichi.space/
+  rss: https://chichi.space/atom
+  description: Javascript
+  facebook: https://www.facebook.com/chiwoooong
+  github: https://github.com/jyqry/
 - name: 이태화
   blog: http://platformengineer.tistory.com/
   rss: http://platformengineer.tistory.com/rss
