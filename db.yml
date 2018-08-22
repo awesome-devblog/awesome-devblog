@@ -1955,6 +1955,7 @@
   twitter: https://twitter.com/outsideris
   facebook: https://www.facebook.com/jeonghoon.byun
   linkedin: https://www.linkedin.com/in/jeonghun-byeon-5745b717/
+  slideshare: https://www.slideshare.net/rockdoli
 - name: 변수민
   blog: http://blog.suminb.com/
   rss: http://blog.suminb.com/feed.xml
@@ -4288,6 +4289,15 @@
   rss: https://medium.com/feed/@HarrisonJung
   description: 꿈많은청년들
   facebook: https://www.facebook.com/calmlake79
+- name: 지용호
+  blog: http://jidolstar.tistory.com/
+  rss: http://jidolstar.tistory.com/rss
+  description: Adobe Flex
+  facebook: https://www.facebook.com/jidolstar
+  twitter: https://twitter.com/jidolstar
+  github: https://github.com/jidolstar
+  slideshare: https://www.slideshare.net/jidolstar
+  rankedin: http://rankedin.kr/user/jidolstar
 - name: 차경묵
   blog: http://blog.hannal.com/
   rss: http://blog.hannal.com/feed
