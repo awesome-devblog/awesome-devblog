@@ -20,66 +20,6 @@
         </outline>
 
         <outline title="overseas" text="해외 개발자 블로그 모음">
-            <outline title="Adam Bien" xmlUrl="http://www.adam-bien.com/roller/abien/feed/entries/atom"/>
-            <outline title="Adam Fletcher" xmlUrl="https://medium.com/feed/@adam_34309"/>
-            <outline title="Andrea Giammarchi" xmlUrl="http://webreflection.blogspot.com/feeds/posts/default"/>
-            <outline title="Armin Ronacher" xmlUrl="http://lucumr.pocoo.org/feed.atom"/>
-            <outline title="Assaf Muller" xmlUrl="http://assafmuller.wordpress.com/feed/"/>
-            <outline title="Bojan Gvozderac" xmlUrl="https%3A%2F%2Fmedium.com%2Ffeed%2F%40bojangbusiness"/>
-            <outline title="Bram Cohen" xmlUrl="http://bramcohen.livejournal.com/data/rss"/>
-            <outline title="Brendan Eich" xmlUrl="http://brendaneich.com/feed/"/>
-            <outline title="Chad Fowler" xmlUrl="http://www.chadfowler.com/?rss"/>
-            <outline title="Chris Ng" xmlUrl="http://chrisrng.svbtle.com/feed"/>
-            <outline title="Cristian Esquivias" xmlUrl="http://cesquivias.github.io/feeds/all.rss.xml"/>
-            <outline title="Daniel Shiffman" xmlUrl="http://vimeo.com/shiffman/videos/rss"/>
-            <outline title="Dave Smith" xmlUrl="https://medium.com/feed/@djsmith42"/>
-            <outline title="David Bryant" xmlUrl="https://medium.com/feed/@david_bryant"/>
-            <outline title="David Ford" xmlUrl="https://medium.com/feed/@daveford"/>
-            <outline title="David Moreau Simard" xmlUrl="https://dmsimard.com/index.xml"/>
-            <outline title="David Robinson" xmlUrl="http://varianceexplained.org/feed.xml"/>
-            <outline title="David Walsh" xmlUrl="http://feeds.feedburner.com/Bludice"/>
-            <outline title="Derick Bailey" xmlUrl="http://feeds.feedblitz.com/derickbailey"/>
-            <outline title="Eli Bendersky" xmlUrl="http://eli.thegreenplace.net/feed/"/>
-            <outline title="Eric A. Meyer" xmlUrl="http://meyerweb.com/eric/thoughts/rss2/summary"/>
-            <outline title="Erik Bernhardsson" xmlUrl="http://erikbern.com/?feed=rss2"/>
-            <outline title="Evan You" xmlUrl="https://medium.com/feed/@youyuxi"/>
-            <outline title="Gal Sagie" xmlUrl="http://galsagie.github.io/feed.xml"/>
-            <outline title="Jake Wharton" xmlUrl="http://jakewharton.com/atom.xml"/>
-            <outline title="James Gosling" xmlUrl="http://feeds.feedburner.com/nighthacks/feed"/>
-            <outline title="Jeff Atwood" xmlUrl="http://feeds.feedburner.com/codinghorror/"/>
-            <outline title="Jeff Langr" xmlUrl="http://langrsoft.com/feed/"/>
-            <outline title="Jessie Frazelle" xmlUrl="https://blog.jessfraz.com/index.xml"/>
-            <outline title="Joe Hewitt" xmlUrl="http://joehewitt.com/index.xml"/>
-            <outline title="Joel Spolsky" xmlUrl="http://www.joelonsoftware.com/rss.xml"/>
-            <outline title="John Gruber" xmlUrl="http://daringfireball.net/index.xml"/>
-            <outline title="John McClean" xmlUrl="https://medium.com/feed/@johnmcclean"/>
-            <outline title="John Resig" xmlUrl="http://ejohn.org/category/blog/feed/rss/"/>
-            <outline title="Jonathan Snook" xmlUrl="http://feeds.feedburner.com/snookca"/>
-            <outline title="Josh Symonds" xmlUrl="http://joshsymonds.com/atom.xml"/>
-            <outline title="Kevin Sookocheff" xmlUrl="http://sookocheff.com/index.xml"/>
-            <outline title="Lars Vogell" xmlUrl="http://www.vogella.de/blog/feed/"/>
-            <outline title="Marius Schulz" xmlUrl="http://feeds.feedburner.com/mariusschulz"/>
-            <outline title="Mark Otto" xmlUrl="http://feeds.feedburner.com/mdo"/>
-            <outline title="Martin Fowler" xmlUrl="http://martinfowler.com/bliki/bliki.atom"/>
-            <outline title="Michael Hausenblas" xmlUrl="https://medium.com/feed/@mhausenblas"/>
-            <outline title="Mike Bostock" xmlUrl="http://bost.ocks.org/mike/index.rss"/>
-            <outline title="Mike Gouline" xmlUrl="http://blog.gouline.net/rss/"/>
-            <outline title="Mike Nakhimovich" xmlUrl="https://medium.com/feed/@theMikhail"/>
-            <outline title="Nicolai Parlog" xmlUrl="http://blog.codefx.org/feed/"/>
-            <outline title="Phil Haack" xmlUrl="http://feeds.haacked.com/haacked/"/>
-            <outline title="Paul Bakker" xmlUrl="http://paulbakker.io/feed.xml"/>
-            <outline title="Paul Lewis" xmlUrl="http://aerotwist.com/blog/feed/"/>
-            <outline title="Ricardo Cabello" xmlUrl="http://feeds.feedburner.com/mrdoob"/>
-            <outline title="Robert C. Martin" xmlUrl="http://blog.cleancoder.com/atom.xml"/>
-            <outline title="Rod Johnson" xmlUrl="https://medium.com/feed/@springrod"/>
-            <outline title="Sacha Greif" xmlUrl="https://medium.com/feed/@sachagreif"/>
-            <outline title="Sam Newman" xmlUrl="http://samnewman.io/blog/feed.xml"/>
-            <outline title="Scott Hanselman" xmlUrl="http://feeds.hanselman.com/ScottHanselman"/>
-            <outline title="Stephen Colebourne" xmlUrl="http://blog.joda.org/feeds/posts/default"/>
-            <outline title="Thomas Fuchs" xmlUrl="http://feeds.feedburner.com/miraculous"/>
-            <outline title="Thomas Stringer" xmlUrl="https://medium.com/feed/@trstringer"/>
-            <outline title="Vinicius Isola" xmlUrl="https://visola.github.io/rss.xml"/>
-            <outline title="Will McGugan" xmlUrl="http://www.willmcgugan.com/blog/rootblog/feeds/posts/"/>
             <outline title="A List Apart" xmlUrl="http://www.alistapart.com/rss.xml"/>
             <outline title="Android Developers Blog" xmlUrl="http://feeds.feedburner.com/blogspot/hsDu"/>
             <outline title="Baeldung" xmlUrl="http://feeds.feedburner.com/Baeldung?format=xml"/>
