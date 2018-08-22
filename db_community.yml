@@ -849,3 +849,10 @@
 - name: Electron Korea
   facebook: https://www.facebook.com/groups/electronkorea/
   slack: https://electron-kr.slack.com/
+- name: NAVER Engineering
+  facebook: https://www.facebook.com/naverengineering
+  slideshare: https://www.slideshare.net/NaverEngineering
+- name: Bsidesoft
+  facebook: https://www.facebook.com/bsidesoft/
+  blog: http://www.bsidesoft.com/
+  rss: https://www.bsidesoft.com/?feed=rss2

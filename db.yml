@@ -197,6 +197,12 @@
   github: https://github.com/marcosdeseul
   linkedin: https://www.linkedin.com/in/minsoo-kwak-44367388/
   youtube: https://www.youtube.com/channel/UCZ7c3OpOYicLQDDZyKevDDw
+- name: 곽중선
+  blog: http://sunnykwak.tistory.com/
+  rss: http://sunnykwak.tistory.com/rss
+  description: Java
+  linkedin: https://www.linkedin.com/in/중선-곽-394574102/
+  slideshare: https://www.slideshare.net/sunnykwak90
 - name: 구교준
   blog: http://danielku.com/
   rss: http://danielku.com/atom.xml
@@ -423,6 +429,8 @@
   rss: https://cheese10yun.github.io/feed.xml
   description: Node.JS, Spring
   github: https://github.com/cheese10yun
+  linkedin: https://www.linkedin.com/in/남윤-김-567b2962/
+  slideshare: https://www.slideshare.net/ssuser565d51
 - name: 김남훈
   blog: http://namhoon.kim/
   rss: http://namhoon.kim/rss
