@@ -1701,6 +1701,11 @@
   description: Ethereum, Rust
   facebook: https://www.facebook.com/majecty
   home: http://blog.majecty.com/
+- name: 박주형
+  blog: http://arter97.blogspot.com/
+  rss: http://arter97.blogspot.com/feeds/posts/default
+  description: Linux
+  googleplus: https://plus.google.com/100021106150624240933
 - name: 박준규
   blog: https://brunch.co.kr/@kospoll-lab
   rss: https://brunch.co.kr/rss/@@301t
