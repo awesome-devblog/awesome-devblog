@@ -73,6 +73,11 @@
   facebook: https://www.facebook.com/BraveSoftware/
   youtube: https://www.youtube.com/bravesoftware
   tags: Web Browser
+- name: Browserify
+  home: http://browserify.org/
+  github: https://github.com/browserify/browserify
+  twitter: https://twitter.com/browserify
+  tags: Javascript, Tool
 - name: Bulma
   home: https://bulma.io/
   github: https://github.com/jgthms/bulma
@@ -83,6 +88,10 @@
   github: https://github.com/c3js/c3
   googlegroups: https://groups.google.com/forum/#!forum/c3js
   tags: Javascript, Chart
+- name: Caffe2
+  home: https://caffe2.ai/
+  github: https://github.com/caffe2/caffe2
+  tags: Machine Learning
 - name: Chart.js
   home: https://www.chartjs.org/
   github: https://github.com/chartjs/Chart.js
@@ -96,6 +105,12 @@
   github: https://github.com/cherrypy/cherrypy
   gitter: https://gitter.im/cherrypy/cherrypy
   tags: Python, Web Framework
+- name: CNTK
+  home: https://www.microsoft.com/en-us/cognitive-toolkit/
+  github: https://github.com/Microsoft/CNTK
+  gitter: https://gitter.im/Microsoft/CNTK
+  blog: https://www.microsoft.com/en-us/cognitive-toolkit/blog/
+  tags: Machine Learning
 - name: Consul
   home: https://www.consul.io/
   github: https://github.com/hashicorp/consul
@@ -264,6 +279,13 @@
   facebook: https://www.facebook.com/groups/graphql.community/
   stackoverflow: https://stackoverflow.com/questions/tagged/graphql
   tags: Domain Specific Language
+- name: Grunt
+  home: https://gruntjs.com/
+  github: https://github.com/gruntjs/grunt
+  twitter: https://twitter.com/gruntjs/
+  blog: https://gruntjs.com/blog
+  rss: https://gruntjs.com/rss
+  tags: Javascript, Tool
 - name: Gulp
   home: https://gulpjs.com/
   github: https://github.com/gulpjs/gulp
@@ -472,6 +494,11 @@
   github: https://github.com/mono/mono
   rss: https://www.mono-project.com/atom.xml
   tags: .NET, Runtime
+- name: MXNet
+  home: https://mxnet.incubator.apache.org/
+  github: https://github.com/apache/incubator-mxnet
+  forum: https://discuss.mxnet.io/
+  tags: Machine Learning
 - name: Neofetch
   github: https://github.com/dylanaraps/neofetch
   tags: Monitoring
@@ -595,6 +622,10 @@
   github: https://github.com/Pylons/pyramid
   twitter: https://twitter.com/PylonsProject
   tags: Python, Web Framework
+- name: PyTorch
+  blogging: https://pytorch.org/blog/
+  forum: https://discuss.pytorch.org/
+  tags: Python, Machine Learning
 - name: React
   home: https://reactjs.org/
   github: https://github.com/facebook/react
@@ -616,6 +647,12 @@
   home: https://riot.js.org/
   github: https://github.com/riot/riot
   twitter: https://twitter.com/riotjs_
+  tags: Javascript, Front-end Framework
+- name: Rollup
+  home: https://rollupjs.org/
+  github: https://github.com/rollup/rollup
+  gitter: https://gitter.im/rollup/rollup
+  tags: Javascript, Tool
 - name: Ruby
   home: https://www.ruby-lang.org/
   github: https://github.com/ruby/ruby
