@@ -54,6 +54,17 @@
   twitter: https://twitter.com/getbootstrap
   blog: https://blog.getbootstrap.com/
   tags: UI
+- name: Bottle
+  home: https://bottlepy.org/
+  github: https://github.com/bottlepy/bottle
+  twitter: https://twitter.com/bottlepy
+  blog: http://blog.bottlepy.org/
+  rss: http://blog.bottlepy.org/feeds/all.atom.xml
+  tags: Python Web Framework
+- name: Bounce.js
+  home: http://bouncejs.com/
+  github: https://github.com/tictail/bounce.js/
+  tags: Animation
 - name: Brave
   home: https://brave.com/
   github: https://github.com/brave/browser-laptop
@@ -80,6 +91,11 @@
   home: https://gionkunz.github.io/chartist-js/
   github: https://github.com/gionkunz/chartist-js
   tags: Javascript, Chart
+- name: CherryPy
+  home: https://cherrypy.org/
+  github: https://github.com/cherrypy/cherrypy
+  gitter: https://gitter.im/cherrypy/cherrypy
+  tags: Python, Web Framework
 - name: Consul
   home: https://www.consul.io/
   github: https://github.com/hashicorp/consul
@@ -100,6 +116,10 @@
   github: https://github.com/d3/d3
   cdnjs: https://cdnjs.com/libraries/d3
   tags: Javascript, Visualization
+- name: Dash
+  home: https://plot.ly/products/dash/
+  github: https://github.com/plotly/dash
+  tags: Python, Web Framework
 - name: DC/OS
   home: https://dcos.io/
   github: https://github.com/dcos/dcos
@@ -294,6 +314,10 @@
   github: https://github.com/highcharts/highcharts
   blog: https://www.highcharts.com/blog/
   tags: Javascript, Chart
+- name: Hover.css
+  home: https://ianlunn.github.io/Hover/
+  github: https://github.com/IanLunn/Hover
+  tags: Animation
 - name: Hyper
   home: https://hyper.is/
   github: https://github.com/zeit/hyper
@@ -566,6 +590,11 @@
   home: https://purecss.io/
   github: https://github.com/pure-css/pure/
   tags: UI Framework
+- name: Pyramid
+  home: https://trypyramid.com/
+  github: https://github.com/Pylons/pyramid
+  twitter: https://twitter.com/PylonsProject
+  tags: Python, Web Framework
 - name: React
   home: https://reactjs.org/
   github: https://github.com/facebook/react
@@ -702,6 +731,10 @@
   twitter: https://twitter.com/getuikit
   gitter: https://gitter.im/uikit/uikit
   tags: UI Framework
+- name: Velocity
+  home: http://velocityjs.org/
+  github: https://github.com/julianshapiro/velocity
+  tags: Animation
 - name: Vibora
   home: https://vibora.io/
   github: https://github.com/vibora-io/vibora
