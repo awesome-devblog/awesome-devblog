@@ -1909,6 +1909,7 @@
   description: 디자인
   facebook: https://www.facebook.com/jaemin.bae
   linkedin: https://www.linkedin.com/in/jaemin-bae/
+  home: http://www.simple.pe.kr/
 - name: 배지원
   blog: https://medium.com/jiwon-bae
   rss: https://medium.com/feed/jiwon-bae
@@ -3258,6 +3259,11 @@
   linkedin: https://www.linkedin.com/in/sori-nori/
   twitter: https://twitter.com/sori9299
   instagram: https://www.instagram.com/sori9299/
+- name: 이영경
+  blog: http://app.majorika.net/
+  description: Idris
+  twitter: https://twitter.com/majorika
+  github: https://github.com/majorika
 - name: 이영민
   blog: https://brunch.co.kr/@mapthecity
   rss: https://brunch.co.kr/rss/@@275I
