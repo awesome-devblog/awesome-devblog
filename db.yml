@@ -4249,6 +4249,11 @@
   blog: https://alegruz.imweb.me/
   description: Python, 게임 개발, C
   facebook: https://www.facebook.com/minhaju.ju
+- name: 주승환
+  blog: https://jupiny.com/
+  rss: https://jupiny.com/rss/
+  description: Python
+  github: https://github.com/jupiny/
 - name: 주영익
   blog: http://haah.kr/
   rss: http://haah.kr/atom.xml
