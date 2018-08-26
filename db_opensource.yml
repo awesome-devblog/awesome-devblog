@@ -155,6 +155,13 @@
   gitter: https://gitter.im/denolife/Lobby
   npm: https://www.npmjs.com/package/deno
   tags: Javascript Runtime
+- name: Discourse
+  github: https://github.com/discourse/discourse
+  home: https://www.discourse.org/
+  forum: https://meta.discourse.org/
+  twitter: https://twitter.com/discourse
+  blog: https://blog.discourse.org/
+  tags: Forum
 - name: Django
   home: https://www.djangoproject.com/
   github: https://github.com/django/django
@@ -201,6 +208,9 @@
   twitter: https://twitter.com/geteslint
   gitter: https://gitter.im/eslint/eslint
   tags: Javascript, Lint
+- name: Exposed
+  github: https://github.com/JetBrains/Exposed
+  tags: Kotlin, SQL
 - name: Express
   home: http://expressjs.com/
   github: https://github.com/expressjs/express
@@ -388,6 +398,13 @@
   reddit: https://www.reddit.com/r/koajs/
   opencollective: https://opencollective.com/koajs
   tags: Javascript, Back-end Framework
+- name: Koin
+  github: https://github.com/InsertKoinIO/koin
+  home: https://insert-koin.io/
+  twitter: https://twitter.com/insertkoin_io
+  slack: https://kotlinlang.slack.com/
+  blog: https://medium.com/koin-developers
+  tags: Kotlin, Framework
 - name: Kotlin
   home: https://kotlinlang.org/
   github: https://github.com/JetBrains/kotlin
@@ -623,6 +640,8 @@
   twitter: https://twitter.com/PylonsProject
   tags: Python, Web Framework
 - name: PyTorch
+  github: https://github.com/pytorch/pytorch
+  home: https://pytorch.org/
   blogging: https://pytorch.org/blog/
   forum: https://discuss.pytorch.org/
   tags: Python, Machine Learning
