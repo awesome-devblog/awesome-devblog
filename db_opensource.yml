@@ -63,7 +63,7 @@
   tags: Python Web Framework
 - name: Bounce.js
   home: http://bouncejs.com/
-  github: https://github.com/tictail/bounce.js/
+  github: https://github.com/tictail/bounce.js
   tags: Animation
 - name: Brave
   home: https://brave.com/
@@ -275,6 +275,13 @@
   blog: https://blog.golang.org/
   twitter: https://twitter.com/golang
   tags: Programming Language
+- name: Godot
+  home: https://godotengine.org/
+  github: https://github.com/godotengine/godot
+  facebook: https://www.facebook.com/groups/godotengine/about/
+  twitter: https://twitter.com/godotengine
+  reddit: https://www.reddit.com/r/godot
+  tags: Go, Game Engine
 - name: Grafana
   home: https://grafana.com/
   github: https://github.com/grafana/grafana
@@ -374,6 +381,10 @@
   github: https://github.com/tipsy/javalin
   gitter: https://gitter.im/javalin-io/general
   tags: Java, Back-end Framework
+- name: Jekyll
+  home: https://jekyllrb.com/
+  github: https://github.com/jekyll/jekyll
+  tags: Ruby, Static Site Generator
 - name: jQuery
   home: https://jquery.com/
   github: https://github.com/jquery/jquery
@@ -572,6 +583,15 @@
   home: https://gym.openai.com/
   github: https://github.com/openai/gym
   tags: Machine Learning
+- name: OpenCV
+  home: https://opencv.org/
+  github: https://github.com/opencv/opencv
+  forum: http://answers.opencv.org
+  slack: https://open-cv.slack.com/
+  twitter: https://twitter.com/opencvlibrary
+  youtube: https://www.youtube.com/user/opencvdev
+  facebook: https://www.facebook.com/opencvlibrary
+  tags: C++, Computer Vision
 - name: OpenShot
   home: https://www.openshot.org/
   github: https://github.com/OpenShot/openshot-qt
@@ -632,7 +652,7 @@
   tags: Monitoring
 - name: Pure
   home: https://purecss.io/
-  github: https://github.com/pure-css/pure/
+  github: https://github.com/pure-css/pure
   tags: UI Framework
 - name: Pyramid
   home: https://trypyramid.com/
