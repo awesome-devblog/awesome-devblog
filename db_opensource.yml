@@ -126,6 +126,10 @@
   stackoverflow: https://stackoverflow.com/search?tab=newest&q=containerd
   youtube: https://www.youtube.com/results?search_query=containerd
   tags: DevOps, Container Runtime
+- name: Curl
+  home: https://curl.haxx.se/
+  github: https://github.com/curl/curl
+  tags: URL
 - name: D3
   home: https://d3js.org/
   github: https://github.com/d3/d3
@@ -432,6 +436,10 @@
   stackoverflow: https://stackoverflow.com/questions/tagged/kubernetes
   discourse: https://discuss.kubernetes.io/
   tags: DevOps, Container Orchestration
+- name: Libuv
+  home: http://libuv.org/
+  github: https://github.com/libuv/libuv
+  tags: C, Async I/O
 - name: Linkerd
   home: https://linkerd.io/
   github: https://github.com/linkerd/linkerd
@@ -554,6 +562,10 @@
   blog: https://blog.npmjs.org/
   twitter: https://twitter.com/npmjs
   tags: Javascript, Build Automation
+- name: Numpy
+  home: http://www.numpy.org/
+  github: https://github.com/numpy/numpy
+  tags: Python, Math
 - name: Nuxt.js
   home: https://nuxtjs.org/
   github: https://github.com/nuxt/nuxt.js
