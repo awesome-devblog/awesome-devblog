@@ -3919,6 +3919,12 @@
   description: Android
   facebook: https://www.facebook.com/steve.SU.J
   twitter: https://twitter.com/jsuch2362
+- name: 정용일
+  blog: http://yongil.net/
+  rss: http://yongil.net/feed
+  description: 게임 개발
+  github: https://github.com/yongillion
+  twitter: https://twitter.com/yongillion
 - name: 정욱재
   blog: https://jeongukjae.github.io/
   rss: https://jeongukjae.github.io/feed
