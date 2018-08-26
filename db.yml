@@ -1447,6 +1447,11 @@
   blog: http://dsmoon.tistory.com/
   rss: http://dsmoon.tistory.com/rss
   description: 머신러닝
+- name: 문승환
+  blog: http://shanemoon.com/
+  linkedin: https://www.linkedin.com/in/shmoon/
+  twitter: https://twitter.com/shane_moon
+  slideshare: https://www.slideshare.net/ShaneSeungwhanMoon
 - name: 문준영
   blog: https://brunch.co.kr/@moonjoonyoung
   rss: https://brunch.co.kr/atom/@@2o8u
@@ -2141,6 +2146,10 @@
   blog: https://brunch.co.kr/@minseungsong
   rss: https://brunch.co.kr/rss/@@SN6
   description: 실리콘밸리
+- name: 송범근
+  blog: https://brunch.co.kr/@bumgeunsong
+  rss: https://brunch.co.kr/rss/@@15UX
+  description: 블록체인
 - name: 송석호
   blog: https://devsdk.github.io/
   rss: https://devsdk.github.io/feed.xml
@@ -3352,8 +3361,10 @@
 - name: 이재홍
   blog: http://pyrasis.com/
   rss: http://feeds.feedburner.com/pyrasis?format=xml
-  description: Go
+  description: Go, Docker
   github: https://github.com/pyrasis
+  slideshare: https://www.slideshare.net/pyrasis
+  twitter: https://twitter.com/pyrasis
 - name: 이정근
   blog: http://blog.cjred.net/
   description: OpenShift
@@ -4116,6 +4127,7 @@
   rss: http://bcho.tistory.com/rss
   description: Java
   facebook: https://www.facebook.com/terry.cho.7
+  slideshare: https://www.slideshare.net/Byungwook
 - name: 조상현
   blog: https://brunch.co.kr/@aaa
   rss: https://brunch.co.kr/atom/@@CCX
