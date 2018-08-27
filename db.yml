@@ -2808,6 +2808,11 @@
   blog: https://brunch.co.kr/@yoojs8512
   rss: https://brunch.co.kr/rss/@@9TM
   description: IT 컬럼
+- name: 유재욱
+  blog: https://jaewook.blog/
+  rss: https://jaewook.blog/feed/
+  description: 도서 리뷰
+  github: https://github.com/potea
 - name: 유재준
   blog: http://jaejunyoo.blogspot.com
   rss: http://jaejunyoo.blogspot.com/feeds/posts/default
