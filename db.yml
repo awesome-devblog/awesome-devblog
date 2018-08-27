@@ -3256,6 +3256,11 @@
   description: Docker, Kubernetes, AWS
   github: https://github.com/asbubam
   facebook: https://www.facebook.com/asbubam
+- name: 이승욱
+  blog: https://seunguklee.github.io/
+  rss: https://seunguklee.github.io/atom.xml
+  github: https://github.com/seunguklee
+  description: PHP
 - name: 이승재
   blog: https://saystone.github.io/
   rss: https://saystone.github.io/atom.xml
