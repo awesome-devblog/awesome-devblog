@@ -4713,6 +4713,13 @@
   blog: http://www.sangkon.com/
   rss: http://www.sangkon.com/rss/
   description: Django
+- name: 한상구
+  blog: https://korean139.github.io/blog/
+  rss: https://korean139.github.io/blog/feed
+  description:
+  home: https://korean139.github.io/
+  instagram: https://www.instagram.com/ew_139/
+  github: https://github.com/KOREAN139
 - name: 한상훈
   blog: https://brunch.co.kr/@skykamja24
   rss: https://brunch.co.kr/rss/@@EMK
