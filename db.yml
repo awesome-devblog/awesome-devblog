@@ -962,8 +962,10 @@
   facebook: https://www.facebook.com/jongmin.kim.7796420
   github: https://github.com/jongmin92
 - name: 김종욱
-  blog: http://catlog.kr/
+  blog: https://jongwook.kim/
   description: ''
+  github: https://github.com/jongwook
+  linkedin: https://www.linkedin.com/in/jongwook-kim/
 - name: 김종인
   blog: http://zzong.net
   description: Java, Spring
