@@ -1715,6 +1715,13 @@
   rss: https://medium.com/feed/@mocona
   description: iOS
   facebook: https://www.facebook.com/abraham.park.923
+- name: 박종철
+  blog: https://jaypark.netlify.com/
+  description: React
+  linkedin: https://www.linkedin.com/in/jay-jongcheol-park/
+  twitter: https://twitter.com/JayPark_io
+  github: https://github.com/jayjongcheolpark
+  home: http://jaypark.io/
 - name: 박주형
   blog: https://medium.com/@majecty
   rss: https://medium.com/feed/@majecty
