@@ -798,6 +798,11 @@
   blog: http://haviyj.tistory.com/
   rss: http://haviyj.tistory.com/rss
   description: Spring Boot
+- name: 김영전
+  blog: https://qpfmtlcp.github.io
+  rss: https://qpfmtlcp.github.io/feed
+  description: ''
+  github: https://github.com/qpfmtlcp
 - name: 김영중
   blog: https://quarl894.github.io/
   rss: https://quarl894.github.io/atom.xml
