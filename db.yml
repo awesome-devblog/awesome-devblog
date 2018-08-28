@@ -786,11 +786,6 @@
   rss: http://keyassist.tistory.com/rss
   description: Data Science
   facebook: https://www.facebook.com/keyassist
-- name: 김용일
-  blog: http://app-developer.tistory.com
-  rss: http://app-developer.tistory.com/rss
-  description: iOS
-  github: https://github.com/Developer-Leby
 - name: 김영재
   blog: https://youngjaekim.wordpress.com/
   rss: https://youngjaekim.wordpress.com/feed/
@@ -803,6 +798,11 @@
   blog: http://haviyj.tistory.com/
   rss: http://haviyj.tistory.com/rss
   description: Spring Boot
+- name: 김영전
+  blog: https://qpfmtlcp.github.io
+  rss: https://qpfmtlcp.github.io/feed
+  description: ''
+  github: https://github.com/qpfmtlcp
 - name: 김영중
   blog: https://quarl894.github.io/
   rss: https://quarl894.github.io/atom.xml
@@ -830,6 +830,11 @@
   blog: http://moogi.new21.org/
   rss: http://moogi.new21.org/tc/rss
   description: 한글 언어, C++
+- name: 김용일
+  blog: http://app-developer.tistory.com
+  rss: http://app-developer.tistory.com/rss
+  description: iOS
+  github: https://github.com/Developer-Leby
 - name: 김용준
   blog: https://kimkevin.net/
   rss: https://blog.kimkevin.net/feed/
@@ -837,11 +842,6 @@
   linkedin: https://www.linkedin.com/in/imkimkevin/
   github: https://github.com/kimkevin
   facebook: https://www.facebook.com/imkimkevin
-- name: 김용환
-  blog: http://knight76.tistory.com/
-  rss: http://knight76.tistory.com/rss
-  description: ''
-  slideshare: https://www.slideshare.net/knight1128
 - name: 김용현
   blog: http://blog.naver.com/drvoss
   rss: http://blog.rss.naver.com/drvoss.xml
@@ -850,6 +850,11 @@
   blog: https://medium.com/@kimyh1981
   rss: https://medium.com/feed/@kimyh1981
   description: Swift
+- name: 김용환
+  blog: http://knight76.tistory.com/
+  rss: http://knight76.tistory.com/rss
+  description: ''
+  slideshare: https://www.slideshare.net/knight1128
 - name: 김용휘
   blog: https://ggoals.github.io/
   rss: https://ggoals.github.io/feed
