@@ -126,6 +126,13 @@
   stackoverflow: https://stackoverflow.com/search?tab=newest&q=containerd
   youtube: https://www.youtube.com/results?search_query=containerd
   tags: DevOps, Container Runtime
+- name: Crystal
+  home: https://crystal-lang.org/
+  github: https://github.com/crystal-lang/crystal
+  gitter: https://gitter.im/crystal-lang/crystal
+  stackoverflow: https://stackoverflow.com/questions/tagged/crystal-lang
+  blog: https://crystal-lang.org/blog/
+  tags: Programming Language
 - name: Curl
   home: https://curl.haxx.se/
   github: https://github.com/curl/curl
@@ -389,6 +396,14 @@
   home: https://jekyllrb.com/
   github: https://github.com/jekyll/jekyll
   tags: Ruby, Static Site Generator
+- name: Julia
+  home: https://julialang.org/
+  github: https://github.com/JuliaLang/julia
+  blog: https://julialang.org/blog/
+  forum: https://discourse.julialang.org/
+  youtube: https://www.youtube.com/user/JuliaLanguage
+  slack: https://julialang.slack.com/
+  tags: Programming Language
 - name: jQuery
   home: https://jquery.com/
   github: https://github.com/jquery/jquery
