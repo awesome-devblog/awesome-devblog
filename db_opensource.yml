@@ -40,7 +40,7 @@
   home: https://atom.io/
   github: https://github.com/atom/atom
   blog: http://blog.atom.io/
-  tags: Integrated Development Environment
+  tags: Text Editor
 - name: Babel
   home: https://babeljs.io/
   github: https://github.com/babel/babel
@@ -455,6 +455,11 @@
   home: http://libuv.org/
   github: https://github.com/libuv/libuv
   tags: C, Async I/O
+- name: LightTable
+  home: http://lighttable.com/
+  github: https://github.com/LightTable/LightTable
+  forum: https://groups.google.com/forum/#!forum/light-table-discussion
+  tags: Text Editor
 - name: Linkerd
   home: https://linkerd.io/
   github: https://github.com/linkerd/linkerd
@@ -493,6 +498,10 @@
   slack: https://mesosphere.slack.com/
   jira: https://jira.mesosphere.com
   tags: DevOps, Container Orchestration
+- name: Marko
+  home: https://markojs.com/
+  github: https://github.com/marko-js/marko
+  tags: Javascript, Front-end Framework
 - name: Materialize
   home: https://materializecss.com/
   github: https://github.com/Dogfalo/materialize
@@ -848,7 +857,7 @@
   github: https://github.com/Microsoft/vscode
   blog: https://code.visualstudio.com/blogs/
   youtube: https://www.youtube.com/channel/UCs5Y5_7XK8HLDX0SLNwkd3w
-  tags: Integrated Development Environment
+  tags: Text Editor
 - name: Vue
   home: https://vuejs.org/
   github: https://github.com/vuejs/vue
