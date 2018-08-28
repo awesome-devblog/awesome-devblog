@@ -47,7 +47,7 @@
   blog: https://babeljs.io/blog
   twitter: https://twitter.com/babeljs
   slack: https://babeljs.slack.com/
-  tags: Javascript, Compile
+  tags: Javascript, Tool
 - name: Bootstrap
   home: https://getbootstrap.com/
   github: https://github.com/twbs/bootstrap
@@ -236,7 +236,7 @@
   github: https://github.com/pallets/flask
   pypi: https://pypi.org/project/Flask/
   travisci: https://travis-ci.org/pallets/flask
-  tags: Python, Back-end Framework
+  tags: Python, Web Framework
 - name: Flipper
   home: https://fbflipper.com/
   github: https://github.com/facebook/flipper
@@ -312,7 +312,7 @@
   github: https://github.com/gulpjs/gulp
   twitter: https://twitter.com/gulpjs
   npm: https://www.npmjs.com/package/gulp
-  tags: Javascript, Build Automation
+  tags: Javascript, Tool
 - name: gRPC
   home: https://grpc.io/
   github: https://github.com/grpc/grpc
@@ -561,7 +561,7 @@
   github: https://github.com/npm/npm
   blog: https://blog.npmjs.org/
   twitter: https://twitter.com/npmjs
-  tags: Javascript, Build Automation
+  tags: Javascript, Tool
 - name: Numpy
   home: http://www.numpy.org/
   github: https://github.com/numpy/numpy
@@ -622,7 +622,7 @@
   github: https://github.com/parcel-bundler/parcel
   twitter: https://twitter.com/parceljs
   npm: https://www.npmjs.com/package/parcel-bundler
-  tags: Javascript, Build Automation
+  tags: Javascript, Tool
 - name: PollyJS
   home: https://netflix.github.io/pollyjs
   github: https://github.com/Netflix/pollyjs
@@ -731,7 +731,7 @@
 - name: Sanic
   home: https://sanic.readthedocs.io/
   github: https://github.com/channelcat/sanic
-  tags: Python, Back-end Framework
+  tags: Python, Web Framework
 - name: Semantic UI
   home: https://semantic-ui.com/
   github: https://github.com/Semantic-Org/Semantic-UI
@@ -806,7 +806,7 @@
   home: http://www.tornadoweb.org/
   github: https://github.com/tornadoweb/tornado
   stackoverflow: https://stackoverflow.com/questions/tagged/tornado
-  tags: Python, Back-end Framework
+  tags: Python, Web Framework
 - name: TypeScript
   home: https://www.typescriptlang.org/
   github: https://github.com/Microsoft/TypeScript
@@ -827,7 +827,7 @@
   home: https://vibora.io/
   github: https://github.com/vibora-io/vibora
   pypi: https://pypi.org/project/vibora/
-  tags: Python, Back-end Framework
+  tags: Python, Web Framework
 - name: VSCode
   home: https://code.visualstudio.com/
   github: https://github.com/Microsoft/vscode
@@ -845,14 +845,14 @@
   github: https://github.com/webpack/webpack
   medium: https://medium.com/webpack
   stackoverflow: https://stackoverflow.com/questions/tagged/webpack
-  tags: Javascript, Build Automation
+  tags: Javascript, Tool
 - name: Yarn
   home: https://yarnpkg.com/
   github: https://github.com/yarnpkg/yarn
   discord: https://discordapp.com/invite/yarnpkg
   facebook: https://www.facebook.com/yarnpkg
   twitter: https://twitter.com/yarnpkg
-  tags: Javascript, Build Automation
+  tags: Javascript, Tool
 - name: Zuul
   github: https://github.com/Netflix/zuul
   tags: DevOps, Proxy
