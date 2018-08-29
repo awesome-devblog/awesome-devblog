@@ -41,6 +41,10 @@
   github: https://github.com/atom/atom
   blog: http://blog.atom.io/
   tags: Text Editor
+- name: Auto Keras
+  home: https://autokeras.com/
+  github: https://github.com/jhfjhfj1/autokeras
+  tags: Machine Learning
 - name: Babel
   home: https://babeljs.io/
   github: https://github.com/babel/babel
@@ -48,6 +52,14 @@
   twitter: https://twitter.com/babeljs
   slack: https://babeljs.slack.com/
   tags: Javascript, Tool
+- name: Bazel
+  home: https://bazel.build/
+  github: https://github.com/bazelbuild/bazel
+  blog: https://blog.bazel.build/
+  twitter: https://twitter.com/bazelbuild
+  stackoverflow: https://stackoverflow.com/questions/tagged/bazel
+  forum: https://groups.google.com/forum/#!forum/bazel-discuss
+  tags: Java, Package Manager
 - name: Bootstrap
   home: https://getbootstrap.com/
   github: https://github.com/twbs/bootstrap
@@ -280,6 +292,11 @@
   forum: https://foundation.zurb.com/forum
   blog: https://zurb.com/blog
   tags: UI Framework
+- name: Glances
+  home: https://nicolargo.github.io/glances/
+  github: https://github.com/nicolargo/glances
+  gitter: https://gitter.im/nicolargo/glances
+  tags: Monitoring Tool
 - name: Go
   home: https://golang.org/
   github: https://github.com/golang/go
@@ -293,12 +310,20 @@
   twitter: https://twitter.com/godotengine
   reddit: https://www.reddit.com/r/godot
   tags: Go, Game Engine
+- name: Gradle
+  home: https://gradle.org/
+  github: https://github.com/gradle/gradle
+  tags: Java, Package Manager
 - name: Grafana
   home: https://grafana.com/
   github: https://github.com/grafana/grafana
   blog: https://grafana.com/blog/
   twitter: https://twitter.com/grafana
   tags: Monitoring
+- name: Grain
+  home: https://grain-lang.org/
+  github: https://github.com/grain-lang/grain
+  tags: Programming Language
 - name: GraphQL
   home: https://graphql.org/
   github: https://github.com/facebook/graphql
@@ -396,6 +421,10 @@
   home: https://jekyllrb.com/
   github: https://github.com/jekyll/jekyll
   tags: Ruby, Static Site Generator
+- name: Jib
+  github: https://github.com/GoogleContainerTools/jib
+  gitter: https://gitter.im/google/jib
+  tags: Java, Package Manager
 - name: Julia
   home: https://julialang.org/
   github: https://github.com/JuliaLang/julia
@@ -628,6 +657,9 @@
   youtube: https://www.youtube.com/user/opencvdev
   facebook: https://www.facebook.com/opencvlibrary
   tags: C++, Computer Vision
+- name: OpenPDF
+  github: https://github.com/LibrePDF/OpenPDF
+  tags: Java, PDF
 - name: OpenShot
   home: https://www.openshot.org/
   github: https://github.com/OpenShot/openshot-qt
@@ -636,6 +668,10 @@
   googleplus: https://plus.google.com/+OpenShotOrg
   youtube: https://www.youtube.com/user/JonOomph
   tags: Video Editor
+- name: OpenTSDB
+  home: http://opentsdb.net/
+  github: https://github.com/OpenTSDB/opentsdb
+  tags: Time Series Database
 - name: p5.js
   home: https://p5js.org/
   github: https://github.com/processing/p5.js
@@ -718,6 +754,11 @@
   home: http://recharts.org/
   github: https://github.com/recharts/recharts
   tags: Javascript, Chart
+- name: Retrofit
+  home: http://square.github.io/retrofit/
+  github: https://github.com/square/retrofit
+  stackoverflow: https://stackoverflow.com/questions/tagged/retrofit
+  tags: HTTP Client
 - name: Riot
   home: https://riot.js.org/
   github: https://github.com/riot/riot
@@ -818,6 +859,12 @@
   youtube: https://www.youtube.com/tensorflow
   twitter: https://twitter.com/tensorflow
   tags: Python, Machine Learning
+- name: ProseMirror
+  home: http://prosemirror.net/
+  github: https://github.com/ProseMirror/prosemirror
+  gitter: https://gitter.im/ProseMirror/prosemirror
+  forum: https://discuss.prosemirror.net/
+  tags: Javascript, Text editor
 - name: TensorFlow.js
   home: https://js.tensorflow.org/
   github: https://github.com/tensorflow/tfjs
@@ -826,6 +873,11 @@
   home: http://ui.toast.com/tui-editor/
   github: https://github.com/nhnent/tui.editor
   tags: Javascript, Editor
+- name: Tone.js
+  home: https://tonejs.github.io/
+  github: https://github.com/Tonejs/Tone.js/
+  forum: https://groups.google.com/forum/#!forum/tonejs
+  tags: Web Audio Framework
 - name: Tornado
   home: http://www.tornadoweb.org/
   github: https://github.com/tornadoweb/tornado
