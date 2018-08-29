@@ -1454,6 +1454,7 @@
   facebook: https://www.facebook.com/yunho0130
   github: https://github.com/yunho0130
   linkedin: https://www.linkedin.com/in/yunho0130/
+  slideshare: https://www.slideshare.net/YunhoMaeng
   home: https://maeng-dev.blog.me/
 - name: 모상우
   blog: https://brunch.co.kr/@aidenswmo
@@ -2779,7 +2780,9 @@
 - name: 유동환
   blog: https://brunch.co.kr/@yudong
   rss: https://brunch.co.kr/rss/@@6dD
-  description: ''
+  description: 도서 집필
+  slideshare: https://www.slideshare.net/koreacio
+  linkedin: https://www.linkedin.com/in/donghwan-yu-0140b597/
 - name: 유병후
   blog: https://libsora.so/
   rss: https://libsora.so/index.xml
@@ -2972,6 +2975,7 @@
   facebook: https://www.facebook.com/gyuwon.yi
   github: https://github.com/gyuwon
   linkedin: https://www.linkedin.com/in/gyuwonyi/
+  slideshare: https://www.slideshare.net/gyuwonyi
 - name: 이규혁
   blog: http://kyuhyuk.kr/
   rss: http://kyuhyuk.kr/feed.xml
@@ -4473,11 +4477,14 @@
   twitch: https://www.twitch.tv/cks3443
   udemy: https://www.udemy.com/user/552ef145c589c
 - name: 최규우
-  blog: https://medium.com/@kyuwoo.choi
-  rss: https://medium.com/feed/@kyuwoo.choi
+  blog: https://kyu.io/ko/
+  rss: https://kyu.io/ko/feed/
   description: Front-end
+  facebook: https://www.facebook.com/KyuWooChoi
   twitter: https://twitter.com/kyuwoo_choi
   github: https://github.com/kyuwoo-choi
+  linkedin: https://www.linkedin.com/in/kyuwoo-choi/
+  medium: https://medium.com/@kyuwoo.choi
 - name: 최근우
   blog: https://keunwoochoi.wordpress.com/
   rss: https://keunwoochoi.wordpress.com/feed/
@@ -4728,6 +4735,13 @@
   description: 칼럼
   twitter: https://twitter.com/mimul
   facebook: https://www.facebook.com/mimuls
+- name: 한동호
+  blog: https://futurecreator.github.io/
+  rss: https://futurecreator.github.io/feed.xml
+  description: Java
+  twitter: https://twitter.com/hdhXD
+  linkedin: https://www.linkedin.com/in/dongho-han-97465327/
+  medium: https://medium.com/@fcreator
 - name: 한민석
   blog: http://creativeprm.tistory.com/
   rss: http://creativeprm.tistory.com/rss
