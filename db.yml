@@ -3998,6 +3998,11 @@
   linkedin: https://www.linkedin.com/in/sanghyukjung/
   twitter: https://twitter.com/sanghyukjung
   home: http://www.benelog.net/
+- name: 정서영
+  blog: https://rhostem.github.io/
+  rss: https://rhostem.github.io/rss.xml
+  description: Front-end
+  github: https://github.com/rhostem
 - name: 정성엽
   blog: https://ubitoffee.github.io/blog/
   rss: https://ubitoffee.github.io/atom.xml
