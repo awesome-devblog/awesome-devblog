@@ -1642,6 +1642,13 @@
   rss: https://helloworldpark.github.io/feed.xml
   description: Graphics
   github: https://github.com/helloworldpark
+- name: 박세준
+  blog: https://www.bpak.org/blog/
+  rss: https://www.bpak.org/blog/feed/
+  description: 해킹
+  facebook: https://www.facebook.com/brianairb
+  twitter: https://twitter.com/brian_pak
+  linkedin: https://www.linkedin.com/in/brianairb/
 - name: 박승호
   blog: https://devwaf.blogspot.kr/
   rss: https://devwaf.blogspot.com/feeds/posts/default
@@ -3656,6 +3663,10 @@
   blog: https://brunch.co.kr/@sunghyunlim
   rss: https://brunch.co.kr/rss/@@wRr
   description: ''
+- name: 임성훈
+  blog: https://wariua.github.io/
+  description: 네트워크
+  github: https://github.com/wariua
 - name: 임정택
   blog: http://medium.com/@heartsavior
   rss: https://medium.com/feed/@heartsavior
@@ -5071,3 +5082,4 @@
   twitter: https://twitter.com/devkimchi
   github: https://github.com/devkimchi
   facebook: https://www.facebook.com/devkimchi
+
