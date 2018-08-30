@@ -1997,6 +1997,8 @@
   blog: https://brunch.co.kr/@cleancode
   rss: https://brunch.co.kr/rss/@@2xm
   description: Java, OOP
+  linkedin: https://www.linkedin.com/in/myeongseok-baek-b9b1591b/
+  slideshare: https://www.slideshare.net/codetemplate
 - name: 백영진
   blog: http://koreaceladon.tistory.com/
   rss: http://koreaceladon.tistory.com/rss
@@ -2323,6 +2325,10 @@
   blog: http://www.talk-with-hani.com/
   description: ''
   facebook: https://www.facebook.com/talkwithhani
+- name: 심영재
+  github: https://github.com/Hanul
+  facebook: https://www.facebook.com/mr.hanul
+  home: https://hanul.github.io/
 - name: 신영진
   blog: http://www.jiniya.net/
   rss: http://feeds.feedburner.com/codewiz
@@ -3199,6 +3205,10 @@
   rss: http://sanghaklee.tistory.com/rss
   description: Back-end, Node.js, JavaScript, Cloud Computing
   github: https://github.com/sanghaklee
+- name: 이상훈
+  blog: http://sanghun.io/
+  github: https://github.com/dsa28s
+  rocketpunch: https://www.rocketpunch.com/@433699a35bc14099
 - name: 이상희
   blog: http://schoolofweb.net/blog/
   description: Python, Django
@@ -4939,6 +4949,10 @@
   linkedin: https://www.linkedin.com/in/soomong/
   github: https://github.com/soomong
   slideshare: https://www.slideshare.net/soomong
+- name: 현유지
+  blog: https://brunch.co.kr/@gdw0809
+  rss: https://brunch.co.kr/atom/@@2oj7
+  description: 디자인
 - name: 현준호
   blog: https://jhyun.wordpress.com/
   rss: https://jhyun.wordpress.com/feed/
