@@ -562,6 +562,11 @@
 - name: 김명준
   blog: http://html5lab.kr/
   description: 프론트엔드
+- name: 김민규
+  blog: https://pkgonan.github.io/
+  rss: https://pkgonan.github.io/feed
+  description: Spring
+  github: https://github.com/pkgonan
 - name: 김민근
   blog: http://mingeun.com/
   rss: http://mingeun.com/feed
