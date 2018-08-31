@@ -52,6 +52,9 @@
   twitter: https://twitter.com/babeljs
   slack: https://babeljs.slack.com/
   tags: Javascript, Tool
+- name: Bat
+  github: https://github.com/sharkdp/bat
+  tags: CLI
 - name: Bazel
   home: https://bazel.build/
   github: https://github.com/bazelbuild/bazel
@@ -112,6 +115,11 @@
   home: https://gionkunz.github.io/chartist-js/
   github: https://github.com/gionkunz/chartist-js
   tags: Javascript, Chart
+- name: Chef
+  home: https://www.chef.io/
+  github: https://github.com/chef/chef
+  slack: https://community-slack.chef.io/
+  tags: DevOps
 - name: CherryPy
   home: https://cherrypy.org/
   github: https://github.com/cherrypy/cherrypy
@@ -865,6 +873,10 @@
   gitter: https://gitter.im/ProseMirror/prosemirror
   forum: https://discuss.prosemirror.net/
   tags: Javascript, Text editor
+- name: Puppet
+  home: https://puppet.com/
+  github: https://github.com/puppetlabs/puppet
+  tags: DevOps
 - name: TensorFlow.js
   home: https://js.tensorflow.org/
   github: https://github.com/tensorflow/tfjs
@@ -895,6 +907,11 @@
   twitter: https://twitter.com/getuikit
   gitter: https://gitter.im/uikit/uikit
   tags: UI Framework
+- name: Vagrant
+  home: https://www.vagrantup.com/
+  github: https://github.com/hashicorp/vagrant
+  forum: https://groups.google.com/forum/#!forum/vagrant-up
+  tags: DevOps
 - name: Velocity
   home: http://velocityjs.org/
   github: https://github.com/julianshapiro/velocity

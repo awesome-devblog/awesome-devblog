@@ -856,3 +856,18 @@
   facebook: https://www.facebook.com/bsidesoft/
   blog: http://www.bsidesoft.com/
   rss: https://www.bsidesoft.com/?feed=rss2
+- name: Aliencube
+  blog: https://aliencube.org/
+  rss: https://aliencube.org/feed/
+  facebook: https://www.facebook.com/aliencube.community
+  twitter: https://twitter.com/aliencubeorg
+- name: 한국트렌드마이크로
+  blog: http://www.trendmicro.co.kr/kr/blog/
+  facebook: https://www.facebook.com/TrendMicroKR
+  home: http://www.trendmicro.co.kr/
+- name: 박스앤위스커
+  blog: http://boxnwhis.kr/
+  facebook: https://www.facebook.com/boxnwhis.kr
+  twitter: https://twitter.com/boxnwhiskr
+  linkedin: https://www.linkedin.com/company/box-and-whisker/
+  github: https://github.com/box-and-whisker
