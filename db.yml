@@ -4090,9 +4090,9 @@
   description: IOS
   github: https://github.com/youknowone/
 - name: 정윤진
-  blog: http://kerberosj.tistory.com/
-  rss: http://kerberosj.tistory.com/rss
+  blog: http://blog.younjinjeong.io/
   description: Cloud
+  tistory: http://kerberosj.tistory.com/
 - name: 정재광
   blog: https://jae-kwang.github.io/blog/
   rss: https://jae-kwang.github.io/blog/atom.xml
