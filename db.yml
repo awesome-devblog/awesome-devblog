@@ -3910,6 +3910,11 @@
   description: 기술 동향
   facebook: https://www.facebook.com/1biit
   github: https://github.com/hollobit
+- name: 전지윤
+  blog: http://frogand.tistory.com/
+  rss: http://frogand.tistory.com/rss
+  description: Git
+  github: https://github.com/jeon9825
 - name: 전창완
   blog: http://wani.kr/
   rss: http://wani.kr/feed
