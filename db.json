@@ -3742,10 +3742,13 @@
     "description": "Node.js"
   },
   {
-    "name": "채윤창",
+    "name": "채문창",
     "blog": "http://mcchae.egloos.com/",
     "rss": "http://rss.egloos.com/blog/mcchae",
-    "description": "Python"
+    "description": "Python, 개발관련물건, 오래된 개발내용"
+    "facebook": "https://www.facebook.com/mcchae"
+    "github": "https://github.com/mcchae",
+    "linkedin": "https://www.linkedin.com/in/mcchae/",
   },
   {
     "name": "최광민",
