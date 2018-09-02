@@ -130,6 +130,13 @@
   blog: http://nighthacks.com/roller/jag/
   rss: http://feeds.feedburner.com/nighthacks/feed
   description: Java 창시자
+- name: Jason Wilder
+  blog: http://jasonwilder.com/
+  rss: http://jasonwilder.com/index.xml
+  description: Principal Software Engineer at Microsoft
+  linkedin: https://www.linkedin.com/in/jason-wilder-94549/
+  twitter: https://twitter.com/jaswilder
+  github: https://github.com/jwilder
 - name: Jeff Atwood
   blog: http://blog.codinghorror.com/
   rss: http://feeds.feedburner.com/codinghorror/
@@ -186,6 +193,11 @@
 - name: Linus Torvalds
   blog: https://plus.google.com/+LinusTorvalds
   description: Linux 창시자
+- name: Mārcis Bergmanis
+  blog: https://medium.com/@marcisbee
+  rss: https://medium.com/feed/@marcisbee
+  twitter: https://twitter.com/marcisbee
+  description: Radi.js 제작자
 - name: Marius Schulz
   blog: https://blog.mariusschulz.com/
   rss: http://feeds.feedburner.com/mariusschulz
@@ -251,6 +263,11 @@
   blog: https://medium.com/@springrod
   rss: https://medium.com/feed/@springrod
   description: Spring 창시자
+- name: Roman Elizarov
+  blog: https://medium.com/@elizarov
+  rss: https://medium.com/feed/@elizarov
+  description: Team Lead for Kotlin libraries at JetBrains
+  twitter: https://twitter.com/relizarov
 - name: Sacha Greif
   blog: https://medium.com/@sachagreif
   rss: https://medium.com/feed/@sachagreif

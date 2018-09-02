@@ -11,6 +11,7 @@
   blog: https://blog.angular.io
   gitter: https://gitter.im/angular/angular
   stackoverflow: https://stackoverflow.com/questions/tagged/angular
+  quora: https://www.quora.com/topic/AngularJS
   tags: Javascript, Front-end Framework
 - name: Animate.css
   home: https://daneden.github.io/animate.css/
@@ -52,6 +53,12 @@
   twitter: https://twitter.com/babeljs
   slack: https://babeljs.slack.com/
   tags: Javascript, Tool
+- name: Barrier
+  github: https://github.com/debauchee/barrier
+  tags: KVM
+- name: Bat
+  github: https://github.com/sharkdp/bat
+  tags: CLI
 - name: Bazel
   home: https://bazel.build/
   github: https://github.com/bazelbuild/bazel
@@ -104,6 +111,12 @@
   home: https://caffe2.ai/
   github: https://github.com/caffe2/caffe2
   tags: Machine Learning
+- name: Cassandra
+  home: http://cassandra.apache.org/
+  blog: http://cassandra.apache.org/blog/
+  twitter: https://twitter.com/cassandra
+  stackoverflow: https://stackoverflow.com/questions/tagged/cassandra
+  tags: Database
 - name: Chart.js
   home: https://www.chartjs.org/
   github: https://github.com/chartjs/Chart.js
@@ -112,6 +125,11 @@
   home: https://gionkunz.github.io/chartist-js/
   github: https://github.com/gionkunz/chartist-js
   tags: Javascript, Chart
+- name: Chef
+  home: https://www.chef.io/
+  github: https://github.com/chef/chef
+  slack: https://community-slack.chef.io/
+  tags: DevOps
 - name: CherryPy
   home: https://cherrypy.org/
   github: https://github.com/cherrypy/cherrypy
@@ -123,6 +141,9 @@
   gitter: https://gitter.im/Microsoft/CNTK
   blog: https://www.microsoft.com/en-us/cognitive-toolkit/blog/
   tags: Machine Learning
+- name: colorls
+  github: https://github.com/athityakumar/colorls
+  tags: CLI, ls
 - name: Consul
   home: https://www.consul.io/
   github: https://github.com/hashicorp/consul
@@ -138,6 +159,12 @@
   stackoverflow: https://stackoverflow.com/search?tab=newest&q=containerd
   youtube: https://www.youtube.com/results?search_query=containerd
   tags: DevOps, Container Runtime
+- name: CouchDB
+  home: https://couchdb.apache.org/
+  github: https://github.com/apache/couchdb
+  twitter: https://twitter.com/couchdb
+  dockerhub: https://hub.docker.com/_/couchdb/
+  tags: Database
 - name: Crystal
   home: https://crystal-lang.org/
   github: https://github.com/crystal-lang/crystal
@@ -231,6 +258,11 @@
   twitter: https://twitter.com/geteslint
   gitter: https://gitter.im/eslint/eslint
   tags: Javascript, Lint
+- name: ExoPlayer
+  home: https://google.github.io/ExoPlayer/
+  github: https://github.com/google/ExoPlayer
+  blog: https://medium.com/google-exoplayer
+  tags: Android, Media Player
 - name: Exposed
   github: https://github.com/JetBrains/Exposed
   tags: Kotlin, SQL
@@ -240,6 +272,7 @@
   npm: https://www.npmjs.com/package/express
   gitter: https://gitter.im/expressjs/express
   googlegroups: https://groups.google.com/group/express-js
+  quora: https://www.quora.com/topic/Express-Node-js-web-framework
   tags: Javascript, Back-end Framework
 - name: Feathers
   home: https://feathersjs.com/
@@ -292,6 +325,10 @@
   forum: https://foundation.zurb.com/forum
   blog: https://zurb.com/blog
   tags: UI Framework
+- name: Fresco
+  home: http://frescolib.org/
+  github: https://github.com/facebook/fresco
+  tags: Android, Image
 - name: Glances
   home: https://nicolargo.github.io/glances/
   github: https://github.com/nicolargo/glances
@@ -332,6 +369,9 @@
   facebook: https://www.facebook.com/groups/graphql.community/
   stackoverflow: https://stackoverflow.com/questions/tagged/graphql
   tags: Domain Specific Language
+- name: graphqurl
+  github: https://github.com/hasura/graphqurl
+  tags: CLI, GraphQL
 - name: Grunt
   home: https://gruntjs.com/
   github: https://github.com/gruntjs/grunt
@@ -378,6 +418,7 @@
   home: https://hapijs.com/
   github: https://github.com/hapijs/hapi
   twitter: https://twitter.com/hapijs
+  quora: https://www.quora.com/topic/Hapi-Node-js-API-Framework
   tags: Javascript, Back-end Framework
 - name: HAProxy
   home: http://www.haproxy.org/
@@ -411,7 +452,13 @@
   github: https://github.com/influxdata/influxdb
   twitter: https://twitter.com/influxdb
   facebook: https://www.facebook.com/influxdb
-  tags: Time Series Database
+  tags: Database
+- name: iTerm2
+  home: https://iterm2.com/
+  github: https://github.com/gnachman/iTerm2
+  forum: https://groups.google.com/group/iterm2-discuss
+  quora: https://www.quora.com/topic/iTerm2
+  tags: Terminal
 - name: Javalin
   home: https://javalin.io/
   github: https://github.com/tipsy/javalin
@@ -433,6 +480,11 @@
   youtube: https://www.youtube.com/user/JuliaLanguage
   slack: https://julialang.slack.com/
   tags: Programming Language
+- name: jq
+  home: https://stedolan.github.io/jq/
+  github: https://github.com/stedolan/jq
+  stackoverflow: https://stackoverflow.com/questions/tagged/jq
+  tags: CLI, JSON
 - name: jQuery
   home: https://jquery.com/
   github: https://github.com/jquery/jquery
@@ -456,6 +508,7 @@
   gitter: https://gitter.im/koajs/koa
   reddit: https://www.reddit.com/r/koajs/
   opencollective: https://opencollective.com/koajs
+  quora: https://www.quora.com/topic/Koa-Node-js-framework
   tags: Javascript, Back-end Framework
 - name: Koin
   github: https://github.com/InsertKoinIO/koin
@@ -527,6 +580,12 @@
   slack: https://mesosphere.slack.com/
   jira: https://jira.mesosphere.com
   tags: DevOps, Container Orchestration
+- name: MariaDB
+  home: https://mariadb.org/
+  github: https://github.com/MariaDB/server
+  twitter: https://twitter.com/mariadbfdn
+  blog: https://mariadb.org/blog/
+  tags: Database
 - name: Marko
   home: https://markojs.com/
   github: https://github.com/marko-js/marko
@@ -578,6 +637,15 @@
   github: https://github.com/Microsoft/monaco-editor
   npm: https://www.npmjs.com/package/monaco-editor
   tags: Code Editor
+- name: MongoDB
+  home: https://www.mongodb.com/
+  github: https://github.com/mongodb/mongo
+  facebook: https://www.facebook.com/MongoDB/
+  youtube: https://www.youtube.com/user/mongodb
+  twitter: https://twitter.com/mongodb
+  linkedin: https://www.linkedin.com/company/mongodbinc
+  stackoverflow: https://stackoverflow.com/tags/mongodb
+  tags: Database
 - name: Mono
   home: https://www.mono-project.com/
   github: https://github.com/mono/mono
@@ -588,6 +656,15 @@
   github: https://github.com/apache/incubator-mxnet
   forum: https://discuss.mxnet.io/
   tags: Machine Learning
+- name: Mysql
+  home: https://www.mysql.com/
+  github: https://github.com/mysql/mysql-server
+  facebook: https://www.facebook.com/mysql
+  twitter: https://twitter.com/mysql
+  linkedin: https://www.linkedin.com/company/mysql/
+  youtube: https://www.youtube.com/user/MySQLChannel
+  googleplus: https://plus.google.com/+mysql
+  tags: Database
 - name: Neofetch
   github: https://github.com/dylanaraps/neofetch
   tags: Monitoring
@@ -608,6 +685,7 @@
   linkedin: https://www.linkedin.com/company/node.js-foundation/
   youtube: https://www.youtube.com/channel/UCQPYJluYC_sn_Qz_XE-YbTQ
   medium: https://medium.com/@nodejs
+  quora: https://www.quora.com/topic/Node-js
   tags: Javascript Runtime
 - name: NPM
   home: https://www.npmjs.com/
@@ -671,7 +749,7 @@
 - name: OpenTSDB
   home: http://opentsdb.net/
   github: https://github.com/OpenTSDB/opentsdb
-  tags: Time Series Database
+  tags: Database
 - name: p5.js
   home: https://p5js.org/
   github: https://github.com/processing/p5.js
@@ -696,6 +774,17 @@
   stackoverflow: https://stackoverflow.com/tags/polymer
   googleplus: https://plus.google.com/+PolymerProject
   tags: Javascript, Front-end Framework
+- name: PostgreSQL
+  home: https://www.postgresql.org/
+  github: https://github.com/postgres/postgres
+  twitter: https://twitter.com/postgresql
+  tags: Database
+- name: PouchDB
+  home: https://pouchdb.com/
+  github: https://github.com/pouchdb/pouchdb
+  twitter: https://twitter.com/pouchdb
+  stackoverflow: https://stackoverflow.com/questions/tagged/pouchdb
+  tags: Database
 - name: Preact
   home: https://preactjs.com/
   github: https://github.com/developit/preact
@@ -726,6 +815,10 @@
   home: https://purecss.io/
   github: https://github.com/pure-css/pure
   tags: UI Framework
+- name: PyPy.js
+  home: http://pypyjs.org/
+  github: https://github.com/pypyjs/pypyjs
+  tags: Javascript, Compiler
 - name: Pyramid
   home: https://trypyramid.com/
   github: https://github.com/Pylons/pyramid
@@ -743,12 +836,14 @@
   blog: https://reactjs.org/blog/
   facebook: https://www.facebook.com/react
   twitter: https://twitter.com/reactjs
+  quora: https://www.quora.com/topic/React-JavaScript-library
   tags: Javascript, Front-end Framework
 - name: React Native
   home: https://facebook.github.io/react-native/
   github: https://github.com/facebook/react-native
   blog: http://facebook.github.io/react-native/blog/
   twitter: https://twitter.com/reactnative
+  quora: https://www.quora.com/topic/React-Native-1
   tags: Mobile, Application Framework
 - name: Recharts
   home: http://recharts.org/
@@ -787,11 +882,12 @@
 - name: RxJava
   github: https://github.com/ReactiveX/RxJava
   tags: Java, Core Library
-- name: Snails
+- name: Sails
   home: https://sailsjs.com/
   github: https://github.com/balderdashy/sails
   gitter: https://gitter.im/balderdashy/sails
   twitter: https://twitter.com/sailsjs
+  quora: https://www.quora.com/topic/SailsJS
   tags: Javascript, Back-end Framework
 - name: Sanic
   home: https://sanic.readthedocs.io/
@@ -865,6 +961,17 @@
   gitter: https://gitter.im/ProseMirror/prosemirror
   forum: https://discuss.prosemirror.net/
   tags: Javascript, Text editor
+- name: Puppet
+  home: https://puppet.com/
+  github: https://github.com/puppetlabs/puppet
+  tags: DevOps
+- name: Redis
+  home: https://redis.io/
+  github: https://github.com/antirez/redis/
+  stackoverflow: https://stackoverflow.com/questions/tagged/redis
+  twitter: https://twitter.com/redisfeed
+  reddit: https://www.reddit.com/r/redis/
+  tags: Database
 - name: TensorFlow.js
   home: https://js.tensorflow.org/
   github: https://github.com/tensorflow/tfjs
@@ -895,6 +1002,11 @@
   twitter: https://twitter.com/getuikit
   gitter: https://gitter.im/uikit/uikit
   tags: UI Framework
+- name: Vagrant
+  home: https://www.vagrantup.com/
+  github: https://github.com/hashicorp/vagrant
+  forum: https://groups.google.com/forum/#!forum/vagrant-up
+  tags: DevOps
 - name: Velocity
   home: http://velocityjs.org/
   github: https://github.com/julianshapiro/velocity
@@ -915,6 +1027,7 @@
   github: https://github.com/vuejs/vue
   twitter: https://twitter.com/vuejs
   medium: https://medium.com/the-vue-point
+  quora: https://www.quora.com/topic/Vue-js
   tags: Javascript, Front-end Framework
 - name: webpack
   home: https://webpack.js.org/
