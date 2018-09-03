@@ -1027,6 +1027,11 @@
   rss: https://medium.com/feed/@ghilbut
   description: ''
   facebook: https://www.facebook.com/ghilbut
+- name: 김준호
+  facebook: https://www.facebook.com/taki0112
+  github: https://github.com/taki0112
+  linkedin: https://www.linkedin.com/in/taki0112/
+  home: https://www.cakeresume.com/jhkim.ai
 - name: 김준환
   blog: http://topnanis.tistory.com/
   rss: http://topnanis.tistory.com/rss
@@ -1580,6 +1585,7 @@
   blog: http://gun0912.tistory.com/
   rss: http://gun0912.tistory.com/rss
   description: Android
+  medium: https://medium.com/@gun0912
 - name: 박상근
   blog: http://parksk.tistory.com/
   rss: http://parksk.tistory.com/rss
