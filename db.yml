@@ -3334,6 +3334,13 @@
   facebook: https://www.facebook.com/saystone
   twitter: https://twitter.com/saystone
   github: https://github.com/saystone
+- name: 이승재
+  blog: https://www.endtoend.ai/
+  rss: https://www.endtoend.ai/feed.xml
+  description: AI
+  github: https://github.com/seungjaeryanlee
+  linkedin: https://www.linkedin.com/in/seungjaeryanlee/
+  twitter: https://twitter.com/seungjaeryanlee
 - name: 이승현
   blog: http://hamait.tistory.com/
   rss: http://hamait.tistory.com/rss
