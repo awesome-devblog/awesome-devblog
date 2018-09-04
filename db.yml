@@ -42,6 +42,8 @@
   facebook: https://www.facebook.com/minieetea
   twitter: https://twitter.com/minieetea
   github: https://github.com/minieetea
+- name: 강민우
+  slideshare: https://www.slideshare.net/ssuser052dd11
 - name: 강병수
   blog: https://01010011.blog/
   rss: https://01010011.blog/feed/
@@ -127,6 +129,10 @@
   rss: https://wckhg89.github.io/feed.xml
   description: Web
   github: https://github.com/wckhg89
+- name: 강효준
+  facebook: http://facebook.com/kanghyojun
+  linkedin: https://www.linkedin.com/in/kanghyojun/
+  slideshare: https://www.slideshare.net/kanghyojun
 - name: 경준호
   blog: http://firejune.com/
   rss: https://feeds.feedburner.com/firejune
@@ -192,7 +198,7 @@
 - name: 곽민수
   blog: https://brunch.co.kr/@imagineer
   rss: https://brunch.co.kr/rss/@@YZF
-  description: '싱가폴 데이터 엔지니어'
+  description: 싱가폴 데이터 엔지니어
   facebook: https://www.facebook.com/marcosdeseul/
   github: https://github.com/marcosdeseul
   linkedin: https://www.linkedin.com/in/minsoo-kwak-44367388/
@@ -216,6 +222,11 @@
   twitter: https://twitter.com/kjunine
   linkedin: https://www.linkedin.com/in/kjunine/
   github: https://github.com/kjunine
+- name: 구동수
+  linkedin: https://www.linkedin.com/in/ninedongsu/
+  slideshare: https://www.slideshare.net/ssuserdec263
+- name: 구영민
+  slideshare: https://www.slideshare.net/kym970918
 - name: 구자철
   blog: http://forest71.tistory.com/
   rss: http://forest71.tistory.com/rss
@@ -351,7 +362,7 @@
   rss: https://taetaetae.github.io/atom.xml
   description: Back-end
   facebook: https://www.facebook.com/taetaetae0
-  linkedin: https://www.linkedin.com/in/%ED%83%9C%EA%B4%80-%EA%B6%8C-517825129/
+  linkedin: https://www.linkedin.com/in/태관-권-517825129/
 - name: 권태국
   blog: https://taeguk2.blogspot.com/
   rss: https://taeguk2.blogspot.com/feeds/posts/default
@@ -401,6 +412,9 @@
   description: Python, Java
   github: https://github.com/Kyeongrok
   youtube: https://www.youtube.com/channel/UCG6V3hF7lN5veSLXWkcMG3g
+- name: 김광섭
+  linkedin: https://www.linkedin.com/in/kwangseob-kim-a2516541/
+  slideshare: https://www.slideshare.net/kimkwangseop
 - name: 김광현(광파리)
   blog: https://kwang82.blogspot.kr/
   rss: https://kwang82.blogspot.com/feeds/posts/default
@@ -484,6 +498,11 @@
   github: https://github.com/hatemogi
   twitter: https://twitter.com/hatemogi
   medium: https://medium.com/@hatemogi
+- name: 김대희
+  facebook: https://www.facebook.com/day.kim.7
+  github: https://github.com/zsaladin
+  linkedin: https://www.linkedin.com/in/daehee-kim/
+  slideshare: https://www.slideshare.net/daykim7
 - name: 김덕기
   blog: http://martian36.tistory.com/
   rss: http://martian36.tistory.com/rss
@@ -538,6 +557,11 @@
   blog: https://medium.com/@idus_devteam
   rss: https://medium.com/feed/@idus_devteam
   description: 백엔드
+- name: 김동현
+  facebook: https://www.facebook.com/digitalisx
+  github: https://github.com/Digitalisx
+  linkedin: https://www.linkedin.com/in/donghyun-kim-4a898012b/
+  slideshare: https://www.slideshare.net/ssuser5fc0a31
 - name: 김동환
   blog: https://wraithkim.wordpress.com/
   rss: https://wraithkim.wordpress.com/feed/
@@ -686,6 +710,10 @@
   blog: http://blog.naver.com/PostList.nhn?blogId=sckim007
   rss: http://blog.rss.naver.com/sckim007.xml
   description: ''
+- name: 김선태
+  facebook: https://www.facebook.com/oasisgarden
+  linkedin: https://www.linkedin.com/in/suntae/
+  slideshare: https://www.slideshare.net/SuntaeKim7
 - name: 김성렬
   blog: http://kimsoungryoul.tistory.com/
   rss: http://kimsoungryoul.tistory.com/rss
@@ -792,6 +820,16 @@
   blog: https://medium.com/@ksjksj0122
   rss: https://medium.com/feed/@ksjksj0122
   description: 블록체인
+- name: 김영근
+  blog: https://medium.com/@younggun
+  rss: https://medium.com/feed/@younggun
+  description: PyCon
+  github: https://github.com/scari
+  twitter: https://twitter.com/scari_net
+  facebook: https://www.facebook.com/scari.net
+  linkedin: https://www.linkedin.com/in/younggun-kim/
+  slideshare: https://www.slideshare.net/scarinet
+  home: http://younggun.kim/
 - name: 김영우
   blog: http://datajournal.kr/
   rss: http://datajournal.kr/feed/
@@ -917,10 +955,18 @@
   github: https://github.com/jaigouk
   linkedin: https://www.linkedin.com/in/jaigouk/
   twitter: https://twitter.com/jaigouk
+- name: 김재석
+  blog: https://jck.im/
+  github: https://github.com/jckdotim
 - name: 김재원
   blog: http://epiloum.net/
   rss: http://epiloum.net/feed
   description: Front-end
+- name: 김재윤
+  home: https://sites.google.com/view/suitbread
+  facebook: https://www.facebook.com/seriousbread
+  linkedin: https://www.linkedin.com/in/jaeyoon-kim-99533113a/
+  slideshare: https://www.slideshare.net/ssuser32e51e
 - name: 김재호
   blog: http://www.benjaminlog.com/
   rss: http://feeds.feedburner.com/crazytazo?format=xml
@@ -1011,6 +1057,12 @@
   description: Back-end
   facebook: https://www.facebook.com/seretude
   github: https://github.com/kimpaper
+- name: 김준기
+  blog: https://daybreaker.info/
+  github: https://github.com/achimnol
+  twitter: https://twitter.com/achimnol
+  speakerdeck: https://speakerdeck.com/achimnol
+  tistory: http://daybreaker.tistory.com/
 - name: 김준성
   blog: https://brunch.co.kr/@codertimo
   rss: https://brunch.co.kr/rss/@@Gyh
@@ -1382,6 +1434,9 @@
   aboutme: https://about.me/rkttu
   googleplus: https://plus.google.com/+%EB%82%A8%EC%A0%95%ED%98%84
   slideshare: https://www.slideshare.net/rkttu
+- name: 남형걸
+  linkedin: https://www.linkedin.com/in/형걸-남-7b937aa2/
+  slideshare: https://www.slideshare.net/ssuser6fe086
 - name: 남혜연
   blog: https://byline.network/author/smilla/
   description: IT 뉴스
@@ -1484,6 +1539,8 @@
   blog: http://dsmoon.tistory.com/
   rss: http://dsmoon.tistory.com/rss
   description: 머신러닝
+- name: 문석환
+  slideshare: https://www.slideshare.net/SeokhwanMoon
 - name: 문승환
   blog: http://shanemoon.com/
   linkedin: https://www.linkedin.com/in/shmoon/
@@ -1609,6 +1666,13 @@
   twitter: https://twitter.com/sm_park
   linkedin: https://www.linkedin.com/in/sangminpark/
   github: https://github.com/sangmin
+- name: 박상우
+  blog: http://blog.psangwoo.com/
+  rss: https://blog.psangwoo.com/feed.xml
+  description: IoT
+  github: https://github.com/Bill-Park
+  facebook: https://www.facebook.com/profile.php?id=100004839192547
+  speakerdeck: https://speakerdeck.com/sangwoopark
 - name: 박상일
   blog: https://tkddlf59.github.io/
   description: AWS
@@ -1619,6 +1683,14 @@
   blog: https://brunch.co.kr/@sanghoonpak
   rss: https://brunch.co.kr/rss/@@v0n
   description: 인도네시아 IT 소식
+- name: 박석제
+  blog: https://parkseokje.github.io/
+  rss: https://parkseokje.github.io/atom.xml
+  description: ''
+  twitter: https://twitter.com/PSJ1407
+  googleplus: https://plus.google.com/u/0/110593671217098784885
+  github: https://github.com/Parkseokje
+  aboutme: https://about.me/seokjae
 - name: 박선준
   blog: http://baactree.tistory.com/
   rss: http://baactree.tistory.com/rss
@@ -1630,19 +1702,18 @@
   description: 컴퓨터공학, 디자인
   github: https://github.com/ParkSB
   facebook: https://www.facebook.com/parkgds
+- name: 박성우
+  blog: https://cos18.github.io/
+  rss: https://cos18.github.io/feed
+  facebook: https://www.facebook.com/profile.php?id=100008491600375
+  instagram: https://www.instagram.com/cos_cs18/
+  linkedin: https://www.linkedin.com/in/cos18/
+  slideshare: https://www.slideshare.net/SungWooPark41
 - name: 박성철
   blog: http://blog.fupfin.com/
   rss: http://blog.fupfin.com/?feed=rss2
   description: Java
   slideshare: https://www.slideshare.net/gyumee
-- name: 박석제
-  blog: https://parkseokje.github.io/
-  rss: https://parkseokje.github.io/atom.xml
-  description: ''
-  twitter: https://twitter.com/PSJ1407
-  googleplus: https://plus.google.com/u/0/110593671217098784885
-  github: https://github.com/Parkseokje
-  aboutme: https://about.me/seokjae
 - name: 박성현
   blog: https://helloworldpark.github.io/
   rss: https://helloworldpark.github.io/feed.xml
@@ -1655,16 +1726,27 @@
   facebook: https://www.facebook.com/brianairb
   twitter: https://twitter.com/brian_pak
   linkedin: https://www.linkedin.com/in/brianairb/
+- name: 박세진
+  linkedin: https://www.linkedin.com/in/park-sejin-88264844/
+  slideshare: https://www.slideshare.net/ParkSejin
 - name: 박승호
   blog: https://devwaf.blogspot.kr/
   rss: https://devwaf.blogspot.com/feeds/posts/default
   description: Front-end
   googleplus: https://plus.google.com/103832301375908707871
+- name: 박승호
+  linkedin: https://www.linkedin.com/in/승호-박-45aa97125/
+  slideshare: https://www.slideshare.net/ssuseraefa0b
 - name: 박시홍
   blog: https://hongsii.github.io/
   rss: https://hongsii.github.io/atom.xml
   description: Linux
   github: https://github.com/hongsii
+- name: 박아윤
+  github: https://github.com/Parkayun
+  linkedin: https://www.linkedin.com/in/Parkayun/
+  speakerdeck: https://speakerdeck.com/parkayun
+  home: https://parkayun.kr/
 - name: 박연오
   blog: https://bakyeono.net/
   rss: http://feeds.feedburner.com/bakyeono
@@ -1683,6 +1765,10 @@
 - name: 박용서
   blog: https://gs.saro.me
   description: ''
+- name: 박윤곤
+  github: https://github.com/rubysoho07
+  linkedin: https://www.linkedin.com/in/rubysoho07/
+  slideshare: https://www.slideshare.net/YungonPark
 - name: 박영호
   blog: http://mellonia-lab.tistory.com/
   rss: http://mellonia-lab.tistory.com/rss
