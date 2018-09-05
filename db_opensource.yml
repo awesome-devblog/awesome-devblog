@@ -113,6 +113,7 @@
   tags: Machine Learning
 - name: Cassandra
   home: http://cassandra.apache.org/
+  github: https://github.com/apache/cassandra
   blog: http://cassandra.apache.org/blog/
   twitter: https://twitter.com/cassandra
   stackoverflow: https://stackoverflow.com/questions/tagged/cassandra
