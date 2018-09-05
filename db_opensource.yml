@@ -79,7 +79,7 @@
   twitter: https://twitter.com/bottlepy
   blog: http://blog.bottlepy.org/
   rss: http://blog.bottlepy.org/feeds/all.atom.xml
-  tags: Python Web Framework
+  tags: Python, Web Framework
 - name: Bounce.js
   home: http://bouncejs.com/
   github: https://github.com/tictail/bounce.js
@@ -218,7 +218,7 @@
   github: https://github.com/django/django
   blog: https://www.djangoproject.com/weblog/
   twitter: https://twitter.com/djangoproject
-  tags: Python, Web framework
+  tags: Python, Web Framework
 - name: Dumper.js
   github: https://github.com/zeeshanu/dumper.js
   tags: Javascript, Debug
