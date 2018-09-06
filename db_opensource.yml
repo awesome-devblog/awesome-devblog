@@ -97,6 +97,12 @@
   github: https://github.com/browserify/browserify
   twitter: https://twitter.com/browserify
   tags: Javascript, Tool
+- name: Brunch
+  home: http://brunch.io/
+  github: https://github.com/brunch/brunch
+  twitter: https://twitter.com/brunch
+  stackoverflow: https://stackoverflow.com/questions/tagged/brunch
+  tags: Static Site Generator
 - name: Bulma
   home: https://bulma.io/
   github: https://github.com/jgthms/bulma
@@ -144,7 +150,7 @@
   tags: Machine Learning
 - name: colorls
   github: https://github.com/athityakumar/colorls
-  tags: CLI, ls
+  tags: CLI
 - name: Consul
   home: https://www.consul.io/
   github: https://github.com/hashicorp/consul
@@ -330,6 +336,11 @@
   home: http://frescolib.org/
   github: https://github.com/facebook/fresco
   tags: Android, Image
+- name: Gatsby
+  home: https://www.gatsbyjs.org/
+  github: https://github.com/gatsbyjs/gatsby
+  twitter: https://twitter.com/gatsbyjs
+  tags: Static Site Generator
 - name: Glances
   home: https://nicolargo.github.io/glances/
   github: https://github.com/nicolargo/glances
@@ -372,7 +383,7 @@
   tags: Domain Specific Language
 - name: graphqurl
   github: https://github.com/hasura/graphqurl
-  tags: CLI, GraphQL
+  tags: CLI
 - name: Grunt
   home: https://gruntjs.com/
   github: https://github.com/gruntjs/grunt
@@ -426,6 +437,13 @@
   github: https://github.com/haproxy/haproxy
   slack: https://slack.haproxy.org/
   tags: DevOps, Proxy
+- name: Hexo
+  home: https://hexo.io/
+  github: https://github.com/hexojs/hexo
+  twitter: https://twitter.com/hexojs
+  forum: https://groups.google.com/group/hexo
+  awesome: https://github.com/hexojs/awesome-hexo
+  tags: Static Site Generator
 - name: Highcharts
   home: https://www.highcharts.com/
   github: https://github.com/highcharts/highcharts
@@ -435,6 +453,12 @@
   home: https://ianlunn.github.io/Hover/
   github: https://github.com/IanLunn/Hover
   tags: Animation
+- name: Hugo
+  home: https://gohugo.io/
+  github: https://github.com/gohugoio/hugo
+  forum: https://discourse.gohugo.io/
+  twitter: https://twitter.com/gohugoio
+  tags: Static Site Generator
 - name: Hyper
   home: https://hyper.is/
   github: https://github.com/zeit/hyper
@@ -468,7 +492,7 @@
 - name: Jekyll
   home: https://jekyllrb.com/
   github: https://github.com/jekyll/jekyll
-  tags: Ruby, Static Site Generator
+  tags: Static Site Generator
 - name: Jib
   github: https://github.com/GoogleContainerTools/jib
   gitter: https://gitter.im/google/jib
@@ -485,7 +509,7 @@
   home: https://stedolan.github.io/jq/
   github: https://github.com/stedolan/jq
   stackoverflow: https://stackoverflow.com/questions/tagged/jq
-  tags: CLI, JSON
+  tags: CLI
 - name: jQuery
   home: https://jquery.com/
   github: https://github.com/jquery/jquery
@@ -600,7 +624,7 @@
 - name: Maven
   home: https://maven.apache.org/
   github: https://github.com/apache/maven
-  tags: Java, Package Manager, Build Automation
+  tags: Java, Package Manager
 - name: MDC Web
   home: https://material.io/develop/
   github: https://github.com/material-components/material-components-web
@@ -762,6 +786,10 @@
   twitter: https://twitter.com/parceljs
   npm: https://www.npmjs.com/package/parcel-bundler
   tags: Javascript, Tool
+- name: Pelican
+  github: https://github.com/getpelican/pelican
+  blog: https://blog.getpelican.com/
+  tags: Static Site Generator
 - name: PollyJS
   home: https://netflix.github.io/pollyjs
   github: https://github.com/Netflix/pollyjs

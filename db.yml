@@ -129,6 +129,8 @@
   rss: https://wckhg89.github.io/feed.xml
   description: Web
   github: https://github.com/wckhg89
+- name: 강효원
+  slideshare: https://www.slideshare.net/apknight
 - name: 강효준
   facebook: http://facebook.com/kanghyojun
   linkedin: https://www.linkedin.com/in/kanghyojun/
@@ -948,6 +950,10 @@
   blog: http://webholic.net/
   rss: http://webholic.net/feed/
   description: Web
+- name: 김재곤
+  linkedin: https://www.linkedin.com/in/재곤-김-21b283119/
+  github: https://github.com/jaegon-kim
+  description: Network, SDN
 - name: 김재국
   blog: https://jaigouk.com/
   rss: https://jaigouk.com/rss/
