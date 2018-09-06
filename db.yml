@@ -4835,6 +4835,10 @@
   rss: https://medium.com/feed/@jaewon.james.choi
   description: C++
   github: https://github.com/jafffy
+- name: 최재현
+  facebook: https://www.facebook.com/jaehyun.choi.7
+  linkedin: https://www.linkedin.com/in/재현-최-027329140/
+  slideshare: https://www.slideshare.net/ssuser6cfa17
 - name: 최재훈
   blog: http://andromedarabbit.net/
   rss: http://andromedarabbit.net/feed/
@@ -5056,6 +5060,25 @@
   description: Linux
   facebook: https://www.facebook.com/nicewoong
   github: https://github.com/nicewoong
+- name: 하원호
+  blog: https://medium.com/@haho6629
+  rss: https://medium.com/feed/@haho6629
+  description: Python
+  github: https://github.com/Las-Wonho
+  twitter: https://twitter.com/ObjeLs
+  slideshare: https://www.slideshare.net/wonhoha
+- name: 하호준
+  slideshare: https://www.slideshare.net/hojunlife
+- name: 한섬기
+  linkedin: https://www.linkedin.com/in/seomgihan/
+  twitter: https://twitter.com/iandmyhand
+  slideshare: https://www.slideshare.net/iandmyhand
+- name: 한성민
+  github: https://github.com/KennethanCeyer
+  home: https://www.pigno.se/
+  facebook: https://www.facebook.com/han.sungmin
+  slideshare: https://www.slideshare.net/KennethCeyer
+  linkedin: https://www.linkedin.com/in/kenneth-ceyer-768419133/
 - name: 한장현
   blog: http://han41858.tistory.com/
   rss: http://han41858.tistory.com/rss
@@ -5271,6 +5294,12 @@
   blog: https://brunch.co.kr/@uxinventor
   rss: https://brunch.co.kr/rss/@@Z9N
   description: 창업
+- name: 황성현
+  blog: https://sunghyunzz.com/
+  github: https://github.com/sunghyunzz
+  twitter: https://twitter.com/_sunghyunzz
+  facebook: https://www.facebook.com/sunghyunzz
+  home: https://sunghyunzz.com/
 - name: 황준식
   profile: people/junkwhinger.md
   blog: http://jsideas.net/
@@ -5300,6 +5329,9 @@
   blog: https://brunch.co.kr/@delight412
   rss: https://brunch.co.kr/rss/@@ZVA
   description: IT 칼럼
+- name: 홍석현
+  github: https://www.facebook.com/unifiedh
+  twitter: https://twitter.com/unifiedh
 - name: 히언
   blog: http://recipes.egloos.com/
   rss: http://rss.egloos.com/blog/recipes
@@ -5315,4 +5347,6 @@
   twitter: https://twitter.com/devkimchi
   github: https://github.com/devkimchi
   facebook: https://www.facebook.com/devkimchi
-
+- name: Daniel Kim
+  github: https://github.com/elastic7327
+  youtube: https://www.youtube.com/channel/UCID9irVXdprEARXI8S8FRbg
