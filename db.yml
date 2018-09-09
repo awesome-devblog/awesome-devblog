@@ -3850,6 +3850,13 @@
   blog: https://wariua.github.io/
   description: 네트워크
   github: https://github.com/wariua
+- name: 임정욱
+  blog: https://estimastory.com/
+  rss: https://estimastory.com/feed/
+  description: IT 칼럼
+  twitter: https://twitter.com/estima7
+  linkedin: https://www.linkedin.com/in/jungwooklim/
+  googleplus: https://plus.google.com/+estima7
 - name: 임정택
   blog: http://medium.com/@heartsavior
   rss: https://medium.com/feed/@heartsavior
