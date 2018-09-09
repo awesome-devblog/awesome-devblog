@@ -3,7 +3,7 @@
   home: https://aiohttp.readthedocs.io/en/stable/
   github: https://github.com/aio-libs/aiohttp
   pypi: https://pypi.org/project/aiohttp/
-  tags: Python
+  tags: HTTP Client
 - name: AngularJS
   home: https://angular.io/
   github: https://github.com/angular/angular
@@ -72,7 +72,7 @@
   github: https://github.com/twbs/bootstrap
   twitter: https://twitter.com/getbootstrap
   blog: https://blog.getbootstrap.com/
-  tags: UI
+  tags: UI Framework
 - name: Bottle
   home: https://bottlepy.org/
   github: https://github.com/bottlepy/bottle
@@ -187,7 +187,7 @@
   home: https://d3js.org/
   github: https://github.com/d3/d3
   cdnjs: https://cdnjs.com/libraries/d3
-  tags: Javascript, Visualization
+  tags: Visualization
 - name: Dash
   home: https://plot.ly/products/dash/
   github: https://github.com/plotly/dash
@@ -345,7 +345,7 @@
   home: https://nicolargo.github.io/glances/
   github: https://github.com/nicolargo/glances
   gitter: https://gitter.im/nicolargo/glances
-  tags: Monitoring Tool
+  tags: Monitoring
 - name: Go
   home: https://golang.org/
   github: https://github.com/golang/go
