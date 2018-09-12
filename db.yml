@@ -1716,6 +1716,12 @@
   rss: http://baactree.tistory.com/rss
   description: 알고리즘
   github: https://github.com/baactree
+- name: 박성민
+  blog: https://a1p4ca.netlify.com
+  rss: https://a1p4ca.netlify.com/atom.xml
+  description: Web
+  github: https://github.com/a1p4ca
+  facebook: https://fb.com/a1p4ca
 - name: 박성범
   blog: http://ferrumdev.tistory.com
   rss: http://ferrumdev.tistory.com/rss
