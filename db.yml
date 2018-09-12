@@ -1388,6 +1388,12 @@
   blog: http://greentec.egloos.com/
   rss: http://rss.egloos.com/blog/greentec
   description: 게임개발
+- name: 김훈동
+  blog: http://hoondongkim.blogspot.com/
+  rss: http://hoondongkim.blogspot.com/feeds/posts/default
+  description: Deep Learning
+  facebook: https://www.facebook.com/kim.hoondong
+  github: https://github.com/hoondongkim
 - name: 김훈민(김코딩)
   blog: http://huns.me/
   rss: http://huns.me/feed
