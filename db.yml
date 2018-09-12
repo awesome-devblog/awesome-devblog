@@ -1951,6 +1951,11 @@
   rss: http://jins-dev.tistory.com/rss
   description: Back-end
   linkedin: https://www.linkedin.com/in/jinsung-park-6b459370/
+- name: 박진영
+  blog: http://deepweller.tistory.com/
+  rss: http://deepweller.tistory.com/rss
+  description: Java
+  github: https://github.com/deepweller
 - name: 박진우
   blog: https://www.jinpark.net/
   rss: https://www.jinpark.net/feed.xml
