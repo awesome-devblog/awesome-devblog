@@ -1940,6 +1940,11 @@
   blog: http://jasonpark.me/
   description: Algorithm
   github: https://github.com/parkjs814
+- name: 박진성
+  blog: http://jins-dev.tistory.com/
+  rss: http://jins-dev.tistory.com/rss
+  description: Back-end
+  linkedin: https://www.linkedin.com/in/jinsung-park-6b459370/
 - name: 박진우
   blog: https://www.jinpark.net/
   rss: https://www.jinpark.net/feed.xml
@@ -4992,8 +4997,9 @@
   slideshare: https://www.slideshare.net/jacking
   youtube: https://www.youtube.com/user/jacking75
 - name: 편해걸
-  blog: http://dev-momo.tistory.com/
-  rss: http://dev-momo.tistory.com/rss
+  blog: https://medium.com/@la.place
+  rss: https://medium.com/feed/@la.place
+  tistory: http://dev-momo.tistory.com/
   description: Front-end
 - name: 하동우
   blog: https://medium.com/@cookatrice
