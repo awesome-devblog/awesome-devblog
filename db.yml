@@ -2213,6 +2213,16 @@
   facebook: https://www.facebook.com/dale0713
   github: https://github.com/DaleSeo
   linkedin: https://www.linkedin.com/in/daleseo/
+- name: 서민구
+  blog: http://mkseo.pe.kr/blog/
+  rss: http://mkseo.pe.kr/blog/?feed=rss2
+  description: Programming, Data Analysis
+  twitter: https://twitter.com/Minkoo
+  github: https://github.com/minkooseo/
+  linkedin: https://www.linkedin.com/in/mkseo/
+  home: http://mkseo.pe.kr/
+  blog2: http://mkseo.pe.kr/stats/
+  rss2: http://mkseo.pe.kr/stats/?feed=rss2
 - name: 서민상
   blog: http://blog.naver.com/seo0511
   rss: https://rss.blog.naver.com/seo0511.xml
