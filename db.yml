@@ -85,6 +85,11 @@
   blog: https://medium.com/@shaynekang
   rss: https://medium.com/feed/@shaynekang
   description: ''
+- name: 강재호
+  blog: http://blog.greennuri.info/
+  rss: http://blog.greennuri.info/?feed=rss2
+  description: AI, Python
+  github: https://github.com/jaeho-kang
 - name: 강준영
   blog: https://juneyoung-kang.github.io/blog/
   rss: https://juneyoung-kang.github.io/blog/feed
