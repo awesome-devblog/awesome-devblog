@@ -4136,6 +4136,11 @@
   description: 기술 동향
   facebook: https://www.facebook.com/1biit
   github: https://github.com/hollobit
+- name: 전지성
+  blog: https://cbajs12.github.io/
+  rss: https://cbajs12.github.io/feed
+  linkedin: https://www.linkedin.com/in/jisungjeon/
+  github: https://github.com/cbajs12
 - name: 전지윤
   blog: http://frogand.tistory.com/
   rss: http://frogand.tistory.com/rss
