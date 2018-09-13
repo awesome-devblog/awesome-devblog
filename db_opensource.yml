@@ -285,6 +285,10 @@
   googlegroups: https://groups.google.com/group/express-js
   quora: https://www.quora.com/topic/Express-Node-js-web-framework
   tags: Javascript, Back-end Framework
+- name: FASTER
+  home: https://www.microsoft.com/en-us/research/project/FASTER/
+  github: https://github.com/Microsoft/FASTER
+  tags: Key-value Store
 - name: Feathers
   home: https://feathersjs.com/
   github: https://github.com/feathersjs/feathers
@@ -500,6 +504,11 @@
   forum: https://groups.google.com/group/iterm2-discuss
   quora: https://www.quora.com/topic/iTerm2
   tags: Terminal
+- name: Jaeger
+  home: https://www.jaegertracing.io/
+  github: https://github.com/jaegertracing/jaeger
+  gitter: https://gitter.im/jaegertracing/Lobby
+  tags: Distributed Tracing
 - name: Javalin
   home: https://javalin.io/
   github: https://github.com/tipsy/javalin
@@ -567,6 +576,12 @@
   slack: https://kotlinlang.slack.com/
   blog: https://medium.com/koin-developers
   tags: Kotlin, Framework
+- name: Kong
+  home: https://konghq.com/
+  github: https://github.com/Kong/kong
+  blog: https://konghq.com/blog/
+  forum: https://discuss.konghq.com/
+  tags: API Gateway
 - name: Kotlin
   home: https://kotlinlang.org/
   github: https://github.com/JetBrains/kotlin
@@ -665,6 +680,12 @@
   forums: https://forums.meteor.com/
   youtube: https://www.youtube.com/user/MeteorVideos
   facebook: https://www.facebook.com/meteorjs/
+  tags: Javascript, Back-end Framework
+- name: Micro
+  home: https://micro-editor.github.io/
+  github: https://github.com/zyedidia/micro
+  gitter: https://gitter.im/zyedidia/micro
+  tags: Text Editor
 - name: mini.css
   home: https://minicss.org/
   github: https://github.com/Chalarangelo/mini.css
@@ -673,7 +694,7 @@
 - name: Mininet
   home: http://mininet.org/
   github: https://github.com/mininet/mininet
-  tags: Network Simulation
+  tags: Network
 - name: Mithril
   home: https://mithril.js.org/
   github: https://github.com/MithrilJS/mithril.js
@@ -690,7 +711,7 @@
   home: https://microsoft.github.io/monaco-editor/index.html
   github: https://github.com/Microsoft/monaco-editor
   npm: https://www.npmjs.com/package/monaco-editor
-  tags: Code Editor
+  tags: Text Editor
 - name: MongoDB
   home: https://www.mongodb.com/
   github: https://github.com/mongodb/mongo
@@ -775,7 +796,7 @@
   slack: https://onosproject.slack.com/
   twitter: https://twitter.com/onf_onos
   youtube: https://www.youtube.com/channel/UCTQaOpqno48GTimdwyfytFw
-  tags: Software Defined Network
+  tags: Network
 - name: OpenAI Gym
   home: https://gym.openai.com/
   github: https://github.com/openai/gym
@@ -938,6 +959,10 @@
   github: https://github.com/riot/riot
   twitter: https://twitter.com/riotjs_
   tags: Javascript, Front-end Framework
+- name: Rocket
+  home: https://rocket.rs/
+  github: https://github.com/SergioBenitez/Rocket
+  tags: Rust, Web Framework
 - name: Rollup
   home: https://rollupjs.org/
   github: https://github.com/rollup/rollup
@@ -1039,7 +1064,7 @@
   github: https://github.com/ProseMirror/prosemirror
   gitter: https://gitter.im/ProseMirror/prosemirror
   forum: https://discuss.prosemirror.net/
-  tags: Javascript, Text editor
+  tags: Text Editor
 - name: Puppet
   home: https://puppet.com/
   github: https://github.com/puppetlabs/puppet
@@ -1050,7 +1075,7 @@
   stackoverflow: https://stackoverflow.com/questions/tagged/redis
   twitter: https://twitter.com/redisfeed
   reddit: https://www.reddit.com/r/redis/
-  tags: Database
+  tags: Key-value Store
 - name: TensorFlow.js
   home: https://js.tensorflow.org/
   github: https://github.com/tensorflow/tfjs
@@ -1058,7 +1083,7 @@
 - name: Toast UI Editor
   home: http://ui.toast.com/tui-editor/
   github: https://github.com/nhnent/tui.editor
-  tags: Javascript, Editor
+  tags: Text Editor
 - name: Tone.js
   home: https://tonejs.github.io/
   github: https://github.com/Tonejs/Tone.js/
@@ -1132,6 +1157,11 @@
   home: http://zeromq.org/
   github: https://github.com/zeromq/libzmq
   tags: Message Broker
+- name: Zipkin
+  home: https://zipkin.io/
+  github: https://github.com/openzipkin/zipkin
+  gitter: https://gitter.im/openzipkin/zipkin
+  tags: Distributed Tracing
 - name: Zuul
   github: https://github.com/Netflix/zuul
   tags: DevOps, Proxy
