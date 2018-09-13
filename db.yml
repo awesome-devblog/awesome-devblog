@@ -1155,6 +1155,12 @@
   blog: https://medium.com/@originerd
   rss: https://medium.com/feed/@originerd
   description: React
+- name: 김지헌
+  blog: http://java.ihoney.pe.kr/
+  rss: http://java.ihoney.pe.kr/rss
+  description: Java
+  github: https://github.com/ihoneymon
+  twitter: https://twitter.com/ihoneymon
 - name: 김지혁
   blog: http://kimjihyok.info/
   rss: http://kimjihyok.info/feed/
@@ -1162,12 +1168,6 @@
   facebook: https://www.facebook.com/wotomas
   linkedin: https://www.linkedin.com/in/wotomas/
   github: https://github.com/wotomas/
-- name: 김지헌
-  blog: http://java.ihoney.pe.kr/
-  rss: http://java.ihoney.pe.kr/rss
-  description: Java
-  github: https://github.com/ihoneymon
-  twitter: https://twitter.com/ihoneymon
 - name: 김지현
   blog: https://hyeon.me/
   description: ''
@@ -1175,6 +1175,13 @@
   twitter: https://twitter.com/simnalamburt
   github: https://github.com/simnalamburt
   speakerdeck: https://speakerdeck.com/simnalamburt
+- name: 김지형
+  blog: https://roamgom.github.io/
+  rss: https://roamgom.github.io/feed
+  description: Python
+  github: https://github.com/roamgom
+  facebook: https://www.facebook.com/roamgom
+  linkedin: https://www.linkedin.com/in/ji-hyung-kim-1390a198/
 - name: 김지호
   blog: https://brunch.co.kr/@icando03
   rss: https://brunch.co.kr/rss/@@2acx
