@@ -670,6 +670,7 @@
   home: http://efl.or.kr/
   facebook: https://www.facebook.com/efl.or.kr/
 - name: GDG Busan
+  facebook: https://www.facebook.com/gdgbusan/
   googleplus: https://plus.google.com/+Gdg-busanBlogspotKr
 - name: GNU Korea
   home: http://korea.gnu.org/
@@ -873,3 +874,5 @@
   github: https://github.com/box-and-whisker
 - name: 창작하는 이공계인들
   facebook: https://www.facebook.com/groups/1708213742607278/
+- name: GeekHub
+  home: https://geekhub.co.kr/
