@@ -2389,6 +2389,13 @@
   blog: https://medium.com/@downy
   rss: https://medium.com/feed/@downy
   description: Python, Django
+- name: 송문혁
+  blog: https://mike2ox.github.io/
+  rss: https://mike2ox.github.io/feed
+  description: Machine Learning
+  facebook: https://www.facebook.com/moonhyouk.song
+  instagram: https://www.instagram.com/mike2ox/
+  github: https://github.com/mike2ox
 - name: 송민승
   blog: https://brunch.co.kr/@minseungsong
   rss: https://brunch.co.kr/rss/@@SN6
