@@ -2200,11 +2200,13 @@
   linkedin: https://www.linkedin.com/in/jeonghun-byeon-5745b717/
   slideshare: https://www.slideshare.net/rockdoli
 - name: 변수민
-  blog: http://blog.suminb.com/
-  rss: http://blog.suminb.com/feed.xml
-  description: ''
+  blog: http://philosophical.one/
+  rss: http://philosophical.one/feed.xml
+  description: Python
   github: https://github.com/suminb
   twitter: https://twitter.com/suminb
+  linkedin: https://www.linkedin.com/in/suminb
+  slideshare: https://www.slideshare.net/suminb
 - name: 부종민
   blog: https://durtchrt.github.io/blog/
   description: Java, Spring
@@ -3923,6 +3925,12 @@
   blog: http://dmlim.egloos.com/
   rss: http://rss.egloos.com/blog/dmlim
   description: Java
+- name: 임민철
+  blog: https://encodent.com/
+  rss: https://encodent.com/feed
+  description: IT 기사
+  twitter: https://twitter.com/imc84
+  facebook: https://www.facebook.com/imc84
 - name: 임성진
   blog: http://blog.bbom.org/
   rss: http://blog.bbom.org/rss
@@ -5083,8 +5091,10 @@
 - name: 편해걸
   blog: https://medium.com/@la.place
   rss: https://medium.com/feed/@la.place
-  tistory: http://dev-momo.tistory.com/
   description: Front-end
+  github: https://github.com/hg-pyun
+  facebook: https://www.facebook.com/profile.php?id=100006418173687
+  tistory: http://dev-momo.tistory.com/
 - name: 하동우
   blog: https://medium.com/@cookatrice
   rss: https://medium.com/feed/@cookatrice
