@@ -204,6 +204,10 @@
   slack: http://chat.dcos.io/
   jira: https://jira.mesosphere.com
   tags: DevOps, Container Orchestration
+- name: deck.js
+  home: http://imakewebthings.com/deck.js/
+  github: https://github.com/imakewebthings/deck.js
+  tags: Javascript, Presentation
 - name: Deeplearning4j
   home: https://deeplearning4j.org/
   github: https://github.com/deeplearning4j/deeplearning4j
@@ -514,6 +518,10 @@
   github: https://github.com/tipsy/javalin
   gitter: https://gitter.im/javalin-io/general
   tags: Java, Back-end Framework
+- name: Jayway JsonPath
+  github: https://github.com/json-path/JsonPath
+  stackoverflow: https://stackoverflow.com/questions/tagged/jsonpath
+  tags: JSON
 - name: Jekyll
   home: https://jekyllrb.com/
   github: https://github.com/jekyll/jekyll
@@ -626,7 +634,12 @@
   youtube: https://www.youtube.com/user/TheLinuxFoundation
   googleplus: https://plus.google.com/+LinuxfoundationOrg
   linkedin: https://www.linkedin.com/company/the-linux-foundation/
-  tags: Kernel
+  tags: OS Kernel
+- name: Lombok
+  home: https://projectlombok.org/
+  github: https://github.com/rzwitserloot/lombok
+  forum: https://groups.google.com/forum/#!forum/project-lombok
+  tags: Java, Core Library
 - name: LoopBack
   home: https://loopback.io/
   github: https://github.com/strongloop/loopback
@@ -954,6 +967,10 @@
   github: https://github.com/square/retrofit
   stackoverflow: https://stackoverflow.com/questions/tagged/retrofit
   tags: HTTP Client
+- name: reveal.js
+  home: https://revealjs.com/
+  github: https://github.com/hakimel/reveal.js
+  tags: Javascript, Presentation
 - name: Riot
   home: https://riot.js.org/
   github: https://github.com/riot/riot
