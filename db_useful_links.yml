@@ -1,0 +1,57 @@
+---
+- name: CIDR.xyz
+  url: http://cidr.xyz/
+  description: An interactive IP address and CIDR range visualizer
+  category: Network
+- name: CodePen
+  url: https://codepen.io/
+  description: Social development environment for front-end designers and developers.
+  category: Programming
+- name: Diff Checker
+  url: https://www.diffchecker.com/
+  description: Online diff tool to compare text differences between two text files.
+  category: Diff
+- name: draw.io
+  url: https://www.draw.io/
+  description: Free online diagram software for making flowcharts, process diagrams, org charts, UML, ER and network diagrams.
+  category: Diagram
+- name: Heroku
+  url: https://www.heroku.com/
+  description: A platform as a service (PaaS) that enables developers to build, run, and operate applications entirely in the cloud.
+  category: Cloud
+- name: O RLY Cover Generator
+  url: https://dev.to/rly
+  description: Insult your co-workers with snarky O RLY parody book covers!
+  category: Humor
+- name: Pixlr Editor
+  url: https://pixlr.com/editor/
+  description: Robust browser photo editor, for all your editing needs. Have full control over your images, including layers and effects.
+  category: Image
+- name: RegExr
+  url: https://regexr.com/
+  description: Online tool to learn, build, & test Regular Expressions
+  category: Programming
+- name: slides
+  url: https://slides.com/
+  description: A place for creating, presenting and sharing slide decks.
+  category: Presentation
+- name: tlk.io
+  url: https://tlk.io/
+  description: A simple web chat
+  category: Chat
+- name: URL Decode and Encode
+  url: https://www.urlencoder.org/
+  description: Decode from or Encode to URL encoded (also known as Percent-encoded) format - Here, with our simple online tool.
+  category: Encoding
+- name: VisuAlgo
+  url: https://visualgo.net/
+  description: Visualising data structures and algorithms through animation
+  category: Algorithm
+- name: Web Design Museum
+  url: https://www.webdesignmuseum.org/
+  description: The museum exhibits over 900 carefully selected and sorted web sites that show web design trends between the years 1995 and 2005.
+  category: Web Design
+- name: OpenProcessing
+  url: https://www.openprocessing.org/
+  description: The community of everyday coders and educators, experimenting on tech, args and design.
+  category: Creative Coding
