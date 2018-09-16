@@ -1363,6 +1363,11 @@
 - name: 김현남
   blog: http://booksummary.tistory.com/
   description: ''
+- name: 김현우
+  blog: http://kokohapps.tistory.com/
+  rss: http://kokohapps.tistory.com/rss
+  description: Full-Stack
+  facebook: https://www.facebook.com/vowed21
 - name: 김현유(미키김)
   blog: http://www.mickeykim.com/
   rss: http://www.mickeykim.com/rss
@@ -1588,6 +1593,7 @@
   rss: http://jason-moon.tistory.com/rss
   description: Spring
   facebook: https://www.facebook.com/keumhwanmoon
+  medium: https://medium.com/@jason.moon.kr
 - name: 문동선
   blog: http://dsmoon.tistory.com/
   rss: http://dsmoon.tistory.com/rss
@@ -4614,9 +4620,13 @@
   description: Angular
   linkedin: https://www.linkedin.com/in/notforme/
 - name: 조은
-  blog: https://brunch.co.kr/@techhtml
-  rss: https://brunch.co.kr/rss/@@3FX
+  blog: https://medium.com/@euncho
+  rss: https://medium.com/feed/@euncho
   description: Front-end
+  twitter: https://twitter.com/apes01234
+  github: https://github.com/techhtml
+  brunch: https://brunch.co.kr/@techhtml
+  home: https://techhtml.github.io/
 - name: 조은상
   blog: http://itnp.kr/blog/
   description: Spring
