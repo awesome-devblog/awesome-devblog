@@ -805,7 +805,7 @@ Tag Cloud
 
 | Name | Blog | Description | Social |
 |---|---|---|---|
-| 편해걸 | http://dev-momo.tistory.com/ | Front-end | [![](icons/rss-icon.png)](http://dev-momo.tistory.com/rss) |
+| 편해걸 | https://medium.com/@la.place | Front-end | [![](icons/github-icon.png)](https://github.com/hg-pyun)[![](icons/facebook-icon.png)](https://www.facebook.com/profile.php?id=100006418173687)|
 
 ### ᄒ
 
