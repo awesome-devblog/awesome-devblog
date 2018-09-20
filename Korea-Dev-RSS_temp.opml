@@ -161,9 +161,9 @@
         <outline title="comics" text="만화">
             <outline title="909sickle" xmlUrl="http://909sickle.net/rss"/>
             <outline title="Abstruse Goose" xmlUrl="https://abstrusegoose.com/feed.xml"/>
-            <outline title="CommitStrip" xmlUrl="http://www.commitstrip.com/en/feed/"/>
-            <outline title="CTRL+ALT+DEL" xmlUrl="https://cad-comic.com/feed/"/>
-            <outline title="Dilbert" xmlUrl="http://dilbert.com/feed"/>
+            <!--<outline title="CommitStrip" xmlUrl="http://www.commitstrip.com/en/feed/"/>-->
+            <!--<outline title="CTRL+ALT+DEL" xmlUrl="https://cad-comic.com/feed/"/>-->
+            <!--<outline title="Dilbert" xmlUrl="http://dilbert.com/feed"/>-->
             <outline title="Geek&Poke" xmlUrl="http://feeds.feedburner.com/GeekAndPoke"/>
             <outline title="Invisible Bread" xmlUrl="http://feeds.feedburner.com/InvisibleBread?format=xml"/>
             <outline title="MonkeyUser" xmlUrl="https://www.monkeyuser.com/feed.xml"/>
