@@ -3,10 +3,18 @@
   url: http://cidr.xyz/
   description: An interactive IP address and CIDR range visualizer
   category: Network
+- name: Codecademy
+  url: https://www.codecademy.com/
+  description: Online freemium interactive platform that offers free coding classes in 12 different programming languages including Python, Java, JavaScript, Ruby, SQL, and Sass, as well as markup languages HTML and CSS.
+  category: MOOC
 - name: CodePen
   url: https://codepen.io/
   description: Social development environment for front-end designers and developers.
   category: Programming
+- name: Coursera
+  url: https://www.coursera.org/
+  description: Online learning platform founded by Stanford professors Andrew Ng and Daphne Koller that offers courses, specializations, and degrees.
+  category: MOOC
 - name: Diff Checker
   url: https://www.diffchecker.com/
   description: Online diff tool to compare text differences between two text files.
@@ -15,6 +23,10 @@
   url: https://www.draw.io/
   description: Free online diagram software for making flowcharts, process diagrams, org charts, UML, ER and network diagrams.
   category: Diagram
+- name: FA2PNG
+  url: http://fa2png.io/
+  description: Exports Font Awesome icons as PNG images for Alfred Workflow.
+  category: Icon
 - name: Heroku
   url: https://www.heroku.com/
   description: A platform as a service (PaaS) that enables developers to build, run, and operate applications entirely in the cloud.
@@ -23,6 +35,10 @@
   url: https://dev.to/rly
   description: Insult your co-workers with snarky O RLY parody book covers!
   category: Humor
+- name: OpenProcessing
+  url: https://www.openprocessing.org/
+  description: The community of everyday coders and educators, experimenting on tech, args and design.
+  category: Creative Coding
 - name: Pixlr Editor
   url: https://pixlr.com/editor/
   description: Robust browser photo editor, for all your editing needs. Have full control over your images, including layers and effects.
@@ -51,7 +67,7 @@
   url: https://www.webdesignmuseum.org/
   description: The museum exhibits over 900 carefully selected and sorted web sites that show web design trends between the years 1995 and 2005.
   category: Web Design
-- name: OpenProcessing
-  url: https://www.openprocessing.org/
-  description: The community of everyday coders and educators, experimenting on tech, args and design.
-  category: Creative Coding
+- name: XML Pretty Print
+  url: http://xmlprettyprint.com/
+  description: A simple XML pretty printer.
+  category: XML
