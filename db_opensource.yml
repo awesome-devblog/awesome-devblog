@@ -70,7 +70,7 @@
   twitter: https://twitter.com/bazelbuild
   stackoverflow: https://stackoverflow.com/questions/tagged/bazel
   forum: https://groups.google.com/forum/#!forum/bazel-discuss
-  tags: Java, Package Manager
+  tags: Java, Build
 - name: Bootstrap
   home: https://getbootstrap.com/
   github: https://github.com/twbs/bootstrap
@@ -107,6 +107,10 @@
   twitter: https://twitter.com/brunch
   stackoverflow: https://stackoverflow.com/questions/tagged/brunch
   tags: Static Site Generator
+- name: Buck
+  home: https://buckbuild.com/
+  github: https://github.com/facebook/buck
+  tags: Java, Build
 - name: Bulma
   home: https://bulma.io/
   github: https://github.com/jgthms/bulma
@@ -196,9 +200,15 @@
   home: https://plot.ly/products/dash/
   github: https://github.com/plotly/dash
   tags: Python, Web Framework
+- name: date-fns
+  home: https://date-fns.org/
+  github: https://github.com/date-fns/date-fns
+  twitter: https://twitter.com/date_fns
+  npm: https://www.npmjs.com/package/date-fns
+  tags: Date
 - name: Day.js
   github: https://github.com/iamkun/dayjs
-  tags: Javascript, Date
+  tags: Date
 - name: DC/OS
   home: https://dcos.io/
   github: https://github.com/dcos/dcos
@@ -238,7 +248,7 @@
   tags: Python, Web Framework
 - name: Dumper.js
   github: https://github.com/zeeshanu/dumper.js
-  tags: Javascript, Debug
+  tags: Debug
 - name: Elasticsearch
   home: https://www.elastic.co/kr/products/elasticsearch
   github: https://github.com/elastic/elasticsearch
@@ -393,7 +403,7 @@
 - name: Gradle
   home: https://gradle.org/
   github: https://github.com/gradle/gradle
-  tags: Java, Package Manager
+  tags: Java, Build
 - name: Grafana
   home: https://grafana.com/
   github: https://github.com/grafana/grafana
@@ -536,7 +546,7 @@
 - name: Jib
   github: https://github.com/GoogleContainerTools/jib
   gitter: https://gitter.im/google/jib
-  tags: Java, Package Manager
+  tags: Java, Build
 - name: Julia
   home: https://julialang.org/
   github: https://github.com/JuliaLang/julia
@@ -653,6 +663,10 @@
   gitter: https://gitter.im/strongloop/loopback
   googlegroups: https://groups.google.com/forum/#!forum/loopbackjs
   tags: JS Back-end Framework
+- name: Luxon
+  home: https://moment.github.io/luxon/
+  github: https://github.com/moment/luxon
+  tags: Date
 - name: LXC
   home: https://linuxcontainers.org/lxc/
   github: https://github.com/lxc/lxc
@@ -688,7 +702,7 @@
 - name: Maven
   home: https://maven.apache.org/
   github: https://github.com/apache/maven
-  tags: Java, Package Manager
+  tags: Java, Build
 - name: MDC Web
   home: https://material.io/develop/
   github: https://github.com/material-components/material-components-web
@@ -727,6 +741,10 @@
   blog: https://mobyproject.org/
   twitter: https://twitter.com/moby
   tags: Container Runtime
+- name: Moment.js
+  home: https://momentjs.com/
+  github: https://github.com/moment/moment
+  tags: Date
 - name: Monaco Editor
   home: https://microsoft.github.io/monaco-editor/index.html
   github: https://github.com/Microsoft/monaco-editor
@@ -943,7 +961,7 @@
   home: https://pytorch.org/
   blogging: https://pytorch.org/blog/
   forum: https://discuss.pytorch.org/
-  tags: Python, Machine Learning
+  tags: Machine Learning
 - name: RabbitMQ
   home: https://www.rabbitmq.com/
   github: https://github.com/rabbitmq/rabbitmq-server
@@ -1036,7 +1054,7 @@
   github: https://github.com/klauscfhq/signale
   npm: https://www.npmjs.com/package/signale
   gitter: https://gitter.im/klauscfhq/signale
-  tags: Javascript, Logging
+  tags: Logging
 - name: Snap.svg
   home: http://snapsvg.io/
   github: https://github.com/adobe-webplatform/Snap.svg
@@ -1082,7 +1100,7 @@
   medium: https://medium.com/tensorflow
   youtube: https://www.youtube.com/tensorflow
   twitter: https://twitter.com/tensorflow
-  tags: Python, Machine Learning
+  tags: Machine Learning
 - name: ProseMirror
   home: http://prosemirror.net/
   github: https://github.com/ProseMirror/prosemirror
@@ -1103,7 +1121,7 @@
 - name: TensorFlow.js
   home: https://js.tensorflow.org/
   github: https://github.com/tensorflow/tfjs
-  tags: Javascript, Machine Learning
+  tags: Machine Learning
 - name: Toast UI Editor
   home: http://ui.toast.com/tui-editor/
   github: https://github.com/nhnent/tui.editor
