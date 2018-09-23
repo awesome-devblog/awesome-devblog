@@ -2833,6 +2833,11 @@
   home: leoslife2.herokuapp.com
   linkedin: https://www.linkedin.com/in/승화-양-99630861
   slideshare: https://www.slideshare.net/leoyang991
+- name: 양상현
+  blog: http://medium.com/@tech.yangs
+  rss: https://medium.com/feed/@tech.yangs
+  description: AWS,서버
+  github: https://github.com/yangs1202
 - name: 양욱진
   blog: http://blog.hazard.kr/
   description: ''
