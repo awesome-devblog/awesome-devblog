@@ -699,6 +699,14 @@
   description: Elixir
   github: https://github.com/harfangk
   twitter: https://twitter.com/harfangk
+- name: 김상원
+  blog: https://brunch.co.kr/@hero4earth  
+  rss: https://brunch.co.kr/rss/@@NjN
+  description: 데이터 분석
+  facebook: https://www.facebook.com/eddy.sangwon
+  github: https://github.com/hero4earth
+  linkedin: https://www.linkedin.com/in/hero4earth
+  home: http://hero4earth.com/
 - name: 김상훈
   blog: https://interpiler.com/
   rss: http://interpiler.com/index.php/feed/
