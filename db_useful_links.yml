@@ -19,6 +19,10 @@
   url: https://www.diffchecker.com/
   description: Online diff tool to compare text differences between two text files.
   category: Diff
+- name: Devicons
+  url: http://vorillaz.github.io/devicons/
+  description: Developer iconic font
+  category: Icon
 - name: draw.io
   url: https://www.draw.io/
   description: Free online diagram software for making flowcharts, process diagrams, org charts, UML, ER and network diagrams.
@@ -47,6 +51,10 @@
   url: https://regexr.com/
   description: Online tool to learn, build, & test Regular Expressions
   category: Programming
+- name: Rosetta Code
+  url: http://rosettacode.org/
+  description: Programming chrestomathy site. The idea is to present solutions to the same task in as many different languages as possible, to demonstrate how languages are similar and different, and to aid a person with a grounding in one approach to a problem in learning another.
+  category: Programming
 - name: slides
   url: https://slides.com/
   description: A place for creating, presenting and sharing slide decks.
@@ -59,6 +67,10 @@
   url: https://www.urlencoder.org/
   description: Decode from or Encode to URL encoded (also known as Percent-encoded) format - Here, with our simple online tool.
   category: Encoding
+- name: VIM Adventures
+  url: https://vim-adventures.com/
+  description: Learning VIM while playing a game.
+  category: Fun
 - name: VisuAlgo
   url: https://visualgo.net/
   description: Visualising data structures and algorithms through animation
