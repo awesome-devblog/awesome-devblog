@@ -90,6 +90,14 @@
   rss: http://blog.greennuri.info/?feed=rss2
   description: AI, Python
   github: https://github.com/jaeho-kang
+- name: 강전희
+  blog: https://newstars77.blog.me/
+  rss: https://newstars77.blog.me/rss
+  description: R
+  github: https://github.com/newstars
+  instagram: https://www.instagram.com/hellojany/
+  youtube: https://www.youtube.com/channel/UCBbH_NiLhu5uXQ74Tf-qQhg
+  facebook: https://www.facebook.com/newstars77
 - name: 강준영
   blog: https://juneyoung-kang.github.io/blog/
   rss: https://juneyoung-kang.github.io/blog/feed
