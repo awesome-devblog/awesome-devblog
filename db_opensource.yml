@@ -50,6 +50,11 @@
   home: https://autokeras.com/
   github: https://github.com/jhfjhfj1/autokeras
   tags: Machine Learning
+- name: AVA
+  github: https://github.com/avajs/ava
+  twitter: https://twitter.com/ava__js
+  stackoverflow: https://stackoverflow.com/questions/tagged/ava
+  tags: JS Testing
 - name: Babel
   home: https://babeljs.io/
   github: https://github.com/babel/babel
@@ -92,7 +97,7 @@
   home: https://bower.io/
   github: https://github.com/bower/bower
   twitter: https://twitter.com/bower
-  tags: Javascript, Package Manager
+  tags: JS Package Manager
 - name: Brave
   home: https://brave.com/
   github: https://github.com/brave/browser-laptop
@@ -535,6 +540,10 @@
   github: https://github.com/jaegertracing/jaeger
   gitter: https://gitter.im/jaegertracing/Lobby
   tags: Distributed Tracing
+- name: Jasmine
+  home: https://jasmine.github.io/
+  github: https://github.com/jasmine/jasmine
+  tags: JS Testing
 - name: Javalin
   home: https://javalin.io/
   github: https://github.com/tipsy/javalin
@@ -575,7 +584,7 @@
   home: https://jspm.org/
   github: https://github.com/jspm/jspm-cli
   gitter: https://gitter.im/jspm/jspm
-  tags: Javascript, Package Manager
+  tags: JS Package Manager
 - name: Kafka
   home: https://kafka.apache.org/
   github: https://github.com/apache/kafka
@@ -751,6 +760,11 @@
   blog: https://mobyproject.org/
   twitter: https://twitter.com/moby
   tags: Container Runtime
+- name: Mocha
+  home: https://mochajs.org/
+  github: https://github.com/mochajs/mocha
+  gitter: https://gitter.im/mochajs/mocha
+  tags: JS Testing
 - name: Moment.js
   home: https://momentjs.com/
   github: https://github.com/moment/moment
@@ -815,7 +829,7 @@
   github: https://github.com/npm/npm
   blog: https://blog.npmjs.org/
   twitter: https://twitter.com/npmjs
-  tags: Javascript, Package Manager
+  tags: JS Package Manager
 - name: Numpy
   home: http://www.numpy.org/
   github: https://github.com/numpy/numpy
@@ -1220,7 +1234,7 @@
   discord: https://discordapp.com/invite/yarnpkg
   facebook: https://www.facebook.com/yarnpkg
   twitter: https://twitter.com/yarnpkg
-  tags: Javascript, Package Manager
+  tags: JS Package Manager
 - name: ZeroMQ
   home: http://zeromq.org/
   github: https://github.com/zeromq/libzmq
