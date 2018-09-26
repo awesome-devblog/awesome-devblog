@@ -27,6 +27,14 @@
   url: https://www.draw.io/
   description: Free online diagram software for making flowcharts, process diagrams, org charts, UML, ER and network diagrams.
   category: Diagram
+- name: explainshell.com
+  url: https://explainshell.com/
+  description: Write down a command-line to see the help text that matches each argument
+  category: Shell
+- name: Ezgif
+  url: https://ezgif.com/
+  description: Easy to use online animated GIF maker and image editor.
+  category: Image
 - name: FA2PNG
   url: http://fa2png.io/
   description: Exports Font Awesome icons as PNG images for Alfred Workflow.
@@ -59,6 +67,10 @@
   url: https://slides.com/
   description: A place for creating, presenting and sharing slide decks.
   category: Presentation
+- name: TinyPNG
+  url: https://tinypng.com/
+  description: Make your website faster and save bandwidth. TinyPNG optimizes your PNG images by 50-80% while preserving full transparency!
+  category: Image
 - name: tlk.io
   url: https://tlk.io/
   description: A simple web chat
