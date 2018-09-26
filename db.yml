@@ -4263,6 +4263,11 @@
   rss: http://frogand.tistory.com/rss
   description: Git
   github: https://github.com/jeon9825
+- name: 전지훈
+  blog: https://supawer0728.github.io/
+  rss: https://supawer0728.github.io/feed.xml
+  description: Spring
+  github: https://github.com/supawer0728
 - name: 전창완
   blog: http://wani.kr/
   rss: http://wani.kr/feed
