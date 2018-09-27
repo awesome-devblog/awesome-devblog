@@ -8,6 +8,10 @@
   github: https://github.com/aio-libs/aiohttp
   pypi: https://pypi.org/project/aiohttp/
   tags: HTTP Client
+- name: Altair
+  home: https://altair-viz.github.io/
+  github: https://github.com/altair-viz/altair
+  tags: Visualization
 - name: AngularJS
   home: https://angular.io/
   github: https://github.com/angular/angular
@@ -41,6 +45,10 @@
   twitter: https://twitter.com/apollographql
   youtube: https://www.youtube.com/channel/UC0pEW_GOrMJ23l8QcrGdKSw
   tags: GraphQL
+- name: Astroflow
+  home: https://astrocorp.net/astroflow/
+  github: https://github.com/astrocorp42/astroflow-go
+  tags: Logging
 - name: Atom
   home: https://atom.io/
   github: https://github.com/atom/atom
@@ -76,6 +84,10 @@
   stackoverflow: https://stackoverflow.com/questions/tagged/bazel
   forum: https://groups.google.com/forum/#!forum/bazel-discuss
   tags: Java, Build
+- name: Blueprint
+  home: https://blueprintjs.com/
+  github: https://github.com/palantir/blueprint
+  tags: UI Framework
 - name: Bootstrap
   home: https://getbootstrap.com/
   github: https://github.com/twbs/bootstrap
@@ -488,6 +500,11 @@
   github: https://github.com/haproxy/haproxy
   slack: https://slack.haproxy.org/
   tags: Proxy
+- name: Helidon
+  home: https://helidon.io/
+  github: https://github.com/oracle/helidon
+  twitter: https://twitter.com/helidon_project
+  tags: JVM Back-end Framework
 - name: Hexo
   home: https://hexo.io/
   github: https://github.com/hexojs/hexo
@@ -834,12 +851,19 @@
   home: http://www.numpy.org/
   github: https://github.com/numpy/numpy
   tags: Python, Math
+- name: nuster
+  github: https://github.com/jiangwenyuan/nuster
+  tags: Proxy
 - name: Nuxt.js
   home: https://nuxtjs.org/
   github: https://github.com/nuxt/nuxt.js
   twitter: https://twitter.com/nuxt_js
   gitter: https://gitter.im/nuxt/nuxt.js
   tags: JS Web Framework
+- name: OASGraph
+  home: https://v4.loopback.io/oasgraph.html
+  github: https://github.com/strongloop/oasgraph
+  tags: GraphQL
 - name: Oh My Zsh
   home: https://ohmyz.sh/
   github: https://github.com/robbyrussell/oh-my-zsh
@@ -1011,6 +1035,11 @@
   home: http://recharts.org/
   github: https://github.com/recharts/recharts
   tags: Javascript, Chart
+- name: Rete
+  home: https://rete.js.org/
+  github: https://github.com/retejs/rete
+  gitter: https://gitter.im/retejs/Lobby
+  tags: Visualization
 - name: Retrofit
   home: http://square.github.io/retrofit/
   github: https://github.com/square/retrofit
@@ -1020,6 +1049,10 @@
   home: https://revealjs.com/
   github: https://github.com/hakimel/reveal.js
   tags: Presentation
+- name: Ring UI
+  home: https://jetbrains.github.io/ring-ui
+  github: https://github.com/JetBrains/ring-ui
+  tags: UI Framework
 - name: Riot
   home: https://riot.js.org/
   github: https://github.com/riot/riot
@@ -1125,6 +1158,10 @@
   youtube: https://www.youtube.com/tensorflow
   twitter: https://twitter.com/tensorflow
   tags: Machine Learning
+- name: TurtleDB
+  home: https://turtle-db.github.io/
+  github: https://github.com/turtle-DB/turtleDB
+  tags: Database
 - name: ProseMirror
   home: http://prosemirror.net/
   github: https://github.com/ProseMirror/prosemirror
@@ -1142,6 +1179,14 @@
   twitter: https://twitter.com/redisfeed
   reddit: https://www.reddit.com/r/redis/
   tags: Key-value Store
+- name: SpaceVim
+  home: https://spacevim.org/
+  github: https://github.com/SpaceVim/SpaceVim
+  gitter: https://gitter.im/SpaceVim/SpaceVim
+  reddit: https://www.reddit.com/r/spacevim
+  twitter: https://twitter.com/SpaceVim
+  facebook: https://www.facebook.com/SpaceVim
+  tags: Text Editor
 - name: TensorFlow.js
   home: https://js.tensorflow.org/
   github: https://github.com/tensorflow/tfjs
