@@ -39,33 +39,8 @@
         </outline>
 
         <outline title="slide" text="슬라이드 모음">
-            <outline title="강규영" xmlUrl="https://www.slideshare.net/rss/user/jania902"/>
             <outline title="권민재" xmlUrl="https://speakerdeck.com/mingrammer.atom"/>
-            <outline title="김래형" xmlUrl="https://www.slideshare.net/rss/user/rerongs"/>
-            <outline title="김민태" xmlUrl="https://www.slideshare.net/rss/user/ibare"/>
-            <outline title="김은향" xmlUrl="https://www.slideshare.net/rss/user/EunhyangKim2"/>
-            <outline title="김재석" xmlUrl="https://www.slideshare.net/rss/user/tcaesvk"/>
-            <outline title="김정주" xmlUrl="https://www.slideshare.net/rss/user/ssuser163469"/>
-            <outline title="김지은" xmlUrl="https://www.slideshare.net/rss/user/yeswldms"/>
-            <outline title="김지환" xmlUrl="https://www.slideshare.net/rss/user/mastrayer"/>
-            <outline title="김홍배" xmlUrl="https://www.slideshare.net/rss/user/ssuser06e0c5"/>
-            <outline title="류우림" xmlUrl="https://www.slideshare.net/rss/user/woolimryu"/>
-            <outline title="손동호" xmlUrl="https://www.slideshare.net/rss/user/DongHoSon1"/>
-            <outline title="송태웅" xmlUrl="https://www.slideshare.net/rss/user/TaeungSong"/>
-            <outline title="박신우" xmlUrl="https://www.slideshare.net/rss/user/ShinwooPark3"/>
-            <outline title="박재성" xmlUrl="https://www.slideshare.net/rss/user/netil"/>
-            <outline title="박조은" xmlUrl="https://www.slideshare.net/rss/user/zzonee"/>
-            <outline title="박주홍" xmlUrl="https://www.slideshare.net/rss/user/JPark0426"/>
             <outline title="배성혁" xmlUrl="https://speakerdeck.com/debop.atom"/>
-            <outline title="백기선" xmlUrl="https://www.slideshare.net/rss/user/whiteship"/>
-            <outline title="백정상" xmlUrl="https://www.slideshare.net/rss/user/jeongsangbaek"/>
-            <outline title="엄태욱" xmlUrl="https://www.slideshare.net/rss/user/taewook"/>
-            <outline title="용영환" xmlUrl="https://www.slideshare.net/rss/user/xenonix"/>
-            <outline title="윤성준" xmlUrl="https://www.slideshare.net/rss/user/exnis"/>
-            <outline title="윤지수" xmlUrl="https://www.slideshare.net/rss/user/jisuyoun"/>
-            <outline title="이동민" xmlUrl="https://www.slideshare.net/rss/user/DongMinLee32"/>
-            <outline title="이승준" xmlUrl="https://www.slideshare.net/rss/user/plusjune"/>
-            <outline title="이용혁" xmlUrl="https://www.slideshare.net/rss/user/unlogicaldev"/>
             <outline title="이윤환" xmlUrl="https://www.slideshare.net/rss/user/yoonani"/>
             <outline title="이지민" xmlUrl="https://www.slideshare.net/rss/user/JiminLee36"/>
             <outline title="정경업" xmlUrl="https://www.slideshare.net/rss/user/perhapsspy"/>
@@ -92,6 +67,7 @@
         </outline>
 
         <outline title="youtube" text="방송 모음">
+            <outline title="10make 텐메이크" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCdxKvCYclTejo7FUXXLwZnA"/>
             <outline title="개발토끼" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCuuyTE8bBNYCujb7mzf8H7w"/>
             <outline title="곽민수" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCZ7c3OpOYicLQDDZyKevDDw"/>
             <outline title="권오흠" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC-cOmaeWLm7Ii7erMQNatvA"/>
@@ -121,6 +97,7 @@
             <outline title="뚜벅개발TV" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCl6ss_VCMBOSCCrVjzW2r0Q"/>
             <outline title="케빈 TV" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCsOJxLxzQl8IbwGS-Cp5t8w"/>
             <outline title="포프TV" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC63J0Q5huHSlbNT3KxvAaHQ"/>
+            <outline title="한국전자통신연구원" xmlUrl="https://www.youtube.com/feeds/videos.xml?user=etri9401"/>
             <outline title="한빛미디어" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC31Gc42xzclOOi5Gp1xIpZw"/>
             <outline title="허광남" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCHbXBo1fQAg7j0D7HKKYHJg"/>
             <outline title="허민석" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCxP77kNgVfiiG6CXZ5WMuAQ"/>
@@ -149,6 +126,7 @@
             <outline title="OpenStack Korea Group" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCVQ1ILIOsGH-YX9FkEmkjRQ"/>
             <outline title="SAYUN TV 사윤TV" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCNKmQkO1zhCwsIqqrh7pSAg"/>
             <outline title="SKtechx Tacademy" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCtV98yyffjUORQRGTuLHomw"/>
+            <outline title="sky ICT" xmlUrl="https://www.youtube.com/feeds/videos.xml?user=CHANNELIT22"/>
             <outline title="Smile Han" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCM8wseo6DkA-D7yGlCrcrwA"/>
             <outline title="SnowL TV" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCQb8-qm-W9f4Wvf6r_kEf0A"/>
             <outline title="Software Tool Time" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCora73FsjH9ZuIjCvJ0J0iA"/>

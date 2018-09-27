@@ -4,6 +4,7 @@
   blog: http://www.ecogwiki.com/
   rss: http://www.ecogwiki.com/sp.posts?_type=atom
   description: ''
+  slideshare: https://www.slideshare.net/jania902
 - name: 강관우
   blog: https://brunch.co.kr/@kd4
   description: Java
@@ -596,6 +597,8 @@
   rss: https://wraithkim.wordpress.com/feed/
   description: Algorithm
   github: https://github.com/WraithKim
+- name: 김래형
+  slideshare: https://www.slideshare.net/rerongs
 - name: 김만수
   blog: https://mansoo-sw.blogspot.kr/
   rss: https://mansoo-sw.blogspot.com/feeds/posts/default
@@ -663,6 +666,7 @@
   rss: https://medium.com/feed/@ibare
   description: 자바스크립트
   twitter: https://twitter.com/ibare
+  slideshare: https://www.slideshare.net/ibare
 - name: 김민호
   blog: https://isku.github.io/blog/
   github: https://github.com/ISKU
@@ -976,6 +980,8 @@
   blog: http://androidkr.blogspot.kr/
   rss: http://feeds.feedburner.com/mobilesw
   description: 안드로이드
+- name: 김은향
+  slideshare: https://www.slideshare.net/EunhyangKim2
 - name: 김익환
   blog: http://www.ikwisdom.com/
   rss: http://www.ikwisdom.com/feeds/posts/default
@@ -1009,6 +1015,11 @@
 - name: 김재석
   blog: https://jck.im/
   github: https://github.com/jckdotim
+- name: 김재석
+  facebook: https://www.facebook.com/tcaesvk
+  linkedin: https://www.linkedin.com/in/tcaesvk/
+  twitter: https://twitter.com/tcaesvk
+  slideshare: https://www.slideshare.net/tcaesvk
 - name: 김재원
   blog: http://epiloum.net/
   rss: http://epiloum.net/feed
@@ -1030,6 +1041,9 @@
   description: Javascript, Node
   facebook: https://www.facebook.com/kim.jeongwon.9
   github: https://github.com/swtpumpkin
+- name: 김정주
+  linkedin: https://www.linkedin.com/in/jeongjukim/
+  slideshare: https://www.slideshare.net/ssuser163469
 - name: 김정헌
   blog: http://feelteller.com/
   rss: http://www.feelteller.com/rss
@@ -1182,6 +1196,10 @@
   linkedin: https://www.linkedin.com/in/jiyunkim0403/
   googleplus: https://plus.google.com/+JiYunKim
   home: https://photo.jiyun.io/
+- name: 김지은
+  googleplus: https://plus.google.com/100611041877840603031
+  linkedin: https://www.linkedin.com/in/jieun-kim-1079b7ab/
+  slideshare: https://www.slideshare.net/yeswldms
 - name: 김지태
   blog: https://medium.com/@originerd
   rss: https://medium.com/feed/@originerd
@@ -1221,6 +1239,9 @@
   blog: https://brunch.co.kr/@jihere1001
   rss: https://brunch.co.kr/rss/@@3op
   description: 프로토타이핑
+- name: 김지환
+  linkedin: https://www.linkedin.com/in/지환-김-9335a0a9/
+  slideshare: https://www.slideshare.net/mastrayer
 - name: 김진국
   blog: http://forensic-proof.com/
   rss: http://forensic-proof.com/feed
@@ -1443,6 +1464,8 @@
   rss: http://cogniti-works.blogspot.com/feeds/posts/default
   description: nimf
   github: https://github.com/cogniti
+- name: 김홍배
+  slideshare: https://www.slideshare.net/ssuser06e0c5
 - name: 김화수
   blog: http://flowerexcel.tistory.com/
   rss: http://flowerexcel.tistory.com/rss
@@ -1589,6 +1612,8 @@
   blog: http://occamsrazr.net/
   rss: http://feeds.feedburner.com/occamsrazr/blog?format=xml
   description: 번역
+- name: 류우림
+  slideshare: https://www.slideshare.net/woolimryu
 - name: 류재영
   blog: http://longbe00.blogspot.kr/
   rss: http://longbe00.blogspot.com/feeds/posts/default
@@ -1838,6 +1863,8 @@
   rss: https://hongsii.github.io/atom.xml
   description: Linux
   github: https://github.com/hongsii
+- name: 박신우
+  slideshare: https://www.slideshare.net/ShinwooPark3
 - name: 박아윤
   github: https://github.com/Parkayun
   linkedin: https://www.linkedin.com/in/Parkayun/
@@ -1858,6 +1885,9 @@
   blog: https://brunch.co.kr/@arawn
   rss: https://brunch.co.kr/rss/@@14mT
   description: ''
+  slideshare: https://www.slideshare.net/arawnkr
+  linkedin: https://www.linkedin.com/in/arawn/
+  googleplus: https://plus.google.com/101255639329520211157
 - name: 박용서
   blog: https://gs.saro.me
   description: ''
@@ -1898,6 +1928,8 @@
   blog: https://medium.com/@alberto.park
   rss: https://medium.com/feed/@alberto.park
   description: billboard.js
+  linkedin: https://www.linkedin.com/in/jae-sung-park-6a962213/
+  slideshare: https://www.slideshare.net/netil
 - name: 박재현
   blog: http://wisefree.tistory.com/
   rss: http://wisefree.tistory.com/rss
@@ -1973,6 +2005,10 @@
   rss: http://arter97.blogspot.com/feeds/posts/default
   description: Linux
   googleplus: https://plus.google.com/100021106150624240933
+- name: 박주홍
+  blog: http://blog.jpark.me/
+  github: https://github.com/JuhongPark
+  slideshare: https://www.slideshare.net/JPark0426
 - name: 박준규
   blog: https://brunch.co.kr/@kospoll-lab
   rss: https://brunch.co.kr/rss/@@301t
@@ -2207,6 +2243,7 @@
   blog: http://whiteship.me/
   rss: http://whiteship.me/?feed=rss2
   description: Java, Spring
+  slideshare: https://www.slideshare.net/whiteship
 - name: 백명석
   blog: https://brunch.co.kr/@cleancode
   rss: https://brunch.co.kr/rss/@@2xm
@@ -2222,6 +2259,8 @@
   rss: http://koreaceladon.tistory.com/rss
   description: Storage
   facebook: https://www.facebook.com/Apheleia
+- name: 백정상
+  slideshare: https://www.slideshare.net/jeongsangbaek
 - name: 범이
   blog: http://blog.daum.net/funfunction
   rss: http://blog.daum.net/xml/rss/funfunction
@@ -2399,6 +2438,9 @@
   linkedin: https://www.linkedin.com/in/scinix/
   twitter: https://twitter.com/scinix
   stackoverflow: https://stackoverflow.com/users/1111002/sio4
+- name: 손동호
+  linkedin: https://www.linkedin.com/in/dong-ho-son-2a441312a/
+  slideshare: https://www.slideshare.net/DongHoSon1
 - name: 손승하
   blog: http://sonseungha.tistory.com/
   rss: http://sonseungha.tistory.com/rss
@@ -2918,6 +2960,10 @@
   description: HTML5 게임 개발
   github: https://github.com/lazygyu
   facebook: https://www.facebook.com/lazygyu
+- name: 엄태욱
+  twitter: https://twitter.com/taewooke
+  linkedin: https://www.linkedin.com/in/taewookeom/
+  slideshare: https://www.slideshare.net/taewook
 - name: 엄태웅
   blog: http://t-robotics.blogspot.kr/
   rss: http://t-robotics.blogspot.com/feeds/posts/default
@@ -3044,6 +3090,7 @@
   twitter: https://twitter.com/ooti
   facebook: https://www.facebook.com/xenonix
   instagram: https://www.instagram.com/xenonix/
+  slideshare: https://www.slideshare.net/xenonix
 - name: 용찬호
   blog: http://blog.naver.com/alice_k106
   rss: https://rss.blog.naver.com/alice_k106.xml
@@ -3237,6 +3284,10 @@
   github: https://github.com/sople1
   twitter: https://twitter.com/sople1
   home: https://snooey.net/
+- name: 윤성준
+  twitter: https://twitter.com/exnis
+  linkedin: https://www.linkedin.com/in/sungjoonyoon/
+  slideshare: https://www.slideshare.net/exnis
 - name: 윤승환
   blog: http://blog.daum.net/epilogs
   description: Elastic
@@ -3250,6 +3301,8 @@
   rss: http://malchooni.name/feed/
   description: Python
   facebook: https://www.facebook.com/profile.php?id=100002404362186
+- name: 윤지수
+  slideshare: https://www.slideshare.net/jisuyoun
 - name: 윤진
   blog: http://storycompiler.tistory.com/
   rss: http://storycompiler.tistory.com/rss
@@ -3344,6 +3397,10 @@
   blog: http://start.goodtime.co.kr/
   rss: http://start.goodtime.co.kr/feed/
   description: ''
+- name: 이동민
+  facebook: https://www.facebook.com/dongminleeai
+  linkedin: https://www.linkedin.com/in/dongminlee/
+  slideshare: https://www.slideshare.net/DongMinLee32
 - name: 이동욱
   blog: https://blog.naver.com/edy5016
   rss: https://rss.blog.naver.com/edy5016.xml
@@ -3646,6 +3703,7 @@
   facebook: https://www.facebook.com/plusjune
   github: https://github.com/financedata
   linkedin: https://www.slideshare.net/plusjune
+  slideshare: https://www.slideshare.net/plusjune
 - name: 이승현
   blog: http://hamait.tistory.com/
   rss: http://hamait.tistory.com/rss
@@ -3702,6 +3760,9 @@
   facebook: https://www.facebook.com/wangeunl
   github: https://github.com/icednut
   linkedin: https://www.linkedin.com/in/wangeun-lee-550a93a2/
+- name: 이용혁
+  twitter: https://twitter.com/skynle
+  slideshare: https://www.slideshare.net/unlogicaldev
 - name: 이용환
   blog: https://medium.com/@leeyh0216
   rss: https://medium.com/feed/@leeyh0216
