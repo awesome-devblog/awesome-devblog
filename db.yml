@@ -85,6 +85,12 @@
   blog: https://medium.com/@shaynekang
   rss: https://medium.com/feed/@shaynekang
   description: ''
+- name: 강임성
+  blog: https://imseongkang.wordpress.com/
+  rss: https://imseongkang.wordpress.com/feed/
+  description: 게임 개발
+  twitter: https://twitter.com/Imseong
+  slideshare: https://www.slideshare.net/ImseongKang
 - name: 강재호
   blog: http://blog.greennuri.info/
   rss: http://blog.greennuri.info/?feed=rss2
@@ -561,6 +567,9 @@
   rss: http://dgkim5360.tistory.com/rss
   description: Machine Learning
   github: https://github.com/dgkim5360
+- name: 김동민
+  slideshare: https://www.slideshare.net/ssuser2ced101
+  linkedin: https://www.linkedin.com/in/dongmin-kim-635921156/
 - name: 김동열
   blog: http://greatkim91.tistory.com/
   rss: http://greatkim91.tistory.com/rss
@@ -1951,6 +1960,8 @@
   rss: http://tmmse.xyz/author/park/rss/
   description: C++
   home: http://tmmse.xyz/jong-hyun-park/
+- name: 박주은
+  slideshare: https://www.slideshare.net/jooeunpark501
 - name: 박주형
   blog: https://medium.com/@majecty
   rss: https://medium.com/feed/@majecty
@@ -3020,6 +3031,8 @@
   rss: http://zinee-world.tistory.com/rss
   description: Front-end
   github: https://github.com/mmt-zinee
+- name: 옥찬호
+  slideshare: https://www.slideshare.net/utilforever
 - name: 왕형준
   blog: https://medium.com/@whj2013123218
   rss: https://medium.com/feed/@whj2013123218
