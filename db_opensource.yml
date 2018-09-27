@@ -147,6 +147,10 @@
   home: https://caffe2.ai/
   github: https://github.com/caffe2/caffe2
   tags: Machine Learning
+- name: CartoDB
+  home: https://carto.com/
+  github: https://github.com/CartoDB/cartodb
+  tags: Visualization
 - name: Cassandra
   home: http://cassandra.apache.org/
   github: https://github.com/apache/cassandra
@@ -285,7 +289,7 @@
   github: https://github.com/electron/electron
   blog: https://electronjs.org/blog
   twitter: https://twitter.com/electronjs
-  tags: Native Application Framework
+  tags: Application Framework
 - name: Ember.js
   home: https://emberjs.com/
   github: https://github.com/emberjs/ember.js
@@ -371,7 +375,7 @@
   twitter: https://twitter.com/flutterio
   gitter: https://gitter.im/flutter/flutter
   stackoverflow: https://stackoverflow.com/tags/flutter
-  tags: Native Application Framework
+  tags: Application Framework
 - name: Fn
   home: http://fnproject.io/
   github: https://github.com/fnproject/fn
@@ -385,6 +389,9 @@
   twitter: https://twitter.com/fontawesome
   facebook: https://www.facebook.com/fontawesome
   tags: Font
+- name: Forest
+  github: https://github.com/forest-lang/forest-compiler
+  tags: Programming Language
 - name: Foundation
   home: https://foundation.zurb.com/
   github: https://github.com/zurb/foundation-sites
@@ -531,6 +538,10 @@
   home: https://hyper.is/
   github: https://github.com/zeit/hyper
   tags: Terminal
+- name: hyper
+  home: https://hyper.rs/
+  github: https://github.com/hyperium/hyper
+  tags: Rust, Web Framework
 - name: impress.js
   home: https://impress.js.org/
   github: https://github.com/impress/impress.js
@@ -546,6 +557,12 @@
   twitter: https://twitter.com/influxdb
   facebook: https://www.facebook.com/influxdb
   tags: Database
+- name: Istio
+  home: https://istio.io/
+  github: https://github.com/istio/istio
+  blog: https://istio.io/blog/
+  slack: https://istio.slack.com/
+  tags: DevOps
 - name: iTerm2
   home: https://iterm2.com/
   github: https://github.com/gnachman/iTerm2
@@ -621,6 +638,12 @@
   home: https://sw.kovidgoyal.net/kitty/
   github: https://github.com/kovidgoyal/kitty
   tags: Terminal
+- name: Kitura
+  home: https://www.kitura.io/
+  github: https://github.com/ibm-swift/kitura
+  slack: http://swift-at-ibm-slack.mybluemix.net/
+  blog: https://developer.ibm.com/swift/blogs/
+  tags: Swift, Web Framework
 - name: Koa
   home: https://koajs.com/
   github: https://github.com/koajs/koa
@@ -679,6 +702,13 @@
   slack: https://slack.linkerd.io/
   discourse: https://discourse.linkerd.io/
   tags: Proxy
+- name: Linkerd2
+  home: https://linkerd.io/
+  github: https://github.com/linkerd/linkerd2
+  twitter: https://twitter.com/linkerd
+  slack: https://slack.linkerd.io/
+  discourse: https://discourse.linkerd.io/
+  tags: Proxy
 - name: Linux
   home: https://www.linuxfoundation.org/
   github: https://github.com/torvalds/linux
@@ -699,6 +729,10 @@
   gitter: https://gitter.im/strongloop/loopback
   googlegroups: https://groups.google.com/forum/#!forum/loopbackjs
   tags: JS Back-end Framework
+- name: lory
+  home: http://meandmax.github.io/lory/
+  github: https://github.com/meandmax/lory
+  tags: Slider
 - name: Luxon
   home: https://moment.github.io/luxon/
   github: https://github.com/moment/luxon
@@ -827,6 +861,11 @@
   github: https://github.com/nestjs/nest
   twitter: https://twitter.com/nestframework
   tags: JS Back-end Framework
+- name: netdata
+  home: https://my-netdata.io/
+  github: https://github.com/netdata/netdata
+  twitter: https://twitter.com/linuxnetdata
+  tags: Monitoring
 - name: Next.js
   home: https://nextjs.org/
   github: https://github.com/zeit/next.js
@@ -901,6 +940,10 @@
   github: https://github.com/openfaas/faas
   blog: https://www.openfaas.com/blog/
   tags: Serverless
+- name: OpenJFX
+  home: https://wiki.openjdk.java.net/display/OpenJFX/Main
+  github: https://github.com/javafxports/openjdk-jfx
+  tags: Application Framework
 - name: OpenPDF
   github: https://github.com/LibrePDF/OpenPDF
   tags: Java, PDF
@@ -941,6 +984,13 @@
   github: https://github.com/getpelican/pelican
   blog: https://blog.getpelican.com/
   tags: Static Site Generator
+- name: Perfect
+  home: https://www.perfect.org/
+  github: https://github.com/PerfectlySoft/Perfect
+  twitter: https://twitter.com/perfectlysoft
+  slack: http://www.perfect.ly/
+  stackoverflow: https://stackoverflow.com/questions/tagged/perfect
+  tags: Swift, Web Framework
 - name: PollyJS
   home: https://netflix.github.io/pollyjs
   github: https://github.com/Netflix/pollyjs
@@ -1016,6 +1066,11 @@
   twitter: https://twitter.com/RabbitMQ
   slack: https://rabbitmq-slack.herokuapp.com/
   tags: Message Broker
+- name: RAWGraphs
+  home: https://rawgraphs.io/
+  github: https://github.com/densitydesign/raw/
+  twitter: https://twitter.com/rawgraphs
+  tags: Visualization
 - name: React
   home: https://reactjs.org/
   github: https://github.com/facebook/react
@@ -1030,7 +1085,12 @@
   blog: http://facebook.github.io/react-native/blog/
   twitter: https://twitter.com/reactnative
   quora: https://www.quora.com/topic/React-Native-1
-  tags: Native Application Framework
+  tags: Application Framework
+- name: React-vis
+  home: https://uber.github.io/react-vis/
+  github: https://github.com/uber/react-vis
+  npm: https://www.npmjs.com/package/react-vis
+  tags: Visualization
 - name: Recharts
   home: http://recharts.org/
   github: https://github.com/recharts/recharts
@@ -1103,10 +1163,22 @@
   gitter: https://gitter.im/Semantic-Org/Semantic-UI
   googlegroups: https://groups.google.com/forum/#!forum/semantic-ui
   tags: UI Framework
+- name: Sensu
+  home: https://sensu.io/
+  github: https://github.com/sensu/sensu
+  blog: https://blog.sensu.io/
+  twitter: https://twitter.com/sensu
+  slack: http://slack.sensu.io/
+  youtube: https://www.youtube.com/channel/UCr9oDBHCZumrn1B9ljF5E2w
+  tags: Monitoring
 - name: Servo
   home: https://servo.org/
   github: https://github.com/servo/servo
   tags: Javascript Engine
+- name: Shards
+  home: https://designrevision.com/downloads/shards/
+  github: https://github.com/designrevision/shards-ui
+  tags: UI Framework
 - name: Signale
   github: https://github.com/klauscfhq/signale
   npm: https://www.npmjs.com/package/signale
@@ -1119,6 +1191,10 @@
   slack: https://snapsvg.slack.com/
   googlegroups: https://groups.google.com/forum/#!forum/snapsvg
   tags: Animation
+- name: Sortable
+  home: http://rubaxa.github.io/Sortable/
+  github: https://github.com/RubaXa/Sortable
+  tags: Drag
 - name: Spark
   home: https://spark.apache.org/
   github: https://github.com/apache/spark
@@ -1158,6 +1234,12 @@
   youtube: https://www.youtube.com/tensorflow
   twitter: https://twitter.com/tensorflow
   tags: Machine Learning
+- name: Tink
+  github: https://github.com/google/tink
+  tags: Security
+- name: tink
+  github: https://github.com/npm/tink
+  tags: JS Package Manager
 - name: TurtleDB
   home: https://turtle-db.github.io/
   github: https://github.com/turtle-DB/turtleDB
@@ -1195,6 +1277,12 @@
   home: http://ui.toast.com/tui-editor/
   github: https://github.com/nhnent/tui.editor
   tags: Text Editor
+- name: Tokio
+  home: https://tokio.rs/
+  github: https://github.com/tokio-rs/tokio
+  gitter: https://gitter.im/tokio-rs/tokio
+  twitter: https://twitter.com/tokio_rs
+  tags: Rust, Web Framework
 - name: Tone.js
   home: https://tonejs.github.io/
   github: https://github.com/Tonejs/Tone.js/
@@ -1222,6 +1310,13 @@
   github: https://github.com/hashicorp/vagrant
   forum: https://groups.google.com/forum/#!forum/vagrant-up
   tags: DevOps
+- name: Vapor
+  home: https://vapor.codes/
+  github: https://github.com/vapor/vapor
+  discord: https://discordapp.com/invite/vapor
+  twitter: https://twitter.com/codevapor
+  blog: https://medium.com/@codevapor
+  tags: Swift, Web Framework
 - name: Velocity
   home: http://velocityjs.org/
   github: https://github.com/julianshapiro/velocity
@@ -1251,11 +1346,23 @@
   medium: https://medium.com/the-vue-point
   quora: https://www.quora.com/topic/Vue-js
   tags: JS Front-end Framework
+- name: Vue.Draggable
+  github: https://github.com/SortableJS/Vue.Draggable
+  npm: https://www.npmjs.com/package/vue-draggable
+  tags: Drag
+- name: VuePress
+  home: https://vuepress.vuejs.org/
+  github: https://github.com/vuejs/vuepress
+  tags: Static Site Generator
 - name: Vuido
   home: https://vuido.mimec.org/
   github: https://github.com/mimecorg/vuido
   npm: https://www.npmjs.com/package/vuido
-  tags: Native Application Framework
+  tags: Application Framework
+- name: warp
+  home: https://seanmonstar.com/post/176530511587/warp
+  github: https://github.com/seanmonstar/warp
+  tags: Rust, Web Framework
 - name: WatermelonDB
   home: https://watermelondb.now.sh/
   github: https://github.com/Nozbe/WatermelonDB
