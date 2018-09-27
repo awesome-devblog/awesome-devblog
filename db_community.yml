@@ -94,6 +94,7 @@
 - name: Kotlin Korea
   home: http://kotlin.kr/
   blog: http://kotlin.kr/blog/
+  rss: http://kotlin.kr/feed.xml
   facebook: https://www.facebook.com/groups/kotlinkr
   twitter: https://twitter.com/kotlinkr
   meetup: https://www.meetup.com/ko-KR/kotlinkr/
@@ -122,9 +123,11 @@
 - name: 티몬의 개발이야기
   facebook: https://www.facebook.com/tmondev/
   blog: https://tmondev.blog.me/
+  rss: https://tmondev.blog.me/rss
 - name: SK플래닛 개발자활동
   facebook: https://www.facebook.com/README.SKP/
   blog: http://readme.skplanet.com/
+  rss: http://feeds.feedburner.com/skpreadme?format=xml
 - name: NAVER LABS
   facebook: https://www.facebook.com/naverlabs/
   home: https://www.naverlabs.com/
@@ -485,9 +488,6 @@
 - name: 카카오 기술 블로그
   blog: http://tech.kakao.com/
   rss: http://tech.kakao.com/rss/
-- name: 티몬
-  blog: http://tmondev.blog.me/
-  rss: http://tmondev.blog.me/rss
 - name: ㅍㅍㅅㅅ 테크
   blog: https://ppss.kr/archives/category/tech
   rss: https://ppss.kr/archives/category/tech/feed
@@ -663,7 +663,6 @@
 - name: 기글 하드웨어
   home: https://gigglehd.com/
 - name: 클리어보스
-  blog: http://www.clearboth.org/
   facebook: https://www.facebook.com/groups/clearboth/
   twitter: https://twitter.com/clearboth_kr
 - name: EFL Korea
@@ -692,6 +691,7 @@
 - name: 우분투 한국 커뮤니티
   home: https://www.ubuntu-kr.org/
   blog: http://blog.ubuntu-kr.org/
+  rss: http://blog.ubuntu-kr.org/feed.xml
   facebook: https://www.facebook.com/groups/ubuntu.ko/
   googleplus: https://plus.google.com/communities/112409570772055358734
   youtube: https://www.youtube.com/user/UbuntuKorea
@@ -699,6 +699,7 @@
 - name: KLDP
   home: https://kldp.org/
   blog: https://kldp.org/blog
+  rss: https://kldp.org/blog/feed
 - name: 한국 리눅스 민트 사용자 모임
   home: http://linuxmint.kr/
 - name: 넘버원 리눅스
@@ -770,6 +771,7 @@
 - name: 프로그래머스
   home: https://programmers.co.kr/
   blog: https://brunch.co.kr/@programmers
+  rss: https://brunch.co.kr/rss/@@Pmz
 - name: 모여서 각자 코딩하는 모임.
   facebook: https://www.facebook.com/groups/mogaco/
   github: https://github.com/OpenMogaco
@@ -781,6 +783,7 @@
 - name: SecurityFactory
   facebook: https://www.facebook.com/groups/631179123759684/
   blog: http://securityfactory.tistory.com/
+  rss: http://securityfactory.tistory.com/rss
 - name: TensorFlow KR
   facebook: https://www.facebook.com/groups/TensorFlowKR/
   slack: https://tensorflowkr.slack.com/
@@ -819,6 +822,7 @@
 - name: 얼리버드
   home: http://earlybird.ai/
   blog: http://earlybird.ai/main/blog/
+  rss: http://earlybird.ai/feed/
 - name: C++, OpenSource Study
   facebook: https://www.facebook.com/groups/OpenCPP/
 - name: SW아키텍처 실무자 포럼
@@ -826,10 +830,15 @@
 - name: CloudZ Labs
   home: http://cloudz-labs.sk.com/
   blog: https://tech.cloudz-labs.io/
+  rss: http://tech.cloudz-labs.io/index.xml
 - name: 오픈소스컨설팅 기술 블로그
   blog: https://tech.osci.kr/
+  rss: https://tech.osci.kr/rss/
 - name: 퀄컴코리아
   blog: https://blog.naver.com/qualcommkr
+  rss: https://rss.blog.naver.com/qualcommkr.xml
+  facebook: https://www.facebook.com/QualcommKR
+  youtube: https://www.youtube.com/channel/UCQp-q5ysBDacrAKdkGcsYjw
 - name: 코드스피츠
   facebook: https://www.facebook.com/groups/codespitz/
 - name: 함수형 자바스크립트
@@ -868,6 +877,7 @@
   home: http://www.trendmicro.co.kr/
 - name: 박스앤위스커
   blog: http://boxnwhis.kr/
+  rss: http://boxnwhis.kr/feed.xml
   facebook: https://www.facebook.com/boxnwhis.kr
   twitter: https://twitter.com/boxnwhiskr
   linkedin: https://www.linkedin.com/company/box-and-whisker/
