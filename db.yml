@@ -713,7 +713,7 @@
   github: https://github.com/harfangk
   twitter: https://twitter.com/harfangk
 - name: 김상원
-  blog: https://brunch.co.kr/@hero4earth  
+  blog: https://brunch.co.kr/@hero4earth
   rss: https://brunch.co.kr/rss/@@NjN
   description: 데이터 분석
   facebook: https://www.facebook.com/eddy.sangwon
@@ -1411,7 +1411,7 @@
   blog: http://flymogi.tistory.com/
   rss: http://flymogi.tistory.com/rss
   github: https://github.com/KimHunJin
-  description: Android  
+  description: Android
 - name: 김현남
   blog: http://booksummary.tistory.com/
   description: ''
@@ -3406,9 +3406,9 @@
   rss: https://rss.blog.naver.com/edy5016.xml
   description: Spring Boot
 - name: 이동욱
-  blog: http://jojoldu.tistory.com/
-  rss: http://jojoldu.tistory.com/rss
-  description: Java, Backend
+  blog: https://jojoldu.tistory.com/
+  rss: https://jojoldu.tistory.com/rss
+  description: Java, Spring, IntelliJ, Backend
   facebook: https://www.facebook.com/jojoldu
   github: https://github.com/jojoldu
 - name: 이동인
@@ -5550,7 +5550,7 @@
   blog: https://archive.htrucci.com
   description: Java, Back-End
   rss: https://archive.htrucci.com/feed/
-  github: https://github.com/htrucci/  
+  github: https://github.com/htrucci/
 - name: 황동현
   blog: http://dhhwang89.tistory.com/
   rss: http://dhhwang89.tistory.com/rss

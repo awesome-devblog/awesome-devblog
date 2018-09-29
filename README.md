@@ -543,6 +543,7 @@ Tag Cloud
 | 이동규 | https://medium.com/@guleum | Web | [![](icons/rss-icon.png)](https://medium.com/feed/@guleum)[![](icons/facebook-icon.png)](https://www.facebook.com/profile.php?id=100010476465837) |
 | 이동련 | http://start.goodtime.co.kr/ |  | [![](icons/rss-icon.png)](http://start.goodtime.co.kr/feed/) |
 | 이동욱 | https://blog.naver.com/edy5016 | Spring Boot | [![](icons/rss-icon.png)](https://rss.blog.naver.com/edy5016.xml) |
+| 이동욱 | https://jojoldu.tistory.com | Java, Spring, IntelliJ, Backend | [![](icons/rss-icon.png)](https://jojoldu.tistory.com/rss)[![](icons/github-icon.png)](https://github.com/jojoldu)[![](icons/facebook-icon.png)](https://www.facebook.com/jojoldu) |
 | 이동인 | https://brunch.co.kr/@leedongins | 서버 모니터링 | [![](icons/rss-icon.png)](https://brunch.co.kr/rss/@@1ffs) |
 | 이동준 | http://javalab.org/ | Java, Math | [![](icons/rss-icon.png)](http://javalab.org/feed/)[![](icons/facebook-icon.png)](https://www.facebook.com/dongjoonjava) |
 | 이동준 | https://dongjunlee.github.io/ | ML | [![](icons/rss-icon.png)](https://dongjunlee.github.io/feed.xml)[![](icons/facebook-icon.png)](https://www.facebook.com/dongjun.lee.98284)[![](icons/twitter-icon.png)](https://twitter.com/hb_djlee)[![](icons/github-icon.png)](https://github.com/DongjunLee)[![](icons/linkedin-icon.png)](https://www.linkedin.com/in/dongjun-lee/) |
