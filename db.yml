@@ -2901,6 +2901,10 @@
   blog: https://yangbongsoo.gitbooks.io/study/content/
   description: Java, Spring
   github: https://github.com/yangbongsoo
+- name: 양성익
+  blog: http://unikys.tistory.com/309
+  rss: https://http://unikys.tistory.com/309/rss
+  description: 자바스크립트
 - name: 양승화
   blog: https://brunch.co.kr/@leoyang99
   rss: https://brunch.co.kr/rss/@@BS4
