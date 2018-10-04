@@ -3,6 +3,15 @@
   home: http://activemq.apache.org/
   github: https://github.com/apache/activemq
   tags: Message Broker
+- name: Adonis
+  home: https://adonisjs.com/
+  github: https://github.com/adonisjs/adonis-framework
+  blog: https://adonisjs.svbtle.com/
+  twitter: https://twitter.com/adonisframework
+  forum: https://forum.adonisjs.com/
+  discord: https://discordapp.com/invite/vDcEjq6
+  npm: https://www.npmjs.com/package/@adonisjs/framework
+  tags: JS Back-end Framework
 - name: AIOHTTP
   home: https://aiohttp.readthedocs.io/en/stable/
   github: https://github.com/aio-libs/aiohttp

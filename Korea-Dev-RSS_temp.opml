@@ -17,6 +17,7 @@
             <outline title="IT동아" xmlUrl="http://it.donga.com/feeds/rss/recent/"/>
             <outline title="IT월드" xmlUrl="http://www.itworld.co.kr/rss/feed"/>
             <outline title="Outstanding" xmlUrl="http://outstanding.kr/feed/"/>
+            <outline title="ROA Daily" xmlUrl="https://www.roadaily.co.kr/feed"/>
         </outline>
 
         <outline title="overseas" text="해외 개발자 블로그 모음">
@@ -41,11 +42,6 @@
         <outline title="slide" text="슬라이드 모음">
             <outline title="권민재" xmlUrl="https://speakerdeck.com/mingrammer.atom"/>
             <outline title="배성혁" xmlUrl="https://speakerdeck.com/debop.atom"/>
-            <outline title="이윤환" xmlUrl="https://www.slideshare.net/rss/user/yoonani"/>
-            <outline title="이지민" xmlUrl="https://www.slideshare.net/rss/user/JiminLee36"/>
-            <outline title="정경업" xmlUrl="https://www.slideshare.net/rss/user/perhapsspy"/>
-            <outline title="정원석" xmlUrl="https://www.slideshare.net/rss/user/wonseokjung2"/>
-            <outline title="정재화" xmlUrl="https://www.slideshare.net/rss/user/blrunner"/>
             <outline title="정호영" xmlUrl="https://www.slideshare.net/rss/user/hoyoung2jung"/>
             <outline title="조광환" xmlUrl="https://www.slideshare.net/rss/user/kwnaghwancho"/>
             <outline title="조민환" xmlUrl="https://www.slideshare.net/rss/user/ssuser611bac"/>
