@@ -470,7 +470,7 @@ Tag Cloud
 | 양권성 | https://blog.perfectacle.com/ | Front-end | [![](icons/rss-icon.png)](https://blog.perfectacle.com/atom.xml)[![](icons/facebook-icon.png)](https://www.facebook.com/perfectacle)[![](icons/github-icon.png)](https://github.com/perfectacle) |
 | 양병규 | http://blog.naver.com/delmadang | 칼럼 | [![](icons/rss-icon.png)](https://rss.blog.naver.com/delmadang.xml) |
 | 양봉수 | https://yangbongsoo.gitbooks.io/study/content/ | Java, Spring | [![](icons/github-icon.png)](https://github.com/yangbongsoo) |
-| 양성익 | http://unikys.tistory.com | 자바스크립트 | [![](icons/rss-icon.png)http://unikys.tistory.com/rss]
+| 양성익 | http://unikys.tistory.com | 자바스크립트 | [![](icons/rss-icon.png)] (http://unikys.tistory.com/rss)
 | 양욱진 | http://blog.hazard.kr/ |  | [![](icons/facebook-icon.png)](https://www.facebook.com/ukjinplant)[![](icons/github-icon.png)](https://github.com/composite/)[![](icons/linkedin-icon.png)](https://www.linkedin.com/in/ukjinplant/) |
 | 양용성 | https://brunch.co.kr/@ysyang | SQLGate | [![](icons/rss-icon.png)](https://brunch.co.kr/rss/@@f5d) |
 | 양준철 | https://brunch.co.kr/@promise4u | 스타트업 | [![](icons/rss-icon.png)](https://brunch.co.kr/rss/@@lIP) |
