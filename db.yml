@@ -713,7 +713,7 @@
   github: https://github.com/harfangk
   twitter: https://twitter.com/harfangk
 - name: 김상원
-  blog: https://brunch.co.kr/@hero4earth  
+  blog: https://brunch.co.kr/@hero4earth
   rss: https://brunch.co.kr/rss/@@NjN
   description: 데이터 분석
   facebook: https://www.facebook.com/eddy.sangwon
@@ -1566,6 +1566,11 @@
   description: ''
   twitter: https://twitter.com/sbroh
   facebook: https://www.facebook.com/sbroh
+- name: 노우현
+  blog: https://www.rohwoohyeon.com
+  description: 'Form follows function'
+  github: https://github.com/whroh
+  facebook: https://www.facebook.com/woohyeon.roh
 - name: 노찬우
   blog: https://rajephon.github.io/blog/
   rss: https://rajephon.github.io/blog/feed.xml
