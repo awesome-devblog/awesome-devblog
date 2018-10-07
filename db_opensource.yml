@@ -72,6 +72,10 @@
   twitter: https://twitter.com/ava__js
   stackoverflow: https://stackoverflow.com/questions/tagged/ava
   tags: JS Testing
+- name: Axon
+  home: http://www.axonframework.org/
+  github: https://github.com/AxonFramework/AxonFramework
+  tags: JVM Back-end Framework
 - name: Babel
   home: https://babeljs.io/
   github: https://github.com/babel/babel
@@ -191,6 +195,14 @@
   gitter: https://gitter.im/Microsoft/CNTK
   blog: https://www.microsoft.com/en-us/cognitive-toolkit/blog/
   tags: Machine Learning
+- name: CockroachDB
+  home: https://www.cockroachlabs.com/
+  github: https://github.com/cockroachdb/cockroach
+  blog: https://www.cockroachlabs.com/blog/
+  forum: https://forum.cockroachlabs.com/
+  gitter: https://gitter.im/cockroachdb/cockroach
+  stackoverflow: https://stackoverflow.com/questions/tagged/cockroachdb
+  tags: Database
 - name: colorls
   github: https://github.com/athityakumar/colorls
   tags: CLI
@@ -209,6 +221,11 @@
   stackoverflow: https://stackoverflow.com/search?tab=newest&q=containerd
   youtube: https://www.youtube.com/results?search_query=containerd
   tags: Container Runtime
+- name: Convector
+  home: https://worldsibu.io/convector-smart-contract-systems/
+  github: https://github.com/worldsibu/convector
+  chat: https://discordapp.com/invite/twRwpWt
+  tags: Block Chain
 - name: CouchDB
   home: https://couchdb.apache.org/
   github: https://github.com/apache/couchdb
@@ -669,6 +686,10 @@
   slack: https://kotlinlang.slack.com/
   blog: https://medium.com/koin-developers
   tags: Kotlin, Framework
+- name: Koka
+  home: https://www.microsoft.com/en-us/research/project/koka/
+  github: https://github.com/koka-lang/koka
+  tags: Programming Language
 - name: Kong
   home: https://konghq.com/
   github: https://github.com/Kong/kong
@@ -814,6 +835,10 @@
   gitter: https://gitter.im/mithriljs/mithril.js
   stackoverflow: https://stackoverflow.com/questions/tagged/mithril.js
   tags: JS Front-end Framework
+- name: mo.js
+  home: http://mojs.io/
+  github: https://github.com/legomushroom/mojs
+  tags: Animation
 - name: Moby
   home: https://mobyproject.org/
   github: https://github.com/moby/moby
@@ -862,6 +887,10 @@
   youtube: https://www.youtube.com/user/MySQLChannel
   googleplus: https://plus.google.com/+mysql
   tags: Database
+- name: Neo4j
+  home: https://neo4j.com/
+  github: https://github.com/neo4j/neo4j
+  tags: Database
 - name: Neofetch
   github: https://github.com/dylanaraps/neofetch
   tags: Monitoring
@@ -875,6 +904,10 @@
   github: https://github.com/netdata/netdata
   twitter: https://twitter.com/linuxnetdata
   tags: Monitoring
+- name: Neutralinojs
+  home: https://neutralino.js.org/
+  github: https://github.com/neutralinojs/neutralinojs
+  tags: Application Framework
 - name: Next.js
   home: https://nextjs.org/
   github: https://github.com/zeit/next.js
@@ -1118,6 +1151,10 @@
   home: https://revealjs.com/
   github: https://github.com/hakimel/reveal.js
   tags: Presentation
+- name: Ring
+  home: http://ring-lang.net/
+  github: https://github.com/ring-lang/ring
+  tags: Programming Language
 - name: Ring UI
   home: https://jetbrains.github.io/ring-ui
   github: https://github.com/JetBrains/ring-ui
@@ -1243,12 +1280,26 @@
   youtube: https://www.youtube.com/tensorflow
   twitter: https://twitter.com/tensorflow
   tags: Machine Learning
+- name: Three.js
+  home: https://threejs.org/
+  github: https://github.com/mrdoob/three.js/
+  slack: https://threejs-slack.herokuapp.com/
+  forum: https://discourse.threejs.org/
+  stackoverflow: https://stackoverflow.com/questions/tagged/three.js
+  tags: 3D Graphics
 - name: Tink
   github: https://github.com/google/tink
   tags: Security
 - name: tink
   github: https://github.com/npm/tink
   tags: JS Package Manager
+- name: Total.js
+  home: https://www.totaljs.com/
+  github: https://github.com/totaljs/framework
+  blog: https://blog.totaljs.com/
+  twitter: https://twitter.com/totalframework
+  facebook: https://www.facebook.com/totaljs.web.framework/
+  tags: JS Back-end Framework
 - name: TurtleDB
   home: https://turtle-db.github.io/
   github: https://github.com/turtle-DB/turtleDB
@@ -1282,6 +1333,10 @@
   home: https://js.tensorflow.org/
   github: https://github.com/tensorflow/tfjs
   tags: Machine Learning
+- name: TiDB
+  home: https://pingcap.com/
+  github: https://github.com/pingcap/tidb
+  tags: Database
 - name: Toast UI Editor
   home: http://ui.toast.com/tui-editor/
   github: https://github.com/nhnent/tui.editor
@@ -1342,6 +1397,12 @@
   github: https://github.com/vibora-io/vibora
   pypi: https://pypi.org/project/vibora/
   tags: Python, Web Framework
+- name: Vitess
+  home: https://vitess.io/
+  github: https://github.com/vitessio/vitess
+  blog: https://blog.vitess.io/
+  slack: https://vitess.slack.com/
+  tags: Database
 - name: VSCode
   home: https://code.visualstudio.com/
   github: https://github.com/Microsoft/vscode
@@ -1382,6 +1443,11 @@
   medium: https://medium.com/webpack
   stackoverflow: https://stackoverflow.com/questions/tagged/webpack
   tags: Javascript, Tool
+- name: whs.js
+  home: https://whs.io/
+  github: https://github.com/WhitestormJS/whs.js
+  chat: https://discordapp.com/invite/5yNCvC4
+  tags: 3D Graphics
 - name: xi-editor
   home: https://xi-editor.github.io/xi-editor/
   github: https://github.com/xi-editor/xi-editor
