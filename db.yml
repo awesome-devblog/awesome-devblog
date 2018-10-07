@@ -4224,6 +4224,10 @@
   linkedin: https://www.linkedin.com/in/jangkunblog/
   flickr: https://www.flickr.com/photos/jangkunblog/
   youtube: https://www.youtube.com/jangkunblog
+- name: 장영석
+  blog: https://brunch.co.kr/@ddangdol
+  rss: https://brunch.co.kr/rss/@@1cYs
+  description: Django, Elastic
 - name: 장영승
   blog: https://medium.com/@YoungSeungChang
   rss: https://medium.com/feed/@YoungSeungChang
