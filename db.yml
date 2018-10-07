@@ -1272,6 +1272,7 @@
   blog: https://brunch.co.kr/@lifidea
   rss: https://brunch.co.kr/rss/@@C6L
   description: 데이터 과학
+  aladin: http://www.aladin.co.kr/author/wauthor_overview.aspx?AuthorSearch=@4975468
 - name: 김진욱
   blog: http://rein.kr/blog/
   description: ''
@@ -2987,6 +2988,8 @@
   linkedin: https://www.linkedin.com/in/terryum/
   googleplus: https://plus.google.com/+TerryTaeWoongUm
   brunch: https://brunch.co.kr/@terryum
+  twitter: https://twitter.com/TerryUm_ML
+  youtube: https://www.youtube.com/channel/UCDku86cssbM288VJtl-GQKg
   home: http://terryum.io/
 - name: 엄태형
   blog: https://brunch.co.kr/@taebari
@@ -4460,6 +4463,11 @@
   blog: http://jdm.kr/blog/
   description: Java
   home: https://jdm.kr/
+- name: 정만수
+  blog: https://brunch.co.kr/@pronist
+  rss: https://brunch.co.kr/rss/@@5ZK0
+  description: 티도리
+  github: https://github.com/pronist
 - name: 정민혁
   blog: https://www.holaxprogramming.com/
   rss: https://www.holaxprogramming.com/atom.xml
