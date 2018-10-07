@@ -4339,6 +4339,12 @@
   blog: http://www.allofsoftware.net/
   rss: http://feeds.feedburner.com/allofsoftware?format=xml
   description: 기업문화
+- name: 전기환
+  blog: https://brunch.co.kr/@yahao2512
+  rss: https://brunch.co.kr/rss/@@1q2y
+  description: 콘텐츠
+  facebook: https://www.facebook.com/yahao2512
+  instagram: https://www.instagram.com/yahao2512/
 - name: 전동규
   blog: http://www.php5.me/blog/
   rss: http://www.php5.me/blog/feed/
