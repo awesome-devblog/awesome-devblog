@@ -558,6 +558,10 @@
 - name: 김도현
   blog: http://loboprix.com/
   description: ''
+- name: 김도형
+  blog: https://brunch.co.kr/@iliyard
+  rss: https://brunch.co.kr/rss/@@HP3
+  description: 게임 개발
 - name: 김도훈
   blog: https://dohoons.com/
   rss: https://dohoons.com/blog/feed
