@@ -2621,6 +2621,10 @@
   blog: https://medium.com/@dongjushin
   rss: https://medium.com/feed/@dongjushin
   description: 디자인
+- name: 신동훈
+  blog: https://brunch.co.kr/@reinlainer
+  rss: https://brunch.co.kr/rss/@@1UTF
+  description: 게임개발
 - name: 신민욱
   blog: https://minwook-shin.github.io/
   rss: https://minwook-shin.github.io/feed
@@ -4432,6 +4436,10 @@
   facebook: https://www.facebook.com/lesstif
   github: https://github.com/lesstif
   slideshare: https://www.slideshare.net/ssuser800974
+- name: 정금호
+  blog: https://brunch.co.kr/@nashorn74
+  rss: https://brunch.co.kr/rss/@@6xdo
+  description: 해외취업
 - name: 정기완
   blog: https://blog.naver.com/drifterz303
   rss: https://rss.blog.naver.com/drifterz303.xml
