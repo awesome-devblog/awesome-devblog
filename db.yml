@@ -3657,6 +3657,12 @@
   rss: http://blog.scaloid.org/feeds/posts/default
   description: 스칼라, 안드로이드
   googleplus: https://plus.google.com/101502680169820776781
+- name: 이성훈
+  blog: https://brunch.co.kr/@jamess
+  rss: https://brunch.co.kr/rss/@@2Jp
+  description: 스타트업
+  facebook: https://www.facebook.com/james.seonghoon.lee
+  instagram: https://www.instagram.com/seonghoonlee_/
 - name: 이세우
   blog: http://blog.xcoda.net/
   rss: http://blog.xcoda.net/rss
