@@ -791,6 +791,10 @@
   blog: https://brunch.co.kr/@sungjoonkim
   rss: https://brunch.co.kr/rss/@@20dR
   description: IT 컬럼
+- name: 김성준
+  blog: https://brunch.co.kr/@student
+  rss: https://brunch.co.kr/rss/@@IaG
+  description: 스타트업
 - name: 김성중
   blog: http://sungjk.github.io/
   rss: http://sungjk.github.io/feed.xml
@@ -4290,6 +4294,8 @@
   rss: http://dailykul.tistory.com/rss
   description: C/C++
   facebook: https://www.facebook.com/ThePhilosopoet
+  github: https://github.com/Ailrun
+  home: http://ailrun.github.io/
 - name: 장준혁
   blog: https://medium.com/@hyuk
   rss: https://medium.com/feed/@hyuk
