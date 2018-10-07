@@ -2637,10 +2637,6 @@
   blog: http://www.talk-with-hani.com/
   description: ''
   facebook: https://www.facebook.com/talkwithhani
-- name: 심영재
-  github: https://github.com/Hanul
-  facebook: https://www.facebook.com/mr.hanul
-  home: https://hanul.github.io/
 - name: 신영진
   blog: http://www.jiniya.net/
   rss: http://feeds.feedburner.com/codewiz
@@ -2736,6 +2732,10 @@
   rss: https://medium.com/feed/@hubert.shin
   description: 개발방법론
   facebook: https://www.facebook.com/hubert.shin
+- name: 심영재
+  github: https://github.com/Hanul
+  facebook: https://www.facebook.com/mr.hanul
+  home: https://hanul.github.io/
 - name: 심재석
   blog: https://byline.network/author/jsshim0622/
   description: IT 뉴스
@@ -5005,6 +5005,10 @@
   blog: http://khanrc.tistory.com/
   rss: http://khanrc.tistory.com/rss
   description: Data Science
+- name: 채규병
+  blog: https://brunch.co.kr/@qqplot
+  rss: https://brunch.co.kr/rss/@@1F9Q
+  description: 데이터 과학
 - name: 채반석
   blog: https://www.bloter.net/archives/author/chaibs
   description: ''
