@@ -19,9 +19,14 @@
 - [(tech-trend) 구루들이 찾는다는 테크 트렌드 - 유명 블로그와 소셜 유명인](http://keen.devpools.kr/2017/08/03/tech-trend-03/)
 
 ## 형제자매 프로젝트
+- AWESOME DEVBLOG(포탈) [Main](https://awesome-devblog.now.sh/) [Sub](https://awesome-devblog.herokuapp.com/)
 - [어썸블로그(안드로이드)](https://play.google.com/store/apps/details?id=org.petabytes.awesomeblogs)
 - [어썸블로그(iOS)](https://itunes.apple.com/us/app/어썸-블로그/id1276023809)
 - [Daily DevBlog(뉴스레터)](http://daily-devblog.com/)
+- [DEVBLOG(메타블로그)](http://devblog.selfhow.com/)
+
+## 커뮤니티
+- [Gitter](https://gitter.im/awesome-devblog/Lobby)
 
 ## 목차
 
@@ -43,10 +48,6 @@
 - [국외 팀 사이트](overseas.md)
 
 ## 국내 개인 사이트
-
-Tag Cloud
-
-![Tag Cloud](https://cdn-images-1.medium.com/max/800/0*J6kjz84gOsXX4pNX.png)
 
 ### ᄀ
 
