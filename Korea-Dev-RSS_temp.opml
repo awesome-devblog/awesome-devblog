@@ -62,7 +62,7 @@
             <outline title="유미테크" xmlUrl="https://www.slideshare.net/rss/user/ymtech"/>
         </outline>
 
-        <outline title="youtube" text="방송 모음">
+        <outline title="youtube" text="국내 방송 모음">
             <outline title="10make 텐메이크" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCdxKvCYclTejo7FUXXLwZnA"/>
             <outline title="개발토끼" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCuuyTE8bBNYCujb7mzf8H7w"/>
             <outline title="곽민수" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCZ7c3OpOYicLQDDZyKevDDw"/>
@@ -91,6 +91,7 @@
             <outline title="정문영" xmlUrl="https://www.youtube.com/feeds/videos.xml?user=darkeast0718"/>
             <outline title="조현영" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCp-vBtwvBmDiGqjvLjChaJw"/>
             <outline title="뚜벅개발TV" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCl6ss_VCMBOSCCrVjzW2r0Q"/>
+            <outline title="캘리탐험대" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCZX4ss_cfINJANJdNMgxjvg"/>
             <outline title="케빈 TV" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCsOJxLxzQl8IbwGS-Cp5t8w"/>
             <outline title="포프TV" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC63J0Q5huHSlbNT3KxvAaHQ"/>
             <outline title="한국전자통신연구원" xmlUrl="https://www.youtube.com/feeds/videos.xml?user=etri9401"/>
@@ -100,25 +101,18 @@
             <outline title="홍정모" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCg6IlhycdYiK_nWB3spjIqA"/>
             <outline title="Ubuntu Korea" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCid525Nc3OXk6SjLZ28cX5Q"/>
             <outline title="TV플루토" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC8JVpZGSvoIwO6usKUYItHA"/>
-            <outline title="Assaf Muller" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC2hevos8HGSSqrv3IiHN3fg"/>
             <outline title="Babo_Coding" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCcMW283tl-0u9ZZSwOvkupQ"/>
             <outline title="Chanwoo Jacob Lee" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCRyIQSBvSybbaNY_JCyg_vA"/>
-            <outline title="Code Explained" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC8n8ftV94ZU_DJLOLtrpORA"/>
-            <outline title="Coding Tech" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCtxCXg-UvSnTKPOzLH4wJaQ"/>
             <outline title="creApplecom" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCZ73ED3NQQB-FRE14uXU_3A"/>
-            <outline title="David Mahler" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCEoaojfEY_6L5TWWjIn9t9Q"/>
             <outline title="deviantCJ" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC7pxRIgkEUGuJvItZ_K22KQ"/>
             <outline title="GDG Korea" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCu3QGcALTC0FuXMma_dpK0A"/>
             <outline title="GDG Korea Android" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCvLeTAlv3s84BIiYxVCeSag"/>
             <outline title="GM Yankee" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC9RsPwY9QfPDGD-IMEwLn3Q"/>
-            <outline title="Google Chrome Developers" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCnUYZLuoy1rq1aVMwx4aTzw"/>
-            <outline title="Google Developers" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC_x5XG1OV2P6uZZ5FSM9Ttw"/>
             <outline title="Gunny's Algorithm Together" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCpvCtCSiVi_tkWO6T9Cl6mw"/>
             <outline title="Ho-sung Choi" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCdGTtaI-ERLjzZNLuBj3X6A"/>
             <outline title="Information and Intelligence" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCsTLxzflxRK2pbP99MIjQSA"/>
             <outline title="NAVER D2" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCNrehnUq7Il-J7HQxrzp7CA"/>
             <outline title="newlec1" xmlUrl="https://www.youtube.com/feeds/videos.xml?user=newlec1"/>
-            <outline title="O'Reilly" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC3BGlwmI-Vk6PWyMt15dKGw"/>
             <outline title="OpenStack Korea Group" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCVQ1ILIOsGH-YX9FkEmkjRQ"/>
             <outline title="SAYUN TV 사윤TV" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCNKmQkO1zhCwsIqqrh7pSAg"/>
             <outline title="SKtechx Tacademy" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCtV98yyffjUORQRGTuLHomw"/>
@@ -126,10 +120,20 @@
             <outline title="Smile Han" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCM8wseo6DkA-D7yGlCrcrwA"/>
             <outline title="SnowL TV" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCQb8-qm-W9f4Wvf6r_kEf0A"/>
             <outline title="Software Tool Time" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCora73FsjH9ZuIjCvJ0J0iA"/>
-            <outline title="Stephen Foskett" xmlUrl="https://www.youtube.com/feeds/videos.xml?user=stephenfoskett"/>
             <outline title="Sung Kim" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCML9R2ol-l0Ab9OXoNnr7Lw"/>
             <outline title="Terry TaeWoong Um" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCDku86cssbM288VJtl-GQKg"/>
             <outline title="TeamLab" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC_kvhNYJtP1-Ap67byTbfuw"/>
+        </outline>
+
+        <outline title="youtube2" text="해외 방송 모음">
+            <outline title="Assaf Muller" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC2hevos8HGSSqrv3IiHN3fg"/>
+            <outline title="Code Explained" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC8n8ftV94ZU_DJLOLtrpORA"/>
+            <outline title="Coding Tech" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCtxCXg-UvSnTKPOzLH4wJaQ"/>
+            <outline title="David Mahler" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCEoaojfEY_6L5TWWjIn9t9Q"/>
+            <outline title="Google Chrome Developers" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCnUYZLuoy1rq1aVMwx4aTzw"/>
+            <outline title="Google Developers" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC_x5XG1OV2P6uZZ5FSM9Ttw"/>
+            <outline title="O'Reilly" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC3BGlwmI-Vk6PWyMt15dKGw"/>
+            <outline title="Stephen Foskett" xmlUrl="https://www.youtube.com/feeds/videos.xml?user=stephenfoskett"/>
         </outline>
 
         <outline title="comics" text="만화">
@@ -143,6 +147,7 @@
             <outline title="MonkeyUser" xmlUrl="https://www.monkeyuser.com/feed.xml"/>
             <outline title="Pablo Stanley" xmlUrl="http://www.stanleycolors.com/feed/"/>
             <outline title="PHD Comics" xmlUrl="http://phdcomics.com/gradfeed.php"/>
+            <outline title="RaphComic" xmlUrl="https://raphcomic.com/feed.xml"/>
             <outline title="turnoff.us" xmlUrl="http://turnoff.us/feed.xml"/>
             <outline title="xkcd" xmlUrl="https://www.xkcd.com/rss.xml"/>
         </outline>
