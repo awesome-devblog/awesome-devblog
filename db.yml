@@ -1015,7 +1015,9 @@
 - name: 김인숙
   blog: http://webholic.net/
   rss: http://webholic.net/feed/
-  description: Web
+  description: Front-end
+  linkedin: https://www.linkedin.com/in/aria-in-suk-kim-a3158232/
+  slideshare: https://www.slideshare.net/shoo7830
 - name: 김재곤
   linkedin: https://www.linkedin.com/in/재곤-김-21b283119/
   github: https://github.com/jaegon-kim
@@ -1679,6 +1681,7 @@
   rss: https://brunch.co.kr/atom/@@2o8u
   description: ''
   facebook: https://www.facebook.com/moonj
+  aladin: https://www.aladin.co.kr/author/wauthor_overview.aspx?AuthorSearch=@6307552
 - name: 문형환
   blog: http://blog.lael.be/
   rss: http://blog.lael.be/feed
@@ -4669,6 +4672,9 @@
   blog: https://brunch.co.kr/@toughrogrammer
   rss: https://brunch.co.kr/rss/@@1dLN
   description: ''
+- name: 정준석
+  github: https://github.com/korcosin
+  slideshare: https://www.slideshare.net/junseokjung1
 - name: 정지용
   github: https://github.com/bwhite8129
   twitter: https://twitter.com/ways_jung
