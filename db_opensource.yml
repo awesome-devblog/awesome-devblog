@@ -72,6 +72,10 @@
   twitter: https://twitter.com/ava__js
   stackoverflow: https://stackoverflow.com/questions/tagged/ava
   tags: JS Testing
+- name: axios
+  github: https://github.com/axios/axios
+  npm: https://www.npmjs.com/package/axios
+  tags: HTTP Client
 - name: Axon
   home: http://www.axonframework.org/
   github: https://github.com/AxonFramework/AxonFramework
@@ -156,6 +160,10 @@
   github: https://github.com/c3js/c3
   googlegroups: https://groups.google.com/forum/#!forum/c3js
   tags: Javascript, Chart
+- name: Cabot
+  home: https://cabotapp.com/
+  github: https://github.com/arachnys/cabot
+  tags: Monitoring
 - name: Caffe2
   home: https://caffe2.ai/
   github: https://github.com/caffe2/caffe2
@@ -256,6 +264,7 @@
   home: https://date-fns.org/
   github: https://github.com/date-fns/date-fns
   twitter: https://twitter.com/date_fns
+  blog: https://blog.date-fns.org/
   npm: https://www.npmjs.com/package/date-fns
   tags: Date
 - name: Day.js
@@ -716,6 +725,13 @@
   stackoverflow: https://stackoverflow.com/questions/tagged/kubernetes
   discourse: https://discuss.kubernetes.io/
   tags: Container Orchestration
+- name: Ky
+  github: https://github.com/sindresorhus/ky
+  tags: HTTP Client
+- name: Lerna
+  home: https://lernajs.io/
+  github: https://github.com/lerna/lerna
+  tags: JS Package Manager
 - name: Libuv
   home: http://libuv.org/
   github: https://github.com/libuv/libuv
@@ -763,6 +779,10 @@
   home: http://meandmax.github.io/lory/
   github: https://github.com/meandmax/lory
   tags: Slider
+- name: low.js
+  home: http://www.lowjs.org/
+  github: https://github.com/neonious/lowjs
+  tags: Javascript Runtime
 - name: Luxon
   home: https://moment.github.io/luxon/
   github: https://github.com/moment/luxon
@@ -820,6 +840,12 @@
   github: https://github.com/zyedidia/micro
   gitter: https://gitter.im/zyedidia/micro
   tags: Text Editor
+- name: Micronaut
+  home: http://micronaut.io/
+  github: https://github.com/micronaut-projects/micronaut-core
+  gitter: https://gitter.im/micronautfw/
+  twitter: https://twitter.com/micronautfw
+  tags: JVM Back-end Framework
 - name: mini.css
   home: https://minicss.org/
   github: https://github.com/Chalarangelo/mini.css
@@ -945,6 +971,12 @@
   home: https://v4.loopback.io/oasgraph.html
   github: https://github.com/strongloop/oasgraph
   tags: GraphQL
+- name: oclif
+  home: https://oclif.io/
+  github: https://github.com/oclif/oclif
+  blog: https://oclif.io/blog/
+  gitter: https://gitter.im/oclif/oclif
+  tags: CLI
 - name: Oh My Zsh
   home: https://ohmyz.sh/
   github: https://github.com/robbyrussell/oh-my-zsh
@@ -1137,6 +1169,11 @@
   home: http://recharts.org/
   github: https://github.com/recharts/recharts
   tags: Javascript, Chart
+- name: Remmina
+  home: https://remmina.org/
+  github: https://github.com/FreeRDP/Remmina
+  blog: https://remmina.org/blog/
+  tags: Remote Desktop
 - name: Rete
   home: https://rete.js.org/
   github: https://github.com/retejs/rete
@@ -1304,6 +1341,10 @@
   home: https://turtle-db.github.io/
   github: https://github.com/turtle-DB/turtleDB
   tags: Database
+- name: Polka
+  github: https://github.com/lukeed/polka
+  npm: https://www.npmjs.com/package/polka
+  tags: JS Back-end Framework
 - name: ProseMirror
   home: http://prosemirror.net/
   github: https://github.com/ProseMirror/prosemirror
