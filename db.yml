@@ -172,12 +172,11 @@
   rss:  http://blog.rss.naver.com/nackji80.xml
   description: 네트워크
 - name: 고명석
-  blog: http://blog.myeongsku.com/
-  rss: http://blog.myeongsku.com/rss
+  blog: http://ifyoudontknow-youcandothis.tistory.com/
+  rss: http://ifyoudontknow-youcandothis.tistory.com/rss
   description: React
   facebook: https://www.facebook.com/myeongsku
   github: https://github.com/AlbertKo827
-  home: http://myeongsku.com/
 - name: 고명진
   blog: https://rjs1197.github.io/
   rss: https://rjs1197.github.io/feed.xml
@@ -4428,6 +4427,8 @@
   linkedin: https://www.linkedin.com/in/hosang-jeon-7063334b/
   stackoverflow: https://stackoverflow.com/users/533290/hosang-jeon
   home: http://hosangjeon.com/
+- name: 전효준
+  slideshare: https://www.slideshare.net/ssuser380e9c
 - name: 전희원(고감자)
   blog: http://freesearch.pe.kr/
   rss: http://feeds.feedburner.com/gogamza?format=xml
