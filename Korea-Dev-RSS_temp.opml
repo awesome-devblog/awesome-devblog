@@ -127,13 +127,31 @@
 
         <outline title="youtube2" text="해외 방송 모음">
             <outline title="Assaf Muller" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC2hevos8HGSSqrv3IiHN3fg"/>
+            <outline title="CNCF [Cloud Native Computing Foundation]" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCvqbFHwN-nwalWPjPUKpvTA"/>
             <outline title="Code Explained" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC8n8ftV94ZU_DJLOLtrpORA"/>
+            <outline title="codetap" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCr9aPqQ9u4RFLG46FcYP4iw"/>
             <outline title="Coding Tech" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCtxCXg-UvSnTKPOzLH4wJaQ"/>
+            <outline title="Confreaks" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCWnPjmqvljcafA0z2U1fwKQ"/>
             <outline title="David Mahler" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCEoaojfEY_6L5TWWjIn9t9Q"/>
+            <outline title="Derek Banas" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCwRXb5dUK4cvsHbx-rGzSgw"/>
+            <outline title="edureka!" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCkw4JCwteGrDHIsyIIKo4tQ"/>
+            <outline title="Engineers.SG" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCjRZr5HQKHVKP3SZdX8y8Qw"/>
+            <outline title="freeCodeCamp.org" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC8butISFwT-Wl7EV0hUK0BQ"/>
+            <outline title="GDC" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC0JB7TSe49lg56u6qH8y_MQ"/>
             <outline title="Google Chrome Developers" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCnUYZLuoy1rq1aVMwx4aTzw"/>
             <outline title="Google Developers" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC_x5XG1OV2P6uZZ5FSM9Ttw"/>
+            <outline title="GoogleTechTalks" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCtXKDgv1AVoG88PLl8nGXmw"/>
+            <outline title="InfoQ" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCkQX1tChV7Z7l1LFF4L9j_g"/>
+            <outline title="Microsoft Developer" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCsMica-v34Irf9KVTh6xx-g"/>
+            <outline title="NDC Conferences" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCTdw38Cw6jcm0atBPA39a0Q"/>
             <outline title="O'Reilly" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC3BGlwmI-Vk6PWyMt15dKGw"/>
+            <outline title="OWASP" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCe8j61ABYDuPTdtjItD2veA"/>
+            <outline title="PyData" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCOjD18EJYcsBog4IozkF_7w"/>
+            <outline title="SpringDeveloper" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC7yfnfvEUlXUIfm8rGLwZdA"/>
             <outline title="Stephen Foskett" xmlUrl="https://www.youtube.com/feeds/videos.xml?user=stephenfoskett"/>
+            <outline title="The Coding Train" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCvjgXvBlbQiydffZU7m1_aw"/>
+            <outline title="Uber Engineering" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCQlvjgieHGgkpP_9GiVyTGw"/>
+            <outline title="YOW! Conferences" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCAvGvvEemkeX8hurdPXr7hA"/>
         </outline>
 
         <outline title="comics" text="만화">
