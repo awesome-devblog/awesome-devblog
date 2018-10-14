@@ -4559,6 +4559,14 @@
   description: Linux
   facebook: https://www.facebook.com/ubi.toffee
   github: https://github.com/ubitoffee
+- name: 정성엽
+  blog: https://yeop-blog.github.io/
+  rss: https://yeop-blog.github.io/atom.xml
+  description: Back-end
+  facebook: https://www.facebook.com/sungyeop.jung
+  instagram: https://www.instagram.com/sungyeopjung/
+  github: https://github.com/seirian
+  home: http://yeop.net/
 - name: 정순형
   blog: https://medium.com/@soonhyungjung
   rss: https://medium.com/feed/@soonhyungjung
