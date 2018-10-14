@@ -2247,24 +2247,6 @@
   rss: https://medium.com/feed/@baejinho
   description: 스타트업, 치킨모임
   facebook: https://www.facebook.com/bae.jinho.3
-- name: 백승엽
-  blog: https://blog.naver.com/backsajang420
-  rss: https://rss.blog.naver.com/backsajang420.xml
-  description: Web, Front-end, Back-end
-  github: https://github.com/Dev-JeromeBaek
-  pinterest: https://www.pinterest.co.kr/jeromebaek/
-  portfolio: https://jeromeBaek-portfolio.ml
-- name: 백재연
-  blog: http://jybaek.tistory.com/
-  rss: http://jybaek.tistory.com/rss
-  description: Cloud
-  github: https://github.com/jybaek
-  facebook: https://www.facebook.com/WeGuardia
-  stackoverflow: https://stackoverflow.com/users/4599185/jaeyeon-baek
-- name: 백종찬
-  blog: https://brunch.co.kr/@jeffpaik
-  rss: https://brunch.co.kr/rss/@@CHl
-  description: 블록체인
 - name: 백기선
   blog: http://whiteship.me/
   rss: http://whiteship.me/?feed=rss2
@@ -2276,6 +2258,13 @@
   description: Java, OOP
   linkedin: https://www.linkedin.com/in/myeongseok-baek-b9b1591b/
   slideshare: https://www.slideshare.net/codetemplate
+- name: 백승엽
+  blog: https://blog.naver.com/backsajang420
+  rss: https://rss.blog.naver.com/backsajang420.xml
+  description: Web, Front-end, Back-end
+  github: https://github.com/Dev-JeromeBaek
+  pinterest: https://www.pinterest.co.kr/jeromebaek/
+  portfolio: https://jeromeBaek-portfolio.ml
 - name: 백승욱
   twitter: https://twitter.com/drumpet
   linkedin: https://www.linkedin.com/in/anthony-seungwook-paek-24b54228/
@@ -2285,8 +2274,23 @@
   rss: http://koreaceladon.tistory.com/rss
   description: Storage
   facebook: https://www.facebook.com/Apheleia
+- name: 백재연
+  blog: http://jybaek.tistory.com/
+  rss: http://jybaek.tistory.com/rss
+  description: Cloud
+  github: https://github.com/jybaek
+  facebook: https://www.facebook.com/WeGuardia
+  stackoverflow: https://stackoverflow.com/users/4599185/jaeyeon-baek
 - name: 백정상
   slideshare: https://www.slideshare.net/jeongsangbaek
+- name: 백종찬
+  blog: https://brunch.co.kr/@jeffpaik
+  rss: https://brunch.co.kr/rss/@@CHl
+  description: 블록체인
+- name: 백창열
+  twitter: https://twitter.com/cybaek
+  linkedin: https://www.linkedin.com/in/cybaek/
+  slideshare: https://www.slideshare.net/cybaek
 - name: 범이
   blog: http://blog.daum.net/funfunction
   rss: http://blog.daum.net/xml/rss/funfunction
