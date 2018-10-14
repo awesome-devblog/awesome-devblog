@@ -462,6 +462,13 @@
   blog: https://brunch.co.kr/@nassol
   rss: https://brunch.co.kr/rss/@@14Ig
   description: 개발자 영어
+- name: 김나영
+  blog: https://blog.naver.com/phlox__
+  rss: https://rss.blog.naver.com/phlox__.xml
+  description: Front-end
+  github: https://github.com/AnnYKim
+  codepen: https://codepen.io/nykim_
+  home: https://nykim.net/
 - name: 김나은
   blog: https://brunch.co.kr/@appletreehill
   rss: https://brunch.co.kr/rss/@@1d7C
