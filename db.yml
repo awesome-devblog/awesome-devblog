@@ -868,6 +868,13 @@
   blog: https://medium.com/@ksjksj0122
   rss: https://medium.com/feed/@ksjksj0122
   description: 블록체인
+- name: 김영균
+  blog: https://medium.com/@chancethecoder
+  rss: https://medium.com/feed/@chancethecoder
+  description: Linux
+  github: https://github.com/chancethecoder
+  blogspot: http://chancethecoder.blogspot.com/
+  home: http://chancethecoder.me/
 - name: 김영근
   blog: https://medium.com/@younggun
   rss: https://medium.com/feed/@younggun
