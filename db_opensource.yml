@@ -622,6 +622,12 @@
   github: https://github.com/json-path/JsonPath
   stackoverflow: https://stackoverflow.com/questions/tagged/jsonpath
   tags: JSON
+- name: Jenkins
+  home: https://jenkins.io/
+  github: https://github.com/jenkinsci/jenkins
+  blog: https://jenkins.io/node/
+  gitter: https://gitter.im/jenkinsci/jenkins
+  tags: DevOps
 - name: Jekyll
   home: https://jekyllrb.com/
   github: https://github.com/jekyll/jekyll
@@ -819,6 +825,12 @@
   cdnjs: https://cdnjs.com/libraries/materialize
   gitter: https://gitter.im/Dogfalo/materialize
   tags: UI Framework
+- name: Mattermost
+  home: https://mattermost.com/
+  github: https://github.com/mattermost/mattermost-server
+  blog: https://mattermost.com/blog/
+  twitter: https://twitter.com/mattermosthq
+  tags: Communication
 - name: Maven
   home: https://maven.apache.org/
   github: https://github.com/apache/maven
@@ -1228,6 +1240,10 @@
 - name: RxJava
   github: https://github.com/ReactiveX/RxJava
   tags: Java, Core Library
+- name: Rythm.js
+  home: https://okazari.github.io/Rythm.js/
+  github: https://github.com/Okazari/Rythm.js
+  tags: Animation
 - name: Sails
   home: https://sailsjs.com/
   github: https://github.com/balderdashy/sails
@@ -1274,6 +1290,13 @@
   slack: https://snapsvg.slack.com/
   googlegroups: https://groups.google.com/forum/#!forum/snapsvg
   tags: Animation
+- name: SonarQube
+  home: https://www.sonarqube.org/
+  github: https://github.com/SonarSource/sonarqube
+  blog: https://blog.sonarsource.com/
+  twitter: https://twitter.com/SonarQube
+  forum: https://community.sonarsource.com/
+  tags: Code Quality
 - name: Sortable
   home: http://rubaxa.github.io/Sortable/
   github: https://github.com/RubaXa/Sortable
@@ -1362,6 +1385,10 @@
   twitter: https://twitter.com/redisfeed
   reddit: https://www.reddit.com/r/redis/
   tags: Key-value Store
+- name: Sal.js
+  home: https://mciastek.github.io/sal/
+  github: https://github.com/mciastek/sal
+  tags: Animation
 - name: SpaceVim
   home: https://spacevim.org/
   github: https://github.com/SpaceVim/SpaceVim
@@ -1422,6 +1449,11 @@
   twitter: https://twitter.com/codevapor
   blog: https://medium.com/@codevapor
   tags: Swift, Web Framework
+- name: Vault
+  home: https://www.vaultproject.io/
+  github: https://github.com/hashicorp/vault
+  gitter: https://gitter.im/hashicorp-vault/Lobby
+  tags: DevOps
 - name: Velocity
   home: http://velocityjs.org/
   github: https://github.com/julianshapiro/velocity
