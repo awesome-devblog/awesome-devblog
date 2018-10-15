@@ -2779,6 +2779,10 @@
   blog: https://byline.network/author/jsshim0622/
   description: IT 뉴스
   facebook: https://www.facebook.com/shimgiza
+- name: 안경찬
+  blog: https://medium.com/@joypinkgom
+  rss: https://medium.com/feed/@joypinkgom
+  description: 분석
 - name: 안도형
   blog: https://adhrinae.github.io/
   rss: https://adhrinae.github.io/rss.xml
