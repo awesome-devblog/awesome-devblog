@@ -2424,7 +2424,6 @@
   github: https://github.com/seochangwook
 - name: 서충원
   blog: http://snowdeer.github.io/
-  rss: http://snowdeer.github.io/atom.xml
   description: C++, Linux
   facebook: https://www.facebook.com/snowdeer.seo
   github: https://github.com/snowdeer
@@ -5542,6 +5541,11 @@
   medium: https://medium.com/@Jbee_
   tistory: http://asfirstalways.tistory.com/
   home: http://friendly-belief.surge.sh/
+- name: 한정수
+  blog: https://ryan-han.com/
+  rss: https://ryan-han.com/index.xml
+  description: 출퇴근길 개발 읽기
+  github: https://github.com/integerous
 - name: 한정일
   blog: https://brunch.co.kr/@lonnie
   rss: https://brunch.co.kr/rss/@@SQo
