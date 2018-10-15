@@ -39,7 +39,7 @@
             <outline title="Uber Engineering Blog" xmlUrl="https://eng.uber.com/feed/"/>
         </outline>
 
-        <outline title="slide" text="슬라이드 모음">
+        <outline title="slide" text="국내 슬라이드 모음">
             <outline title="권민재" xmlUrl="https://speakerdeck.com/mingrammer.atom"/>
             <outline title="배성혁" xmlUrl="https://speakerdeck.com/debop.atom"/>
             <outline title="Amazon Web Services Korea" xmlUrl="https://www.slideshare.net/rss/user/awskorea"/>
@@ -53,6 +53,22 @@
             <outline title="Ubuntu Korea Community" xmlUrl="https://www.slideshare.net/rss/user/UbuntuKorea"/>
             <outline title="RIDI" xmlUrl="https://speakerdeck.com/ridi.atom"/>
             <outline title="유미테크" xmlUrl="https://www.slideshare.net/rss/user/ymtech"/>
+        </outline>
+
+        <outline title="slide2" text="해외 슬라이드 모음">
+            <outline title="Armon Dadgar" xmlUrl="https://speakerdeck.com/armon.atom"/>
+            <outline title="Christoph Rumpel" xmlUrl="https://speakerdeck.com/christophrumpel.atom"/>
+            <outline title="Deesha Vora" xmlUrl="https://speakerdeck.com/deesharv.atom"/>
+            <outline title="Gabriela de Queiroz" xmlUrl="https://speakerdeck.com/kroz.atom"/>
+            <outline title="Michael Heap" xmlUrl="https://speakerdeck.com/mheap.atom"/>
+            <outline title="Pycon ZA" xmlUrl="https://speakerdeck.com/pyconza.atom"/>
+            <outline title="Rico" xmlUrl="https://speakerdeck.com/rixco.atom"/>
+            <outline title="Shahid N. Shah" xmlUrl="https://speakerdeck.com/shah.atom"/>
+            <outline title="Shai Mishali" xmlUrl="https://speakerdeck.com/freak4pc.atom"/>
+            <outline title="Tal Safran" xmlUrl="https://speakerdeck.com/talsafran.atom"/>
+            <outline title="Valera Zakharov" xmlUrl="https://speakerdeck.com/valeraz.atom"/>
+            <outline title="Jennifer Reif" xmlUrl="https://speakerdeck.com/jmhreif.atom"/>
+            <outline title="Sabby Anandan" xmlUrl="https://speakerdeck.com/sabbyanandan.atom"/>
         </outline>
 
         <outline title="youtube" text="국내 방송 모음">
