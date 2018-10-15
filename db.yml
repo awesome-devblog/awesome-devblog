@@ -3095,6 +3095,12 @@
   rss: http://feeds.feedburner.com/OhyecloudyDevDiary?format=xml
   description: ''
   twitter: https://twitter.com/ohyecloudy
+- name: 오종택
+  blog: https://brunch.co.kr/@bellrings
+  rss: https://brunch.co.kr/rss/@@19OO
+  description: IT 칼럼
+  facebook: https://www.facebook.com/ringtheworld
+  instagram: https://www.instagram.com/jongtaek.o/
 - name: 오준석
   blog: https://brunch.co.kr/@hopeless
   rss: https://brunch.co.kr/rss/@@2iiS
