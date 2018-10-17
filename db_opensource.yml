@@ -294,6 +294,9 @@
   gitter: https://gitter.im/denolife/Lobby
   npm: https://www.npmjs.com/package/deno
   tags: Javascript Runtime
+- name: Detectron
+  github: https://github.com/facebookresearch/Detectron
+  tags: Machine Learning
 - name: Discourse
   github: https://github.com/discourse/discourse
   home: https://www.discourse.org/
@@ -307,6 +310,9 @@
   blog: https://www.djangoproject.com/weblog/
   twitter: https://twitter.com/djangoproject
   tags: Python, Web Framework
+- name: Dopamine
+  github: https://github.com/google/dopamine
+  tags: Machine Learning
 - name: Dumper.js
   github: https://github.com/zeeshanu/dumper.js
   tags: Debug
@@ -433,6 +439,11 @@
   forum: https://foundation.zurb.com/forum
   blog: https://zurb.com/blog
   tags: UI Framework
+- name: Frappe Charts
+  home: https://frappe.io/charts
+  github: https://github.com/frappe/charts
+  blog: https://frappe.io/blog
+  tags: Javascript, Chart
 - name: Fresco
   home: http://frescolib.org/
   github: https://github.com/facebook/fresco
@@ -457,6 +468,12 @@
   blog: https://blog.golang.org/
   twitter: https://twitter.com/golang
   tags: Programming Language
+- name: Go Ethereum
+  home: https://geth.ethereum.org/
+  github: https://github.com/ethereum/go-ethereum
+  gitter: https://gitter.im/ethereum/go-ethereum
+  discord: https://discordapp.com/invite/nthXNEv
+  tags: Block Chain
 - name: Godot
   home: https://godotengine.org/
   github: https://github.com/godotengine/godot
@@ -1319,6 +1336,12 @@
 - name: Spring-fu
   github: https://github.com/spring-projects/spring-fu
   tags: JVM Back-end Framework
+- name: Spyder
+  home: https://www.spyder-ide.org/
+  github: https://github.com/spyder-ide/spyder
+  blog: https://www.spyder-ide.org/blog/
+  gitter: https://gitter.im/spyder-ide/public
+  tags: IDE
 - name: Stacer
   home: https://oguzhaninan.github.io/Stacer-Web/
   github: https://github.com/oguzhaninan/Stacer
