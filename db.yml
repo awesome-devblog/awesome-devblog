@@ -1159,6 +1159,12 @@
   description: Back-end
   facebook: https://www.facebook.com/seretude
   github: https://github.com/kimpaper
+- name: 김주원
+  blog: http://blog.appkr.kr/
+  rss: http://blog.appkr.kr/feed.xml
+  description: PHP
+  facebook: https://www.facebook.com/juwonkimatmedotcom
+  github: https://github.com/appkr
 - name: 김준기
   blog: https://daybreaker.info/
   github: https://github.com/achimnol
