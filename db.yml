@@ -4083,6 +4083,7 @@
   facebook: https://www.facebook.com/realignist
 - name: 이한
   blog: https://blog.sn0wle0pard.io/
+  description: Python
   facebook: https://www.facebook.com/dev.sn0wle0pard
   github: https://github.com/sn0wle0pard
   linkedin: https://www.linkedin.com/in/sn0wle0pard/
@@ -5846,6 +5847,11 @@
   description: AWS
   github: https://github.com/harryhan24
   instagram: https://www.instagram.com/harryhan2435/
+- name: Jason Ryu
+  blog: https://medium.com/@sryu99
+  rss: https://medium.com/feed/@sryu99
+  description: Agile
+  linkedin: https://www.linkedin.com/in/jason-ryu-b5b8b6a8/
 - name: Justin Yoo
   blog: https://devkimchi.com/
   twitter: https://twitter.com/devkimchi
