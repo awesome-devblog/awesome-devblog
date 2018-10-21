@@ -10,7 +10,7 @@
     1. OPML 파일은 db.yml 파일에서 생성하고 있습니다. Feed Reader의 국내 개인 목록에서 OPML 포맷을 다운로드 받을 수 있습니다.
     1. 각종 차트도 db.yml 파일에서 생성하고 있습니다. (Feed Reader의 통계 페이지에서 확인하실 수 있습니다.)
     1. db.yml 파일을 이용한 2차 저작 환영합니다.
-1. 좋아요, 포크, 제보, 풀리퀘 모두 환영입니다.
+1. 좋아요, 포크, 제보, 풀리퀘 모두 환영입니다.프로젝트에 관심있으시면 gitter 들어오셔서 문의바랍니다.
 
 ## 소개글
 - [2017년 awesome-devblog 회고](https://medium.com/@sarojaba/2017년-awesome-devblog-회고-294694e0f99d)
