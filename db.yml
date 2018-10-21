@@ -2175,7 +2175,7 @@
   description: ''
   github: https://github.com/chiwanpark/
   twitter: https://twitter.com/parkchiwan
-  facebook: https://kr.linkedin.com/in/chiwanpark
+  facebook: https://www.linkedin.com/in/chiwanpark
 - name: 박해선
   blog: https://tensorflow.blog/
   rss: https://tensorflow.blog/feed/
@@ -2194,7 +2194,7 @@
   facebook: https://www.facebook.com/ez.amiryo
   twitter: https://twitter.com/lqez
   github: https://github.com/lqez
-  linkedin: http://www.linkedin.com/pub/hyun-woo-park/25/a42/271
+  linkedin: https://www.linkedin.com/in/hyunwoopark/
   slideshare: https://www.slideshare.net/lqez
   instagram: https://www.instagram.com/lqez/
   stackoverflow: http://stackoverflow.com/users/366908/lqez
@@ -2555,7 +2555,7 @@
   rss: https://devsdk.github.io/feed.xml
   description: OS
   facebook: https://www.facebook.com/profile.php?id=100006277740856
-  linkedin: https://www.linkedin.com/in/%EC%84%9D%ED%98%B8-%EC%86%A1-81a999135/
+  linkedin: https://www.linkedin.com/in/석호-송-81a999135/
   github: https://github.com/devsdk
 - name: 송성광
   blog: http://blog.saltfactory.net/
@@ -3199,7 +3199,7 @@
   description: Awesome-devblog
   facebook: https://www.facebook.com/sarojaba
   github: https://github.com/sarojaba
-  linkedin: https://www.linkedin.com/in/%EC%9A%B0%EC%A4%80%ED%98%81-sarojaba/
+  linkedin: https://www.linkedin.com/in/우준혁-sarojaba/
   twitter: https://twitter.com/sarojaba
   aboutme: https://about.me/sarojaba
 - name: 원강민
@@ -3252,7 +3252,7 @@
   blog: https://skyoo2003.github.io/
   rss: https://skyoo2003.github.io/feed.xml
   description: Ansible
-  linkedin: https://www.linkedin.com/in/%EC%84%B1%EA%B7%9C-%EC%9C%A0-6b2251b7/
+  linkedin: https://www.linkedin.com/in/성규-유-6b2251b7/
   github: https://github.com/skyoo2003
 - name: 유영모
   blog: https://medium.com/@SlackBeck
@@ -3427,12 +3427,12 @@
   blog: http://blog.leekyoungil.com/
   description: Java, Spring
   github: https://github.com/Leekyoungil
-  linkedin: https://www.linkedin.com/in/kyoungil-lee-5bb2539b/?trk=hp-identity-photo
+  linkedin: https://www.linkedin.com/in/kyoungil-lee-5bb2539b/
 - name: 이경찬
   blog: http://leekchan.com/
   description: Go
   facebook: https://www.facebook.com/leekchan
-  linkedin: https://kr.linkedin.com/in/leekchan
+  linkedin: https://www.linkedin.com/in/leekchan/
   github: https://github.com/leekchan/
 - name: 이광식
   blog: http://www.kwangsiklee.com/
@@ -3686,7 +3686,7 @@
   description: Back-end
   facebook: https://www.facebook.com/sunhyoup.lee
   github: https://github.com/kciter
-  linkedin: https://www.linkedin.com/in/%EC%84%A0%ED%98%91-%EC%9D%B4-17951392/
+  linkedin: https://www.linkedin.com/in/선협-이-17951392/
   slideshare: http://www.slideshare.net/sunhyouplee
 - name: 이성규
   blog: http://www.shalomeir.com/
@@ -3855,6 +3855,7 @@
   description: 인공지능
 - name: 이영찬
   blog: https://phillyai.github.io/
+  rss: https://phillyai.github.io/feed.xml
   twitter: https://twitter.com/dev_philly
   github: https://github.com/phillyai
   facebook: https://www.facebook.com/ars103
@@ -4351,7 +4352,7 @@
   blog: https://jaehue.github.io/
   description: Go
   facebook: https://www.facebook.com/bbugguj
-  linkedin: https://kr.linkedin.com/in/jaehue-jang-036aa7a8
+  linkedin: https://www.linkedin.com/in/jaehue-jang-036aa7a8/
   slideshare: https://www.slideshare.net/JaehueJang
 - name: 장정우
   blog: http://jungwoo5394.blogspot.com/
@@ -4539,7 +4540,7 @@
 - name: 정겨울
   blog: https://winterj.me/
   description: Python
-  linkedin: https://www.linkedin.com/in/%EA%B2%A8%EC%9A%B8-%EC%A0%95-121973130/
+  linkedin: https://www.linkedin.com/in/겨울-정-121973130/
   twitter: https://twitter.com/res_tin
   github: https://github.com/JungWinter
   slideshare: https://www.slideshare.net/wintermy201
@@ -4731,7 +4732,7 @@
   description: Front-end
   github: https://github.com/gomugom
   facebook: https://www.facebook.com/gomugomm
-  linkedin: https://www.linkedin.com/in/%EC%9E%AC%EB%82%A8-%EC%A0%95-206124105/
+  linkedin: https://www.linkedin.com/in/재남-정-206124105/
 - name: 정재화
   linkedin: https://www.linkedin.com/in/blrunner/
   slideshare: https://www.slideshare.net/blrunner
@@ -5207,6 +5208,7 @@
   blog: https://brunch.co.kr/@goodvc78
   rss: https://brunch.co.kr/rss/@@Kvs
   description: 데이터 과학
+  facebook: https://www.facebook.com/goodvc78
   linkedin: https://www.linkedin.com/in/choi-kyumin-9528b786/
   slideshare: https://www.slideshare.net/ssuser2fe594
 - name: 최규우
@@ -5254,7 +5256,7 @@
   description: Django
   facebook: https://www.facebook.com/gyukebox
   github: https://github.com/gyukebox
-  linkedin: https://www.linkedin.com/in/%eb%b3%91%ea%b7%9c-%ec%b5%9c-43290213b/
+  linkedin: https://www.linkedin.com/in/병규-최-43290213b/
 - name: 최석균
   blog: http://syaku.tistory.com/
   rss: http://syaku.tistory.com/rss
@@ -5439,7 +5441,7 @@
   rss: https://jacking75.github.io/feed.xml
   description: C++
   github: https://github.com/jacking75
-  linkedin: https://www.linkedin.com/in/%ED%9D%A5%EB%B0%B0-%EC%B5%9C-aa024344/
+  linkedin: https://www.linkedin.com/in/흥배-최-aa024344/
   twitter: https://twitter.com/jacking75
   tistory: http://jacking.tistory.com/
   slideshare: https://www.slideshare.net/jacking
