@@ -87,7 +87,6 @@
 | 권남 | http://kwon37xi.egloos.com/ | Java | [![](icons/rss-icon.png)](http://rss.egloos.com/blog/kwon37xi) |
 | 권동준 | https://mayajuni.github.io/ | Web | [![](icons/rss-icon.png)](https://mayajuni.github.io/feed.xml)[![](icons/facebook-icon.png)](https://www.facebook.com/dongjun.kwon.39)[![](icons/github-icon.png)](https://github.com/mayajuni) |
 | 권민재 | https://mingrammer.com/ | Python | [![](icons/rss-icon.png)](https://mingrammer.com/index.xml)[![](icons/facebook-icon.png)](https://www.facebook.com/mingrammer)[![](icons/twitter-icon.png)](https://twitter.com/mingrammer)[![](icons/github-icon.png)](https://github.com/mingrammer) |
-| 권보경 | http://www.elliekwon.com/ | iOS | [![](icons/rss-icon.png)](http://www.elliekwon.com/feeds/posts/default)[![](icons/facebook-icon.png)](https://www.facebook.com/elliebkwon)[![](icons/github-icon.png)](https://github.com/elliekwon)[![](icons/linkedin-icon.png)](https://www.linkedin.com/in/elliekwon/) |
 | 권성준 | https://gwonsungjun.github.io/ | Back-end |  [![](icons/rss-icon.png)](https://gwonsungjun.github.io/atom.xml)[![](icons/facebook-icon.png)](https://www.facebook.com/sungjun.gwon)[![](icons/github-icon.png)](https://github.com/gwonsungjun)[![](icons/twitter-icon.png)](https://twitter.com/kwen5600) |
 | 권영재 | https://nesoy.github.io/ |  | [![](icons/rss-icon.png)](https://nesoy.github.io/atom.xml)[![](icons/slideshare-icon.png)](https://www.slideshare.net/YoungJaeKwon3)[![](icons/facebook-icon.png)](https://www.facebook.com/Nesoy92)[![](icons/github-icon.png)](https://github.com/nesoy)[![](icons/linkedin-icon.png)](https://www.linkedin.com/in/young-jae-kwon-3514b3141/) |
 | 권용근 | https://kingbbode.github.io/ | Spring | [![](icons/rss-icon.png)](https://kingbbode.github.io/feed.xml)[![](icons/facebook-icon.png)](https://www.facebook.com/kingbbode)[![](icons/github-icon.png)](https://github.com/kingbbode) |
@@ -142,7 +141,7 @@
 | 김상훈 | https://interpiler.com/ | IT 칼럼 | [![](icons/rss-icon.png)](http://interpiler.com/index.php/feed/) |
 | 김석기 | https://brunch.co.kr/@neo3xdh | IT 칼럼 | [![](icons/rss-icon.png)](https://brunch.co.kr/rss/@@ERG) |
 | 김선영 | http://sunyzero.tistory.com/ | Linux | [![](icons/rss-icon.png)](http://sunyzero.tistory.com/rss) |
-| 김석준 | http://seokjun.kr/ | React | [![](icons/rss-icon.png)](http://seokjun.kr/rss/)[![](icons/linkedin-icon.png)](https://www.linkedin.com/in/seokjunkim/) |
+| 김석준 | https://seokjun.kim/ | React | [![](icons/rss-icon.png)](https://seokjun.kim/rss/)[![](icons/linkedin-icon.png)](https://www.linkedin.com/in/seokjunkim/) |
 | 김선철 | http://blog.naver.com/PostList.nhn?blogId=sckim007 |  | [![](icons/rss-icon.png)](http://blog.rss.naver.com/sckim007.xml) |
 | 김성빈 | http://sungbine.github.io/ | Web | [![](icons/rss-icon.png)](http://sungbine.github.io/feed.xml) |
 | 김성수 | http://sungsoo.github.io/ |  | [![](icons/facebook-icon.png)](https://www.facebook.com/sungsoo.kim.9693001)[![](icons/twitter-icon.png)](https://twitter.com/sskim79)[![](icons/linkedin-icon.png)](https://www.linkedin.com/in/sung-soo-kim-48676a34/) |
@@ -205,7 +204,6 @@
 | 김준형 | https://medium.com/@ghilbut |  | [![](icons/rss-icon.png)](https://medium.com/feed/@ghilbut)[![](icons/facebook-icon.png)](https://www.facebook.com/ghilbut) |
 | 김준환 | http://topnanis.tistory.com/ |  | [![](icons/rss-icon.png)](http://topnanis.tistory.com/rss) |
 | 김준희 | https://wnsgml972.github.io/ |  | [![](icons/rss-icon.png)](https://wnsgml972.github.io/wnsgml972.github.io/feed.xml)[![](icons/facebook-icon.png)](https://www.facebook.com/profile.php?id=100002784525012)[![](icons/github-icon.png)](https://github.com/wnsgml972)[![](icons/linkedin-icon.png)](https://www.linkedin.com/in/junhee-kim-252376167) |
-| 김중근 | http://confluence.swtool.review/ |IT Tourist, Tools, Android, SW Internal | [![](icons/rss-icon.png)](http://http://confluence.swtool.review/spaces/createrssfeed.action?types=page&spaces=HOME&maxResults=15&title=[HOME]+Pages+Feed&amp;publicFeed=false&amp;os_authType=basic)[![](icons/facebook-icon.png)](https://www.facebook.com/av9300)[![](icons/github-icon.png)](https://github.com/av930) |
 | 김지영 | https://brunch.co.kr/@pubjinson |  | [![](icons/rss-icon.png)](https://brunch.co.kr/rss/@@l9p) |
 | 김지우 | https://brunch.co.kr/@ken1224 | 스타트업, 음악산업 | [![](icons/rss-icon.png)](https://brunch.co.kr/rss/@@R2L) |
 | 김지운 | https://kishe89.github.io/ | Javascript | [![](icons/rss-icon.png)](https://kishe89.github.io/feed.xml)[![](icons/facebook-icon.png)](https://www.facebook.com/profile.php?id=100008052494285)[![](icons/github-icon.png)](https://github.com/kishe89) |
