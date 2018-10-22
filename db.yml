@@ -2228,6 +2228,12 @@
   blog: https://mathbarn.wordpress.com/
   rss: https://mathbarn.wordpress.com/feed/
   description: Ubuntu
+- name: 방동근
+  blog: https://blog.lulab.net/
+  rss: https://blog.lulab.net/rss/
+  description: Java
+  facebook: https://www.facebook.com/purebuddy
+  twitter: https://twitter.com/purebuddy
 - name: 방성원
   blog: http://makesource.tistory.com/
   rss: http://makesource.tistory.com/rss
