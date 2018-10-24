@@ -845,6 +845,7 @@
 | 홍용남 | https://brunch.co.kr/@doberman | 스타트업 | [![](icons/rss-icon.png)](https://brunch.co.kr/rss/@@QPF) |
 | 홍정모 | http://blog.naver.com/atelierjpro | AI | [![](icons/rss-icon.png)](https://rss.blog.naver.com/atelierjpro.xml) |
 | 홍철주 | https://medium.com/@angdev | Ruby, Javascript | [![](icons/rss-icon.png)](https://medium.com/feed/@angdev)[![](icons/facebook-icon.png)](https://www.facebook.com/vang0123v)[![](icons/twitter-icon.png)](https://twitter.com/angdev_) |
+| 황교빈 | http://archive.htrucci.com | Java, Back-End | [![](icons/rss-icon.png)](https://archive.htrucci.com/feed/)[![](icons/github-icon.png)](https://gitlab.com/htrucci/) |
 | 황규현 | http://lespinside.com | Reactive Programming | [![](icons/rss-icon.png)](http://blog.lespinside.com/feed.xml)[![](icons/github-icon.png)](https://github.com/lespinsideg)[![](icons/linkedin-icon.png)](https://www.linkedin.com/in/lespinside/) |
 | 황성우 | https://king10tech.github.io/ | Java | [![](icons/rss-icon.png)](https://king10tech.github.io/feed.xml)[![](icons/facebook-icon.png)](https://www.facebook.com/profile.php?id=100003478036284)[![](icons/github-icon.png)](https://github.com/king10tech) |
 | 황인서 | https://medium.com/@chequer | Spring | [![](icons/rss-icon.png)](https://medium.com/feed/@chequer)[![](icons/facebook-icon.png)](https://www.facebook.com/tjdus3361) |
