@@ -11,6 +11,7 @@
   forum: https://forum.adonisjs.com/
   discord: https://discordapp.com/invite/vDcEjq6
   npm: https://www.npmjs.com/package/@adonisjs/framework
+  awesome: https://github.com/zgabievi/awesome-adonisjs
   tags: JS Back-end Framework
 - name: AIOHTTP
   home: https://aiohttp.readthedocs.io/en/stable/
@@ -21,7 +22,7 @@
   home: https://altair-viz.github.io/
   github: https://github.com/altair-viz/altair
   tags: Visualization
-- name: AngularJS
+- name: Angular
   home: https://angular.io/
   github: https://github.com/angular/angular
   twitter: https://twitter.com/angular
@@ -29,6 +30,7 @@
   gitter: https://gitter.im/angular/angular
   stackoverflow: https://stackoverflow.com/questions/tagged/angular
   quora: https://www.quora.com/topic/AngularJS
+  awesome: https://github.com/gdi2290/awesome-angular
   tags: JS Front-end Framework
 - name: Animate.css
   home: https://daneden.github.io/animate.css/
@@ -45,6 +47,7 @@
   github: https://github.com/ansible/ansible
   blog: https://www.ansible.com/blog
   meetup: https://www.meetup.com/ko-KR/Ansible-Seoul/
+  awesome: https://github.com/jdauphant/awesome-ansible
   tags: DevOps
 - name: Apollo
   home: https://www.apollographql.com/
@@ -53,6 +56,7 @@
   slack: https://www.apollographql.com/slack
   twitter: https://twitter.com/apollographql
   youtube: https://www.youtube.com/channel/UC0pEW_GOrMJ23l8QcrGdKSw
+  awesome: https://github.com/ooade/awesome-apollo-graphql
   tags: GraphQL
 - name: Astroflow
   home: https://astrocorp.net/astroflow/
@@ -62,6 +66,7 @@
   home: https://atom.io/
   github: https://github.com/atom/atom
   blog: http://blog.atom.io/
+  awesome: https://github.com/mehcode/awesome-atom
   tags: Text Editor
 - name: Auto Keras
   home: https://autokeras.com/
@@ -71,6 +76,7 @@
   github: https://github.com/avajs/ava
   twitter: https://twitter.com/ava__js
   stackoverflow: https://stackoverflow.com/questions/tagged/ava
+  awesome: https://github.com/avajs/awesome-ava
   tags: JS Testing
 - name: axios
   github: https://github.com/axios/axios
@@ -86,6 +92,7 @@
   blog: https://babeljs.io/blog
   twitter: https://twitter.com/babeljs
   slack: https://babeljs.slack.com/
+  awesome: https://github.com/babel/awesome-babel
   tags: Javascript, Tool
 - name: Barrier
   github: https://github.com/debauchee/barrier
@@ -100,6 +107,7 @@
   twitter: https://twitter.com/bazelbuild
   stackoverflow: https://stackoverflow.com/questions/tagged/bazel
   forum: https://groups.google.com/forum/#!forum/bazel-discuss
+  awesome: https://github.com/jin/awesome-bazel
   tags: Java, Build
 - name: Blueprint
   home: https://blueprintjs.com/
@@ -110,6 +118,7 @@
   github: https://github.com/twbs/bootstrap
   twitter: https://twitter.com/getbootstrap
   blog: https://blog.getbootstrap.com/
+  awesome: https://github.com/therebelrobot/awesome-bootstrap
   tags: UI Framework
 - name: Bottle
   home: https://bottlepy.org/
@@ -139,6 +148,7 @@
   home: http://browserify.org/
   github: https://github.com/browserify/browserify
   twitter: https://twitter.com/browserify
+  awesome: https://github.com/browserify/awesome-browserify
   tags: Javascript, Tool
 - name: Brunch
   home: http://brunch.io/
