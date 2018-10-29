@@ -177,6 +177,7 @@
 - name: Caffe2
   home: https://caffe2.ai/
   github: https://github.com/caffe2/caffe2
+  awesome: https://github.com/MichaelXin/Awesome-Caffe
   tags: Machine Learning
 - name: CartoDB
   home: https://carto.com/
@@ -188,6 +189,7 @@
   blog: http://cassandra.apache.org/blog/
   twitter: https://twitter.com/cassandra
   stackoverflow: https://stackoverflow.com/questions/tagged/cassandra
+  awesome: https://github.com/yikebocai/awesome-cassandra
   tags: Database
 - name: Chart.js
   home: https://www.chartjs.org/
@@ -201,6 +203,7 @@
   home: https://www.chef.io/
   github: https://github.com/chef/chef
   slack: https://community-slack.chef.io/
+  awesome: https://github.com/obazoud/awesome-chef
   tags: DevOps
 - name: CherryPy
   home: https://cherrypy.org/
@@ -229,6 +232,7 @@
   github: https://github.com/hashicorp/consul
   gitter: https://gitter.im/hashicorp-consul/Lobby
   googlegroups: https://groups.google.com/group/consul-tool/
+  awesome: https://github.com/josegonzalez/awesome-consul
   tags: Service Discovery
 - name: containerd
   home: https://containerd.io/
@@ -249,6 +253,7 @@
   github: https://github.com/apache/couchdb
   twitter: https://twitter.com/couchdb
   dockerhub: https://hub.docker.com/_/couchdb/
+  awesome: https://github.com/quangv/awesome-couchdb
   tags: Database
 - name: Crystal
   home: https://crystal-lang.org/
@@ -256,6 +261,7 @@
   gitter: https://gitter.im/crystal-lang/crystal
   stackoverflow: https://stackoverflow.com/questions/tagged/crystal-lang
   blog: https://crystal-lang.org/blog/
+  awesome: https://github.com/veelenga/awesome-crystal
   tags: Programming Language
 - name: Curl
   home: https://curl.haxx.se/
@@ -265,10 +271,12 @@
   home: https://d3js.org/
   github: https://github.com/d3/d3
   cdnjs: https://cdnjs.com/libraries/d3
+  awesome: https://github.com/wbkd/awesome-d3
   tags: Visualization
 - name: Dash
   home: https://plot.ly/products/dash/
   github: https://github.com/plotly/dash
+  awesome: https://github.com/ucg8j/awesome-dash
   tags: Python, Web Framework
 - name: date-fns
   home: https://date-fns.org/
@@ -303,6 +311,7 @@
   github: https://github.com/denoland/deno
   gitter: https://gitter.im/denolife/Lobby
   npm: https://www.npmjs.com/package/deno
+  awesome: https://github.com/olivewind/awesome-deno
   tags: Javascript Runtime
 - name: Detectron
   github: https://github.com/facebookresearch/Detectron
@@ -319,6 +328,7 @@
   github: https://github.com/django/django
   blog: https://www.djangoproject.com/weblog/
   twitter: https://twitter.com/djangoproject
+  awesome: https://gitlab.com/rosarior/awesome-django
   tags: Python, Web Framework
 - name: Dopamine
   github: https://github.com/google/dopamine
@@ -330,6 +340,7 @@
   home: https://www.elastic.co/kr/products/elasticsearch
   github: https://github.com/elastic/elasticsearch
   blog: https://www.elastic.co/kr/blog
+  awesome: https://github.com/dzharii/awesome-elasticsearch
   tags: Distributed Search Engine
 - name: ECharts
   home: http://incubator.apache.org/projects/echarts.html
