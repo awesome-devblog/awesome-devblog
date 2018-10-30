@@ -1,3 +1,7 @@
+# Awesome Devblog
+
+[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+
 ## 개요
 
 국내 개발자 블로그 모음(으로 시작했으나 국내외 개인/단체 사이트로 바뀌어버린, 향후 개발자 사전으로 발전하고 싶은) Awesome Devblog 입니다.
