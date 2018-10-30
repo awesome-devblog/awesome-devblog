@@ -345,18 +345,21 @@
 - name: ECharts
   home: http://incubator.apache.org/projects/echarts.html
   github: https://github.com/apache/incubator-echarts
+  awesome: https://github.com/ecomfe/awesome-echarts
   tags: Javascript, Chart
 - name: Electron
   home: https://electronjs.org/
   github: https://github.com/electron/electron
   blog: https://electronjs.org/blog
   twitter: https://twitter.com/electronjs
+  awesome: https://github.com/sindresorhus/awesome-electron
   tags: Application Framework
 - name: Ember.js
   home: https://emberjs.com/
   github: https://github.com/emberjs/ember.js
   twitter: https://twitter.com/emberjs
   slack: https://embercommunity.slack.com/
+  awesome: https://github.com/nmec/awesome-ember
   tags: JS Front-end Framework
 - name: Envoy
   home: https://www.envoyproxy.io/
@@ -373,6 +376,7 @@
   blog: https://eslint.org/blog/
   twitter: https://twitter.com/geteslint
   gitter: https://gitter.im/eslint/eslint
+  awesome: https://github.com/dustinspecker/awesome-eslint
   tags: Javascript, Lint
 - name: ExoPlayer
   home: https://google.github.io/ExoPlayer/
@@ -389,6 +393,7 @@
   gitter: https://gitter.im/expressjs/express
   googlegroups: https://groups.google.com/group/express-js
   quora: https://www.quora.com/topic/Express-Node-js-web-framework
+  awesome: https://github.com/rajikaimal/awesome-express
   tags: JS Back-end Framework
 - name: FASTER
   home: https://www.microsoft.com/en-us/research/project/FASTER/
@@ -402,6 +407,7 @@
   slack: http://slack.feathersjs.com/
   blog: https://blog.feathersjs.com/
   stackoverflow: https://stackoverflow.com/questions/tagged/feathersjs
+  awesome: https://github.com/feathersjs/awesome-feathersjs
   tags: JS Back-end Framework
 - name: Fission
   home: https://fission.io/
@@ -414,6 +420,7 @@
   github: https://github.com/pallets/flask
   pypi: https://pypi.org/project/Flask/
   travisci: https://travis-ci.org/pallets/flask
+  awesome: https://github.com/humiaozuzu/awesome-flask
   tags: Python, Web Framework
 - name: Flipper
   home: https://fbflipper.com/
@@ -437,6 +444,7 @@
   twitter: https://twitter.com/flutterio
   gitter: https://gitter.im/flutter/flutter
   stackoverflow: https://stackoverflow.com/tags/flutter
+  awesome: https://github.com/Solido/awesome-flutter
   tags: Application Framework
 - name: Fn
   home: http://fnproject.io/
@@ -477,6 +485,7 @@
   home: https://www.gatsbyjs.org/
   github: https://github.com/gatsbyjs/gatsby
   twitter: https://twitter.com/gatsbyjs
+  awesome: https://github.com/prayash/awesome-gatsby
   tags: Static Site Generator
 - name: Glances
   home: https://nicolargo.github.io/glances/
@@ -488,6 +497,7 @@
   github: https://github.com/golang/go
   blog: https://blog.golang.org/
   twitter: https://twitter.com/golang
+  awesome: https://github.com/avelino/awesome-go
   tags: Programming Language
 - name: Go Ethereum
   home: https://geth.ethereum.org/
@@ -501,10 +511,12 @@
   facebook: https://www.facebook.com/groups/godotengine/about/
   twitter: https://twitter.com/godotengine
   reddit: https://www.reddit.com/r/godot
+  awesome: https://github.com/Calinou/awesome-godot
   tags: Go, Game Engine
 - name: Gradle
   home: https://gradle.org/
   github: https://github.com/gradle/gradle
+  awesome: https://github.com/ksoichiro/awesome-gradle
   tags: Java, Build
 - name: Grafana
   home: https://grafana.com/
@@ -523,6 +535,7 @@
   twitter: https://twitter.com/GraphQL
   facebook: https://www.facebook.com/groups/graphql.community/
   stackoverflow: https://stackoverflow.com/questions/tagged/graphql
+  awesome: https://github.com/chentsulin/awesome-graphql
   tags: Domain Specific Language
 - name: graphqurl
   github: https://github.com/hasura/graphqurl
@@ -539,6 +552,7 @@
   github: https://github.com/gulpjs/gulp
   twitter: https://twitter.com/gulpjs
   npm: https://www.npmjs.com/package/gulp
+  awesome: https://github.com/alferov/awesome-gulp
   tags: Javascript, Tool
 - name: gRPC
   home: https://grpc.io/
@@ -547,6 +561,7 @@
   twitter: https://twitter.com/grpcio
   stackoverflow: https://stackoverflow.com/tags/grpc/
   youtube: https://www.youtube.com/channel/UCrnk1HWelWnYtF78YZX80fg
+  awesome: https://github.com/grpc-ecosystem/awesome-grpc
   tags: RPC Framework
 - name: GSAP
   home: https://greensock.com/
@@ -561,6 +576,7 @@
 - name: Hadoop
   home: http://hadoop.apache.org/
   github: https://github.com/apache/hadoop
+  awesome: https://github.com/youngwookim/awesome-hadoop
   tags: Distributed Processing
 - name: Handsontable
   home: https://handsontable.com/
@@ -574,6 +590,7 @@
   github: https://github.com/hapijs/hapi
   twitter: https://twitter.com/hapijs
   quora: https://www.quora.com/topic/Hapi-Node-js-API-Framework
+  awesome: https://github.com/anhldbk/awesome-hapi
   tags: JS Back-end Framework
 - name: HAProxy
   home: http://www.haproxy.org/
@@ -606,10 +623,12 @@
   github: https://github.com/gohugoio/hugo
   forum: https://discourse.gohugo.io/
   twitter: https://twitter.com/gohugoio
+  awesome: https://github.com/cnych/awesome-hugo
   tags: Static Site Generator
 - name: Hyper
   home: https://hyper.is/
   github: https://github.com/zeit/hyper
+  awesome: https://github.com/bnb/awesome-hyper
   tags: Terminal
 - name: hyper
   home: https://hyper.rs/
@@ -623,12 +642,14 @@
   home: https://www.infernojs.org/
   github: https://github.com/infernojs/inferno
   npm: https://github.com/infernojs/inferno
+  awesome: https://github.com/guuibayer/awesome-inferno
   tags: JS Front-end Framework
 - name: InfluxDB
   home: https://www.influxdata.com/time-series-platform/influxdb/
   github: https://github.com/influxdata/influxdb
   twitter: https://twitter.com/influxdb
   facebook: https://www.facebook.com/influxdb
+  awesome: https://github.com/mark-rushakoff/awesome-influxdb
   tags: Database
 - name: Istio
   home: https://istio.io/
@@ -641,6 +662,7 @@
   github: https://github.com/gnachman/iTerm2
   forum: https://groups.google.com/group/iterm2-discuss
   quora: https://www.quora.com/topic/iTerm2
+  awesome: https://github.com/marianvlad/awesome-iterm
   tags: Terminal
 - name: Jaeger
   home: https://www.jaegertracing.io/
@@ -665,10 +687,12 @@
   github: https://github.com/jenkinsci/jenkins
   blog: https://jenkins.io/node/
   gitter: https://gitter.im/jenkinsci/jenkins
+  awesome: https://github.com/sahilsk/awesome-jenkins
   tags: DevOps
 - name: Jekyll
   home: https://jekyllrb.com/
   github: https://github.com/jekyll/jekyll
+  awesome: https://github.com/planetjekyll/awesome-jekyll
   tags: Static Site Generator
 - name: Jib
   github: https://github.com/GoogleContainerTools/jib
