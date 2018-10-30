@@ -3982,6 +3982,14 @@
   rss: https://brunch.co.kr/rss/@@aBL
   description: IT 칼럼
   facebook: https://www.facebook.com/madlymissyou
+- name: 이정훈
+  blog: http://sjh836.tistory.com/
+  rss: http://sjh836.tistory.com/rss
+  description: Java
+  github: https://github.com/sjh836
+  facebook: https://www.facebook.com/sjh836
+  rankedin: http://rankedin.kr/user/sjh836
+  home: http://devljh.net/
 - name: 이제민
   blog: http://goodtogreate.tistory.com/
   rss: http://goodtogreate.tistory.com/rss
