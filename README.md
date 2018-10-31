@@ -2,6 +2,8 @@
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
+[![Gitter chat](https://badges.gitter.im/awesome-devblog/Lobby.png)](https://gitter.im/awesome-devblog/Lobby "Gitter chat")
+
 ## 개요
 
 국내 개발자 블로그 모음(으로 시작했으나 국내외 개인/단체 사이트로 바뀌어버린, 향후 개발자 사전으로 발전하고 싶은) Awesome Devblog 입니다.
@@ -28,9 +30,6 @@
 - [어썸블로그(iOS)](https://itunes.apple.com/us/app/어썸-블로그/id1276023809)
 - [Daily DevBlog(뉴스레터)](http://daily-devblog.com/)
 - [DEVBLOG(메타블로그)](http://devblog.selfhow.com/)
-
-## 커뮤니티
-- [Gitter](https://gitter.im/awesome-devblog/Lobby)
 
 ## 목차
 
