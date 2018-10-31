@@ -705,17 +705,20 @@
   forum: https://discourse.julialang.org/
   youtube: https://www.youtube.com/user/JuliaLanguage
   slack: https://julialang.slack.com/
+  awesome: https://github.com/greister/Awesome-Julia
   tags: Programming Language
 - name: jq
   home: https://stedolan.github.io/jq/
   github: https://github.com/stedolan/jq
   stackoverflow: https://stackoverflow.com/questions/tagged/jq
+  awesome: https://github.com/fiatjaf/awesome-jq
   tags: CLI
 - name: jQuery
   home: https://jquery.com/
   github: https://github.com/jquery/jquery
   twitter: https://twitter.com/jquery
   stackoverflow: https://stackoverflow.com/tags/jquery
+  awesome: https://github.com/petk/awesome-jquery
   tags: JS Core Library
 - name: jspm
   home: https://jspm.org/
@@ -726,12 +729,14 @@
   home: https://kafka.apache.org/
   github: https://github.com/apache/kafka
   twitter: https://twitter.com/apachekafka
+  awesome: https://github.com/infoslack/awesome-kafka
   tags: Message Broker
 - name: Keras
   home: https://keras.io/
   github: https://github.com/keras-team/keras
   googlegroups: https://groups.google.com/forum/#!forum/keras-users
   slack: https://kerasteam.slack.com/
+  awesome: https://github.com/soumendra/awesome-keras
   tags: Machine Learning
 - name: Kibana
   home: https://www.elastic.co/products/kibana
@@ -755,6 +760,7 @@
   reddit: https://www.reddit.com/r/koajs/
   opencollective: https://opencollective.com/koajs
   quora: https://www.quora.com/topic/Koa-Node-js-framework
+  awesome: https://github.com/ellerbrock/awesome-koa
   tags: JS Back-end Framework
 - name: Koin
   github: https://github.com/InsertKoinIO/koin
@@ -779,6 +785,7 @@
   blog: https://blog.jetbrains.com/kotlin/
   twitter: https://twitter.com/kotlin
   discourse: https://discuss.kotlinlang.org/
+  awesome: https://github.com/KotlinBy/awesome-kotlin
   tags: Programming Language
 - name: Kubeless
   home: https://kubeless.io/
@@ -792,6 +799,7 @@
   slack: http://slack.k8s.io/
   stackoverflow: https://stackoverflow.com/questions/tagged/kubernetes
   discourse: https://discuss.kubernetes.io/
+  awesome: https://github.com/ramitsurana/awesome-kubernetes
   tags: Container Orchestration
 - name: Ky
   github: https://github.com/sindresorhus/ky
@@ -831,6 +839,7 @@
   youtube: https://www.youtube.com/user/TheLinuxFoundation
   googleplus: https://plus.google.com/+LinuxfoundationOrg
   linkedin: https://www.linkedin.com/company/the-linux-foundation/
+  awesome: https://github.com/aleksandar-todorovic/awesome-linux
   tags: OS Kernel
 - name: Lombok
   home: https://projectlombok.org/
@@ -842,10 +851,12 @@
   github: https://github.com/strongloop/loopback
   gitter: https://gitter.im/strongloop/loopback
   googlegroups: https://groups.google.com/forum/#!forum/loopbackjs
+  awesome: https://github.com/pasindud/awesome-loopback
   tags: JS Back-end Framework
 - name: lory
   home: http://meandmax.github.io/lory/
   github: https://github.com/meandmax/lory
+  cdnjs: https://cdnjs.com/libraries/lory.js/
   tags: Slider
 - name: low.js
   home: http://www.lowjs.org/
@@ -908,6 +919,7 @@
   forums: https://forums.meteor.com/
   youtube: https://www.youtube.com/user/MeteorVideos
   facebook: https://www.facebook.com/meteorjs/
+  awesome: https://github.com/Urigo/awesome-meteor
   tags: JS Back-end Framework
 - name: Micro
   home: https://micro-editor.github.io/
@@ -934,6 +946,7 @@
   github: https://github.com/MithrilJS/mithril.js
   gitter: https://gitter.im/mithriljs/mithril.js
   stackoverflow: https://stackoverflow.com/questions/tagged/mithril.js
+  awesome: https://github.com/orbitbot/awesome-mithril
   tags: JS Front-end Framework
 - name: mo.js
   home: http://mojs.io/
@@ -967,6 +980,7 @@
   twitter: https://twitter.com/mongodb
   linkedin: https://www.linkedin.com/company/mongodbinc
   stackoverflow: https://stackoverflow.com/tags/mongodb
+  awesome: https://github.com/ramnes/awesome-mongodb
   tags: Database
 - name: Mono
   home: https://www.mono-project.com/
@@ -977,6 +991,7 @@
   home: https://mxnet.incubator.apache.org/
   github: https://github.com/apache/incubator-mxnet
   forum: https://discuss.mxnet.io/
+  awesome: https://github.com/chinakook/Awesome-MXNet
   tags: Machine Learning
 - name: Mysql
   home: https://www.mysql.com/
@@ -986,10 +1001,12 @@
   linkedin: https://www.linkedin.com/company/mysql/
   youtube: https://www.youtube.com/user/MySQLChannel
   googleplus: https://plus.google.com/+mysql
+  awesome: https://github.com/shlomi-noach/awesome-mysql
   tags: Database
 - name: Neo4j
   home: https://neo4j.com/
   github: https://github.com/neo4j/neo4j
+  awesome: https://github.com/neueda/awesome-neo4j
   tags: Database
 - name: Neofetch
   github: https://github.com/dylanaraps/neofetch
@@ -998,6 +1015,7 @@
   home: https://nestjs.com/
   github: https://github.com/nestjs/nest
   twitter: https://twitter.com/nestframework
+  awesome: https://github.com/juliandavidmr/awesome-nest
   tags: JS Back-end Framework
 - name: netdata
   home: https://my-netdata.io/
@@ -1011,6 +1029,7 @@
 - name: Next.js
   home: https://nextjs.org/
   github: https://github.com/zeit/next.js
+  awesome: https://github.com/unicodeveloper/awesome-nextjs
   tags: JS Web Framework
 - name: Node.js
   home: https://nodejs.org/
@@ -1021,12 +1040,14 @@
   youtube: https://www.youtube.com/channel/UCQPYJluYC_sn_Qz_XE-YbTQ
   medium: https://medium.com/@nodejs
   quora: https://www.quora.com/topic/Node-js
+  awesome: https://github.com/sindresorhus/awesome-nodejs
   tags: Javascript Runtime
 - name: NPM
   home: https://www.npmjs.com/
   github: https://github.com/npm/npm
   blog: https://blog.npmjs.org/
   twitter: https://twitter.com/npmjs
+  awesome: https://github.com/sindresorhus/awesome-npm
   tags: JS Package Manager
 - name: Numpy
   home: http://www.numpy.org/
@@ -1040,6 +1061,7 @@
   github: https://github.com/nuxt/nuxt.js
   twitter: https://twitter.com/nuxt_js
   gitter: https://gitter.im/nuxt/nuxt.js
+  awesome: https://github.com/nuxt-community/awesome-nuxt
   tags: JS Web Framework
 - name: OASGraph
   home: https://v4.loopback.io/oasgraph.html
@@ -1086,6 +1108,7 @@
 - name: OpenFaaS
   home: https://www.openfaas.com/
   github: https://github.com/openfaas/faas
+  twitter: https://twitter.com/openfaas
   blog: https://www.openfaas.com/blog/
   tags: Serverless
 - name: OpenJFX
@@ -1116,6 +1139,7 @@
   stackoverflow: https://stackoverflow.com/questions/tagged/openwhisk
   slideshare: https://www.slideshare.net/OpenWhisk
   slack: http://openwhisk.incubator.apache.org/slack.html
+  awesome: https://github.com/apache/incubator-openwhisk-external-resources
   tags: Serverless
 - name: p5.js
   home: https://p5js.org/
@@ -1127,10 +1151,12 @@
   github: https://github.com/parcel-bundler/parcel
   twitter: https://twitter.com/parceljs
   npm: https://www.npmjs.com/package/parcel-bundler
+  awesome: https://github.com/parcel-bundler/awesome-parcel
   tags: Javascript, Tool
 - name: Pelican
   github: https://github.com/getpelican/pelican
   blog: https://blog.getpelican.com/
+  awesome: https://github.com/kmonsoor/awesome-pelican
   tags: Static Site Generator
 - name: Perfect
   home: https://www.perfect.org/
@@ -1151,17 +1177,20 @@
   twitter: https://twitter.com/polymer
   stackoverflow: https://stackoverflow.com/tags/polymer
   googleplus: https://plus.google.com/+PolymerProject
+  awesome: https://github.com/Granze/awesome-polymer
   tags: JS Front-end Framework
 - name: PostgreSQL
   home: https://www.postgresql.org/
   github: https://github.com/postgres/postgres
   twitter: https://twitter.com/postgresql
+  awesome: https://github.com/dhamaniasad/awesome-postgres
   tags: Database
 - name: PouchDB
   home: https://pouchdb.com/
   github: https://github.com/pouchdb/pouchdb
   twitter: https://twitter.com/pouchdb
   stackoverflow: https://stackoverflow.com/questions/tagged/pouchdb
+  awesome: https://github.com/LoicMahieu/awesome-pouchdb
   tags: Database
 - name: Preact
   home: https://preactjs.com/
