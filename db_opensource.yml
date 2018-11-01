@@ -1195,6 +1195,7 @@
 - name: Preact
   home: https://preactjs.com/
   github: https://github.com/developit/preact
+  awesome: https://github.com/ooade/awesome-preact
   tags: JS Front-end Framework
 - name: Prisma
   home: https://www.prisma.io/
@@ -1204,6 +1205,7 @@
   forum: https://www.prisma.io/forum/
   blog: https://www.prisma.io/blog/
   youtube: https://www.youtube.com/channel/UCptAHlN1gdwD89tFM3ENb6w
+  awesome: https://github.com/catalinmiron/awesome-prisma
   tags: GraphQL
 - name: Processing
   home: https://processing.org/
@@ -1217,6 +1219,7 @@
   github: https://github.com/prometheus/prometheus
   twitter: https://twitter.com/PrometheusIO
   blog: https://prometheus.io/blog/
+  awesome: https://github.com/roaldnefs/awesome-prometheus
   tags: Monitoring
 - name: Pure
   home: https://purecss.io/
@@ -1230,12 +1233,14 @@
   home: https://trypyramid.com/
   github: https://github.com/Pylons/pyramid
   twitter: https://twitter.com/PylonsProject
+  awesome: https://github.com/uralbash/awesome-pyramid
   tags: Python, Web Framework
 - name: PyTorch
   github: https://github.com/pytorch/pytorch
   home: https://pytorch.org/
   blogging: https://pytorch.org/blog/
   forum: https://discuss.pytorch.org/
+  awesome: https://github.com/bharathgs/Awesome-pytorch-list
   tags: Machine Learning
 - name: RabbitMQ
   home: https://www.rabbitmq.com/
@@ -1255,6 +1260,7 @@
   facebook: https://www.facebook.com/react
   twitter: https://twitter.com/reactjs
   quora: https://www.quora.com/topic/React-JavaScript-library
+  awesome: https://github.com/enaqx/awesome-react
   tags: JS Front-end Framework
 - name: React Native
   home: https://facebook.github.io/react-native/
@@ -1262,6 +1268,7 @@
   blog: http://facebook.github.io/react-native/blog/
   twitter: https://twitter.com/reactnative
   quora: https://www.quora.com/topic/React-Native-1
+  awesome: https://github.com/jondot/awesome-react-native
   tags: Application Framework
 - name: React-vis
   home: https://uber.github.io/react-vis/
@@ -1271,6 +1278,7 @@
 - name: Recharts
   home: http://recharts.org/
   github: https://github.com/recharts/recharts
+  cdnjs: https://cdnjs.com/libraries/recharts
   tags: Javascript, Chart
 - name: Remmina
   home: https://remmina.org/
@@ -1303,6 +1311,7 @@
   home: https://riot.js.org/
   github: https://github.com/riot/riot
   twitter: https://twitter.com/riotjs_
+  awesome: https://github.com/pankajparashar-zz/awesome-riotjs
   tags: JS Front-end Framework
 - name: Rocket
   home: https://rocket.rs/
@@ -1316,20 +1325,24 @@
 - name: Ruby
   home: https://www.ruby-lang.org/
   github: https://github.com/ruby/ruby
+  awesome: https://github.com/markets/awesome-ruby
   tags: Programming Language
 - name: Ruby on Rails
   home: https://rubyonrails.org/
   github: https://github.com/rails/rails
   twitter: https://twitter.com/rails
+  awesome: https://github.com/ekremkaraca/awesome-rails
   tags: Ruby, Back-end Framework
 - name: Rust
   home: https://www.rust-lang.org/
   github: https://github.com/rust-lang/rust
   twitter: https://twitter.com/rustlang
   youtube: https://www.youtube.com/channel/UCaYhcUwRBNscFNUKTjgPFiA
+  awesome: https://github.com/rust-unofficial/awesome-rust
   tags: Programming Language
 - name: RxJava
   github: https://github.com/ReactiveX/RxJava
+  awesome: https://github.com/eleventigers/awesome-rxjava
   tags: Java, Core Library
 - name: Rythm.js
   home: https://okazari.github.io/Rythm.js/
@@ -1341,6 +1354,7 @@
   gitter: https://gitter.im/balderdashy/sails
   twitter: https://twitter.com/sailsjs
   quora: https://www.quora.com/topic/SailsJS
+  awesome: https://github.com/Mozartted/awesome-sails-projects
   tags: JS Back-end Framework
 - name: Sanic
   home: https://sanic.readthedocs.io/
@@ -1352,6 +1366,7 @@
   stackoverflow: https://stackoverflow.com/questions/tagged/semantic-ui
   gitter: https://gitter.im/Semantic-Org/Semantic-UI
   googlegroups: https://groups.google.com/forum/#!forum/semantic-ui
+  awesome: https://github.com/websemantics/awesome-semantic-ui
   tags: UI Framework
 - name: Sensu
   home: https://sensu.io/
@@ -1396,6 +1411,7 @@
   home: https://spark.apache.org/
   github: https://github.com/apache/spark
   jira: https://issues.apache.org/jira/projects/SPARK
+  awesome: https://github.com/awesome-spark/awesome-spark
   tags: Distributed Processing
 - name: Spectre.css
   home: https://picturepan2.github.io/spectre/
@@ -1406,6 +1422,7 @@
   home: http://spring.io/projects/spring-boot
   github: https://github.com/spring-projects/spring-boot
   stackoverflow: https://stackoverflow.com/questions/tagged/spring-boot
+  awesome: https://github.com/stunstunstun/awesome-spring-boot
   tags: JVM Back-end Framework
 - name: Spring-fu
   github: https://github.com/spring-projects/spring-fu
@@ -1429,6 +1446,7 @@
   github: https://github.com/apple/swift
   blog: https://swift.org/blog/
   twitter: https://twitter.com/swiftlang
+  awesome: https://github.com/matteocrippa/awesome-swift
   tags: Programming Language
 - name: TensorFlow
   home: https://www.tensorflow.org/
@@ -1436,6 +1454,7 @@
   medium: https://medium.com/tensorflow
   youtube: https://www.youtube.com/tensorflow
   twitter: https://twitter.com/tensorflow
+  awesome: https://github.com/jtoy/awesome-tensorflow
   tags: Machine Learning
 - name: Three.js
   home: https://threejs.org/
@@ -1443,6 +1462,7 @@
   slack: https://threejs-slack.herokuapp.com/
   forum: https://discourse.threejs.org/
   stackoverflow: https://stackoverflow.com/questions/tagged/three.js
+  awesome: https://github.com/fritx/awesome-threejs
   tags: 3D Graphics
 - name: Tink
   github: https://github.com/google/tink
@@ -1474,13 +1494,15 @@
 - name: Puppet
   home: https://puppet.com/
   github: https://github.com/puppetlabs/puppet
+  awesome: https://github.com/olindata/awesome-puppet
   tags: DevOps
 - name: Redis
   home: https://redis.io/
-  github: https://github.com/antirez/redis/
+  github: https://github.com/antirez/redis
   stackoverflow: https://stackoverflow.com/questions/tagged/redis
   twitter: https://twitter.com/redisfeed
   reddit: https://www.reddit.com/r/redis/
+  awesome: https://github.com/JamzyWang/awesome-redis
   tags: Key-value Store
 - name: Sal.js
   home: https://mciastek.github.io/sal/
@@ -1527,17 +1549,20 @@
   github: https://github.com/Microsoft/TypeScript
   blog: https://blogs.msdn.microsoft.com/typescript/
   twitter: https://twitter.com/typescriptlang
+  awesome: https://github.com/dzharii/awesome-typescript
   tags: Programming Language
 - name: UIkit
   home: https://getuikit.com/
   github: https://github.com/uikit/uikit
   twitter: https://twitter.com/getuikit
   gitter: https://gitter.im/uikit/uikit
+  awesome: https://github.com/uikit/awesome-uikit
   tags: UI Framework
 - name: Vagrant
   home: https://www.vagrantup.com/
   github: https://github.com/hashicorp/vagrant
   forum: https://groups.google.com/forum/#!forum/vagrant-up
+  awesome: https://github.com/iJackUA/awesome-vagrant
   tags: DevOps
 - name: Vapor
   home: https://vapor.codes/
@@ -1545,11 +1570,13 @@
   discord: https://discordapp.com/invite/vapor
   twitter: https://twitter.com/codevapor
   blog: https://medium.com/@codevapor
+  awesome: https://github.com/Cellane/awesome-vapor
   tags: Swift, Web Framework
 - name: Vault
   home: https://www.vaultproject.io/
   github: https://github.com/hashicorp/vault
   gitter: https://gitter.im/hashicorp-vault/Lobby
+  awesome: https://github.com/gites/awesome-vault-tools
   tags: DevOps
 - name: Velocity
   home: http://velocityjs.org/
@@ -1578,6 +1605,7 @@
   github: https://github.com/Microsoft/vscode
   blog: https://code.visualstudio.com/blogs/
   youtube: https://www.youtube.com/channel/UCs5Y5_7XK8HLDX0SLNwkd3w
+  awesome: https://github.com/viatsko/awesome-vscode
   tags: Text Editor
 - name: Vue
   home: https://vuejs.org/
@@ -1585,6 +1613,7 @@
   twitter: https://twitter.com/vuejs
   medium: https://medium.com/the-vue-point
   quora: https://www.quora.com/topic/Vue-js
+  awesome: https://github.com/vuejs/awesome-vue
   tags: JS Front-end Framework
 - name: Vue.Draggable
   github: https://github.com/SortableJS/Vue.Draggable
@@ -1593,6 +1622,7 @@
 - name: VuePress
   home: https://vuepress.vuejs.org/
   github: https://github.com/vuejs/vuepress
+  awesome: https://github.com/meteorlxy/awesome-vuepress
   tags: Static Site Generator
 - name: Vuido
   home: https://vuido.mimec.org/
@@ -1612,6 +1642,7 @@
   github: https://github.com/webpack/webpack
   medium: https://medium.com/webpack
   stackoverflow: https://stackoverflow.com/questions/tagged/webpack
+  awesome: https://github.com/webpack-contrib/awesome-webpack
   tags: Javascript, Tool
 - name: whs.js
   home: https://whs.io/
@@ -1635,6 +1666,7 @@
 - name: ZeroMQ
   home: http://zeromq.org/
   github: https://github.com/zeromq/libzmq
+  awesome: https://github.com/8dspaces/awesome-ZeroMQ
   tags: Message Broker
 - name: Zipkin
   home: https://zipkin.io/
