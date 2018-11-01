@@ -395,6 +395,14 @@
   quora: https://www.quora.com/topic/Express-Node-js-web-framework
   awesome: https://github.com/rajikaimal/awesome-express
   tags: JS Back-end Framework
+- name: Falcon
+  home: https://falconframework.org/
+  github: https://github.com/falconry/falcon
+  tags: Python, Back-end Framework
+- name: Falcon
+  github: https://github.com/socketry/falcon
+  gitter: https://gitter.im/socketry/falcon
+  tags: Ruby, Web Server
 - name: FASTER
   home: https://www.microsoft.com/en-us/research/project/FASTER/
   github: https://github.com/Microsoft/FASTER
@@ -528,6 +536,9 @@
   home: https://grain-lang.org/
   github: https://github.com/grain-lang/grain
   tags: Programming Language
+- name: Graphpack
+  github: https://github.com/glennreyes/graphpack
+  tags: JS Back-end Framework
 - name: GraphQL
   home: https://graphql.org/
   github: https://github.com/facebook/graphql
@@ -1031,6 +1042,9 @@
   github: https://github.com/zeit/next.js
   awesome: https://github.com/unicodeveloper/awesome-nextjs
   tags: JS Web Framework
+- name: nnn
+  github: https://github.com/jarun/nnn
+  tags: File Manager
 - name: Node.js
   home: https://nodejs.org/
   github: https://github.com/nodejs/node
@@ -1250,7 +1264,7 @@
   tags: Message Broker
 - name: RAWGraphs
   home: https://rawgraphs.io/
-  github: https://github.com/densitydesign/raw/
+  github: https://github.com/densitydesign/raw
   twitter: https://twitter.com/rawgraphs
   tags: Visualization
 - name: React
@@ -1458,7 +1472,7 @@
   tags: Machine Learning
 - name: Three.js
   home: https://threejs.org/
-  github: https://github.com/mrdoob/three.js/
+  github: https://github.com/mrdoob/three.js
   slack: https://threejs-slack.herokuapp.com/
   forum: https://discourse.threejs.org/
   stackoverflow: https://stackoverflow.com/questions/tagged/three.js
@@ -1491,6 +1505,12 @@
   gitter: https://gitter.im/ProseMirror/prosemirror
   forum: https://discuss.prosemirror.net/
   tags: Text Editor
+- name: Protocol Buffers
+  home: https://developers.google.com/protocol-buffers/
+  github: https://github.com/protocolbuffers/protobuf
+  forum: https://groups.google.com/forum/#!forum/protobuf
+  stackoverflow: https://stackoverflow.com/questions/tagged/protocol-buffers
+  tags: RPC
 - name: Puppet
   home: https://puppet.com/
   github: https://github.com/puppetlabs/puppet
@@ -1508,6 +1528,10 @@
   home: https://mciastek.github.io/sal/
   github: https://github.com/mciastek/sal
   tags: Animation
+- name: Sonnet
+  home: https://deepmind.github.io/sonnet/
+  github: https://github.com/deepmind/sonnet
+  tags: Machine Learning
 - name: SpaceVim
   home: https://spacevim.org/
   github: https://github.com/SpaceVim/SpaceVim
@@ -1536,7 +1560,7 @@
   tags: Rust, Web Framework
 - name: Tone.js
   home: https://tonejs.github.io/
-  github: https://github.com/Tonejs/Tone.js/
+  github: https://github.com/Tonejs/Tone.js
   forum: https://groups.google.com/forum/#!forum/tonejs
   tags: Web Audio Framework
 - name: Tornado
