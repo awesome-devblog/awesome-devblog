@@ -2190,8 +2190,10 @@
   linkedin: https://www.linkedin.com/in/rickypark/
 - name: 박현규
   blog: https://canine89.github.io/
+  rss: https://canine89.github.io/rss/
   description: Django
   github: https://github.com/Canine89
+  facebook: https://www.facebook.com/profile.php?id=100023761655331
 - name: 박현우
   blog: http://lqez.github.io/blog/
   rss: http://lqez.github.io/blog/feeds/all.atom.xml
@@ -2543,6 +2545,11 @@
   blog: https://medium.com/@downy
   rss: https://medium.com/feed/@downy
   description: Python, Django
+- name: 송무찬
+  blog: http://sjava.net/
+  rss: http://sjava.net/feed/
+  description: Java, Android
+  github: https://github.com/mcsong
 - name: 송문혁
   blog: https://mike2ox.github.io/
   rss: https://mike2ox.github.io/feed
@@ -2813,6 +2820,7 @@
   facebook: https://www.facebook.com/adh.rinae
   twitter: https://twitter.com/adhrinae
   medium: https://medium.com/@rinae
+  github: https://github.com/adhrinae
 - name: 안동혁
   blog: https://brunch.co.kr/@donghyeokahn
   rss: https://brunch.co.kr/rss/@@3o3x
@@ -3503,9 +3511,11 @@
   github: https://github.com/ehdrjsdlzzzz
   tistory: http://baked-corn.tistory.com
 - name: 이동규
-  blog: http://chandong83.blog.me/
+  blog: https://blog.naver.com/chandong83
   rss: https://rss.blog.naver.com/chandong83.xml
-  description: ''
+  description: Arduino, Linux
+  github: https://github.com/chandong83
+  youtube: https://www.youtube.com/user/83chandong/
 - name: 이동규
   blog: https://medium.com/@guleum
   rss: https://medium.com/feed/@guleum
