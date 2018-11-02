@@ -5804,6 +5804,10 @@
   blog: http://blog.naver.com/atelierjpro
   rss: https://rss.blog.naver.com/atelierjpro.xml
   description: AI
+- name: 홍진우
+  blog: https://blog.naver.com/jinwooo_hong
+  rss: https://rss.blog.naver.com/jinwooo_hong.xml
+  description: ''
 - name: 홍철주
   blog: https://medium.com/@angdev
   rss: https://medium.com/feed/@angdev
