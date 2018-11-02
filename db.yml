@@ -1363,6 +1363,12 @@
   description: 기술 큐레이션
   facebook: https://www.facebook.com/gaerae
   home: https://gaerae.com/
+- name: 김태균
+  blog: https://tuhbm.github.io/
+  rss: https://tuhbm.github.io/atom
+  description: Front-end
+  github: https://github.com/tuhbm/
+  facebook: https://www.facebook.com/tuhbm
 - name: 김태기
   blog: https://beyondj2ee.wordpress.com/
   rss: https://beyondj2ee.wordpress.com/feed/
