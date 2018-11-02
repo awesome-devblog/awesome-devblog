@@ -653,6 +653,11 @@
   blog: http://alwayspr.tistory.com/
   rss: http://alwayspr.tistory.com/rss
   description: ''
+- name: 김민우
+  blog: https://brunch.co.kr/@minu-log
+  rss: https://brunch.co.kr/rss/@@16ei
+  description: 데이터 분석
+  facebook: https://www.facebook.com/minwoo.minu
 - name: 김민장
   blog: http://minjang.github.io/
   rss: http://minjang.github.io/feed.xml
@@ -3493,9 +3498,10 @@
   rss: http://genesis8.tistory.com/rss
   description: ''
 - name: 이동건
-  blog: http://baked-corn.tistory.com
-  rss: http://baked-corn.tistory.com/rss
+  blog: https://ehdrjsdlzzzz.github.io/
   description: iOS
+  github: https://github.com/ehdrjsdlzzzz
+  tistory: http://baked-corn.tistory.com
 - name: 이동규
   blog: http://chandong83.blog.me/
   rss: https://rss.blog.naver.com/chandong83.xml
