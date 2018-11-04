@@ -407,6 +407,11 @@
   home: https://www.microsoft.com/en-us/research/project/FASTER/
   github: https://github.com/Microsoft/FASTER
   tags: Key-value Store
+- name: Fastify
+  home: https://www.fastify.io/
+  github: https://github.com/fastify/fastify
+  gitter: https://gitter.im/fastify/Lobby
+  tags: JS, Back-end Framework
 - name: Feathers
   home: https://feathersjs.com/
   github: https://github.com/feathersjs/feathers
@@ -485,6 +490,9 @@
   home: http://frescolib.org/
   github: https://github.com/facebook/fresco
   tags: Android, Image
+- name: fzf
+  github: https://github.com/junegunn/fzf
+  tags: CLI
 - name: G2
   home: https://antv.alipay.com/zh-cn/g2/3.x/index.html
   github: https://github.com/antvis/g2/
@@ -1211,6 +1219,10 @@
   github: https://github.com/developit/preact
   awesome: https://github.com/ooade/awesome-preact
   tags: JS Front-end Framework
+- name: prettyping
+  home: http://denilson.sa.nom.br/prettyping/
+  github: https://github.com/denilsonsa/prettyping
+  tags: CLI
 - name: Prisma
   home: https://www.prisma.io/
   github: https://github.com/prisma/prisma
@@ -1403,6 +1415,12 @@
   npm: https://www.npmjs.com/package/signale
   gitter: https://gitter.im/klauscfhq/signale
   tags: Logging
+- name: Sinatra
+  home: http://sinatrarb.com/
+  github: https://github.com/sinatra/sinatra
+  twitter: https://twitter.com/sinatra
+  slack: https://sinatrarb.slack.com/
+  tags: Ruby, Back-end Framework
 - name: Snap.svg
   home: http://snapsvg.io/
   github: https://github.com/adobe-webplatform/Snap.svg
