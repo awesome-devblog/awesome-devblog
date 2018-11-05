@@ -1085,6 +1085,13 @@
   gitter: https://gitter.im/nuxt/nuxt.js
   awesome: https://github.com/nuxt-community/awesome-nuxt
   tags: JS Web Framework
+- name: NW.js
+  home: https://nwjs.io/
+  github: https://github.com/nwjs/nw.js/
+  twitter: https://twitter.com/nw_js
+  gitter: https://gitter.im/nwjs/nw.js
+  awesome: https://github.com/nw-cn/awesome-nwjs
+  tags: Application Framework
 - name: OASGraph
   home: https://v4.loopback.io/oasgraph.html
   github: https://github.com/strongloop/oasgraph
@@ -1187,6 +1194,10 @@
   slack: http://www.perfect.ly/
   stackoverflow: https://stackoverflow.com/questions/tagged/perfect
   tags: Swift, Web Framework
+- name: Polka
+  github: https://github.com/lukeed/polka
+  npm: https://www.npmjs.com/package/polka
+  tags: JS Back-end Framework
 - name: PollyJS
   home: https://netflix.github.io/pollyjs
   github: https://github.com/Netflix/pollyjs
@@ -1247,6 +1258,23 @@
   blog: https://prometheus.io/blog/
   awesome: https://github.com/roaldnefs/awesome-prometheus
   tags: Monitoring
+- name: ProseMirror
+  home: http://prosemirror.net/
+  github: https://github.com/ProseMirror/prosemirror
+  gitter: https://gitter.im/ProseMirror/prosemirror
+  forum: https://discuss.prosemirror.net/
+  tags: Text Editor
+- name: Protocol Buffers
+  home: https://developers.google.com/protocol-buffers/
+  github: https://github.com/protocolbuffers/protobuf
+  forum: https://groups.google.com/forum/#!forum/protobuf
+  stackoverflow: https://stackoverflow.com/questions/tagged/protocol-buffers
+  tags: RPC
+- name: Puppet
+  home: https://puppet.com/
+  github: https://github.com/puppetlabs/puppet
+  awesome: https://github.com/olindata/awesome-puppet
+  tags: DevOps
 - name: Pure
   home: https://purecss.io/
   github: https://github.com/pure-css/pure
@@ -1306,6 +1334,14 @@
   github: https://github.com/recharts/recharts
   cdnjs: https://cdnjs.com/libraries/recharts
   tags: Javascript, Chart
+- name: Redis
+  home: https://redis.io/
+  github: https://github.com/antirez/redis
+  stackoverflow: https://stackoverflow.com/questions/tagged/redis
+  twitter: https://twitter.com/redisfeed
+  reddit: https://www.reddit.com/r/redis/
+  awesome: https://github.com/JamzyWang/awesome-redis
+  tags: Key-value Store
 - name: Remmina
   home: https://remmina.org/
   github: https://github.com/FreeRDP/Remmina
@@ -1382,6 +1418,10 @@
   quora: https://www.quora.com/topic/SailsJS
   awesome: https://github.com/Mozartted/awesome-sails-projects
   tags: JS Back-end Framework
+- name: Sal.js
+  home: https://mciastek.github.io/sal/
+  github: https://github.com/mciastek/sal
+  tags: Animation
 - name: Sanic
   home: https://sanic.readthedocs.io/
   github: https://github.com/channelcat/sanic
@@ -1435,10 +1475,22 @@
   twitter: https://twitter.com/SonarQube
   forum: https://community.sonarsource.com/
   tags: Code Quality
+- name: Sonnet
+  home: https://deepmind.github.io/sonnet/
+  github: https://github.com/deepmind/sonnet
+  tags: Machine Learning
 - name: Sortable
   home: http://rubaxa.github.io/Sortable/
   github: https://github.com/RubaXa/Sortable
   tags: Drag
+- name: SpaceVim
+  home: https://spacevim.org/
+  github: https://github.com/SpaceVim/SpaceVim
+  gitter: https://gitter.im/SpaceVim/SpaceVim
+  reddit: https://www.reddit.com/r/spacevim
+  twitter: https://twitter.com/SpaceVim
+  facebook: https://www.facebook.com/SpaceVim
+  tags: Text Editor
 - name: Spark
   home: https://spark.apache.org/
   github: https://github.com/apache/spark
@@ -1513,51 +1565,11 @@
   home: https://turtle-db.github.io/
   github: https://github.com/turtle-DB/turtleDB
   tags: Database
-- name: Polka
-  github: https://github.com/lukeed/polka
-  npm: https://www.npmjs.com/package/polka
-  tags: JS Back-end Framework
-- name: ProseMirror
-  home: http://prosemirror.net/
-  github: https://github.com/ProseMirror/prosemirror
-  gitter: https://gitter.im/ProseMirror/prosemirror
-  forum: https://discuss.prosemirror.net/
-  tags: Text Editor
-- name: Protocol Buffers
-  home: https://developers.google.com/protocol-buffers/
-  github: https://github.com/protocolbuffers/protobuf
-  forum: https://groups.google.com/forum/#!forum/protobuf
-  stackoverflow: https://stackoverflow.com/questions/tagged/protocol-buffers
-  tags: RPC
-- name: Puppet
-  home: https://puppet.com/
-  github: https://github.com/puppetlabs/puppet
-  awesome: https://github.com/olindata/awesome-puppet
-  tags: DevOps
-- name: Redis
-  home: https://redis.io/
-  github: https://github.com/antirez/redis
-  stackoverflow: https://stackoverflow.com/questions/tagged/redis
-  twitter: https://twitter.com/redisfeed
-  reddit: https://www.reddit.com/r/redis/
-  awesome: https://github.com/JamzyWang/awesome-redis
-  tags: Key-value Store
-- name: Sal.js
-  home: https://mciastek.github.io/sal/
-  github: https://github.com/mciastek/sal
+- name: tween.js
+  github: https://github.com/tweenjs/tween.js
+  npm: https://www.npmjs.com/package/@tweenjs/tween.js
+  cdnjs: https://cdnjs.com/libraries/tween.js
   tags: Animation
-- name: Sonnet
-  home: https://deepmind.github.io/sonnet/
-  github: https://github.com/deepmind/sonnet
-  tags: Machine Learning
-- name: SpaceVim
-  home: https://spacevim.org/
-  github: https://github.com/SpaceVim/SpaceVim
-  gitter: https://gitter.im/SpaceVim/SpaceVim
-  reddit: https://www.reddit.com/r/spacevim
-  twitter: https://twitter.com/SpaceVim
-  facebook: https://www.facebook.com/SpaceVim
-  tags: Text Editor
 - name: TensorFlow.js
   home: https://js.tensorflow.org/
   github: https://github.com/tensorflow/tfjs
@@ -1591,6 +1603,7 @@
   github: https://github.com/Microsoft/TypeScript
   blog: https://blogs.msdn.microsoft.com/typescript/
   twitter: https://twitter.com/typescriptlang
+  gitter: https://gitter.im/Microsoft/TypeScript
   awesome: https://github.com/dzharii/awesome-typescript
   tags: Programming Language
 - name: UIkit
