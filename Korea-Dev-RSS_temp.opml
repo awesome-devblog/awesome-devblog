@@ -5,17 +5,21 @@
     </head>
     <body>
         <outline title="news" text="국내 IT 소식 모음">
+            <outline title="데이터넷" xmlUrl="http://www.datanet.co.kr/rss/allArticle.xml"/>
             <outline title="모비인사이드" xmlUrl="http://feeds.feedburner.com/mobiinside/kr"/>
             <outline title="보드나라" xmlUrl="http://www.bodnara.co.kr/rss/news.xml"/>
             <outline title="보안뉴스" xmlUrl="http://www.boannews.com/media/news_rss.xml"/>
             <outline title="블로터" xmlUrl="http://feeds.feedburner.com/Bloter"/>
+            <outline title="스마트PC사랑" xmlUrl="http://www.ilovepc.co.kr/rss/allArticle.xml"/>
             <outline title="씨넷코리아" xmlUrl="http://www.cnet.co.kr/sitelink/rss_url/"/>
             <outline title="인공지능 신문" xmlUrl="http://www.aitimes.kr/rss/allArticle.xml"/>
             <outline title="전자신문" xmlUrl="http://rss.etnews.co.kr/Section901.xml"/>
             <outline title="테크니들" xmlUrl="http://techneedle.com/feed"/>
             <outline title="테크수다" xmlUrl="http://www.techsuda.com/feed"/>
+            <outline title="App Magazine" xmlUrl="http://www.withpress.co.kr/feed"/>
             <outline title="IT동아" xmlUrl="http://it.donga.com/feeds/rss/recent/"/>
             <outline title="IT월드" xmlUrl="http://www.itworld.co.kr/rss/feed"/>
+            <outline title="ITDaily" xmlUrl="http://www.itdaily.kr/rss/allArticle.xml"/>
             <outline title="Outstanding" xmlUrl="http://outstanding.kr/feed/"/>
             <outline title="ROA Daily" xmlUrl="https://www.roadaily.co.kr/feed"/>
         </outline>
