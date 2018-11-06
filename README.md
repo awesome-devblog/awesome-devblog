@@ -199,7 +199,7 @@ Tag Cloud
 | 김종헌 | http://shovelman.tistory.com/ | .NET | [![](icons/rss-icon.png)](http://shovelman.tistory.com/rss) |
 | 김종희 | https://kimpaper.github.io/ | Back-end | [![](icons/rss-icon.png)](https://kimpaper.github.io/feed.xml)[![](icons/facebook-icon.png)](https://www.facebook.com/seretude)[![](icons/github-icon.png)](https://github.com/kimpaper) |
 | 김준성 | https://brunch.co.kr/@codertimo |  | [![](icons/rss-icon.png)](https://brunch.co.kr/rss/@@Gyh)[![](icons/facebook-icon.png)](https://www.facebook.com/codertimo) |
-| 김준영 | https://junebuug.github.io/ | Java / Python | [![](icons/facebook-icon.png)](https://www.facebook.com/june.kim.5030927) |
+| 김준영 | https://junebuug.github.io/ | Java / Python | [![](icons/rss-icon.png)](https://junebuug.github.io/feed.xml) [![](icons/facebook-icon.png)](https://www.facebook.com/june.kim.5030927) |
 | 김준철 | http://jetalog.net/ | Solr | [![](icons/rss-icon.png)](http://jetalog.net/rss)[![](icons/facebook-icon.png)](https://www.facebook.com/jetalog.net)[![](icons/twitter-icon.png)](https://twitter.com/jetalog) |
 | 김준형 | https://medium.com/@ghilbut |  | [![](icons/rss-icon.png)](https://medium.com/feed/@ghilbut)[![](icons/facebook-icon.png)](https://www.facebook.com/ghilbut) |
 | 김준환 | http://topnanis.tistory.com/ |  | [![](icons/rss-icon.png)](http://topnanis.tistory.com/rss) |
