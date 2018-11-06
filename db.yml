@@ -1642,6 +1642,14 @@
   description: ''
   twitter: https://twitter.com/Snack_X
   github: https://github.com/Snack-X
+- name: 노재웅
+  blog: https://rsec.kr/
+  rss: https://rsec.kr/?feed=rss2
+  description: Security
+  twitter: https://twitter.com/ttongfly
+  facebook: https://www.facebook.com/jaewoong.roh.3
+  instagram: https://www.instagram.com/ttongfly/
+  linkedin: https://www.linkedin.com/in/jaewoong-roh-588b3646/
 - name: 노찬우
   blog: https://rajephon.github.io/blog/
   rss: https://rajephon.github.io/blog/feed.xml
