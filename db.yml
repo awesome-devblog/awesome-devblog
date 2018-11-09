@@ -1628,6 +1628,11 @@
   description: ''
   twitter: https://twitter.com/sbroh
   facebook: https://www.facebook.com/sbroh
+- name: 노아론
+  blog: https://www.blog.aaronroh.org
+  description: '프레임워크 / 오픈소스'
+  github: https://github.com/roharon
+  facebook: https://www.facebook.com/roharon
 - name: 노용환
   blog: http://bugsfixed.blogspot.kr/
   rss: http://bugsfixed.blogspot.com/feeds/posts/default
