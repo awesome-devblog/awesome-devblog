@@ -922,5 +922,6 @@
   blog: https://devblog.croquis.com/
   github: https://github.com/croquiscom
 - name: velog
-  home: https://velog.io/
+  blog: https://velog.io/
   rss: https://api.velog.io/atom/
+  description: Meta Blog
