@@ -4115,6 +4115,10 @@
   blog: https://brunch.co.kr/@junyong
   rss: https://brunch.co.kr/rss/@@QFh
   description: 해외 취업
+- name: 이준형
+  blog: https://gompro.postype.com/
+  rss: https://gompro.postype.com/rss/
+  description: Node.js, AWS
 - name: 이준호
   blog: http://www.vonzone.kr/
   description: 기획
