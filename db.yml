@@ -2812,6 +2812,13 @@
 - name: 신희제
   blog: https://medium.com/@wufniks
   rss: https://medium.com/feed/@wufniks
+- name: 신희준
+  blog: https://shj7242.github.io/
+  rss: https://shj7242.github.io/feed.xml
+  description: C
+  twitter: https://twitter.com/shinhj7242
+  facebook: https://www.facebook.com/profile.php?id=100002266059179
+  github: https://github.com/shj7242
 - name: 심혜진
   blog: https://simhyejin.github.io/
   rss: https://simhyejin.github.io/atom.xml
