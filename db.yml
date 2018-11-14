@@ -2809,6 +2809,10 @@
   description: Android
   twitter: https://twitter.com/Hyeon_SS
   facebook: https://www.facebook.com/HyeonSS
+- name: 신현호
+  blog: http://onecellboy.tistory.com/
+  rss: http://onecellboy.tistory.com/rss
+  description: Linux, Raspberry Pi
 - name: 신희제
   blog: https://medium.com/@wufniks
   rss: https://medium.com/feed/@wufniks
