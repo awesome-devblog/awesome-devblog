@@ -925,3 +925,8 @@
   blog: https://velog.io/
   rss: https://api.velog.io/atom/
   description: Meta Blog
+- name: Remotty
+  blog: http://blog.remotty.com/blog/
+  rss: http://blog.remotty.com/blog/rss/
+  twitter: https://twitter.com/remottykr
+  github: https://github.com/remotty
