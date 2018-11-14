@@ -2206,11 +2206,14 @@
   stackoverflow: https://stackoverflow.com/users/3910390/penguin
   rocketpunch: https://www.rocketpunch.com/@say8425
 - name: 박치완
-  blog: https://chiwanpark.com/
+  blog: https://chiwanpark.com/articles/
   description: ''
   github: https://github.com/chiwanpark/
   twitter: https://twitter.com/parkchiwan
-  facebook: https://www.linkedin.com/in/chiwanpark
+  facebook: https://www.facebook.com/chiwanpark
+  linkedin: https://www.linkedin.com/in/chiwanpark
+  speakerdeck: https://speakerdeck.com/chiwanpark
+  home: https://chiwanpark.com/
 - name: 박해선
   blog: https://tensorflow.blog/
   rss: https://tensorflow.blog/feed/
