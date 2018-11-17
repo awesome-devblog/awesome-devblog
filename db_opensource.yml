@@ -160,6 +160,10 @@
   home: https://buckbuild.com/
   github: https://github.com/facebook/buck
   tags: Java, Build
+- name: Buildah
+  home: https://buildah.io
+  github: https://github.com/containers/buildah
+  tags: Container
 - name: Bulma
   home: https://bulma.io/
   github: https://github.com/jgthms/bulma
@@ -592,6 +596,9 @@
   github: https://github.com/google/guava
   maven: https://mvnrepository.com/artifact/com.google.guava/guava
   tags: Java, Core Library
+- name: gVisor
+  github: https://github.com/google/gvisor
+  tags: Container
 - name: Hadoop
   home: http://hadoop.apache.org/
   github: https://github.com/apache/hadoop
@@ -827,6 +834,10 @@
   home: https://lernajs.io/
   github: https://github.com/lerna/lerna
   tags: JS Package Manager
+- name: libpod
+  home: https://podman.io/
+  github: https://github.com/containers/libpod
+  tags: Container
 - name: Libuv
   home: http://libuv.org/
   github: https://github.com/libuv/libuv
@@ -1022,6 +1033,10 @@
   googleplus: https://plus.google.com/+mysql
   awesome: https://github.com/shlomi-noach/awesome-mysql
   tags: Database
+- name: Nameko
+  home: https://www.nameko.io/
+  github: https://github.com/nameko/nameko
+  tags: Python Back-end Framework
 - name: Neo4j
   home: https://neo4j.com/
   github: https://github.com/neo4j/neo4j
@@ -1461,6 +1476,11 @@
   twitter: https://twitter.com/sinatra
   slack: https://sinatrarb.slack.com/
   tags: Ruby, Back-end Framework
+- name: Slate
+  home: https://www.slatejs.org/
+  github: https://github.com/ianstormtaylor/slate
+  slack: https://slate-slack.herokuapp.com/
+  tags: Editor
 - name: Snap.svg
   home: http://snapsvg.io/
   github: https://github.com/adobe-webplatform/Snap.svg
