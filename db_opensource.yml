@@ -628,6 +628,11 @@
   github: https://github.com/oracle/helidon
   twitter: https://twitter.com/helidon_project
   tags: JVM Back-end Framework
+- name: Helm
+  home: https://helm.sh/
+  github: https://github.com/helm/helm
+  slack: https://kubernetes.slack.com/
+  tags: Container
 - name: Hexo
   home: https://hexo.io/
   github: https://github.com/hexojs/hexo
@@ -724,6 +729,10 @@
   github: https://github.com/GoogleContainerTools/jib
   gitter: https://gitter.im/google/jib
   tags: Java, Build
+- name: Johnny-Five
+  home: http://johnny-five.io/
+  github: https://github.com/rwaldron/johnny-five
+  tags: Robotics
 - name: Julia
   home: https://julialang.org/
   github: https://github.com/JuliaLang/julia
@@ -942,6 +951,10 @@
   home: https://material.io/develop/
   github: https://github.com/material-components/material-components-web
   tags: UI Framework
+- name: mermaid
+  home: https://mermaidjs.github.io/
+  github: https://github.com/knsv/mermaid
+  tags: Diagram
 - name: Meteor
   home: https://www.meteor.com/
   github: https://github.com/meteor/meteor
@@ -1522,9 +1535,10 @@
   github: https://github.com/picturepan2/spectre
   twitter: https://twitter.com/spectrecss
   tags: UI Framework
-- name: Spring-boot
+- name: Spring Boot
   home: http://spring.io/projects/spring-boot
   github: https://github.com/spring-projects/spring-boot
+  gitter: https://gitter.im/spring-projects/spring-boot
   stackoverflow: https://stackoverflow.com/questions/tagged/spring-boot
   awesome: https://github.com/stunstunstun/awesome-spring-boot
   tags: JVM Back-end Framework
@@ -1618,6 +1632,14 @@
   github: https://github.com/tornadoweb/tornado
   stackoverflow: https://stackoverflow.com/questions/tagged/tornado
   tags: Python, Web Framework
+- name: Traefik
+  home: https://traefik.io/
+  github: https://github.com/containous/traefik
+  twitter: https://twitter.com/traefik
+  slack: https://slack.traefik.io/
+  stackoverflow: https://stackoverflow.com/questions/tagged/traefik
+  dockerhub: https://hub.docker.com/r/_/traefik/
+  tags: Proxy
 - name: TypeScript
   home: https://www.typescriptlang.org/
   github: https://github.com/Microsoft/TypeScript
@@ -1724,6 +1746,10 @@
   github: https://github.com/WhitestormJS/whs.js
   chat: https://discordapp.com/invite/5yNCvC4
   tags: 3D Graphics
+- name: WordPlate
+  home: https://wordplate.github.io/
+  github: https://github.com/wordplate/wordplate
+  tags: CMS
 - name: xi-editor
   home: https://xi-editor.github.io/xi-editor/
   github: https://github.com/xi-editor/xi-editor
