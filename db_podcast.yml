@@ -1,0 +1,22 @@
+---
+- name: Syntax
+  home: https://syntax.fm/
+  rss: https://feed.syntax.fm/rss
+- name: Front End Happy Hour
+  home: https://frontendhappyhour.com/
+  rss: http://feeds.soundcloud.com/users/soundcloud:users:206137365/sounds.rss
+- name: Full Stack Radio
+  home: http://www.fullstackradio.com/
+  rss: https://rss.simplecast.com/podcasts/279/rss
+- name: CodeNewbie
+  home: https://www.codenewbie.org/
+  rss: http://feeds.codenewbie.org/cnpodcast.xml
+- name: Shop Talk
+  home: https://shoptalkshow.com/
+  rss: https://shoptalkshow.com/feed/podcast/
+- name: JS Party
+  home: https://changelog.com/jsparty
+  rss: https://changelog.com/jsparty/feed
+- name: Software Engineering Daily
+  home: https://softwareengineeringdaily.com/
+  rss: https://softwareengineeringdaily.com/feed/podcast/
