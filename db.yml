@@ -4064,6 +4064,13 @@
   rss: https://brunch.co.kr/rss/@@aBL
   description: IT 칼럼
   facebook: https://www.facebook.com/madlymissyou
+- name: 이정현
+  blog: http://mygumi.tistory.com/
+  rss: http://mygumi.tistory.com/rss
+  description: Algorithm
+  github: https://github.com/hotehrud
+  codepen: https://codepen.io/mygumi
+  backjoon: https://www.acmicpc.net/user/mygumi
 - name: 이정훈
   blog: http://sjh836.tistory.com/
   rss: http://sjh836.tistory.com/rss
