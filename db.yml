@@ -794,7 +794,8 @@
   facebook: https://www.facebook.com/profile.php?id=100002784525012
   github: https://github.com/wnsgml972
 - name: 김중근
-  blog: http://confluence.swtool.review/display/SWEN
+  blog: http://confluence.swtools.review/display/SWEN
+  rss: http://confluence.swtools.review/createrssfeed.action?types=page&pageSubTypes=comment&pageSubTypes=attachment&spaces=SWEN&title=SWTOOLS+RSS+Feed&labelString%3D&excludedSpaceKeys%3D&sort=modified&maxResults=50&timeSpan=365&showContent=true&confirm=Create+RSS+Feed
   description: IT Tour Guider, SW Tools, SW Internals, Android
   linkedin: https://www.linkedin.com/in/av9300
   facebook: https://www.facebook.com/av9300
