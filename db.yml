@@ -612,11 +612,12 @@
   rss: https://mansoo-sw.blogspot.com/feeds/posts/default
   description: ''
 - name: 김명신
-  blog: http://himskim.egloos.com/
-  rss: http://rss.egloos.com/blog/himskim
+  blog: https://himskim.wordpress.com/
+  rss: https://himskim.wordpress.com/feed/
   description: Microsoft
   facebook: https://www.facebook.com/himskim
   twitter: https://twitter.com/himskim
+  egloos: http://himskim.egloos.com/
 - name: 김명주
   blog: http://blog.naver.com/bansuk78
   rss: http://blog.rss.naver.com/bansuk78.xml
