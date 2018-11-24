@@ -4218,6 +4218,12 @@
   rss: http://lhb0517.tistory.com/rss
   description: Ubuntu, Java
   github: https://github.com/starrybleu
+- name: 이항희
+  blog: https://blog.javarouka.me/
+  rss: https://blog.javarouka.me/atom.xml
+  description: Java
+  github: https://github.com/javarouka
+  facebook: https://www.facebook.com/hanghui.i
 - name: 이해영
   blog: http://www.haeyounglee.com/
   rss: http://feeds.feedburner.com/haeyounglee
