@@ -600,6 +600,11 @@
   github: https://github.com/Digitalisx
   linkedin: https://www.linkedin.com/in/donghyun-kim-4a898012b/
   slideshare: https://www.slideshare.net/ssuser5fc0a31
+- name: 김동현
+  blog: http://rhlinux.tistory.com/
+  rss: http://rhlinux.tistory.com/rss
+  description: RedHat Linux
+  facebook: https://www.facebook.com/kim2da
 - name: 김동환
   blog: https://wraithkim.wordpress.com/
   rss: https://wraithkim.wordpress.com/feed/
@@ -1817,6 +1822,8 @@
   description: Front-end
   github: https://github.com/qkraudghgh
   facebook: https://www.facebook.com/myounghoPak
+  slideshare: https://www.slideshare.net/ssuser8293c3
+  linkedin: https://www.linkedin.com/in/qkraudghgh/
 - name: 박미정
   blog: https://medium.com/@mjspring
   rss: https://medium.com/feed/@mjspring
