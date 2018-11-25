@@ -5759,6 +5759,12 @@
   twitter: https://twitter.com/jooyunghan
   facebook: https://www.facebook.com/jooyung.han
   github: https://github.com/jooyunghan
+- name: 한진석
+  blog: https://moregorenine.github.io/
+  rss: https://moregorenine.github.io/feed.xml
+  description: Spring Boot
+  github: https://github.com/moregorenine
+  twitter: https://twitter.com/w4springrain
 - name: 한창석
   blog: https://free-strings.blogspot.kr/
   rss: https://free-strings.blogspot.kr/atom.xml
