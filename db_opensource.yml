@@ -288,6 +288,7 @@
   twitter: https://twitter.com/date_fns
   blog: https://blog.date-fns.org/
   npm: https://www.npmjs.com/package/date-fns
+  rss: https://blog.date-fns.org/rss
   tags: Date
 - name: Day.js
   github: https://github.com/iamkun/dayjs
