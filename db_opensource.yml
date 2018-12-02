@@ -35,6 +35,7 @@
   stackoverflow: https://stackoverflow.com/questions/tagged/angular
   quora: https://www.quora.com/topic/AngularJS
   awesome: https://github.com/gdi2290/awesome-angular
+  reddit: https://www.reddit.com/r/angular/
   tags: Javascript, Front-end Framework
 - name: Animate.css
   home: https://daneden.github.io/animate.css/
@@ -52,6 +53,7 @@
   blog: https://www.ansible.com/blog
   meetup: https://www.meetup.com/ko-KR/Ansible-Seoul/
   awesome: https://github.com/jdauphant/awesome-ansible
+  reddit: https://www.reddit.com/r/ansible/
   tags: DevOps
 - name: Apollo
   home: https://www.apollographql.com/
@@ -71,10 +73,12 @@
   github: https://github.com/atom/atom
   blog: http://blog.atom.io/
   awesome: https://github.com/mehcode/awesome-atom
+  reddit: https://www.reddit.com/r/Atom/
   tags: Text Editor
 - name: Auto Keras
   home: https://autokeras.com/
   github: https://github.com/jhfjhfj1/autokeras
+  gitter: https://gitter.im/autokeras/Lobby
   tags: Machine Learning
 - name: AVA
   github: https://github.com/avajs/ava
@@ -123,6 +127,7 @@
   twitter: https://twitter.com/getbootstrap
   blog: https://blog.getbootstrap.com/
   awesome: https://github.com/therebelrobot/awesome-bootstrap
+  reddit: https://www.reddit.com/r/bootstrap/
   tags: UI Framework
 - name: Bottle
   home: https://bottlepy.org/
@@ -147,6 +152,7 @@
   twitter: https://twitter.com/brave
   facebook: https://www.facebook.com/BraveSoftware/
   youtube: https://www.youtube.com/bravesoftware
+  reddit: https://www.reddit.com/r/brave_browser/
   tags: Web Browser
 - name: Browserify
   home: http://browserify.org/
@@ -186,10 +192,12 @@
   home: https://caffe2.ai/
   github: https://github.com/caffe2/caffe2
   awesome: https://github.com/MichaelXin/Awesome-Caffe
+  reddit: https://www.reddit.com/r/Caffe2/
   tags: Machine Learning
 - name: CartoDB
   home: https://carto.com/
   github: https://github.com/CartoDB/cartodb
+  reddit: https://www.reddit.com/r/cartodb/
   tags: Visualization
 - name: Cassandra
   home: http://cassandra.apache.org/
@@ -198,6 +206,7 @@
   twitter: https://twitter.com/cassandra
   stackoverflow: https://stackoverflow.com/questions/tagged/cassandra
   awesome: https://github.com/yikebocai/awesome-cassandra
+  reddit: https://www.reddit.com/r/cassandra/
   tags: Database
 - name: Chart.js
   home: https://www.chartjs.org/
@@ -217,12 +226,14 @@
   home: https://cherrypy.org/
   github: https://github.com/cherrypy/cherrypy
   gitter: https://gitter.im/cherrypy/cherrypy
+  reddit: https://www.reddit.com/r/CherryPy/
   tags: Python, Web Framework
 - name: CNTK
   home: https://www.microsoft.com/en-us/cognitive-toolkit/
   github: https://github.com/Microsoft/CNTK
   gitter: https://gitter.im/Microsoft/CNTK
   blog: https://www.microsoft.com/en-us/cognitive-toolkit/blog/
+  reddit: https://www.reddit.com/r/cntk/
   tags: Machine Learning
 - name: CockroachDB
   home: https://www.cockroachlabs.com/
@@ -231,6 +242,7 @@
   forum: https://forum.cockroachlabs.com/
   gitter: https://gitter.im/cockroachdb/cockroach
   stackoverflow: https://stackoverflow.com/questions/tagged/cockroachdb
+  reddit: https://www.reddit.com/r/CockroachDB/
   tags: Database
 - name: colorls
   github: https://github.com/athityakumar/colorls
