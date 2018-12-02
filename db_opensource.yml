@@ -12,7 +12,7 @@
   discord: https://discordapp.com/invite/vDcEjq6
   npm: https://www.npmjs.com/package/@adonisjs/framework
   awesome: https://github.com/zgabievi/awesome-adonisjs
-  tags: JS Back-end Framework
+  tags: Javascript, Back-end Framework
 - name: AIOHTTP
   home: https://aiohttp.readthedocs.io/en/stable/
   github: https://github.com/aio-libs/aiohttp
@@ -22,6 +22,10 @@
   home: https://altair-viz.github.io/
   github: https://github.com/altair-viz/altair
   tags: Visualization
+- name: Amp
+  home: https://amp.rs/
+  github: https://github.com/jmacdonald/amp
+  tags: Text Editor
 - name: Angular
   home: https://angular.io/
   github: https://github.com/angular/angular
@@ -31,7 +35,7 @@
   stackoverflow: https://stackoverflow.com/questions/tagged/angular
   quora: https://www.quora.com/topic/AngularJS
   awesome: https://github.com/gdi2290/awesome-angular
-  tags: JS Front-end Framework
+  tags: Javascript, Front-end Framework
 - name: Animate.css
   home: https://daneden.github.io/animate.css/
   github: https://github.com/daneden/animate.css
@@ -77,7 +81,7 @@
   twitter: https://twitter.com/ava__js
   stackoverflow: https://stackoverflow.com/questions/tagged/ava
   awesome: https://github.com/avajs/awesome-ava
-  tags: JS Testing
+  tags: Javascript, Testing
 - name: axios
   github: https://github.com/axios/axios
   npm: https://www.npmjs.com/package/axios
@@ -135,7 +139,7 @@
   home: https://bower.io/
   github: https://github.com/bower/bower
   twitter: https://twitter.com/bower
-  tags: JS Package Manager
+  tags: Javascript, Package Manager
 - name: Brave
   home: https://brave.com/
   github: https://github.com/brave/browser-laptop
@@ -365,7 +369,7 @@
   twitter: https://twitter.com/emberjs
   slack: https://embercommunity.slack.com/
   awesome: https://github.com/nmec/awesome-ember
-  tags: JS Front-end Framework
+  tags: Javascript, Front-end Framework
 - name: Envoy
   home: https://www.envoyproxy.io/
   github: https://github.com/envoyproxy/envoy
@@ -399,7 +403,7 @@
   googlegroups: https://groups.google.com/group/express-js
   quora: https://www.quora.com/topic/Express-Node-js-web-framework
   awesome: https://github.com/rajikaimal/awesome-express
-  tags: JS Back-end Framework
+  tags: Javascript, Back-end Framework
 - name: Falcon
   home: https://falconframework.org/
   github: https://github.com/falconry/falcon
@@ -416,7 +420,7 @@
   home: https://www.fastify.io/
   github: https://github.com/fastify/fastify
   gitter: https://gitter.im/fastify/Lobby
-  tags: JS, Back-end Framework
+  tags: Javascript, Back-end Framework
 - name: Feathers
   home: https://feathersjs.com/
   github: https://github.com/feathersjs/feathers
@@ -426,7 +430,7 @@
   blog: https://blog.feathersjs.com/
   stackoverflow: https://stackoverflow.com/questions/tagged/feathersjs
   awesome: https://github.com/feathersjs/awesome-feathersjs
-  tags: JS Back-end Framework
+  tags: Javascript, Back-end Framework
 - name: Fission
   home: https://fission.io/
   github: https://github.com/fission/fission
@@ -551,7 +555,7 @@
   tags: Programming Language
 - name: Graphpack
   github: https://github.com/glennreyes/graphpack
-  tags: JS Back-end Framework
+  tags: Javascript, Back-end Framework
 - name: GraphQL
   home: https://graphql.org/
   github: https://github.com/facebook/graphql
@@ -618,7 +622,7 @@
   twitter: https://twitter.com/hapijs
   quora: https://www.quora.com/topic/Hapi-Node-js-API-Framework
   awesome: https://github.com/anhldbk/awesome-hapi
-  tags: JS Back-end Framework
+  tags: Javascript, Back-end Framework
 - name: HAProxy
   home: http://www.haproxy.org/
   github: https://github.com/haproxy/haproxy
@@ -666,6 +670,9 @@
   home: https://hyper.rs/
   github: https://github.com/hyperium/hyper
   tags: Rust, Web Framework
+- name: imgui
+  github: https://github.com/ocornut/imgui
+  tags: Kotlin
 - name: impress.js
   home: https://impress.js.org/
   github: https://github.com/impress/impress.js
@@ -675,7 +682,7 @@
   github: https://github.com/infernojs/inferno
   npm: https://github.com/infernojs/inferno
   awesome: https://github.com/guuibayer/awesome-inferno
-  tags: JS Front-end Framework
+  tags: Javascript, Front-end Framework
 - name: InfluxDB
   home: https://www.influxdata.com/time-series-platform/influxdb/
   github: https://github.com/influxdata/influxdb
@@ -704,7 +711,7 @@
 - name: Jasmine
   home: https://jasmine.github.io/
   github: https://github.com/jasmine/jasmine
-  tags: JS Testing
+  tags: Javascript, Testing
 - name: Javalin
   home: https://javalin.io/
   github: https://github.com/tipsy/javalin
@@ -755,12 +762,12 @@
   twitter: https://twitter.com/jquery
   stackoverflow: https://stackoverflow.com/tags/jquery
   awesome: https://github.com/petk/awesome-jquery
-  tags: JS Core Library
+  tags: Javascript, Core Library
 - name: jspm
   home: https://jspm.org/
   github: https://github.com/jspm/jspm-cli
   gitter: https://gitter.im/jspm/jspm
-  tags: JS Package Manager
+  tags: Javascript, Package Manager
 - name: Kafka
   home: https://kafka.apache.org/
   github: https://github.com/apache/kafka
@@ -797,7 +804,7 @@
   opencollective: https://opencollective.com/koajs
   quora: https://www.quora.com/topic/Koa-Node-js-framework
   awesome: https://github.com/ellerbrock/awesome-koa
-  tags: JS Back-end Framework
+  tags: Javascript, Back-end Framework
 - name: Koin
   github: https://github.com/InsertKoinIO/koin
   home: https://insert-koin.io/
@@ -843,7 +850,7 @@
 - name: Lerna
   home: https://lernajs.io/
   github: https://github.com/lerna/lerna
-  tags: JS Package Manager
+  tags: Javascript, Package Manager
 - name: libpod
   home: https://podman.io/
   github: https://github.com/containers/libpod
@@ -892,7 +899,7 @@
   gitter: https://gitter.im/strongloop/loopback
   googlegroups: https://groups.google.com/forum/#!forum/loopbackjs
   awesome: https://github.com/pasindud/awesome-loopback
-  tags: JS Back-end Framework
+  tags: Javascript, Back-end Framework
 - name: lory
   home: http://meandmax.github.io/lory/
   github: https://github.com/meandmax/lory
@@ -931,7 +938,7 @@
 - name: Marko
   home: https://markojs.com/
   github: https://github.com/marko-js/marko
-  tags: JS Front-end Framework
+  tags: Javascript, Front-end Framework
 - name: Materialize
   home: https://materializecss.com/
   github: https://github.com/Dogfalo/materialize
@@ -964,7 +971,7 @@
   youtube: https://www.youtube.com/user/MeteorVideos
   facebook: https://www.facebook.com/meteorjs/
   awesome: https://github.com/Urigo/awesome-meteor
-  tags: JS Back-end Framework
+  tags: Javascript, Back-end Framework
 - name: Micro
   home: https://micro-editor.github.io/
   github: https://github.com/zyedidia/micro
@@ -991,7 +998,7 @@
   gitter: https://gitter.im/mithriljs/mithril.js
   stackoverflow: https://stackoverflow.com/questions/tagged/mithril.js
   awesome: https://github.com/orbitbot/awesome-mithril
-  tags: JS Front-end Framework
+  tags: Javascript, Front-end Framework
 - name: mo.js
   home: http://mojs.io/
   github: https://github.com/legomushroom/mojs
@@ -1006,7 +1013,7 @@
   home: https://mochajs.org/
   github: https://github.com/mochajs/mocha
   gitter: https://gitter.im/mochajs/mocha
-  tags: JS Testing
+  tags: Javascript, Testing
 - name: Moment.js
   home: https://momentjs.com/
   github: https://github.com/moment/moment
@@ -1064,7 +1071,7 @@
   github: https://github.com/nestjs/nest
   twitter: https://twitter.com/nestframework
   awesome: https://github.com/juliandavidmr/awesome-nest
-  tags: JS Back-end Framework
+  tags: Javascript, Back-end Framework
 - name: netdata
   home: https://my-netdata.io/
   github: https://github.com/netdata/netdata
@@ -1078,7 +1085,11 @@
   home: https://nextjs.org/
   github: https://github.com/zeit/next.js
   awesome: https://github.com/unicodeveloper/awesome-nextjs
-  tags: JS Web Framework
+  tags: Javascript, Web Framework
+- name: nivo
+  home: https://nivo.rocks/
+  github: https://github.com/plouc/nivo
+  tags: Chart
 - name: nnn
   github: https://github.com/jarun/nnn
   tags: File Manager
@@ -1099,7 +1110,7 @@
   blog: https://blog.npmjs.org/
   twitter: https://twitter.com/npmjs
   awesome: https://github.com/sindresorhus/awesome-npm
-  tags: JS Package Manager
+  tags: Javascript, Package Manager
 - name: Numpy
   home: http://www.numpy.org/
   github: https://github.com/numpy/numpy
@@ -1113,7 +1124,7 @@
   twitter: https://twitter.com/nuxt_js
   gitter: https://gitter.im/nuxt/nuxt.js
   awesome: https://github.com/nuxt-community/awesome-nuxt
-  tags: JS Web Framework
+  tags: Javascript, Web Framework
 - name: NW.js
   home: https://nwjs.io/
   github: https://github.com/nwjs/nw.js/
@@ -1226,7 +1237,7 @@
 - name: Polka
   github: https://github.com/lukeed/polka
   npm: https://www.npmjs.com/package/polka
-  tags: JS Back-end Framework
+  tags: Javascript, Back-end Framework
 - name: PollyJS
   home: https://netflix.github.io/pollyjs
   github: https://github.com/Netflix/pollyjs
@@ -1240,7 +1251,7 @@
   stackoverflow: https://stackoverflow.com/tags/polymer
   googleplus: https://plus.google.com/+PolymerProject
   awesome: https://github.com/Granze/awesome-polymer
-  tags: JS Front-end Framework
+  tags: Javascript, Front-end Framework
 - name: PostgreSQL
   home: https://www.postgresql.org/
   github: https://github.com/postgres/postgres
@@ -1258,7 +1269,7 @@
   home: https://preactjs.com/
   github: https://github.com/developit/preact
   awesome: https://github.com/ooade/awesome-preact
-  tags: JS Front-end Framework
+  tags: Javascript, Front-end Framework
 - name: prettyping
   home: http://denilson.sa.nom.br/prettyping/
   github: https://github.com/denilsonsa/prettyping
@@ -1344,7 +1355,7 @@
   twitter: https://twitter.com/reactjs
   quora: https://www.quora.com/topic/React-JavaScript-library
   awesome: https://github.com/enaqx/awesome-react
-  tags: JS Front-end Framework
+  tags: Javascript, Front-end Framework
 - name: React Native
   home: https://facebook.github.io/react-native/
   github: https://github.com/facebook/react-native
@@ -1403,7 +1414,7 @@
   github: https://github.com/riot/riot
   twitter: https://twitter.com/riotjs_
   awesome: https://github.com/pankajparashar-zz/awesome-riotjs
-  tags: JS Front-end Framework
+  tags: Javascript, Front-end Framework
 - name: Rocket
   home: https://rocket.rs/
   github: https://github.com/SergioBenitez/Rocket
@@ -1446,7 +1457,7 @@
   twitter: https://twitter.com/sailsjs
   quora: https://www.quora.com/topic/SailsJS
   awesome: https://github.com/Mozartted/awesome-sails-projects
-  tags: JS Back-end Framework
+  tags: Javascript, Back-end Framework
 - name: Sal.js
   home: https://mciastek.github.io/sal/
   github: https://github.com/mciastek/sal
@@ -1588,14 +1599,14 @@
   tags: Security
 - name: tink
   github: https://github.com/npm/tink
-  tags: JS Package Manager
+  tags: Javascript, Package Manager
 - name: Total.js
   home: https://www.totaljs.com/
   github: https://github.com/totaljs/framework
   blog: https://blog.totaljs.com/
   twitter: https://twitter.com/totalframework
   facebook: https://www.facebook.com/totaljs.web.framework/
-  tags: JS Back-end Framework
+  tags: Javascript, Back-end Framework
 - name: TurtleDB
   home: https://turtle-db.github.io/
   github: https://github.com/turtle-DB/turtleDB
@@ -1712,7 +1723,7 @@
   medium: https://medium.com/the-vue-point
   quora: https://www.quora.com/topic/Vue-js
   awesome: https://github.com/vuejs/awesome-vue
-  tags: JS Front-end Framework
+  tags: Javascript, Front-end Framework
 - name: Vue.Draggable
   github: https://github.com/SortableJS/Vue.Draggable
   npm: https://www.npmjs.com/package/vue-draggable
@@ -1764,7 +1775,7 @@
   discord: https://discordapp.com/invite/yarnpkg
   facebook: https://www.facebook.com/yarnpkg
   twitter: https://twitter.com/yarnpkg
-  tags: JS Package Manager
+  tags: Javascript, Package Manager
 - name: ZeroMQ
   home: http://zeromq.org/
   github: https://github.com/zeromq/libzmq
@@ -1778,3 +1789,16 @@
 - name: Zuul
   github: https://github.com/Netflix/zuul
   tags: Proxy
+- name: PySyft
+  github: https://github.com/OpenMined/PySyft
+  dockerhub: https://hub.docker.com/r/openmined/pysyft/
+  tags: Machine Learning
+- name: Vulcan
+  home: http://vulcanjs.org/
+  github: https://github.com/VulcanJS/Vulcan
+  youtube: https://www.youtube.com/channel/UCGIvQQ6zw7ov2cHgD70HFlA
+  tags: Javascript, Front-end Framework
+- name: wasmer
+  home: https://wasmer.io/
+  github: https://github.com/wasmerio/wasmer
+  tags: WebAssembly
