@@ -3428,6 +3428,9 @@
   blog: http://programmeringermany.blogspot.kr/
   rss: http://programmeringermany.blogspot.com/feeds/posts/default
   description: 해외 취업
+- name: 유호건
+  blog: https://velog.io/@youhogeon
+  description: Javascript
 - name: 유희철
   blog: https://medium.com/@ryuheechul
   rss: https://medium.com/feed/@ryuheechul
