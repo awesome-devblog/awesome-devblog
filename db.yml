@@ -4442,6 +4442,9 @@
   blog: http://mooneegee.blogspot.kr/
   rss: https://mooneegee.blogspot.com/feeds/posts/default
   description: 3D
+- name: 장선우
+  blog: https://velog.io/@sjquant
+  description: Python
 - name: 장성진
   blog: https://brunch.co.kr/@99-life
   rss: https://brunch.co.kr/rss/@@L61
