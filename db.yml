@@ -901,12 +901,12 @@
   rss: https://medium.com/feed/@ksjksj0122
   description: 블록체인
 - name: 김영균
-  blog: https://medium.com/@chancethecoder
-  rss: https://medium.com/feed/@chancethecoder
-  description: Linux
+  blog: https://chancethecoder.tistory.com
+  rss: https://chancethecoder.tistory.com/rss
+  description: 데이터 엔지니어
   github: https://github.com/chancethecoder
-  blogspot: http://chancethecoder.blogspot.com/
   home: http://chancethecoder.me/
+  linkedin: https://www.linkedin.com/in/youngkyun-kim
 - name: 김영근
   blog: https://medium.com/@younggun
   rss: https://medium.com/feed/@younggun
@@ -3426,6 +3426,7 @@
   description: ''
 - name: 유차영
   blog: https://yous.be/
+  rss: https://yous.be/atom.xml
   description: CTF
   twitter: https://twitter.com/_Yous
   github: https://github.com/yous

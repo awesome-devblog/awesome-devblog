@@ -224,7 +224,7 @@
 | 김찬빈 | https://blog.kesuskim.com/ | Front-end | [![](icons/rss-icon.png)](https://blog.kesuskim.com/feed.xml)[![](icons/github-icon.png)](https://github.com/kesuskim) |
 | 김창원 | http://www.memoriesreloaded.net/ | 실리콘밸리 | [![](icons/rss-icon.png)](http://www.memoriesreloaded.net/feeds/posts/default) |
 | 김창준 | http://agile.egloos.com/ | 애자일 | [![](icons/rss-icon.png)](http://rss.egloos.com/blog/agile)[![](icons/twitter-icon.png)](https://twitter.com/cjunekim) |
-| 김청진 | http://jinblog.kr | IT소식/리뷰, 개발(웹, 모바일) | [![](icons/rss-icon.png)](http://jinblog.kr/rss) |
+| 김청진 | https://jinblog.kr | IT소식/리뷰, 개발(웹, 모바일) | [![](icons/rss-icon.png)](http://jinblog.kr/rss) [![](icons/facebook-icon.png)](https://www.facebook.com/jinblog) [![](icons/github-icon.png)](https://github.com/devjin0617) | 
 | 김충섭 | http://subicura.com/ |  | [![](icons/rss-icon.png)](https://subicura.com/feed.xml)[![](icons/twitter-icon.png)](https://twitter.com/subicura)[![](icons/github-icon.png)](https://github.com/subicura) |
 | 김태곤 | http://taegon.kim/ | 웹 | [![](icons/rss-icon.png)](https://taegon.kim/feed) |
 | 김태균 | http://blog.gaerae.com/ |  | [![](icons/rss-icon.png)](http://feeds.feedburner.com/GaeraeBlog?format=xml) |
@@ -520,7 +520,7 @@
 | 유주원 | http://hipercube.tistory.com/ |  | [![](icons/rss-icon.png)](http://hipercube.tistory.com/rss) |
 | 유준상 | https://wnstkdyu.github.io/ | iOS | [![](icons/github-icon.png)](https://github.com/wnstkdyu)[![](icons/linkedin-icon.png)](https://www.linkedin.com/in/wnstkdyu/) |
 | 유진호 | https://brunch.co.kr/@jinhoyooephf |  | [![](icons/rss-icon.png)](https://brunch.co.kr/atom/@@z8s) |
-| 유차영 | https://yous.be/ | CTF | [![](icons/twitter-icon.png)](https://twitter.com/_Yous)[![](icons/github-icon.png)](https://github.com/yous) |
+| 유차영 | https://yous.be/ | CTF | [![](icons/rss-icon.png)](https://yous.be/atom.xml)[![](icons/twitter-icon.png)](https://twitter.com/_Yous)[![](icons/github-icon.png)](https://github.com/yous) |
 | 유현석 | http://duriepark.tistory.com/ |  | [![](icons/rss-icon.png)](http://duriepark.tistory.com/rss) |
 | 유형준 | http://programmeringermany.blogspot.kr/ | 해외 취업 | [![](icons/rss-icon.png)](http://programmeringermany.blogspot.com/feeds/posts/default) |
 | 유희철 | https://medium.com/@ryuheechul | DevOps | [![](icons/rss-icon.png)](https://medium.com/feed/@ryuheechul)[![](icons/twitter-icon.png)](https://twitter.com/RyuHeechul)[![](icons/github-icon.png)](https://github.com/ryuheechul) |
@@ -696,7 +696,7 @@
 | 정승욱 | https://medium.com/@jsuch2362 | Android | [![](icons/rss-icon.png)](https://medium.com/feed/@jsuch2362)[![](icons/facebook-icon.png)](https://www.facebook.com/steve.SU.J)[![](icons/twitter-icon.png)](https://twitter.com/jsuch2362) |
 | 정원희 | https://brunch.co.kr/@hee072794 | React, Next.js | [![](icons/rss-icon.png)](https://brunch.co.kr/rss/@@naw)[![](icons/facebook-icon.png)](https://www.facebook.com/hee072794) |
 | 정유진 | http://dudmy.net/ | Android | [![](icons/rss-icon.png)](http://dudmy.net/feed)[![](icons/github-icon.png)](https://github.com/dudmy)[![](icons/linkedin-icon.png)](https://www.linkedin.com/in/dudmy/) |
-| 정유택 | https://takeuu.tistory.com | Front-end | [![](icons/rss-icon.png)](http://takeuu.tistory.com/rss)[![](icons/github-icon.png)](https://github.com/JungYouTaek) |
+| 정유택 | https://takeuu.tistory.com | Front-end | [![](icons/rss-icon.png)](http://takeuu.tistory.com/rss)[![](icons/github-icon.png)](https://github.com/youtaekjung) |
 | 정윤성 | http://yoonsung.github.io/ | Rust | [![](icons/rss-icon.png)](http://yoonsung.github.io/atom.xml)[![](icons/github-icon.png)](https://github.com/YoonSung) |
 | 정윤원 | http://youknowone.github.io/ | IOS | [![](icons/github-icon.png)](https://github.com/youknowone/) |
 | 정윤진 | http://kerberosj.tistory.com/ | Cloud | [![](icons/rss-icon.png)](http://kerberosj.tistory.com/rss) |
