@@ -696,7 +696,7 @@
 | 정승욱 | https://medium.com/@jsuch2362 | Android | [![](icons/rss-icon.png)](https://medium.com/feed/@jsuch2362)[![](icons/facebook-icon.png)](https://www.facebook.com/steve.SU.J)[![](icons/twitter-icon.png)](https://twitter.com/jsuch2362) |
 | 정원희 | https://brunch.co.kr/@hee072794 | React, Next.js | [![](icons/rss-icon.png)](https://brunch.co.kr/rss/@@naw)[![](icons/facebook-icon.png)](https://www.facebook.com/hee072794) |
 | 정유진 | http://dudmy.net/ | Android | [![](icons/rss-icon.png)](http://dudmy.net/feed)[![](icons/github-icon.png)](https://github.com/dudmy)[![](icons/linkedin-icon.png)](https://www.linkedin.com/in/dudmy/) |
-| 정유택 | https://takeuu.tistory.com | Front-end | [![](icons/rss-icon.png)](http://takeuu.tistory.com/rss)[![](icons/github-icon.png)](https://github.com/JungYouTaek) |
+| 정유택 | https://takeuu.tistory.com | Front-end | [![](icons/rss-icon.png)](http://takeuu.tistory.com/rss)[![](icons/github-icon.png)](https://github.com/youtaekjung) |
 | 정윤성 | http://yoonsung.github.io/ | Rust | [![](icons/rss-icon.png)](http://yoonsung.github.io/atom.xml)[![](icons/github-icon.png)](https://github.com/YoonSung) |
 | 정윤원 | http://youknowone.github.io/ | IOS | [![](icons/github-icon.png)](https://github.com/youknowone/) |
 | 정윤진 | http://kerberosj.tistory.com/ | Cloud | [![](icons/rss-icon.png)](http://kerberosj.tistory.com/rss) |
