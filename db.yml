@@ -3075,6 +3075,16 @@
   blog: https://yangbongsoo.gitbooks.io/study/content/
   description: Java, Spring
   github: https://github.com/yangbongsoo
+- name: 양상현
+  blog: http://medium.com/@tech.yangs
+  rss: https://medium.com/feed/@tech.yangs
+  description: AWS,서버
+  github: https://github.com/yangs1202
+- name: 양성민
+  blog: http://chrisy.tistory.com/
+  rss: http://chrisy.tistory.com/rss
+  github: https://github.com/ysm0622
+  linkedin: https://www.linkedin.com/in/ysm0622/
 - name: 양성익
   blog: http://unikys.tistory.com/309
   rss: https://http://unikys.tistory.com/309/rss
@@ -3086,11 +3096,6 @@
   home: leoslife2.herokuapp.com
   linkedin: https://www.linkedin.com/in/승화-양-99630861
   slideshare: https://www.slideshare.net/leoyang991
-- name: 양상현
-  blog: http://medium.com/@tech.yangs
-  rss: https://medium.com/feed/@tech.yangs
-  description: AWS,서버
-  github: https://github.com/yangs1202
 - name: 양욱진
   blog: http://blog.hazard.kr/
   description: ''
