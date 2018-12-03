@@ -3421,6 +3421,7 @@
   description: ''
 - name: 유차영
   blog: https://yous.be/
+  rss: https://yous.be/atom.xml
   description: CTF
   twitter: https://twitter.com/_Yous
   github: https://github.com/yous

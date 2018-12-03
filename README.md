@@ -520,7 +520,7 @@
 | 유주원 | http://hipercube.tistory.com/ |  | [![](icons/rss-icon.png)](http://hipercube.tistory.com/rss) |
 | 유준상 | https://wnstkdyu.github.io/ | iOS | [![](icons/github-icon.png)](https://github.com/wnstkdyu)[![](icons/linkedin-icon.png)](https://www.linkedin.com/in/wnstkdyu/) |
 | 유진호 | https://brunch.co.kr/@jinhoyooephf |  | [![](icons/rss-icon.png)](https://brunch.co.kr/atom/@@z8s) |
-| 유차영 | https://yous.be/ | CTF | [![](icons/twitter-icon.png)](https://twitter.com/_Yous)[![](icons/github-icon.png)](https://github.com/yous) |
+| 유차영 | https://yous.be/ | CTF | [![](icons/rss-icon.png)](https://yous.be/atom.xml)[![](icons/twitter-icon.png)](https://twitter.com/_Yous)[![](icons/github-icon.png)](https://github.com/yous) |
 | 유현석 | http://duriepark.tistory.com/ |  | [![](icons/rss-icon.png)](http://duriepark.tistory.com/rss) |
 | 유형준 | http://programmeringermany.blogspot.kr/ | 해외 취업 | [![](icons/rss-icon.png)](http://programmeringermany.blogspot.com/feeds/posts/default) |
 | 유희철 | https://medium.com/@ryuheechul | DevOps | [![](icons/rss-icon.png)](https://medium.com/feed/@ryuheechul)[![](icons/twitter-icon.png)](https://twitter.com/RyuHeechul)[![](icons/github-icon.png)](https://github.com/ryuheechul) |
