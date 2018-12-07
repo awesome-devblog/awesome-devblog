@@ -816,7 +816,7 @@
 | Name | Blog | Description | Social |
 |---|---|---|---|
 | 하동우 | https://medium.com/@cookatrice | Angular | [![](icons/rss-icon.png)](https://medium.com/feed/@cookatrice)[![](icons/facebook-icon.png)](https://www.facebook.com/cookatrice) |
-| 하원호 | https://medium.com/@haho6629 | Keras | [![](icons/rss-icon.png)](https://medium.com/feed/@haho6629)[![](icons/facebook-icon.png)](https://www.facebook.com/wonho.ha.1466) |
+| 하원호(Las) | https://medium.com/@haho6629 | 인공지능, Devops | [![](icons/rss-icon.png)](https://medium.com/feed/@haho6629)[![](icons/twitter-icon.png)](https://twitter.com/LasWonho)[![](icons/github-icon.png)](https://github.com/Las-Wonho)|
 | 하호진(Mimul) | http://www.mimul.com/ | 칼럼 | [![](icons/rss-icon.png)](http://feeds.feedburner.com/Smartmob)[![](icons/facebook-icon.png)](https://www.facebook.com/mimuls)[![](icons/twitter-icon.png)](https://twitter.com/mimul) |
 | 한민석 | http://creativeprm.tistory.com/ | R | [![](icons/rss-icon.png)](http://creativeprm.tistory.com/rss) |
 | 한상곤 | http://www.sangkon.com/ | Django | [![](icons/rss-icon.png)](http://www.sangkon.com/rss/) |
