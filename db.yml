@@ -1373,7 +1373,8 @@
 - name: 김청진
   blog: http://jinblog.kr
   rss: http://jinblog.kr/rss
-  description: IT소식/리뷰, 웹, 모바일
+  description: IT소식/리뷰, 개발(웹, 모바일)
+  facebook: https://www.facebook.com/jinblog
 - name: 김충섭
   blog: http://subicura.com/
   rss: https://subicura.com/feed.xml
@@ -2643,13 +2644,6 @@
 - name: 송석리
   facebook: https://www.facebook.com/greatsong21
   slideshare: https://www.slideshare.net/SongSukree
-- name: 송석호
-  blog: https://devsdk.github.io/
-  rss: https://devsdk.github.io/feed.xml
-  description: OS
-  facebook: https://www.facebook.com/profile.php?id=100006277740856
-  linkedin: https://www.linkedin.com/in/석호-송-81a999135/
-  github: https://github.com/devsdk
 - name: 송성광
   blog: http://blog.saltfactory.net/
   rss: http://blog.saltfactory.net/feed
@@ -4866,7 +4860,7 @@
   blog: https://takeuu.tistory.com
   rss: http://takeuu.tistory.com/rss
   description: Front-end
-  github: https://github.com/JungYouTaek
+  github: https://github.com/youtaekjung
 - name: 정윤성
   blog: http://yoonsung.github.io/
   rss: http://yoonsung.github.io/atom.xml
