@@ -274,6 +274,7 @@
   twitter: https://twitter.com/couchdb
   dockerhub: https://hub.docker.com/_/couchdb/
   awesome: https://github.com/quangv/awesome-couchdb
+  reddit: https://www.reddit.com/r/CouchDB/
   tags: Database
 - name: Crystal
   home: https://crystal-lang.org/
@@ -282,6 +283,7 @@
   stackoverflow: https://stackoverflow.com/questions/tagged/crystal-lang
   blog: https://crystal-lang.org/blog/
   awesome: https://github.com/veelenga/awesome-crystal
+  reddit: https://www.reddit.com/r/crystal_programming/
   tags: Programming Language
 - name: Curl
   home: https://curl.haxx.se/
@@ -292,6 +294,7 @@
   github: https://github.com/d3/d3
   cdnjs: https://cdnjs.com/libraries/d3
   awesome: https://github.com/wbkd/awesome-d3
+  reddit: https://www.reddit.com/r/d3js/
   tags: Visualization
 - name: Dash
   home: https://plot.ly/products/dash/
@@ -327,12 +330,14 @@
   twitter: https://twitter.com/deeplearning4j
   facebook: https://www.facebook.com/deeplearning4j/
   gitter: https://gitter.im/deeplearning4j/deeplearning4j
+  reddit: https://www.reddit.com/r/deeplearning4j/
   tags: Machine Learning
 - name: deno
   github: https://github.com/denoland/deno
   gitter: https://gitter.im/denolife/Lobby
   npm: https://www.npmjs.com/package/deno
   awesome: https://github.com/olivewind/awesome-deno
+  reddit: https://www.reddit.com/r/Deno/
   tags: Javascript Runtime
 - name: Detectron
   github: https://github.com/facebookresearch/Detectron
@@ -343,6 +348,7 @@
   forum: https://meta.discourse.org/
   twitter: https://twitter.com/discourse
   blog: https://blog.discourse.org/
+  reddit: https://www.reddit.com/r/discourse/
   tags: Forum
 - name: Django
   home: https://www.djangoproject.com/
@@ -350,6 +356,7 @@
   blog: https://www.djangoproject.com/weblog/
   twitter: https://twitter.com/djangoproject
   awesome: https://gitlab.com/rosarior/awesome-django
+  reddit: https://www.reddit.com/r/django/
   tags: Python, Web Framework
 - name: Dopamine
   github: https://github.com/google/dopamine
@@ -362,6 +369,7 @@
   github: https://github.com/elastic/elasticsearch
   blog: https://www.elastic.co/kr/blog
   awesome: https://github.com/dzharii/awesome-elasticsearch
+  reddit: https://www.reddit.com/r/elasticsearch/
   tags: Distributed Search Engine
 - name: ECharts
   home: http://incubator.apache.org/projects/echarts.html
@@ -374,6 +382,7 @@
   blog: https://electronjs.org/blog
   twitter: https://twitter.com/electronjs
   awesome: https://github.com/sindresorhus/awesome-electron
+  reddit: https://www.reddit.com/r/electronjs/
   tags: Application Framework
 - name: Ember.js
   home: https://emberjs.com/
@@ -381,6 +390,7 @@
   twitter: https://twitter.com/emberjs
   slack: https://embercommunity.slack.com/
   awesome: https://github.com/nmec/awesome-ember
+  reddit: https://www.reddit.com/r/emberjs/
   tags: Javascript, Front-end Framework
 - name: Envoy
   home: https://www.envoyproxy.io/
@@ -516,7 +526,7 @@
   tags: CLI
 - name: G2
   home: https://antv.alipay.com/zh-cn/g2/3.x/index.html
-  github: https://github.com/antvis/g2/
+  github: https://github.com/antvis/g2
   tags: Javascript, Chart
 - name: Gatsby
   home: https://www.gatsbyjs.org/
@@ -1139,7 +1149,7 @@
   tags: Javascript, Web Framework
 - name: NW.js
   home: https://nwjs.io/
-  github: https://github.com/nwjs/nw.js/
+  github: https://github.com/nwjs/nw.js
   twitter: https://twitter.com/nw_js
   gitter: https://gitter.im/nwjs/nw.js
   awesome: https://github.com/nw-cn/awesome-nwjs
