@@ -26,7 +26,7 @@
   facebook: https://www.facebook.com/groups/opencvprogramming/
 - name: 아두이노로 학급 코딩하기(Ahakco)
   facebook: https://www.facebook.com/groups/2031442780417576/
-- name: MSA and Software modeling - 클라우드 SW 모델링 강의
+- name: MSA and DDD Software modeling - 마이크로서비스와 도메인 주도 SW 모델링
   facebook: https://www.facebook.com/groups/cloudswmoding/
 - name: 오조봇 이보 사용자 모임 Ozobot Evo User Group
   facebook: https://www.facebook.com/groups/ozobotuser/
@@ -807,7 +807,7 @@
 - name: 게임 서버 개발자 모임
   naver: http://cafe.naver.com/ongameserver
   youtube: https://www.youtube.com/channel/UCYnvySStWs6IDeYr8IeyayA
-- name: C# 스터디 그룹
+- name: 'C# 스터디 그룹'
   facebook: https://www.facebook.com/groups/200708093411111/
 - name: 초중급 게임 개발자 스터디 「데브루키」
   facebook: https://www.facebook.com/groups/devrookie/
@@ -929,3 +929,26 @@
   rss: http://blog.remotty.com/blog/rss/
   twitter: https://twitter.com/remottykr
   github: https://github.com/remotty
+- name: 야놀자 기술블로그
+  blog: https://yanolja.github.io/
+  rss: https://yanolja.github.io/feed.xml
+- name: Python Korea
+  facebook: https://www.facebook.com/groups/pythonkorea/
+- name: 한국 메이커 모임
+  facebook: https://www.facebook.com/groups/koreamakers/
+- name: Google Cloud Platform Korea User Group
+  facebook: https://www.facebook.com/groups/googlecloudkorea/
+- name: Kubernetes Korea Group
+  facebook: https://www.facebook.com/groups/k8skr/
+- name: 안드로이드 개발자 모임
+  facebook: https://www.facebook.com/groups/2153820728175670/
+- name: 책쓰는 프로그래머 협회
+  facebook: https://www.facebook.com/groups/techbookwriting/
+- name: 스마트 앱 개발자 포럼
+  facebook: https://www.facebook.com/groups/smartphone.forum/
+- name: 오픈소스 포럼
+  facebook: https://www.facebook.com/groups/ossforum/
+- name: 오픈소스 데이터센터 포럼
+  facebook: https://www.facebook.com/groups/opensourcedatacenterforum/
+- name: 실무코딩
+  facebook: https://www.facebook.com/groups/smcoding/
