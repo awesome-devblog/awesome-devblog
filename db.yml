@@ -4382,6 +4382,9 @@
   description: Apache Storm
   twitter: https://twitter.com/heartsavior
   facebook: https://www.facebook.com/heartsavior
+  slideshare: https://www.slideshare.net/kabhwan
+  linkedin: https://www.linkedin.com/in/heartsavior/
+  github: https://github.com/heartsavior
 - name: 임종대
   blog: https://medium.com/@jongdae.lim
   rss: https://medium.com/feed/@jongdae.lim
@@ -5882,6 +5885,10 @@
   rss: https://medium.com/feed/@hur
   description: 스타트업 투자
   twitter: https://twitter.com/hur
+- name: 현동준
+  github: https://github.com/dongjoon-hyun
+  linkedin: https://www.linkedin.com/in/dongjoon-hyun-4116976a/
+  slideshare: https://www.slideshare.net/DongjoonHyun
 - name: 현수명
   blog: http://soomong.net/
   rss: http://soomong.net/feed.xml
