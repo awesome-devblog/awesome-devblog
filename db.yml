@@ -3622,6 +3622,10 @@
   rss: https://medium.com/feed/@guleum
   description: Web
   facebook: https://www.facebook.com/profile.php?id=100010476465837
+- name: 이동근
+  blog: https://dizy64.github.io/
+  rss: https://dizy64.github.io/atom.xml
+  description: Back-end
 - name: 이동련
   blog: http://start.goodtime.co.kr/
   rss: http://start.goodtime.co.kr/feed/
