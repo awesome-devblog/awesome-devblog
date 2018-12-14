@@ -2377,6 +2377,11 @@
   rss: https://medium.com/feed/@baejinho
   description: 스타트업, 치킨모임
   facebook: https://www.facebook.com/bae.jinho.3
+- name: 배호연
+  blog: https://baehoyeon.github.io/
+  description: Java
+  linkedin: https://www.linkedin.com/in/baehoyeon/
+  github: https://github.com/baehoyeon
 - name: 백기선
   blog: http://whiteship.me/
   rss: http://whiteship.me/?feed=rss2
