@@ -917,6 +917,13 @@
   linkedin: https://www.linkedin.com/in/younggun-kim/
   slideshare: https://www.slideshare.net/scarinet
   home: http://younggun.kim/
+- name: 김영빈
+  blog: https://blog.hanumoka.net/
+  rss: https://blog.hanumoka.net/atom.xml
+  description: Java
+  linkedin: https://www.linkedin.com/in/youngbeen-kim-541487152/
+  github: https://github.com/hanumoka
+  facebook: https://www.facebook.com/profile.php?id=100008242906900
 - name: 김영우
   blog: http://datajournal.kr/
   rss: http://datajournal.kr/feed/
