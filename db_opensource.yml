@@ -55,6 +55,11 @@
   awesome: https://github.com/jdauphant/awesome-ansible
   reddit: https://www.reddit.com/r/ansible/
   tags: DevOps
+- name: Antwar
+  home: https://antwar.js.org/
+  github: https://github.com/antwarjs/antwar
+  blog: https://antwar.js.org/blog/
+  tags: Static Site Generator
 - name: Apollo
   home: https://www.apollographql.com/
   github: https://github.com/apollographql/apollo
@@ -93,7 +98,7 @@
 - name: Axon
   home: http://www.axonframework.org/
   github: https://github.com/AxonFramework/AxonFramework
-  tags: JVM Back-end Framework
+  tags: Java, Back-end Framework
 - name: Babel
   home: https://babeljs.io/
   github: https://github.com/babel/babel
@@ -338,7 +343,7 @@
   npm: https://www.npmjs.com/package/deno
   awesome: https://github.com/olivewind/awesome-deno
   reddit: https://www.reddit.com/r/Deno/
-  tags: Javascript Runtime
+  tags: Javascript, Runtime
 - name: Detectron
   github: https://github.com/facebookresearch/Detectron
   tags: Machine Learning
@@ -612,7 +617,7 @@
   stackoverflow: https://stackoverflow.com/tags/grpc/
   youtube: https://www.youtube.com/channel/UCrnk1HWelWnYtF78YZX80fg
   awesome: https://github.com/grpc-ecosystem/awesome-grpc
-  tags: RPC Framework
+  tags: RPC
 - name: GSAP
   home: https://greensock.com/
   github: https://github.com/greensock/GreenSock-JS
@@ -654,7 +659,7 @@
   home: https://helidon.io/
   github: https://github.com/oracle/helidon
   twitter: https://twitter.com/helidon_project
-  tags: JVM Back-end Framework
+  tags: Java, Back-end Framework
 - name: Helm
   home: https://helm.sh/
   github: https://github.com/helm/helm
@@ -738,7 +743,7 @@
   home: https://javalin.io/
   github: https://github.com/tipsy/javalin
   gitter: https://gitter.im/javalin-io/general
-  tags: JVM Back-end Framework
+  tags: Java, Back-end Framework
 - name: Jayway JsonPath
   github: https://github.com/json-path/JsonPath
   stackoverflow: https://stackoverflow.com/questions/tagged/jsonpath
@@ -930,7 +935,7 @@
 - name: low.js
   home: http://www.lowjs.org/
   github: https://github.com/neonious/lowjs
-  tags: Javascript Runtime
+  tags: Javascript, Runtime
 - name: Luxon
   home: https://moment.github.io/luxon/
   github: https://github.com/moment/luxon
@@ -1004,7 +1009,7 @@
   github: https://github.com/micronaut-projects/micronaut-core
   gitter: https://gitter.im/micronautfw/
   twitter: https://twitter.com/micronautfw
-  tags: JVM Back-end Framework
+  tags: Java, Back-end Framework
 - name: mini.css
   home: https://minicss.org/
   github: https://github.com/Chalarangelo/mini.css
@@ -1079,7 +1084,7 @@
 - name: Nameko
   home: https://www.nameko.io/
   github: https://github.com/nameko/nameko
-  tags: Python Back-end Framework
+  tags: Python, Back-end Framework
 - name: Neo4j
   home: https://neo4j.com/
   github: https://github.com/neo4j/neo4j
@@ -1125,7 +1130,7 @@
   medium: https://medium.com/@nodejs
   quora: https://www.quora.com/topic/Node-js
   awesome: https://github.com/sindresorhus/awesome-nodejs
-  tags: Javascript Runtime
+  tags: Javascript, Runtime
 - name: NPM
   home: https://www.npmjs.com/
   github: https://github.com/npm/npm
@@ -1575,10 +1580,10 @@
   gitter: https://gitter.im/spring-projects/spring-boot
   stackoverflow: https://stackoverflow.com/questions/tagged/spring-boot
   awesome: https://github.com/stunstunstun/awesome-spring-boot
-  tags: JVM Back-end Framework
+  tags: Java, Back-end Framework
 - name: Spring-fu
   github: https://github.com/spring-projects/spring-fu
-  tags: JVM Back-end Framework
+  tags: Java, Back-end Framework
 - name: Spyder
   home: https://www.spyder-ide.org/
   github: https://github.com/spyder-ide/spyder
@@ -1720,6 +1725,10 @@
   twitter: https://twitter.com/vernemq
   slack: https://slack-invite.vernemq.com/
   tags: Message Broker
+- name: Vetur
+  home: https://vuejs.github.io/vetur/
+  github: https://github.com/vuejs/vetur
+  tags: Vue, VSCode
 - name: Vibora
   home: https://vibora.io/
   github: https://github.com/vibora-io/vibora
