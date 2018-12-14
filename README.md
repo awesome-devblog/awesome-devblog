@@ -501,7 +501,7 @@
 | 용영환 | https://xenonix.com/ | PHP | [![](icons/rss-icon.png)](https://xenonix.com/feed/)[![](icons/facebook-icon.png)](https://www.facebook.com/xenonix)[![](icons/twitter-icon.png)](https://twitter.com/ooti) |
 | 용찬호 | http://blog.naver.com/alice_k106 | Docker, RTOS | [![](icons/rss-icon.png)](https://rss.blog.naver.com/alice_k106.xml) |
 | 우웅몬 | https://brunch.co.kr/@wej6688 | UX | [![](icons/rss-icon.png)](https://brunch.co.kr/rss/@@zKy) |
-| 우영준 | http://blog.hax0r.info | Serverside, security | [![](icons/rss-icon.png)](http://blog.hax0r.info/rss) |
+| 우영준 | https://blog.hax0r.info | Serverside, security | [![](icons/rss-icon.png)](http://blog.hax0r.info/rss) |
 | 우준혁 | http://sarojaba.github.io/ | Awesome-devblog | [![](icons/rss-icon.png)](http://sarojaba.github.io/atom.xml)[![](icons/facebook-icon.png)](https://www.facebook.com/sarojaba)[![](icons/twitter-icon.png)](https://twitter.com/sarojaba)[![](icons/github-icon.png)](https://github.com/sarojaba)[![](icons/linkedin-icon.png)](https://www.linkedin.com/in/%EC%9A%B0%EC%A4%80%ED%98%81-sarojaba/) |
 | 원강민 | https://blog.wonhada.com/ | 코로나 | [![](icons/rss-icon.png)](https://blog.wonhada.com/?feed=rss2) |
 | 원종석 | https://tedwon.com/ |  | [![](icons/facebook-icon.png)](https://www.facebook.com/tedwon)[![](icons/twitter-icon.png)](https://twitter.com/tedwon)[![](icons/linkedin-icon.png)](https://www.linkedin.com/in/theodorewon/) |
