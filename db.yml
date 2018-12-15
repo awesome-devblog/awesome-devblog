@@ -681,6 +681,13 @@
   blog: http://alwayspr.tistory.com/
   rss: http://alwayspr.tistory.com/rss
   description: ''
+- name: 김민수
+  blog: https://alstn2468.github.io/
+  rss: https://alstn2468.github.io/feed.xml
+  description: Algorithm
+  facebook: https://www.facebook.com/alstn2468
+  linkedin: https://www.linkedin.com/in/minsu-kim-336289160/
+  github: https://github.com/alstn2468
 - name: 김민우
   blog: https://brunch.co.kr/@minu-log
   rss: https://brunch.co.kr/rss/@@16ei
@@ -801,7 +808,7 @@
   description: Web
 - name: 김성수
   blog: http://sungsoo.github.io/
-  description: ''
+  description: Machine Learning
   facebook: https://www.facebook.com/sungsoo.kim.9693001
   aboutme: https://about.me/sungsoo
   twitter: https://twitter.com/sskim79
