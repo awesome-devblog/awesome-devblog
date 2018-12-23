@@ -122,6 +122,9 @@
   forum: https://groups.google.com/forum/#!forum/bazel-discuss
   awesome: https://github.com/jin/awesome-bazel
   tags: Java, Build
+- name: BloomRPC
+  github: https://github.com/uw-labs/bloomrpc
+  tags: RPC
 - name: Blueprint
   home: https://blueprintjs.com/
   github: https://github.com/palantir/blueprint
@@ -517,6 +520,11 @@
   forum: https://foundation.zurb.com/forum
   blog: https://zurb.com/blog
   tags: UI Framework
+- name: Foxify
+  home: https://foxify.js.org/
+  github: https://github.com/foxifyjs/foxify
+  npm: https://www.npmjs.com/package/foxify
+  tags: Javascript, Back-end Framework
 - name: Frappe Charts
   home: https://frappe.io/charts
   github: https://github.com/frappe/charts
@@ -1391,6 +1399,11 @@
   quora: https://www.quora.com/topic/React-Native-1
   awesome: https://github.com/jondot/awesome-react-native
   tags: Application Framework
+- name: React Static
+  github: https://github.com/nozzle/react-static
+  spectrum: https://spectrum.chat/react-static
+  npm: https://www.npmjs.org/package/react-static
+  tags: Static Site Generator
 - name: React-vis
   home: https://uber.github.io/react-vis/
   github: https://github.com/uber/react-vis
@@ -1613,6 +1626,10 @@
   twitter: https://twitter.com/tensorflow
   awesome: https://github.com/jtoy/awesome-tensorflow
   tags: Machine Learning
+- name: Terminus
+  home: https://eugeny.github.io/terminus/
+  github: https://github.com/Eugeny/terminus
+  tags: Terminal
 - name: Three.js
   home: https://threejs.org/
   github: https://github.com/mrdoob/three.js
