@@ -5706,6 +5706,11 @@
   description: 칼럼
   twitter: https://twitter.com/mimul
   facebook: https://www.facebook.com/mimuls
+- name: 한동수
+  blog: https://medium.com/harrythegreat
+  rss: https://medium.com/feed/harrythegreat
+  description: Android, AWS
+  facebook: https://www.facebook.com/herryhan2435
 - name: 한동호
   blog: https://futurecreator.github.io/
   rss: https://futurecreator.github.io/feed.xml
