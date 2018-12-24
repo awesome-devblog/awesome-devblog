@@ -1063,6 +1063,7 @@
   description: Front-end
   facebook: https://www.facebook.com/yunseop.kim.5
 - name: 김은향
+  linkedin: https://www.linkedin.com/in/eunhyang-kim-447812115/
   slideshare: https://www.slideshare.net/EunhyangKim2
 - name: 김은호
   blog: http://djkeh.github.io/
@@ -3281,6 +3282,12 @@
   description: Kotlin
   github: https://github.com/OhJeonggyu
   facebook: https://www.facebook.com/JeonggyuOh1990
+- name: 오정민
+  blog: https://ggomi.github.io/
+  rss: https://ggomi.github.io/atom.xml
+  github: https://github.com/ggomi
+  facebook: https://www.facebook.com/Jeongmin.Oo
+  linkedin: https://www.linkedin.com/in/정민-오-50b22511b/
 - name: 오종빈
   blog: http://ohyecloudy.com/
   rss: http://feeds.feedburner.com/OhyecloudyDevDiary?format=xml
@@ -5712,10 +5719,12 @@
   twitter: https://twitter.com/mimul
   facebook: https://www.facebook.com/mimuls
 - name: 한동수
-  blog: https://medium.com/harrythegreat
-  rss: https://medium.com/feed/harrythegreat
+  blog: https://medium.com/@herryhan2435
+  rss: https://medium.com/feed/@herryhan2435
   description: Android, AWS
   facebook: https://www.facebook.com/herryhan2435
+  github: https://github.com/harryhan24
+  instagram: https://www.instagram.com/harryhan2435/
 - name: 한동호
   blog: https://futurecreator.github.io/
   rss: https://futurecreator.github.io/feed.xml
@@ -6112,12 +6121,6 @@
   blog: http://recipes.egloos.com/
   rss: http://rss.egloos.com/blog/recipes
   description: Embedded Recipes
-- name: Han Harry
-  blog: https://medium.com/@herryhan2435
-  rss: https://medium.com/feed/@herryhan2435
-  description: AWS
-  github: https://github.com/harryhan24
-  instagram: https://www.instagram.com/harryhan2435/
 - name: Jason Ryu
   blog: https://medium.com/@sryu99
   rss: https://medium.com/feed/@sryu99
@@ -6128,6 +6131,9 @@
   twitter: https://twitter.com/devkimchi
   github: https://github.com/devkimchi
   facebook: https://www.facebook.com/devkimchi
+- name: Dan Kim
+  blog: https://medium.com/@dan_kim
+  rss: https://medium.com/feed/@dan_kim
 - name: Daniel Kim
   github: https://github.com/elastic7327
   youtube: https://www.youtube.com/channel/UCID9irVXdprEARXI8S8FRbg
