@@ -18,6 +18,8 @@
   blog: http://lucumr.pocoo.org/
   rss: http://lucumr.pocoo.org/feed.atom
   description: Flask, Lektor 개발자
+- name: Armon Dadgar
+  speakerdeck: https://speakerdeck.com/armon
 - name: Assaf Muller
   blog: https://assafmuller.com/
   rss: http://assafmuller.wordpress.com/feed/
@@ -49,6 +51,8 @@
   blog: http://cesquivias.github.io/
   rss: http://cesquivias.github.io/feeds/all.rss.xml
   description: Java, Truffle
+- name: Christoph Rumpel
+  speakerdeck: https://speakerdeck.com/christophrumpel
 - name: Dan Webb
   blog: http://danwebb.net/
   description: 프론트엔드 개발자
@@ -83,6 +87,8 @@
   blog: https://davidwalsh.name/
   rss: http://feeds.feedburner.com/Bludice
   description: Javascript
+- name: Deesha Vora
+  speakerdeck: https://speakerdeck.com/deesharv
 - name: Derick Bailey
   blog: https://derickbailey.com/
   rss: http://feeds.feedblitz.com/derickbailey
@@ -112,6 +118,8 @@
   blog: http://evanyou.me/
   rss: https://medium.com/feed/@youyuxi
   description: Vue 창시자
+- name: Gabriela de Queiroz
+  speakerdeck: https://speakerdeck.com/kroz
 - name: Gal Sagie
   blog: http://galsagie.github.io/
   rss: http://galsagie.github.io/feed.xml
@@ -145,6 +153,8 @@
   blog: http://langrsoft.com/jeff/
   rss: http://langrsoft.com/feed/
   description: 지금길로 빠르게 배울 수 있는 자바 저자
+- name: Jennifer Reif
+  speakerdeck: https://speakerdeck.com/jmhreif
 - name: Jeremy Thomas
   blog: https://jgthms.com/
   description: Bulma 창시자
@@ -193,6 +203,9 @@
 - name: Linus Torvalds
   blog: https://plus.google.com/+LinusTorvalds
   description: Linux 창시자
+- name: Maarten Smeets
+  blog: https://medium.com/@MaartenSmeetsNL
+  rss: https://medium.com/feed/@MaartenSmeetsNL
 - name: Mārcis Bergmanis
   blog: https://medium.com/@marcisbee
   rss: https://medium.com/feed/@marcisbee
@@ -214,6 +227,8 @@
   blog: https://medium.com/@mhausenblas
   rss: https://medium.com/feed/@mhausenblas
   description: Open Shift, Kubernetes
+- name: Michael Heap
+  speakerdeck: https://speakerdeck.com/mheap
 - name: Mike Bostock
   blog: https://bost.ocks.org/mike/
   rss: http://bost.ocks.org/mike/index.rss
@@ -248,6 +263,11 @@
 - name: Prateeksha Singh
   blog: https://medium.com/@pratu16x7
   description: Open Source Developer at Frappé
+- name: Pycon ZA
+  speakerdeck: https://speakerdeck.com/pyconza
+- name: Raphaël Benitte
+  twitter: https://twitter.com/benitteraphael
+  description: Creator of nivo
 - name: Ricardo Cabello
   blog: http://mrdoob.com/
   rss: http://feeds.feedburner.com/mrdoob
@@ -255,6 +275,8 @@
 - name: Richard Stallman
   blog: https://www.stallman.org/
   description: Free Software Foundation, GNU Project 창시자
+- name: Rico
+  speakerdeck: https://speakerdeck.com/rixco
 - name: Robert C. Martin
   blog: http://blog.cleancoder.com/
   rss: http://blog.cleancoder.com/atom.xml
@@ -268,10 +290,13 @@
   rss: https://medium.com/feed/@elizarov
   description: Team Lead for Kotlin libraries at JetBrains
   twitter: https://twitter.com/relizarov
+- name: Sabby Anandan
+  speakerdeck: https://speakerdeck.com/sabbyanandan
 - name: Sacha Greif
   blog: https://medium.com/@sachagreif
   rss: https://medium.com/feed/@sachagreif
-  description: Front-end
+  twitter: https://twitter.com/SachaGreif
+  description: Creator of Sidebar, VulcanJS
 - name: Sam Newman
   blog: http://samnewman.io/
   rss: http://samnewman.io/blog/feed.xml
@@ -280,6 +305,10 @@
   blog: http://www.hanselman.com/
   rss: http://feeds.hanselman.com/ScottHanselman
   description: ASP.NET
+- name: Shahid N. Shah
+  speakerdeck: https://speakerdeck.com/shah
+- name: Shai Mishali
+  speakerdeck: https://speakerdeck.com/freak4pc
 - name: Stephen Colebourne
   blog: http://blog.joda.org/
   rss: http://blog.joda.org/feeds/posts/default
@@ -287,6 +316,8 @@
 - name: Steve Wozniak
   blog: http://www.woz.org/
   description: Apple 공동창업자
+- name: Tal Safran
+  speakerdeck: https://speakerdeck.com/talsafran
 - name: Thomas Fuchs
   blog: http://mir.aculo.us/
   rss: http://feeds.feedburner.com/miraculous
@@ -295,6 +326,16 @@
   blog: https://medium.com/@trstringer
   rss: https://medium.com/feed/@trstringer
   description: Technical Evangelist at Microsoft
+- name: Valera Zakharov
+  speakerdeck: https://speakerdeck.com/valeraz
+- name: Victor Farazdagi
+  blog: https://farazdagi.com/posts/
+  rss: https://farazdagi.com/index.xml
+  description: Square Labs CTO
+  twitter: https://twitter.com/farazdagi
+  github: https://github.com/farazdagi
+  linkedin: https://www.linkedin.com/in/farazdagi/
+  home: https://farazdagi.com/
 - name: Vinicius Isola
   blog: https://visola.github.io/
   rss: https://visola.github.io/rss.xml
@@ -303,3 +344,6 @@
   blog: https://www.willmcgugan.com/
   rss: http://www.willmcgugan.com/blog/rootblog/feeds/posts/
   description: Moya(no-Python Python Web Framework)
+- name: Yoni Goldberg
+  blog: https://medium.com/@me_37286
+  rss: https://medium.com/feed/@me_37286
