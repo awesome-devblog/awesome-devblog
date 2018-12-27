@@ -527,6 +527,7 @@
 | 윤상배 | http://www.joinc.co.kr/ | 위키 |  |
 | 윤석찬 | http://channy.creation.net/ | 오픈웹, Mozilla | [![](icons/rss-icon.png)](http://feeds.feedburner.com/channy)[![](icons/slideshare-icon.png)](https://www.slideshare.net/Channy)[![](icons/facebook-icon.png)](https://www.facebook.com/channyblog)[![](icons/twitter-icon.png)](https://twitter.com/channyun)[![](icons/github-icon.png)](https://github.com/channy)[![](icons/linkedin-icon.png)](https://www.linkedin.com/in/channy/) |
 | 윤영식 | http://mobicon.tistory.com/ | Angular | [![](icons/rss-icon.png)](http://mobicon.tistory.com/rss) |
+| 윤우식 | http://suitee.me/ | Node.js, Python, Backend | [![](icons/github-icon.png)](https://github.com/suitelab)[![](icons/linkedin-icon.png)](https://www.linkedin.com/in/suitelab/)[![](icons/instagram-icon.png)](https://www.instagram.com/yoon.homme/)
 | 윤진 | http://storycompiler.tistory.com/ | Tizen | [![](icons/rss-icon.png)](http://storycompiler.tistory.com/rss)[![](icons/facebook-icon.png)](https://www.facebook.com/theojini) |
 | 윤청하 | https://brunch.co.kr/@brunch4nrs | 구글러 | [![](icons/rss-icon.png)](https://brunch.co.kr/rss/@@zav) |
 | 윤현철 | http://metashower.egloos.com/ | Data Analytics | [![](icons/rss-icon.png)](http://rss.egloos.com/blog/metashower) |
