@@ -4423,6 +4423,12 @@
   description: IT 기사
   twitter: https://twitter.com/imc84
   facebook: https://www.facebook.com/imc84
+- name: 임석민
+  blog: http://blog.ngenius.kr/
+  rss: http://blog.ngenius.kr/feed.xml
+  description: Front-end
+  twitter: https://twitter.com/imsukmin
+  slides: https://slides.com/imsukmin
 - name: 임성진
   blog: http://blog.bbom.org/
   rss: http://blog.bbom.org/rss
