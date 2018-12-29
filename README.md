@@ -621,7 +621,7 @@
 | 이태화 | http://platformengineer.tistory.com/ | Linux | [![](icons/rss-icon.png)](http://platformengineer.tistory.com/rss)[![](icons/facebook-icon.png)](https://www.facebook.com/taehwa.lee) |
 | 이태희 | https://brunch.co.kr/@bradlee | 스타트업 | [![](icons/rss-icon.png)](https://brunch.co.kr/rss/@@QhM) |
 | 이하제 | http://realignist.me/ | Java, Rust | [![](icons/rss-icon.png)](https://realignist.me/feed)[![](icons/facebook-icon.png)](https://www.facebook.com/realignist)[![](icons/twitter-icon.png)](https://twitter.com/Hazealign) |
-| 이한 | https://blog.sn0wle0pard.io/ |  | [![](icons/slideshare-icon.png)](https://www.slideshare.net/Sn0wLe0pard)[![](icons/facebook-icon.png)](https://www.facebook.com/dev.sn0wle0pard)[![](icons/github-icon.png)](https://github.com/sn0wle0pard)[![](icons/linkedin-icon.png)](https://www.linkedin.com/in/sn0wle0pard/) |
+| 이한 | https://blog.hanlee.io/ | Python, Front-end | [![](icons/rss-icon.png)](https://blog.hanlee.io/rss.xml)[![](icons/slideshare-icon.png)](https://www.slideshare.net/Sn0wLe0pard)[![](icons/github-icon.png)](https://github.com/sn0wle0pard)[![](icons/linkedin-icon.png)](https://www.linkedin.com/in/sn0wle0pard/) |
 | 이한별 | http://lhb0517.tistory.com/ | Ubuntu, Java | [![](icons/rss-icon.png)](http://lhb0517.tistory.com/rss)[![](icons/github-icon.png)](https://github.com/starrybleu) |
 | 이해영 | http://www.haeyounglee.com/ | 개발자 영어 | [![](icons/rss-icon.png)](http://feeds.feedburner.com/haeyounglee) |
 | 이현 | https://hy00un.github.io/ | 정보보호 | [![](icons/rss-icon.png)](https://hy00un.github.io/feed.xml) |
