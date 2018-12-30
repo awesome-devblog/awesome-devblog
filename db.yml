@@ -3354,8 +3354,8 @@
   rss: http://blog.hax0r.info/rss
   description: Serverside, security
 - name: 우준혁
-  blog: http://sarojaba.github.io/
-  rss: http://sarojaba.github.io/atom.xml
+  blog: https://medium.com/@sarojaba
+  rss: https://medium.com/feed/@sarojaba
   description: Awesome-devblog
   facebook: https://www.facebook.com/sarojaba
   github: https://github.com/sarojaba
