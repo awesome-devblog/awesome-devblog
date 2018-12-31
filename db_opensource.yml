@@ -153,6 +153,10 @@
   github: https://github.com/bower/bower
   twitter: https://twitter.com/bower
   tags: Javascript, Package Manager
+- name: brain.js
+  home: https://brain.js.org/
+  github: https://github.com/BrainJS/brain.js
+  tags: Neural Networks
 - name: Brave
   home: https://brave.com/
   github: https://github.com/brave/browser-laptop
@@ -451,6 +455,9 @@
   github: https://github.com/fastify/fastify
   gitter: https://gitter.im/fastify/Lobby
   tags: Javascript, Back-end Framework
+- name: fd
+  github: https://github.com/sharkdp/fd
+  tags: CLI
 - name: Feathers
   home: https://feathersjs.com/
   github: https://github.com/feathersjs/feathers
@@ -865,6 +872,12 @@
   discourse: https://discuss.kotlinlang.org/
   awesome: https://github.com/KotlinBy/awesome-kotlin
   tags: Programming Language
+- name: Kubeflow
+  home: https://www.kubeflow.org/
+  github: https://github.com/kubeflow/kubeflow
+  twitter: https://twitter.com/kubeflow
+  slack: https://kubeflow.slack.com/
+  tags: Kubernetes
 - name: Kubeless
   home: https://kubeless.io/
   github: https://github.com/kubeless/kubeless
@@ -1012,6 +1025,10 @@
   github: https://github.com/zyedidia/micro
   gitter: https://gitter.im/zyedidia/micro
   tags: Text Editor
+- name: MicroK8s
+  home: https://microk8s.io/
+  github: https://github.com/ubuntu/microk8s
+  tags: Kubernetes
 - name: Micronaut
   home: http://micronaut.io/
   github: https://github.com/micronaut-projects/micronaut-core
@@ -1139,6 +1156,9 @@
   quora: https://www.quora.com/topic/Node-js
   awesome: https://github.com/sindresorhus/awesome-nodejs
   tags: Javascript, Runtime
+- name: Notable
+  github: https://github.com/fabiospampinato/notable
+  tags: Text Editor
 - name: NPM
   home: https://www.npmjs.com/
   github: https://github.com/npm/npm
@@ -1490,6 +1510,10 @@
   home: https://okazari.github.io/Rythm.js/
   github: https://github.com/Okazari/Rythm.js
   tags: Animation
+- name: rrweb
+  home: https://www.rrweb.io/
+  github: https://github.com/rrweb-io/rrweb
+  tags: Testing
 - name: Sails
   home: https://sailsjs.com/
   github: https://github.com/balderdashy/sails
@@ -1611,6 +1635,10 @@
   home: http://storm.apache.org/
   github: https://github.com/apache/storm
   tags: Distributed Processing
+- name: swc
+  home: https://swc-project.github.io/
+  github: https://github.com/swc-project/swc
+  tags: Javascript, Tool
 - name: Swift
   home: https://swift.org/
   github: https://github.com/apple/swift
