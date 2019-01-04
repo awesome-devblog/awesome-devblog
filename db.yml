@@ -1179,6 +1179,7 @@
   facebook: https://www.facebook.com/kimjmin81
   github: https://github.com/kimjmin
   linkedin: https://www.linkedin.com/in/kimjmin/
+  slideshare: https://www.slideshare.net/kjmorc
 - name: 김종민
   blog: http://blog.cmiscm.com/
   rss: http://blog.cmiscm.com/?feed=rss2
@@ -5031,6 +5032,12 @@
   description: Rankedin
   github: https://github.com/uzysjung
   facebook: https://github.com/uzysjung
+- name: 정종윤
+  blog: https://wormwlrm.github.io/
+  rss: https://wormwlrm.github.io/feed.xml
+  description: Front-end
+  facebook: https://www.facebook.com/wormwlrm
+  github: https://github.com/wormwlrm
 - name: 정주홍
   blog: https://brunch.co.kr/@toughrogrammer
   rss: https://brunch.co.kr/rss/@@1dLN
