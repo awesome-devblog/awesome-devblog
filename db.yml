@@ -3456,6 +3456,7 @@
   rss: https://medium.com/feed/@indongyoo
   description: 함수형 자바스크립트
   github: https://github.com/indongyoo
+  youtube: https://www.youtube.com/channel/UCe0PZSkQE5G8oWB-bAPWyQA
 - name: 유재석
   blog: https://brunch.co.kr/@yoojs8512
   rss: https://brunch.co.kr/rss/@@9TM
@@ -4284,6 +4285,17 @@
 - name: 이지혜
   blog: http://jihyeleee.com/
   description: 디자인
+  dribbble: https://dribbble.com/iamleejihye
+  github: https://github.com/iamleejihye
+  linkedin: https://www.linkedin.com/in/jihyeleee/
+  twitter: https://twitter.com/playpingpong
+  behance: https://www.behance.net/designerleee
+  vimeo: https://vimeo.com/iamleejihye
+  facebook: https://www.facebook.com/iamleejihye
+- name: 이지혜
+  blog: https://designmeme.github.io/
+  description: Sass
+  github: https://github.com/designmeme
 - name: 이지훈
   blog: http://jihoonlee.io/
   rss: http://jihoonlee.io/feed.xml
