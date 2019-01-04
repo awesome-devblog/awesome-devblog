@@ -4197,6 +4197,12 @@
   rss: https://brunch.co.kr/rss/@@aBL
   description: IT 칼럼
   facebook: https://www.facebook.com/madlymissyou
+- name: 이정해
+  blog: http://hermestop.tistory.com/
+  rss: http://hermestop.tistory.com/rss
+  description: Database
+  slideshare: https://www.slideshare.net/junghaelee10
+  linkedin: https://www.linkedin.com/in/정해-이-a905058b/
 - name: 이정현
   blog: http://mygumi.tistory.com/
   rss: http://mygumi.tistory.com/rss
