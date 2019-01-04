@@ -6098,6 +6098,11 @@
   blog: https://blog.naver.com/jinwooo_hong
   rss: https://rss.blog.naver.com/jinwooo_hong.xml
   description: ''
+- name: 홍진호
+  blog: http://kongkongdev.blogspot.com/
+  rss: http://kongkongdev.blogspot.com/feeds/posts/default?alt=rss
+  description: Front-end
+  github: https://github.com/jinhokong
 - name: 홍철주
   blog: https://medium.com/@angdev
   rss: https://medium.com/feed/@angdev
