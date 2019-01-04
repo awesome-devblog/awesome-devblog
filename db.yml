@@ -922,6 +922,9 @@
   github: https://github.com/chancethecoder
   home: http://chancethecoder.me/
   linkedin: https://www.linkedin.com/in/youngkyun-kim
+  facebook: https://www.facebook.com/chancethecoder
+  pinterest: https://www.pinterest.co.kr/kyg_516/
+  instagram: https://www.instagram.com/__youngkyun__/
 - name: 김영근
   blog: https://medium.com/@younggun
   rss: https://medium.com/feed/@younggun
@@ -3940,6 +3943,13 @@
   blog: https://brunch.co.kr/@sohyeonlee
   rss: https://brunch.co.kr/rss/@@KYN
   description: ''
+- name: 이수안
+  facebook: https://www.facebook.com/suanlab
+  linkedin: https://www.linkedin.com/in/suan-lee-46aaa15b/
+  twitter: https://twitter.com/webdizen
+  youtube: https://www.youtube.com/channel/UCFfALXX0DOx7zv6VeR5U_Bg
+  instagram: https://www.instagram.com/suanlab/
+  home: http://suanlab.com/
 - name: 이수완
   blog: https://medium.com/@blaswan
   rss: https://medium.com/feed/@blaswan
@@ -4086,7 +4096,7 @@
 - name: 이욱진
   blog: http://name267.tistory.com/
   rss: http://name267.tistory.com/rss
-  description: C#
+  description: 'C#'
   facebook: https://www.facebook.com/wookjin.lee.50
 - name: 이웅원
   blog: https://blog.naver.com/dnddnjs11
