@@ -1826,6 +1826,11 @@
   description: 머신러닝
 - name: 문석환
   slideshare: https://www.slideshare.net/SeokhwanMoon
+- name: 문성훈
+  blog: https://moon9342.github.io/
+  rss: https://moon9342.github.io/feed.xml
+  description: Angular
+  github: https://github.com/moon9342
 - name: 문승환
   blog: http://shanemoon.com/
   linkedin: https://www.linkedin.com/in/shmoon/
