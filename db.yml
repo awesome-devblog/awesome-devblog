@@ -3526,6 +3526,12 @@
   rss: http://doublesprogramming.tistory.com/rss
   description: Spring MVC
   github: https://github.com/walbatrossw
+- name: 윤상준
+  blog: https://yunsangjun.github.io/blog/
+  rss: https://yunsangjun.github.io/blog/feed.xml
+  description: DevOps
+  github: https://github.com/yunsangjun
+  twitter: https://twitter.com/sjyun2
 - name: 윤석준
   blog: https://devstarsj.github.io/
   rss: https://devstarsj.github.io/atom.xml
