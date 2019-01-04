@@ -3340,6 +3340,9 @@
   rss: http://12bme.tistory.com/rss
   description: Java
   github: https://github.com/12bme
+- name: 오진성
+  blog: https://brunch.co.kr/@intmain
+  rss: https://brunch.co.kr/rss/@@vaR
 - name: 오현석
   profile: people/enshahar.md
   blog: http://www.enshahar.me/
@@ -5828,7 +5831,7 @@
 - name: 한상훈
   blog: https://brunch.co.kr/@skykamja24
   rss: https://brunch.co.kr/rss/@@EMK
-  description: ''
+  description: 에어데스크
 - name: 한성민
   blog: https://blog.pigno.se/
   rss: http://blog.pigno.se/rss
