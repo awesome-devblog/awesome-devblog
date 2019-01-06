@@ -614,7 +614,6 @@
   meetup: https://www.meetup.com/ko-KR/분당-kaggle-스터디/
 - name: TeachCode
   home: https://teachcoding.me/
-  meetup: https://www.meetup.com/ko-KR/대전-비전공자를-위한-코딩교육/
 - name: 분당 수내동 Scalar & Spark 스터디 모임
   meetup: https://www.meetup.com/ko-KR/분당-수내동-Scalar-Spark-Meetup/
 - name: 분당 수내동 AI Study & Coding
@@ -987,3 +986,6 @@
 - name: Oncoder
   home: https://www.oncoder.com/
   facebook: https://www.facebook.com/oncoder/
+- name: ITFIND
+  home: https://www.itfind.or.kr/
+  rss: http://www.itfind.or.kr/rss/all.do?rssType=02
