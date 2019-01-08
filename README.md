@@ -709,7 +709,7 @@
 | 정찬웅 | https://korchris.github.io/ |  | [![](icons/github-icon.png)](https://github.com/KorChris) |
 | 정창수 | http://downman.tistory.com/ | C | [![](icons/rss-icon.png)](http://downman.tistory.com/rss) |
 | 정창훈 | https://code.iamseapy.com/ | iOS | [![](icons/rss-icon.png)](https://code.iamseapy.com/feed)[![](icons/facebook-icon.png)](https://www.facebook.com/iamseapy)[![](icons/twitter-icon.png)](https://twitter.com/seapy) |
-| 정철 | http://rokking1.blog.me | Full-Stack | [![](icons/rss-icon.png)](http://rokking1.blog.me/rss)[![](icons/github-icon.png)](https://github.com/weduls) |
+| 정철 | https://wedul.site | Full-Stack | [![](icons/rss-icon.png)](https://wedul.site/rss)[![](icons/github-icon.png)](https://github.com/weduls) |
 | 정태현 | http://chomman.github.io/blog/ | Back-end | [![](icons/rss-icon.png)](http://chomman.github.io/blog/feed)[![](icons/twitter-icon.png)](https://twitter.com/JungTaehyun)[![](icons/github-icon.png)](https://github.com/chomman) |
 | 정현일 | http://blog.nuti.pe.kr/ | Java, Spring | [![](icons/rss-icon.png)](http://blog.nuti.pe.kr/atom.xml)[![](icons/facebook-icon.png)](https://www.facebook.com/nuti001)[![](icons/github-icon.png)](https://github.com/hyeonil) |
 | 정희연 | https://yeun.github.io/ | 웹디자인 | [![](icons/twitter-icon.png)](https://twitter.com/_heeyeun)[![](icons/github-icon.png)](https://github.com/yeun) |
