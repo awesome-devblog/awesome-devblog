@@ -5112,9 +5112,9 @@
   facebook: https://www.facebook.com/iamseapy
   twitter: https://twitter.com/seapy
 - name: 정철
-  blog: http://rokking1.blog.me
-  rss: http://rokking1.blog.me/rss
-  description: Full-Stack
+  blog: https://wedul.site
+  rss: https://wedul.site/rss
+  description: Back-end
   github: https://github.com/weduls
 - name: 정태현
   blog: http://chomman.github.io/blog/
