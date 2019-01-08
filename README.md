@@ -224,7 +224,7 @@
 | 김찬빈 | https://blog.kesuskim.com/ | Front-end | [![](icons/rss-icon.png)](https://blog.kesuskim.com/feed.xml)[![](icons/github-icon.png)](https://github.com/kesuskim) |
 | 김창원 | http://www.memoriesreloaded.net/ | 실리콘밸리 | [![](icons/rss-icon.png)](http://www.memoriesreloaded.net/feeds/posts/default) |
 | 김창준 | http://agile.egloos.com/ | 애자일 | [![](icons/rss-icon.png)](http://rss.egloos.com/blog/agile)[![](icons/twitter-icon.png)](https://twitter.com/cjunekim) |
-| 김청진 | https://jinblog.kr | IT소식/리뷰, 개발(웹, 모바일) | [![](icons/rss-icon.png)](http://jinblog.kr/rss) [![](icons/facebook-icon.png)](https://www.facebook.com/jinblog) [![](icons/github-icon.png)](https://github.com/devjin0617) | 
+| 김청진 | https://jinblog.kr | IT소식/리뷰, 개발(웹, 모바일) | [![](icons/rss-icon.png)](http://jinblog.kr/rss) [![](icons/facebook-icon.png)](https://www.facebook.com/jinblog) [![](icons/github-icon.png)](https://github.com/devjin0617) |
 | 김충섭 | http://subicura.com/ |  | [![](icons/rss-icon.png)](https://subicura.com/feed.xml)[![](icons/twitter-icon.png)](https://twitter.com/subicura)[![](icons/github-icon.png)](https://github.com/subicura) |
 | 김태곤 | http://taegon.kim/ | 웹 | [![](icons/rss-icon.png)](https://taegon.kim/feed) |
 | 김태균 | http://blog.gaerae.com/ |  | [![](icons/rss-icon.png)](http://feeds.feedburner.com/GaeraeBlog?format=xml) |
@@ -426,7 +426,7 @@
 | 신영진 | http://www.jiniya.net/ | 보안 | [![](icons/rss-icon.png)](http://feeds.feedburner.com/codewiz)[![](icons/twitter-icon.png)](https://twitter.com/codemaru)[![](icons/github-icon.png)](https://github.com/amorvita) |
 | 신예지 | http://dev.bloodevil.com/ | Python | [![](icons/rss-icon.png)](http://dev.bloodevil.com/rss) |
 | 신용윤 | http://uni2u.tistory.com/ | 네트워크 | [![](icons/rss-icon.png)](http://uni2u.tistory.com/rss)[![](icons/slideshare-icon.png)](https://www.slideshare.net/uni2u)[![](icons/facebook-icon.png)](https://www.facebook.com/uni2u)[![](icons/github-icon.png)](https://github.com/uni2u)[![](icons/linkedin-icon.png)](https://www.linkedin.com/in/yongyoon-shin-80a8b557/) |
-| 신은광 | https://brendaniel.github.io/ |  | [![](icons/rss-icon.png)](https://brendaniel.github.io/feed)[![](icons/github-icon.png)](https://github.com/brendaniel) |
+| 신은광 | https://gracefullight.github.io/ |  | [![](icons/rss-icon.png)](https://gracefullight.github.io/feed)[![](icons/github-icon.png)](https://github.com/gracefullight) |
 | 신재명 | https://medium.com/@Jaemyung |  | [![](icons/rss-icon.png)](https://medium.com/feed/@Jaemyung) |
 | 신재인 | http://jaynewho.com/ |  |  |
 | 신철민 | https://kato75.blog.me/ | 엔트리 | [![](icons/rss-icon.png)](http://kato75.blog.me/rss) |
@@ -696,7 +696,7 @@
 | 정승욱 | https://medium.com/@jsuch2362 | Android | [![](icons/rss-icon.png)](https://medium.com/feed/@jsuch2362)[![](icons/facebook-icon.png)](https://www.facebook.com/steve.SU.J)[![](icons/twitter-icon.png)](https://twitter.com/jsuch2362) |
 | 정양욱 | https://yangeok.github.io | Back-end | [![](icons/rss-icon.png)](https://yangeok.github.io/feed.xml)[![](icons/github-icon.png)](https://github.com/Yangeok) |
 | 정원희 | https://brunch.co.kr/@hee072794 | React, Next.js | [![](icons/rss-icon.png)](https://brunch.co.kr/rss/@@naw)[![](icons/facebook-icon.png)](https://www.facebook.com/hee072794) |
-| 정유진 | http://dudmy.net/ | Android | [![](icons/rss-icon.png)](http://dudmy.net/feed)[![](icons/github-icon.png)](https://github.com/dudmy)[![](icons/linkedin-icon.png)](https://www.linkedin.com/in/dudmy/) | 
+| 정유진 | http://dudmy.net/ | Android | [![](icons/rss-icon.png)](http://dudmy.net/feed)[![](icons/github-icon.png)](https://github.com/dudmy)[![](icons/linkedin-icon.png)](https://www.linkedin.com/in/dudmy/) |
 | 정유택 | https://takeuu.tistory.com | Front-end | [![](icons/rss-icon.png)](http://takeuu.tistory.com/rss)[![](icons/github-icon.png)](https://github.com/youtaekjung) |
 | 정윤성 | http://yoonsung.github.io/ | Rust | [![](icons/rss-icon.png)](http://yoonsung.github.io/atom.xml)[![](icons/github-icon.png)](https://github.com/YoonSung) |
 | 정윤원 | http://youknowone.github.io/ | IOS | [![](icons/github-icon.png)](https://github.com/youknowone/) |
