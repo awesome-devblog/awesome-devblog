@@ -17,11 +17,14 @@
             <outline title="테크니들" xmlUrl="http://techneedle.com/feed"/>
             <outline title="테크수다" xmlUrl="http://www.techsuda.com/feed"/>
             <outline title="App Magazine" xmlUrl="http://www.withpress.co.kr/feed"/>
+            <outline title="IT 뉴스" xmlUrl="http://www.itnews.or.kr/?feed=rss2"/>
             <outline title="IT동아" xmlUrl="http://it.donga.com/feeds/rss/recent/"/>
             <outline title="IT월드" xmlUrl="http://www.itworld.co.kr/rss/feed"/>
             <outline title="ITDaily" xmlUrl="http://www.itdaily.kr/rss/allArticle.xml"/>
             <outline title="Outstanding" xmlUrl="http://outstanding.kr/feed/"/>
             <outline title="ROA Daily" xmlUrl="https://www.roadaily.co.kr/feed"/>
+            <outline title="ZDNet Korea" xmlUrl="http://feeds.feedburner.com/zdkorea?format=xml"/>
+            <outline title="Vertical Platform" xmlUrl="https://verticalplatform.kr/feed"/>
         </outline>
 
         <outline title="overseas" text="해외 개발자 블로그 모음">
@@ -39,6 +42,7 @@
             <outline title="Go Blog" xmlUrl="http://blog.golang.org/feeds/posts/default"/>
             <outline title="Ghost Dev" xmlUrl="http://dev.ghost.org/rss/"/>
             <outline title="Hacker Noon" xmlUrl="https://hackernoon.com/feed"/>
+            <outline title="InfoQ" xmlUrl="https://feed.infoq.com/" />
             <outline title="Instagram Engineering" xmlUrl="https://engineering.instagram.com/"/>
             <outline title="Uber Engineering Blog" xmlUrl="https://eng.uber.com/feed/"/>
         </outline>

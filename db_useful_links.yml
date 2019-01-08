@@ -23,6 +23,10 @@
   url: http://vorillaz.github.io/devicons/
   description: Developer iconic font
   category: Icon
+- name: Devhints
+  url: https://devhints.io/
+  description: A ridiculous collection of web development cheatsheets · One-page guide to.
+  category: Cheatsheet
 - name: draw.io
   url: https://www.draw.io/
   description: Free online diagram software for making flowcharts, process diagrams, org charts, UML, ER and network diagrams.

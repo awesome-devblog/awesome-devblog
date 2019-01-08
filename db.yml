@@ -182,8 +182,7 @@
   facebook: https://www.facebook.com/myeongsku
   github: https://github.com/AlbertKo827
 - name: 고명진
-  blog: https://rjs1197.github.io/
-  rss: https://rjs1197.github.io/feed.xml
+  blog: https://velog.io/@rjs1197
   description: C++
   github: https://github.com/rjs1197
 - name: 고명환
@@ -998,6 +997,8 @@
   blog: https://josephkim75.wordpress.com/
   rss: https://josephkim75.wordpress.com/feed/
   description: ''
+  linkedin: https://www.linkedin.com/in/josephkim75/
+  slideshare: https://www.slideshare.net/chingu94
 - name: 김용균
   blog: http://haruair.com/
   rss: http://www.haruair.com/blog/feed
@@ -2681,6 +2682,7 @@
   blog: https://arload.wordpress.com/
   rss: https://arload.wordpress.com/feed/
   description: 개발방법론, Android
+  slideshare: https://www.slideshare.net/arload
 - name: 손은주
   blog: https://ejsohn.github.io/
   rss: https://ejsohn.github.io/feed.xml
@@ -4260,6 +4262,8 @@
   description: Python
   github: https://github.com/johngrib
   twitter: https://twitter.com/John_Grib
+  slideshare: https://www.slideshare.net/ssuser69b63d1
+  linkedin: https://www.linkedin.com/in/johngrib/
 - name: 이종영
   blog: https://jjongyeonglee.io/blog/
   facebook: https://www.facebook.com/leejongyoungg
