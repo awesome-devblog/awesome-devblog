@@ -704,7 +704,7 @@
 | 정재광 | https://jae-kwang.github.io/blog/ | Front-end | [![](icons/rss-icon.png)](https://jae-kwang.github.io/blog/atom.xml)[![](icons/facebook-icon.png)](https://www.facebook.com/fullest.sway)[![](icons/github-icon.png)](https://github.com/Jae-kwang) |
 | 정재남 | http://gomugom.github.io/ | Front-end | [![](icons/rss-icon.png)](https://gomugom.github.io/atom.xml)[![](icons/facebook-icon.png)](https://www.facebook.com/gomugomm)[![](icons/github-icon.png)](https://github.com/gomugom)[![](icons/linkedin-icon.png)](https://www.linkedin.com/in/%EC%9E%AC%EB%82%A8-%EC%A0%95-206124105/) |
 | 정재훈 | http://uzys.net/ | Rankedin | [![](icons/facebook-icon.png)](https://github.com/uzysjung)[![](icons/github-icon.png)](https://github.com/uzysjung) |
-| 정종윤 | https://wormwlrm.github.io/ | Front-end | [![](icons/rss-icon.png)](https://wormwlrm.github.io/sitemap.xml)[(icons/github-icon.png)](https://github.com/wormwlrm)
+| 정종윤 | https://wormwlrm.github.io/ | Front-end | [![](icons/rss-icon.png)](https://wormwlrm.github.io/sitemap.xml)[![](icons/github-icon.png)](https://github.com/wormwlrm)
 | 정주홍 | https://brunch.co.kr/@toughrogrammer |  | [![](icons/rss-icon.png)](https://brunch.co.kr/rss/@@1dLN) |
 | 정찬명 | http://naradesign.net/ | Front-end | [![](icons/rss-icon.png)](http://naradesign.net/wp/feed/)[![](icons/facebook-icon.png)](https://www.facebook.com/naradesign)[![](icons/twitter-icon.png)](https://twitter.com/naradesign/) |
 | 정찬웅 | https://korchris.github.io/ |  | [![](icons/github-icon.png)](https://github.com/KorChris) |
