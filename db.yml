@@ -3926,6 +3926,13 @@
   rss: http://sanghaklee.tistory.com/rss
   description: Back-end, Node.js, JavaScript, Cloud Computing
   github: https://github.com/sanghaklee
+- name: 이상현
+  blog: https://iamsang.com/
+  rss: https://iamsang.com/index.xml
+  description: Data Science
+  twitter: https://twitter.com/sangdolha
+  stackoverflow: https://stackoverflow.com/users/524588/sanghyun-lee
+  github: https://github.com/sangdol
 - name: 이상훈
   blog: http://sanghun.io/
   github: https://github.com/dsa28s
