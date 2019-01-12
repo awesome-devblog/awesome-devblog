@@ -1658,6 +1658,12 @@
 - name: 나윤환
   blog: https://nayunhwan.github.io/
   description: React
+- name: 나정휘
+  blog: https://justicehui.github.io/
+  rss: https://justicehui.github.io/feed.xml
+  description: Algorithm
+  github: https://github.com/justiceHui
+  facebook: https://www.facebook.com/profile.php?id=100009360445766
 - name: 남경진
   blog: https://kanteloper.github.io/
   rss: https://kanteloper.github.io/atom.xml
