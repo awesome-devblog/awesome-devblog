@@ -300,6 +300,7 @@
 | 맹윤호 | http://maengdev.tistory.com/ | Data Science | [![](icons/rss-icon.png)](http://maengdev.tistory.com/rss)[![](icons/facebook-icon.png)](https://www.facebook.com/yunho0130)[![](icons/github-icon.png)](https://github.com/yunho0130)[![](icons/linkedin-icon.png)](https://www.linkedin.com/in/yunho0130/) |
 | 모상우 | https://brunch.co.kr/@aidenswmo |  | [![](icons/rss-icon.png)](https://brunch.co.kr/rss/@@FOY) |
 | 문동선 | http://dsmoon.tistory.com/ | 머신러닝 | [![](icons/rss-icon.png)](http://dsmoon.tistory.com/rss) |
+| 문동욱 | https://evan-moon.github.io/ | Graphics, Web |  |
 | 문준영 | https://brunch.co.kr/@moonjoonyoung |  | [![](icons/rss-icon.png)](https://brunch.co.kr/atom/@@2o8u)[![](icons/facebook-icon.png)](https://www.facebook.com/moonj) |
 | 문형환 | http://blog.lael.be/ |  | [![](icons/rss-icon.png)](http://blog.lael.be/feed) |
 | 민경운 | http://min-it.tistory.com/ | Docker | [![](icons/rss-icon.png)](http://min-it.tistory.com/rss) |
