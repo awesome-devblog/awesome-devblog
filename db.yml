@@ -2818,6 +2818,12 @@
   rss: https://medium.com/feed/@it_sjh9973
   description: ''
   twitter: https://twitter.com/it_sjh9973
+- name: 송치오
+  blog: http://pizzaplanet.tistory.com/
+  rss: http://pizzaplanet.tistory.com/rss
+  description: AI
+  github: https://github.com/schio
+  facebook: https://www.facebook.com/Songchioh
 - name: 송태웅
   blog: http://developerpostit.blogspot.com/
   rss: http://developerpostit.blogspot.com/feeds/posts/default
