@@ -989,3 +989,9 @@
 - name: ITFIND
   home: https://www.itfind.or.kr/
   rss: http://www.itfind.or.kr/rss/all.do?rssType=02
+- name: SPH
+  blog: http://www.sphinfo.com/blog/
+  rss: http://www.sphinfo.com/feed/
+- name: 잔디
+  blog: http://blog.jandi.com/ko/
+  rss: http://feeds.feedburner.com/jandi/cbSy?format=xml
