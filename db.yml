@@ -1130,6 +1130,12 @@
   blog: http://epiloum.net/
   rss: http://epiloum.net/feed
   description: Front-end
+- name: 김재원
+  blog: https://havefunlearningnewstuff.tistory.com/
+  rss: https://havefunlearningnewstuff.tistory.com/rss
+  description: 기획
+  linkedin: https://www.linkedin.com/in/jaywonkim/
+  rocketpunch: https://www.rocketpunch.com/@janeisik223
 - name: 김재윤
   home: https://sites.google.com/view/suitbread
   facebook: https://www.facebook.com/seriousbread
@@ -5632,6 +5638,10 @@
 - name: 최원영
   blog: https://blog.voidmainvoid.net/
   rss: https://blog.voidmainvoid.net/rss
+  description: Big Data, DevOps
+  github: https://github.com/AndersonChoi
+  linkedin: https://www.linkedin.com/in/won-young-choi-189960b7/
+  home: https://andersonchoi.github.io/
 - name: 최유석
   blog: http://whitechoi.tistory.com/
   rss: http://whitechoi.tistory.com/rss
