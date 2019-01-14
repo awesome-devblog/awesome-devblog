@@ -185,6 +185,7 @@
   blog: https://velog.io/@rjs1197
   description: C++
   github: https://github.com/rjs1197
+  gitlab: https://gitlab.com/rjs1197/
 - name: 고명환
   blog: https://brunch.co.kr/@maru7091
   rss: https://brunch.co.kr/rss/@@LOc
@@ -5005,6 +5006,11 @@
   description: Android
   facebook: https://www.facebook.com/steve.SU.J
   twitter: https://twitter.com/jsuch2362
+- name: 정승철
+  blog: https://medium.com/@ddt1984
+  rss: https://medium.com/feed/@ddt1984
+  description: 게임 개발
+  facebook: https://www.facebook.com/seungcheol.jeong1
 - name: 정용일
   blog: http://yongil.net/
   rss: http://yongil.net/feed
