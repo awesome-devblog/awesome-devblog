@@ -421,6 +421,8 @@
 | 송준현 | https://medium.com/@it_sjh9973 |  | [![](icons/rss-icon.png)](https://medium.com/feed/@it_sjh9973)[![](icons/twitter-icon.png)](https://twitter.com/it_sjh9973) |
 | 송호연 | https://brunch.co.kr/@chris-song/ |  | [![](icons/rss-icon.png)](https://brunch.co.kr/rss/@@IgT) |
 | 송효진 | https://lovetoken.github.io/ | R | [![](icons/rss-icon.png)](https://lovetoken.github.io/feed.xml)[![](icons/twitter-icon.png)](https://twitter.com/LT_Lovetoken)[![](icons/github-icon.png)](https://github.com/lovetoken)[![](icons/linkedin-icon.png)](https://www.linkedin.com/in/lovetoken/) |
+| 신기용 | https://goodgid.github.io/ | BE | [![](icons/rss-icon.png)](https://goodgid.github.io/feed.xml)[![](icons/github-icon.png)](https://github.com/goodGid)[![](icons/facebook-icon.png)](https://www.facebook.com/sgy8971) |
+| 송효진 | https://lovetoken.github.io/ | R | [![](icons/rss-icon.png)](https://lovetoken.github.io/feed.xml)[![](icons/twitter-icon.png)](https://twitter.com/LT_Lovetoken)[![](icons/github-icon.png)](https://github.com/lovetoken)[![](icons/linkedin-icon.png)](https://www.linkedin.com/in/lovetoken/) |
 | 신경식 | http://multeng.tistory.com/ | AI | [![](icons/rss-icon.png)](http://multeng.tistory.com/rss) |
 | 신관영 | http://springsource.tistory.com/ | Spring |  |
 | 신동성 | https://brunch.co.kr/@adrenalinee31 |  | [![](icons/rss-icon.png)](https://brunch.co.kr/rss/@@1pJY) |
