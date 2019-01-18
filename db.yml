@@ -6288,6 +6288,11 @@
   blog: https://brunch.co.kr/@delight412
   rss: https://brunch.co.kr/rss/@@ZVA
   description: IT 칼럼
+- name: 황태식
+  blog: https://yahwang.github.io
+  github: https://github.com/yahwang
+  rss: https://yahwang.github.io/feed.xml
+  description: 데이터 분석, 엔지니어링
 - name: 홍석현
   github: https://www.facebook.com/unifiedh
   twitter: https://twitter.com/unifiedh
