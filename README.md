@@ -867,6 +867,7 @@
 | 황준원 | http://nuxlear.tistory.com/ | Keras | [![](icons/rss-icon.png)](http://nuxlear.tistory.com/rss)[![](icons/facebook-icon.png)](https://www.facebook.com/nuxlearHwang) |
 | 황지현 | http://jhhwang4195.tistory.com/ | NFV, 5G, Devops | [![](icons/rss-icon.png)](http://jhhwang4195.tistory.com/rss)[![](icons/github-icon.png)](https://github.com/jhhwang4195) |
 | 황치규 | https://brunch.co.kr/@delight412 | IT 칼럼 | [![](icons/rss-icon.png)](https://brunch.co.kr/rss/@@ZVA) |
+| 황태식 | https://yahwang.github.io | 데이터 분석, 엔지니어링 | [![](icons/rss-icon.png)](https://yahwang.github.io/feed.xml)[![](icons/github-icon.png)](https://github.com/yahwang) |
 | 히언 | http://recipes.egloos.com/ | Embedded Recipes | [![](icons/rss-icon.png)](http://rss.egloos.com/blog/recipes) |
 
 ### S
