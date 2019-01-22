@@ -5035,6 +5035,12 @@
   rss: https://medium.com/feed/@ddt1984
   description: 게임 개발
   facebook: https://www.facebook.com/seungcheol.jeong1
+- name: 정양욱
+  blog: https://yangeok.github.io
+  rss: https://yangeok.github.io/feed.xml
+  description: Back-end
+  tistory: http://yangwookee.tistory.com
+  github: https://github.com/Yangeok
 - name: 정용일
   blog: http://yongil.net/
   rss: http://yongil.net/feed
