@@ -1154,6 +1154,10 @@
   description: Javascript, Node
   facebook: https://www.facebook.com/kim.jeongwon.9
   github: https://github.com/swtpumpkin
+- name: 김정윤
+  blog: https://velog.io/@skyepodium
+  description: Vue
+  github: https://github.com/skyepodium
 - name: 김정주
   linkedin: https://www.linkedin.com/in/jeongjukim/
   slideshare: https://www.slideshare.net/ssuser163469
@@ -5942,10 +5946,12 @@
   linkedin: https://www.linkedin.com/in/kenneth-ceyer-768419133/
   home: https://www.pigno.se/
 - name: 한성일
-  blog: http://www.snowkiwi.com/
-  rss: http://www.snowkiwi.com/feed.xml
+  blog: http://devh.kr/
+  rss: http://devh.kr/feed.xml
   linkedin: https://www.linkedin.com/in/성일-한-38490a49/
   slideshare: https://www.slideshare.net/ssusercf5d12
+  github: https://github.com/devhkr
+  facebook: https://www.facebook.com/devhkr
 - name: 한수연
   blog: https://www.bloter.net/archives/author/again
   description: 블록체인, 빅데이터
