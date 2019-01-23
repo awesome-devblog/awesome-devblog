@@ -4651,6 +4651,11 @@
   description: Web
   facebook: https://www.facebook.com/rootjang1
   github: https://github.com/Rootjang92
+- name: 장기영
+  blog: https://medium.com/@axisj
+  rss: https://medium.com/feed/@axisj
+  description: Front-end
+  github: https://github.com/thomasJang
 - name: 장기효(기효 조슈아 장)
   blog: https://joshua1988.github.io/
   rss: https://joshua1988.github.io/atom.xml
