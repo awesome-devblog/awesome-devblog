@@ -76,6 +76,7 @@
 | 강홍구 | https://wckhg89.github.io | Web | [![](icons/rss-icon.png)](https://wckhg89.github.io/feed.xml)[![](icons/github-icon.png)](https://github.com/wckhg89) |
 | 경준호 | http://firejune.com/ | Front-end | [![](icons/rss-icon.png)](https://feeds.feedburner.com/firejune)[![](icons/facebook-icon.png)](https://www.facebook.com/firejune)[![](icons/twitter-icon.png)](https://twitter.com/firejune)[![](icons/github-icon.png)](https://github.com/firejune)[![](icons/linkedin-icon.png)](https://www.linkedin.com/in/firejune/) |
 | 계주성 | http://kyejusung.com/ |  | [![](icons/rss-icon.png)](http://kyejusung.com/feed/)[![](icons/twitter-icon.png)](https://twitter.com/kyejusung) |
+| 김철민 | http://blog.naver.com/kbs4674/ | Ruby on Rails, AWS, Heroku | [![](icons/rss-icon.png)](https://rss.blog.naver.com/kbs4674.xml)[![](icons/github-icon.png)](https://github.com/kbs4674) |
 | 고득녕 | http://blog.naver.com/nackji80/ | 네트워크 | [![](icons/rss-icon.png)](http://blog.rss.naver.com/nackji80.xml) |
 | 고명진 | https://rjs1197.github.io/ | C++ | [![](icons/rss-icon.png)](https://rjs1197.github.io/feed.xml)[![](icons/github-icon.png)](https://github.com/rjs1197) |
 | 고명환 | https://brunch.co.kr/@maru7091 | 스타트업 | [![](icons/rss-icon.png)](https://brunch.co.kr/rss/@@LOc) |
