@@ -895,6 +895,9 @@
 - name: Ky
   github: https://github.com/sindresorhus/ky
   tags: HTTP Client
+- name: Laco
+  github: https://github.com/deamme/laco
+  tags: State Management, React
 - name: Lerna
   home: https://lernajs.io/
   github: https://github.com/lerna/lerna
@@ -1402,6 +1405,10 @@
   github: https://github.com/densitydesign/raw
   twitter: https://twitter.com/rawgraphs
   tags: Visualization
+- name: rbx
+  home: https://dfee.github.io/rbx/
+  github: https://github.com/dfee/rbx
+  tags: UI Library, React, Typescript
 - name: React
   home: https://reactjs.org/
   github: https://github.com/facebook/react
@@ -1530,6 +1537,10 @@
   home: https://sanic.readthedocs.io/
   github: https://github.com/channelcat/sanic
   tags: Python, Web Framework
+- name: Scylla
+  home: https://www.scylladb.com/
+  github: https://github.com/scylladb/scylla
+  tags: Database
 - name: Semantic UI
   home: https://semantic-ui.com/
   github: https://github.com/Semantic-Org/Semantic-UI

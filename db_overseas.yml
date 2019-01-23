@@ -93,6 +93,11 @@
   blog: https://derickbailey.com/
   rss: http://feeds.feedblitz.com/derickbailey
   description: Javascript 개발자
+- name: Devin Fee
+  blog: https://medium.com/@dfee
+  rss: https://medium.com/feed/@dfee
+  description: Front-end, rbx
+  twitter: https://twitter.com/dfee
 - name: Dino Esposito
   blog: https://software2cents.wordpress.com/
   description: .NET 에반젤리스트
@@ -200,6 +205,11 @@
   blog: http://www.vogella.com/
   rss: http://www.vogella.de/blog/feed/
   description: 이클립스 커미터
+- name: Lauren Tan
+  blog: https://medium.com/@sugarpirate
+  rss: https://medium.com/feed/@sugarpirate
+  description: Ember.js
+  twitter: https://twitter.com/sugarpirate_
 - name: Linus Torvalds
   blog: https://plus.google.com/+LinusTorvalds
   description: Linux 창시자

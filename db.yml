@@ -4696,8 +4696,10 @@
   rss: https://mooneegee.blogspot.com/feeds/posts/default
   description: 3D
 - name: 장선우
-  blog: https://velog.io/@sjquant
+  blog: https://sjquant.github.io/
+  rss: https://sjquant.github.io/feed.xml
   description: Python
+  facebook: https://www.facebook.com/sjquant
 - name: 장성진
   blog: https://brunch.co.kr/@99-life
   rss: https://brunch.co.kr/rss/@@L61

@@ -995,3 +995,8 @@
 - name: 잔디
   blog: http://blog.jandi.com/ko/
   rss: http://feeds.feedburner.com/jandi/cbSy?format=xml
+- name: 스노우키위
+  blog: http://snowkiwi.com/
+  rss: http://www.snowkiwi.com/feed.xml
+- name: AXISJ
+  home: http://axisj.com/
