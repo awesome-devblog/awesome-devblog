@@ -681,6 +681,10 @@
   blog: https://brunch.co.kr/@brunchqvxt
   rss: https://brunch.co.kr/atom/@@O1Z
   description: Spring Boot
+- name: 김민석
+  blog: http://blog.mskim.me/
+  rss: http://blog.mskim.me/feed.xml
+  description: Web
 - name: 김민수
   blog: http://www.kmshack.kr/
   rss: http://www.kmshack.kr/rss
