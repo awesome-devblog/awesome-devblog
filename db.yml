@@ -4188,6 +4188,11 @@
   blog: https://brunch.co.kr/@mapthecity
   rss: https://brunch.co.kr/rss/@@275I
   description: 인공지능
+- name: 이영주
+  blog: https://lyoungjoo.github.io/
+  rss: https://lyoungjoo.github.io/feed
+  description: Hacking
+  facebook: https://www.facebook.com/ashuulee
 - name: 이영찬
   blog: https://phillyai.github.io/
   rss: https://phillyai.github.io/feed.xml
