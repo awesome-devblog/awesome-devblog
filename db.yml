@@ -3680,6 +3680,14 @@
   rss: http://malchooni.name/feed/
   description: Python
   facebook: https://www.facebook.com/profile.php?id=100002404362186
+- name: 윤제상
+  blog: https://medium.com/@yoonjs2
+  rss: https://medium.com/feed/@yoonjs2
+  description: HBSmith
+  github: https://github.com/yoonjs2
+  slideshare: https://www.slideshare.net/jesangyoon
+  linkedin: https://www.linkedin.com/in/jesangyoon/
+  twitter: https://twitter.com/yoonjs2
 - name: 윤지수
   slideshare: https://www.slideshare.net/jisuyoun
 - name: 윤진
