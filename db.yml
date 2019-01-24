@@ -171,6 +171,9 @@
   rss: http://kyejusung.com/feed/
   description: ''
   twitter: https://twitter.com/kyejusung
+- name: 김철민
+  blog: http://blog.naver.com/kbs4674
+  rss: https://rss.blog.naver.com/kbs4674.xml
 - name: 고득녕
   blog: http://blog.naver.com/nackji80/
   rss:  http://blog.rss.naver.com/nackji80.xml
