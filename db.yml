@@ -5924,6 +5924,11 @@
   description: Apache Tajo
   twitter: https://twitter.com/hyunsik_choi
   linkedin: https://www.linkedin.com/in/hyunsikchoi/
+- name: 최혜선
+  blog: https://hyesun03.github.io/
+  rss: https://hyesun03.github.io/atom.xml
+  description: Python, Django
+  github: https://github.com/hyesun03
 - name: 최호섭
   blog: https://byline.network/author/hs-choi/
   description: IT 뉴스
