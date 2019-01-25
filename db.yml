@@ -4315,6 +4315,11 @@
   github: https://github.com/pyrasis
   slideshare: https://www.slideshare.net/pyrasis
   twitter: https://twitter.com/pyrasis
+- name: 이재희
+  blog: https://ljhblog.tistory.com/
+  rss: https://ljhblog.tistory.com/rss
+  description: 3D Graphics
+  github: https://github.com/LDobac/
 - name: 이정근
   blog: http://blog.cjred.net/
   description: OpenShift
