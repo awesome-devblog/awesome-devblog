@@ -1505,6 +1505,10 @@
   rss: http://javaexpert.tistory.com/rss
   description: 블록체인, 웹, 모바일
   github: https://github.com/bear2u
+- name: 김태현
+  blog: https://happyer16.tistory.com/
+  rss: https://happyer16.tistory.com/rss
+  description: Back-end, Front-end
 - name: 김태호
   blog: http://www.androidhuman.com/
   rss: http://www.androidhuman.com/feed.xml
