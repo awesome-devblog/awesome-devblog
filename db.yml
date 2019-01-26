@@ -2698,6 +2698,14 @@
   rss: https://brunch.co.kr/rss/@@24xs
   description: 디자인
   home: http://zalhan.kr
+- name: 서현석
+  blog: https://samslow.me/
+  rss: https://samslow.me/feed.xml
+  description: Web
+  facebook: https://www.facebook.com/samsloww
+  youtube: https://www.youtube.com/user/shsdf302
+  instagram: https://www.instagram.com/slow_samuel/
+  github: https://github.com/samslow
 - name: 설훈
   blog: https://seolhun.github.io/blog/
   rss: https://seolhun.github.io/blog/feed.xml
