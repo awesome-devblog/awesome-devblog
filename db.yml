@@ -5757,6 +5757,9 @@
 - name: 최만
   blog: http://manchoikorea.blogspot.kr/
   description: 교육
+- name: 최민호
+  blog: https://velog.io/@vnthf
+  description: Typescript
 - name: 최백준
   blog: http://www.baekjoon.com/
   description: 알고리즘
