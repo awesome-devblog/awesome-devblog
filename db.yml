@@ -2976,6 +2976,12 @@
   blog: http://jaynewho.com/
   rss: http://jaynewho.com/feed
   description: Web, Infra
+- name: 신재헌
+  blog: https://shinjaeheon.tistory.com/
+  rss: https://shinjaeheon.tistory.com/rss
+  description: Web
+  github: https://github.com/Shin-JaeHeon
+  rankedin: http://rankedin.kr/user/Shin-JaeHeon
 - name: 신정규
   blog: https://forest.nubimaru.com/
   facebook: https://www.facebook.com/jeongkyu.shin
@@ -3501,6 +3507,7 @@
   github: https://github.com/sarojaba
   linkedin: https://www.linkedin.com/in/우준혁-sarojaba/
   twitter: https://twitter.com/sarojaba
+  rankedin: http://rankedin.kr/user/sarojaba
   aboutme: https://about.me/sarojaba
 - name: 원강민
   blog: https://blog.wonhada.com/
@@ -4992,9 +4999,12 @@
   github: https://github.com/supawer0728
 - name: 전창완
   blog: http://wani.kr/
-  rss: http://wani.kr/feed
-  github: https://github.com/wan2land
+  rss: http://wani.kr/feed.xml
   description: PHP, Backend
+  github: https://github.com/wan2land
+  twitter: https://twitter.com/wan2land
+  rocketpunch: https://www.rocketpunch.com/@e49a3c0e3cea4def
+  slideshare: https://www.slideshare.net/wan2land
 - name: 전현준
   blog: http://guswnsxodlf.github.io/
   rss: http://guswnsxodlf.github.io/feed.xml
