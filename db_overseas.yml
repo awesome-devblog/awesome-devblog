@@ -2,11 +2,11 @@
 - name: Adam Bien
   blog: http://www.adam-bien.com/roller/abien/
   rss: http://www.adam-bien.com/roller/abien/feed/entries/atom
-  description: Real World Java EE Patterns 저자
+  description: Author of Real World Java EE Patterns
 - name: Adam Fletcher
   blog: https://medium.com/@adam_34309
   rss: https://medium.com/feed/@adam_34309
-  description: Gyroscope Software CEO
+  description: CEO at Gyroscope Software
 - name: Andrea Giammarchi
   blog: http://webreflection.blogspot.com/
   rss: http://webreflection.blogspot.com/feeds/posts/default
@@ -123,6 +123,10 @@
   blog: http://evanyou.me/
   rss: https://medium.com/feed/@youyuxi
   description: Vue 창시자
+- name: Flavio Copes
+  blog: https://flaviocopes.com/
+  rss: https://flaviocopes.com/index.xml
+  description: Author of The React Handbook
 - name: Gabriela de Queiroz
   speakerdeck: https://speakerdeck.com/kroz
 - name: Gal Sagie
@@ -142,7 +146,7 @@
 - name: James Gosling
   blog: http://nighthacks.com/roller/jag/
   rss: http://feeds.feedburner.com/nighthacks/feed
-  description: Java 창시자
+  description: Founder of Java
 - name: Jason Wilder
   blog: http://jasonwilder.com/
   rss: http://jasonwilder.com/index.xml

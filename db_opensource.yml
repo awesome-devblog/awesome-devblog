@@ -541,6 +541,9 @@
   home: http://frescolib.org/
   github: https://github.com/facebook/fresco
   tags: Android, Image
+- name: fx
+  github: https://github.com/antonmedv/fx
+  tags: CLI, JSON
 - name: fzf
   github: https://github.com/junegunn/fzf
   tags: CLI
@@ -732,6 +735,9 @@
   facebook: https://www.facebook.com/influxdb
   awesome: https://github.com/mark-rushakoff/awesome-influxdb
   tags: Database
+- name: Ink
+  tags: CLI, React
+  github: https://github.com/vadimdemedes/ink
 - name: Istio
   home: https://istio.io/
   github: https://github.com/istio/istio
@@ -1316,6 +1322,11 @@
   twitter: https://twitter.com/postgresql
   awesome: https://github.com/dhamaniasad/awesome-postgres
   tags: Database
+- name: Portainer
+  home: https://www.portainer.io/
+  github: https://github.com/portainer/portainer
+  gitter: https://gitter.im/portainer/Lobby
+  tags: Docker, UI
 - name: PouchDB
   home: https://pouchdb.com/
   github: https://github.com/pouchdb/pouchdb
@@ -1468,6 +1479,9 @@
   home: https://revealjs.com/
   github: https://github.com/hakimel/reveal.js
   tags: Presentation
+- name: Revery
+  github: https://github.com/revery-ui/revery
+  tags: Application Framework
 - name: Ring
   home: http://ring-lang.net/
   github: https://github.com/ring-lang/ring
