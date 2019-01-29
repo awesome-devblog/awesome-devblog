@@ -440,7 +440,7 @@
 - name: 권희정
   blog: https://gmlwjd9405.github.io/
   rss: https://gmlwjd9405.github.io/feed
-  description: ''
+  description: Spring
   github: https://github.com/gmlwjd9405
 - name: 김강천
   blog: https://medium.com/@rlarkdcjs12
@@ -3858,6 +3858,14 @@
   rss: https://medium.com/feed/@guleum
   description: Web
   facebook: https://www.facebook.com/profile.php?id=100010476465837
+- name: 이동균
+  blog: https://haandol.github.io/
+  rss: https://haandol.github.io/atom.xml
+  description: Typescript
+  linkedin: https://www.linkedin.com/in/haandol/
+  slideshare: https://www.slideshare.net/ldgood
+  facebook: https://www.facebook.com/haandol
+  twitter: https://twitter.com/haandol
 - name: 이동근
   blog: https://dizy64.github.io/
   rss: https://dizy64.github.io/atom.xml
@@ -5230,14 +5238,11 @@
 - name: 정재광
   blog: https://jae-kwang.github.io/blog/
   rss: https://jae-kwang.github.io/blog/atom.xml
-  description: Front-end
+  description: Front-end, Python, Django
   github: https://github.com/Jae-kwang
   facebook: https://www.facebook.com/fullest.sway
+  medium: https://medium.com/@fullest.sway
   home: https://jae-kwang.github.io/
-- name: 정재광
-  blog: https://medium.com/@fullest.sway
-  rss: https://medium.com/feed/@fullest.sway
-  description: Python, Django
 - name: 정재남
   blog: http://gomugom.github.io/
   description: Front-end
