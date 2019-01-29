@@ -1704,6 +1704,11 @@
   twitter: https://twitter.com/totalframework
   facebook: https://www.facebook.com/totaljs.web.framework/
   tags: Javascript, Back-end Framework
+- name: Turf
+  home: http://turfjs.org/
+  github: https://github.com/Turfjs/turf
+  gitter: https://gitter.im/Turfjs/turf
+  tags: Geospatial Engine
 - name: TurtleDB
   home: https://turtle-db.github.io/
   github: https://github.com/turtle-DB/turtleDB

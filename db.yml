@@ -446,6 +446,12 @@
   blog: https://medium.com/@rlarkdcjs12
   rss: https://medium.com/feed/@rlarkdcjs12
   description: Algorithm
+- name: 김강호
+  blog: https://cimfalab.github.io/deepscan/
+  rss: https://cimfalab.github.io/deepscan/atom.xml
+  description: Javascript
+  github: https://github.com/cimfalab
+  home: https://cimfalab.github.io/
 - name: 김경록
   blog: http://krksap.tistory.com/
   rss: http://krksap.tistory.com/rss
