@@ -474,6 +474,9 @@
   blog: https://blog.fission.io/
   twitter: https://twitter.com/fissionio
   tags: Serverless
+- name: Flameshot
+  github: https://github.com/lupoDharkael/flameshot
+  tags: Application
 - name: Flask
   home: http://flask.pocoo.org/
   github: https://github.com/pallets/flask
@@ -583,6 +586,9 @@
   reddit: https://www.reddit.com/r/godot
   awesome: https://github.com/Calinou/awesome-godot
   tags: Go, Game Engine
+- name: gotop
+  github: https://github.com/cjbassi/gotop
+  tags: CLI
 - name: Gradle
   home: https://gradle.org/
   github: https://github.com/gradle/gradle
@@ -1652,6 +1658,9 @@
   blog: https://www.spyder-ide.org/blog/
   gitter: https://gitter.im/spyder-ide/public
   tags: IDE
+- name: sshj
+  github: https://github.com/hierynomus/sshj
+  tags: SSH, Java
 - name: Stacer
   home: https://oguzhaninan.github.io/Stacer-Web/
   github: https://github.com/oguzhaninan/Stacer
@@ -1859,6 +1868,10 @@
   stackoverflow: https://stackoverflow.com/questions/tagged/webpack
   awesome: https://github.com/webpack-contrib/awesome-webpack
   tags: Javascript, Tool
+- name: websocketd
+  home: http://websocketd.com/
+  github: https://github.com/joewalnes/websocketd
+  tags: Websocket
 - name: whs.js
   home: https://whs.io/
   github: https://github.com/WhitestormJS/whs.js
@@ -1868,6 +1881,11 @@
   home: https://wordplate.github.io/
   github: https://github.com/wordplate/wordplate
   tags: CMS
+- name: x-spreadsheet
+  home: https://myliang.github.io/x-spreadsheet/newest/
+  github: https://github.com/myliang/x-spreadsheet
+  npm: https://www.npmjs.com/package/xspreadsheet
+  tags: Spreadsheet
 - name: xi-editor
   home: https://xi-editor.github.io/xi-editor/
   github: https://github.com/xi-editor/xi-editor
