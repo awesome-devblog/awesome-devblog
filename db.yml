@@ -2688,6 +2688,14 @@
   description: 해외 취업
   twitter: https://twitter.com/zechery1
   medium: https://medium.com/@zechery1
+- name: 서지연
+  blog: http://jiyeonseo.github.io/
+  rss: https://jiyeonseo.github.io/atom.xml
+  description: Scala
+  github: https://github.com/jiyeonseo
+  twitter: https://twitter.com/seojeee
+  linkedin: https://www.linkedin.com/in/jiyeon-seo-aa9b3366/
+  instagram: https://www.instagram.com/cheeseinthedev/
 - name: 서지형
   blog: https://medium.com/@jee0645
   rss: https://medium.com/feed/@jee0645
