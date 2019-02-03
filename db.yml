@@ -1,4 +1,8 @@
 ---
+- name: 강교일
+  blog: https://kdevkr.github.io/
+  description: 초보 개발 이야기
+  github: https://github.com/kdevkr
 - name: 강규영
   profile: people/ecogwiki.md
   blog: http://www.ecogwiki.com/
