@@ -4746,6 +4746,14 @@
   blog: https://wariua.github.io/
   description: 네트워크
   github: https://github.com/wariua
+- name: 임재연
+  blog: https://imreplay.com/
+  rss: https://imreplay.com/feed.xml
+  description: Hacking
+  facebook: https://www.facebook.com/imreplay08
+  linkedin: https://www.linkedin.com/in/imreplay/
+  github: https://github.com/imreplay
+  gitlab: https://gitlab.com/imreplay
 - name: 임정욱
   blog: https://estimastory.com/
   rss: https://estimastory.com/feed/
