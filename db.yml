@@ -5888,6 +5888,11 @@
   blog: https://brunch.co.kr/@pilsogood
   rss: https://brunch.co.kr/rss/@@1iQC
   description: 트립그리다
+- name: 최예나
+  blog: https://blog.yena.io/
+  rss: https://blog.yena.io/feed.xml
+  description: SQL
+  github: https://github.com/nachoi
 - name: 최용석
   blog: https://blog.naver.com/cys_star
   rss: https://rss.blog.naver.com/cys_star.xml
