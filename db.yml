@@ -3541,6 +3541,10 @@
   blog: http://blog.hax0r.info
   rss: http://blog.hax0r.info/rss
   description: Serverside, security
+- name: 우정태
+  blog: https://coding-factory.tistory.com/
+  rss: https://coding-factory.tistory.com/rss
+  description: Android
 - name: 우준혁
   blog: https://medium.com/@sarojaba
   rss: https://medium.com/feed/@sarojaba
