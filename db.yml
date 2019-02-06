@@ -3533,6 +3533,7 @@
   twitter: https://twitter.com/sarojaba
   rankedin: http://rankedin.kr/user/sarojaba
   aboutme: https://about.me/sarojaba
+  openprocessing: https://www.openprocessing.org/user/67665
 - name: 원강민
   blog: https://blog.wonhada.com/
   rss: https://blog.wonhada.com/?feed=rss2
@@ -5808,6 +5809,12 @@
 - name: 최만
   blog: http://manchoikorea.blogspot.kr/
   description: 교육
+- name: 최명규
+  blog: http://www.bench87.com/blog/1
+  description: CI/CD
+  home: http://www.bench87.com/
+  linkedin: https://www.linkedin.com/in/명규-최-03785957/
+  github: https://github.com/bench87
 - name: 최민호
   blog: https://velog.io/@vnthf
   description: Typescript
