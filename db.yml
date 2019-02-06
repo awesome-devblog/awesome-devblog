@@ -2089,6 +2089,13 @@
   rss: http://baactree.tistory.com/rss
   description: 알고리즘
   github: https://github.com/baactree
+- name: 박성남
+  blog: https://angrypark.github.io/
+  rss: https://angrypark.github.io/feed
+  description: NLP
+  facebook: https://www.facebook.com/sungnam1108
+  linkedin: https://www.linkedin.com/in/angrypark/
+  github: https://github.com/angrypark
 - name: 박성민
   blog: https://a1p4ca.netlify.com
   rss: https://a1p4ca.netlify.com/atom.xml
