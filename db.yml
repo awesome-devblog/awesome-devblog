@@ -2491,6 +2491,11 @@
   facebook: https://www.facebook.com/doosik.bae
   github: https://github.com/baidoosik
   home: https://www.doosikbae.com/
+- name: 배상익
+  blog: https://aidanbae.github.io/
+  rss: https://aidanbae.github.io/index.xml
+  description: Go
+  github: https://github.com/aidanbae
 - name: 배수한
   blog: https://blog.naver.com/soohan530/
   rss: https://rss.blog.naver.com/soohan530.xml
