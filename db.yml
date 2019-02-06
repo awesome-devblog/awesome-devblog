@@ -205,6 +205,12 @@
   twitter: https://twitter.com/akalkid
   instagram: https://www.instagram.com/akalkid/
   pinterest: https://www.pinterest.co.kr/akalkid/
+- name: 고영훈
+  blog: https://koyo.kr/
+  rss: https://koyo.kr/index.xml
+  description: Network
+  github: https://github.com/koyokr
+  linkedin: https://www.linkedin.com/in/younghun-ko-249125135/
 - name: 고석진
   blog: https://appear.github.io/
   rss: https://appear.github.io/atom.xml
