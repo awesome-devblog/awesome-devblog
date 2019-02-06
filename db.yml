@@ -6407,6 +6407,11 @@
   rss: http://kongkongdev.blogspot.com/feeds/posts/default?alt=rss
   description: Front-end
   github: https://github.com/jinhokong
+- name: 홍창남
+  blog: https://medium.com/@codenamehong
+  rss: https://medium.com/feed/@codenamehong
+  description: Swift
+  twitter: https://twitter.com/hcn1518
 - name: 홍철주
   blog: https://medium.com/@angdev
   rss: https://medium.com/feed/@angdev
