@@ -813,6 +813,11 @@
   rss: http://chaoxifer.tistory.com/rss
   description: Linux, Windows
   github: https://github.com/seokbeomKim
+- name: 김석영
+  blog: https://tech.zzizily.com/
+  rss: https://tech.zzizily.com/feed.xml
+  description: Back-end
+  github: https://github.com/deuxksy
 - name: 김석준
   blog: http://seokjun.kr/
   rss: http://seokjun.kr/rss/
