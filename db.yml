@@ -343,8 +343,8 @@
   linkedin: https://www.linkedin.com/in/young-jae-kwon-3514b3141/
   slideshare: https://www.slideshare.net/YoungJaeKwon3
 - name: 권용근
-  blog: https://kingbbode.github.io/
-  rss: https://kingbbode.github.io/feed.xml
+  blog: http://blog.kingbbode.com/
+  rss: http://blog.kingbbode.com/feed.xml
   description: Spring
   github: https://github.com/kingbbode
   tistory: http://kingbbode.tistory.com/
@@ -1793,6 +1793,14 @@
   description: '프레임워크 / 오픈소스'
   github: https://github.com/roharon
   facebook: https://www.facebook.com/roharon
+- name: 노용은
+  blog: https://nali21c.github.io/
+  rss: https://nali21c.github.io/rss2.xml
+  description: Marketing
+  github: https://github.com/nali21c
+  linkedin: https://www.linkedin.com/in/yongeun-noh/
+  facebook: https://www.facebook.com/Nohyongeun
+  googleplay: https://play.google.com/store/apps/developer?id=YongeunNoh
 - name: 노용환
   blog: http://bugsfixed.blogspot.kr/
   rss: http://bugsfixed.blogspot.com/feeds/posts/default
@@ -3026,6 +3034,7 @@
   rankedin: http://rankedin.kr/user/Shin-JaeHeon
 - name: 신정규
   blog: https://forest.nubimaru.com/
+  rss: https://forest.nubimaru.com/rss
   facebook: https://www.facebook.com/jeongkyu.shin
   github: https://github.com/inureyes
   twitter: https://twitter.com/inureyes
