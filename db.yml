@@ -3506,6 +3506,8 @@
   blog: https://brunch.co.kr/@hopeless
   rss: https://brunch.co.kr/rss/@@2iiS
   description: Android
+  facebook: https://www.facebook.com/junsuk.oh.75
+  velog: https://velog.io/@jsoh
 - name: 오준영
   blog: https://blog.naver.com/lestat85
   rss: https://rss.blog.naver.com/lestat85.xml
@@ -3843,6 +3845,10 @@
   facebook: https://www.facebook.com/leekchan
   linkedin: https://www.linkedin.com/in/leekchan/
   github: https://github.com/leekchan/
+- name: 이경환
+  blog: https://againsee.com/
+  rss: https://againsee.com/rss/
+  description: Java
 - name: 이광식
   blog: http://www.kwangsiklee.com/
   rss: http://www.kwangsiklee.com/ko/feed/
@@ -4058,6 +4064,9 @@
   blog: https://medium.com/@moony211
   rss: https://medium.com/feed/@moony211
   description: Linux
+- name: 이상배
+  blog: https://velog.io/@lsb156
+  description: Kotlin
 - name: 이상복
   blog: https://medium.com/@sangboaklee
   rss: https://medium.com/feed/@sangboaklee
