@@ -1000,3 +1000,17 @@
   rss: http://www.snowkiwi.com/feed.xml
 - name: AXISJ
   home: http://axisj.com/
+- name: 서지스윈
+  home: https://sergeswin.com/
+  rss: http://feeds.feedburner.com/comblog
+- name: MC러닝 연구소
+  blog: https://mclearninglab.tistory.com/
+  rss: https://mclearninglab.tistory.com/rss
+- name: 락플레이스
+  blog: https://ossonazure.tistory.com/
+  rss: https://ossonazure.tistory.com/rss
+- name: 브랜디 R&D 본부 기술 블로그
+  blog: http://labs.brandi.co.kr/
+  rss: http://labs.brandi.co.kr/feed.xml
+- name: 케라스 코리아 (Keras Korea)
+  facebook: https://www.facebook.com/groups/KerasKorea/
