@@ -421,6 +421,7 @@
   facebook: https://www.facebook.com/xornrbboy
   twitter: https://twitter.com/xornrbboy
   github: https://github.com/taeguk
+  home: https://taeguk.github.io/
 - name: 권태형
   blog: https://taebbong.github.io/
   rss: https://taebbong.github.io/feed.xml
@@ -1899,6 +1900,11 @@
   linkedin: https://www.linkedin.com/in/yunho0130/
   slideshare: https://www.slideshare.net/YunhoMaeng
   home: https://maeng-dev.blog.me/
+- name: 맹인영
+  blog: https://maeng-dev.tistory.com/
+  rss: https://maeng-dev.tistory.com/rss
+  description: Rust, Vue
+  facebook: https://www.facebook.com/profile.php?id=100006631038938
 - name: 모상우
   blog: https://brunch.co.kr/@aidenswmo
   rss: https://brunch.co.kr/rss/@@FOY
