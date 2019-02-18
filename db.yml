@@ -940,6 +940,7 @@
   wordpress: https://subokim.wordpress.com/
 - name: 김수영
   blog: https://velog.io/@suyoung154
+  description: MongoDB
 - name: 김순식
   blog: http://i-bada.blogspot.kr/
   rss: http://i-bada.blogspot.com/feeds/posts/default
@@ -1453,6 +1454,12 @@
 - name: 김진욱
   blog: http://rein.kr/blog/
   description: ''
+- name: 김진혁
+  blog: https://tk-one.github.io/
+  rss: https://tk-one.github.io/atom.xml
+  description: Node.js
+  facebook: https://www.facebook.com/MiraGeKJH
+  github: https://github.com/TK-one/
 - name: 김짐
   blog: https://medium.com/@jimkimau
   rss: https://medium.com/feed/@jimkimau
