@@ -4678,6 +4678,10 @@
   description: Java, Rust
   twitter: https://twitter.com/Hazealign
   facebook: https://www.facebook.com/realignist
+- name: 이학진
+  blog: https://medium.com/@plumhj
+  rss: https://medium.com/feed/@plumhj
+  description: Rust
 - name: 이한
   blog: https://blog.hanlee.io/
   description: Python, Front-end
