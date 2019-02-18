@@ -5611,9 +5611,9 @@
   facebook: https://www.facebook.com/cho.eunsang
   twitter: https://twitter.com/itnpeople
 - name: 조은우
-  blog: http://jonnung.github.io/
-  rss: https://jonnung.github.io/index.xml
-  description: ''
+  blog: https://blog.jonnung.com/posts/
+  rss: https://blog.jonnung.com/posts/index.xml
+  description: Back-end
   facebook: https://www.facebook.com/choeunwoo
   twitter: https://twitter.com/jonnung
   github: https://github.com/jonnung
@@ -5981,6 +5981,9 @@
   github: https://github.com/AndersonChoi
   linkedin: https://www.linkedin.com/in/won-young-choi-189960b7/
   home: https://andersonchoi.github.io/
+- name: 최원우
+  blog: https://blog.vbchunguk.me/
+  description: Rust
 - name: 최유석
   blog: http://whitechoi.tistory.com/
   rss: http://whitechoi.tistory.com/rss
