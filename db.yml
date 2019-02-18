@@ -2370,6 +2370,13 @@
   rss: https://blessingdev.wordpress.com/feed/
   description: Python
   github: https://github.com/BlessingDev
+- name: 박중수
+  blog: https://danielpark.net/
+  rss: https://danielpark.net/rss
+  description: Java
+  linkedin: https://www.linkedin.com/in/jsdanielpark/
+  slideshare: https://www.slideshare.net/parkjoongsoo1
+  github: https://github.com/JSDanielPark
 - name: 박지수
   blog: https://medium.com/@JisuPark
   rss: https://medium.com/feed/@JisuPark
@@ -6594,6 +6601,7 @@
   blog: http://junil-hwang.com/
   rss: http://junil-hwang.com/blog/feed/
   description: Front-end, Back-end
+  facebook: https://www.facebook.com/profile.php?id=100013271537671
 - name: 황지영
   blog: https://medium.com/@jiyounghwang_412
   rss: https://medium.com/feed/@jiyounghwang_412
