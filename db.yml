@@ -1813,6 +1813,12 @@
   description: ''
   twitter: https://twitter.com/sbroh
   facebook: https://www.facebook.com/sbroh
+- name: 노수진
+  blog: https://soojin.ro/
+  rss: https://soojin.ro/feed.xml
+  description: Swift
+  linkedin: https://www.linkedin.com/in/soojinro/
+  appstore: https://itunes.apple.com/kr/developer/soojin-ro/id921116369
 - name: 노아론
   blog: https://blog.aaronroh.org
   description: '프레임워크 / 오픈소스'
