@@ -4866,6 +4866,12 @@
   blog: http://www.jimmyrim.com/
   rss: http://www.jimmyrim.com/rss
   description: 스타트업 투자
+- name: 임진우
+  blog: https://jinwooe.wordpress.com/
+  rss: https://jinwooe.wordpress.com/feed/
+  description: Java
+  twitter: https://twitter.com/jinwooe
+  rocketpunch: https://www.rocketpunch.com/@jinwooe.1
 - name: 임태성
   description: Web
   github: https://github.com/findawayer
