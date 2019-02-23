@@ -2259,6 +2259,12 @@
   description: billboard.js
   linkedin: https://www.linkedin.com/in/jae-sung-park-6a962213/
   slideshare: https://www.slideshare.net/netil
+- name: 박재영
+  blog: https://kujyp.github.io
+  rss: https://kujyp.github.io/rss.xml
+  github: https://github.com/kujyp
+  linkedin: https://www.linkedin.com/in/jaeyoung-park-887b55141/
+  description: ML DevOps, Python, Docker
 - name: 박재현
   blog: http://wisefree.tistory.com/
   rss: http://wisefree.tistory.com/rss
