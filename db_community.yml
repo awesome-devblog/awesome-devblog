@@ -1014,3 +1014,33 @@
   rss: http://labs.brandi.co.kr/feed.xml
 - name: 케라스 코리아 (Keras Korea)
   facebook: https://www.facebook.com/groups/KerasKorea/
+- name: stdout.fm
+  blog: https://stdout.fm/
+  rss: https://stdout.fm/feed
+  facebook: https://www.facebook.com/stdout.fm
+  youtube: https://www.youtube.com/channel/UCni26Y9C0Z7H36hPPHuqpSg
+  twitter: https://twitter.com/stdoutfm
+- name: 스티비 블로그
+  blog: https://blog.stibee.com/
+  rss: https://blog.stibee.com/feed
+- name: TEAMLAB
+  blog: https://teamlab.github.io/jekyllDecent/
+  rss: https://teamlab.github.io/jekyllDecent/feed.xml
+  github: https://github.com/teamlab
+- name: Huiseoul Engineering
+  blog: https://engineering.huiseoul.com/
+  rss: https://engineering.huiseoul.com/feed
+- name: StyleShare
+  blog: https://medium.com/styleshare
+  rss: https://medium.com/feed/styleshare
+- name: 뷰저블
+  blog: https://brunch.co.kr/@beusable
+  rss: https://brunch.co.kr/rss/@@30Rl
+  twitter: https://twitter.com/4grit_beusable
+  home: https://www.beusable.net/
+- name: 코드스테이츠
+  blog: https://blog.naver.com/PostList.nhn?blogId=codestates
+  rss: https://rss.blog.naver.com/codestates.xml
+- name: 레진 기술 블로그
+  blog: https://tech.lezhin.com/
+  rss: https://tech.lezhin.com/rss/

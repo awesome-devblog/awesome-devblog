@@ -1468,6 +1468,10 @@
   spectrum: https://spectrum.chat/react-static
   npm: https://www.npmjs.org/package/react-static
   tags: [Static Site Generator]
+- name: React Suite
+  home: https://rsuitejs.com/
+  gitter: https://gitter.im/rsuite/rsuite
+  tags: [React, UI Component]
 - name: React-vis
   home: https://uber.github.io/react-vis/
   github: https://github.com/uber/react-vis
@@ -1950,3 +1954,9 @@
   home: https://wasmer.io/
   github: https://github.com/wasmerio/wasmer
   tags: [WebAssembly]
+- name: XState
+  home: https://xstate.js.org/
+  github: https://github.com/davidkpiano/xstate
+  gitter: https://gitter.im/statecharts/statecharts
+  npm: https://www.npmjs.com/package/xstate
+  tags: [State, Javascript]
