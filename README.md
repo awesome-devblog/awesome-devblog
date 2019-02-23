@@ -345,6 +345,7 @@
 | 박재성(자바지기) | http://javajigi.net/ | Java |  |
 | 박재성 | https://medium.com/@jspark141515 |  |  |
 | 박재성 | https://medium.com/@alberto.park | billboard.js | [![](icons/rss-icon.png)](https://medium.com/feed/@alberto.park) |
+| 박재영 | https://kujyp.github.io | ML DevOps, Python, Docker | [![](icons/rss-icon.png)](https://kujyp.github.io/rss.xml)[![](icons/github-icon.png)](https://github.com/kujyp)[![](icons/linkedin-icon.png)](https://www.linkedin.com/in/jaeyoung-park-887b55141/) |
 | 박재현 | http://wisefree.tistory.com/ | IT 칼럼 | [![](icons/rss-icon.png)](http://wisefree.tistory.com/rss) |
 | [박재호](people/jhrogue.md) | http://jhrogue.blogspot.kr/ | 빅데이터, 인공지능 | [![](icons/rss-icon.png)](http://feeds.feedburner.com/blogspot/ASpE) |
 | 박정규 | http://bagjunggyu.blogspot.kr/ | 리눅스 | [![](icons/rss-icon.png)](http://bagjunggyu.blogspot.com/feeds/posts/default?alt=rss) |

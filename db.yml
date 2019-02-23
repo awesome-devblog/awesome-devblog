@@ -2259,6 +2259,12 @@
   description: billboard.js
   linkedin: https://www.linkedin.com/in/jae-sung-park-6a962213/
   slideshare: https://www.slideshare.net/netil
+- name: 박재영
+  blog: https://kujyp.github.io
+  rss: https://kujyp.github.io/rss.xml
+  github: https://github.com/kujyp
+  linkedin: https://www.linkedin.com/in/jaeyoung-park-887b55141/
+  description: ML DevOps, Python, Docker
 - name: 박재현
   blog: http://wisefree.tistory.com/
   rss: http://wisefree.tistory.com/rss
@@ -6090,6 +6096,11 @@
   description: React, Electron, Boostnote
   github: https://github.com/Rokt33r
   twitter: https://twitter.com/rokt33r
+- name: 최준우
+  blog: https://normal93.tistory.com/
+  rss: https://normal93.tistory.com/rss
+  description: Spring, SpringBoot, React 등 웹개발
+  github: https://github.com/junwoochoi
 - name: 최준호
   blog: http://blog.saturnsoft.net/
   rss: http://blog.saturnsoft.net/feeds/posts/default
