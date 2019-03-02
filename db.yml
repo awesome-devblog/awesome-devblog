@@ -1990,6 +1990,10 @@
   blog: http://blog.lael.be/
   rss: http://blog.lael.be/feed
   description: ''
+- name: 문한별
+  blog: https://brunch.co.kr/@uxstar
+  rss: https://brunch.co.kr/rss/@@bxO
+  description: UX
 - name: 민경운
   blog: http://min-it.tistory.com/
   rss: http://min-it.tistory.com/rss
@@ -3200,8 +3204,8 @@
   rss: https://medium.com/feed/@joypinkgom
   description: 분석
 - name: 안도형
-  blog: https://adhrinae.github.io/
-  rss: https://adhrinae.github.io/rss.xml
+  blog: https://rinae.dev/
+  rss: https://rinae.dev/rss.xml
   description: Javascript
   facebook: https://www.facebook.com/adh.rinae
   twitter: https://twitter.com/adhrinae
