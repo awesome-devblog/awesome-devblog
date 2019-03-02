@@ -1429,6 +1429,11 @@
 - name: 김지환
   linkedin: https://www.linkedin.com/in/지환-김-9335a0a9/
   slideshare: https://www.slideshare.net/mastrayer
+- name: 김지환
+  blog: https://jistol.github.io/
+  rss: https://jistol.github.io/atom.xml
+  description: ''
+  github: https://github.com/jistol
 - name: 김진국
   blog: http://forensic-proof.com/
   rss: http://forensic-proof.com/feed
