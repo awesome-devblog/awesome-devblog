@@ -4744,6 +4744,10 @@
   rss: http://lhb0517.tistory.com/rss
   description: Ubuntu, Java
   github: https://github.com/starrybleu
+- name: 이한울
+  blog: https://medium.com/@kkak10
+  rss: https://medium.com/feed/@kkak10
+  description: Javascript
 - name: 이항희
   blog: https://blog.javarouka.me/
   rss: https://blog.javarouka.me/atom.xml
