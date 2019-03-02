@@ -3435,7 +3435,7 @@
 - name: 엄승현
   blog: http://blog.eomdev.com
   rss: http://blog.eomdev.com/feed
-  description: ''
+  description: Java
   github: https://github.com/umsh86
   facebook: https://www.facebook.com/eomdev
 - name: 엄태규
@@ -5604,6 +5604,11 @@
   facebook: https://www.facebook.com/profile.php?id=100015515351267
   youtube: https://www.youtube.com/channel/UCCs6KHf_Zo_iI2jfg_eqeDg
   home: https://seonhyung.netlify.com/
+- name: 조성동
+  blog: https://sdong001.github.io/
+  rss: https://sdong001.github.io/atom.xml
+  description: Android
+  github: https://github.com/sdong001
 - name: 조성문
   blog: http://sungmooncho.com/
   rss: http://sungmooncho.com/feed/
