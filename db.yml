@@ -5824,6 +5824,11 @@
   blog: http://softwaregeeks.org/
   rss: http://softwaregeeks.org/feed/
   description: 오픈소스
+- name: 진성주
+  blog: https://velog.io/@evanjin/
+  description: Nuxt
+  github: https://github.com/seongjoojin
+  facebook: https://www.facebook.com/profile.php?id=100016513931686
 - name: 진수민
   blog: http://blog.naver.com/pistolcaffe
   rss: https://rss.blog.naver.com/pistolcaffe.xml
