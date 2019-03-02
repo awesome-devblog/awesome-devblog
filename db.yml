@@ -505,6 +505,13 @@
   github: https://github.com/AnnYKim
   codepen: https://codepen.io/nykim_
   home: https://nykim.net/
+- name: 김나영
+  blog: https://feel5ny.github.io/
+  rss: https://feel5ny.github.io/feed.xml
+  description: Front-end
+  github: https://github.com/feel5ny
+  facebook: https://www.facebook.com/feel5ny
+  linkedin: https://www.linkedin.com/in/feel5ny/
 - name: 김나은
   blog: https://brunch.co.kr/@appletreehill
   rss: https://brunch.co.kr/rss/@@1d7C
