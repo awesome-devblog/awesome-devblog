@@ -540,8 +540,6 @@
   github: https://github.com/spoqa
 - name: Anyang Artificial Intelligence Meetup
   meetup: https://www.meetup.com/ko-KR/Anyang-Artificial-Intelligence-Meetup/
-- name: Troubleshooting using python in Stackoverflow
-  meetup: https://www.meetup.com/ko-KR/Python-Stackoverflow-Meetup/
 - name: Big Data Seoul
   meetup: https://www.meetup.com/ko-KR/Big-Data-Seoul/
 - name: Seoul AngularJS Meetup
@@ -614,10 +612,6 @@
   meetup: https://www.meetup.com/ko-KR/분당-kaggle-스터디/
 - name: TeachCode
   home: https://teachcoding.me/
-- name: 분당 수내동 Scalar & Spark 스터디 모임
-  meetup: https://www.meetup.com/ko-KR/분당-수내동-Scalar-Spark-Meetup/
-- name: 분당 수내동 AI Study & Coding
-  meetup: https://www.meetup.com/ko-KR/수내동-AI-Study-Meetup/
 - name: 남궁성의 코드초보스터디
   naver: https://cafe.naver.com/javachobostudy
 - name: C언어를 배우자
@@ -1044,3 +1038,5 @@
 - name: 레진 기술 블로그
   blog: https://tech.lezhin.com/
   rss: https://tech.lezhin.com/rss/
+- name: CodeIgniter 한국 사용자 포럼
+  home: https://www.cikorea.net/
