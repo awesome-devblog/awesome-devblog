@@ -2619,6 +2619,12 @@
   description: Java
   linkedin: https://www.linkedin.com/in/baehoyeon/
   github: https://github.com/baehoyeon
+- name: 배휘동
+  blog: https://medium.com/@steadyslow
+  rss: https://medium.com/feed/@steadyslow
+  description: 번역
+  twitter: https://twitter.com/steadyslow
+  facebook: https://www.facebook.com/hwidong.bae
 - name: 백기선
   blog: http://whiteship.me/
   rss: http://whiteship.me/?feed=rss2
