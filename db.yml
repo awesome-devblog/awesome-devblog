@@ -5585,6 +5585,13 @@
   blog: https://brunch.co.kr/@aaa
   rss: https://brunch.co.kr/atom/@@CCX
   description: ''
+- name: 조선형
+  blog: https://seonhyung.netlify.com/posts
+  description: Front-End
+  github: https://github.com/SeonHyungJo
+  facebook: https://www.facebook.com/profile.php?id=100015515351267
+  youtube: https://www.youtube.com/channel/UCCs6KHf_Zo_iI2jfg_eqeDg
+  home: https://seonhyung.netlify.com/
 - name: 조성문
   blog: http://sungmooncho.com/
   rss: http://sungmooncho.com/feed/
