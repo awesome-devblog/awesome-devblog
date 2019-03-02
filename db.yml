@@ -2770,6 +2770,11 @@
   blog: http://simsi6.tistory.com/
   rss: http://simsi6.tistory.com/rss
   description: AWS
+- name: 서재원
+  blog: https://environmentset.github.io/
+  description: Front-end
+  facebook: https://www.facebook.com/ENvironmentSet
+  github: https://github.com/ENvironmentSet
 - name: 서정원
   blog: https://medium.com/@thejungwon
   rss: https://medium.com/feed/@thejungwon
