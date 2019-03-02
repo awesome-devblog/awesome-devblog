@@ -5558,6 +5558,12 @@
   home: http://syua.co.kr/
 - name: 조광환
   slideshare: https://www.slideshare.net/kwnaghwancho
+- name: 조광희
+  blog: https://osmania-dev.github.io/
+  rss: https://osmania-dev.github.io/feed.xml
+  description: Spring, AWS
+  facebook: https://www.facebook.com/osmania0611
+  github: https://github.com/osmania-dev
 - name: 조동현
   blog: https://hudi.kr/
   rss: https://hudi.kr/feed/
