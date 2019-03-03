@@ -3635,6 +3635,13 @@
 - name: 오진성
   blog: https://brunch.co.kr/@intmain
   rss: https://brunch.co.kr/rss/@@vaR
+- name: 오진우
+  blog: https://windtale.net/blog/
+  rss: https://windtale.net/atom.xml
+  linkedin: https://www.linkedin.com/in/jinwoo-oh-38582321/
+  facebook: https://www.facebook.com/windtale
+  twitter: https://twitter.com/renic00
+  home: https://windtale.net/
 - name: 오현석
   profile: people/enshahar.md
   blog: http://www.enshahar.me/
