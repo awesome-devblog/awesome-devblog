@@ -1470,6 +1470,7 @@
   tags: [Static Site Generator]
 - name: React Suite
   home: https://rsuitejs.com/
+  github: https://github.com/rsuite/rsuite
   gitter: https://gitter.im/rsuite/rsuite
   tags: [React, UI Component]
 - name: React-vis

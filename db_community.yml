@@ -526,7 +526,6 @@
 - name: Mozilla Hacks
   blog: http://hacks.mozilla.or.kr
   rss: http://hacks.mozilla.or.kr/feed/
-  youtube: https://www.youtube.com/user/mozhacks
   slack: https://mozkr.slack.com/
 - name: Popit
   blog: http://www.popit.kr
@@ -882,13 +881,13 @@
 - name: ROA Daily
   blog: https://www.roadaily.co.kr/
   facebook: https://www.facebook.com/roadaily/
-  youtube: https://www.youtube.com/user/RoaConsulting
+  youtube: https://www.youtube.com/channel/UCBxI9oWHCS3FAPaL6xLK5oA
 - name: 누나IT
   naver: https://cafe.naver.com/noonacom
   facebook: https://www.facebook.com/nnitit/
   blog: https://comkang4.blog.me/
   rss: https://comkang4.blog.me/rss
-  youtube: https://www.youtube.com/user/haiipad
+  youtube: https://www.youtube.com/channel/UCCfy_jauEe07jowzGkEqo-g
 - name: 컴맹이 해커가 되기까지
   facebook: https://www.facebook.com/ssangchobohacking/
   youtube: https://www.youtube.com/channel/UCntgJwLyQKdxcv7IvMwsHcQ
@@ -1052,7 +1051,7 @@
 - name: 나도코딩
   youtube: https://www.youtube.com/channel/UC7iAOLiALt2rtMVAWWl4pnw
 - name: 당산스튜디오
-  youtube: https://www.youtube.com/user/Leeejongs
+  youtube: https://www.youtube.com/channel/UCO9XtqH5kjfQGn9rotDS0aA
 - name: DACON TV
   youtube: https://www.youtube.com/channel/UCc28kMC4xTZ4Z8T70hxrJFw
 - name: 두들낙서
@@ -1167,28 +1166,28 @@
 - name: 리베하얀
   blog: https://blog.naver.com/rebehayan
   rss: https://rss.blog.naver.com/rebehayan.xml
-  youtube: https://www.youtube.com/user/rebehayan
+  youtube: https://www.youtube.com/channel/UCq7-gOh15ChDcFJ9xN9SYmg
 - name: 소프트캠퍼스
   home: http://www.softcampus.co.kr/
-  youtube: https://www.youtube.com/user/isoftcampus
+  youtube: https://www.youtube.com/channel/UCNSz1OJrw5yB8JGi76UQQ-Q
 - name: 스마트메이커
   home: http://www.smartmaker.com/
   blog: http://blog.smartmaker.com/
   rss: http://blog.smartmaker.com/rss
   facebook: https://www.facebook.com/smartmakerkorea
   naver: https://cafe.naver.com/softmania
-  youtube: https://www.youtube.com/user/mbizmaker1
+  youtube: https://www.youtube.com/channel/UC03x6KCsTmf_vDzSf4Y5miQ
 - name: 웹학교
-  youtube: https://www.youtube.com/user/homepageschool
+  youtube: https://www.youtube.com/channel/UCjTQHbtYgSVCwU-sfVukZpw
 - name: 코딩의 신 아샬
   facebook: https://www.facebook.com/GodOfCoding
   instagram: https://www.instagram.com/ahastudio/
-  youtube: https://www.youtube.com/user/ahastudio1004
+  youtube: https://www.youtube.com/channel/UCLLncfeIYljE0o_yUw7MkcA
 - name: 한국전자통신연구원
   home: https://www.etri.re.kr/
-  youtube: https://www.youtube.com/user/etri9401
+  youtube: https://www.youtube.com/channel/UCkUOpd1eE5elWKukIKYL-9w
 - name: 뉴렉처
-  youtube: https://www.youtube.com/user/newlec1
+  youtube: https://www.youtube.com/channel/UC5-ixpj8DioZqmrasj6Ihpw
 - name: Seoul Wiz
   blog: https://iotcenter.seoul.go.kr/
   rss: https://iotcenter.seoul.go.kr/rss
