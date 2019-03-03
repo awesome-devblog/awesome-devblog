@@ -7,7 +7,7 @@
   facebook: https://www.facebook.com/groups/codingeverybody/
   home: https://opentutorials.org/
   twitter: https://twitter.com/opentutorialss
-  youtube: https://www.youtube.com/user/egoing2
+  youtube: https://www.youtube.com/channel/UCvc8kv-i5fvFTJBFAk6n1SA
 - name: Javawocky
   facebook: https://www.facebook.com/groups/javawocky/
 - name: Korea Ceph User Group
@@ -603,6 +603,7 @@
   meetup: https://www.meetup.com/ko-KR/krazure/
 - name: GDG Korea Android
   meetup: https://www.meetup.com/ko-KR/GDG-Korea-Android/
+  youtube: https://www.youtube.com/channel/UCvLeTAlv3s84BIiYxVCeSag
 - name: GDG Campus Korea
   meetup: https://www.meetup.com/ko-KR/GDG-Campus/
   googleplus: https://plus.google.com/communities/101463090584658665422
@@ -686,7 +687,7 @@
   rss: http://blog.ubuntu-kr.org/feed.xml
   facebook: https://www.facebook.com/groups/ubuntu.ko/
   googleplus: https://plus.google.com/communities/112409570772055358734
-  youtube: https://www.youtube.com/user/UbuntuKorea
+  youtube: https://www.youtube.com/channel/UCid525Nc3OXk6SjLZ28cX5Q
   slack: https://ubuntu-kr.slack.com/
 - name: KLDP
   home: https://kldp.org/
@@ -1040,3 +1041,159 @@
   rss: https://tech.lezhin.com/rss/
 - name: CodeIgniter 한국 사용자 포럼
   home: https://www.cikorea.net/
+- name: 10make 텐메이크
+  youtube: https://www.youtube.com/channel/UCdxKvCYclTejo7FUXXLwZnA
+- name: 개발토끼
+  youtube: https://www.youtube.com/channel/UCuuyTE8bBNYCujb7mzf8H7w
+- name: 길벗IT전문서
+  youtube: https://www.youtube.com/channel/UCx-s23lR2aYRK-pVTWioiag
+- name: 김왼손의 왼손코딩
+  youtube: https://www.youtube.com/channel/UC0h8NzL2vllvp3PjdoYSK4g
+- name: 나도코딩
+  youtube: https://www.youtube.com/channel/UC7iAOLiALt2rtMVAWWl4pnw
+- name: 당산스튜디오
+  youtube: https://www.youtube.com/user/Leeejongs
+- name: DACON TV
+  youtube: https://www.youtube.com/channel/UCc28kMC4xTZ4Z8T70hxrJFw
+- name: 두들낙서
+  youtube: https://www.youtube.com/channel/UCmGcqqKdIKnH_-oHnkoyshg
+- name: 승지니어 Sengineer
+  youtube: https://www.youtube.com/channel/UCW4ixpFivk6eJl8b5bFOLkg
+- name: 빔캠프 VEAMCAMP
+  youtube: https://www.youtube.com/channel/UCvx57s_ZBt5VG4fvlStiq2g
+- name: 빵굽는개발자 빵형
+  youtube: https://www.youtube.com/channel/UCLxPNvxa9D-3UIdocAJUxfQ
+- name: 소스놀이터
+  youtube: https://www.youtube.com/channel/UC86HxrAQ4GS1Iq8LIvUYigQ
+- name: 쉐어드아이티
+  youtube: https://www.youtube.com/channel/UCKmGquVYo0RkOwfAsxJ-WCQ
+- name: 스무디 TV
+  youtube: https://www.youtube.com/channel/UCo-7BoOyUN6SrtCGWaAV81Q
+- name: 아프리카도서관
+  youtube: https://www.youtube.com/channel/UCfm6gDYNrEW2hXCcIrVvj0w
+- name: 얄팍한 코딩사전
+  youtube: https://www.youtube.com/channel/UC2nkWbaJt1KQDi2r2XclzTQ
+- name: 엔지니어대한민국
+  youtube: https://www.youtube.com/channel/UCWMAh9cSkEn8v42YRO90BHA
+- name: 음주코딩
+  youtube: https://www.youtube.com/channel/UCBr01MgWLoZyQGvLk7wzOBw
+- name: 자가발전
+  youtube: https://www.youtube.com/channel/UCtPPlvfv8-SzTLEPds_OWZA
+- name: 잠자리코딩
+  youtube: https://www.youtube.com/channel/UCsqRaG714ADzc_q7RRBwnlg
+- name: 정박사 코딩교실
+  youtube: https://www.youtube.com/channel/UCdEwTppK8StcVwmeTHR2LFg
+- name: 정보박사
+  blog: https://blog.naver.com/infobaksa
+  rss: https://rss.blog.naver.com/infobaksa.xml
+  youtube: https://www.youtube.com/channel/UC_rdzUUaC3me-Cqvxm07P8A
+- name: 뚜벅개발TV
+  youtube: https://www.youtube.com/channel/UCl6ss_VCMBOSCCrVjzW2r0Q
+- name: 캘리탐험대
+  youtube: https://www.youtube.com/channel/UCZX4ss_cfINJANJdNMgxjvg
+- name: 코드스쿼드
+  youtube: https://www.youtube.com/channel/UC8OU76dfIn8jvWmXt8roMZg
+- name: 코드종
+  home: https://class.codejong.kr/
+  youtube: https://www.youtube.com/channel/UC9hWQRe4QrUivXN3VO2iuMA
+- name: 코딩따라잡기
+  youtube: https://www.youtube.com/channel/UCcxX1sFmWbi09inGZAyJrQw
+- name: 팡요랩 Pang-Yo Lab
+  youtube: https://www.youtube.com/channel/UCwkGvF7xKz2E0Lv-fZ9wv2g
+- name: 한빛미디어
+  home: http://www.hanbit.co.kr/
+  facebook: https://www.facebook.com/hanbitmedia
+  youtube: https://www.youtube.com/channel/UC31Gc42xzclOOi5Gp1xIpZw
+- name: 화이트해커
+  youtube: https://www.youtube.com/channel/UC3BZupqBa9CZiNSc0x3lJlg
+- name: TV플루토
+  youtube: https://www.youtube.com/channel/UC8JVpZGSvoIwO6usKUYItHA
+- name: Babo_Coding
+  youtube: https://www.youtube.com/channel/UCcMW283tl-0u9ZZSwOvkupQ
+- name: 노마드 프로그래머 Nomad Programmer
+  blog: https://theprogrammertells.blogspot.com/
+  rss: https://theprogrammertells.blogspot.com/feeds/posts/default?alt=rss
+  youtube: https://www.youtube.com/channel/UCZ73ED3NQQB-FRE14uXU_3A
+- name: 청소의달인
+  youtube: https://www.youtube.com/channel/UCtcVxHa7CaG8xkxR7gMKqSA
+- name: deviantCJ
+  blog: https://deviantcj.tistory.com/
+  rss: https://deviantcj.tistory.com/rss
+  youtube: https://www.youtube.com/channel/UC7pxRIgkEUGuJvItZ_K22KQ
+- name: FEConf Korea
+  youtube: https://www.youtube.com/channel/UCWEzfYIpFBIG5jh6laXC6hA
+- name: GDG KOREA
+  youtube: https://www.youtube.com/channel/UCu3QGcALTC0FuXMma_dpK0A
+- name: GM Yankee
+  youtube: https://www.youtube.com/channel/UC9RsPwY9QfPDGD-IMEwLn3Q
+- name: 하울의 코딩 채널
+  youtube: https://www.youtube.com/channel/UCScI4bsr-RaGdYSC2QAHWug
+  facebook: https://www.facebook.com/HowlCoding/
+  naver: https://cafe.naver.com/howlcode
+- name: LifeSoft
+  youtube: https://www.youtube.com/channel/UCqRTjWqD-ZWHj0ZoPSKVWBw
+- name: OpenStack Korea Group
+  youtube: https://www.youtube.com/channel/UCVQ1ILIOsGH-YX9FkEmkjRQ
+- name: Programmers
+  youtube: https://www.youtube.com/channel/UCFPWMdvwirwSov3dD3UWAhA
+- name: ProjectRin
+  youtube: https://www.youtube.com/channel/UCNirndN11q92xBgNyA9uuaQ
+- name: SKplanet Tacademy
+  home: https://tacademy.skplanet.com/
+  facebook: https://www.facebook.com/skptacademy/
+  youtube: https://www.youtube.com/channel/UCtV98yyffjUORQRGTuLHomw
+- name: Smile Han
+  youtube: https://www.youtube.com/channel/UCM8wseo6DkA-D7yGlCrcrwA
+- name: SnowL TV
+  blog: https://studyc.tistory.com/
+  rss: https://studyc.tistory.com/rss
+  youtube: https://www.youtube.com/channel/UCQb8-qm-W9f4Wvf6r_kEf0A
+- name: Software Tool Time
+  youtube: https://www.youtube.com/channel/UCora73FsjH9ZuIjCvJ0J0iA
+- name: SW Evangelist
+  youtube: https://www.youtube.com/channel/UC9ZgpkQe_qLN1_DMCL5YFzA
+- name: TeamLab
+  home: http://theteamlab.io/
+  facebook: https://www.facebook.com/GachonCS50
+  github: https://github.com/TeamLab
+  youtube: https://www.youtube.com/channel/UC_kvhNYJtP1-Ap67byTbfuw
+- name: withDaddy코딩아빠
+  blog: https://blog.naver.com/codingdaddy
+  rss: https://rss.blog.naver.com/codingdaddy.xml
+  facebook: https://www.facebook.com/codingdaddy
+  youtube: https://www.youtube.com/channel/UCYBjeXCufQgqZuVDl0_lncA
+- name: K-MOOC
+  home: http://www.kmooc.kr/
+- name: 리베하얀
+  blog: https://blog.naver.com/rebehayan
+  rss: https://rss.blog.naver.com/rebehayan.xml
+  youtube: https://www.youtube.com/user/rebehayan
+- name: 소프트캠퍼스
+  home: http://www.softcampus.co.kr/
+  youtube: https://www.youtube.com/user/isoftcampus
+- name: 스마트메이커
+  home: http://www.smartmaker.com/
+  blog: http://blog.smartmaker.com/
+  rss: http://blog.smartmaker.com/rss
+  facebook: https://www.facebook.com/smartmakerkorea
+  naver: https://cafe.naver.com/softmania
+  youtube: https://www.youtube.com/user/mbizmaker1
+- name: 웹학교
+  youtube: https://www.youtube.com/user/homepageschool
+- name: 코딩의 신 아샬
+  facebook: https://www.facebook.com/GodOfCoding
+  instagram: https://www.instagram.com/ahastudio/
+  youtube: https://www.youtube.com/user/ahastudio1004
+- name: 한국전자통신연구원
+  home: https://www.etri.re.kr/
+  youtube: https://www.youtube.com/user/etri9401
+- name: 뉴렉처
+  youtube: https://www.youtube.com/user/newlec1
+- name: Seoul Wiz
+  blog: https://iotcenter.seoul.go.kr/
+  rss: https://iotcenter.seoul.go.kr/rss
+  youtube: https://www.youtube.com/channel/UCysbIC7UOmikXX8IB7QZMDA
+- name: 스튜디오밀 STUDIOMEAL
+  home: https://studiomeal.com/
+  facebook: https://www.facebook.com/1mincoding
+  youtube: https://www.youtube.com/channel/UC_s1FC7s5YVwDImzv-WG93Q
