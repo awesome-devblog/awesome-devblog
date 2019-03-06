@@ -17,11 +17,15 @@
             <outline title="테크니들" xmlUrl="http://techneedle.com/feed"/>
             <outline title="테크수다" xmlUrl="http://www.techsuda.com/feed"/>
             <outline title="App Magazine" xmlUrl="http://www.withpress.co.kr/feed"/>
+            <outline title="IT 뉴스" xmlUrl="http://www.itnews.or.kr/?feed=rss2"/>
             <outline title="IT동아" xmlUrl="http://it.donga.com/feeds/rss/recent/"/>
             <outline title="IT월드" xmlUrl="http://www.itworld.co.kr/rss/feed"/>
             <outline title="ITDaily" xmlUrl="http://www.itdaily.kr/rss/allArticle.xml"/>
             <outline title="Outstanding" xmlUrl="http://outstanding.kr/feed/"/>
             <outline title="ROA Daily" xmlUrl="https://www.roadaily.co.kr/feed"/>
+            <outline title="ZDNet Korea" xmlUrl="http://feeds.feedburner.com/zdkorea?format=xml"/>
+            <outline title="Vertical Platform" xmlUrl="https://verticalplatform.kr/feed"/>
+            <outline title="CIO Korea" xmlUrl="http://www.ciokorea.com/rss/feed/index.php"/>
         </outline>
 
         <outline title="overseas" text="해외 개발자 블로그 모음">
@@ -39,6 +43,7 @@
             <outline title="Go Blog" xmlUrl="http://blog.golang.org/feeds/posts/default"/>
             <outline title="Ghost Dev" xmlUrl="http://dev.ghost.org/rss/"/>
             <outline title="Hacker Noon" xmlUrl="https://hackernoon.com/feed"/>
+            <outline title="InfoQ" xmlUrl="https://feed.infoq.com/" />
             <outline title="Instagram Engineering" xmlUrl="https://engineering.instagram.com/"/>
             <outline title="Uber Engineering Blog" xmlUrl="https://eng.uber.com/feed/"/>
         </outline>
@@ -90,6 +95,7 @@
             <outline title="나도코딩" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC7iAOLiALt2rtMVAWWl4pnw"/>
             <outline title="나동빈" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UChflhu32f5EUHlY7_SetNWw"/>
             <outline title="당산스튜디오" xmlUrl="https://www.youtube.com/feeds/videos.xml?user=Leeejongs"/>
+            <outline title="데이콘관리자" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCc28kMC4xTZ4Z8T70hxrJFw"/>
             <outline title="두들낙서" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCmGcqqKdIKnH_-oHnkoyshg"/>
             <outline title="리베하얀코딩카페" xmlUrl="https://www.youtube.com/feeds/videos.xml?user=rebehayan"/>
             <outline title="면접코딩" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCW4ixpFivk6eJl8b5bFOLkg"/>
@@ -105,12 +111,14 @@
             <outline title="스무디 TV" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCo-7BoOyUN6SrtCGWaAV81Q"/>
             <outline title="신동원" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCPPq9N3rxMKhSLm9PcSpNVw"/>
             <outline title="아프리카도서관" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCfm6gDYNrEW2hXCcIrVvj0w"/>
+            <outline title="얄팍한 코딩사전" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC2nkWbaJt1KQDi2r2XclzTQ"/>
             <outline title="양주종의 코딩스쿨" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCweQkpPRbEzUQpbtq8PtqPw"/>
             <outline title="엔지니어대한민국" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCWMAh9cSkEn8v42YRO90BHA"/>
             <outline title="오늘코드" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCLR3sD0KB_dWpvcsrLP0aUg"/>
             <outline title="오준석" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCz9n4yRsYYryRjrSCK0-YWA"/>
             <outline title="웹학교" xmlUrl="https://www.youtube.com/feeds/videos.xml?user=homepageschool"/>
             <outline title="윤인성" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCJM7NRGBP9l5xOXU4XEU6UA"/>
+            <outline title="음주코딩" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCBr01MgWLoZyQGvLk7wzOBw"/>
             <outline title="이일민" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCcqH2RV1-9ebRBhmN_uaSNg"/>
             <outline title="이찬우" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCRyIQSBvSybbaNY_JCyg_vA"/>
             <outline title="임호진" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UChcuZRHTNsFGheGEFWdTN5g"/>
@@ -126,9 +134,11 @@
             <outline title="캘리탐험대" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCZX4ss_cfINJANJdNMgxjvg"/>
             <outline title="케빈 TV" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCsOJxLxzQl8IbwGS-Cp5t8w"/>
             <outline title="코드스쿼드" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC8OU76dfIn8jvWmXt8roMZg"/>
+            <outline title="코드종" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC9hWQRe4QrUivXN3VO2iuMA"/>
             <outline title="코딩의 신 아샬" xmlUrl="https://www.youtube.com/feeds/videos.xml?user=ahastudio1004"/>
             <outline title="코딩따라잡기" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCcxX1sFmWbi09inGZAyJrQw"/>
             <outline title="코딩클럽 Coding Clubs" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCUr3XU8t9UrfGfkcP1mG8sA"/>
+            <outline title="팡요랩 Pang-Yo Lab" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCwkGvF7xKz2E0Lv-fZ9wv2g"/>
             <outline title="포프TV" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC63J0Q5huHSlbNT3KxvAaHQ"/>
             <outline title="프리렉" xmlUrl="https://www.youtube.com/feeds/videos.xml?user=FREELECKOR"/>
             <outline title="한국전자통신연구원" xmlUrl="https://www.youtube.com/feeds/videos.xml?user=etri9401"/>
@@ -136,6 +146,7 @@
             <outline title="허광남" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCHbXBo1fQAg7j0D7HKKYHJg"/>
             <outline title="허민석" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCxP77kNgVfiiG6CXZ5WMuAQ"/>
             <outline title="홍정모" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCg6IlhycdYiK_nWB3spjIqA"/>
+            <outline title="화이트해커" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC3BZupqBa9CZiNSc0x3lJlg"/>
             <outline title="Ubuntu Korea" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCid525Nc3OXk6SjLZ28cX5Q"/>
             <outline title="TV플루토" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC8JVpZGSvoIwO6usKUYItHA"/>
             <outline title="Babo_Coding" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCcMW283tl-0u9ZZSwOvkupQ"/>
@@ -143,6 +154,7 @@
             <outline title="creApplecom" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCZ73ED3NQQB-FRE14uXU_3A"/>
             <outline title="Dahan Lee" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCtcVxHa7CaG8xkxR7gMKqSA"/>
             <outline title="deviantCJ" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC7pxRIgkEUGuJvItZ_K22KQ"/>
+            <outline title="FEConf Korea" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCWEzfYIpFBIG5jh6laXC6hA"/>
             <outline title="GDG Korea" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCu3QGcALTC0FuXMma_dpK0A"/>
             <outline title="GDG Korea Android" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCvLeTAlv3s84BIiYxVCeSag"/>
             <outline title="GM Yankee" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC9RsPwY9QfPDGD-IMEwLn3Q"/>
@@ -151,6 +163,7 @@
             <outline title="Ho-sung Choi" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCdGTtaI-ERLjzZNLuBj3X6A"/>
             <outline title="Information and Intelligence" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCsTLxzflxRK2pbP99MIjQSA"/>
             <outline title="LifeSoft" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCqRTjWqD-ZWHj0ZoPSKVWBw"/>
+            <outline title="memi dev" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCNbp-JsE2BUZMwPaC6J8ApQ"/>
             <outline title="NAVER D2" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCNrehnUq7Il-J7HQxrzp7CA"/>
             <outline title="newlec1" xmlUrl="https://www.youtube.com/feeds/videos.xml?user=newlec1"/>
             <outline title="OpenStack Korea Group" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCVQ1ILIOsGH-YX9FkEmkjRQ"/>
@@ -169,12 +182,14 @@
             <outline title="Terry TaeWoong Um" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCDku86cssbM288VJtl-GQKg"/>
             <outline title="TeamLab" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC_kvhNYJtP1-Ap67byTbfuw"/>
             <outline title="withDaddy코딩아빠" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCYBjeXCufQgqZuVDl0_lncA"/>
+            <outline title="You Han Lee" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC--LgKcZVgffjsxudoXg5pQ"/>
         </outline>
 
         <outline title="youtube2" text="해외 방송 모음">
             <outline title="Assaf Muller" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC2hevos8HGSSqrv3IiHN3fg"/>
             <outline title="CNCF [Cloud Native Computing Foundation]" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCvqbFHwN-nwalWPjPUKpvTA"/>
             <outline title="Code Explained" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC8n8ftV94ZU_DJLOLtrpORA"/>
+            <outline title="Code Realm" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCUDLFXXKG6zSA1d746rbzLQ"/>
             <outline title="codetap" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCr9aPqQ9u4RFLG46FcYP4iw"/>
             <outline title="Coding Tech" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCtxCXg-UvSnTKPOzLH4wJaQ"/>
             <outline title="Confreaks" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCWnPjmqvljcafA0z2U1fwKQ"/>
