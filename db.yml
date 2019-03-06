@@ -1857,6 +1857,7 @@
   appstore: https://itunes.apple.com/kr/developer/soojin-ro/id921116369
 - name: 노아론
   blog: https://blog.aaronroh.org
+  rss: https://blog.aaronroh.org/rss
   description: '프레임워크 / 오픈소스'
   github: https://github.com/roharon
   facebook: https://www.facebook.com/roharon
