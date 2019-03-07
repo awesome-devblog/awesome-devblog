@@ -5386,6 +5386,12 @@
   rss: https://rhostem.github.io/rss.xml
   description: Front-end
   github: https://github.com/rhostem
+- name: 정성수
+  blog: https://holywater-jeong.github.io/
+  rss: https://holywater-jeong.github.io/feed.xml
+  description: Front-end
+  github: https://github.com/holywater-jeong
+  facebook: https://www.facebook.com/holywaterjeong
 - name: 정성엽
   blog: https://ubitoffee.github.io/blog/
   rss: https://ubitoffee.github.io/atom.xml
