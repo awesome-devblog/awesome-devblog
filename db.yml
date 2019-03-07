@@ -2267,6 +2267,10 @@
 - name: 박용서
   blog: https://gs.saro.me
   description: ''
+- name: 박원영
+  blog: https://blog.one0.me/
+  rss: https://blog.one0.me/feed.xml
+  description: Back-end
 - name: 박윤곤
   github: https://github.com/rubysoho07
   linkedin: https://www.linkedin.com/in/rubysoho07/
