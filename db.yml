@@ -6008,6 +6008,11 @@
   blog: http://kesakiyo.tistory.com/
   rss: http://kesakiyo.tistory.com/rss
   description: 알고리즘
+- name: 천세륜
+  blog: https://seryuncheon.github.io/
+  rss: https://seryuncheon.github.io//feed.xml
+  description: ''
+  github: https://github.com/SeryunCheon
 - name: 천익훈
   blog: http://cloudscape.pe.kr/
   rss: http://cloudscape.pe.kr/feed/
