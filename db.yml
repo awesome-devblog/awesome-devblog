@@ -4579,6 +4579,10 @@
   blog: http://www.unity3dstudy.com/
   rss: http://www.unity3dstudy.com/feed
   description: Unity
+- name: 이재호
+  blog: https://medium.com/@mini.chicken.dev
+  rss: https://medium.com/feed/@mini.chicken.dev
+  description: Kotlin
 - name: 이재홍
   blog: http://pyrasis.com/
   rss: http://feeds.feedburner.com/pyrasis?format=xml
