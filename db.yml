@@ -2067,6 +2067,11 @@
   facebook: https://www.facebook.com/EastSocial
   twitter: https://twitter.com/EastSocial
   instagram: https://www.instagram.com/baksimgorkii/
+- name: 박근희
+  blog: https://humbledude.github.io/blog/
+  rss: https://humbledude.github.io/blog/feed.xml
+  description: Data Science
+  github: https://github.com/humbledude
 - name: 박기상
   blog: https://medium.com/@kpak
   rss: https://medium.com/feed/@kpak
