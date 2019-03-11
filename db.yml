@@ -2954,6 +2954,11 @@
   github: https://github.com/sculove
   facebook: https://www.facebook.com/chanuk.son
   youtube: https://www.youtube.com/channel/UCYkXdHSCLO6iCh0GiKtoxWQ
+- name: 손창원
+  blog: http://thswave.github.io/
+  rss: http://thswave.github.io/feed.xml
+  description: Java
+  github: https://github.com/thswave
 - name: 송기원
   blog: http://blog.naver.com/agilesoft
   rss: https://rss.blog.naver.com/agilesoft.xml
