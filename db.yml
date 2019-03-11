@@ -987,6 +987,11 @@
   blog: https://medium.com/@ksjksj0122
   rss: https://medium.com/feed/@ksjksj0122
   description: 블록체인
+- name: 김아름
+  blog: https://lumiloves.github.io/
+  rss: https://lumiloves.github.io/feed.xml
+  description: Front-end
+  github: https://github.com/lumiloves
 - name: 김영균
   blog: https://chancethecoder.tistory.com
   rss: https://chancethecoder.tistory.com/rss
