@@ -3719,6 +3719,10 @@
   blog: https://blog.wonhada.com/
   rss: https://blog.wonhada.com/?feed=rss2
   description: 코로나
+- name: 원동호
+  blog: https://wondongho.tistory.com/
+  rss: https://wondongho.tistory.com/rss
+  description: Back-end
 - name: 원종석
   blog: https://tedwon.com/
   description: Data Processing
