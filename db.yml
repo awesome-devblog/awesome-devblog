@@ -794,6 +794,8 @@
   blog: http://fishpoint.tistory.com/
   rss: http://fishpoint.tistory.com/rss
   description: 라즈베리 파이
+  facebook: https://www.facebook.com/kimbongzo
+  instagram: https://www.instagram.com/kimbongzo/
 - name: 김봉현
   blog: https://harfangk.github.io/
   rss: https://harfangk.github.io/feed.xml
@@ -2314,13 +2316,14 @@
   linkedin: https://www.linkedin.com/in/ryan-park-42770a30/
   slideshare: https://www.slideshare.net/parkpd
 - name: 박재성(자바지기)
-  blog: http://javajigi.net/
+  blog: https://brunch.co.kr/@javajigi
+  rss: https://brunch.co.kr/rss/@@5tdm
   description: Java
   github: https://github.com/javajigi
   linkedin: https://www.linkedin.com/in/jaesung-park-8627b120/
   facebook: https://www.facebook.com/javajigi
   youtube: https://www.youtube.com/channel/UCGmYJSYFM19VgwEQJsY12Dg
-  home: https://www.slipp.net/
+  home: http://javajigi.net/
 - name: 박재성
   blog: https://medium.com/@jspark141515
 - name: 박재성
@@ -2946,6 +2949,10 @@
   facebook: https://www.facebook.com/profile.php?id=100007905910861
   github: https://github.com/EJSohn
   speakerdeck: https://speakerdeck.com/ejsohn
+- name: 손지민
+  blog: https://medium.com/@bryantjiminson
+  rss: https://medium.com/feed/@bryantjiminson
+  description: ''
 - name: 손찬욱
   blog: https://sculove.github.io/blog/
   rss: https://sculove.github.io/blog/rss2.xml
