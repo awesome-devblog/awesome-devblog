@@ -1759,7 +1759,6 @@
   github: https://github.com/CoderK
 - name: 김희서
   blog: https://blog.naver.com/khy960117
-  rss: https://rss.blog.naver.com/khy960117.xml
   description: ''
   facebook: https://www.facebook.com/gmltjdlek
 - name: 김희준
@@ -2952,7 +2951,8 @@
 - name: 손지민
   blog: https://medium.com/@bryantjiminson
   rss: https://medium.com/feed/@bryantjiminson
-  description: ''
+  description: KAITA
+  facebook: https://www.facebook.com/lovepool7
 - name: 손찬욱
   blog: https://sculove.github.io/blog/
   rss: https://sculove.github.io/blog/rss2.xml

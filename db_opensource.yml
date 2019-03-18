@@ -626,6 +626,10 @@
 - name: graphqurl
   github: https://github.com/hasura/graphqurl
   tags: [CLI]
+- name: GridDB
+  home: https://griddb.net/
+  github: https://github.com/griddb/griddb_nosql
+  tags: [Database]
 - name: Grunt
   home: https://gruntjs.com/
   github: https://github.com/gruntjs/grunt
@@ -939,6 +943,10 @@
   github: https://github.com/LightTable/LightTable
   forum: https://groups.google.com/forum/#!forum/light-table-discussion
   tags: [Text Editor]
+- name: linaria
+  home: https://linaria.now.sh/
+  github: https://github.com/callstack/linaria
+  tags: [CSS]
 - name: Linkerd
   home: https://linkerd.io/
   github: https://github.com/linkerd/linkerd
@@ -1137,6 +1145,9 @@
   home: https://www.nameko.io/
   github: https://github.com/nameko/nameko
   tags: [Python, Back-end Framework]
+- name: NeDB
+  github: https://github.com/louischatriot/nedb
+  tags: [Database]
 - name: Neo4j
   home: https://neo4j.com/
   github: https://github.com/neo4j/neo4j
@@ -1729,6 +1740,10 @@
   stackoverflow: https://stackoverflow.com/questions/tagged/three.js
   awesome: https://github.com/fritx/awesome-threejs
   tags: [3D Graphics]
+- name: TingoDB
+  home: http://www.tingodb.com/
+  github: https://github.com/sergeyksv/tingodb
+  tags: [Database]
 - name: Tink
   github: https://github.com/google/tink
   tags: [Security]
@@ -1847,6 +1862,10 @@
   github: https://github.com/vibora-io/vibora
   pypi: https://pypi.org/project/vibora/
   tags: [Python, Web Framework]
+- name: Victory
+  home: https://formidable.com/open-source/victory/
+  github: https://github.com/FormidableLabs/victory
+  tags: [Javascript, Chart]
 - name: Vitess
   home: https://vitess.io/
   github: https://github.com/vitessio/vitess
