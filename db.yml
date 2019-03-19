@@ -1043,6 +1043,7 @@
   blog: http://haviyj.tistory.com/
   rss: http://haviyj.tistory.com/rss
   description: Spring Boot
+  github: https://github.com/young891221
 - name: 김영전
   blog: https://qpfmtlcp.github.io
   rss: https://qpfmtlcp.github.io/feed
@@ -5014,6 +5015,13 @@
   blog: https://medium.com/@jongdae.lim
   rss: https://medium.com/feed/@jongdae.lim
   description: Java, AI
+- name: 임중현
+  blog: https://rim0621.tistory.com/
+  rss: https://rim0621.tistory.com/rss
+  description: Algorithm
+  github: https://github.com/rim0621
+  linkedin: https://www.linkedin.com/in/rim0621/
+  home: https://rim0621.github.io/
 - name: 임지훈
   blog: http://www.jimmyrim.com/
   rss: http://www.jimmyrim.com/rss
