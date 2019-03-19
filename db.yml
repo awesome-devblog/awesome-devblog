@@ -297,10 +297,6 @@
   blog: http://kwongyo.tistory.com/
   rss: http://kwongyo.tistory.com/rss
   description: ''
-- name: 권남
-  blog: http://kwon37xi.egloos.com/
-  rss: http://rss.egloos.com/blog/kwon37xi
-  description: Java
 - name: 권동준
   blog: https://mayajuni.github.io/
   rss: https://mayajuni.github.io/feed.xml
@@ -2930,6 +2926,12 @@
   linkedin: https://www.linkedin.com/in/scinix/
   twitter: https://twitter.com/scinix
   stackoverflow: https://stackoverflow.com/users/1111002/sio4
+- name: 손권남
+  blog: http://kwon37xi.egloos.com/
+  rss: http://rss.egloos.com/blog/kwon37xi
+  description: Java
+  twitter: https://twitter.com/kwon37xi
+  github: https://github.com/kwon37xi
 - name: 손동호
   linkedin: https://www.linkedin.com/in/dong-ho-son-2a441312a/
   slideshare: https://www.slideshare.net/DongHoSon1
