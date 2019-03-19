@@ -36,6 +36,10 @@
   blog: https://brendaneich.com/
   rss: http://brendaneich.com/feed/
   description: Javascript 창시자
+- name: Brandon Morelli
+  blog: https://medium.com/@bmorelli25
+  rss: https://medium.com/feed/@bmorelli25
+  description: Creator of @codeburstio
 - name: Chad Fowler
   blog: http://chadfowler.com/
   rss: http://www.chadfowler.com/?rss
@@ -112,9 +116,20 @@
   blog: http://meyerweb.com/
   rss: http://meyerweb.com/eric/thoughts/rss2/summary
   description: CSS
+- name: Eric Bidelman
+  blog: https://medium.com/@ebidel
+  rss: https://medium.com/feed/@ebidel
+  description: Front-end
+  twitter: https://twitter.com/ebidel
+  github: https://github.com/ebidel
+  home: https://ericbidelman.com/
 - name: Eric S. Raymond
   blog: http://www.catb.org/~esr/
   description: The Cathedral and the Bazaar 저자
+- name: Eric Simons
+  blog: https://medium.com/@ericsimons
+  rss: https://medium.com/feed/@ericsimons
+  description: StackBlitz 창업자
 - name: Erik Bernhardsson
   blog: https://erikbern.com/
   rss: http://erikbern.com/?feed=rss2
@@ -133,6 +148,10 @@
   blog: http://galsagie.github.io/
   rss: http://galsagie.github.io/feed.xml
   description: OpenStack Networking
+- name: Gregg Pollack
+  blog: https://medium.com/@greggpollack
+  rss: https://medium.com/feed/@greggpollack
+  description: Editor of Vue Mastery
 - name: Hadley Wickham
   blog: http://hadley.nz/
   description: R studio
@@ -225,6 +244,14 @@
   rss: https://medium.com/feed/@marcisbee
   twitter: https://twitter.com/marcisbee
   description: Radi.js 제작자
+- name: Marcin Moskala
+  blog: https://medium.com/@marcinmoskala
+  rss: https://medium.com/feed/@marcinmoskala
+  description: Co-author of Android Development with Kotlin
+  twitter: https://twitter.com/marcinmoskala
+  facebook: https://www.facebook.com/mmoskala
+  github: https://github.com/MarcinMoskala
+  home: http://marcinmoskala.com/
 - name: Marius Schulz
   blog: https://blog.mariusschulz.com/
   rss: http://feeds.feedburner.com/mariusschulz
@@ -274,6 +301,11 @@
   blog: https://aerotwist.com/
   rss: http://aerotwist.com/blog/feed/
   description: Google Web Developer
+- name: Per Harald Borgen
+  blog: https://medium.com/@perborgen
+  rss: https://medium.com/feed/@perborgen
+  description: Co-founder of Scrimba
+  twitter: https://twitter.com/perborgen
 - name: Prateeksha Singh
   blog: https://medium.com/@pratu16x7
   description: Open Source Developer at Frappé
