@@ -25,6 +25,10 @@
   blog: https://brunch.co.kr/@dongkang
   rss: https://brunch.co.kr/rss/@@1fY0
   description: 인디 개발
+- name: 강동희
+  blog: https://medium.com/@kanglpmg
+  description: iOS, RxSwift
+  github: https://github.com/k-lpmg
 - name: 강명서
   blog: https://blog.leop0ld.org/
   rss: https://blog.leop0ld.org/feed.xml

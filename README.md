@@ -62,6 +62,7 @@
 | 강관우 | https://brunch.co.kr/@kd4 | Java | [![](icons/rss-icon.png)](https://brunch.co.kr/rss/@@xTa) |
 | [강대명](people/charsyam.md) | https://charsyam.wordpress.com/ | 서버 사이드 | [![](icons/rss-icon.png)](http://charsyam.wordpress.com/feed/)[![](icons/slideshare-icon.png)](https://www.slideshare.net/charsyam2)[![](icons/twitter-icon.png)](https://twitter.com/charsyam)[![](icons/github-icon.png)](https://github.com/charsyam)[![](icons/linkedin-icon.png)](https://www.linkedin.com/in/daemyung-kang-7538a731/) |
 | 강동혁 | https://brunch.co.kr/@dongkang | 인디 개발 | [![](icons/rss-icon.png)](https://brunch.co.kr/rss/@@1fY0) |
+| 강동희 | https://medium.com/@kanglpmg | iOS, RxSwift | [![](icons/github-icon.png)](https://github.com/k-lpmg) |
 | 강명훈 | http://kangmyounghun.blogspot.kr/ | 보안 | [![](icons/rss-icon.png)](http://kangmyounghun.blogspot.com/feeds/posts/default) |
 | 강미경 | http://minieetea.com/ | 기획 | [![](icons/rss-icon.png)](http://minieetea.com/feed)[![](icons/facebook-icon.png)](https://www.facebook.com/minieetea)[![](icons/twitter-icon.png)](https://twitter.com/minieetea)[![](icons/github-icon.png)](https://github.com/minieetea) |
 | 강병수 | https://01010011.blog/ | DevOps | [![](icons/rss-icon.png)](https://01010011.blog/feed/) |
