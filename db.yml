@@ -5924,6 +5924,12 @@
   blog: https://dev.zzoman.com/
   rss: https://dev.zzoman.com/atom.xml
   description: Front-end
+- name: 조현제
+  blog: http://hyunje.com/
+  rss: http://hyunje.com/feed.xml
+  description: Data Analysis
+  facebook: https://www.facebook.com/Retriever.Jo
+  github: https://github.com/retrieverJo
 - name: 조현종
   blog: http://hangumkj.blogspot.kr/
   rss: http://hangumkj.blogspot.com/feeds/posts/default
