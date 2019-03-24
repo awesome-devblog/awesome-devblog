@@ -2866,6 +2866,10 @@
   linkedin: https://www.linkedin.com/in/daniel-juyung-seo-845a9816/
   youtube: https://www.youtube.com/channel/UC_Cut9ycWzXfJnxiYoYqi_A
   stackoverflow: https://stackoverflow.com/users/3458104/seoz
+- name: 서준수
+  blog: https://brunch.co.kr/@mystoryg
+  rss: https://brunch.co.kr/rss/@@2Kn8
+  description: Kotlin
 - name: 서준용
   blog: https://brunch.co.kr/@zechery
   rss: https://brunch.co.kr/atom/@@SIu
@@ -6347,9 +6351,11 @@
   description: Spring, SpringBoot, React 등 웹개발
   github: https://github.com/junwoochoi
 - name: 최준호
-  blog: http://blog.saturnsoft.net/
-  rss: http://blog.saturnsoft.net/feeds/posts/default
+  blog: https://www.saturnsoft.net/
+  rss: http://feeds.feedburner.com/saturnsoft
   description: ''
+  github: https://github.com/junhochoi
+  twitter: https://twitter.com/junhochoi
 - name: 최진영
   blog: https://wpu.kr/
   rss: http://wpu.kr/feed/
