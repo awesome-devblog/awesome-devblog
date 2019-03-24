@@ -138,8 +138,9 @@
   blog: https://brunch.co.kr/@cloud09
   rss: https://brunch.co.kr/rss/@@m6q
   description: 데이터 분석
-  linkedin: https://www.linkedin.com/in/cloud09/
+  linkedin: https://www.linkedin.com/in/dearcloud09/
   github: https://github.com/dearcloud09
+  twitter: https://twitter.com/dearcloud09
 - name: 강한용
   blog: http://flowvalue.tistory.com/
   rss: http://flowvalue.tistory.com/rss
@@ -3818,7 +3819,6 @@
   slideshare: https://www.slideshare.net/dgtman
   facebook: https://www.facebook.com/megayuchi
   linkedin: https://www.linkedin.com/in/megayuchi/
-  youtube: https://www.youtube.com/channel/UCQfUz2jydyLfQelUUQ-5S1A
   twitter: https://twitter.com/dgtman
 - name: 유예본
   blog: https://yaboong.github.io/
@@ -6037,6 +6037,11 @@
   rss: https://medium.com/feed/@HarrisonJung
   description: 꿈많은청년들
   facebook: https://www.facebook.com/calmlake79
+- name: 정민석
+  blog: https://dadadamarine.github.io/
+  rss: https://dadadamarine.github.io/feed.xml
+  description: Web
+  github: https://github.com/dadadamarine
 - name: 지용호
   blog: http://jidolstar.tistory.com/
   rss: http://jidolstar.tistory.com/rss
