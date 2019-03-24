@@ -1203,3 +1203,16 @@
   pinterest: https://www.pinterest.co.kr/softboxcoding/
 - name: SLiPP
   home: https://www.slipp.net/
+- name: 한국 커널 개발자 모임
+  home: https://kernel-dev-ko.github.io/
+- name: 피플펀드 기술 블로그
+  blog: https://tech.peoplefund.co.kr/
+  rss: https://tech.peoplefund.co.kr/feed.xml
+- name: 데브스터디
+  home: http://devstudy.kr/
+- name: C++ Korea
+  home: https://www.cppkorea.org/
+  facebook: https://www.facebook.com/groups/cppkorea/
+  github: https://github.com/cppkorea
+- name: 위데이터랩
+  youtube: https://www.youtube.com/channel/UCi9sajR43D21JSkulP6crfQ

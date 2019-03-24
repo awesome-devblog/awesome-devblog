@@ -971,6 +971,13 @@
   linkedin: https://www.linkedin.com/company/the-linux-foundation/
   awesome: https://github.com/aleksandar-todorovic/awesome-linux
   tags: [OS Kernel]
+- name: Light 4J
+  home: https://doc.networknt.com/
+  github: https://github.com/networknt/light-4j
+  gitter: https://gitter.im/networknt/light-4j
+  stackoverflow: https://stackoverflow.com/questions/tagged/light-4j
+  reddit: https://www.reddit.com/r/lightapi/
+  tags: [Java, Back-end Framework]
 - name: Lombok
   home: https://projectlombok.org/
   github: https://github.com/rzwitserloot/lombok
@@ -1101,6 +1108,12 @@
   github: https://github.com/mochajs/mocha
   gitter: https://gitter.im/mochajs/mocha
   tags: [Javascript, Testing]
+- name: Moleculer
+  home: https://moleculer.services/
+  github: https://github.com/moleculerjs/moleculer
+  gitter: https://gitter.im/moleculerjs/moleculer
+  blog: https://medium.com/moleculer
+  tags: [Javascript, Back-end Framework]
 - name: Moment.js
   home: https://momentjs.com/
   github: https://github.com/moment/moment
@@ -1489,6 +1502,11 @@
   github: https://github.com/uber/react-vis
   npm: https://www.npmjs.com/package/react-vis
   tags: [Visualization]
+- name: REAVIZ
+  home: https://jask-oss.github.io/reaviz/
+  github: https://github.com/jask-oss/reaviz
+  npm: https://www.npmjs.com/package/reaviz
+  tags: [React, Chart]
 - name: Recharts
   home: http://recharts.org/
   github: https://github.com/recharts/recharts
@@ -1625,6 +1643,10 @@
   home: https://designrevision.com/downloads/shards/
   github: https://github.com/designrevision/shards-ui
   tags: [UI Framework]
+- name: Siddhi
+  home: http://siddhi.io/
+  github: https://github.com/siddhi-io/siddhi
+  tags: [Complex Event Processing]
 - name: Signale
   github: https://github.com/klauscfhq/signale
   npm: https://www.npmjs.com/package/signale
@@ -1709,6 +1731,11 @@
   home: http://storm.apache.org/
   github: https://github.com/apache/storm
   tags: [Distributed Processing]
+- name: StreamAlert
+  home: https://streamalert.io/
+  github: https://github.com/airbnb/streamalert
+  slack: https://streamalert.herokuapp.com/
+  tags: [Data Analysis]
 - name: swc
   home: https://swc-project.github.io/
   github: https://github.com/swc-project/swc
