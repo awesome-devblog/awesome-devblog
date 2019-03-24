@@ -1492,6 +1492,13 @@
 - name: 김진욱
   blog: http://rein.kr/blog/
   description: ''
+- name: 김진웅
+  blog: https://ddii.dev/
+  rss: https://ddii.dev/feed.xml
+  description: DevOps
+  twitter: https://twitter.com/ddiiwoong
+  facebook: https://www.facebook.com/ddiiwoong
+  github: https://github.com/ddiiwoong
 - name: 김진혁
   blog: https://tk-one.github.io/
   rss: https://tk-one.github.io/atom.xml
