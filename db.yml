@@ -1032,6 +1032,10 @@
   rss: http://keyassist.tistory.com/rss
   description: Data Science
   facebook: https://www.facebook.com/keyassist
+- name: 김영웅
+  blog: https://brunch.co.kr/@youngwungkim
+  rss: https://brunch.co.kr/rss/@@8w7
+  description: 기획
 - name: 김영재
   blog: https://youngjaekim.wordpress.com/
   rss: https://youngjaekim.wordpress.com/feed/
