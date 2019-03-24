@@ -2128,6 +2128,8 @@
   rss: https://medium.com/feed/@mjspring
   description: Java
   facebook: https://www.facebook.com/mjspring03
+  linkedin: https://www.linkedin.com/in/mjpark03/
+  slideshare: https://www.slideshare.net/ParkMijeong
 - name: 박민
   blog: https://isme2n.github.io/
   rss: https://isme2n.github.io/feed.xml
@@ -4560,7 +4562,7 @@
   twitter: https://twitter.com/dev_philly
   github: https://github.com/phillyai
   facebook: https://www.facebook.com/ars103
-  description: C#, 삽질
+  description: 'C#, 삽질'
 - name: 이영훈
   blog: http://resoliwan.blogspot.kr/
   rss: http://resoliwan.blogspot.com/feeds/posts/default
@@ -5651,6 +5653,10 @@
   rss: http://joojis.tistory.com/rss
   description: 블록체인
   github: https://github.com/joojis
+- name: 정진균
+  blog: https://gompangs.github.io/
+  linkedin: https://www.linkedin.com/in/진균-정-bb12a610b/
+  github: https://github.com/Gompangs
 - name: 정진성
   slideshare: https://www.slideshare.net/ssuser0188f31
   linkedin: https://www.linkedin.com/in/진성-정-69a26a112/
@@ -6901,6 +6907,7 @@
   rss: http://nuxlear.tistory.com/rss
   description: Keras
   facebook: https://www.facebook.com/nuxlearHwang
+  slideshare: https://www.slideshare.net/ssuser20f0bc
 - name: 황준일
   blog: http://junil-hwang.com/
   rss: http://junil-hwang.com/blog/feed/
