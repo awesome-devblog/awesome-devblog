@@ -239,7 +239,7 @@
 | 김태완 | http://taewan.kim/ | Oracle | [![](icons/rss-icon.png)](http://taewan.kim/index.xml) |
 | 김태현 | http://javaexpert.tistory.com/ | 블록체인, 웹, 모바일 | [![](icons/rss-icon.png)](http://javaexpert.tistory.com/rss)[![](icons/github-icon.png)](https://github.com/bear2u) |
 | 김태호 | http://www.androidhuman.com/ | 안드로이드 | [![](icons/rss-icon.png)](http://www.androidhuman.com/feed.xml)[![](icons/slideshare-icon.png)](https://www.slideshare.net/jyte)[![](icons/twitter-icon.png)](https://twitter.com/Androidhuman)[![](icons/linkedin-icon.png)](https://www.linkedin.com/in/taeho-kim-2806ba44/) |
-| 김태호 | https://medium.com/@xissy | 스타트업 | [![](icons/rss-icon.png)](https://medium.com/feed/@xissy)[![](icons/twitter-icon.png)](https://twitter.com/xissy) |
+| 김태호 | https://medium.com/@xissy | 스타트업 | [![](icons/rss-icon.png)](https://medium.com/feed/@xissy)[![](icons/linkedin-icon.png)](https://www.linkedin.com/in/xissy/) |
 | 김태환 | http://thefinestartist.com/ | Java, Android | [![](icons/facebook-icon.png)](https://www.facebook.com/TheFinestArtist)[![](icons/github-icon.png)](https://github.com/TheFinestArtist)[![](icons/linkedin-icon.png)](https://www.linkedin.com/in/thefinestartist/) |
 | 김태헌 | https://brunch.co.kr/@myte | 해외 취업 | [![](icons/rss-icon.png)](https://brunch.co.kr/rss/@@ydx) |
 | 김태훈 | http://carpedm20.github.io/ |  | [![](icons/rss-icon.png)](https://carpedm20.github.io/feeds/rss.xml)[![](icons/slideshare-icon.png)](https://www.slideshare.net/carpedm20)[![](icons/facebook-icon.png)](https://www.facebook.com/carpedm20)[![](icons/twitter-icon.png)](https://twitter.com/carpedm20)[![](icons/github-icon.png)](https://github.com/carpedm20)[![](icons/linkedin-icon.png)](https://www.linkedin.com/in/carpedm20/) |
