@@ -4090,6 +4090,10 @@
   rss: http://honeyperl.tistory.com/rss
   description: Perl
   linkedin: https://www.linkedin.com/in/h0ney/
+- name: 이규영
+  blog: http://mindthelog.com/
+  rss: http://mindthelog.com/feed/
+  description: 마케팅 분석
 - name: 이규원
   blog: https://justhackem.wordpress.com/
   rss: https://justhackem.wordpress.com/feed/
