@@ -1633,7 +1633,7 @@
   blog: https://medium.com/@xissy
   rss: https://medium.com/feed/@xissy
   description: 스타트업
-  twitter: https://twitter.com/xissy
+  linkedin: https://linkedin.com/in/xissy/
 - name: 김태환
   blog: http://thefinestartist.com/
   description: Java, Android
@@ -4626,6 +4626,11 @@
   description: Back-end
 - name: 이윤환
   slideshare: https://www.slideshare.net/yoonani
+- name: 이은빈
+  blog: https://eblee-repo.tistory.com/
+  rss: https://eblee-repo.tistory.com/rss
+  github: https://github.com/fed-gren
+  description: Front-end
 - name: 이응준
   blog: https://blog.npcode.com/
   rss: https://blog.npcode.com/feed/
