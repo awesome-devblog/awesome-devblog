@@ -3157,6 +3157,9 @@
 - name: 신관영
   blog: http://springsource.tistory.com/
   description: Spring
+- name: 신대용
+  facebook: https://www.facebook.com/daeyong.shin.96
+  youtube: https://www.youtube.com/channel/UCFLSaXvfrk-KUxALF0xVnwg
 - name: 신동리
   blog: https://shindongri.github.io/
   rss: https://shindongri.github.io/feed
@@ -5314,6 +5317,8 @@
   description: iOS, Keras
   github: https://github.com/mijeongjeon
   facebook: https://www.facebook.com/Ninevincent
+  slideshare: https://www.slideshare.net/MijeongJeon1
+  linkedin: https://www.linkedin.com/in/mijeong-jeon-05471013b/
 - name: 전민수
   blog: https://brunch.co.kr/@ebprux
   rss: https://brunch.co.kr/rss/@@2fEJ
