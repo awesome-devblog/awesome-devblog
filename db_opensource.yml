@@ -332,6 +332,11 @@
   slack: http://chat.dcos.io/
   jira: https://jira.mesosphere.com
   tags: [Container Orchestration]
+- name: dc.js
+  home: https://dc-js.github.io/dc.js/
+  github: https://github.com/dc-js/dc.js
+  gitter: https://gitter.im/dc-js/dc.js
+  tags: [Javascript, Chart]
 - name: deck.js
   home: http://imakewebthings.com/deck.js/
   github: https://github.com/imakewebthings/deck.js
@@ -678,6 +683,10 @@
   twitter: https://twitter.com/handsontable
   stackoverflow: https://stackoverflow.com/questions/tagged/handsontable
   tags: [Spreadsheet]
+- name: Handtrack.js
+  home: https://victordibia.github.io/handtrack.js/
+  github: https://github.com/victordibia/handtrack.js
+  tags: [Javascript, Vision]
 - name: hapi
   home: https://hapijs.com/
   github: https://github.com/hapijs/hapi
@@ -1093,6 +1102,10 @@
   stackoverflow: https://stackoverflow.com/questions/tagged/mithril.js
   awesome: https://github.com/orbitbot/awesome-mithril
   tags: [Javascript, Front-end Framework]
+- name: MMLSpark
+  home: http://aka.ms/spark
+  github: https://github.com/Azure/mmlspark
+  tags: [Machine Learning, Spark]
 - name: mo.js
   home: http://mojs.io/
   github: https://github.com/legomushroom/mojs
@@ -1158,6 +1171,11 @@
   home: https://www.nameko.io/
   github: https://github.com/nameko/nameko
   tags: [Python, Back-end Framework]
+- name: Navi
+  home: https://frontarm.com/navi/
+  github: https://github.com/frontarm/navi
+  npm: https://www.npmjs.com/package/navi
+  tags: [Routing, React]
 - name: NeDB
   github: https://github.com/louischatriot/nedb
   tags: [Database]
@@ -1455,6 +1473,12 @@
   forum: https://discuss.pytorch.org/
   awesome: https://github.com/bharathgs/Awesome-pytorch-list
   tags: [Machine Learning]
+- name: Quasar
+  home: https://quasar-framework.org/
+  github: https://github.com/quasarframework/quasar
+  discord: https://discordapp.com/invite/5TDhbDg
+  forum: https://forum.quasar-framework.org/
+  tags: [Javascript, Front-end Framework, Vue]
 - name: RabbitMQ
   home: https://www.rabbitmq.com/
   github: https://github.com/rabbitmq/rabbitmq-server

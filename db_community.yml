@@ -1132,7 +1132,9 @@
 - name: LifeSoft
   youtube: https://www.youtube.com/channel/UCqRTjWqD-ZWHj0ZoPSKVWBw
 - name: OpenStack Korea Group
+  home: https://www.openinfradays.kr/
   youtube: https://www.youtube.com/channel/UCVQ1ILIOsGH-YX9FkEmkjRQ
+  slideshare: https://www.slideshare.net/openstack_kr
 - name: Programmers
   youtube: https://www.youtube.com/channel/UCFPWMdvwirwSov3dD3UWAhA
 - name: ProjectRin
@@ -1216,3 +1218,8 @@
   github: https://github.com/cppkorea
 - name: 위데이터랩
   youtube: https://www.youtube.com/channel/UCi9sajR43D21JSkulP6crfQ
+- name: AI Robotics KR
+  facebook: https://www.facebook.com/groups/379266009497613/
+- name: STEN
+  home: https://www.sten.or.kr/
+  facebook: https://www.facebook.com/7sten/
