@@ -556,6 +556,7 @@
   linkedin: https://www.linkedin.com/in/nacyot/
   slideshare: https://www.slideshare.net/ext
   stackoverflow: https://stackoverflow.com/users/2689714/nacyot
+  speakerdeck: https://speakerdeck.com/nacyot
 - name: 김대기
   blog: http://daegikim.github.io/
   description: Web
@@ -603,6 +604,7 @@
   rss: http://insanehong.kr/rss.xml
   description: ''
   twitter: https://twitter.com/insanehong
+  youtube: https://www.youtube.com/channel/UCOB_NlfphKSQWwR6gcADhtQ
 - name: 김도곤
   blog: http://dokonk.blogspot.kr/
   rss: http://dokonk.blogspot.com/feeds/posts/default
@@ -4972,6 +4974,12 @@
   facebook: https://www.facebook.com/hyunseob.lee.7
   linkedin: https://www.linkedin.com/in/hyunseoblee/
   github: https://github.com/hyunseob
+- name: 이현수
+  blog: https://coding8282.tistory.com/
+  rss: https://coding8282.tistory.com/rss
+  description: DDD
+  facebook: https://www.facebook.com/coding8282
+  github: https://github.com/coding8282
 - name: 이현우
   blog: https://blog.naver.com/PostList.nhn?blogId=hidejj79
   rss: https://rss.blog.naver.com/hidejj79.xml
