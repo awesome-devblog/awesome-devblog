@@ -2256,6 +2256,12 @@
 - name: 박성은
   blog: https://velog.io/@p_ssungnni
   description: iOS
+- name: 박성준
+  blog: https://blog.dochis.net/
+  rss: https://blog.dochis.net/feed.xml
+  facebook: https://www.facebook.com/shung.juin
+  github: https://github.com/DOCHIS
+  home: http://dochis.net/
 - name: 박성진
   blog: https://precioustar.github.io/
   description: Web
