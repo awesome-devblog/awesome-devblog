@@ -280,6 +280,9 @@
   github: https://github.com/worldsibu/convector
   chat: https://discordapp.com/invite/twRwpWt
   tags: [Block Chain]
+- name: Cortex
+  github: https://github.com/cortexproject/cortex
+  tags: [Prometheus]
 - name: CouchDB
   home: https://couchdb.apache.org/
   github: https://github.com/apache/couchdb
@@ -387,7 +390,7 @@
   blog: https://www.elastic.co/kr/blog
   awesome: https://github.com/dzharii/awesome-elasticsearch
   reddit: https://www.reddit.com/r/elasticsearch/
-  tags: [Distributed Search Engine]
+  tags: [Search Engine]
 - name: ECharts
   home: http://incubator.apache.org/projects/echarts.html
   github: https://github.com/apache/incubator-echarts
@@ -1701,6 +1704,10 @@
   twitter: https://twitter.com/SonarQube
   forum: https://community.sonarsource.com/
   tags: [Code Quality]
+- name: Sonic
+  home: https://crates.io/crates/sonic-server
+  github: https://github.com/valeriansaliou/sonic
+  tags: [Search Engine]
 - name: Sonnet
   home: https://deepmind.github.io/sonnet/
   github: https://github.com/deepmind/sonnet
@@ -1897,6 +1904,9 @@
   home: http://velocityjs.org/
   github: https://github.com/julianshapiro/velocity
   tags: [Animation]
+- name: Veonim
+  github: https://github.com/veonim/veonim
+  tags: [Vim, IDE]
 - name: VerneMQ
   home: https://vernemq.com/
   github: https://github.com/erlio/vernemq
@@ -2025,6 +2035,10 @@
   home: https://wasmer.io/
   github: https://github.com/wasmerio/wasmer
   tags: [WebAssembly]
+- name: Wasmtime
+  github: https://github.com/CraneStation/wasmtime
+  gitter: https://gitter.im/CraneStation/Lobby
+  tags: [WebAssembly, Runtime]
 - name: XState
   home: https://xstate.js.org/
   github: https://github.com/davidkpiano/xstate

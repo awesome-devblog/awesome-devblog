@@ -139,9 +139,6 @@
   facebook: https://www.facebook.com/unist.hexa/
   home: http://hexa.pro/
   blog: http://hexa-unist.github.io/
-- name: Naver D2
-  facebook: https://www.facebook.com/naverd2/
-  home: https://d2.naver.com/home
 - name: jinyPHP
   facebook: https://www.facebook.com/groups/422759191427518/
 - name: Slipp 스터디
@@ -577,7 +574,7 @@
 - name: Korea Docker User Group
   facebook: https://www.facebook.com/groups/korea.docker.user.group/
 - name: KAFKA 한국 사용자 모임
-  facebook: https://www.facebook.com/groups/kafkakorea/
+  facebook: https://www.facebook.com/groups/kafka.kru
 - name: Ask Django
   facebook: https://www.facebook.com/groups/askdjango/
 - name: React Korea
@@ -1223,3 +1220,11 @@
 - name: STEN
   home: https://www.sten.or.kr/
   facebook: https://www.facebook.com/7sten/
+- name: 44BITS
+  blog: https://www.44bits.io/
+  rss: https://www.44bits.io/ko/feed/posts
+  youtube: https://www.youtube.com/channel/UCPwutg-Q08jMQoPClzD0lTQ/
+  facebook: https://www.facebook.com/fortyfourbits
+  twitter: https://twitter.com/@fortyfourbits
+- name: 시피의 코딩
+  youtube: https://www.youtube.com/channel/UCK7lI9EjccHY-b8hHf95Rdw
