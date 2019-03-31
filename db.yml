@@ -2801,6 +2801,7 @@
   twitter: https://twitter.com/suminb
   linkedin: https://www.linkedin.com/in/suminb
   slideshare: https://www.slideshare.net/suminb
+  home: https://shortbread.io/
 - name: 부종민
   blog: https://durtchrt.github.io/blog/
   description: Java, Spring
@@ -6050,6 +6051,10 @@
   blog: http://wlhermit.blog.me/
   rss: http://wlhermit.blog.me/rss/atom
   description: 게임 개발
+- name: 지수환
+  blog: https://suhwan.dev/
+  description: Spring
+  github: https://github.com/Zeniuus
 - name: 지원준
   blog: https://brunch.co.kr/@wjchee
   rss: https://brunch.co.kr/atom/@@3SO
