@@ -6767,6 +6767,11 @@
   blog: https://heowc.github.io/
   tistory: http://heowc.tistory.com/
   description: Java
+- name: 허재영
+  blog: https://kirade.github.io/
+  description: Python, Django, Web
+  github: https://github.com/Kirade
+  rss: https://kirade.github.io/feed.xml
 - name: 허재위
   blog: http://blog.import.re/
   description: Kotlin
