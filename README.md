@@ -849,6 +849,7 @@
 | 허광남 | http://okjsp.tistory.com/ | OKKY | [![](icons/rss-icon.png)](http://okjsp.tistory.com/rss) |
 | 허승 | https://seanlion.github.io/ | 스낵뉴스 | [![](icons/rss-icon.png)](https://seanlion.github.io/feed.xml)[![](icons/facebook-icon.png)](https://www.facebook.com/profile.php?id=100001916494658)[![](icons/github-icon.png)](https://github.com/seanlion)[![](icons/linkedin-icon.png)](https://www.linkedin.com/in/seunghuh/) |
 | 허원철 | http://heowc.tistory.com/ | Java | [![](icons/rss-icon.png)](http://heowc.tistory.com/rss) |
+| 허재영 | https://kirade.github.io/ | 책 | [![](icons/rss-icon.png)](https://kirade.github.io/feed.xml)[![](icons/github-icon.png)](https://github.com/Kirade) |
 | 허재위 | http://blog.import.re/ | Kotlin | [![](icons/facebook-icon.png)](https://www.facebook.com/importre)[![](icons/twitter-icon.png)](https://twitter.com/importre)[![](icons/github-icon.png)](https://github.com/importre) |
 | 허준회(주네) | http://joone.net/ | 만화 | [![](icons/rss-icon.png)](http://joone.net/feed/)[![](icons/twitter-icon.png)](https://twitter.com/joone_net) |
 | 허진호 | https://medium.com/@hur | 스타트업 투자 | [![](icons/rss-icon.png)](https://medium.com/feed/@hur)[![](icons/twitter-icon.png)](https://twitter.com/hur) |
