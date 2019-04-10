@@ -6546,6 +6546,11 @@
   description: 칼럼
   twitter: https://twitter.com/mimul
   facebook: https://www.facebook.com/mimuls
+- name: 한고 (10년코더)
+  blog: https://10yearscoder.tistory.com/
+  rss: https://10yearscoder.tistory.com/rss
+  description: 프리랜서  
+  github: https://github.com/tenyearscoder
 - name: 한동수
   blog: https://medium.com/@herryhan2435
   rss: https://medium.com/feed/@herryhan2435
