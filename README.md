@@ -203,6 +203,7 @@
 | 김종욱 | http://catlog.kr/ |  |  |
 | 김종인 | http://zzong.net | Java, Spring |  |
 | 김종철 | https://infoscis.github.io/ | Front-end | [![](icons/rss-icon.png)](https://infoscis.github.io/feed.xml)[![](icons/github-icon.png)](https://github.com/infoscis) |
+| [김종하](people/wisedog.md) | https://dev.wisedog.net/ | Python, Go, Javascript, Cloud | [![](icons/rss-icon.png)](https://dev.wisedog.net/atom)[![](icons/twitter-icon.png)](https://twitter.com/jongha_the_dev)[![](icons/linkedin-icon.png)](https://www.linkedin.com/in/wisedog/) |
 | [김종하](people/wisedog.md) | http://story.wisedog.net/ | 정적분석 | [![](icons/rss-icon.png)](http://story.wisedog.net/feed/) |
 | 김종헌 | http://shovelman.tistory.com/ | .NET | [![](icons/rss-icon.png)](http://shovelman.tistory.com/rss) |
 | 김종희 | https://kimpaper.github.io/ | Back-end | [![](icons/rss-icon.png)](https://kimpaper.github.io/feed.xml)[![](icons/facebook-icon.png)](https://www.facebook.com/seretude)[![](icons/github-icon.png)](https://github.com/kimpaper) |
