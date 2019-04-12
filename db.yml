@@ -1322,6 +1322,11 @@
   aboutme: https://about.me/jongcheol.kim
 - name: 김종하
   profile: people/wisedog.md
+  github: https://github.com/wisedog
+  blog: https://dev.wisedog.net
+  rss: https://dev.wisedog.net/atom
+- name: 김종하
+  profile: people/wisedog.md
   blog: http://story.wisedog.net/
   rss: http://story.wisedog.net/feed/
   description: 정적분석
