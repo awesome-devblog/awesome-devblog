@@ -6079,6 +6079,9 @@
   blog: http://wlhermit.blog.me/
   rss: http://wlhermit.blog.me/rss/atom
   description: 게임 개발
+- name: 지두현
+  blog: http://www.chidoo.me/
+  rss: http://www.chidoo.me/index.php/feed/
 - name: 지수환
   blog: https://suhwan.dev/
   description: Spring
