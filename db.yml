@@ -5207,10 +5207,6 @@
   twitter: https://twitter.com/iolothebard
   facebook: https://www.facebook.com/iolothebard
   askfm: https://ask.fm/iolothebard
-- name: 장메튜
-  blog: https://matthew.kr/
-  description: Spring
-  github: https://github.com/IkwhanChang
 - name: 장문익
   blog: http://mooneegee.blogspot.kr/
   rss: https://mooneegee.blogspot.com/feeds/posts/default
@@ -5261,6 +5257,14 @@
   blog: http://devyongsik.tistory.com/
   rss: http://devyongsik.tistory.com/rss
   description: Java, Lucene
+- name: 장익환
+  blog: https://brunch.co.kr/@matthew-chang
+  rss: https://brunch.co.kr/rss/@@GEd
+  description: Spring
+  github: https://github.com/IkwhanChang
+  twitter: https://twitter.com/izie
+  linkedin: https://www.linkedin.com/in/ikwhanchang/
+  home: https://matthew.kr/
 - name: 장재원
   blog: http://superjang.com/
   rss: http://superjang.com/feed
