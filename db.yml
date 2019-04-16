@@ -6488,10 +6488,13 @@
   description: 카카오헤어샵 서버 개발 후기
   github: https://github.com/cg4jins
 - name: 최창원
-  blog: https://qwefgh90.github.io
-  rss: http://qwefgh90.github.io/feed.xml
-  description: 웹/번역, 컴퓨터 공학 분야
+  blog: https://qwefgh90.github.io/sphinx
+  description: 컴퓨터 공학 분야 위키
   github: https://github.com/qwefgh90
+- name: 최창원
+  blog: https://medium.com/@qwefgh90
+  rss: https://medium.com/feed/@qwefgh90
+  description: 웹/번역, 컴퓨터 공학 분야
 - name: 최창하
   blog: https://alklid.github.io/dlog/
   rss: https://alklid.github.io/dlog/feed
