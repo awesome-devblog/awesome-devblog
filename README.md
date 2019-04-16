@@ -810,7 +810,8 @@
 | 최진영 | https://wpu.kr/ | 워드프레스 | [![](icons/rss-icon.png)](http://wpu.kr/feed/) |
 | 최진호 | http://calmglow.egloos.com/ | Web | [![](icons/rss-icon.png)](http://rss.egloos.com/blog/calmglow) |
 | 최창규 | https://brunch.co.kr/@cg4jins | 카카오헤어샵 서버 개발 후기 | [![](icons/rss-icon.png)](https://brunch.co.kr/rss/@@399)[![](icons/github-icon.png)](https://github.com/cg4jins) |
-| 최창원 | https://qwefgh90.github.io | 웹/번역, 컴퓨터 공학 분야 | [![](icons/rss-icon.png)](http://qwefgh90.github.io/feed.xml)[![](icons/github-icon.png)](https://github.com/qwefgh90) |
+| 최창원 | https://qwefgh90.github.io/sphinx | 컴퓨터 공학 분야 위키 | [![](icons/github-icon.png)](https://github.com/qwefgh90) |
+| 최창원 | https://medium.com/@qwefgh90 | 웹/번역, 컴퓨터 공학 분야 | [![](icons/rss-icon.png)](https://medium.com/feed/@qwefgh90) |
 | 최창하 | https://alklid.github.io/dlog/ | Spark | [![](icons/rss-icon.png)](https://alklid.github.io/dlog/feed)[![](icons/github-icon.png)](https://github.com/alklid) |
 | 최철호 | https://brunch.co.kr/@chulhochoiucj0 | UI/UX 디자인 | [![](icons/rss-icon.png)](https://brunch.co.kr/rss/@@2Qq) |
 | 최충엽 | https://medium.com/@albertseewhy |  | [![](icons/rss-icon.png)](https://medium.com/feed/@albertseewhy)[![](icons/facebook-icon.png)](https://www.facebook.com/albertseewhy)[![](icons/twitter-icon.png)](https://twitter.com/AlbertSeeWhy) |
