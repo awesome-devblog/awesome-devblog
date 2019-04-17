@@ -1540,10 +1540,12 @@
   description: 애자일
   twitter: https://twitter.com/cjunekim
 - name: 김청진
-  blog: http://jinblog.kr
-  rss: http://jinblog.kr/rss
+  blog: https://jinblog.kr
+  rss: https://jinblog.kr/rss
   description: IT소식/리뷰, 개발(웹, 모바일)
-  facebook: https://www.facebook.com/jinblog
+  facebook: https://fb.jinblog.kr
+  youtube: https://tv.jinblog.kr
+  instagram: https://instagram.com/developerjin/
 - name: 김충섭
   blog: http://subicura.com/
   rss: https://subicura.com/feed.xml
