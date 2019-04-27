@@ -3022,12 +3022,13 @@
   description: 개발방법론, Android
   slideshare: https://www.slideshare.net/arload
 - name: 손은주
-  blog: https://ejsohn.github.io/
-  rss: https://ejsohn.github.io/feed.xml
+  blog: https://medium.com/@EJSohn
+  rss: https://medium.com/feed/@EJSohn
   description: DevOps
   facebook: https://www.facebook.com/profile.php?id=100007905910861
   github: https://github.com/EJSohn
   speakerdeck: https://speakerdeck.com/ejsohn
+  linkedin: https://www.linkedin.com/in/eunju-son/
 - name: 손지민
   blog: https://medium.com/@bryantjiminson
   rss: https://medium.com/feed/@bryantjiminson
@@ -4860,6 +4861,11 @@
   rss: https://rss.blog.naver.com/robo813.xml
   description: 한글시계
   facebook: https://www.facebook.com/neo81389
+- name: 이중길
+  blog: https://wndrlf2003.blog.me/
+  rss: https://wndrlf2003.blog.me/rss
+  description: Spring, Statistics
+  facebook: https://www.facebook.com/profile.php?id=100003302651091
 - name: 이지민
   linkedin: https://www.linkedin.com/in/jimin-lee-526a41121/
   slideshare: https://www.slideshare.net/JiminLee36
@@ -6201,6 +6207,7 @@
   blog: http://blog.doortts.com/
   rss: http://blog.doortts.com/rss
   description: Node.js
+  twitter: https://twitter.com/doortts
 - name: 채영훈
   blog: https://proinlab.com/
   rss: https://proinlab.com/feed
