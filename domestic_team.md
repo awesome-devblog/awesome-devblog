@@ -16,6 +16,7 @@
 | 넥스트리 | http://www.nextree.co.kr/ | |
 | 넷매니아즈 | http://www.netmanias.com/ko/ | |
 | 달리웍스 | http://techblog.daliworks.net/ | |
+| 당근마켓 기술 블로그 | https://medium.com/daangn | | 
 | 데일리호텔 | https://dailyhotel.io | |
 | 독립 개발자 네트워크 | https://indidev.net/ | C/C++ |
 | 드라마앤컴패니 블로그 | http://blog.dramancompany.com/ | |
