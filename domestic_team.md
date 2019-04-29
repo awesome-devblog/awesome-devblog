@@ -101,6 +101,7 @@
 | 한빛네트워크 | http://www.hanbit.co.kr/network/ | |
 | 해줌스토리 | http://story.haezoom.com/ | |
 | 호빗원정대 | http://sadang-hobbits.github.io/ | |
+| 후이서울 | https://engineering.huiseoul.com/ | |
 
 ## A-Z
 
