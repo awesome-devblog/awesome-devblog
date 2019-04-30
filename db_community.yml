@@ -194,6 +194,7 @@
 - name: 동국컴공
   facebook: https://www.facebook.com/dgcsesound/
 - name: 멋쟁이 사자처럼
+  home: https://likelion.net/
   facebook: https://www.facebook.com/likelion.net/
 - name: 멋쟁이사자처럼 at 동국대학교
   home: http://dongguk.likelion.org/
@@ -419,6 +420,7 @@
 - name: 게임개발포에버
   blog: http://gamedevforever.tistory.com/
   rss: http://feeds.feedburner.com/gamedevforever?format=xml
+  description: 포프, 친절한티스, 알콜코더 민군
   facebook: https://www.facebook.com/GameDevForever/
 - name: NAVER D2 - 네이버
   blog: https://d2.naver.com/
@@ -437,8 +439,8 @@
   blog: https://dailyhotel.io/
   rss: https://dailyhotel.io/feed
 - name: 드라마앤컴패니 블로그
-  blog: http://developer.dramancompany.com/
-  rss: http://developer.dramancompany.com/feed/
+  blog: http://blog.dramancompany.com/
+  rss: http://blog.dramancompany.com/feed/
 - name: 로켓펀치 블로그
   blog: https://blog.rocketpunch.com/
   rss: https://blog.rocketpunch.com/feed/
@@ -740,6 +742,7 @@
   rss: https://hivearena.com/blog/feed/
 - name: 나는프로그래머다
   facebook: https://www.facebook.com/iamprogrammer.io/
+  description: 임작가, 데니스, 정개발
 - name: SK텔레콤 T-Brain
   facebook: https://www.facebook.com/SKTBrain/
 - name: Naver Clova
@@ -1235,3 +1238,35 @@
   home: https://hashcode.co.kr/
 - name: PSEG
   home: http://www.pseg.or.kr/pseg/
+- name: 굿닥 엔지니어링 블로그
+  blog: http://dev.goodoc.co.kr/
+  rss: http://dev.goodoc.co.kr/?feed=rss2
+- name: 꿈많은 청년들 블로그
+  blog: https://blog.dreamyoungs.com/
+  rss: https://blog.dreamyoungs.com/feed/
+  facebook: https://www.facebook.com/DreamYoungs
+- name: 나가자
+  blog: http://www.nagaja.net/
+  description: 해외 취업
+- name: 네이버 널리 블로그
+  blog: https://nuli.navercorp.com/
+  description: 웹 표준, 접근성
+- name: 넷매니아즈
+  home: https://www.netmanias.com/ko/
+- name: 당근마켓 팀블로그
+  blog: https://medium.com/daangn
+  twitter: https://twitter.com/danggeunteam
+  facebook: https://www.facebook.com/danggeunmarket
+  github: https://github.com/daangn
+  home: https://www.notion.so/3d0197c137ec43d18ff739b5b254a3c8
+- name: 라온피플
+  blog: http://laonple.blog.me/
+  rss: http://laonple.blog.me/rss
+  description: 비전, 머신 러닝
+- name: 리디북스 블로그
+  blog: https://www.ridicorp.com/blog/
+- name: 리모트몬스터
+  blog: https://blog.remotemonster.com/
+  description: WebRTC
+  twitter: https://twitter.com/remotemonster
+  facebook: https://www.facebook.com/RemoteMonster/
