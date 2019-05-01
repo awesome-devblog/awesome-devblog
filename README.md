@@ -185,6 +185,7 @@
 | 김우승 | https://kimws.wordpress.com/ | 빅데이터 | [![](icons/rss-icon.png)](https://kimws.wordpress.com/feed/)[![](icons/facebook-icon.png)](https://www.facebook.com/kim.wooseung) |
 | 김우용 | https://brunch.co.kr/@wedump | 게임 개발 | [![](icons/rss-icon.png)](https://brunch.co.kr/atom/@@13x1) |
 | 김원일 | http://androidkr.blogspot.kr/ | 안드로이드 | [![](icons/rss-icon.png)](http://feeds.feedburner.com/mobilesw) |
+| 김원호 | https://undefine.me/ | Javascript | [![](icons/rss-icon.png)](https://undefine.me/rss.xml)[![](icons/github-icon.png)](https://github.com/likelionWonHo) |
 | 김인권 | https://blog.naver.com/gi_balja |  | [![](icons/rss-icon.png)](https://rss.blog.naver.com/gi_balja.xml)[![](icons/facebook-icon.png)](https://www.facebook.com/inkweon7269) |
 | 김인기 | http://ingeec.tistory.com/ | Web | [![](icons/rss-icon.png)](http://ingeec.tistory.com/rss)[![](icons/twitter-icon.png)](https://twitter.com/ingeekim) |
 | 김인숙 | http://webholic.net/ | Web | [![](icons/rss-icon.png)](http://webholic.net/feed/) |
