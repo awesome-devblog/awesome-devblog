@@ -453,6 +453,7 @@
 - name: 아해팀 블로그
   blog: https://ahea.wordpress.com/
   rss: https://ahea.wordpress.com/feed/
+  description: Java, 김종인, 최경운, 노성현
 - name: 에이콘
   blog: http://www.acornpub.co.kr/blog
   rss: http://feeds.feedburner.com/acornpub
@@ -1270,3 +1271,28 @@
   description: WebRTC
   twitter: https://twitter.com/remotemonster
   facebook: https://www.facebook.com/RemoteMonster/
+- name: 모람씨앤티
+  blog: http://blog.moramcnt.com/
+  rss: http://blog.moramcnt.com/?feed=rss2
+- name: 버즈아트
+  blog: https://tech.bbuzzart.com/
+  rss: https://tech.bbuzzart.com/feed/
+- name: 솔라나라
+  home: https://www.solanara.net/
+  rss: https://www.solanara.net/rss
+- name: 스타트링크
+  blog: https://startlink.blog/
+  rss: https://startlink.blog/feed/
+- name: 시스코 코리아 블로그
+  blog: https://ciscokrblog.com/
+  rss: https://ciscokrblog.com/rss
+- name: 아이펀팩토리 블로그
+  blog: https://blog.ifunfactory.com/
+  rss: https://blog.ifunfactory.com/feed/
+  facebook: https://ko-kr.facebook.com/ifunfactory/
+  youtube: https://www.youtube.com/channel/UCZwya7NM8zija1I0MgLAIcA
+  slideshare: https://www.slideshare.net/ifunfactory
+- name: 에이비일팔공
+  blog: http://blog.airbridge.io/
+  rss: http://blog.airbridge.io/rss/
+  facebook: https://www.facebook.com/ab180.co/
