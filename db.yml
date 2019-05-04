@@ -1988,6 +1988,12 @@
   blog: http://ryulib.tistory.com/
   rss: http://ryulib.tistory.com/rss
   description: ''
+- name: 류지환
+  blog: https://eclatant.io/
+  rss: https://eclatant.io/atom.xml
+  description: Ruby
+  github: https://github.com/JeewhanR
+  linkedin: https://www.linkedin.com/in/jeewhan-ryu-17a55110a/
 - name: 류현오
   blog: https://activity.horyu.me
   description: ''
@@ -7034,9 +7040,10 @@
   description: Front-end, Back-end
   facebook: https://www.facebook.com/profile.php?id=100013271537671
 - name: 황지영
-  blog: https://medium.com/@jiyounghwang_412
-  rss: https://medium.com/feed/@jiyounghwang_412
+  blog: https://jyhwng.github.io/
   description: Python, Django
+  medium: https://medium.com/@jiyounghwang_412
+  twitter: https://twitter.com/@jyhwng
 - name: 황지현
   blog: http://jhhwang4195.tistory.com/
   rss: http://jhhwang4195.tistory.com/rss
