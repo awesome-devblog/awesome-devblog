@@ -1939,10 +1939,11 @@
 - name: 노찬우
   blog: https://rajephon.github.io/blog/
   rss: https://rajephon.github.io/blog/feed.xml
-  description: ''
+  description: Erlang, iOS
   github: https://github.com/rajephon
   linkedin: https://www.linkedin.com/in/chanwoo-noh-799b79141/
   instagram: https://www.instagram.com/rajephon/
+  stackoverflow: https://stackoverflow.com/users/5286905/rajephon
 - name: 노찬현
   blog: https://amati.io/
   rss: https://amati.io/feed/
@@ -2236,6 +2237,9 @@
   blog: https://brunch.co.kr/@sanghoonpak
   rss: https://brunch.co.kr/rss/@@v0n
   description: 인도네시아 IT 소식
+- name: 박새미
+  blog: https://medium.com/@rosd0000
+  rss: https://medium.com/feed/@rosd0000
 - name: 박석제
   blog: https://parkseokje.github.io/
   rss: https://parkseokje.github.io/atom.xml
@@ -5341,7 +5345,7 @@
 - name: 장현석
   blog: https://devjang.github.io/
   rss: https://devjang.github.io/feed.xml
-  description: ''
+  description: Javascript
   linkedin: https://www.linkedin.com/in/devjang/
   github: https://github.com/devjang
 - name: 장현승
