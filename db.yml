@@ -5985,6 +5985,11 @@
   rss: http://rss.egloos.com/blog/aeternum
   description: DDD
   slideshare: https://www.slideshare.net/baejjae93
+- name: 조용구
+  blog: https://chodragon9.github.io/
+  rss: https://chodragon9.github.io/feed
+  description: Javascript
+  github: https://github.com/ChoDragon9
 - name: 조용래
   blog: https://dreamgonfly.github.io/
   rss: https://dreamgonfly.github.io/feed.xml
