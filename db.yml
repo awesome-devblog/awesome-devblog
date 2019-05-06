@@ -117,6 +117,12 @@
   rss: http://blog.greennuri.info/?feed=rss2
   description: AI, Python
   github: https://github.com/jaeho-kang
+- name: 강전혁
+  blog: https://kdinner.tistory.com/
+  rss: https://kdinner.tistory.com/rss
+  description: Javascript
+  facebook: https://www.facebook.com/dinner.kang
+  github: https://github.com/DinnerKang
 - name: 강전희
   blog: https://newstars77.blog.me/
   rss: https://newstars77.blog.me/rss
