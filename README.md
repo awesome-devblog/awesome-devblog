@@ -18,15 +18,14 @@
 1. 좋아요, 포크, 제보, 풀리퀘 모두 환영입니다.프로젝트에 관심있으시면 gitter 들어오셔서 문의바랍니다.
 
 ## 소개글
-- [2017년 awesome-devblog 회고](https://medium.com/@sarojaba/2017년-awesome-devblog-회고-294694e0f99d)
-- [2018년 awesome-devblog 회고](https://medium.com/@sarojaba/2018년-awesome-devblog-회고-ecf03ef16b1a)
+- awesome-devblog 회고 [2017년](https://medium.com/@sarojaba/2017년-awesome-devblog-회고-294694e0f99d) [2018년](https://medium.com/@sarojaba/2018년-awesome-devblog-회고-ecf03ef16b1a)
 - [개발자를 위한 (블로그) 글쓰기 intro](https://www.slideshare.net/zzsza/intro-102870757)
 - [기술블로그 구독서비스 개발 후기 - 1부](https://taetaetae.github.io/2018/08/05/daily-dev-blog-1/)
 - [(tech-trend) 구루들이 찾는다는 테크 트렌드 - 유명 블로그와 소셜 유명인](http://keen.devpools.kr/2017/08/03/tech-trend-03/)
 - [한국 오픈소스 프로젝트 랭킹 Top 100](https://medium.com/supple/한국-오픈소스-프로젝트-top-100-739dafc082cf) - 69위
 
 ## 형제자매 프로젝트
-- AWESOME DEVBLOG(포탈) [Main](https://awesome-devblog.netlify.com/) [Sub](https://awesome-devblog.herokuapp.com/)
+- AWESOME DEVBLOG(포탈) [Main](https://awesome-devblog.netlify.com/)
 - [어썸블로그(안드로이드)](https://play.google.com/store/apps/details?id=org.petabytes.awesomeblogs)
 - [어썸블로그(iOS)](https://itunes.apple.com/us/app/어썸-블로그/id1276023809)
 - [어썸블로그(페이스북 페이지)](https://www.facebook.com/awesomeblogs/)
