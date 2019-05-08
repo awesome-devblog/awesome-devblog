@@ -4805,6 +4805,11 @@
   rss: https://medium.com/feed/@junggil
   description: AWS
   twitter: https://twitter.com/funxiah
+- name: 이정도
+  blog: https://leejungdo.com/
+  rss: https://leejungdo.com/feed.xml
+  description: React
+  github: https://github.com/jd1386
 - name: 이정영
   blog: https://blog.jyslash.com/@jungyounglee
   description: UI 디자인
@@ -6288,7 +6293,7 @@
   description: 알고리즘
 - name: 천세륜
   blog: https://seryuncheon.github.io/
-  rss: https://seryuncheon.github.io//feed.xml
+  rss: https://seryuncheon.github.io/feed.xml
   description: ''
   github: https://github.com/SeryunCheon
 - name: 천익훈
