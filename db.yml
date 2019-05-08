@@ -132,14 +132,14 @@
   youtube: https://www.youtube.com/channel/UCBbH_NiLhu5uXQ74Tf-qQhg
   facebook: https://www.facebook.com/newstars77
 - name: 강준영
-  blog: https://juneyoung-kang.github.io/blog/
-  rss: https://juneyoung-kang.github.io/blog/feed
-  description: Web
+  blog: https://blog.juneyoung.io
+  rss: https://blog.juneyoung.io/index.xml
+  description: Web Backend/Server
   facebook: https://www.facebook.com/juneyoungdev
-  instagram: https://www.instagram.com/juneyoung_kang/
-  twitter: https://twitter.com/juneyoung_kang
+  instagram: https://www.instagram.com/juneyoungdev
+  twitter: https://twitter.com/_4B1DD3N
   github: https://github.com/juneyoung-kang
-  home: http://juneyoung.kr/
+  home: https://juneyoung.io/
 - name: 강진우
   profile: people/alden.md
   blog: https://brunch.co.kr/@alden
