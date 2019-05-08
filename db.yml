@@ -1259,6 +1259,11 @@
   github: https://github.com/BenjaminKim
   linkedin: https://www.linkedin.com/in/benjamin-kim-73ab2038/
   gitlab: https://gitlab.com/BenjaminKim
+- name: 김재완
+  blog: https://lastrites2018.netlify.com/
+  rss: https://lastrites2018.netlify.com/rss.xml
+  description: Front-end
+  github: https://github.com/lastrites2018
 - name: 김정원
   blog: https://swtpumpkin.github.io/
   description: Javascript, Node
