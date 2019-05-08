@@ -70,7 +70,7 @@
 | 강성훈 | http://mearie.org/ | 카일루아 | [![](icons/rss-icon.png)](http://j.mearie.org/rss)[![](icons/twitter-icon.png)](https://twitter.com/senokay/)[![](icons/github-icon.png)](https://github.com/lifthrasiir/) |
 | 강성훈 | https://medium.com/@devholic | RxJava | [![](icons/rss-icon.png)](https://medium.com/feed/@devholic) |
 | 강성희 | https://medium.com/@shaynekang |  | [![](icons/rss-icon.png)](https://medium.com/feed/@shaynekang) |
-| 강준영 | http://juneyoung.kr/ | Web | [![](icons/facebook-icon.png)](https://www.facebook.com/develophics)[![](icons/twitter-icon.png)](https://twitter.com/juneyoung_kang)[![](icons/github-icon.png)](https://github.com/juneyoung-kang) |
+| 강준영 | https://blog.juneyoung.io/ | Web | [![](icons/rss-icon.png)](https://blog.juneyoung.io/index.xml)[![](icons/facebook-icon.png)](https://www.facebook.com/juneyoungdev)[![](icons/twitter-icon.png)](https://twitter.com/_4B1DD3N)[![](icons/github-icon.png)](https://github.com/juneyoung-kang) |
 | [강진우](people/alden.md) | https://brunch.co.kr/@alden | Linux | [![](icons/rss-icon.png)](https://brunch.co.kr/rss/@@3Y0) |
 | 강태욱 | http://daddynkidsmakers.blogspot.kr/ | IoT | [![](icons/rss-icon.png)](http://daddynkidsmakers.blogspot.com/feeds/posts/default) |
 | 강한별 | https://brunch.co.kr/@cloud09 | 데이터 분석 | [![](icons/rss-icon.png)](https://brunch.co.kr/rss/@@m6q)[![](icons/github-icon.png)](https://github.com/dearcloud09)[![](icons/linkedin-icon.png)](https://www.linkedin.com/in/cloud09/) |
