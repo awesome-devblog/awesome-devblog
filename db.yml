@@ -149,6 +149,10 @@
   blog: http://daddynkidsmakers.blogspot.kr/
   rss: http://daddynkidsmakers.blogspot.com/feeds/posts/default
   description: IoT
+- name: 강태희
+  blog: https://taylor-kang.github.io/
+  rss: https://taylor-kang.github.io/feed.xml
+  github: https://github.com/taylor-kang
 - name: 강한별
   blog: https://brunch.co.kr/@cloud09
   rss: https://brunch.co.kr/rss/@@m6q
