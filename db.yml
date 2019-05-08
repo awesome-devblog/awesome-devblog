@@ -5839,6 +5839,12 @@
   description: iOS
   facebook: https://www.facebook.com/iamseapy
   twitter: https://twitter.com/seapy
+- name: 정채환
+  blog: https://funchcode.github.io/
+  rss: https://funchcode.github.io/atom.xml
+  description: Back-end
+  github: https://github.com/funchcode
+  facebook: https://www.facebook.com/funchcode
 - name: 정철
   blog: https://wedul.site
   rss: https://wedul.site/rss
