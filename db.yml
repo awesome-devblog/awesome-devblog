@@ -2785,6 +2785,10 @@
   rss: https://medium.com/feed/@baejinho
   description: 스타트업, 치킨모임
   facebook: https://www.facebook.com/bae.jinho.3
+- name: 배현직
+  blog: https://imays.blog.me/
+  rss: http://imays.blog.me/rss
+  description: Game Development
 - name: 배호연
   blog: https://baehoyeon.github.io/
   description: Java
