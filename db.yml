@@ -1392,6 +1392,10 @@
   twitter: https://twitter.com/achimnol
   speakerdeck: https://speakerdeck.com/achimnol
   tistory: http://daybreaker.tistory.com/
+- name: 김준범
+  blog: https://brunch.co.kr/@monodream
+  rss: https://brunch.co.kr/rss/@@1Gdv
+  description: 디자인
 - name: 김준성
   blog: https://brunch.co.kr/@codertimo
   rss: https://brunch.co.kr/rss/@@Gyh
@@ -3468,10 +3472,13 @@
   facebook: https://www.facebook.com/sh84ahn
   twitter: https://twitter.com/sh84ahn
 - name: 안수빈
-  blog: http://nyeong.github.io/
-  rss: http://nyeong.github.io/feed.xml
+  blog: https://blog.annyeong.me/
+  rss: https://blog.annyeong.me/rss.xml
   description: Python
   github: https://github.com/nyeong
+  twitter: https://twitter.com/compiztab
+  instagram: https://www.instagram.com/compiztab/
+  home: https://annyeong.me/
 - name: 안수빈
   youtube: https://www.youtube.com/channel/UC8cvg1_oB-IDtWT2bfBC2OQ
   facebook: https://www.facebook.com/subinium
