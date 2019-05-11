@@ -3,6 +3,11 @@
   blog: https://kdevkr.github.io/
   description: 초보 개발 이야기
   github: https://github.com/kdevkr
+- name: 강경태
+  blog: https://bob-full.tistory.com/
+  rss: https://bob-full.tistory.com/rss
+  description: Spring Boot
+  facebook: https://www.facebook.com/profile.php?id=100003012256912
 - name: 강규영
   profile: people/ecogwiki.md
   blog: http://www.ecogwiki.com/
