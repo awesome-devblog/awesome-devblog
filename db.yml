@@ -1096,6 +1096,11 @@
   rss: https://blog.martinwork.co.kr/feed.xml
   description: AI, Javascript
   github: https://github.com/MartinYounghoonKim/
+- name: 김완종
+  blog: http://pbkim.egloos.com/
+  rss: http://rss.egloos.com/blog/pbkim
+  description: Unity3D
+  linkedin: https://www.linkedin.com/in/pbkim/
 - name: 김요섭
   blog: https://josephkim75.wordpress.com/
   rss: https://josephkim75.wordpress.com/feed/
