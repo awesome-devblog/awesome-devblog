@@ -2954,6 +2954,11 @@
   rss: http://inter6.tistory.com/rss
   description: OpenStack
   github: https://github.com/inter6
+- name: 서승호
+  blog: http://seosh81.info/
+  rss: http://seosh81.info/?feed=rss2
+  twitter: https://twitter.com/seosh81
+  github: https://github.com/seosh81
 - name: 서시원
   blog: https://blog.seotory.com/
   rss: http://blog.seotory.com/feed/
@@ -3382,6 +3387,7 @@
   github: https://github.com/hyeonseok
   pinterest: https://www.pinterest.co.kr/hyeonseok/
   flickr: https://www.flickr.com/photos/28458636@N08/
+  linkedin: https://www.linkedin.com/in/hyeonseokshin/
 - name: 신현식
   blog: https://medium.com/@Hyeon_SS
   rss: https://medium.com/feed/@Hyeon_SS
