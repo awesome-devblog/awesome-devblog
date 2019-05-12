@@ -217,7 +217,6 @@
 | 김지영 | https://brunch.co.kr/@pubjinson |  | [![](icons/rss-icon.png)](https://brunch.co.kr/rss/@@l9p) |
 | 김지우 | https://brunch.co.kr/@ken1224 | 스타트업, 음악산업 | [![](icons/rss-icon.png)](https://brunch.co.kr/rss/@@R2L) |
 | 김지운 | https://kishe89.github.io/ | Javascript | [![](icons/rss-icon.png)](https://kishe89.github.io/feed.xml)[![](icons/facebook-icon.png)](https://www.facebook.com/profile.php?id=100008052494285)[![](icons/github-icon.png)](https://github.com/kishe89) |
-| 김지혁 | http://kimjihyok.info/ | 안드로이드, 오픈소스 | [![](icons/rss-icon.png)](http://kimjihyok.info/feed/)[![](icons/facebook-icon.png)](https://www.facebook.com/wotomas)[![](icons/github-icon.png)](https://github.com/wotomas/)[![](icons/linkedin-icon.png)](https://www.linkedin.com/in/wotomas/) |
 | 김지헌 | http://java.ihoney.pe.kr/ | Java | [![](icons/rss-icon.png)](http://java.ihoney.pe.kr/rss)[![](icons/twitter-icon.png)](https://twitter.com/ihoneymon)[![](icons/github-icon.png)](https://github.com/ihoneymon) |
 | 김지현 | https://hyeon.me/ |  | [![](icons/facebook-icon.png)](https://www.facebook.com/simnalamburt)[![](icons/twitter-icon.png)](https://twitter.com/simnalamburt)[![](icons/github-icon.png)](https://github.com/simnalamburt) |
 | 김지홍 | https://brunch.co.kr/@jihere1001 | 프로토타이핑 | [![](icons/rss-icon.png)](https://brunch.co.kr/rss/@@3op) |
