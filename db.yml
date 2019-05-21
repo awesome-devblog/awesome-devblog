@@ -6394,6 +6394,11 @@
 - name: 최경돈
   slideshare: https://www.slideshare.net/KyungDonChoi
   linkedin: https://www.linkedin.com/in/kyung-don-choi-625977a2/
+- name: 최경재
+  blog: https://ryanking13.github.io/
+  rss: https://ryanking13.github.io/feed.xml
+  description: Python
+  github: https://github.com/ryanking13
 - name: 최경훈
   blog: https://medium.com/@idchoi2
   rss: https://medium.com/feed/@idchoi2
