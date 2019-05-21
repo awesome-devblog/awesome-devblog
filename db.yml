@@ -3201,8 +3201,8 @@
   description: ''
   github: https://github.com/songjun51
 - name: 송윤섭
-  blog: https://songyunseop.github.io/
-  rss: https://songyunseop.github.io/atom.xml
+  blog: https://tech.songyunseop.com/
+  rss: https://tech.songyunseop.com/atom.xml
   description: Python, Node.js
   facebook: https://www.facebook.com/yunseop.song.9
   linkedin: https://www.linkedin.com/in/yunseop-song-698226110/
@@ -3952,6 +3952,11 @@
   blog: http://www.simpleisbest.net/
   rss: http://www.simpleisbest.net/syndication.axd
   description: ".NET"
+- name: 유다현
+  blog: https://yuda.dev/
+  rss: https://yuda.dev/rss
+  description: Python
+  facebook: https://www.facebook.com/ydh0110
 - name: 유동곤
   blog: http://blog.naver.com/ehdrhs1004
   rss: https://rss.blog.naver.com/ehdrhs1004.xml
