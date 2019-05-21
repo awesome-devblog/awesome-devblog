@@ -3485,6 +3485,11 @@
   blog: https://medium.com/@sangtaehumphreyahn
   rss: https://medium.com/feed/@sangtaehumphreyahn
   facebook: https://www.facebook.com/sangtae.ahn
+- name: 안성주
+  blog: https://potensj.tistory.com/
+  rss: https://potensj.tistory.com/rss
+  description: Blockchain
+  github: https://github.com/AhnSungJoo
 - name: 안성현
   blog: http://ash84.net/
   description: Python
