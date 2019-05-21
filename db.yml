@@ -5726,6 +5726,16 @@
   rss: https://brunch.co.kr/rss/@@5ZK0
   description: 티도리
   github: https://github.com/pronist
+- name: 정민석
+  blog: https://medium.com/@HarrisonJung
+  rss: https://medium.com/feed/@HarrisonJung
+  description: 꿈많은청년들
+  facebook: https://www.facebook.com/calmlake79
+- name: 정민석
+  blog: https://dadadamarine.github.io/
+  rss: https://dadadamarine.github.io/feed.xml
+  description: Web
+  github: https://github.com/dadadamarine
 - name: 정민혁
   blog: https://www.holaxprogramming.com/
   rss: https://www.holaxprogramming.com/atom.xml
@@ -6305,6 +6315,15 @@
   blog: https://suhwan.dev/
   description: Spring
   github: https://github.com/Zeniuus
+- name: 지용호
+  blog: http://jidolstar.tistory.com/
+  rss: http://jidolstar.tistory.com/rss
+  description: Adobe Flex
+  facebook: https://www.facebook.com/jidolstar
+  twitter: https://twitter.com/jidolstar
+  github: https://github.com/jidolstar
+  slideshare: https://www.slideshare.net/jidolstar
+  rankedin: http://rankedin.kr/user/jidolstar
 - name: 지원준
   blog: https://brunch.co.kr/@wjchee
   rss: https://brunch.co.kr/atom/@@3SO
@@ -6356,25 +6375,12 @@
   description: iOS
   twitter: https://twitter.com/natenewbie
   instagram: https://www.instagram.com/natenewbie/
-- name: 정민석
-  blog: https://medium.com/@HarrisonJung
-  rss: https://medium.com/feed/@HarrisonJung
-  description: 꿈많은청년들
-  facebook: https://www.facebook.com/calmlake79
-- name: 정민석
-  blog: https://dadadamarine.github.io/
-  rss: https://dadadamarine.github.io/feed.xml
-  description: Web
-  github: https://github.com/dadadamarine
-- name: 지용호
-  blog: http://jidolstar.tistory.com/
-  rss: http://jidolstar.tistory.com/rss
-  description: Adobe Flex
-  facebook: https://www.facebook.com/jidolstar
-  twitter: https://twitter.com/jidolstar
-  github: https://github.com/jidolstar
-  slideshare: https://www.slideshare.net/jidolstar
-  rankedin: http://rankedin.kr/user/jidolstar
+- name: 진형탁
+  blog: https://njir.github.io/
+  rss: https://njir.github.io/index.xml
+  description: Javascript
+  linkedin: https://www.linkedin.com/in/hyungtak/
+  github: https://github.com/njir
 - name: 차경묵
   blog: http://blog.hannal.com/
   rss: http://blog.hannal.com/feed
