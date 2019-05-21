@@ -2078,6 +2078,11 @@
   description: Spring
   facebook: https://www.facebook.com/keumhwanmoon
   medium: https://medium.com/@jason.moon.kr
+- name: 문나래
+  blog: https://dbbymoon.tistory.com/
+  rss: https://dbbymoon.tistory.com/rss
+  description: Database
+  facebook: https://www.facebook.com/profile.php?id=100007568919933
 - name: 문동선
   blog: http://dsmoon.tistory.com/
   rss: http://dsmoon.tistory.com/rss
@@ -3957,6 +3962,8 @@
   rss: https://yuda.dev/rss
   description: Python
   facebook: https://www.facebook.com/ydh0110
+  github: https://github.com/yuda110
+  twitter: https://twitter.com/ydh0110
 - name: 유동곤
   blog: http://blog.naver.com/ehdrhs1004
   rss: https://rss.blog.naver.com/ehdrhs1004.xml
