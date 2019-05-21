@@ -2369,6 +2369,12 @@
 - name: 박세진
   linkedin: https://www.linkedin.com/in/park-sejin-88264844/
   slideshare: https://www.slideshare.net/ParkSejin
+- name: 박소현
+  blog: https://soromi.github.io/
+  rss: https://soromi.github.io/feed.xml
+  description: Web
+  github: https://github.com/soromi
+  instagram: https://www.instagram.com/soromi_/
 - name: 박승호
   blog: https://devwaf.blogspot.kr/
   rss: https://devwaf.blogspot.com/feeds/posts/default
@@ -7256,3 +7262,8 @@
 - name: Daniel Kim
   github: https://github.com/elastic7327
   youtube: https://www.youtube.com/channel/UCID9irVXdprEARXI8S8FRbg
+- name: David Hwang
+  blog: https://medium.com/@hkc7180
+  rss: https://medium.com/feed/@hkc7180
+  description: Javascript
+  github: https://github.com/david718
