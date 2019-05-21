@@ -2399,6 +2399,11 @@
   twitter: https://twitter.com/pakyoungrok
   facebook: https://www.facebook.com/pakyoungrok
   linkedin: https://www.linkedin.com/in/youngrok-pak-0a23931b/
+- name: 박영호
+  blog: http://mellonia-lab.tistory.com/
+  rss: http://mellonia-lab.tistory.com/rss
+  description: Web
+  github: https://github.com/Mellonia
 - name: 박용권
   blog: https://brunch.co.kr/@arawn
   rss: https://brunch.co.kr/rss/@@14mT
@@ -2413,6 +2418,11 @@
 - name: 박용서
   blog: https://gs.saro.me
   description: ''
+- name: 박우철
+  description: Android
+  github: https://github.com/ParkWoocheol
+  linkedin: https://www.linkedin.com/in/parkwoocheol/
+  home: https://parkwoocheol.com/
 - name: 박원영
   blog: https://blog.one0.me/
   rss: https://blog.one0.me/feed.xml
@@ -2421,16 +2431,12 @@
   github: https://github.com/rubysoho07
   linkedin: https://www.linkedin.com/in/rubysoho07/
   slideshare: https://www.slideshare.net/YungonPark
-- name: 박영호
-  blog: http://mellonia-lab.tistory.com/
-  rss: http://mellonia-lab.tistory.com/rss
+- name: 박윤재
+  blog: https://yoonjaepark.github.io/
+  rss: https://yoonjaepark.github.io/feed.xml
   description: Web
-  github: https://github.com/Mellonia
-- name: 박우철
-  description: Android
-  github: https://github.com/ParkWoocheol
-  linkedin: https://www.linkedin.com/in/parkwoocheol/
-  home: https://parkwoocheol.com/
+  github: https://github.com/yoonjaepark
+  rocketpunch: https://www.rocketpunch.com/@rhkdro90
 - name: 박은정
   blog: https://www.lucypark.kr/
   rss: http://feeds.feedburner.com/e9t
