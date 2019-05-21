@@ -5416,10 +5416,13 @@
   linkedin: https://www.linkedin.com/in/ikwhanchang/
   home: https://matthew.kr/
 - name: 장재원
-  blog: http://superjang.com/
-  rss: http://superjang.com/feed
+  blog: https://cresumerjang.github.io/
   description: Front-end
   facebook: https://www.facebook.com/superjang11
+  twitter: https://twitter.com/cresumerjang
+  github: https://github.com/cresumerjang
+  rankedin: http://rankedin.kr/user/cresumerjang
+  home: http://superjang.com/
 - name: 장재휴
   blog: https://jaehue.github.io/
   description: Go
@@ -5554,6 +5557,11 @@
   linkedin: https://www.linkedin.com/in/fuzer/
   github: https://github.com/FuZer
   facebook: https://www.facebook.com/shtowever
+- name: 전시형
+  blog: https://www.wizmusa.net/
+  rss: https://www.wizmusa.net/rss
+  description: 기획
+  facebook: https://www.facebook.com/Sihyoung.Jurn
 - name: 전윤아
   blog: https://brunch.co.kr/@itisyoona
   rss: https://brunch.co.kr/rss/@@12cS
