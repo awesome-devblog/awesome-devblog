@@ -898,6 +898,9 @@
   blog: https://brunch.co.kr/@artiveloper
   rss: https://brunch.co.kr/rss/@@1RbC
   description: Java
+- name: 김선욱
+  blog: https://velog.io/@wo0kgod
+  github: https://github.com/wo0kgod
 - name: 김선철
   blog: http://blog.naver.com/PostList.nhn?blogId=sckim007
   rss: http://blog.rss.naver.com/sckim007.xml
