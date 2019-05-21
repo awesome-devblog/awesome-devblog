@@ -959,6 +959,13 @@
   blog: http://greemate.tistory.com/
   rss: http://greemate.tistory.com/rss
   description: 윈도우즈 커널
+- name: 김성현
+  blog: https://velog.io/@novemberoscar
+  description: Back-end
+  facebook: https://www.facebook.com/seonghyeon2k18
+  github: https://github.com/NovemberOscar
+  twitter: https://twitter.com/NovemberOscar_
+  home: https://artoria.us/
 - name: 김성호
   blog: http://shiren.github.io/
   rss: http://shiren.github.io/feed.xml
