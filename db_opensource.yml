@@ -280,6 +280,9 @@
   github: https://github.com/worldsibu/convector
   chat: https://discordapp.com/invite/twRwpWt
   tags: [Block Chain]
+- name: Cortex
+  github: https://github.com/cortexproject/cortex
+  tags: [Prometheus]
 - name: CouchDB
   home: https://couchdb.apache.org/
   github: https://github.com/apache/couchdb
@@ -332,6 +335,11 @@
   slack: http://chat.dcos.io/
   jira: https://jira.mesosphere.com
   tags: [Container Orchestration]
+- name: dc.js
+  home: https://dc-js.github.io/dc.js/
+  github: https://github.com/dc-js/dc.js
+  gitter: https://gitter.im/dc-js/dc.js
+  tags: [Javascript, Chart]
 - name: deck.js
   home: http://imakewebthings.com/deck.js/
   github: https://github.com/imakewebthings/deck.js
@@ -382,7 +390,7 @@
   blog: https://www.elastic.co/kr/blog
   awesome: https://github.com/dzharii/awesome-elasticsearch
   reddit: https://www.reddit.com/r/elasticsearch/
-  tags: [Distributed Search Engine]
+  tags: [Search Engine]
 - name: ECharts
   home: http://incubator.apache.org/projects/echarts.html
   github: https://github.com/apache/incubator-echarts
@@ -626,6 +634,10 @@
 - name: graphqurl
   github: https://github.com/hasura/graphqurl
   tags: [CLI]
+- name: GridDB
+  home: https://griddb.net/
+  github: https://github.com/griddb/griddb_nosql
+  tags: [Database]
 - name: Grunt
   home: https://gruntjs.com/
   github: https://github.com/gruntjs/grunt
@@ -674,6 +686,10 @@
   twitter: https://twitter.com/handsontable
   stackoverflow: https://stackoverflow.com/questions/tagged/handsontable
   tags: [Spreadsheet]
+- name: Handtrack.js
+  home: https://victordibia.github.io/handtrack.js/
+  github: https://github.com/victordibia/handtrack.js
+  tags: [Javascript, Vision]
 - name: hapi
   home: https://hapijs.com/
   github: https://github.com/hapijs/hapi
@@ -939,6 +955,10 @@
   github: https://github.com/LightTable/LightTable
   forum: https://groups.google.com/forum/#!forum/light-table-discussion
   tags: [Text Editor]
+- name: linaria
+  home: https://linaria.now.sh/
+  github: https://github.com/callstack/linaria
+  tags: [CSS]
 - name: Linkerd
   home: https://linkerd.io/
   github: https://github.com/linkerd/linkerd
@@ -963,6 +983,13 @@
   linkedin: https://www.linkedin.com/company/the-linux-foundation/
   awesome: https://github.com/aleksandar-todorovic/awesome-linux
   tags: [OS Kernel]
+- name: Light 4J
+  home: https://doc.networknt.com/
+  github: https://github.com/networknt/light-4j
+  gitter: https://gitter.im/networknt/light-4j
+  stackoverflow: https://stackoverflow.com/questions/tagged/light-4j
+  reddit: https://www.reddit.com/r/lightapi/
+  tags: [Java, Back-end Framework]
 - name: Lombok
   home: https://projectlombok.org/
   github: https://github.com/rzwitserloot/lombok
@@ -1078,6 +1105,10 @@
   stackoverflow: https://stackoverflow.com/questions/tagged/mithril.js
   awesome: https://github.com/orbitbot/awesome-mithril
   tags: [Javascript, Front-end Framework]
+- name: MMLSpark
+  home: http://aka.ms/spark
+  github: https://github.com/Azure/mmlspark
+  tags: [Machine Learning, Spark]
 - name: mo.js
   home: http://mojs.io/
   github: https://github.com/legomushroom/mojs
@@ -1093,6 +1124,12 @@
   github: https://github.com/mochajs/mocha
   gitter: https://gitter.im/mochajs/mocha
   tags: [Javascript, Testing]
+- name: Moleculer
+  home: https://moleculer.services/
+  github: https://github.com/moleculerjs/moleculer
+  gitter: https://gitter.im/moleculerjs/moleculer
+  blog: https://medium.com/moleculer
+  tags: [Javascript, Back-end Framework]
 - name: Moment.js
   home: https://momentjs.com/
   github: https://github.com/moment/moment
@@ -1137,6 +1174,14 @@
   home: https://www.nameko.io/
   github: https://github.com/nameko/nameko
   tags: [Python, Back-end Framework]
+- name: Navi
+  home: https://frontarm.com/navi/
+  github: https://github.com/frontarm/navi
+  npm: https://www.npmjs.com/package/navi
+  tags: [Routing, React]
+- name: NeDB
+  github: https://github.com/louischatriot/nedb
+  tags: [Database]
 - name: Neo4j
   home: https://neo4j.com/
   github: https://github.com/neo4j/neo4j
@@ -1431,6 +1476,12 @@
   forum: https://discuss.pytorch.org/
   awesome: https://github.com/bharathgs/Awesome-pytorch-list
   tags: [Machine Learning]
+- name: Quasar
+  home: https://quasar-framework.org/
+  github: https://github.com/quasarframework/quasar
+  discord: https://discordapp.com/invite/5TDhbDg
+  forum: https://forum.quasar-framework.org/
+  tags: [Javascript, Front-end Framework, Vue]
 - name: RabbitMQ
   home: https://www.rabbitmq.com/
   github: https://github.com/rabbitmq/rabbitmq-server
@@ -1478,6 +1529,11 @@
   github: https://github.com/uber/react-vis
   npm: https://www.npmjs.com/package/react-vis
   tags: [Visualization]
+- name: REAVIZ
+  home: https://jask-oss.github.io/reaviz/
+  github: https://github.com/jask-oss/reaviz
+  npm: https://www.npmjs.com/package/reaviz
+  tags: [React, Chart]
 - name: Recharts
   home: http://recharts.org/
   github: https://github.com/recharts/recharts
@@ -1614,6 +1670,10 @@
   home: https://designrevision.com/downloads/shards/
   github: https://github.com/designrevision/shards-ui
   tags: [UI Framework]
+- name: Siddhi
+  home: http://siddhi.io/
+  github: https://github.com/siddhi-io/siddhi
+  tags: [Complex Event Processing]
 - name: Signale
   github: https://github.com/klauscfhq/signale
   npm: https://www.npmjs.com/package/signale
@@ -1644,6 +1704,10 @@
   twitter: https://twitter.com/SonarQube
   forum: https://community.sonarsource.com/
   tags: [Code Quality]
+- name: Sonic
+  home: https://crates.io/crates/sonic-server
+  github: https://github.com/valeriansaliou/sonic
+  tags: [Search Engine]
 - name: Sonnet
   home: https://deepmind.github.io/sonnet/
   github: https://github.com/deepmind/sonnet
@@ -1698,6 +1762,11 @@
   home: http://storm.apache.org/
   github: https://github.com/apache/storm
   tags: [Distributed Processing]
+- name: StreamAlert
+  home: https://streamalert.io/
+  github: https://github.com/airbnb/streamalert
+  slack: https://streamalert.herokuapp.com/
+  tags: [Data Analysis]
 - name: swc
   home: https://swc-project.github.io/
   github: https://github.com/swc-project/swc
@@ -1729,6 +1798,10 @@
   stackoverflow: https://stackoverflow.com/questions/tagged/three.js
   awesome: https://github.com/fritx/awesome-threejs
   tags: [3D Graphics]
+- name: TingoDB
+  home: http://www.tingodb.com/
+  github: https://github.com/sergeyksv/tingodb
+  tags: [Database]
 - name: Tink
   github: https://github.com/google/tink
   tags: [Security]
@@ -1831,6 +1904,9 @@
   home: http://velocityjs.org/
   github: https://github.com/julianshapiro/velocity
   tags: [Animation]
+- name: Veonim
+  github: https://github.com/veonim/veonim
+  tags: [Vim, IDE]
 - name: VerneMQ
   home: https://vernemq.com/
   github: https://github.com/erlio/vernemq
@@ -1847,6 +1923,10 @@
   github: https://github.com/vibora-io/vibora
   pypi: https://pypi.org/project/vibora/
   tags: [Python, Web Framework]
+- name: Victory
+  home: https://formidable.com/open-source/victory/
+  github: https://github.com/FormidableLabs/victory
+  tags: [Javascript, Chart]
 - name: Vitess
   home: https://vitess.io/
   github: https://github.com/vitessio/vitess
@@ -1955,6 +2035,10 @@
   home: https://wasmer.io/
   github: https://github.com/wasmerio/wasmer
   tags: [WebAssembly]
+- name: Wasmtime
+  github: https://github.com/CraneStation/wasmtime
+  gitter: https://gitter.im/CraneStation/Lobby
+  tags: [WebAssembly, Runtime]
 - name: XState
   home: https://xstate.js.org/
   github: https://github.com/davidkpiano/xstate
