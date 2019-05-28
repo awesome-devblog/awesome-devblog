@@ -4254,6 +4254,13 @@
   blog: http://blog.woniper.net/
   rss: http://blog.woniper.net/rss
   description: Java
+- name: 이경은
+  blog: https://medium.com/@2kyung19
+  rss: https://medium.com/feed/@2kyung19
+  description: Firebase
+  github: https://github.com/2kyung19
+  facebook: https://www.facebook.com/profile.php?id=100015443015440
+  instagram: https://www.instagram.com/2kyung19/
 - name: 이경일
   blog: http://blog.leekyoungil.com/
   description: Java, Spring
