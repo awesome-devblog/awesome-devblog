@@ -1826,6 +1826,11 @@
   rss: http://cogniti-works.blogspot.com/feeds/posts/default
   description: nimf
   github: https://github.com/cogniti
+- name: 김호영
+  blog: https://khzero.github.io/
+  rss: https://khzero.github.io/feed
+  description: Spring Boot, Javascript
+  github: https://github.com/khzero
 - name: 김홍배
   slideshare: https://www.slideshare.net/ssuser06e0c5
 - name: 김화수
