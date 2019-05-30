@@ -3362,6 +3362,10 @@
   description: 보안
   twitter: https://twitter.com/codemaru
   github: https://github.com/amorvita
+- name: 신영진
+  blog: https://jindev.me/
+  rss: https://jindev.me/rss
+  github: https://github.com/youngjinshin
 - name: 신예지
   blog: http://dev.bloodevil.com/
   rss: http://dev.bloodevil.com/rss
