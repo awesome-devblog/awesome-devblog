@@ -435,6 +435,7 @@
 | 신민욱 | https://minwook-shin.github.io/ | Python | [![](icons/rss-icon.png)](https://minwook-shin.github.io/feed)[![](icons/facebook-icon.png)](https://www.facebook.com/minwook.book)[![](icons/github-icon.png)](https://github.com/minwook-shin)[![](icons/linkedin-icon.png)](https://www.linkedin.com/in/minwook-shin/) |
 | 신승환 | http://www.talk-with-hani.com/ |  | [![](icons/facebook-icon.png)](https://www.facebook.com/talkwithhani) |
 | 신영진 | http://www.jiniya.net/ | 보안 | [![](icons/rss-icon.png)](http://feeds.feedburner.com/codewiz)[![](icons/twitter-icon.png)](https://twitter.com/codemaru)[![](icons/github-icon.png)](https://github.com/amorvita) |
+| 신영진 | https://jindev.me/ |  | [![](icons/rss-icon.png)](https://jindev.me/rss)[![](icons/github-icon.png)](https://github.com/youngjinshin) |
 | 신예지 | http://dev.bloodevil.com/ | Python | [![](icons/rss-icon.png)](http://dev.bloodevil.com/rss) |
 | 신용윤 | http://uni2u.tistory.com/ | 네트워크 | [![](icons/rss-icon.png)](http://uni2u.tistory.com/rss)[![](icons/slideshare-icon.png)](https://www.slideshare.net/uni2u)[![](icons/facebook-icon.png)](https://www.facebook.com/uni2u)[![](icons/github-icon.png)](https://github.com/uni2u)[![](icons/linkedin-icon.png)](https://www.linkedin.com/in/yongyoon-shin-80a8b557/) |
 | 신은광 | https://gracefullight.github.io/ |  | [![](icons/rss-icon.png)](https://gracefullight.github.io/feed)[![](icons/github-icon.png)](https://github.com/gracefullight) |
