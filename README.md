@@ -374,6 +374,7 @@
 | 박훈 | http://1ambda.github.io/ | 함수형 언어 | [![](icons/rss-icon.png)](http://1ambda.github.io/rss/)[![](icons/github-icon.png)](https://github.com/1ambda)[![](icons/linkedin-icon.png)](https://www.linkedin.com/in/1ambda/) |
 | 박희근 | http://sirini.net/grboard2/blog | GR BOARD | [![](icons/rss-icon.png)](http://sirini.net/grboard2/blog/rss) |
 | 박희찬 | https://blog.chann.kr/ |  | [![](icons/rss-icon.png)](https://blog.chann.kr/index.xml)[![](icons/twitter-icon.png)](https://twitter.com/channprj)[![](icons/github-icon.png)](https://github.com/channprj) |
+| 박태진 | https://fernando.kr/ |  | [![](icons/rss-icon.png)](https://fernando.kr/feed)[![](icons/twitter-icon.png)](https://twitter.com/techinpark)[![](icons/github-icon.png)](https://github.com/techinpark) |
 | 반진우 | https://mathbarn.wordpress.com/ | Ubuntu | [![](icons/rss-icon.png)](https://mathbarn.wordpress.com/feed/) |
 | 방준영 | http://bangjunyoung.blogspot.kr/ | Java | [![](icons/rss-icon.png)](http://feeds.feedburner.com/junyoung?format=xml) |
 | 배기홍 | http://www.thestartupbible.com/ | IT 칼럼 | [![](icons/rss-icon.png)](http://feeds.feedburner.com/baenefit/slXh)[![](icons/twitter-icon.png)](https://twitter.com/khbae) |
