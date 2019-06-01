@@ -2768,6 +2768,12 @@
   github: https://github.com/channprj
   twitter: https://twitter.com/channprj
   instagram: https://www.instagram.com/channprj/
+- name: 박태진
+  blog: https://fernando.kr/
+  rss: https://fernando.kr/feed
+  description: 'Fernando 기술 블로그'
+  github: https://github.com/techinpark
+  twitter: https://twitter.com/techinpark
 - name: 반병현
   blog: https://brunch.co.kr/@needleworm
   rss: https://brunch.co.kr/rss/@@4f8T
