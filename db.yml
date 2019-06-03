@@ -6349,6 +6349,11 @@
   blog: https://brunch.co.kr/@wjchee
   rss: https://brunch.co.kr/atom/@@3SO
   description: IT 칼럼
+- name: 지찬규
+  blog: https://jay-ji.tistory.com/
+  rss: https://jay-ji.tistory.com/feed
+  description: 기술 블로그
+  github: https://github.com/JAY-Chan9yu
 - name: 진민규
   blog: https://medium.com/@justin_jin
   rss: https://medium.com/feed/@justin_jin
