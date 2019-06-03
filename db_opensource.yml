@@ -1,0 +1,2047 @@
+---
+- name: ActiveMQ
+  home: http://activemq.apache.org/
+  github: https://github.com/apache/activemq
+  tags: [Message Broker]
+- name: Adonis
+  home: https://adonisjs.com/
+  github: https://github.com/adonisjs/adonis-framework
+  blog: https://adonisjs.svbtle.com/
+  twitter: https://twitter.com/adonisframework
+  forum: https://forum.adonisjs.com/
+  discord: https://discordapp.com/invite/vDcEjq6
+  npm: https://www.npmjs.com/package/@adonisjs/framework
+  awesome: https://github.com/zgabievi/awesome-adonisjs
+  tags: [Javascript, Back-end Framework]
+- name: AIOHTTP
+  home: https://aiohttp.readthedocs.io/en/stable/
+  github: https://github.com/aio-libs/aiohttp
+  pypi: https://pypi.org/project/aiohttp/
+  tags: [HTTP Client]
+- name: Altair
+  home: https://altair-viz.github.io/
+  github: https://github.com/altair-viz/altair
+  tags: [Visualization]
+- name: Amp
+  home: https://amp.rs/
+  github: https://github.com/jmacdonald/amp
+  tags: [Text Editor]
+- name: Angular
+  home: https://angular.io/
+  github: https://github.com/angular/angular
+  twitter: https://twitter.com/angular
+  blog: https://blog.angular.io
+  gitter: https://gitter.im/angular/angular
+  stackoverflow: https://stackoverflow.com/questions/tagged/angular
+  quora: https://www.quora.com/topic/AngularJS
+  awesome: https://github.com/gdi2290/awesome-angular
+  reddit: https://www.reddit.com/r/angular/
+  tags: [Javascript, Front-end Framework]
+- name: Animate.css
+  home: https://daneden.github.io/animate.css/
+  github: https://github.com/daneden/animate.css
+  cdnjs: https://cdnjs.com/libraries/animate.css/
+  tags: [Animation]
+- name: Anime
+  home: http://animejs.com/
+  github: https://github.com/juliangarnier/anime
+  codepen: https://codepen.io/collection/XLebem
+  tags: [Animation]
+- name: Ansible
+  home: https://www.ansible.com/
+  github: https://github.com/ansible/ansible
+  blog: https://www.ansible.com/blog
+  meetup: https://www.meetup.com/ko-KR/Ansible-Seoul/
+  awesome: https://github.com/jdauphant/awesome-ansible
+  reddit: https://www.reddit.com/r/ansible/
+  tags: [DevOps]
+- name: Antwar
+  home: https://antwar.js.org/
+  github: https://github.com/antwarjs/antwar
+  blog: https://antwar.js.org/blog/
+  tags: [Static Site Generator]
+- name: Apollo
+  home: https://www.apollographql.com/
+  github: https://github.com/apollographql/apollo
+  blog: https://blog.apollographql.com/
+  slack: https://www.apollographql.com/slack
+  twitter: https://twitter.com/apollographql
+  youtube: https://www.youtube.com/channel/UC0pEW_GOrMJ23l8QcrGdKSw
+  awesome: https://github.com/ooade/awesome-apollo-graphql
+  tags: [GraphQL]
+- name: Astroflow
+  home: https://astrocorp.net/astroflow/
+  github: https://github.com/astrocorp42/astroflow-go
+  tags: [Logging]
+- name: Atom
+  home: https://atom.io/
+  github: https://github.com/atom/atom
+  blog: http://blog.atom.io/
+  awesome: https://github.com/mehcode/awesome-atom
+  reddit: https://www.reddit.com/r/Atom/
+  tags: [Text Editor]
+- name: Auto Keras
+  home: https://autokeras.com/
+  github: https://github.com/jhfjhfj1/autokeras
+  gitter: https://gitter.im/autokeras/Lobby
+  tags: [Machine Learning]
+- name: AVA
+  github: https://github.com/avajs/ava
+  twitter: https://twitter.com/ava__js
+  stackoverflow: https://stackoverflow.com/questions/tagged/ava
+  awesome: https://github.com/avajs/awesome-ava
+  tags: [Javascript, Testing]
+- name: axios
+  github: https://github.com/axios/axios
+  npm: https://www.npmjs.com/package/axios
+  tags: [HTTP Client]
+- name: Axon
+  home: http://www.axonframework.org/
+  github: https://github.com/AxonFramework/AxonFramework
+  tags: [Java, Back-end Framework]
+- name: Babel
+  home: https://babeljs.io/
+  github: https://github.com/babel/babel
+  blog: https://babeljs.io/blog
+  twitter: https://twitter.com/babeljs
+  slack: https://babeljs.slack.com/
+  awesome: https://github.com/babel/awesome-babel
+  tags: [Javascript, Tool]
+- name: Barrier
+  github: https://github.com/debauchee/barrier
+  tags: [KVM]
+- name: Bat
+  github: https://github.com/sharkdp/bat
+  tags: [CLI]
+- name: Bazel
+  home: https://bazel.build/
+  github: https://github.com/bazelbuild/bazel
+  blog: https://blog.bazel.build/
+  twitter: https://twitter.com/bazelbuild
+  stackoverflow: https://stackoverflow.com/questions/tagged/bazel
+  forum: https://groups.google.com/forum/#!forum/bazel-discuss
+  awesome: https://github.com/jin/awesome-bazel
+  tags: [Java, Build]
+- name: BloomRPC
+  github: https://github.com/uw-labs/bloomrpc
+  tags: [RPC]
+- name: Blueprint
+  home: https://blueprintjs.com/
+  github: https://github.com/palantir/blueprint
+  tags: [UI Framework]
+- name: Bootstrap
+  home: https://getbootstrap.com/
+  github: https://github.com/twbs/bootstrap
+  twitter: https://twitter.com/getbootstrap
+  blog: https://blog.getbootstrap.com/
+  awesome: https://github.com/therebelrobot/awesome-bootstrap
+  reddit: https://www.reddit.com/r/bootstrap/
+  tags: [UI Framework]
+- name: Bottle
+  home: https://bottlepy.org/
+  github: https://github.com/bottlepy/bottle
+  twitter: https://twitter.com/bottlepy
+  blog: http://blog.bottlepy.org/
+  rss: http://blog.bottlepy.org/feeds/all.atom.xml
+  tags: [Python, Web Framework]
+- name: Bounce.js
+  home: http://bouncejs.com/
+  github: https://github.com/tictail/bounce.js
+  tags: [Animation]
+- name: Bower
+  home: https://bower.io/
+  github: https://github.com/bower/bower
+  twitter: https://twitter.com/bower
+  tags: [Javascript, Package Manager]
+- name: brain.js
+  home: https://brain.js.org/
+  github: https://github.com/BrainJS/brain.js
+  tags: [Neural Networks]
+- name: Brave
+  home: https://brave.com/
+  github: https://github.com/brave/browser-laptop
+  blog: https://brave.com/blog/
+  twitter: https://twitter.com/brave
+  facebook: https://www.facebook.com/BraveSoftware/
+  youtube: https://www.youtube.com/bravesoftware
+  reddit: https://www.reddit.com/r/brave_browser/
+  tags: [Web Browser]
+- name: Browserify
+  home: http://browserify.org/
+  github: https://github.com/browserify/browserify
+  twitter: https://twitter.com/browserify
+  awesome: https://github.com/browserify/awesome-browserify
+  tags: [Javascript, Tool]
+- name: Brunch
+  home: http://brunch.io/
+  github: https://github.com/brunch/brunch
+  twitter: https://twitter.com/brunch
+  stackoverflow: https://stackoverflow.com/questions/tagged/brunch
+  tags: [Static Site Generator]
+- name: Buck
+  home: https://buckbuild.com/
+  github: https://github.com/facebook/buck
+  tags: [Java, Build]
+- name: Buildah
+  home: https://buildah.io
+  github: https://github.com/containers/buildah
+  tags: [Container]
+- name: Bulma
+  home: https://bulma.io/
+  github: https://github.com/jgthms/bulma
+  blog: https://bulma.io/blog/
+  tags: [UI Framework]
+- name: C3.js
+  home: https://c3js.org/
+  github: https://github.com/c3js/c3
+  googlegroups: https://groups.google.com/forum/#!forum/c3js
+  tags: [Javascript, Chart]
+- name: Cabot
+  home: https://cabotapp.com/
+  github: https://github.com/arachnys/cabot
+  tags: [Monitoring]
+- name: Caffe2
+  home: https://caffe2.ai/
+  github: https://github.com/caffe2/caffe2
+  awesome: https://github.com/MichaelXin/Awesome-Caffe
+  reddit: https://www.reddit.com/r/Caffe2/
+  tags: [Machine Learning]
+- name: CartoDB
+  home: https://carto.com/
+  github: https://github.com/CartoDB/cartodb
+  reddit: https://www.reddit.com/r/cartodb/
+  tags: [Visualization]
+- name: Cassandra
+  home: http://cassandra.apache.org/
+  github: https://github.com/apache/cassandra
+  blog: http://cassandra.apache.org/blog/
+  twitter: https://twitter.com/cassandra
+  stackoverflow: https://stackoverflow.com/questions/tagged/cassandra
+  awesome: https://github.com/yikebocai/awesome-cassandra
+  reddit: https://www.reddit.com/r/cassandra/
+  tags: [Database]
+- name: Chart.js
+  home: https://www.chartjs.org/
+  github: https://github.com/chartjs/Chart.js
+  tags: [Javascript, Chart]
+- name: Chartist.js
+  home: https://gionkunz.github.io/chartist-js/
+  github: https://github.com/gionkunz/chartist-js
+  tags: [Javascript, Chart]
+- name: Chef
+  home: https://www.chef.io/
+  github: https://github.com/chef/chef
+  slack: https://community-slack.chef.io/
+  awesome: https://github.com/obazoud/awesome-chef
+  tags: [DevOps]
+- name: CherryPy
+  home: https://cherrypy.org/
+  github: https://github.com/cherrypy/cherrypy
+  gitter: https://gitter.im/cherrypy/cherrypy
+  reddit: https://www.reddit.com/r/CherryPy/
+  tags: [Python, Web Framework]
+- name: CNTK
+  home: https://www.microsoft.com/en-us/cognitive-toolkit/
+  github: https://github.com/Microsoft/CNTK
+  gitter: https://gitter.im/Microsoft/CNTK
+  blog: https://www.microsoft.com/en-us/cognitive-toolkit/blog/
+  reddit: https://www.reddit.com/r/cntk/
+  tags: [Machine Learning]
+- name: CockroachDB
+  home: https://www.cockroachlabs.com/
+  github: https://github.com/cockroachdb/cockroach
+  blog: https://www.cockroachlabs.com/blog/
+  forum: https://forum.cockroachlabs.com/
+  gitter: https://gitter.im/cockroachdb/cockroach
+  stackoverflow: https://stackoverflow.com/questions/tagged/cockroachdb
+  reddit: https://www.reddit.com/r/CockroachDB/
+  tags: [Database]
+- name: colorls
+  github: https://github.com/athityakumar/colorls
+  tags: [CLI]
+- name: Consul
+  home: https://www.consul.io/
+  github: https://github.com/hashicorp/consul
+  gitter: https://gitter.im/hashicorp-consul/Lobby
+  googlegroups: https://groups.google.com/group/consul-tool/
+  awesome: https://github.com/josegonzalez/awesome-consul
+  tags: [Service Discovery]
+- name: containerd
+  home: https://containerd.io/
+  github: https://github.com/containerd/containerd
+  blog: https://blog.docker.com/tag/containerd/
+  twitter: https://twitter.com/containerd
+  slack: https://slack.containerd.io/
+  stackoverflow: https://stackoverflow.com/search?tab=newest&q=containerd
+  youtube: https://www.youtube.com/results?search_query=containerd
+  tags: [Container Runtime]
+- name: Convector
+  home: https://worldsibu.io/convector-smart-contract-systems/
+  github: https://github.com/worldsibu/convector
+  chat: https://discordapp.com/invite/twRwpWt
+  tags: [Block Chain]
+- name: Cortex
+  github: https://github.com/cortexproject/cortex
+  tags: [Prometheus]
+- name: CouchDB
+  home: https://couchdb.apache.org/
+  github: https://github.com/apache/couchdb
+  twitter: https://twitter.com/couchdb
+  dockerhub: https://hub.docker.com/_/couchdb/
+  awesome: https://github.com/quangv/awesome-couchdb
+  reddit: https://www.reddit.com/r/CouchDB/
+  tags: [Database]
+- name: Crystal
+  home: https://crystal-lang.org/
+  github: https://github.com/crystal-lang/crystal
+  gitter: https://gitter.im/crystal-lang/crystal
+  stackoverflow: https://stackoverflow.com/questions/tagged/crystal-lang
+  blog: https://crystal-lang.org/blog/
+  awesome: https://github.com/veelenga/awesome-crystal
+  reddit: https://www.reddit.com/r/crystal_programming/
+  tags: [Programming Language]
+- name: Curl
+  home: https://curl.haxx.se/
+  github: https://github.com/curl/curl
+  tags: [CLI, URL]
+- name: D3
+  home: https://d3js.org/
+  github: https://github.com/d3/d3
+  cdnjs: https://cdnjs.com/libraries/d3
+  awesome: https://github.com/wbkd/awesome-d3
+  reddit: https://www.reddit.com/r/d3js/
+  tags: [Visualization]
+- name: Dash
+  home: https://plot.ly/products/dash/
+  github: https://github.com/plotly/dash
+  awesome: https://github.com/ucg8j/awesome-dash
+  tags: [Python, Web Framework]
+- name: date-fns
+  home: https://date-fns.org/
+  github: https://github.com/date-fns/date-fns
+  twitter: https://twitter.com/date_fns
+  blog: https://blog.date-fns.org/
+  npm: https://www.npmjs.com/package/date-fns
+  rss: https://blog.date-fns.org/rss
+  tags: [Date]
+- name: Day.js
+  github: https://github.com/iamkun/dayjs
+  tags: [Date]
+- name: DC/OS
+  home: https://dcos.io/
+  github: https://github.com/dcos/dcos
+  blog: https://mesosphere.com/blog/
+  twitter: https://twitter.com/dcos
+  slack: http://chat.dcos.io/
+  jira: https://jira.mesosphere.com
+  tags: [Container Orchestration]
+- name: dc.js
+  home: https://dc-js.github.io/dc.js/
+  github: https://github.com/dc-js/dc.js
+  gitter: https://gitter.im/dc-js/dc.js
+  tags: [Javascript, Chart]
+- name: deck.js
+  home: http://imakewebthings.com/deck.js/
+  github: https://github.com/imakewebthings/deck.js
+  tags: [Presentation]
+- name: Deeplearning4j
+  home: https://deeplearning4j.org/
+  github: https://github.com/deeplearning4j/deeplearning4j
+  twitter: https://twitter.com/deeplearning4j
+  facebook: https://www.facebook.com/deeplearning4j/
+  gitter: https://gitter.im/deeplearning4j/deeplearning4j
+  reddit: https://www.reddit.com/r/deeplearning4j/
+  tags: [Machine Learning]
+- name: deno
+  github: https://github.com/denoland/deno
+  gitter: https://gitter.im/denolife/Lobby
+  npm: https://www.npmjs.com/package/deno
+  awesome: https://github.com/olivewind/awesome-deno
+  reddit: https://www.reddit.com/r/Deno/
+  tags: [Javascript, Runtime]
+- name: Detectron
+  github: https://github.com/facebookresearch/Detectron
+  tags: [Machine Learning]
+- name: Discourse
+  github: https://github.com/discourse/discourse
+  home: https://www.discourse.org/
+  forum: https://meta.discourse.org/
+  twitter: https://twitter.com/discourse
+  blog: https://blog.discourse.org/
+  reddit: https://www.reddit.com/r/discourse/
+  tags: [Forum]
+- name: Django
+  home: https://www.djangoproject.com/
+  github: https://github.com/django/django
+  blog: https://www.djangoproject.com/weblog/
+  twitter: https://twitter.com/djangoproject
+  awesome: https://gitlab.com/rosarior/awesome-django
+  reddit: https://www.reddit.com/r/django/
+  tags: [Python, Web Framework]
+- name: Dopamine
+  github: https://github.com/google/dopamine
+  tags: [Machine Learning]
+- name: Dumper.js
+  github: https://github.com/zeeshanu/dumper.js
+  tags: [Debug]
+- name: Elasticsearch
+  home: https://www.elastic.co/kr/products/elasticsearch
+  github: https://github.com/elastic/elasticsearch
+  blog: https://www.elastic.co/kr/blog
+  awesome: https://github.com/dzharii/awesome-elasticsearch
+  reddit: https://www.reddit.com/r/elasticsearch/
+  tags: [Search Engine]
+- name: ECharts
+  home: http://incubator.apache.org/projects/echarts.html
+  github: https://github.com/apache/incubator-echarts
+  awesome: https://github.com/ecomfe/awesome-echarts
+  tags: [Javascript, Chart]
+- name: Electron
+  home: https://electronjs.org/
+  github: https://github.com/electron/electron
+  blog: https://electronjs.org/blog
+  twitter: https://twitter.com/electronjs
+  awesome: https://github.com/sindresorhus/awesome-electron
+  reddit: https://www.reddit.com/r/electronjs/
+  tags: [Application Framework]
+- name: Ember.js
+  home: https://emberjs.com/
+  github: https://github.com/emberjs/ember.js
+  twitter: https://twitter.com/emberjs
+  slack: https://embercommunity.slack.com/
+  awesome: https://github.com/nmec/awesome-ember
+  reddit: https://www.reddit.com/r/emberjs/
+  tags: [Javascript, Front-end Framework]
+- name: Envoy
+  home: https://www.envoyproxy.io/
+  github: https://github.com/envoyproxy/envoy
+  twitter: https://twitter.com/EnvoyProxy
+  medium: https://blog.envoyproxy.io/
+  tags: [Proxy]
+- name: epic-spinners
+  github: https://github.com/epicmaxco/epic-spinners
+  tags: [CSS Spinner]
+- name: ESLint
+  home: https://eslint.org/
+  github: https://github.com/eslint/eslint
+  blog: https://eslint.org/blog/
+  twitter: https://twitter.com/geteslint
+  gitter: https://gitter.im/eslint/eslint
+  awesome: https://github.com/dustinspecker/awesome-eslint
+  tags: [Javascript, Lint]
+- name: excel4node
+  github: https://github.com/natergj/excel4node
+  npm: https://www.npmjs.com/package/excel4node
+  tags: [Excel]
+- name: ExoPlayer
+  home: https://google.github.io/ExoPlayer/
+  github: https://github.com/google/ExoPlayer
+  blog: https://medium.com/google-exoplayer
+  tags: [Android, Media Player]
+- name: Exposed
+  github: https://github.com/JetBrains/Exposed
+  tags: [Kotlin, SQL]
+- name: Express
+  home: http://expressjs.com/
+  github: https://github.com/expressjs/express
+  npm: https://www.npmjs.com/package/express
+  gitter: https://gitter.im/expressjs/express
+  googlegroups: https://groups.google.com/group/express-js
+  quora: https://www.quora.com/topic/Express-Node-js-web-framework
+  awesome: https://github.com/rajikaimal/awesome-express
+  tags: [Javascript, Back-end Framework]
+- name: Falcon
+  home: https://falconframework.org/
+  github: https://github.com/falconry/falcon
+  tags: [Python, Back-end Framework]
+- name: Falcon
+  github: https://github.com/socketry/falcon
+  gitter: https://gitter.im/socketry/falcon
+  tags: [Ruby, Web Server]
+- name: FASTER
+  home: https://www.microsoft.com/en-us/research/project/FASTER/
+  github: https://github.com/Microsoft/FASTER
+  tags: [Key-value Store]
+- name: Fastify
+  home: https://www.fastify.io/
+  github: https://github.com/fastify/fastify
+  gitter: https://gitter.im/fastify/Lobby
+  tags: [Javascript, Back-end Framework]
+- name: fd
+  github: https://github.com/sharkdp/fd
+  tags: [CLI]
+- name: Feathers
+  home: https://feathersjs.com/
+  github: https://github.com/feathersjs/feathers
+  npm: https://www.npmjs.com/package/@feathersjs/feathers
+  twitter: https://twitter.com/feathersjs
+  slack: http://slack.feathersjs.com/
+  blog: https://blog.feathersjs.com/
+  stackoverflow: https://stackoverflow.com/questions/tagged/feathersjs
+  awesome: https://github.com/feathersjs/awesome-feathersjs
+  tags: [Javascript, Back-end Framework]
+- name: Fission
+  home: https://fission.io/
+  github: https://github.com/fission/fission
+  blog: https://blog.fission.io/
+  twitter: https://twitter.com/fissionio
+  tags: [Serverless]
+- name: Flameshot
+  github: https://github.com/lupoDharkael/flameshot
+  tags: [Application]
+- name: Flask
+  home: http://flask.pocoo.org/
+  github: https://github.com/pallets/flask
+  pypi: https://pypi.org/project/Flask/
+  travisci: https://travis-ci.org/pallets/flask
+  awesome: https://github.com/humiaozuzu/awesome-flask
+  tags: [Python, Web Framework]
+- name: Flipper
+  home: https://fbflipper.com/
+  github: https://github.com/facebook/flipper
+  twitter: https://twitter.com/flipper_fb
+  tags: [Debug]
+- name: Fluentd
+  home: https://www.fluentd.org/
+  github: https://github.com/fluent/fluentd
+  blog: https://www.fluentd.org/blog/
+  slack: https://slack.fluentd.org/
+  googlegroups: https://groups.google.com/forum/#!forum/fluentd
+  facebook: https://www.facebook.com/Fluentd-196064987183037/
+  twitter: https://twitter.com/fluentd
+  stackoverflow: https://stackoverflow.com/questions/tagged/fluentd
+  googleplus: https://plus.google.com/101058615563686673102
+  tags: [Logging]
+- name: Flutter
+  home: https://flutter.io/
+  github: https://github.com/flutter/flutter
+  twitter: https://twitter.com/flutterio
+  gitter: https://gitter.im/flutter/flutter
+  stackoverflow: https://stackoverflow.com/tags/flutter
+  awesome: https://github.com/Solido/awesome-flutter
+  tags: [Application Framework]
+- name: Fn
+  home: http://fnproject.io/
+  github: https://github.com/fnproject/fn
+  blog: https://medium.com/fnproject
+  twitter: https://twitter.com/fnproj
+  tags: [Serverless]
+- name: Font Awesome
+  home: https://fontawesome.com/
+  github: https://github.com/FortAwesome/Font-Awesome
+  blog: https://blog.fontawesome.com/
+  twitter: https://twitter.com/fontawesome
+  facebook: https://www.facebook.com/fontawesome
+  tags: [Font]
+- name: Forest
+  github: https://github.com/forest-lang/forest-compiler
+  tags: [Programming Language]
+- name: Foundation
+  home: https://foundation.zurb.com/
+  github: https://github.com/zurb/foundation-sites
+  forum: https://foundation.zurb.com/forum
+  blog: https://zurb.com/blog
+  tags: [UI Framework]
+- name: Foxify
+  home: https://foxify.js.org/
+  github: https://github.com/foxifyjs/foxify
+  npm: https://www.npmjs.com/package/foxify
+  tags: [Javascript, Back-end Framework]
+- name: Frappe Charts
+  home: https://frappe.io/charts
+  github: https://github.com/frappe/charts
+  blog: https://frappe.io/blog
+  tags: [Javascript, Chart]
+- name: Fresco
+  home: http://frescolib.org/
+  github: https://github.com/facebook/fresco
+  tags: [Android, Image]
+- name: fx
+  github: https://github.com/antonmedv/fx
+  tags: [CLI, JSON]
+- name: fzf
+  github: https://github.com/junegunn/fzf
+  tags: [CLI]
+- name: G2
+  home: https://antv.alipay.com/zh-cn/g2/3.x/index.html
+  github: https://github.com/antvis/g2
+  tags: [Javascript, Chart]
+- name: Gatsby
+  home: https://www.gatsbyjs.org/
+  github: https://github.com/gatsbyjs/gatsby
+  twitter: https://twitter.com/gatsbyjs
+  awesome: https://github.com/prayash/awesome-gatsby
+  tags: [Static Site Generator]
+- name: Glances
+  home: https://nicolargo.github.io/glances/
+  github: https://github.com/nicolargo/glances
+  gitter: https://gitter.im/nicolargo/glances
+  tags: [Monitoring]
+- name: Go
+  home: https://golang.org/
+  github: https://github.com/golang/go
+  blog: https://blog.golang.org/
+  twitter: https://twitter.com/golang
+  awesome: https://github.com/avelino/awesome-go
+  tags: [Programming Language]
+- name: Go Ethereum
+  home: https://geth.ethereum.org/
+  github: https://github.com/ethereum/go-ethereum
+  gitter: https://gitter.im/ethereum/go-ethereum
+  discord: https://discordapp.com/invite/nthXNEv
+  tags: [Block Chain]
+- name: Godot
+  home: https://godotengine.org/
+  github: https://github.com/godotengine/godot
+  facebook: https://www.facebook.com/groups/godotengine/about/
+  twitter: https://twitter.com/godotengine
+  reddit: https://www.reddit.com/r/godot
+  awesome: https://github.com/Calinou/awesome-godot
+  tags: [Go, Game Engine]
+- name: Got
+  github: https://github.com/sindresorhus/got
+  tags: [HTTP Client]
+- name: gotop
+  github: https://github.com/cjbassi/gotop
+  tags: [CLI]
+- name: Gradle
+  home: https://gradle.org/
+  github: https://github.com/gradle/gradle
+  awesome: https://github.com/ksoichiro/awesome-gradle
+  tags: [Java, Build]
+- name: Grafana
+  home: https://grafana.com/
+  github: https://github.com/grafana/grafana
+  blog: https://grafana.com/blog/
+  twitter: https://twitter.com/grafana
+  tags: [Monitoring]
+- name: Grain
+  home: https://grain-lang.org/
+  github: https://github.com/grain-lang/grain
+  tags: [Programming Language]
+- name: Graphpack
+  github: https://github.com/glennreyes/graphpack
+  tags: [Javascript, Back-end Framework]
+- name: GraphQL
+  home: https://graphql.org/
+  github: https://github.com/facebook/graphql
+  blog: https://graphql.org/blog/
+  twitter: https://twitter.com/GraphQL
+  facebook: https://www.facebook.com/groups/graphql.community/
+  stackoverflow: https://stackoverflow.com/questions/tagged/graphql
+  awesome: https://github.com/chentsulin/awesome-graphql
+  tags: [Domain Specific Language]
+- name: graphqurl
+  github: https://github.com/hasura/graphqurl
+  tags: [CLI]
+- name: GridDB
+  home: https://griddb.net/
+  github: https://github.com/griddb/griddb_nosql
+  tags: [Database]
+- name: Grunt
+  home: https://gruntjs.com/
+  github: https://github.com/gruntjs/grunt
+  twitter: https://twitter.com/gruntjs/
+  blog: https://gruntjs.com/blog
+  rss: https://gruntjs.com/rss
+  tags: [Javascript, Tool]
+- name: Gulp
+  home: https://gulpjs.com/
+  github: https://github.com/gulpjs/gulp
+  twitter: https://twitter.com/gulpjs
+  npm: https://www.npmjs.com/package/gulp
+  awesome: https://github.com/alferov/awesome-gulp
+  tags: [Javascript, Tool]
+- name: gRPC
+  home: https://grpc.io/
+  github: https://github.com/grpc/grpc
+  blog: https://grpc.io/blog/
+  twitter: https://twitter.com/grpcio
+  stackoverflow: https://stackoverflow.com/tags/grpc/
+  youtube: https://www.youtube.com/channel/UCrnk1HWelWnYtF78YZX80fg
+  awesome: https://github.com/grpc-ecosystem/awesome-grpc
+  tags: [RPC]
+- name: GSAP
+  home: https://greensock.com/
+  github: https://github.com/greensock/GreenSock-JS
+  forum: https://greensock.com/forums/
+  codepen: https://codepen.io/GreenSock
+  tags: [Animation]
+- name: Guava
+  github: https://github.com/google/guava
+  maven: https://mvnrepository.com/artifact/com.google.guava/guava
+  tags: [Java, Core Library]
+- name: gVisor
+  github: https://github.com/google/gvisor
+  tags: [Container]
+- name: Hadoop
+  home: http://hadoop.apache.org/
+  github: https://github.com/apache/hadoop
+  awesome: https://github.com/youngwookim/awesome-hadoop
+  tags: [Distributed Processing]
+- name: Handsontable
+  home: https://handsontable.com/
+  github: https://github.com/handsontable/handsontable
+  blog: https://handsontable.com/blog/
+  twitter: https://twitter.com/handsontable
+  stackoverflow: https://stackoverflow.com/questions/tagged/handsontable
+  tags: [Spreadsheet]
+- name: Handtrack.js
+  home: https://victordibia.github.io/handtrack.js/
+  github: https://github.com/victordibia/handtrack.js
+  tags: [Javascript, Vision]
+- name: hapi
+  home: https://hapijs.com/
+  github: https://github.com/hapijs/hapi
+  twitter: https://twitter.com/hapijs
+  quora: https://www.quora.com/topic/Hapi-Node-js-API-Framework
+  awesome: https://github.com/anhldbk/awesome-hapi
+  tags: [Javascript, Back-end Framework]
+- name: HAProxy
+  home: http://www.haproxy.org/
+  github: https://github.com/haproxy/haproxy
+  slack: https://slack.haproxy.org/
+  tags: [Proxy]
+- name: Helidon
+  home: https://helidon.io/
+  github: https://github.com/oracle/helidon
+  twitter: https://twitter.com/helidon_project
+  tags: [Java, Back-end Framework]
+- name: Helm
+  home: https://helm.sh/
+  github: https://github.com/helm/helm
+  slack: https://kubernetes.slack.com/
+  tags: [Container]
+- name: Hexo
+  home: https://hexo.io/
+  github: https://github.com/hexojs/hexo
+  twitter: https://twitter.com/hexojs
+  forum: https://groups.google.com/group/hexo
+  awesome: https://github.com/hexojs/awesome-hexo
+  tags: [Static Site Generator]
+- name: Highcharts
+  home: https://www.highcharts.com/
+  github: https://github.com/highcharts/highcharts
+  blog: https://www.highcharts.com/blog/
+  tags: [Javascript, Chart]
+- name: Hover.css
+  home: https://ianlunn.github.io/Hover/
+  github: https://github.com/IanLunn/Hover
+  tags: [Animation]
+- name: Hugo
+  home: https://gohugo.io/
+  github: https://github.com/gohugoio/hugo
+  forum: https://discourse.gohugo.io/
+  twitter: https://twitter.com/gohugoio
+  awesome: https://github.com/cnych/awesome-hugo
+  tags: [Static Site Generator]
+- name: Hyper
+  home: https://hyper.is/
+  github: https://github.com/zeit/hyper
+  awesome: https://github.com/bnb/awesome-hyper
+  tags: [Terminal]
+- name: hyper
+  home: https://hyper.rs/
+  github: https://github.com/hyperium/hyper
+  tags: [Rust, Web Framework]
+- name: imgui
+  github: https://github.com/ocornut/imgui
+  tags: [Kotlin]
+- name: impress.js
+  home: https://impress.js.org/
+  github: https://github.com/impress/impress.js
+  tags: [Presentation]
+- name: indigo-player
+  home: https://matvp91.github.io/indigo-player/
+  github: https://github.com/matvp91/indigo-player
+  npm: https://www.npmjs.com/package/indigo-player
+  tags: [Media Player]
+- name: Inferno
+  home: https://www.infernojs.org/
+  github: https://github.com/infernojs/inferno
+  npm: https://github.com/infernojs/inferno
+  awesome: https://github.com/guuibayer/awesome-inferno
+  tags: [Javascript, Front-end Framework]
+- name: InfluxDB
+  home: https://www.influxdata.com/time-series-platform/influxdb/
+  github: https://github.com/influxdata/influxdb
+  twitter: https://twitter.com/influxdb
+  facebook: https://www.facebook.com/influxdb
+  awesome: https://github.com/mark-rushakoff/awesome-influxdb
+  tags: [Database]
+- name: Ink
+  tags: [CLI, React]
+  github: https://github.com/vadimdemedes/ink
+- name: Istio
+  home: https://istio.io/
+  github: https://github.com/istio/istio
+  blog: https://istio.io/blog/
+  slack: https://istio.slack.com/
+  tags: [DevOps]
+- name: iTerm2
+  home: https://iterm2.com/
+  github: https://github.com/gnachman/iTerm2
+  forum: https://groups.google.com/group/iterm2-discuss
+  quora: https://www.quora.com/topic/iTerm2
+  awesome: https://github.com/marianvlad/awesome-iterm
+  tags: [Terminal]
+- name: Jaeger
+  home: https://www.jaegertracing.io/
+  github: https://github.com/jaegertracing/jaeger
+  gitter: https://gitter.im/jaegertracing/Lobby
+  tags: [Distributed Tracing]
+- name: Jasmine
+  home: https://jasmine.github.io/
+  github: https://github.com/jasmine/jasmine
+  tags: [Javascript, Testing]
+- name: Javalin
+  home: https://javalin.io/
+  github: https://github.com/tipsy/javalin
+  gitter: https://gitter.im/javalin-io/general
+  tags: [Java, Back-end Framework]
+- name: Jayway JsonPath
+  github: https://github.com/json-path/JsonPath
+  stackoverflow: https://stackoverflow.com/questions/tagged/jsonpath
+  tags: [JSON]
+- name: Jenkins
+  home: https://jenkins.io/
+  github: https://github.com/jenkinsci/jenkins
+  blog: https://jenkins.io/node/
+  gitter: https://gitter.im/jenkinsci/jenkins
+  awesome: https://github.com/sahilsk/awesome-jenkins
+  tags: [DevOps]
+- name: Jekyll
+  home: https://jekyllrb.com/
+  github: https://github.com/jekyll/jekyll
+  awesome: https://github.com/planetjekyll/awesome-jekyll
+  tags: [Static Site Generator]
+- name: Jib
+  github: https://github.com/GoogleContainerTools/jib
+  gitter: https://gitter.im/google/jib
+  tags: [Java, Build]
+- name: Johnny-Five
+  home: http://johnny-five.io/
+  github: https://github.com/rwaldron/johnny-five
+  tags: [Robotics]
+- name: Julia
+  home: https://julialang.org/
+  github: https://github.com/JuliaLang/julia
+  blog: https://julialang.org/blog/
+  forum: https://discourse.julialang.org/
+  youtube: https://www.youtube.com/user/JuliaLanguage
+  slack: https://julialang.slack.com/
+  awesome: https://github.com/greister/Awesome-Julia
+  tags: [Programming Language]
+- name: jq
+  home: https://stedolan.github.io/jq/
+  github: https://github.com/stedolan/jq
+  stackoverflow: https://stackoverflow.com/questions/tagged/jq
+  awesome: https://github.com/fiatjaf/awesome-jq
+  tags: [CLI]
+- name: jQuery
+  home: https://jquery.com/
+  github: https://github.com/jquery/jquery
+  twitter: https://twitter.com/jquery
+  stackoverflow: https://stackoverflow.com/tags/jquery
+  awesome: https://github.com/petk/awesome-jquery
+  tags: [Javascript, Core Library]
+- name: jspm
+  home: https://jspm.org/
+  github: https://github.com/jspm/jspm-cli
+  gitter: https://gitter.im/jspm/jspm
+  tags: [Javascript, Package Manager]
+- name: Kafka
+  home: https://kafka.apache.org/
+  github: https://github.com/apache/kafka
+  twitter: https://twitter.com/apachekafka
+  awesome: https://github.com/infoslack/awesome-kafka
+  tags: [Message Broker]
+- name: Keras
+  home: https://keras.io/
+  github: https://github.com/keras-team/keras
+  googlegroups: https://groups.google.com/forum/#!forum/keras-users
+  slack: https://kerasteam.slack.com/
+  awesome: https://github.com/soumendra/awesome-keras
+  tags: [Machine Learning]
+- name: Kibana
+  home: https://www.elastic.co/products/kibana
+  github: https://github.com/elastic/kibana
+  tags: [Monitoring]
+- name: kitty
+  home: https://sw.kovidgoyal.net/kitty/
+  github: https://github.com/kovidgoyal/kitty
+  tags: [Terminal]
+- name: Kitura
+  home: https://www.kitura.io/
+  github: https://github.com/ibm-swift/kitura
+  slack: http://swift-at-ibm-slack.mybluemix.net/
+  blog: https://developer.ibm.com/swift/blogs/
+  tags: [Swift, Web Framework]
+- name: Koa
+  home: https://koajs.com/
+  github: https://github.com/koajs/koa
+  googleplus: https://plus.google.com/communities/101845768320796750641
+  gitter: https://gitter.im/koajs/koa
+  reddit: https://www.reddit.com/r/koajs/
+  opencollective: https://opencollective.com/koajs
+  quora: https://www.quora.com/topic/Koa-Node-js-framework
+  awesome: https://github.com/ellerbrock/awesome-koa
+  tags: [Javascript, Back-end Framework]
+- name: Koin
+  github: https://github.com/InsertKoinIO/koin
+  home: https://insert-koin.io/
+  twitter: https://twitter.com/insertkoin_io
+  slack: https://kotlinlang.slack.com/
+  blog: https://medium.com/koin-developers
+  tags: [Kotlin, Framework]
+- name: Koka
+  home: https://www.microsoft.com/en-us/research/project/koka/
+  github: https://github.com/koka-lang/koka
+  tags: [Programming Language]
+- name: Kong
+  home: https://konghq.com/
+  github: https://github.com/Kong/kong
+  blog: https://konghq.com/blog/
+  forum: https://discuss.konghq.com/
+  tags: [Proxy]
+- name: Kotlin
+  home: https://kotlinlang.org/
+  github: https://github.com/JetBrains/kotlin
+  blog: https://blog.jetbrains.com/kotlin/
+  twitter: https://twitter.com/kotlin
+  discourse: https://discuss.kotlinlang.org/
+  awesome: https://github.com/KotlinBy/awesome-kotlin
+  tags: [Programming Language]
+- name: Kubeflow
+  home: https://www.kubeflow.org/
+  github: https://github.com/kubeflow/kubeflow
+  twitter: https://twitter.com/kubeflow
+  slack: https://kubeflow.slack.com/
+  tags: [Kubernetes]
+- name: Kubeless
+  home: https://kubeless.io/
+  github: https://github.com/kubeless/kubeless
+  tags: [Serverless]
+- name: Kubernetes
+  home: https://kubernetes.io/
+  github: https://github.com/kubernetes/kubernetes
+  blog: https://kubernetes.io/blog/
+  twitter: https://twitter.com/kubernetesio
+  slack: http://slack.k8s.io/
+  stackoverflow: https://stackoverflow.com/questions/tagged/kubernetes
+  discourse: https://discuss.kubernetes.io/
+  awesome: https://github.com/ramitsurana/awesome-kubernetes
+  tags: [Container Orchestration]
+- name: Ky
+  github: https://github.com/sindresorhus/ky
+  tags: [HTTP Client]
+- name: Laco
+  github: https://github.com/deamme/laco
+  tags: [State Management, React]
+- name: Lerna
+  home: https://lernajs.io/
+  github: https://github.com/lerna/lerna
+  tags: [Javascript, Package Manager]
+- name: libpod
+  home: https://podman.io/
+  github: https://github.com/containers/libpod
+  tags: [Container]
+- name: Libuv
+  home: http://libuv.org/
+  github: https://github.com/libuv/libuv
+  tags: [C, Async I/O]
+- name: LightTable
+  home: http://lighttable.com/
+  github: https://github.com/LightTable/LightTable
+  forum: https://groups.google.com/forum/#!forum/light-table-discussion
+  tags: [Text Editor]
+- name: linaria
+  home: https://linaria.now.sh/
+  github: https://github.com/callstack/linaria
+  tags: [CSS]
+- name: Linkerd
+  home: https://linkerd.io/
+  github: https://github.com/linkerd/linkerd
+  twitter: https://twitter.com/linkerd
+  slack: https://slack.linkerd.io/
+  discourse: https://discourse.linkerd.io/
+  tags: [Proxy]
+- name: Linkerd2
+  home: https://linkerd.io/
+  github: https://github.com/linkerd/linkerd2
+  twitter: https://twitter.com/linkerd
+  slack: https://slack.linkerd.io/
+  discourse: https://discourse.linkerd.io/
+  tags: [Proxy]
+- name: Linux
+  home: https://www.linuxfoundation.org/
+  github: https://github.com/torvalds/linux
+  twitter: https://twitter.com/linuxfoundation
+  facebook: https://www.facebook.com/TheLinuxFoundation/
+  youtube: https://www.youtube.com/user/TheLinuxFoundation
+  googleplus: https://plus.google.com/+LinuxfoundationOrg
+  linkedin: https://www.linkedin.com/company/the-linux-foundation/
+  awesome: https://github.com/aleksandar-todorovic/awesome-linux
+  tags: [OS Kernel]
+- name: Light 4J
+  home: https://doc.networknt.com/
+  github: https://github.com/networknt/light-4j
+  gitter: https://gitter.im/networknt/light-4j
+  stackoverflow: https://stackoverflow.com/questions/tagged/light-4j
+  reddit: https://www.reddit.com/r/lightapi/
+  tags: [Java, Back-end Framework]
+- name: Lombok
+  home: https://projectlombok.org/
+  github: https://github.com/rzwitserloot/lombok
+  forum: https://groups.google.com/forum/#!forum/project-lombok
+  tags: [Java, Core Library]
+- name: LoopBack
+  home: https://loopback.io/
+  github: https://github.com/strongloop/loopback
+  gitter: https://gitter.im/strongloop/loopback
+  googlegroups: https://groups.google.com/forum/#!forum/loopbackjs
+  awesome: https://github.com/pasindud/awesome-loopback
+  tags: [Javascript, Back-end Framework]
+- name: lory
+  home: http://meandmax.github.io/lory/
+  github: https://github.com/meandmax/lory
+  cdnjs: https://cdnjs.com/libraries/lory.js/
+  tags: [Slider]
+- name: low.js
+  home: http://www.lowjs.org/
+  github: https://github.com/neonious/lowjs
+  tags: [Javascript, Runtime]
+- name: Luxon
+  home: https://moment.github.io/luxon/
+  github: https://github.com/moment/luxon
+  tags: [Date]
+- name: LXC
+  home: https://linuxcontainers.org/lxc/
+  github: https://github.com/lxc/lxc
+  tags: [Container Runtime]
+- name: LXD
+  home: https://linuxcontainers.org/lxd/
+  github: https://github.com/lxc/lxd
+  tags: [Container Orchestration]
+- name: Marathon
+  home: https://mesosphere.github.io/marathon/
+  github: https://github.com/mesosphere/marathon
+  stackoverflow: https://stackoverflow.com/questions/tagged/marathon
+  googlegroups: https://groups.google.com/forum/#!forum/marathon-framework
+  slack: https://mesosphere.slack.com/
+  jira: https://jira.mesosphere.com
+  tags: [Container Orchestration]
+- name: MariaDB
+  home: https://mariadb.org/
+  github: https://github.com/MariaDB/server
+  twitter: https://twitter.com/mariadbfdn
+  blog: https://mariadb.org/blog/
+  tags: [Database]
+- name: Marko
+  home: https://markojs.com/
+  github: https://github.com/marko-js/marko
+  tags: [Javascript, Front-end Framework]
+- name: Materialize
+  home: https://materializecss.com/
+  github: https://github.com/Dogfalo/materialize
+  cdnjs: https://cdnjs.com/libraries/materialize
+  gitter: https://gitter.im/Dogfalo/materialize
+  tags: [UI Framework]
+- name: Mattermost
+  home: https://mattermost.com/
+  github: https://github.com/mattermost/mattermost-server
+  blog: https://mattermost.com/blog/
+  twitter: https://twitter.com/mattermosthq
+  tags: [Communication]
+- name: Maven
+  home: https://maven.apache.org/
+  github: https://github.com/apache/maven
+  tags: [Java, Build]
+- name: MDC Web
+  home: https://material.io/develop/
+  github: https://github.com/material-components/material-components-web
+  tags: [UI Framework]
+- name: mermaid
+  home: https://mermaidjs.github.io/
+  github: https://github.com/knsv/mermaid
+  tags: [Diagram]
+- name: Meteor
+  home: https://www.meteor.com/
+  github: https://github.com/meteor/meteor
+  twitter: https://twitter.com/meteorjs
+  forums: https://forums.meteor.com/
+  youtube: https://www.youtube.com/user/MeteorVideos
+  facebook: https://www.facebook.com/meteorjs/
+  awesome: https://github.com/Urigo/awesome-meteor
+  tags: [Javascript, Back-end Framework]
+- name: Micro
+  home: https://micro-editor.github.io/
+  github: https://github.com/zyedidia/micro
+  gitter: https://gitter.im/zyedidia/micro
+  tags: [Text Editor]
+- name: MicroK8s
+  home: https://microk8s.io/
+  github: https://github.com/ubuntu/microk8s
+  tags: [Kubernetes]
+- name: Micronaut
+  home: http://micronaut.io/
+  github: https://github.com/micronaut-projects/micronaut-core
+  gitter: https://gitter.im/micronautfw/
+  twitter: https://twitter.com/micronautfw
+  tags: [Java, Back-end Framework]
+- name: mini.css
+  home: https://minicss.org/
+  github: https://github.com/Chalarangelo/mini.css
+  cdnjs: https://cdnjs.com/libraries/mini.css
+  tags: [UI Framework]
+- name: Mininet
+  home: http://mininet.org/
+  github: https://github.com/mininet/mininet
+  tags: [Network]
+- name: Mithril
+  home: https://mithril.js.org/
+  github: https://github.com/MithrilJS/mithril.js
+  gitter: https://gitter.im/mithriljs/mithril.js
+  stackoverflow: https://stackoverflow.com/questions/tagged/mithril.js
+  awesome: https://github.com/orbitbot/awesome-mithril
+  tags: [Javascript, Front-end Framework]
+- name: MMLSpark
+  home: http://aka.ms/spark
+  github: https://github.com/Azure/mmlspark
+  tags: [Machine Learning, Spark]
+- name: mo.js
+  home: http://mojs.io/
+  github: https://github.com/legomushroom/mojs
+  tags: [Animation]
+- name: Moby
+  home: https://mobyproject.org/
+  github: https://github.com/moby/moby
+  blog: https://mobyproject.org/
+  twitter: https://twitter.com/moby
+  tags: [Container Runtime]
+- name: Mocha
+  home: https://mochajs.org/
+  github: https://github.com/mochajs/mocha
+  gitter: https://gitter.im/mochajs/mocha
+  tags: [Javascript, Testing]
+- name: Moleculer
+  home: https://moleculer.services/
+  github: https://github.com/moleculerjs/moleculer
+  gitter: https://gitter.im/moleculerjs/moleculer
+  blog: https://medium.com/moleculer
+  tags: [Javascript, Back-end Framework]
+- name: Moment.js
+  home: https://momentjs.com/
+  github: https://github.com/moment/moment
+  tags: [Date]
+- name: Monaco Editor
+  home: https://microsoft.github.io/monaco-editor/index.html
+  github: https://github.com/Microsoft/monaco-editor
+  npm: https://www.npmjs.com/package/monaco-editor
+  tags: [Text Editor]
+- name: MongoDB
+  home: https://www.mongodb.com/
+  github: https://github.com/mongodb/mongo
+  facebook: https://www.facebook.com/MongoDB/
+  youtube: https://www.youtube.com/user/mongodb
+  twitter: https://twitter.com/mongodb
+  linkedin: https://www.linkedin.com/company/mongodbinc
+  stackoverflow: https://stackoverflow.com/tags/mongodb
+  awesome: https://github.com/ramnes/awesome-mongodb
+  tags: [Database]
+- name: Mono
+  home: https://www.mono-project.com/
+  github: https://github.com/mono/mono
+  rss: https://www.mono-project.com/atom.xml
+  tags: [.NET, Runtime]
+- name: MXNet
+  home: https://mxnet.incubator.apache.org/
+  github: https://github.com/apache/incubator-mxnet
+  forum: https://discuss.mxnet.io/
+  awesome: https://github.com/chinakook/Awesome-MXNet
+  tags: [Machine Learning]
+- name: Mysql
+  home: https://www.mysql.com/
+  github: https://github.com/mysql/mysql-server
+  facebook: https://www.facebook.com/mysql
+  twitter: https://twitter.com/mysql
+  linkedin: https://www.linkedin.com/company/mysql/
+  youtube: https://www.youtube.com/user/MySQLChannel
+  googleplus: https://plus.google.com/+mysql
+  awesome: https://github.com/shlomi-noach/awesome-mysql
+  tags: [Database]
+- name: Nameko
+  home: https://www.nameko.io/
+  github: https://github.com/nameko/nameko
+  tags: [Python, Back-end Framework]
+- name: Navi
+  home: https://frontarm.com/navi/
+  github: https://github.com/frontarm/navi
+  npm: https://www.npmjs.com/package/navi
+  tags: [Routing, React]
+- name: NeDB
+  github: https://github.com/louischatriot/nedb
+  tags: [Database]
+- name: Neo4j
+  home: https://neo4j.com/
+  github: https://github.com/neo4j/neo4j
+  awesome: https://github.com/neueda/awesome-neo4j
+  tags: [Database]
+- name: Neofetch
+  github: https://github.com/dylanaraps/neofetch
+  tags: [Monitoring]
+- name: Nest
+  home: https://nestjs.com/
+  github: https://github.com/nestjs/nest
+  twitter: https://twitter.com/nestframework
+  awesome: https://github.com/juliandavidmr/awesome-nest
+  tags: [Javascript, Back-end Framework]
+- name: netdata
+  home: https://my-netdata.io/
+  github: https://github.com/netdata/netdata
+  twitter: https://twitter.com/linuxnetdata
+  tags: [Monitoring]
+- name: Neutralinojs
+  home: https://neutralino.js.org/
+  github: https://github.com/neutralinojs/neutralinojs
+  tags: [Application Framework]
+- name: Next.js
+  home: https://nextjs.org/
+  github: https://github.com/zeit/next.js
+  awesome: https://github.com/unicodeveloper/awesome-nextjs
+  tags: [Javascript, Web Framework]
+- name: nivo
+  home: https://nivo.rocks/
+  github: https://github.com/plouc/nivo
+  tags: [Chart]
+- name: nnn
+  github: https://github.com/jarun/nnn
+  tags: [File Manager]
+- name: Node.js
+  home: https://nodejs.org/
+  github: https://github.com/nodejs/node
+  twitter: https://twitter.com/nodejs
+  facebook: https://www.facebook.com/nodejsfoundation/
+  linkedin: https://www.linkedin.com/company/node.js-foundation/
+  youtube: https://www.youtube.com/channel/UCQPYJluYC_sn_Qz_XE-YbTQ
+  medium: https://medium.com/@nodejs
+  quora: https://www.quora.com/topic/Node-js
+  awesome: https://github.com/sindresorhus/awesome-nodejs
+  tags: [Javascript, Runtime]
+- name: nodejs-dashboard
+  github: https://github.com/FormidableLabs/nodejs-dashboard
+  tags: [Monitoring]
+- name: Notable
+  github: https://github.com/fabiospampinato/notable
+  tags: [Text Editor]
+- name: NPM
+  home: https://www.npmjs.com/
+  github: https://github.com/npm/npm
+  blog: https://blog.npmjs.org/
+  twitter: https://twitter.com/npmjs
+  awesome: https://github.com/sindresorhus/awesome-npm
+  tags: [Javascript, Package Manager]
+- name: Numpy
+  home: http://www.numpy.org/
+  github: https://github.com/numpy/numpy
+  tags: [Python, Math]
+- name: nuster
+  github: https://github.com/jiangwenyuan/nuster
+  tags: [Proxy]
+- name: Nuxt.js
+  home: https://nuxtjs.org/
+  github: https://github.com/nuxt/nuxt.js
+  twitter: https://twitter.com/nuxt_js
+  gitter: https://gitter.im/nuxt/nuxt.js
+  awesome: https://github.com/nuxt-community/awesome-nuxt
+  tags: [Javascript, Web Framework]
+- name: NW.js
+  home: https://nwjs.io/
+  github: https://github.com/nwjs/nw.js
+  twitter: https://twitter.com/nw_js
+  gitter: https://gitter.im/nwjs/nw.js
+  awesome: https://github.com/nw-cn/awesome-nwjs
+  tags: [Application Framework]
+- name: OASGraph
+  home: https://v4.loopback.io/oasgraph.html
+  github: https://github.com/strongloop/oasgraph
+  tags: [GraphQL]
+- name: oclif
+  home: https://oclif.io/
+  github: https://github.com/oclif/oclif
+  blog: https://oclif.io/blog/
+  gitter: https://gitter.im/oclif/oclif
+  tags: [CLI]
+- name: Oh My Zsh
+  home: https://ohmyz.sh/
+  github: https://github.com/robbyrussell/oh-my-zsh
+  twitter: https://twitter.com/ohmyzsh
+  facebook: https://www.facebook.com/Oh-My-Zsh-296616263819290/
+  tags: [Shell]
+- name: OkHttp
+  home: http://square.github.io/okhttp/
+  github: https://github.com/square/okhttp
+  stackoverflow: https://stackoverflow.com/questions/tagged/okhttp
+  maven: https://mvnrepository.com/artifact/com.squareup.okhttp3/okhttp
+  tags: [HTTP Client]
+- name: ONOS
+  home: https://onosproject.org/
+  github: https://github.com/opennetworkinglab/onos
+  slack: https://onosproject.slack.com/
+  twitter: https://twitter.com/onf_onos
+  youtube: https://www.youtube.com/channel/UCTQaOpqno48GTimdwyfytFw
+  tags: [Network]
+- name: OpenAI Gym
+  home: https://gym.openai.com/
+  github: https://github.com/openai/gym
+  tags: [Machine Learning]
+- name: OpenCV
+  home: https://opencv.org/
+  github: https://github.com/opencv/opencv
+  forum: http://answers.opencv.org
+  slack: https://open-cv.slack.com/
+  twitter: https://twitter.com/opencvlibrary
+  youtube: https://www.youtube.com/user/opencvdev
+  facebook: https://www.facebook.com/opencvlibrary
+  tags: [Computer Vision]
+- name: OpenFaaS
+  home: https://www.openfaas.com/
+  github: https://github.com/openfaas/faas
+  twitter: https://twitter.com/openfaas
+  blog: https://www.openfaas.com/blog/
+  tags: [Serverless]
+- name: OpenJFX
+  home: https://wiki.openjdk.java.net/display/OpenJFX/Main
+  github: https://github.com/javafxports/openjdk-jfx
+  tags: [Application Framework]
+- name: OpenPDF
+  github: https://github.com/LibrePDF/OpenPDF
+  tags: [Java, PDF]
+- name: OpenShot
+  home: https://www.openshot.org/
+  github: https://github.com/OpenShot/openshot-qt
+  facebook: https://www.facebook.com/openshot/
+  twitter: https://twitter.com/openshot/
+  googleplus: https://plus.google.com/+OpenShotOrg
+  youtube: https://www.youtube.com/user/JonOomph
+  tags: [Video Editor]
+- name: OpenTSDB
+  home: http://opentsdb.net/
+  github: https://github.com/OpenTSDB/opentsdb
+  tags: [Database]
+- name: OpenWhisk
+  home: https://openwhisk.apache.org/
+  github: https://github.com/apache/incubator-openwhisk
+  blog: https://medium.com/openwhisk
+  twitter: https://twitter.com/openwhisk
+  youtube: https://www.youtube.com/channel/UCbzgShnQk8F43NKsvEYA1SA
+  stackoverflow: https://stackoverflow.com/questions/tagged/openwhisk
+  slideshare: https://www.slideshare.net/OpenWhisk
+  slack: http://openwhisk.incubator.apache.org/slack.html
+  awesome: https://github.com/apache/incubator-openwhisk-external-resources
+  tags: [Serverless]
+- name: p5.js
+  home: https://p5js.org/
+  github: https://github.com/processing/p5.js
+  cdnjs: https://cdnjs.com/libraries/p5.js
+  tags: [Visualization]
+- name: Parcel
+  home: https://parceljs.org/
+  github: https://github.com/parcel-bundler/parcel
+  twitter: https://twitter.com/parceljs
+  npm: https://www.npmjs.com/package/parcel-bundler
+  awesome: https://github.com/parcel-bundler/awesome-parcel
+  tags: [Javascript, Tool]
+- name: Pelican
+  github: https://github.com/getpelican/pelican
+  blog: https://blog.getpelican.com/
+  awesome: https://github.com/kmonsoor/awesome-pelican
+  tags: [Static Site Generator]
+- name: Perfect
+  home: https://www.perfect.org/
+  github: https://github.com/PerfectlySoft/Perfect
+  twitter: https://twitter.com/perfectlysoft
+  slack: http://www.perfect.ly/
+  stackoverflow: https://stackoverflow.com/questions/tagged/perfect
+  tags: [Swift, Web Framework]
+- name: Polka
+  github: https://github.com/lukeed/polka
+  npm: https://www.npmjs.com/package/polka
+  tags: [Javascript, Back-end Framework]
+- name: PollyJS
+  home: https://netflix.github.io/pollyjs
+  github: https://github.com/Netflix/pollyjs
+  npm: https://www.npmjs.com/package/polly-js
+  tags: [HTTP Client]
+- name: Polymer
+  home: https://www.polymer-project.org/
+  github: https://github.com/Polymer/polymer
+  slack: https://polymer-slack.herokuapp.com/
+  twitter: https://twitter.com/polymer
+  stackoverflow: https://stackoverflow.com/tags/polymer
+  googleplus: https://plus.google.com/+PolymerProject
+  awesome: https://github.com/Granze/awesome-polymer
+  tags: [Javascript, Front-end Framework]
+- name: PostgreSQL
+  home: https://www.postgresql.org/
+  github: https://github.com/postgres/postgres
+  twitter: https://twitter.com/postgresql
+  awesome: https://github.com/dhamaniasad/awesome-postgres
+  tags: [Database]
+- name: Portainer
+  home: https://www.portainer.io/
+  github: https://github.com/portainer/portainer
+  gitter: https://gitter.im/portainer/Lobby
+  tags: [Docker, UI]
+- name: PouchDB
+  home: https://pouchdb.com/
+  github: https://github.com/pouchdb/pouchdb
+  twitter: https://twitter.com/pouchdb
+  stackoverflow: https://stackoverflow.com/questions/tagged/pouchdb
+  awesome: https://github.com/LoicMahieu/awesome-pouchdb
+  tags: [Database]
+- name: Preact
+  home: https://preactjs.com/
+  github: https://github.com/developit/preact
+  awesome: https://github.com/ooade/awesome-preact
+  tags: [Javascript, Front-end Framework]
+- name: prettyping
+  home: http://denilson.sa.nom.br/prettyping/
+  github: https://github.com/denilsonsa/prettyping
+  tags: [CLI]
+- name: Prisma
+  home: https://www.prisma.io/
+  github: https://github.com/prisma/prisma
+  twitter: https://twitter.com/prisma
+  slack: https://slack.prisma.io/
+  forum: https://www.prisma.io/forum/
+  blog: https://www.prisma.io/blog/
+  youtube: https://www.youtube.com/channel/UCptAHlN1gdwD89tFM3ENb6w
+  awesome: https://github.com/catalinmiron/awesome-prisma
+  tags: [GraphQL]
+- name: Processing
+  home: https://processing.org/
+  github: https://github.com/processing/processing
+  twitter: https://twitter.com/processingOrg
+  facebook: https://www.facebook.com/page.processing
+  medium: https://medium.com/@ProcessingOrg
+  tags: [Visualization]
+- name: Prometheus
+  home: https://prometheus.io/
+  github: https://github.com/prometheus/prometheus
+  twitter: https://twitter.com/PrometheusIO
+  blog: https://prometheus.io/blog/
+  awesome: https://github.com/roaldnefs/awesome-prometheus
+  tags: [Monitoring]
+- name: ProseMirror
+  home: http://prosemirror.net/
+  github: https://github.com/ProseMirror/prosemirror
+  gitter: https://gitter.im/ProseMirror/prosemirror
+  forum: https://discuss.prosemirror.net/
+  tags: [Text Editor]
+- name: Protocol Buffers
+  home: https://developers.google.com/protocol-buffers/
+  github: https://github.com/protocolbuffers/protobuf
+  forum: https://groups.google.com/forum/#!forum/protobuf
+  stackoverflow: https://stackoverflow.com/questions/tagged/protocol-buffers
+  tags: [RPC]
+- name: Puppet
+  home: https://puppet.com/
+  github: https://github.com/puppetlabs/puppet
+  awesome: https://github.com/olindata/awesome-puppet
+  tags: [DevOps]
+- name: Puppeteer
+  home: https://pptr.dev/
+  github: https://github.com/GoogleChrome/puppeteer
+  npm: https://www.npmjs.com/package/puppeteer
+  tags: [Testing, Chrome]
+- name: Pure
+  home: https://purecss.io/
+  github: https://github.com/pure-css/pure
+  tags: [UI Framework]
+- name: PyPy.js
+  home: http://pypyjs.org/
+  github: https://github.com/pypyjs/pypyjs
+  tags: [Javascript, Compiler]
+- name: Pyramid
+  home: https://trypyramid.com/
+  github: https://github.com/Pylons/pyramid
+  twitter: https://twitter.com/PylonsProject
+  awesome: https://github.com/uralbash/awesome-pyramid
+  tags: [Python, Web Framework]
+- name: PyTorch
+  github: https://github.com/pytorch/pytorch
+  home: https://pytorch.org/
+  blogging: https://pytorch.org/blog/
+  forum: https://discuss.pytorch.org/
+  awesome: https://github.com/bharathgs/Awesome-pytorch-list
+  tags: [Machine Learning]
+- name: Quasar
+  home: https://quasar-framework.org/
+  github: https://github.com/quasarframework/quasar
+  discord: https://discordapp.com/invite/5TDhbDg
+  forum: https://forum.quasar-framework.org/
+  tags: [Javascript, Front-end Framework, Vue]
+- name: RabbitMQ
+  home: https://www.rabbitmq.com/
+  github: https://github.com/rabbitmq/rabbitmq-server
+  twitter: https://twitter.com/RabbitMQ
+  slack: https://rabbitmq-slack.herokuapp.com/
+  tags: [Message Broker]
+- name: RAWGraphs
+  home: https://rawgraphs.io/
+  github: https://github.com/densitydesign/raw
+  twitter: https://twitter.com/rawgraphs
+  tags: [Visualization]
+- name: rbx
+  home: https://dfee.github.io/rbx/
+  github: https://github.com/dfee/rbx
+  tags: [UI Library, React, Typescript]
+- name: React
+  home: https://reactjs.org/
+  github: https://github.com/facebook/react
+  blog: https://reactjs.org/blog/
+  facebook: https://www.facebook.com/react
+  twitter: https://twitter.com/reactjs
+  quora: https://www.quora.com/topic/React-JavaScript-library
+  awesome: https://github.com/enaqx/awesome-react
+  tags: [Javascript, Front-end Framework]
+- name: React Native
+  home: https://facebook.github.io/react-native/
+  github: https://github.com/facebook/react-native
+  blog: http://facebook.github.io/react-native/blog/
+  twitter: https://twitter.com/reactnative
+  quora: https://www.quora.com/topic/React-Native-1
+  awesome: https://github.com/jondot/awesome-react-native
+  tags: [Application Framework]
+- name: React Static
+  github: https://github.com/nozzle/react-static
+  spectrum: https://spectrum.chat/react-static
+  npm: https://www.npmjs.org/package/react-static
+  tags: [Static Site Generator]
+- name: React Suite
+  home: https://rsuitejs.com/
+  github: https://github.com/rsuite/rsuite
+  gitter: https://gitter.im/rsuite/rsuite
+  tags: [React, UI Component]
+- name: React-vis
+  home: https://uber.github.io/react-vis/
+  github: https://github.com/uber/react-vis
+  npm: https://www.npmjs.com/package/react-vis
+  tags: [Visualization]
+- name: REAVIZ
+  home: https://jask-oss.github.io/reaviz/
+  github: https://github.com/jask-oss/reaviz
+  npm: https://www.npmjs.com/package/reaviz
+  tags: [React, Chart]
+- name: Recharts
+  home: http://recharts.org/
+  github: https://github.com/recharts/recharts
+  cdnjs: https://cdnjs.com/libraries/recharts
+  tags: [Javascript, Chart]
+- name: Redis
+  home: https://redis.io/
+  github: https://github.com/antirez/redis
+  stackoverflow: https://stackoverflow.com/questions/tagged/redis
+  twitter: https://twitter.com/redisfeed
+  reddit: https://www.reddit.com/r/redis/
+  awesome: https://github.com/JamzyWang/awesome-redis
+  tags: [Key-value Store]
+- name: Remmina
+  home: https://remmina.org/
+  github: https://github.com/FreeRDP/Remmina
+  blog: https://remmina.org/blog/
+  tags: [Remote Desktop]
+- name: Rete
+  home: https://rete.js.org/
+  github: https://github.com/retejs/rete
+  gitter: https://gitter.im/retejs/Lobby
+  tags: [Visualization]
+- name: Retrofit
+  home: http://square.github.io/retrofit/
+  github: https://github.com/square/retrofit
+  stackoverflow: https://stackoverflow.com/questions/tagged/retrofit
+  tags: [HTTP Client]
+- name: reveal.js
+  home: https://revealjs.com/
+  github: https://github.com/hakimel/reveal.js
+  tags: [Presentation]
+- name: Revery
+  github: https://github.com/revery-ui/revery
+  tags: [Application Framework]
+- name: Ring
+  home: http://ring-lang.net/
+  github: https://github.com/ring-lang/ring
+  tags: [Programming Language]
+- name: Ring UI
+  home: https://jetbrains.github.io/ring-ui
+  github: https://github.com/JetBrains/ring-ui
+  tags: [UI Framework]
+- name: Riot
+  home: https://riot.js.org/
+  github: https://github.com/riot/riot
+  twitter: https://twitter.com/riotjs_
+  awesome: https://github.com/pankajparashar-zz/awesome-riotjs
+  tags: [Javascript, Front-end Framework]
+- name: Rocket
+  home: https://rocket.rs/
+  github: https://github.com/SergioBenitez/Rocket
+  tags: [Rust, Web Framework]
+- name: Rollup
+  home: https://rollupjs.org/
+  github: https://github.com/rollup/rollup
+  gitter: https://gitter.im/rollup/rollup
+  tags: [Javascript, Tool]
+- name: Rough.js
+  home: https://roughjs.com/
+  github: https://github.com/pshihn/rough
+  tags: [Javascript, 2D Graphics]
+- name: Ruby
+  home: https://www.ruby-lang.org/
+  github: https://github.com/ruby/ruby
+  awesome: https://github.com/markets/awesome-ruby
+  tags: [Programming Language]
+- name: Ruby on Rails
+  home: https://rubyonrails.org/
+  github: https://github.com/rails/rails
+  twitter: https://twitter.com/rails
+  awesome: https://github.com/ekremkaraca/awesome-rails
+  tags: [Ruby, Back-end Framework]
+- name: Rust
+  home: https://www.rust-lang.org/
+  github: https://github.com/rust-lang/rust
+  twitter: https://twitter.com/rustlang
+  youtube: https://www.youtube.com/channel/UCaYhcUwRBNscFNUKTjgPFiA
+  awesome: https://github.com/rust-unofficial/awesome-rust
+  tags: [Programming Language]
+- name: RxJava
+  github: https://github.com/ReactiveX/RxJava
+  awesome: https://github.com/eleventigers/awesome-rxjava
+  tags: [Java, Core Library]
+- name: Rythm.js
+  home: https://okazari.github.io/Rythm.js/
+  github: https://github.com/Okazari/Rythm.js
+  tags: [Animation]
+- name: rrweb
+  home: https://www.rrweb.io/
+  github: https://github.com/rrweb-io/rrweb
+  tags: [Testing]
+- name: Sails
+  home: https://sailsjs.com/
+  github: https://github.com/balderdashy/sails
+  gitter: https://gitter.im/balderdashy/sails
+  twitter: https://twitter.com/sailsjs
+  quora: https://www.quora.com/topic/SailsJS
+  awesome: https://github.com/Mozartted/awesome-sails-projects
+  tags: [Javascript, Back-end Framework]
+- name: Sal.js
+  home: https://mciastek.github.io/sal/
+  github: https://github.com/mciastek/sal
+  tags: [Animation]
+- name: Sanic
+  home: https://sanic.readthedocs.io/
+  github: https://github.com/channelcat/sanic
+  tags: [Python, Web Framework]
+- name: Scylla
+  home: https://www.scylladb.com/
+  github: https://github.com/scylladb/scylla
+  tags: [Database]
+- name: Semantic UI
+  home: https://semantic-ui.com/
+  github: https://github.com/Semantic-Org/Semantic-UI
+  stackoverflow: https://stackoverflow.com/questions/tagged/semantic-ui
+  gitter: https://gitter.im/Semantic-Org/Semantic-UI
+  googlegroups: https://groups.google.com/forum/#!forum/semantic-ui
+  awesome: https://github.com/websemantics/awesome-semantic-ui
+  tags: [UI Framework]
+- name: Sensu
+  home: https://sensu.io/
+  github: https://github.com/sensu/sensu
+  blog: https://blog.sensu.io/
+  twitter: https://twitter.com/sensu
+  slack: http://slack.sensu.io/
+  youtube: https://www.youtube.com/channel/UCr9oDBHCZumrn1B9ljF5E2w
+  tags: [Monitoring]
+- name: Servo
+  home: https://servo.org/
+  github: https://github.com/servo/servo
+  tags: [Javascript, Runtime]
+- name: Shards
+  home: https://designrevision.com/downloads/shards/
+  github: https://github.com/designrevision/shards-ui
+  tags: [UI Framework]
+- name: Siddhi
+  home: http://siddhi.io/
+  github: https://github.com/siddhi-io/siddhi
+  tags: [Complex Event Processing]
+- name: Signale
+  github: https://github.com/klauscfhq/signale
+  npm: https://www.npmjs.com/package/signale
+  gitter: https://gitter.im/klauscfhq/signale
+  tags: [Logging]
+- name: Sinatra
+  home: http://sinatrarb.com/
+  github: https://github.com/sinatra/sinatra
+  twitter: https://twitter.com/sinatra
+  slack: https://sinatrarb.slack.com/
+  tags: [Ruby, Back-end Framework]
+- name: Slate
+  home: https://www.slatejs.org/
+  github: https://github.com/ianstormtaylor/slate
+  slack: https://slate-slack.herokuapp.com/
+  tags: [Editor]
+- name: Snap.svg
+  home: http://snapsvg.io/
+  github: https://github.com/adobe-webplatform/Snap.svg
+  twitter: https://twitter.com/snapsvg
+  slack: https://snapsvg.slack.com/
+  googlegroups: https://groups.google.com/forum/#!forum/snapsvg
+  tags: [Animation]
+- name: SonarQube
+  home: https://www.sonarqube.org/
+  github: https://github.com/SonarSource/sonarqube
+  blog: https://blog.sonarsource.com/
+  twitter: https://twitter.com/SonarQube
+  forum: https://community.sonarsource.com/
+  tags: [Code Quality]
+- name: Sonic
+  home: https://crates.io/crates/sonic-server
+  github: https://github.com/valeriansaliou/sonic
+  tags: [Search Engine]
+- name: Sonnet
+  home: https://deepmind.github.io/sonnet/
+  github: https://github.com/deepmind/sonnet
+  tags: [Machine Learning]
+- name: Sortable
+  home: http://rubaxa.github.io/Sortable/
+  github: https://github.com/RubaXa/Sortable
+  tags: [Drag]
+- name: SpaceVim
+  home: https://spacevim.org/
+  github: https://github.com/SpaceVim/SpaceVim
+  gitter: https://gitter.im/SpaceVim/SpaceVim
+  reddit: https://www.reddit.com/r/spacevim
+  twitter: https://twitter.com/SpaceVim
+  facebook: https://www.facebook.com/SpaceVim
+  tags: [Text Editor]
+- name: Spark
+  home: https://spark.apache.org/
+  github: https://github.com/apache/spark
+  jira: https://issues.apache.org/jira/projects/SPARK
+  awesome: https://github.com/awesome-spark/awesome-spark
+  tags: [Distributed Processing]
+- name: Spectre.css
+  home: https://picturepan2.github.io/spectre/
+  github: https://github.com/picturepan2/spectre
+  twitter: https://twitter.com/spectrecss
+  tags: [UI Framework]
+- name: Spring Boot
+  home: http://spring.io/projects/spring-boot
+  github: https://github.com/spring-projects/spring-boot
+  gitter: https://gitter.im/spring-projects/spring-boot
+  stackoverflow: https://stackoverflow.com/questions/tagged/spring-boot
+  awesome: https://github.com/stunstunstun/awesome-spring-boot
+  tags: [Java, Back-end Framework]
+- name: Spring-fu
+  github: https://github.com/spring-projects/spring-fu
+  tags: [Java, Back-end Framework]
+- name: Spyder
+  home: https://www.spyder-ide.org/
+  github: https://github.com/spyder-ide/spyder
+  blog: https://www.spyder-ide.org/blog/
+  gitter: https://gitter.im/spyder-ide/public
+  tags: [IDE]
+- name: sshj
+  github: https://github.com/hierynomus/sshj
+  tags: [SSH, Java]
+- name: Stacer
+  home: https://oguzhaninan.github.io/Stacer-Web/
+  github: https://github.com/oguzhaninan/Stacer
+  tags: [Monitoring]
+- name: Storm
+  home: http://storm.apache.org/
+  github: https://github.com/apache/storm
+  tags: [Distributed Processing]
+- name: StreamAlert
+  home: https://streamalert.io/
+  github: https://github.com/airbnb/streamalert
+  slack: https://streamalert.herokuapp.com/
+  tags: [Data Analysis]
+- name: swc
+  home: https://swc-project.github.io/
+  github: https://github.com/swc-project/swc
+  tags: [Javascript, Tool]
+- name: Swift
+  home: https://swift.org/
+  github: https://github.com/apple/swift
+  blog: https://swift.org/blog/
+  twitter: https://twitter.com/swiftlang
+  awesome: https://github.com/matteocrippa/awesome-swift
+  tags: [Programming Language]
+- name: TensorFlow
+  home: https://www.tensorflow.org/
+  github: https://github.com/tensorflow/tensorflow
+  medium: https://medium.com/tensorflow
+  youtube: https://www.youtube.com/tensorflow
+  twitter: https://twitter.com/tensorflow
+  awesome: https://github.com/jtoy/awesome-tensorflow
+  tags: [Machine Learning]
+- name: Terminus
+  home: https://eugeny.github.io/terminus/
+  github: https://github.com/Eugeny/terminus
+  tags: [Terminal]
+- name: Three.js
+  home: https://threejs.org/
+  github: https://github.com/mrdoob/three.js
+  slack: https://threejs-slack.herokuapp.com/
+  forum: https://discourse.threejs.org/
+  stackoverflow: https://stackoverflow.com/questions/tagged/three.js
+  awesome: https://github.com/fritx/awesome-threejs
+  tags: [3D Graphics]
+- name: TingoDB
+  home: http://www.tingodb.com/
+  github: https://github.com/sergeyksv/tingodb
+  tags: [Database]
+- name: Tink
+  github: https://github.com/google/tink
+  tags: [Security]
+- name: tink
+  github: https://github.com/npm/tink
+  tags: [Javascript, Package Manager]
+- name: Total.js
+  home: https://www.totaljs.com/
+  github: https://github.com/totaljs/framework
+  blog: https://blog.totaljs.com/
+  twitter: https://twitter.com/totalframework
+  facebook: https://www.facebook.com/totaljs.web.framework/
+  tags: [Javascript, Back-end Framework]
+- name: Turf
+  home: http://turfjs.org/
+  github: https://github.com/Turfjs/turf
+  gitter: https://gitter.im/Turfjs/turf
+  tags: [Geospatial Engine]
+- name: TurtleDB
+  home: https://turtle-db.github.io/
+  github: https://github.com/turtle-DB/turtleDB
+  tags: [Database]
+- name: tween.js
+  github: https://github.com/tweenjs/tween.js
+  npm: https://www.npmjs.com/package/@tweenjs/tween.js
+  cdnjs: https://cdnjs.com/libraries/tween.js
+  tags: [Animation]
+- name: TensorFlow.js
+  home: https://js.tensorflow.org/
+  github: https://github.com/tensorflow/tfjs
+  tags: [Machine Learning]
+- name: TiDB
+  home: https://pingcap.com/
+  github: https://github.com/pingcap/tidb
+  tags: [Database]
+- name: Toast UI Editor
+  home: http://ui.toast.com/tui-editor/
+  github: https://github.com/nhnent/tui.editor
+  tags: [Text Editor]
+- name: Tokio
+  home: https://tokio.rs/
+  github: https://github.com/tokio-rs/tokio
+  gitter: https://gitter.im/tokio-rs/tokio
+  twitter: https://twitter.com/tokio_rs
+  tags: [Rust, Web Framework]
+- name: Tone.js
+  home: https://tonejs.github.io/
+  github: https://github.com/Tonejs/Tone.js
+  forum: https://groups.google.com/forum/#!forum/tonejs
+  tags: [Web Audio Framework]
+- name: Tornado
+  home: http://www.tornadoweb.org/
+  github: https://github.com/tornadoweb/tornado
+  stackoverflow: https://stackoverflow.com/questions/tagged/tornado
+  tags: [Python, Web Framework]
+- name: Traefik
+  home: https://traefik.io/
+  github: https://github.com/containous/traefik
+  twitter: https://twitter.com/traefik
+  slack: https://slack.traefik.io/
+  stackoverflow: https://stackoverflow.com/questions/tagged/traefik
+  dockerhub: https://hub.docker.com/r/_/traefik/
+  tags: [Proxy]
+- name: TypeScript
+  home: https://www.typescriptlang.org/
+  github: https://github.com/Microsoft/TypeScript
+  blog: https://blogs.msdn.microsoft.com/typescript/
+  twitter: https://twitter.com/typescriptlang
+  gitter: https://gitter.im/Microsoft/TypeScript
+  awesome: https://github.com/dzharii/awesome-typescript
+  tags: [Programming Language]
+- name: UIkit
+  home: https://getuikit.com/
+  github: https://github.com/uikit/uikit
+  twitter: https://twitter.com/getuikit
+  gitter: https://gitter.im/uikit/uikit
+  awesome: https://github.com/uikit/awesome-uikit
+  tags: [UI Framework]
+- name: Vagrant
+  home: https://www.vagrantup.com/
+  github: https://github.com/hashicorp/vagrant
+  forum: https://groups.google.com/forum/#!forum/vagrant-up
+  awesome: https://github.com/iJackUA/awesome-vagrant
+  tags: [DevOps]
+- name: Vapor
+  home: https://vapor.codes/
+  github: https://github.com/vapor/vapor
+  discord: https://discordapp.com/invite/vapor
+  twitter: https://twitter.com/codevapor
+  blog: https://medium.com/@codevapor
+  awesome: https://github.com/Cellane/awesome-vapor
+  tags: [Swift, Web Framework]
+- name: Vault
+  home: https://www.vaultproject.io/
+  github: https://github.com/hashicorp/vault
+  gitter: https://gitter.im/hashicorp-vault/Lobby
+  awesome: https://github.com/gites/awesome-vault-tools
+  tags: [DevOps]
+- name: Velocity
+  home: http://velocityjs.org/
+  github: https://github.com/julianshapiro/velocity
+  tags: [Animation]
+- name: Veonim
+  github: https://github.com/veonim/veonim
+  tags: [Vim, IDE]
+- name: VerneMQ
+  home: https://vernemq.com/
+  github: https://github.com/erlio/vernemq
+  blog: https://vernemq.com/blog/
+  twitter: https://twitter.com/vernemq
+  slack: https://slack-invite.vernemq.com/
+  tags: [Message Broker]
+- name: Vetur
+  home: https://vuejs.github.io/vetur/
+  github: https://github.com/vuejs/vetur
+  tags: [Vue, VSCode]
+- name: Vibora
+  home: https://vibora.io/
+  github: https://github.com/vibora-io/vibora
+  pypi: https://pypi.org/project/vibora/
+  tags: [Python, Web Framework]
+- name: Victory
+  home: https://formidable.com/open-source/victory/
+  github: https://github.com/FormidableLabs/victory
+  tags: [Javascript, Chart]
+- name: Vitess
+  home: https://vitess.io/
+  github: https://github.com/vitessio/vitess
+  blog: https://blog.vitess.io/
+  slack: https://vitess.slack.com/
+  tags: [Database]
+- name: VSCode
+  home: https://code.visualstudio.com/
+  github: https://github.com/Microsoft/vscode
+  blog: https://code.visualstudio.com/blogs/
+  youtube: https://www.youtube.com/channel/UCs5Y5_7XK8HLDX0SLNwkd3w
+  awesome: https://github.com/viatsko/awesome-vscode
+  tags: [Text Editor]
+- name: Vue
+  home: https://vuejs.org/
+  github: https://github.com/vuejs/vue
+  twitter: https://twitter.com/vuejs
+  medium: https://medium.com/the-vue-point
+  quora: https://www.quora.com/topic/Vue-js
+  awesome: https://github.com/vuejs/awesome-vue
+  tags: [Javascript, Front-end Framework]
+- name: Vue.Draggable
+  github: https://github.com/SortableJS/Vue.Draggable
+  npm: https://www.npmjs.com/package/vue-draggable
+  tags: [Drag]
+- name: VuePress
+  home: https://vuepress.vuejs.org/
+  github: https://github.com/vuejs/vuepress
+  awesome: https://github.com/meteorlxy/awesome-vuepress
+  tags: [Static Site Generator]
+- name: Vuido
+  home: https://vuido.mimec.org/
+  github: https://github.com/mimecorg/vuido
+  npm: https://www.npmjs.com/package/vuido
+  tags: [Application Framework]
+- name: warp
+  home: https://seanmonstar.com/post/176530511587/warp
+  github: https://github.com/seanmonstar/warp
+  tags: [Rust, Web Framework]
+- name: WatermelonDB
+  home: https://watermelondb.now.sh/
+  github: https://github.com/Nozbe/WatermelonDB
+  tags: [Database]
+- name: webpack
+  home: https://webpack.js.org/
+  github: https://github.com/webpack/webpack
+  medium: https://medium.com/webpack
+  stackoverflow: https://stackoverflow.com/questions/tagged/webpack
+  awesome: https://github.com/webpack-contrib/awesome-webpack
+  tags: [Javascript, Tool]
+- name: websocketd
+  home: http://websocketd.com/
+  github: https://github.com/joewalnes/websocketd
+  tags: [Websocket]
+- name: whs.js
+  home: https://whs.io/
+  github: https://github.com/WhitestormJS/whs.js
+  chat: https://discordapp.com/invite/5yNCvC4
+  tags: [3D Graphics]
+- name: WordPlate
+  home: https://wordplate.github.io/
+  github: https://github.com/wordplate/wordplate
+  tags: [CMS]
+- name: x-spreadsheet
+  home: https://myliang.github.io/x-spreadsheet/newest/
+  github: https://github.com/myliang/x-spreadsheet
+  npm: https://www.npmjs.com/package/xspreadsheet
+  tags: [Spreadsheet]
+- name: xi-editor
+  home: https://xi-editor.github.io/xi-editor/
+  github: https://github.com/xi-editor/xi-editor
+  tags: [Text Editor]
+- name: XO
+  github: https://github.com/xojs/xo
+  tags: [Javascript, Lint]
+- name: Yarn
+  home: https://yarnpkg.com/
+  github: https://github.com/yarnpkg/yarn
+  discord: https://discordapp.com/invite/yarnpkg
+  facebook: https://www.facebook.com/yarnpkg
+  twitter: https://twitter.com/yarnpkg
+  tags: [Javascript, Package Manager]
+- name: ZeroMQ
+  home: http://zeromq.org/
+  github: https://github.com/zeromq/libzmq
+  awesome: https://github.com/8dspaces/awesome-ZeroMQ
+  tags: [Message Broker]
+- name: Zipkin
+  home: https://zipkin.io/
+  github: https://github.com/openzipkin/zipkin
+  gitter: https://gitter.im/openzipkin/zipkin
+  tags: [Distributed Tracing]
+- name: Zuul
+  github: https://github.com/Netflix/zuul
+  tags: [Proxy]
+- name: PySyft
+  github: https://github.com/OpenMined/PySyft
+  dockerhub: https://hub.docker.com/r/openmined/pysyft/
+  tags: [Machine Learning]
+- name: Vulcan
+  home: http://vulcanjs.org/
+  github: https://github.com/VulcanJS/Vulcan
+  youtube: https://www.youtube.com/channel/UCGIvQQ6zw7ov2cHgD70HFlA
+  tags: [Javascript, Front-end Framework]
+- name: wasmer
+  home: https://wasmer.io/
+  github: https://github.com/wasmerio/wasmer
+  tags: [WebAssembly]
+- name: Wasmtime
+  github: https://github.com/CraneStation/wasmtime
+  gitter: https://gitter.im/CraneStation/Lobby
+  tags: [WebAssembly, Runtime]
+- name: XState
+  home: https://xstate.js.org/
+  github: https://github.com/davidkpiano/xstate
+  gitter: https://gitter.im/statecharts/statecharts
+  npm: https://www.npmjs.com/package/xstate
+  tags: [State, Javascript]

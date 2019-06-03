@@ -16,14 +16,17 @@
 | 넥스트리 | http://www.nextree.co.kr/ | |
 | 넷매니아즈 | http://www.netmanias.com/ko/ | |
 | 달리웍스 | http://techblog.daliworks.net/ | |
+| 당근마켓 기술 블로그 | https://medium.com/daangn | | 
 | 데일리호텔 | https://dailyhotel.io | |
 | 독립 개발자 네트워크 | https://indidev.net/ | C/C++ |
 | 드라마앤컴패니 블로그 | http://blog.dramancompany.com/ | |
 | 라온피플 | http://blog.naver.com/laonple | 비전, 머신 러닝 |
 | 레진 기술 블로그 | http://tech.lezhin.com/ | |
+| 로켓펀치 블로그 | https://blog.rocketpunch.com/ | |
 | 리디북스 | https://www.ridicorp.com/blog/ | |
 | 리모트몬스터 | https://blog.remotemonster.com/ | WebRTC |
 | 린치핀소프트 | http://www.linchpinsoft.com/blog/ | 한광희 |
+| 마이크로소프트웨어 | https://www.imaso.co.kr/ | |
 | 멋쟁이 사자처럼 | https://likelion.net/ | |
 | 모두의연구소 | http://www.modulabs.co.kr/ | |
 | 모람씨앤티 | http://blog.moramcnt.com/ | 이용민 |
@@ -32,6 +35,7 @@
 | 미래웹 | http://www.miraeweb.com/blog | 웹 |
 | 박스앤위스커 | http://www.boxnwhis.kr/ | |
 | 버즈아트 | https://tech.bbuzzart.com/ | |
+| 보드나라 | http://www.bodnara.co.kr/ | IT 뉴스 |
 | 보안뉴스 | http://www.boannews.com/ | 보안 |
 | 블로터 | http://www.bloter.net/ | IT 뉴스 |
 | 솔라나라 | http://www.solanara.net/ | 솔라리스 |
@@ -39,6 +43,7 @@
 | 스타트링크 | https://blog.startlink.io/ | |
 | 슬로우뉴스 | http://slownews.kr/category/tech | |
 | 시스코 | http://ciscokrblog.com/ | |
+| 씨넷코리아 | http://www.cnet.co.kr/ | IT 뉴스 |
 
 ## ㅇ-ㅎ
 
@@ -54,6 +59,7 @@
 | 에스엔티소프트 | http://www.sntsoft.co.kr/ | |
 | 엔씨소프트 | http://blog.ncsoft.com/ | |
 | 엠비안 | http://blog.embian.com/ | |
+| 오라클 클라우드 기술 블로그 | http://www.oracloud.kr/ | Cloud |
 | 오마이트립 기술블로그 | https://ohmytriptech.github.io/ | |
 | 오픈넷 | http://opennet.or.kr/ | 웹접근성 |
 | 오픈스택 한국 커뮤니티 | http://openstack.or.kr/ | OpenStack |
@@ -65,12 +71,15 @@
 | 이음소시어스 | http://bigmatch.i-um.net/ | |
 | 인공지능신문 | http://www.aitimes.kr/ | |
 | 인사이트 | http://www.insightbook.co.kr/ | 책 |
+| 인프런 블로그 | http://blog.inflearn.com/ | |
 | 로지스팟 | http://engineering.logi-spot.com/ | |
+| 전자신문 | http://www.etnews.com/ | IT 뉴스 |
 | 제이펍 | http://jpub.tistory.com/ | 책 |
 | 조이코퍼레이션 | https://medium.com/zoyi-blog | |
 | 줌 인터넷 개발 블로그 | https://zumdev.github.io/ | |
 | 지금 써보러 갑니다 | http://icunow.co.kr/ | |
 | 지디넷 코리아 | http://www.zdnet.co.kr/ | |
+| 지앤선 | http://jinson.tistory.com/ | 출판사 |
 | 카이스트 Applied Algorithm Lab. | http://aalog.tistory.com/ | |
 | 카카오 기술 블로그 | http://tech.kakao.com/ | |
 | 카카오 정책지원팀 블로그 | https://brunch.co.kr/@kakao-it | |
@@ -80,6 +89,7 @@
 | 퀘스트 소프트 블로그 | http://www.questblog.co.kr/ | |
 | 클라우드스터딩 | http://cloudstudying.kr/ | |
 | 클리어보스 | http://www.clearboth.org/ | |
+| 테크니들 | http://techneedle.com/ | IT 뉴스 |
 | 테크수다 | http://www.techsuda.com/ | |
 | 테크엠 | http://www.techm.kr/home/ | IT |
 | 테크홀릭 | http://techholic.co.kr/ | |
@@ -91,6 +101,7 @@
 | 한빛네트워크 | http://www.hanbit.co.kr/network/ | |
 | 해줌스토리 | http://story.haezoom.com/ | |
 | 호빗원정대 | http://sadang-hobbits.github.io/ | |
+| 후이서울 | https://engineering.huiseoul.com/ | |
 
 ## A-Z
 
@@ -108,21 +119,32 @@
 | dogfeet | http://dogfeet.github.io/ | 박창우, 이신, 최용재 |
 | eBrain Blog | http://www.ebrain.kr/category/blogs/ | HR |
 | EFL Korea Community] | http://efl.or.kr | EFL, Enlightenment, Tizen |
+| Elastic Blog | https://www.elastic.co/kr/blog | Elastic Stack |
+| GeekHub | https://geekhub.co.kr/ | |
 | Gitple | http://tech.gitple.io/ | |
 | Google | http://googledevkr.blogspot.kr/ | |
+| Hashcode | https://hashcode.co.kr/ | |
+| hyper-cube.io | http://hyper-cube.io/ | |
 | IAMROOT | http://www.iamroot.org/ | 리눅스 커널 스터디 그룹 |
-| IT월드 | http://www.itworld.co.kr/ | |
+| IT동아 | http://it.donga.com/ | IT 뉴스 |
+| IT월드 | http://www.itworld.co.kr/ | IT 뉴스 |
 | LG CNS | http://blog.lgcns.com/ | |
 | Line Enginners Blog | http://developers.linecorp.com/blog/ko/ | |
+| Make Korea | https://make.co.kr/ | DIY |
 | Mozilla Developer | https://developer.mozilla.org/ko/ | |
 | Mozilla Hack | http://hacks.mozilla.or.kr/ | |
 | MSDN Korea Evengelist | https://blogs.msdn.microsoft.com/eva/ | .Net |
 | NVIDA | http://blogs.nvidia.co.kr/ | Graphic |
+| OKKY | https://okky.kr/ | Q&A |
+| opennaru Blog | http://www.opennaru.com/blog/ | APM |
+| Outstanding | https://outstanding.kr/ | IT 뉴스 |
 | PoiemaWeb | http://poiemaweb.com/ | 이웅모 |
 | Popit | http://www.popit.kr/ | |
 | POSICUBE Blog | https://posicube.com/blog/ | 인공지능 |
+| pxd Lab | http://lab.pxd.co.kr | UX |
 | Rainist Engineering | https://medium.com/rainist-engineering | 뱅크샐러드 |
 | Refresh Studio | http://refreshstudio.tistory.com/ | UI/UX 디자인 |
+| Realm Blog | https://realm.io/kr/blog/ | Realm |
 | Remotty Tech Blog | http://blog.remotty.com/blog/ | |
 | RGP Tech Blog | https://rgpkorea.github.io/ | |
 | SLiPP | http://slipp.net/ | 박재성, 김현기, 오진우 |
@@ -132,6 +154,7 @@
 | The Blockchain | http://theblockchain.kr/ | |
 | Tumblr | http://engineering.tumblr.com/ | |
 | tyle | https://blog.tyle.io/ | |
+| Ubuntu Korea Community | https://www.ubuntu-kr.org/ | Ubuntu |
 | VCNC | http://engineering.vcnc.co.kr/ | |
 | Web Framework | http://webframeworks.kr/ | |
 | We Build Product | https://webuildproduct.com/ | 프로덕트 디자인 & 매니지먼트 |

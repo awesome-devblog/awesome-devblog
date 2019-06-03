@@ -1,0 +1,395 @@
+---
+- name: Adam Bien
+  blog: http://www.adam-bien.com/roller/abien/
+  rss: http://www.adam-bien.com/roller/abien/feed/entries/atom
+  description: Author of Real World Java EE Patterns
+- name: Adam Fletcher
+  blog: https://medium.com/@adam_34309
+  rss: https://medium.com/feed/@adam_34309
+  description: CEO at Gyroscope Software
+- name: Andrea Giammarchi
+  blog: http://webreflection.blogspot.com/
+  rss: http://webreflection.blogspot.com/feeds/posts/default
+  description: Javascript
+- name: Andy Hunt
+  blog: http://andy.pragprog.com/
+  description: 실용주의 프로그래머, 프로그래밍 루비 공저
+- name: Armin Ronacher
+  blog: http://lucumr.pocoo.org/
+  rss: http://lucumr.pocoo.org/feed.atom
+  description: Flask, Lektor 개발자
+- name: Armon Dadgar
+  speakerdeck: https://speakerdeck.com/armon
+- name: Assaf Muller
+  blog: https://assafmuller.com/
+  rss: http://assafmuller.wordpress.com/feed/
+  description: OpenStack, SDN
+- name: Bojan Gvozderac
+  blog: https://medium.com/@bojangbusiness
+  rss: https://medium.com/feed/@bojangbusiness
+  description:
+- name: Bram Cohen
+  blog: http://bramcohen.com/
+  rss: http://bramcohen.livejournal.com/data/rss
+  description: 비트토렌트 창시자
+- name: Brendan Eich
+  blog: https://brendaneich.com/
+  rss: http://brendaneich.com/feed/
+  description: Javascript 창시자
+- name: Brandon Morelli
+  blog: https://medium.com/@bmorelli25
+  rss: https://medium.com/feed/@bmorelli25
+  description: Creator of @codeburstio
+- name: Chad Fowler
+  blog: http://chadfowler.com/
+  rss: http://www.chadfowler.com/?rss
+  description: Rails Recipes 저자
+- name: Chris Lattner
+  blog: http://nondot.org/sabre/
+  description: LLVM, Swift 창시자
+- name: Chris Ng
+  blog: http://chrisrng.svbtle.com/
+  rss: http://chrisrng.svbtle.com/feed
+  description: Front-end
+- name: Cristian Esquivias
+  blog: http://cesquivias.github.io/
+  rss: http://cesquivias.github.io/feeds/all.rss.xml
+  description: Java, Truffle
+- name: Christoph Rumpel
+  speakerdeck: https://speakerdeck.com/christophrumpel
+- name: Dan Webb
+  blog: http://danwebb.net/
+  description: 프론트엔드 개발자
+- name: Daniel Shiffman
+  blog: http://shiffman.net/
+  rss: http://vimeo.com/shiffman/videos/rss
+  description: Processing
+- name: Dave Smith
+  blog: https://medium.com/@djsmith42
+  rss: https://medium.com/feed/@djsmith42
+  description: Soft Skills 팟캐스트 호스트
+- name: David Bryant
+  blog: https://medium.com/@david_bryant
+  rss: https://medium.com/feed/@david_bryant
+  description: Mozilla
+- name: David Ford
+  blog: https://medium.com/@daveford
+  rss: https://medium.com/feed/@daveford
+  description: Kotlin
+- name: David Moreau Simard
+  blog: https://dmsimard.com/
+  rss: https://dmsimard.com/index.xml
+  description: RedHat Senior Software Engineer, OpenStack
+- name: David Robinson
+  rss: http://varianceexplained.org/feed.xml
+  blog: http://varianceexplained.org/
+  description: 스택오버플로 데이터 과학자
+- name: David Thomas
+  blog: http://pragdave.me/
+  description: 실용주의 프로그래머 공저, Elixir 언어
+- name: David Walsh
+  blog: https://davidwalsh.name/
+  rss: http://feeds.feedburner.com/Bludice
+  description: Javascript
+- name: Deesha Vora
+  speakerdeck: https://speakerdeck.com/deesharv
+- name: Derick Bailey
+  blog: https://derickbailey.com/
+  rss: http://feeds.feedblitz.com/derickbailey
+  description: Javascript 개발자
+- name: Devin Fee
+  blog: https://medium.com/@dfee
+  rss: https://medium.com/feed/@dfee
+  description: Front-end, rbx
+  twitter: https://twitter.com/dfee
+- name: Dino Esposito
+  blog: https://software2cents.wordpress.com/
+  description: .NET 에반젤리스트
+- name: Douglas Crockford
+  blog: http://www.crockford.com/
+  description: JSON 창시자, JavaScript The Good Parts 저자
+- name: Eli Bendersky
+  blog: http://eli.thegreenplace.net/
+  rss: http://eli.thegreenplace.net/feed/
+  description: Haskell
+- name: Eric A. Meyer
+  blog: http://meyerweb.com/
+  rss: http://meyerweb.com/eric/thoughts/rss2/summary
+  description: CSS
+- name: Eric Bidelman
+  blog: https://medium.com/@ebidel
+  rss: https://medium.com/feed/@ebidel
+  description: Front-end
+  twitter: https://twitter.com/ebidel
+  github: https://github.com/ebidel
+  home: https://ericbidelman.com/
+- name: Eric S. Raymond
+  blog: http://www.catb.org/~esr/
+  description: The Cathedral and the Bazaar 저자
+- name: Eric Simons
+  blog: https://medium.com/@ericsimons
+  rss: https://medium.com/feed/@ericsimons
+  description: StackBlitz 창업자
+- name: Erik Bernhardsson
+  blog: https://erikbern.com/
+  rss: http://erikbern.com/?feed=rss2
+  description: Better CTO. Machine Learning
+- name: Evan You
+  blog: http://evanyou.me/
+  rss: https://medium.com/feed/@youyuxi
+  description: Vue 창시자
+- name: Flavio Copes
+  blog: https://flaviocopes.com/
+  rss: https://flaviocopes.com/index.xml
+  description: Author of The React Handbook
+- name: Gabriela de Queiroz
+  speakerdeck: https://speakerdeck.com/kroz
+- name: Gal Sagie
+  blog: http://galsagie.github.io/
+  rss: http://galsagie.github.io/feed.xml
+  description: OpenStack Networking
+- name: Gregg Pollack
+  blog: https://medium.com/@greggpollack
+  rss: https://medium.com/feed/@greggpollack
+  description: Editor of Vue Mastery
+- name: Hadley Wickham
+  blog: http://hadley.nz/
+  description: R studio
+- name: Jake Wharton
+  blog: http://jakewharton.com/
+  rss: http://jakewharton.com/atom.xml
+  description: Android
+- name: James D Bloom
+  blog: http://blog.jamesdbloom.com/
+  description: JVM
+- name: James Gosling
+  blog: http://nighthacks.com/roller/jag/
+  rss: http://feeds.feedburner.com/nighthacks/feed
+  description: Founder of Java
+- name: Jason Wilder
+  blog: http://jasonwilder.com/
+  rss: http://jasonwilder.com/index.xml
+  description: Principal Software Engineer at Microsoft
+  linkedin: https://www.linkedin.com/in/jason-wilder-94549/
+  twitter: https://twitter.com/jaswilder
+  github: https://github.com/jwilder
+- name: Jeff Atwood
+  blog: http://blog.codinghorror.com/
+  rss: http://feeds.feedburner.com/codinghorror/
+  description: 스택오버플로 주인장
+- name: Jeff Langr
+  blog: http://langrsoft.com/jeff/
+  rss: http://langrsoft.com/feed/
+  description: 지금길로 빠르게 배울 수 있는 자바 저자
+- name: Jennifer Reif
+  speakerdeck: https://speakerdeck.com/jmhreif
+- name: Jeremy Thomas
+  blog: https://jgthms.com/
+  description: Bulma 창시자
+- name: Jessie Frazelle
+  blog: https://blog.jessfraz.com/
+  rss: https://blog.jessfraz.com/index.xml
+  description: Container
+- name: Joe Hewitt
+  blog: http://joehewitt.com/
+  rss: http://joehewitt.com/index.xml
+  description: Firebug 개발자
+- name: Joel Spolsky
+  blog: http://www.joelonsoftware.com/
+  rss: http://www.joelonsoftware.com/rss.xml
+  description: 조엘온소프트웨어 저자, 개발방법론
+- name: John Gruber
+  blog: https://daringfireball.net/
+  description: Markdown 창시자
+- name: John McClean
+  blog: https://medium.com/@johnmcclean
+  rss: https://medium.com/feed/@johnmcclean
+  description: Maintainer of Cyclops
+- name: John Mumm
+  blog: http://jtfmumm.com/blog/
+  description:
+- name: John Resig
+  blog: http://ejohn.org/
+  rss: http://ejohn.org/category/blog/feed/rss/
+  description: jQuery 창시자, 칸 아카데미 개발자
+- name: Jonathan Snook
+  blog: https://snook.ca/
+  rss: http://feeds.feedburner.com/snookca
+  description: SMACSS 창시자
+- name: Josh Symonds
+  blog: http://joshsymonds.com
+  rss: http://joshsymonds.com/atom.xml
+  description: Founder of Symonds & Son, Devops
+- name: Kevin Sookocheff
+  blog: https://sookocheff.com/
+  rss: http://sookocheff.com/index.xml
+  description:
+- name: Lars Vogell
+  blog: http://www.vogella.com/
+  rss: http://www.vogella.de/blog/feed/
+  description: 이클립스 커미터
+- name: Lauren Tan
+  blog: https://medium.com/@sugarpirate
+  rss: https://medium.com/feed/@sugarpirate
+  description: Ember.js
+  twitter: https://twitter.com/sugarpirate_
+- name: Linus Torvalds
+  blog: https://plus.google.com/+LinusTorvalds
+  description: Linux 창시자
+- name: Maarten Smeets
+  blog: https://medium.com/@MaartenSmeetsNL
+  rss: https://medium.com/feed/@MaartenSmeetsNL
+- name: Mārcis Bergmanis
+  blog: https://medium.com/@marcisbee
+  rss: https://medium.com/feed/@marcisbee
+  twitter: https://twitter.com/marcisbee
+  description: Radi.js 제작자
+- name: Marcin Moskala
+  blog: https://medium.com/@marcinmoskala
+  rss: https://medium.com/feed/@marcinmoskala
+  description: Co-author of Android Development with Kotlin
+  twitter: https://twitter.com/marcinmoskala
+  facebook: https://www.facebook.com/mmoskala
+  github: https://github.com/MarcinMoskala
+  home: http://marcinmoskala.com/
+- name: Marius Schulz
+  blog: https://blog.mariusschulz.com/
+  rss: http://feeds.feedburner.com/mariusschulz
+  description: Javascript 개발자
+- name: Mark Otto
+  blog: http://markdotto.com/
+  rss: http://feeds.feedburner.com/mdo
+  description: Bootstrap 창시자, 디자이너
+- name: Martin Fowler
+  blog: http://martinfowler.com/
+  rss: http://martinfowler.com/bliki/bliki.atom
+  description: 리팩토링 창시자
+- name: Michael Hausenblas
+  blog: https://medium.com/@mhausenblas
+  rss: https://medium.com/feed/@mhausenblas
+  description: Open Shift, Kubernetes
+- name: Michael Heap
+  speakerdeck: https://speakerdeck.com/mheap
+- name: Mike Bostock
+  blog: https://bost.ocks.org/mike/
+  rss: http://bost.ocks.org/mike/index.rss
+  description: D3.js 창시자
+- name: Mike Gouline
+  blog: https://blog.gouline.net/
+  rss: http://blog.gouline.net/rss/
+  description:
+- name: Mike McQuaid
+  blog: https://mikemcquaid.com/
+  description: Homebrew Lead Maintainer
+- name: Mike Nakhimovich
+  blog: https://medium.com/@theMikhail
+  rss: https://medium.com/feed/@theMikhail
+  description: Google Developer Expert Android
+- name: Nicolai Parlog
+  blog: http://blog.codefx.org/, https://medium.com/@nipa
+  rss: http://blog.codefx.org/feed/
+  description: Java channel editor at SitePoint
+- name: Phil Haack
+  blog: http://haacked.com/
+  rss: http://feeds.haacked.com/haacked/
+  description: Github 개발자
+- name: Paul Bakker
+  blog: http://paulbakker.io/
+  rss: http://paulbakker.io/feed.xml
+  description: Modular Cloud Apps with OSGI 저자
+- name: Paul Lewis
+  blog: https://aerotwist.com/
+  rss: http://aerotwist.com/blog/feed/
+  description: Google Web Developer
+- name: Per Harald Borgen
+  blog: https://medium.com/@perborgen
+  rss: https://medium.com/feed/@perborgen
+  description: Co-founder of Scrimba
+  twitter: https://twitter.com/perborgen
+- name: Prateeksha Singh
+  blog: https://medium.com/@pratu16x7
+  description: Open Source Developer at Frappé
+- name: Pycon ZA
+  speakerdeck: https://speakerdeck.com/pyconza
+- name: Raphaël Benitte
+  twitter: https://twitter.com/benitteraphael
+  description: Creator of nivo
+- name: Ricardo Cabello
+  blog: http://mrdoob.com/
+  rss: http://feeds.feedburner.com/mrdoob
+  description: Three.js 창시자
+- name: Richard Stallman
+  blog: https://www.stallman.org/
+  description: Free Software Foundation, GNU Project 창시자
+- name: Rico
+  speakerdeck: https://speakerdeck.com/rixco
+- name: Robert C. Martin
+  blog: http://blog.cleancoder.com/
+  rss: http://blog.cleancoder.com/atom.xml
+  description: 클린 코드 저자
+- name: Rod Johnson
+  blog: https://medium.com/@springrod
+  rss: https://medium.com/feed/@springrod
+  description: Spring 창시자
+- name: Roman Elizarov
+  blog: https://medium.com/@elizarov
+  rss: https://medium.com/feed/@elizarov
+  description: Team Lead for Kotlin libraries at JetBrains
+  twitter: https://twitter.com/relizarov
+- name: Sabby Anandan
+  speakerdeck: https://speakerdeck.com/sabbyanandan
+- name: Sacha Greif
+  blog: https://medium.com/@sachagreif
+  rss: https://medium.com/feed/@sachagreif
+  twitter: https://twitter.com/SachaGreif
+  description: Creator of Sidebar, VulcanJS
+- name: Sam Newman
+  blog: http://samnewman.io/
+  rss: http://samnewman.io/blog/feed.xml
+  description: Building Microservices 저자
+- name: Scott Hanselman
+  blog: http://www.hanselman.com/
+  rss: http://feeds.hanselman.com/ScottHanselman
+  description: ASP.NET
+- name: Shahid N. Shah
+  speakerdeck: https://speakerdeck.com/shah
+- name: Shai Mishali
+  speakerdeck: https://speakerdeck.com/freak4pc
+- name: Stephen Colebourne
+  blog: http://blog.joda.org/
+  rss: http://blog.joda.org/feeds/posts/default
+  description: Joda-Time 창시자
+- name: Steve Wozniak
+  blog: http://www.woz.org/
+  description: Apple 공동창업자
+- name: Tal Safran
+  speakerdeck: https://speakerdeck.com/talsafran
+- name: Thomas Fuchs
+  blog: http://mir.aculo.us/
+  rss: http://feeds.feedburner.com/miraculous
+  description: script.aculo.us, Zepto.js 창시자
+- name: Thomas Stringer
+  blog: https://medium.com/@trstringer
+  rss: https://medium.com/feed/@trstringer
+  description: Technical Evangelist at Microsoft
+- name: Valera Zakharov
+  speakerdeck: https://speakerdeck.com/valeraz
+- name: Victor Farazdagi
+  blog: https://farazdagi.com/posts/
+  rss: https://farazdagi.com/index.xml
+  description: Square Labs CTO
+  twitter: https://twitter.com/farazdagi
+  github: https://github.com/farazdagi
+  linkedin: https://www.linkedin.com/in/farazdagi/
+  home: https://farazdagi.com/
+- name: Vinicius Isola
+  blog: https://visola.github.io/
+  rss: https://visola.github.io/rss.xml
+  description: Full-stack
+- name: Will McGugan
+  blog: https://www.willmcgugan.com/
+  rss: http://www.willmcgugan.com/blog/rootblog/feeds/posts/
+  description: Moya(no-Python Python Web Framework)
+- name: Yoni Goldberg
+  blog: https://medium.com/@me_37286
+  rss: https://medium.com/feed/@me_37286

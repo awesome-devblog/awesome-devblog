@@ -1,0 +1,101 @@
+---
+- name: CIDR.xyz
+  url: http://cidr.xyz/
+  description: An interactive IP address and CIDR range visualizer
+  category: Network
+- name: Codecademy
+  url: https://www.codecademy.com/
+  description: Online freemium interactive platform that offers free coding classes in 12 different programming languages including Python, Java, JavaScript, Ruby, SQL, and Sass, as well as markup languages HTML and CSS.
+  category: MOOC
+- name: CodePen
+  url: https://codepen.io/
+  description: Social development environment for front-end designers and developers.
+  category: Programming
+- name: Coursera
+  url: https://www.coursera.org/
+  description: Online learning platform founded by Stanford professors Andrew Ng and Daphne Koller that offers courses, specializations, and degrees.
+  category: MOOC
+- name: Diff Checker
+  url: https://www.diffchecker.com/
+  description: Online diff tool to compare text differences between two text files.
+  category: Diff
+- name: Devicons
+  url: http://vorillaz.github.io/devicons/
+  description: Developer iconic font
+  category: Icon
+- name: Devhints
+  url: https://devhints.io/
+  description: A ridiculous collection of web development cheatsheets · One-page guide to.
+  category: Cheatsheet
+- name: draw.io
+  url: https://www.draw.io/
+  description: Free online diagram software for making flowcharts, process diagrams, org charts, UML, ER and network diagrams.
+  category: Diagram
+- name: explainshell.com
+  url: https://explainshell.com/
+  description: Write down a command-line to see the help text that matches each argument
+  category: Shell
+- name: Ezgif
+  url: https://ezgif.com/
+  description: Easy to use online animated GIF maker and image editor.
+  category: Image
+- name: FA2PNG
+  url: http://fa2png.io/
+  description: Exports Font Awesome icons as PNG images for Alfred Workflow.
+  category: Icon
+- name: Heroku
+  url: https://www.heroku.com/
+  description: A platform as a service (PaaS) that enables developers to build, run, and operate applications entirely in the cloud.
+  category: Cloud
+- name: O RLY Cover Generator
+  url: https://dev.to/rly
+  description: Insult your co-workers with snarky O RLY parody book covers!
+  category: Humor
+- name: OpenProcessing
+  url: https://www.openprocessing.org/
+  description: The community of everyday coders and educators, experimenting on tech, args and design.
+  category: Creative Coding
+- name: Pixlr Editor
+  url: https://pixlr.com/editor/
+  description: Robust browser photo editor, for all your editing needs. Have full control over your images, including layers and effects.
+  category: Image
+- name: RegExr
+  url: https://regexr.com/
+  description: Online tool to learn, build, & test Regular Expressions
+  category: Programming
+- name: Rosetta Code
+  url: http://rosettacode.org/
+  description: Programming chrestomathy site. The idea is to present solutions to the same task in as many different languages as possible, to demonstrate how languages are similar and different, and to aid a person with a grounding in one approach to a problem in learning another.
+  category: Programming
+- name: slides
+  url: https://slides.com/
+  description: A place for creating, presenting and sharing slide decks.
+  category: Presentation
+- name: TinyPNG
+  url: https://tinypng.com/
+  description: Make your website faster and save bandwidth. TinyPNG optimizes your PNG images by 50-80% while preserving full transparency!
+  category: Image
+- name: tlk.io
+  url: https://tlk.io/
+  description: A simple web chat
+  category: Chat
+- name: URL Decode and Encode
+  url: https://www.urlencoder.org/
+  description: Decode from or Encode to URL encoded (also known as Percent-encoded) format - Here, with our simple online tool.
+  category: Encoding
+- name: VIM Adventures
+  url: https://vim-adventures.com/
+  description: Learning VIM while playing a game.
+  category: Fun
+- name: VisuAlgo
+  url: https://visualgo.net/
+  description: Visualising data structures and algorithms through animation
+  category: Algorithm
+- name: Web Design Museum
+  url: https://www.webdesignmuseum.org/
+  description: The museum exhibits over 900 carefully selected and sorted web sites that show web design trends between the years 1995 and 2005.
+  category: Web Design
+- name: XML Pretty Print
+  url: http://xmlprettyprint.com/
+  description: A simple XML pretty printer.
+  category: XML
