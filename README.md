@@ -762,6 +762,7 @@
 | 주재범 | http://joojaebum.com/ | 픽셀 아트 |  |
 | 지국환 | http://wlhermit.blog.me/ | 게임 개발 | [![](icons/rss-icon.png)](http://wlhermit.blog.me/rss/atom) |
 | 지원준 | https://brunch.co.kr/@wjchee | IT 칼럼 | [![](icons/rss-icon.png)](https://brunch.co.kr/atom/@@3SO) |
+| 지찬규 | https://jay-ji.tistory.com/ | Jay 기술 블로그 (Django, python) | [![](icons/rss-icon.png)](https://jay-ji.tistory.com//feed)[![](icons/github-icon.png)](https://github.com/JAY-Chan9yu) |
 | 진민규 | https://medium.com/@justin_jin | 마케팅 | [![](icons/rss-icon.png)](https://medium.com/feed/@justin_jin)[![](icons/twitter-icon.png)](https://twitter.com/justin_jin) |
 | 진민완 | https://minwan1.github.io/ | Spring | [![](icons/github-icon.png)](https://github.com/minwan1) |
 | 진성주 | http://softwaregeeks.org/ | 오픈소스 | [![](icons/rss-icon.png)](http://softwaregeeks.org/feed/) |
@@ -792,7 +793,7 @@
 | 최성재 | http://yumere.tistory.com/ | Paper Review | [![](icons/rss-icon.png)](http://yumere.tistory.com/rss) |
 | 최수원 | http://cionman.tistory.com/ | Linux | [![](icons/rss-icon.png)](http://cionman.tistory.com/rss) |
 | 최승필 | https://brunch.co.kr/@pilsogood | 트립그리다 | [![](icons/rss-icon.png)](https://brunch.co.kr/rss/@@1iQC) |
-| 최용석 | https://blog.naver.com/cys_star |  | [![](icons/rss-icon.png)](https://rss.blog.naver.com/cys_star.xml) |
+| 최용석 | https://dydtjr1128.github.io/ |  | [![](icons/rss-icon.png)](https://dydtjr1128.github.io/feed.xml) |
 | 최유석 | http://whitechoi.tistory.com/ | Cloud | [![](icons/rss-icon.png)](http://whitechoi.tistory.com/rss) |
 | 최윤섭 | http://www.yoonsupchoi.com/ | 헬스케어 | [![](icons/rss-icon.png)](http://www.yoonsupchoi.com/feed/)[![](icons/facebook-icon.png)](https://www.facebook.com/yoonsup.choi)[![](icons/twitter-icon.png)](https://twitter.com/pelexus) |
 | 최은선 | https://im-mota.github.io/ | UX | [![](icons/linkedin-icon.png)](https://www.linkedin.com/in/eunsunmota/) |

@@ -6355,6 +6355,11 @@
   blog: https://brunch.co.kr/@wjchee
   rss: https://brunch.co.kr/atom/@@3SO
   description: IT 칼럼
+- name: 지찬규
+  blog: https://jay-ji.tistory.com/
+  rss: https://jay-ji.tistory.com/feed
+  description: 기술 블로그
+  github: https://github.com/JAY-Chan9yu
 - name: 진민규
   blog: https://medium.com/@justin_jin
   rss: https://medium.com/feed/@justin_jin
@@ -6609,9 +6614,9 @@
   description: SQL
   github: https://github.com/nachoi
 - name: 최용석
-  blog: https://blog.naver.com/cys_star
-  rss: https://rss.blog.naver.com/cys_star.xml
-  description: ''
+  blog: https://dydtjr1128.github.io/
+  rss: https://dydtjr1128.github.io/feed.xml
+  description: Java, Spring, C++
 - name: 최용호
   blog: http://yongho1037.tistory.com/
   rss: http://yongho1037.tistory.com/rss
