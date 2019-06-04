@@ -4376,8 +4376,9 @@
 - name: 이동규
   blog: https://medium.com/@guleum
   rss: https://medium.com/feed/@guleum
-  description: Web
-  facebook: https://www.facebook.com/profile.php?id=100010476465837
+  description: Design
+  facebook: https://www.facebook.com/dongriDesigner/
+  home: https://dongri.me/
 - name: 이동균
   blog: https://haandol.github.io/
   rss: https://haandol.github.io/atom.xml
