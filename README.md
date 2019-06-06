@@ -744,7 +744,7 @@
 | 조우진 | http://www.notforme.kr/ | Angular | [![](icons/rss-icon.png)](http://www.notforme.kr/feed)[![](icons/linkedin-icon.png)](https://www.linkedin.com/in/notforme/) |
 | 조은 | https://brunch.co.kr/@techhtml | Front-end | [![](icons/rss-icon.png)](https://brunch.co.kr/rss/@@3FX) |
 | 조은상 | http://itnp.kr/blog/ | Spring | [![](icons/facebook-icon.png)](https://www.facebook.com/cho.eunsang)[![](icons/twitter-icon.png)](https://twitter.com/itnpeople) |
-| 조은우 | http://jonnung.github.io/ |  | [![](icons/rss-icon.png)](https://jonnung.github.io/index.xml)[![](icons/facebook-icon.png)](https://www.facebook.com/choeunwoo)[![](icons/twitter-icon.png)](https://twitter.com/jonnung)[![](icons/github-icon.png)](https://github.com/jonnung) |
+| 조은우 | https://jonnung.dev/ |  | [![](icons/rss-icon.png)](https://jonnung.dev/posts/index.xml)[![](icons/facebook-icon.png)](https://www.facebook.com/choeunwoo)[![](icons/twitter-icon.png)](https://twitter.com/jonnung)[![](icons/github-icon.png)](https://github.com/jonnung) |
 | 조인석 | https://brunch.co.kr/@insuk | SW 칼럼 | [![](icons/rss-icon.png)](https://brunch.co.kr/rss/@@102g) |
 | 조재우 | http://flowkater.github.io/ | Java | [![](icons/rss-icon.png)](http://flowkater.github.io/atom.xml)[![](icons/twitter-icon.png)](https://twitter.com/Fl0wk27er)[![](icons/github-icon.png)](https://github.com/flowkater) |
 | 조중현 | http://blog.naver.com/chowin21 | 마케팅 | [![](icons/rss-icon.png)](https://rss.blog.naver.com/chowin21.xml)[![](icons/facebook-icon.png)](https://www.facebook.com/chowin21) |
