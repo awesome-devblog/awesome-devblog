@@ -1827,10 +1827,10 @@
   description: nimf
   github: https://github.com/cogniti
 - name: 김호영
-  blog: https://khzero.github.io/
-  rss: https://khzero.github.io/feed
-  description: Spring Boot, Javascript
-  github: https://github.com/khzero
+  blog: https://blog.hodory.dev/
+  rss: https://blog.hodory.dev/feed
+  description: PHP, Spring Boot, Javascript
+  github: https://github.com/hodory
 - name: 김홍배
   slideshare: https://www.slideshare.net/ssuser06e0c5
 - name: 김화수
