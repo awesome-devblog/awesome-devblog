@@ -416,6 +416,7 @@
 | 성대경 | http://healthydeveloper.tistory.com/ | Algorithm | [![](icons/rss-icon.png)](http://healthydeveloper.tistory.com/rss) |
 | 성동찬 | http://gywn.net/ | Database | [![](icons/rss-icon.png)](http://gywn.net/feed/) |
 | 소용환 | http://www.sauru.so/ | Docker, Elastic | [![](icons/rss-icon.png)](http://feeds.feedburner.com/sauru-so?format=xml)[![](icons/twitter-icon.png)](https://twitter.com/scinix)[![](icons/github-icon.png)](https://github.com/sio4/)[![](icons/linkedin-icon.png)](https://www.linkedin.com/in/scinix/) |
+| 손상우 | https://rerewww.github.io/ | Web 기술 블로그 | [![](icons/rss-icon.png)](https://rerewww.github.io/feed) |
 | 손승하 | http://sonseungha.tistory.com/ | Linux | [![](icons/rss-icon.png)](http://sonseungha.tistory.com/rss) |
 | 손영수(arload) | https://arload.wordpress.com/ | 개발방법론, Android | [![](icons/rss-icon.png)](https://arload.wordpress.com/feed/) |
 | 손찬욱 | https://sculove.github.io/blog/ | Web | [![](icons/rss-icon.png)](https://sculove.github.io/blog/rss2.xml)[![](icons/facebook-icon.png)](https://www.facebook.com/chanuk.son)[![](icons/github-icon.png)](https://github.com/sculove)[![](icons/linkedin-icon.png)](https://www.linkedin.com/in/chan-uk-son-8989ba56/) |
