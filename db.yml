@@ -849,6 +849,13 @@
   github: https://github.com/hero4earth
   linkedin: https://www.linkedin.com/in/hero4earth
   home: http://hero4earth.com/
+- name: 김상열
+  blog: https://yorr.tistory.com
+  rss: https://yorr.tistory.com/rss
+  description: Web, AWS, Algorithm
+  facebook: https://www.facebook.com/twysg
+  github: https://github.com/sangyeol-kim
+  rocketpunch: https://www.rocketpunch.com/@f7a9ec3c52fa4b1b
 - name: 김상훈
   blog: https://interpiler.com/
   rss: http://interpiler.com/index.php/feed/
@@ -858,6 +865,8 @@
   rss: https://medium.com/feed/@sanghee
   description: Python
   twitter: https://twitter.com/sangheestyle
+
+
 - name: 김석기
   blog: https://brunch.co.kr/@neo3xdh
   rss: https://brunch.co.kr/rss/@@ERG
