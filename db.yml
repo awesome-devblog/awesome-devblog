@@ -2115,7 +2115,10 @@
   description: 머신러닝
 - name: 문동욱
   blog: https://evan-moon.github.io/
-  description: Graphics, Web
+  rss: https://evan-moon.github.io/feed.xml
+  description: Web, JavaScript, Graphics
+  github: https://github.com/evan-moon
+  linkedin: https://www.linkedin.com/in/evan-moon/
 - name: 문석환
   slideshare: https://www.slideshare.net/SeokhwanMoon
 - name: 문성훈
