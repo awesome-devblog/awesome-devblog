@@ -4505,6 +4505,11 @@
   description: Data Science
   github: https://github.com/lumiamitie
   instagram: https://www.instagram.com/miika__el/
+- name: 이바울
+  blog: https://woolbro.tistory.com/
+  rss: https://woolbro.tistory.com/rss
+  description: Python, Java
+  facebook: https://www.facebook.com/paullee1993
 - name: 이범재
   blog: https://medium.com/@beomjae
   rss: https://medium.com/feed/@beomjae
@@ -5155,9 +5160,10 @@
   rss: http://chanhaeng.blogspot.com/feeds/posts/default
   description: 3D Graphics
 - name: 이찬희
-  blog: https://iamchanii.github.io/
-  description: Go
+  blog: https://velog.io/@iamchanii
+  description: Front-end
   github: https://github.com/iamchanii
+  home: https://resume.imch.dev/
 - name: 이치웅
   blog: https://chichi.space/
   rss: https://chichi.space/atom
