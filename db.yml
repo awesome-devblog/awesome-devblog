@@ -2814,6 +2814,13 @@
   blog: http://bangjunyoung.blogspot.kr/
   rss: http://feeds.feedburner.com/junyoung?format=xml
   description: Java
+- name: 배금일
+  blog: https://medium.com/@lanoir42
+  rss: https://medium.com/feed/@lanoir42
+  description: Linux
+  twitter: https://twitter.com/lanoir42
+  facebook: https://www.facebook.com/jinlanoir
+  linkedin: https://www.linkedin.com/in/geumil-bae-phd-cfa-86787a6a/
 - name: 배기홍
   blog: http://www.thestartupbible.com/
   rss: http://feeds.feedburner.com/baenefit/slXh
