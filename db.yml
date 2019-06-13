@@ -4265,6 +4265,11 @@
   rss: http://storycompiler.tistory.com/rss
   description: Tizen
   facebook: https://www.facebook.com/theojini
+- name: 윤찬렬
+  blog: https://razorbacky.blogspot.com/
+  rss: https://razorbacky.blogspot.com/feeds/posts/default?alt=rss
+  description: Linux
+  facebook: https://www.facebook.com/chanryul.yoon
 - name: 윤청하
   blog: https://brunch.co.kr/@brunch4nrs
   rss: https://brunch.co.kr/rss/@@zav
