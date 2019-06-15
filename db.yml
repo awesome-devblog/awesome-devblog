@@ -1467,6 +1467,7 @@
   description: IT Tour Guider, SW Tools, SW Internals, Android
 - name: 김중현
   blog: https://jheloper.github.io
+  rss: https://jheloper.github.io/atom.xml
   github: https://github.com/jheloper
 - name: 김지수
   blog: http://hungrykim.tistory.com/
