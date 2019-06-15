@@ -324,6 +324,11 @@
   rss: http://itstory.tk/rss
   description: Java
   facebook: https://www.facebook.com/kkd927
+- name: 권기웅
+  blog: https://blog.naver.com/rnjsrldnd123
+  rss: https://rss.blog.naver.com/rnjsrldnd123.xml
+  description: Java
+  facebook: https://www.facebook.com/profile.php?id=100000783953232
 - name: 권기호
   blog: http://kwongyo.tistory.com/
   rss: http://kwongyo.tistory.com/rss
