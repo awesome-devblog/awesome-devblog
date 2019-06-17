@@ -3761,9 +3761,9 @@
   github: https://github.com/yangs1202
 - name: 양성민
   blog: https://velog.io/@chris
+  rss: https://api.velog.io/atom/@chris
   github: https://github.com/ysm0622
   linkedin: https://www.linkedin.com/in/ysm0622/
-  tistory: http://chrisy.tistory.com/
 - name: 양성익
   blog: http://unikys.tistory.com/309
   rss: https://http://unikys.tistory.com/309/rss
