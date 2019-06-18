@@ -149,6 +149,7 @@
 | 김보원 | https://boribap.github.io/ | Block Chain | [![](icons/facebook-icon.png)](https://www.facebook.com/kimbowon)[![](icons/github-icon.png)](https://github.com/boribap) |
 | 김봉현 | https://harfangk.github.io/ | Elixir | [![](icons/rss-icon.png)](https://harfangk.github.io/feed.xml)[![](icons/twitter-icon.png)](https://twitter.com/harfangk)[![](icons/github-icon.png)](https://github.com/harfangk) |
 | 김상훈 | https://interpiler.com/ | IT 칼럼 | [![](icons/rss-icon.png)](http://interpiler.com/index.php/feed/) |
+| 김상연 | https://github.com/kimsangyeon | Javascript | [![](icons/rss-icon.png)](https://kimsangyeon.github.io/kimsangyeon.github.io/feed) |
 | 김상열 | https://yorr.tistory.com/ | Web, AWS, Algorithm | [![](icons/rss-icon.png)](https://yorr.tistory.com/rss) |
 | 김석기 | https://brunch.co.kr/@neo3xdh | IT 칼럼 | [![](icons/rss-icon.png)](https://brunch.co.kr/rss/@@ERG) |
 | 김선영 | http://sunyzero.tistory.com/ | Linux | [![](icons/rss-icon.png)](http://sunyzero.tistory.com/rss) |
