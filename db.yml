@@ -5840,6 +5840,12 @@
   rss: https://brunch.co.kr/rss/@@5ZK0
   description: 티도리
   github: https://github.com/pronist
+- name: 정미량
+  blog: https://miryang.dev
+  rss: https://miryang.dev/rss/
+  description: Node.js, Security
+  github: https://github.com/MiryangJung
+  linkedin: https://www.linkedin.com/in/miryangjung/
 - name: 정민석
   blog: https://medium.com/@HarrisonJung
   rss: https://medium.com/feed/@HarrisonJung
