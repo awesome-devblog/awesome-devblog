@@ -23,6 +23,7 @@
 - [기술블로그 구독서비스 개발 후기 - 1부](https://taetaetae.github.io/2018/08/05/daily-dev-blog-1/)
 - [(tech-trend) 구루들이 찾는다는 테크 트렌드 - 유명 블로그와 소셜 유명인](http://keen.devpools.kr/2017/08/03/tech-trend-03/)
 - [한국 오픈소스 프로젝트 랭킹 Top 100](https://medium.com/supple/한국-오픈소스-프로젝트-top-100-739dafc082cf) - 69위
+- [개발블로그 알림서비스 TodayDevblog_bot 개발기](https://miryang.dev/2019/06/22/todaydevblog-telegrambot/)
 
 ## 형제자매 프로젝트
 - [AWESOME DEVBLOG(포탈)](https://awesome-devblog.netlify.com/)
@@ -31,6 +32,7 @@
 - [어썸블로그(페이스북 페이지)](https://www.facebook.com/awesomeblogs/)
 - [Daily DevBlog(뉴스레터)](http://daily-devblog.com/)
 - [DEVBLOG(메타블로그)](http://devblog.selfhow.com/)
+- [TodayDevBlog_bot(텔레그램봇)](https://t.me/TodayDevblog_bot)
 
 ## 목차
 
