@@ -4210,6 +4210,11 @@
   blog: http://loup1788.blogspot.kr/
   rss: http://loup1788.blogspot.com/feeds/posts/default
   description: ''
+- name: 윤경선
+  blog: https://mishka86.github.io/
+  rss: https://mishka86.github.io/rss2.xml
+  description: ''
+  github: https://github.com/mishka86 
 - name: 윤민식
   blog: https://medium.com/@yms9654
   rss: https://medium.com/feed/@yms9654
