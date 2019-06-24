@@ -1674,6 +1674,7 @@
   blog: https://taes-k.github.io/
   description: Spring
   facebook: https://www.facebook.com/KTaeSeong
+  github: https://github.com/taes-k
 - name: 김태영
   blog: https://tykimos.github.io/
   rss: http://tykimos.github.io/feed.xml
@@ -4825,6 +4826,9 @@
   linkedin: https://www.linkedin.com/in/seungjaeryanlee/
   twitter: https://twitter.com/seungjaeryanlee
 - name: 이승준
+  blog: https://financedata.github.io/
+  rss: https://financedata.github.io/rss.xml
+  description: Python, Finance
   facebook: https://www.facebook.com/plusjune
   github: https://github.com/financedata
   linkedin: https://www.slideshare.net/plusjune
