@@ -7402,6 +7402,9 @@
   rss: http://jhhwang4195.tistory.com/rss
   description: NFV, 5G, Devops
   github: https://github.com/jhhwang4195
+- name: 황창재
+  blog: https://velog.io/@pequalnp
+  rss: https://api.velog.io/atom/@pequalnp
 - name: 황치규
   blog: https://brunch.co.kr/@delight412
   rss: https://brunch.co.kr/rss/@@ZVA
