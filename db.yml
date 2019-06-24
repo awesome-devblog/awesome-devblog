@@ -206,6 +206,12 @@
 - name: 김철민
   blog: http://blog.naver.com/kbs4674
   rss: https://rss.blog.naver.com/kbs4674.xml
+- name: 고경운
+  blog: https://armadillo-dev.github.io/
+  rss: https://armadillo-dev.github.io/feed.xml
+  description: Front-end
+  github: https://github.com/armadillo-dev
+  facebook: https://www.facebook.com/profile.php?id=100035362523359
 - name: 고득녕
   blog: http://blog.naver.com/nackji80/
   rss:  http://blog.rss.naver.com/nackji80.xml
