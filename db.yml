@@ -157,6 +157,12 @@
   blog: https://taylor-kang.github.io/
   rss: https://taylor-kang.github.io/feed.xml
   github: https://github.com/taylor-kang
+- name: 강필모
+  blog: https://ivorycirrus.github.io/
+  rss: https://ivorycirrus.github.io/feed.xml
+  description: Javascript
+  facebook: https://www.facebook.com/ivorycirrus
+  github: https://github.com/ivorycirrus
 - name: 강한별
   blog: https://brunch.co.kr/@cloud09
   rss: https://brunch.co.kr/rss/@@m6q
