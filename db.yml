@@ -5272,6 +5272,12 @@
   rss: http://lhb0517.tistory.com/rss
   description: Ubuntu, Java
   github: https://github.com/starrybleu
+- name: 이한영
+  blog: https://lhy.kr/
+  rss: https://lhy.kr/feed.xml
+  description: Django
+  github: https://github.com/LeeHanYeong
+  instagram: https://www.instagram.com/lhy.kr/
 - name: 이한울
   blog: https://medium.com/@kkak10
   rss: https://medium.com/feed/@kkak10
