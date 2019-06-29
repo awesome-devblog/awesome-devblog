@@ -6657,6 +6657,11 @@
 - name: 최동섭
   blog: http://javadongsub.blogspot.com/
   description: Java
+- name: 최동철
+  blog: https://dc7303.github.io/
+  rss: https://dc7303.github.io/feed.xml
+  github: https://github.com/dc7303
+  facebook: https://www.facebook.com/profile.php?id=100002874023796
 - name: 최만
   blog: http://manchoikorea.blogspot.kr/
   description: 교육
