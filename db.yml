@@ -1857,6 +1857,11 @@
   facebook: https://www.facebook.com/100004915320124
   github: https://github.com/q0115643
   description: NLP
+- name: 김형진
+  blog: https://lalwr.blogspot.com
+  github: https://github.com/lalwr
+  rss: https://lalwr.blogspot.com/feeds/posts/default?alt=rss
+  description: java
 - name: 김혜성
   blog: https://blog.cometkim.kr/
   rss: https://blog.cometkim.kr/rss.xml
