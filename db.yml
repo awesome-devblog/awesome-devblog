@@ -1863,6 +1863,11 @@
   facebook: https://www.facebook.com/100004915320124
   github: https://github.com/q0115643
   description: NLP
+- name: 김형진
+  blog: https://lalwr.blogspot.com
+  github: https://github.com/lalwr
+  rss: https://lalwr.blogspot.com/feeds/posts/default?alt=rss
+  description: java
 - name: 김혜성
   blog: https://blog.cometkim.kr/
   rss: https://blog.cometkim.kr/rss.xml
@@ -6875,6 +6880,10 @@
   blog: https://brunch.co.kr/@yesjun
   rss: https://brunch.co.kr/rss/@@7ovI
   facebook: https://www.facebook.com/yesjun
+- name: 최지민
+  blog: https://techoi.github.io
+  rss: https://techoi.github.io/rss.xml
+  description: 풀스택을 추구하는 웹개발
 - name: 최지웅
   slideshare: https://www.slideshare.net/ienvyou
 - name: 최진영
