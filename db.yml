@@ -1973,6 +1973,13 @@
   blog: http://www.whynam.com/
   rss: http://www.whynam.com/feeds/posts/default
   description: Java, Javascript, Clojure
+- name: 남윤지
+  blog: https://sehajyang.github.io
+  rss: https://sehajyang.github.io/atom.xml
+  description: Springboot, Scala, Python
+  twitter: https://twitter.com/sehajyang
+  linkedin: https://www.linkedin.com/in/%EC%9C%A4%EC%A7%80-%EB%82%A8-09b834165/
+  github: https://github.com/sehajyang
 - name: 남정현
   blog: https://medium.com/@rkttu
   rss: https://medium.com/feed/@rkttu
