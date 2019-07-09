@@ -497,7 +497,7 @@
 - name: 한국게임기획자모임
   blog: http://gameplanner.cafe24.com
   rss: http://gameplanner.cafe24.com/feed/
-- name: Amazon Web Services 한국 블로그
+- name: AWS 한국 블로그
   blog: https://aws.amazon.com/ko/blogs/korea/
   rss: https://aws.amazon.com/ko/blogs/korea/feed/
   facebook: https://www.facebook.com/amazonwebservices.ko
@@ -1325,3 +1325,15 @@
   github: https://github.com/yodacode/
 - name: Google Study Jams in Korea
   facebook: https://www.facebook.com/groups/studyjamkorea/
+- name: 라라의 프로그래밍
+  youtube: https://www.youtube.com/channel/UCjWnBKjlXv550KDiBjtW8vQ
+- name: 조코딩 JoCoding
+  youtube: https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg
+- name: Devsisters
+  blog: https://tech.devsisters.com/
+  github: https://github.com/devsisters
+  home: https://www.devsisters.com/
+- name: NCSOFT
+  blog: https://blog.ncsoft.com/
+  rss: https://blog.ncsoft.com/feed/
+  facebook: https://www.facebook.com/ncsoft.official/
