@@ -182,6 +182,10 @@
   home: https://buckbuild.com/
   github: https://github.com/facebook/buck
   tags: [Java, Build]
+- name: buefy
+  home: https://buefy.org/
+  github: https://github.com/buefy/buefy
+  tags: [UI Framework, Vue, Bulma]
 - name: Buildah
   home: https://buildah.io
   github: https://github.com/containers/buildah
@@ -712,6 +716,11 @@
   github: https://github.com/helm/helm
   slack: https://kubernetes.slack.com/
   tags: [Container]
+- name: Hermes
+  home: https://hermesengine.dev/
+  github: https://github.com/facebook/hermes
+  twitter: https://twitter.com/HermesEngine
+  tags: [Javascript, Runtime]
 - name: Hexo
   home: https://hexo.io/
   github: https://github.com/hexojs/hexo
@@ -1174,6 +1183,10 @@
   home: https://www.nameko.io/
   github: https://github.com/nameko/nameko
   tags: [Python, Back-end Framework]
+- name: NATS
+  home: https://nats.io/
+  github: https://github.com/nats-io/nats-server
+  tags: [Message Broker]
 - name: Navi
   home: https://frontarm.com/navi/
   github: https://github.com/frontarm/navi

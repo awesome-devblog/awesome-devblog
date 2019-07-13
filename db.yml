@@ -3769,6 +3769,10 @@
   twitter: https://twitter.com/mytory
   facebook: https://www.facebook.com/mytorydev
   github: https://github.com/mytory
+- name: 안홍선
+  blog: https://velog.io/@hongku
+  rss: https://api.velog.io/atom/@hongku
+  github: https://github.com/hongku
 - name: 안효근
   blog: http://hyogeun.tistory.com/
   rss: http://hyogeun.tistory.com/rss
