@@ -2364,6 +2364,10 @@
   rss: https://api.velog.io/atom/@sw7190
   description: Algorithm
   github: https://github.com/sw7190
+- name: 박상윤
+  blog: https://velog.io/@pa324
+  rss: https://api.velog.io/atom/@pa324
+  description: Algorithm
 - name: 박상일
   blog: https://tkddlf59.github.io/
   description: AWS
