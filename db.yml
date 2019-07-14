@@ -6967,6 +6967,13 @@
   blog: https://brunch.co.kr/@mirr5510
   rss: https://brunch.co.kr/rss/@@kDx
   description: 스타트업
+- name: 최현묵
+  blog: http://jellyms.kr/
+  rss: http://jellyms.kr/feed.xml
+  description: Django
+  slideshare: https://www.slideshare.net/HyunMookChoi
+  github: https://github.com/kyunooh
+  facebook: https://www.facebook.com/hyunmook.k.choi
 - name: 최현민
   blog: https://medium.com/@hyunmin.choi
   rss: https://medium.com/feed/@hyunmin.choi
