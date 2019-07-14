@@ -44,10 +44,6 @@
   facebook: https://www.facebook.com/groups/217998138756276/
 - name: Korea Blazor User Group
   facebook: https://www.facebook.com/groups/kblug/
-- name: GDG Pangyo
-  facebook: https://www.facebook.com/groups/gdgpangyo/
-  meetup: https://www.meetup.com/ko-KR/pangyo-gdg/
-  slack: http://slack.gdg.kr/
 - name: Facebook Developer Circle
   facebook: https://www.facebook.com/groups/DevCSeoul/
 - name: Vue.js Korea
@@ -70,9 +66,6 @@
   facebook: https://www.facebook.com/groups/k8skorea/
 - name: Korea Chaos Engineering Group
   facebook: https://www.facebook.com/groups/chaosengkorea/
-- name: GDG Korea WebTech
-  facebook: https://www.facebook.com/groups/webTechKR/
-  meetup: https://www.meetup.com/ko-KR/GDG-WebTech/
 - name: Serverless Korea User Group
   facebook: https://www.facebook.com/groups/serverless.korea/
 - name: 소사모 (한국 소나큐브 사용자 모임)
@@ -89,8 +82,6 @@
 - name: JetBrains 코리아
   facebook: https://www.facebook.com/jetbrainsKR/
   home: https://www.jetbrains.com/
-- name: Google Developer Group Korea
-  facebook: https://www.facebook.com/gdgkorea/
 - name: Kotlin Korea
   home: http://kotlin.kr/
   blog: http://kotlin.kr/blog/
@@ -357,20 +348,6 @@
   github: https://github.com/awskrug
   twitter: https://twitter.com/awskrug
   slideshare: https://www.slideshare.net/awskr
-- name: GDG Incheon
-  facebook: https://www.facebook.com/gdgincheon
-  meetup: https://www.meetup.com/ko-KR/GDG-Incheon/
-  github: https://github.com/GDGincheonAndroidStudy
-  googleplus: https://plus.google.com/communities/104783014618153871181
-- name: GDG Seoul
-  facebook: https://www.facebook.com/groups/gdgseoul/
-  meetup: https://www.meetup.com/ko-KR/GDG-Seoul/
-  slack: https://gdgkr.slack.com/
-  twitter: https://twitter.com/gdgseoul
-  googleplus: https://plus.google.com/116593433820963567116
-- name: GDG Suwon
-  meetup: https://www.meetup.com/ko-KR/gdg-suwon/
-  googlegroups: https://groups.google.com/forum/#!forum/gdg-suwon
 - name: Meteor Seoul
   meetup: https://www.meetup.com/ko-KR/Meteor-Seoul/
   github: https://github.com/meteor-seoul/
@@ -388,11 +365,6 @@
   meetup: https://www.meetup.com/ko-KR/R-Korea/
 - name: Seoul iOS Developer
   meetup: https://www.meetup.com/ko-KR/Seoul-iOS-Developer/
-- name: GDG Cloud Korea
-  meetup: https://www.meetup.com/ko-KR/GDG-Cloud-Korea/
-  googleplus: https://plus.google.com/communities/100306609804963352061
-- name: GDG Gwangmyeong
-  meetup: https://www.meetup.com/ko-KR/GDG-Gwangmyeong/
 - name: IBM developerWorks
   meetup: https://www.meetup.com/ko-KR/IBM-developerWorks-Meetup/
 - name: Seoul Artificial Intelligence
@@ -415,8 +387,6 @@
   meetup: https://www.meetup.com/ko-KR/Play-project-with-Arduino-Raspberry-pi-at-Songpa-Seoul/
 - name: 송도 딥러닝 스터디
   meetup: https://www.meetup.com/ko-KR/송도-딥러닝-스터디/
-- name: GDG SongDo
-  meetup: https://www.meetup.com/ko-KR/GDG-SongDo/
 - name: 게임개발포에버
   blog: http://gamedevforever.tistory.com/
   rss: http://feeds.feedburner.com/gamedevforever?format=xml
@@ -602,12 +572,6 @@
 - name: Korea Azure User Group
   facebook: https://www.facebook.com/groups/krazure/
   meetup: https://www.meetup.com/ko-KR/krazure/
-- name: GDG Korea Android
-  meetup: https://www.meetup.com/ko-KR/GDG-Korea-Android/
-  youtube: https://www.youtube.com/channel/UCvLeTAlv3s84BIiYxVCeSag
-- name: GDG Campus Korea
-  meetup: https://www.meetup.com/ko-KR/GDG-Campus/
-  googleplus: https://plus.google.com/communities/101463090584658665422
 - name: Pangyo Tech Meetup
   meetup: https://www.meetup.com/ko-KR/pangyotech/
 - name: 분당 kaggle 스터디
@@ -662,9 +626,6 @@
 - name: EFL Korea
   home: http://efl.or.kr/
   facebook: https://www.facebook.com/efl.or.kr/
-- name: GDG Busan
-  facebook: https://www.facebook.com/gdgbusan/
-  googleplus: https://plus.google.com/+Gdg-busanBlogspotKr
 - name: GNU Korea
   home: http://korea.gnu.org/
 - name: 한국자바개발자협의회(JCO)
@@ -1125,7 +1086,48 @@
 - name: FEConf Korea
   youtube: https://www.youtube.com/channel/UCWEzfYIpFBIG5jh6laXC6hA
 - name: GDG KOREA
+  facebook: https://www.facebook.com/gdgkorea/
   youtube: https://www.youtube.com/channel/UCu3QGcALTC0FuXMma_dpK0A
+  festa: https://festa.io/hosts/25
+  slack: http://slack.gdg.kr/
+- name: GDG Korea WebTech
+  facebook: https://www.facebook.com/groups/webTechKR/
+  meetup: https://www.meetup.com/ko-KR/GDG-WebTech/
+- name: GDG Korea Android
+  meetup: https://www.meetup.com/ko-KR/GDG-Korea-Android/
+  youtube: https://www.youtube.com/channel/UCvLeTAlv3s84BIiYxVCeSag
+  festa: https://festa.io/hosts/236
+- name: GDG Pangyo
+  facebook: https://www.facebook.com/groups/gdgpangyo/
+  meetup: https://www.meetup.com/ko-KR/pangyo-gdg/
+  slack: http://slack.gdg.kr/
+- name: GDG Incheon
+  facebook: https://www.facebook.com/gdgincheon
+  meetup: https://www.meetup.com/ko-KR/GDG-Incheon/
+  github: https://github.com/GDGincheonAndroidStudy
+- name: GDG Seoul
+  facebook: https://www.facebook.com/groups/gdgseoul/
+  meetup: https://www.meetup.com/ko-KR/GDG-Seoul/
+  slack: https://gdgkr.slack.com/
+  twitter: https://twitter.com/gdgseoul
+- name: GDG Suwon
+  meetup: https://www.meetup.com/ko-KR/gdg-suwon/
+  googlegroups: https://groups.google.com/forum/#!forum/gdg-suwon
+- name: GDG Cloud Korea
+  meetup: https://www.meetup.com/ko-KR/GDG-Cloud-Korea/
+- name: GDG Gwangmyeong
+  meetup: https://www.meetup.com/ko-KR/GDG-Gwangmyeong/
+- name: GDG SongDo
+  meetup: https://www.meetup.com/ko-KR/GDG-SongDo/
+- name: GDG Campus Korea
+  meetup: https://www.meetup.com/ko-KR/GDG-Campus/
+- name: GDG Busan
+  facebook: https://www.facebook.com/gdgbusan/
+  meetup: https://www.meetup.com/ko-KR/GDG-Busan/
+- name: GDG Daejeon
+  facebook: https://www.facebook.com/groups/gdg.daejeon
+  meetup: https://www.meetup.com/ko-KR/GDG-Daejeon/
+  slack: https://gdgkr.slack.com/join/shared_invite/enQtNTk0NTA0NzY4NTkzLTA0NTg4MWJiOTExZmFlNWI4NWQxYWU1NGM0ZjMzZTk3YzY1NTFiNzdmNGQyNTMxMWFmZWI2ZTYzOTAyNjk2MTI
 - name: GM Yankee
   youtube: https://www.youtube.com/channel/UC9RsPwY9QfPDGD-IMEwLn3Q
 - name: 하울의 코딩 채널
