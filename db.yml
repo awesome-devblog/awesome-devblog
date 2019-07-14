@@ -1141,6 +1141,12 @@
   rss: https://qpfmtlcp.github.io/feed
   description: ''
   github: https://github.com/qpfmtlcp
+- name: 김영준
+  blog: https://linked2ev.github.io/
+  rss: https://linked2ev.github.io/feed.xml
+  description: Java
+  github: https://github.com/linked2ev
+  facebook: https://www.facebook.com/linked2ev
 - name: 김영중
   blog: https://quarl894.github.io/
   rss: https://quarl894.github.io/atom.xml
