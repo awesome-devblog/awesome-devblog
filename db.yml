@@ -4240,6 +4240,10 @@
   blog: http://programmeringermany.blogspot.kr/
   rss: http://programmeringermany.blogspot.com/feeds/posts/default
   description: 해외 취업
+- name: 유형준
+  blog: https://cocopambag.github.io
+  description: AI
+  github: https://github.com/cocopambag
 - name: 유호건
   blog: https://velog.io/@youhogeon
   rss: https://api.velog.io/atom/@youhogeon
