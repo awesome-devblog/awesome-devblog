@@ -1339,3 +1339,8 @@
   blog: https://blog.ncsoft.com/
   rss: https://blog.ncsoft.com/feed/
   facebook: https://www.facebook.com/ncsoft.official/
+- name: 코딩지니어스
+  blog: https://blog.naver.com/codinggenius
+  rss: https://rss.blog.naver.com/codinggenius.xml
+- name: 개발자의 앞길에 맵핵 시전
+  facebook: https://www.facebook.com/dev.loadmap/

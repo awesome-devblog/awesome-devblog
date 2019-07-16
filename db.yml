@@ -4630,6 +4630,8 @@
 - name: 이병훈
   blog: https://velog.io/@ohmry
   rss: https://api.velog.io/atom/@ohmry
+- name: 이복연
+  github: https://github.com/WegraLee
 - name: 이봉균
   blog: https://medium.com/@deptno
   rss: https://medium.com/feed/@deptno
