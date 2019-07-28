@@ -5311,6 +5311,12 @@
   description: Front-end
   github: https://github.com/iamchanii
   home: https://resume.imch.dev/
+- name: 이창주
+  blog: https://velog.io/@jerrynim_
+  rss: https://api.velog.io/atom/@jerrynim_
+  description: AWS
+  github: https://github.com/jerrynim
+  home: https://jerrynim.com
 - name: 이치웅
   blog: https://chichi.space/
   rss: https://chichi.space/atom
