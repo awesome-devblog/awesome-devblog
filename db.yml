@@ -2692,6 +2692,10 @@
   description: Ubuntu
   github: https://github.com/ChalkPE
   twitter: https://twitter.com/amato17
+- name: 박준우
+  blog: https://junwoo45til.netlify.com/#/
+  description: javascript
+  github: https://github.com/JUNWOO45
 - name: 박준표
   blog: https://junpyopark.github.io/
   facebook: https://www.facebook.com/profile.php?id=100001823794299
@@ -4149,6 +4153,13 @@
   linkedin: https://www.linkedin.com/in/if1live/
   bitbucket: https://bitbucket.org/if1live/
   steam: https://steamcommunity.com/id/if1live/
+- name: 유보미
+  blog: https://thecommelier.tistory.com/
+  rss: https://thecommelier.tistory.com/rss
+  description: 안드로이드
+  github: https://github.com/commelier
+  twitter: https://twitter.com/_commelier
+  linkedin: https://www.linkedin.com/in/bomee-ryu/
 - name: 유상엽
   blog: https://medium.com/@Dev_Bono
   rss: https://medium.com/feed/@Dev_Bono
@@ -4541,6 +4552,12 @@
   description: Java, Spring, IntelliJ, Backend
   facebook: https://www.facebook.com/jojoldu
   github: https://github.com/jojoldu
+- name: 이동원
+  blog: https://blog.wonizz.tk/
+  rss: https://blog.wonizz.tk/feed/
+  description: AWS, DevOps
+  linkedin: https://www.linkedin.com/in/dongwon-lee-2a5838144/
+  github: https://github.com/wonizz
 - name: 이동인
   blog: https://brunch.co.kr/@leedongins
   rss: https://brunch.co.kr/rss/@@1ffs
