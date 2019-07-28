@@ -704,6 +704,10 @@
   slideshare: https://www.slideshare.net/ssuser6bb12d
   linkedin: https://www.linkedin.com/in/eastcirclek/
   twitter: https://twitter.com/eastcirclek
+- name: 김동인
+  blog: https://velog.io/@owljoa
+  rss: https://api.velog.io/atom/@owljoa
+  github: https://github.com/owljoa
 - name: 김동철
   blog: https://medium.com/@idus_devteam
   rss: https://medium.com/feed/@idus_devteam
@@ -2705,6 +2709,8 @@
 - name: 박준호
   blog: http://junojunho.com/
   rss: http://junojunho.com/feed.xml
+  github: https://github.com/cnaa97
+  linkedin: https://www.linkedin.com/in/cnaa97/
   description: Front-end
 - name: 박준호
   blog: https://blessingdev.wordpress.com/
