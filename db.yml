@@ -886,6 +886,10 @@
   facebook: https://www.facebook.com/twysg
   github: https://github.com/sangyeol-kim
   rocketpunch: https://www.rocketpunch.com/@f7a9ec3c52fa4b1b
+- name: 김상윤
+  blog: https://blog.naver.com/freeristea
+  rss: https://rss.blog.naver.com/freeristea.xml
+  facebook: https://www.facebook.com/profile.php?id=100028386872756
 - name: 김상훈
   blog: https://interpiler.com/
   rss: http://interpiler.com/index.php/feed/
@@ -895,8 +899,6 @@
   rss: https://medium.com/feed/@sanghee
   description: Python
   twitter: https://twitter.com/sangheestyle
-
-
 - name: 김석기
   blog: https://brunch.co.kr/@neo3xdh
   rss: https://brunch.co.kr/rss/@@ERG
@@ -2339,6 +2341,8 @@
   rss: http://gun0912.tistory.com/rss
   description: Android
   medium: https://medium.com/@gun0912
+  facebook: https://www.facebook.com/gun860912
+  youtube: https://www.youtube.com/channel/UCd-ybVsh-R9y0Yq0BZMVCPg
 - name: 박상근
   blog: http://parksk.tistory.com/
   rss: http://parksk.tistory.com/rss
