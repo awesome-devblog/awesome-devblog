@@ -1067,8 +1067,6 @@
   home: http://www.hanbit.co.kr/
   facebook: https://www.facebook.com/hanbitmedia
   youtube: https://www.youtube.com/channel/UC31Gc42xzclOOi5Gp1xIpZw
-- name: 화이트해커
-  youtube: https://www.youtube.com/channel/UC3BZupqBa9CZiNSc0x3lJlg
 - name: TV플루토
   youtube: https://www.youtube.com/channel/UC8JVpZGSvoIwO6usKUYItHA
 - name: Babo_Coding
@@ -1354,3 +1352,10 @@
 - name: 이스트시큐리티 알약 블로그
   blog: https://blog.alyac.co.kr/
   rss: https://blog.alyac.co.kr/feed
+- name: 김버그
+  youtube: https://www.youtube.com/channel/UCFDbz39kFPvU0AUpgHx4ICw
+  facebook: https://www.facebook.com/woohyeon.roh
+  home: https://www.rohwoohyeon.com/
+- name: Encored
+  blog: https://medium.com/encored-technologies-engineering-data-science
+  rss: https://medium.com/feed/encored-technologies-engineering-data-science
