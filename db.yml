@@ -6904,6 +6904,10 @@
   linkedin: https://www.linkedin.com/in/eunsunmota/
 - name: 최재길
   blog: http://blog.devjoshua.me/
+- name: 최재용
+  blog: https://velog.io/@kingcjy
+  rss: https://api.velog.io/atom/@kingcjy
+  github: https://github.com/KingCjy
 - name: 최재원
   blog: https://medium.com/@jaewon.james.choi
   rss: https://medium.com/feed/@jaewon.james.choi
