@@ -6846,6 +6846,9 @@
   blog: http://cionman.tistory.com/
   rss: http://cionman.tistory.com/rss
   description: Linux
+- name: 최승윤
+  blog: https://velog.io/@alchemist718
+  rss: https://api.velog.io/atom/@alchemist718
 - name: 최승필
   blog: https://brunch.co.kr/@pilsogood
   rss: https://brunch.co.kr/rss/@@1iQC
