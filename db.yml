@@ -2820,6 +2820,9 @@
   linkedin: https://www.linkedin.com/in/chiwanpark
   speakerdeck: https://speakerdeck.com/chiwanpark
   home: https://chiwanpark.com/
+- name: 박한준
+  blog: https://velog.io/@cyranocoding
+  rss: https://api.velog.io/atom/@cyranocoding
 - name: 박해선
   blog: https://tensorflow.blog/
   rss: https://tensorflow.blog/feed/
