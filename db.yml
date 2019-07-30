@@ -2889,6 +2889,10 @@
   blog: https://mathbarn.wordpress.com/
   rss: https://mathbarn.wordpress.com/feed/
   description: Ubuntu
+- name: 방경용
+  blog: https://medium.com/@yesesyo
+  rss: https://medium.com/feed/@yesesyo
+  facebook: https://www.facebook.com/gyeongyong.bang
 - name: 방동근
   blog: https://blog.lulab.net/
   rss: https://blog.lulab.net/rss/
@@ -7228,12 +7232,12 @@
   slideshare: https://www.slideshare.net/KennethCeyer
   linkedin: https://www.linkedin.com/in/kenneth-ceyer-768419133/
 - name: 한유덕
-  blog: https://youduk.github.io/
-  rss: https://youduk.github.io/feed
+  blog: https://medium.com/@rnejrl123456
+  rss: https://medium.com/feed/@rnejrl123456
   description: Algorithm
   facebook: https://www.facebook.com/originducku
   linkedin: https://www.linkedin.com/in/youduk-han-2bbb94108/
-  github: https://github.com/Youduk
+  github: https://github.com/Duckuism
 - name: 한장현
   blog: http://han41858.tistory.com/
   rss: http://han41858.tistory.com/rss
