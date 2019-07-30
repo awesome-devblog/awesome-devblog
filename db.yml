@@ -788,7 +788,8 @@
 - name: 김민수
   blog: http://alwayspr.tistory.com/
   rss: http://alwayspr.tistory.com/rss
-  description: ''
+  description: Java, Spring
+  facebook: https://www.facebook.com/minsu.kim.54584
 - name: 김민수
   blog: https://alstn2468.github.io/
   rss: https://alstn2468.github.io/feed.xml
@@ -3538,6 +3539,7 @@
   description: Cloud, NoSQL
   linkedin: https://www.linkedin.com/in/jungsub-shin-933b82119/
   github: https://github.com/ssup2
+  facebook: https://www.facebook.com/profile.php?id=100001966905032
 - name: 신지웅
   blog: https://medium.com/@shinjiwoong1656
   rss: https://medium.com/feed/@shinjiwoong1656
@@ -4488,6 +4490,12 @@
   description: Web
   github: https://github.com/gyuhyeon
   home: https://gyuhyeonlee.com/
+- name: 이근배
+  blog: https://brunch.co.kr/@geunbae
+  rss: https://brunch.co.kr/rss/@@1hty
+  description: Design
+  facebook: https://www.facebook.com/dlrmsqo91
+  home: https://www.geunbaelee.com/
 - name: 이기영
   blog: https://brunch.co.kr/@kiyoungleefige
   rss: https://brunch.co.kr/rss/@@2ND6
@@ -6037,8 +6045,8 @@
   github: https://github.com/codeAmeba
   twitter: https://twitter.com/CodeAmeba
 - name: 정순형
-  blog: https://medium.com/@soonhyungjung
-  rss: https://medium.com/feed/@soonhyungjung
+  blog: https://medium.com/@kevin.j
+  rss: https://medium.com/feed/@kevin.j
   description: 블록체인
   facebook: https://www.facebook.com/soonhyung.jung.5
 - name: 정승욱
