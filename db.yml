@@ -2928,6 +2928,9 @@
   facebook: https://www.facebook.com/doosik.bae
   github: https://github.com/baidoosik
   home: https://www.doosikbae.com/
+- name: 배롱진
+  blog: https://velog.io/@qoszino
+  rss: https://api.velog.io/atom/@qoszino
 - name: 배상익
   blog: https://aidanbae.github.io/
   rss: https://aidanbae.github.io/index.xml
