@@ -2099,6 +2099,7 @@
   rss: http://pluu.github.io/feed.xml
   description: Android
   github: https://github.com/Pluu
+  twitter: https://twitter.com/pluulove
 - name: 도경태
   blog: http://keen.devpools.kr/
   rss: http://keen.devpools.kr/atom.xml
@@ -6040,6 +6041,8 @@
   rss: https://rhostem.github.io/rss.xml
   description: Front-end
   github: https://github.com/rhostem
+- name: 정석준
+  youtube: https://www.youtube.com/channel/UCDIY8zPPYUCNbKHCmf9WSLg
 - name: 정성수
   blog: https://holywater-jeong.github.io/
   rss: https://holywater-jeong.github.io/feed.xml
