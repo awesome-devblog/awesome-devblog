@@ -6588,6 +6588,10 @@
 - name: 지두현
   blog: http://www.chidoo.me/
   rss: http://www.chidoo.me/index.php/feed/
+- name: 지소라
+  blog: https://soraji.github.io/
+  rss: https://soraji.github.io/feed.xml
+  facebook: https://www.facebook.com/jisora
 - name: 지수환
   blog: https://suhwan.dev/
   description: Spring
