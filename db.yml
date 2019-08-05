@@ -685,6 +685,12 @@
 - name: 김동민
   slideshare: https://www.slideshare.net/ssuser2ced101
   linkedin: https://www.linkedin.com/in/dongmin-kim-635921156/
+- name: 김동범
+  blog: https://blog.dongbumkim.com
+  rss: https://blog.dongbumkim.com/feed
+  description: DONGBUM on blog
+  github: https://github.com/dongbum
+  linkedin: https://www.linkedin.com/in/dongbumkim/
 - name: 김동신
   blog: http://dosh.kim/
   rss: http://dosh.kim/rss
