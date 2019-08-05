@@ -212,9 +212,6 @@
   rss: http://kyejusung.com/feed/
   description: ''
   twitter: https://twitter.com/kyejusung
-- name: 김철민
-  blog: http://blog.naver.com/kbs4674
-  rss: https://rss.blog.naver.com/kbs4674.xml
 - name: 고경운
   blog: https://armadillo-dev.github.io/
   rss: https://armadillo-dev.github.io/feed.xml
@@ -1101,6 +1098,10 @@
   rss: https://lumiloves.github.io/feed.xml
   description: Front-end
   github: https://github.com/lumiloves
+- name: 김연민
+  slideshare: https://www.slideshare.net/yeonminkim
+  linkedin: https://www.linkedin.com/in/yeonmin-kim-811950116/
+  kaggle: https://www.kaggle.com/yeonmin
 - name: 김영균
   blog: https://chancethecoder.tistory.com
   rss: https://chancethecoder.tistory.com/rss
@@ -1665,6 +1666,9 @@
   rss: http://rss.egloos.com/blog/agile
   description: 애자일
   twitter: https://twitter.com/cjunekim
+- name: 김철민
+  blog: http://blog.naver.com/kbs4674
+  rss: https://rss.blog.naver.com/kbs4674.xml
 - name: 김청진
   blog: https://jinblog.kr
   rss: https://jinblog.kr/rss
