@@ -2194,6 +2194,10 @@
   description: Web, JavaScript, Graphics
   github: https://github.com/evan-moon
   linkedin: https://www.linkedin.com/in/evan-moon/
+- name: 문범우
+  blog: https://doorbw.tistory.com/
+  rss: https://doorbw.tistory.com/rss
+  github: https://github.com/doorBW
 - name: 문석환
   slideshare: https://www.slideshare.net/SeokhwanMoon
 - name: 문성훈
@@ -4690,7 +4694,8 @@
 - name: 이민우
   blog: https://brunch.co.kr/@minwoo
   rss: https://brunch.co.kr/rss/@@7E8
-  description: 기획
+  description: 데이터 분석
+  facebook: https://www.facebook.com/minwoo.lee.313371
 - name: 이민철
   blog: http://bab2min.tistory.com/
   rss: http://bab2min.tistory.com/rss
