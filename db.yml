@@ -607,13 +607,14 @@
   stackoverflow: https://stackoverflow.com/users/2689714/nacyot
   speakerdeck: https://speakerdeck.com/nacyot
 - name: 김대기
-  blog: http://daegikim.github.io/
+  blog: https://daegikim.github.io/
+  rss: https://daegikim.github.io/feed.xml
   description: Web
   github: https://github.com/DaegiKim
   facebook: https://www.facebook.com/DaegiKimmm
   linkedin: https://www.linkedin.com/in/daegi-kim-6b23045b/
   stackoverflow: https://stackoverflow.com/users/2438290/daegikim
-  strava: https://www.strava.com/athletes/8753337
+  instagram: https://www.instagram.com/daegi.kim/
 - name: 김대성
   facebook: https://www.facebook.com/gmindk
   github: https://github.com/gmind7
