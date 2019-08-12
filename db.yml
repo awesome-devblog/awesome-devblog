@@ -4333,6 +4333,11 @@
   rss: https://mishka86.github.io/rss2.xml
   description: ''
   github: https://github.com/mishka86 
+- name: 윤경태
+  blog: https://android-blog.dev/
+  rss: https://android-blog.dev/rss
+  description: Android
+  github: https://github.com/YoonKyoungTae
 - name: 윤민식
   blog: https://medium.com/@yms9654
   rss: https://medium.com/feed/@yms9654
