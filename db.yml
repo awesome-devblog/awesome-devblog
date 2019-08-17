@@ -2511,6 +2511,11 @@
   description: Web
   github: https://github.com/soromi
   instagram: https://www.instagram.com/soromi_/
+- name: 박수성
+  blog: https://parksuseong.blogspot.com/
+  rss: https://parksuseong.blogspot.com/feeds/posts/default
+  description: 데이터 엔지니어링
+  github: https://github.com/parksuseong
 - name: 박승호
   blog: https://devwaf.blogspot.kr/
   rss: https://devwaf.blogspot.com/feeds/posts/default
