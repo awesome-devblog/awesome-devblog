@@ -7707,3 +7707,8 @@
   rss: https://umanking.github.io/feed
   github: https://github.com/umanking
   description: Java, Spring, ORM, BackEnd
+- name: Yeom
+  blog: https://sabarada.tistory.com
+  rss: https://sabarada.tistory.com/rss
+  github: https://github.com/KoangHoYeom
+  description: Java, Ethereum, Spring, BackEnd
