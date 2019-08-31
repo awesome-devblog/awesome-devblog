@@ -304,6 +304,12 @@
   awesome: https://github.com/veelenga/awesome-crystal
   reddit: https://www.reddit.com/r/crystal_programming/
   tags: [Programming Language]
+- name: Cube.js
+  home: https://cube.dev/
+  github: https://github.com/cube-js/cube.js
+  twitter: https://twitter.com/thecubejs
+  slack: https://slack.cube.dev/
+  tags: [Javascript, Chart]
 - name: Curl
   home: https://curl.haxx.se/
   github: https://github.com/curl/curl
@@ -454,6 +460,10 @@
   quora: https://www.quora.com/topic/Express-Node-js-web-framework
   awesome: https://github.com/rajikaimal/awesome-express
   tags: [Javascript, Back-end Framework]
+- name: Failsafe
+  github: https://github.com/jhalterman/failsafe
+  gitter: https://gitter.im/jhalterman/failsafe
+  tags: [Java]
 - name: Falcon
   home: https://falconframework.org/
   github: https://github.com/falconry/falcon
@@ -1020,6 +1030,9 @@
   home: http://www.lowjs.org/
   github: https://github.com/neonious/lowjs
   tags: [Javascript, Runtime]
+- name: Lucet
+  github: https://github.com/fastly/lucet
+  tags: [WebAssembly]
 - name: Luxon
   home: https://moment.github.io/luxon/
   github: https://github.com/moment/luxon
@@ -1032,6 +1045,11 @@
   home: https://linuxcontainers.org/lxd/
   github: https://github.com/lxc/lxd
   tags: [Container Orchestration]
+- name: Majestic
+  home: https://majestic.debuggable.io/
+  github: https://github.com/Raathigesh/majestic
+  spectrum: https://spectrum.chat/majestic
+  tags: [Javascript, Testing]
 - name: Marathon
   home: https://mesosphere.github.io/marathon/
   github: https://github.com/mesosphere/marathon
@@ -1365,6 +1383,10 @@
   npm: https://www.npmjs.com/package/parcel-bundler
   awesome: https://github.com/parcel-bundler/awesome-parcel
   tags: [Javascript, Tool]
+- name: Pdfvuer
+  home: https://blog.koley.in/pdfvuer/
+  github: https://github.com/arkokoley/pdfvuer
+  tags: [Javascript, PDF]
 - name: Pelican
   github: https://github.com/getpelican/pelican
   blog: https://blog.getpelican.com/
