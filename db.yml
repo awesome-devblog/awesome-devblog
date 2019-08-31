@@ -734,6 +734,10 @@
   rss: http://rhlinux.tistory.com/rss
   description: RedHat Linux
   facebook: https://www.facebook.com/kim2da
+- name: 김동현(Austin Kim)
+  blog: http://rousalome.egloos.com/
+  rss: http://rss.egloos.com/blog/rousalome
+  description: 리눅스 커널
 - name: 김동환
   blog: https://wraithkim.wordpress.com/
   rss: https://wraithkim.wordpress.com/feed/
