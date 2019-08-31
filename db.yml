@@ -1010,7 +1010,7 @@
 - name: 김성현
   blog: https://velog.io/@novemberoscar
   rss: https://api.velog.io/atom/@novemberoscar
-  description: Back-end
+  description: Python, Back-end
   facebook: https://www.facebook.com/seonghyeon2k18
   github: https://github.com/NovemberOscar
   twitter: https://twitter.com/NovemberOscar_
@@ -1421,6 +1421,7 @@
   description: ''
 - name: 김종민
   blog: https://jongmin92.github.io/
+  rss: https://jongmin92.github.io/feed.xml
   description: Spring
   facebook: https://www.facebook.com/jongmin.kim.7796420
   github: https://github.com/jongmin92
@@ -3788,6 +3789,10 @@
   blog: http://programmingsummaries.tistory.com/
   rss: http://programmingsummaries.tistory.com/rss
   description: Front-end
+- name: 안정민
+  blog: http://minsone.github.io/
+  rss: http://minsone.github.io/rss
+  description: iOS, Swift
 - name: 안정우
   blog: https://medium.com/@jeongwooahn
   rss: https://medium.com/feed/@jeongwooahn
