@@ -2943,9 +2943,12 @@
   description: 알고리즘
   facebook: https://www.facebook.com/chinabang
 - name: 방준영
-  blog: http://bangjunyoung.blogspot.kr/
-  rss: http://feeds.feedburner.com/junyoung?format=xml
-  description: Java
+  blog: https://bangjunyoung.github.io/
+  rss: http://feeds.feedburner.com/github/bangjunyoung
+  description: 함수형 프로그래밍
+  github: https://github.com/bangjunyoung
+  twitter: https://twitter.com/junyoung
+  stackoverflow: https://stackoverflow.com/users/198151/bang-jun-young
 - name: 배금일
   blog: https://medium.com/@lanoir42
   rss: https://medium.com/feed/@lanoir42
