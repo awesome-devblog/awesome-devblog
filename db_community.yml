@@ -1349,7 +1349,7 @@
   blog: https://blog.meeta.io/
   rss: https://blog.meeta.io/rss
   home: https://meeta.io/
-- name: 이스트시큐리티 알약 블로그
+- name: 이스트 시큐리티
   blog: https://blog.alyac.co.kr/
   rss: https://blog.alyac.co.kr/feed
 - name: 김버그
@@ -1359,3 +1359,12 @@
 - name: Encored
   blog: https://medium.com/encored-technologies-engineering-data-science
   rss: https://medium.com/feed/encored-technologies-engineering-data-science
+- name: 박센스
+  youtube: https://www.youtube.com/channel/UCi18b8sq1x1SrokadMkT_EQ
+- name: 어센트
+  blog: https://developers.ascentnet.co.jp/
+- name: 버즈니 보일러실
+  blog: https://boiler.buzzni.com/
+- name: 힐링페이퍼
+  blog: https://healingpaper.github.io/
+  rss: https://healingpaper.github.io/feed

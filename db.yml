@@ -710,10 +710,12 @@
   slideshare: https://www.slideshare.net/ssuser6bb12d
   linkedin: https://www.linkedin.com/in/eastcirclek/
   twitter: https://twitter.com/eastcirclek
-- name: 김동현(Austin Kim)
-  blog: http://rousalome.egloos.com/
-  rss: http://rss.egloos.com/blog/rousalome
-  description: 리눅스 커널  
+- name: 김동은
+  blog: https://blog.naver.com/nanotoly
+  rss: https://rss.blog.naver.com/nanotoly.xml
+  description: AI, 스타트업
+  facebook: https://www.facebook.com/profile.php?id=100008189377563
+  linkedin: https://www.linkedin.com/in/dongeun-kim-114a44187
 - name: 김동인
   blog: https://velog.io/@owljoa
   rss: https://api.velog.io/atom/@owljoa
@@ -732,6 +734,10 @@
   rss: http://rhlinux.tistory.com/rss
   description: RedHat Linux
   facebook: https://www.facebook.com/kim2da
+- name: 김동현(Austin Kim)
+  blog: http://rousalome.egloos.com/
+  rss: http://rss.egloos.com/blog/rousalome
+  description: 리눅스 커널
 - name: 김동환
   blog: https://wraithkim.wordpress.com/
   rss: https://wraithkim.wordpress.com/feed/
@@ -1014,7 +1020,7 @@
 - name: 김성현
   blog: https://velog.io/@novemberoscar
   rss: https://api.velog.io/atom/@novemberoscar
-  description: Back-end
+  description: Python, Back-end
   facebook: https://www.facebook.com/seonghyeon2k18
   github: https://github.com/NovemberOscar
   twitter: https://twitter.com/NovemberOscar_
@@ -1208,6 +1214,10 @@
   twitter: https://twitter.com/heyedykim
   linkedin: https://www.linkedin.com/in/edwardykim/
   home: https://edykim.com/
+- name: 김용래
+  blog: https://usage.tistory.com/
+  rss: https://usage.tistory.com/rss
+  facebook: https://www.facebook.com/profile.php?id=100004319825599
 - name: 김용묵
   blog: http://moogi.new21.org/
   rss: http://moogi.new21.org/tc/rss
@@ -1425,6 +1435,7 @@
   description: ''
 - name: 김종민
   blog: https://jongmin92.github.io/
+  rss: https://jongmin92.github.io/feed.xml
   description: Spring
   facebook: https://www.facebook.com/jongmin.kim.7796420
   github: https://github.com/jongmin92
@@ -2940,9 +2951,12 @@
   description: 알고리즘
   facebook: https://www.facebook.com/chinabang
 - name: 방준영
-  blog: http://bangjunyoung.blogspot.kr/
-  rss: http://feeds.feedburner.com/junyoung?format=xml
-  description: Java
+  blog: https://bangjunyoung.github.io/
+  rss: http://feeds.feedburner.com/github/bangjunyoung
+  description: 함수형 프로그래밍
+  github: https://github.com/bangjunyoung
+  twitter: https://twitter.com/junyoung
+  stackoverflow: https://stackoverflow.com/users/198151/bang-jun-young
 - name: 배금일
   blog: https://medium.com/@lanoir42
   rss: https://medium.com/feed/@lanoir42
@@ -3186,10 +3200,12 @@
   rss: http://simsi6.tistory.com/rss
   description: AWS
 - name: 서재원
-  blog: https://environmentset.github.io/
+  blog: https://overcurried.netlify.com/
   description: Front-end
   facebook: https://www.facebook.com/ENvironmentSet
   github: https://github.com/ENvironmentSet
+  twitter: https://twitter.com/NvironmentE
+  home: https://environmentset.github.io/
 - name: 서정원
   blog: https://medium.com/@thejungwon
   rss: https://medium.com/feed/@thejungwon
@@ -3792,6 +3808,10 @@
   blog: http://programmingsummaries.tistory.com/
   rss: http://programmingsummaries.tistory.com/rss
   description: Front-end
+- name: 안정민
+  blog: http://minsone.github.io/
+  rss: http://minsone.github.io/rss
+  description: iOS, Swift
 - name: 안정우
   blog: https://medium.com/@jeongwooahn
   rss: https://medium.com/feed/@jeongwooahn
@@ -6625,6 +6645,11 @@
   rss: https://medium.com/feed/@hooncho
   description: UX/UI Design
   twitter: https://twitter.com/HoonCho4
+- name: 조훈
+  blog: https://sysnet4admin.blogspot.com/
+  rss: https://sysnet4admin.blogspot.com/feeds/posts/default
+  description: System, Network
+  facebook: https://www.facebook.com/sysnet4admin
 - name: 주길재
   blog: http://www.giljae.com/
   rss: http://www.giljae.com/feeds/posts/default
@@ -7339,6 +7364,11 @@
   description: IT 칼럼
   facebook: https://www.facebook.com/kukhyun.han
   home: http://khhan.com/
+- name: 한상효
+  blog: https://medium.com/@tkdgy0801
+  rss: https://medium.com/feed/@tkdgy0801
+  description: AWS
+  facebook: https://www.facebook.com/profile.php?id=100004761372043
 - name: 한섬기
   linkedin: https://www.linkedin.com/in/seomgihan/
   twitter: https://twitter.com/iandmyhand
