@@ -3196,10 +3196,12 @@
   rss: http://simsi6.tistory.com/rss
   description: AWS
 - name: 서재원
-  blog: https://environmentset.github.io/
+  blog: https://overcurried.netlify.com/
   description: Front-end
   facebook: https://www.facebook.com/ENvironmentSet
   github: https://github.com/ENvironmentSet
+  twitter: https://twitter.com/NvironmentE
+  home: https://environmentset.github.io/
 - name: 서정원
   blog: https://medium.com/@thejungwon
   rss: https://medium.com/feed/@thejungwon
@@ -7358,6 +7360,11 @@
   description: IT 칼럼
   facebook: https://www.facebook.com/kukhyun.han
   home: http://khhan.com/
+- name: 한상효
+  blog: https://medium.com/@tkdgy0801
+  rss: https://medium.com/feed/@tkdgy0801
+  description: AWS
+  facebook: https://www.facebook.com/profile.php?id=100004761372043
 - name: 한섬기
   linkedin: https://www.linkedin.com/in/seomgihan/
   twitter: https://twitter.com/iandmyhand
