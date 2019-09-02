@@ -7743,7 +7743,6 @@
   description: Javascript
   github: https://github.com/david718
 - name: 한건국
-  blog: https://umanking.github.io
-  rss: https://umanking.github.io/feed
+  blog: https://umanking.netlify.com
   github: https://github.com/umanking
   description: Java, Spring, ORM, BackEnd
