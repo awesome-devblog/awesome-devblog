@@ -2369,6 +2369,11 @@
   linkedin: https://www.linkedin.com/in/tebica/
   slideshare: https://www.slideshare.net/tebica
   youtube: https://www.youtube.com/channel/UCHqOI06V0gVfLSoNf2XLSxQ
+- name: 박병길
+  blog: https://velog.io/@pop8682
+  rss: https://api.velog.io/atom/@pop8682
+  description: Frontend
+  github: https://github.com/pop8682
 - name: 박병준
   home: https://qkr0990.github.io/
 - name: 박상권
