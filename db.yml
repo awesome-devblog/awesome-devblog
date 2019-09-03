@@ -1321,6 +1321,11 @@
   description: Front-end
   linkedin: https://www.linkedin.com/in/aria-in-suk-kim-a3158232/
   slideshare: https://www.slideshare.net/shoo7830
+- name: 김인회
+  blog: https://velog.io/@dlsghl92
+  rss: https://api.velog.io/atom/@dlsghl92
+  description: 보안뉴스, 크롤링
+  github: https://github.com/pottybear
 - name: 김재곤
   linkedin: https://www.linkedin.com/in/재곤-김-21b283119/
   github: https://github.com/jaegon-kim
