@@ -6374,6 +6374,11 @@
   description: Back-end
   twitter: https://twitter.com/JungTaehyun
   github: https://github.com/chomman
+- name: 정해균
+  blog: https://haeguri.github.io
+  rss: https://haeguri.github.io/atom.xml
+  description: Front-end
+  github: https://github.com/haeguri
 - name: 정현일
   blog: http://blog.nuti.pe.kr/
   rss: http://blog.nuti.pe.kr/atom.xml
