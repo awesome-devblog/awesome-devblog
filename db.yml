@@ -4481,6 +4481,10 @@
   blog: https://seongtak-yoon.tistory.com/
   rss: https://seongtak-yoon.tistory.com/rss
   description: Web
+- name: 윤슬기
+  blog: https://velog.io/@sgyoon
+  rss: https://api.velog.io/atom/@sgyoon
+  description: Front-end
 - name: 윤승환
   blog: http://blog.daum.net/epilogs
   description: Elastic
