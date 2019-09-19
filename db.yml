@@ -3176,6 +3176,12 @@
   blog: https://brunch.co.kr/@stevepark
   rss: https://brunch.co.kr/rss/@@Aex
   description: 미국 취업 성공기
+- name: 사명기
+  blog: https://velog.io/@conatuseus
+  rss: https://api.velog.io/atom/@conatuseus
+  description: Back-end
+  github: https://github.com/conatuseus
+  facebook: https://www.facebook.com/MyungkiSa
 - name: 서강혁
   blog: https://medium.com/@darkrasid
   rss: https://medium.com/feed/@darkrasid
