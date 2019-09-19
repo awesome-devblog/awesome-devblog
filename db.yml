@@ -2506,6 +2506,11 @@
   github: https://github.com/ParkSB
   facebook: https://www.facebook.com/parkgds
   linkedin: https://www.linkedin.com/in/parksb
+- name: 박성범
+  blog: https://velog.io/@codemcd
+  rss: https://api.velog.io/atom/@codemcd
+  description: Java
+  github: https://github.com/CODEMCD
 - name: 박성우
   blog: https://cos18.github.io/
   rss: https://cos18.github.io/feed
