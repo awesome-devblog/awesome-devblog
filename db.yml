@@ -2092,6 +2092,10 @@
   description: '프레임워크 / 오픈소스'
   github: https://github.com/roharon
   facebook: https://www.facebook.com/roharon
+- name: 노요셉
+  blog: https://velog.io/@noyo0123
+  rss: https://api.velog.io/atom/@noyo0123
+  description: Front-end
 - name: 노용은
   blog: https://nali21c.github.io/
   rss: https://nali21c.github.io/rss2.xml
