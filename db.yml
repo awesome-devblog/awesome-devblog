@@ -6183,6 +6183,12 @@
   linkedin: https://www.linkedin.com/in/sanghyukjung/
   twitter: https://twitter.com/sanghyukjung
   home: http://www.benelog.net/
+- name: 정서경
+  blog: https://velog.io/@imacoolgirlyo
+  rss: https://api.velog.io/atom/@imacoolgirlyo
+  description: Front-end
+  github: https://github.com/imacoolgirlyo
+  rocketpunch: https://www.rocketpunch.com/@d2b91136dc75475e
 - name: 정서영
   blog: https://rhostem.github.io/
   rss: https://rhostem.github.io/rss.xml
