@@ -1502,6 +1502,12 @@
   blog: https://brunch.co.kr/@monodream
   rss: https://brunch.co.kr/rss/@@1Gdv
   description: 디자인
+- name: 김준서
+  blog: https://velog.io/@max9106
+  rss: https://api.velog.io/atom/@max9106
+  description: React Native
+  github: https://github.com/KJunseo
+  facebook: https://www.facebook.com/profile.php?id=100006999123503
 - name: 김준성
   blog: https://brunch.co.kr/@codertimo
   rss: https://brunch.co.kr/rss/@@Gyh
