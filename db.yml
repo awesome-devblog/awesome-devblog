@@ -1853,6 +1853,10 @@
   facebook: https://www.facebook.com/hanwong85
   twitter: https://twitter.com/HanW000ng
   instagram: https://www.instagram.com/hanationbear/
+- name: 김해준
+  blog: https://velog.io/@dankim
+  rss: https://api.velog.io/atom/@dankim
+  description: Data Structure
 - name: 김헌기
   blog: https://hunlabs.wordpress.com/
   rss: https://hunlabs.wordpress.com/feed/
