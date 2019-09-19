@@ -4574,6 +4574,13 @@
   blog: http://www.kwangsiklee.com/
   rss: http://www.kwangsiklee.com/ko/feed/
   description: DevOps
+- name: 이광용
+  blog: https://velog.io/@gwangyonglee
+  rss: https://api.velog.io/atom/@gwangyonglee
+  description: iOS
+  github: https://github.com/gwangyonglee
+  facebook: https://www.facebook.com/gwangyongleee
+  linkedin: https://www.linkedin.com/in/gwangyonglee
 - name: 이광헌
   blog: http://honeyperl.tistory.com/
   rss: http://honeyperl.tistory.com/rss
