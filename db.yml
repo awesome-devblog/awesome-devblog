@@ -4965,6 +4965,10 @@
   description: Raspberry Pi
   facebook: https://www.facebook.com/excoda
   twitter: https://twitter.com/excoda
+- name: 이세진
+  blog: https://velog.io/@chadonghwa
+  rss: https://api.velog.io/atom/@chadonghwa
+  description: Data Structure
 - name: 이소영
   blog: https://sosolog.netlify.com/
   rss: https://sosolog.netlify.com/rss.xml
