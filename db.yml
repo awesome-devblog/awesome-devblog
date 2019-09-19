@@ -5929,6 +5929,10 @@
   blog: http://hongjun7.tistory.com/
   rss: http://hongjun7.tistory.com/rss
   description: 알고리즘
+- name: 장효인
+  blog: https://velog.io/@janghyoin
+  rss: https://api.velog.io/atom/@janghyoin
+  description: Front-end
 - name: 전규현
   blog: http://www.allofsoftware.net/
   rss: http://feeds.feedburner.com/allofsoftware?format=xml
