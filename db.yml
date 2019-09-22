@@ -971,6 +971,12 @@
   blog: http://kimsoungryoul.tistory.com/
   rss: http://kimsoungryoul.tistory.com/rss
   description: Java
+- name: 김성민
+  blog: https://blog.naver.com/zeus05100
+  rss: https://rss.blog.naver.com/zeus05100.xml
+  description: Image Processing, Computer Vision
+  linkedin: https://www.linkedin.com/in/sungminkim510/
+  github: https://github.com/kimx3129
 - name: 김성빈
   blog: http://sungbine.github.io/
   rss: http://sungbine.github.io/feed.xml
