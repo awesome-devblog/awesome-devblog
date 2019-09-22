@@ -168,6 +168,7 @@
   facebook: https://www.facebook.com/groups/pydatakorea/
 - name: Korea Elasticsearch User Group
   facebook: https://www.facebook.com/groups/elasticsearch.kr/
+  youtube: https://www.youtube.com/channel/UCmI0g3ROh1WrUMZDv2kcjfQ
 - name: 메이커교육실천_MakerEdu
   home: http://www.makered.or.kr/
   rss: http://www.makered.or.kr/feed
@@ -535,6 +536,7 @@
   facebook: https://www.facebook.com/groups/ansiblekoreausergroup/
 - name: DevOps Korea
   facebook: https://www.facebook.com/groups/TeAnE/
+  youtube: https://www.youtube.com/channel/UCOs9gZXnf6qb7cdfd7rQBDQ/about
 - name: 챗봇 개발자 모임 (인공지능 스피커, 자연어처리)
   home: http://aidev.co.kr/
   facebook: https://www.facebook.com/groups/ChatbotDevKR/
@@ -1368,3 +1370,5 @@
 - name: 힐링페이퍼
   blog: https://healingpaper.github.io/
   rss: https://healingpaper.github.io/feed
+- name: 데이터센터 이야기
+  youtube: https://www.youtube.com/channel/UCED-tnzVy5hrHwMO3qcMVyQ
