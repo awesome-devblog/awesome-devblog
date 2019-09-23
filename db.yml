@@ -4365,6 +4365,7 @@
   youtube: https://www.youtube.com/channel/UCe0PZSkQE5G8oWB-bAPWyQA
 - name: 유정혁
   blog: https://delivan.dev
+  rss: https://delivan.dev/rss.xml
   description: Web, Books
   github: https://github.com/delivan
   facebook: https://www.facebook.com/jeonghyeok.yoo
