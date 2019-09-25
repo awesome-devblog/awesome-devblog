@@ -419,6 +419,12 @@
   rss: http://web-front-end.tistory.com/rss
   description: Web
   github: https://github.com/tienne
+- name: 권장호
+  blog: https://hojak99.tistory.com
+  rss: https://hojak99.tistory.com/rss
+  description: Java, Spring
+  github: https://github.com/hojak99
+  rocketpunch: https://www.rocketpunch.com/@hojak99
 - name: 권재명
   blog: http://dataninja.me/
   rss: http://dataninja.me/feed.xml
