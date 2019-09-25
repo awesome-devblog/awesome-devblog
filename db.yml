@@ -913,6 +913,12 @@
   blog: https://blog.naver.com/freeristea
   rss: https://rss.blog.naver.com/freeristea.xml
   facebook: https://www.facebook.com/profile.php?id=100028386872756
+- name: 김상헌
+  blog: https://blog.naver.com/gaghiphop
+  rss: https://rss.blog.naver.com/gaghiphop.xml
+  description: DevOps
+  facebook: https://www.facebook.com/sangheon.gim2
+  github: https://github.com/rlarnfktkd1
 - name: 김상훈
   blog: https://interpiler.com/
   rss: http://interpiler.com/index.php/feed/
