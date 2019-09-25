@@ -131,13 +131,14 @@
   facebook: https://www.facebook.com/dinner.kang
   github: https://github.com/DinnerKang
 - name: 강전희
-  blog: https://newstars77.blog.me/
-  rss: https://newstars77.blog.me/rss
+  blog: https://newstars.tistory.com
+  rss: https://newstars.tistory.com/rss
   description: R
   github: https://github.com/newstars
   instagram: https://www.instagram.com/hellojany/
   youtube: https://www.youtube.com/channel/UCBbH_NiLhu5uXQ74Tf-qQhg
   facebook: https://www.facebook.com/newstars77
+  naver: https://newstars77.blog.me/
 - name: 강준영
   blog: https://blog.juneyoung.io
   rss: https://blog.juneyoung.io/index.xml
@@ -2006,6 +2007,8 @@
   slideshare: https://www.slideshare.net/jeokrang
   facebook: https://www.facebook.com/jeokrang
   github: https://github.com/CoderK
+- name: 김흥래
+  slideshare: https://www.slideshare.net/heungrae_kim
 - name: 김희서
   blog: https://blog.naver.com/khy960117
   description: ''
