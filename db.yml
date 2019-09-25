@@ -1667,6 +1667,10 @@
   blog: http://jinseong0928.blogspot.kr/
   rss: https://jinseong0928.blogspot.com/feeds/posts/default
   description: ''
+- name: 김진성
+  blog: https://jinseongsoft.tistory.com
+  rss: https://jinseongsoft.tistory.com/rss
+  description: Java
 - name: 김진수
   blog: https://item4.github.io/
   rss: https://item4.github.io/feed.xml
