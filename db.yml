@@ -837,6 +837,11 @@
   github: https://github.com/velopert
   facebook: https://www.facebook.com/velopert
   youtube: https://www.youtube.com/channel/UCmMgRlN-3GKQ_CH7cOtLdvg
+- name: 김민창
+  blog: https://floydkim.netlify.com
+  rss: https://floydkim.netlify.com/rss.xml
+  description: React
+  github: https://github.com/floydkim
 - name: 김민태
   blog: https://medium.com/@ibare
   rss: https://medium.com/feed/@ibare
