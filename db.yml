@@ -7369,6 +7369,13 @@
   tistory: http://jacking.tistory.com/
   slideshare: https://www.slideshare.net/jacking
   youtube: https://www.youtube.com/channel/UCBi0jCTCZUJMWGQrrvVmVRQ
+- name: 추명호
+  blog: https://velog.io/@myeongho0812
+  rss: https://api.velog.io/atom/@myeongho0812
+  description: Web
+  facebook: https://www.facebook.com/chumyeongho
+  github: https://github.com/ttingho
+  rocketpunch: https://www.rocketpunch.com/@ttingho
 - name: 추성민
   blog: https://www.seongmin.org/blog
   description: Swift, React
