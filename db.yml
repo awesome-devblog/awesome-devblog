@@ -1729,6 +1729,12 @@
   rss: http://rss.egloos.com/blog/agile
   description: 애자일
   twitter: https://twitter.com/cjunekim
+- name: 김창회
+  blog: https://velog.io/@changhoi
+  rss: https://api.velog.io/atom/@changhoi
+  description: Design Pattern
+  facebook: https://www.facebook.com/profile.php?id=100014499787423
+  github: https://github.com/changhoi
 - name: 김철민
   blog: http://blog.naver.com/kbs4674
   rss: https://rss.blog.naver.com/kbs4674.xml
