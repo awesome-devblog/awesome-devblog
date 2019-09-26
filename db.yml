@@ -229,6 +229,7 @@
   description: React
   facebook: https://www.facebook.com/myeongsku
   github: https://github.com/AlbertKo827
+  slideshare: https://www.slideshare.net/skyizblue
 - name: 고명진
   blog: https://velog.io/@rjs1197
   rss: https://api.velog.io/atom/@rjs1197
@@ -1229,7 +1230,9 @@
   blog: https://blog.martinwork.co.kr/
   rss: https://blog.martinwork.co.kr/feed.xml
   description: AI, Javascript
-  github: https://github.com/MartinYounghoonKim/
+  github: https://github.com/martinyounghoonkim
+  linkedin: https://www.linkedin.com/in/younghoon-kim-2a1530149/
+  facebook: https://www.facebook.com/profile.php?id=100005693104994
 - name: 김완종
   blog: http://pbkim.egloos.com/
   rss: http://rss.egloos.com/blog/pbkim
@@ -1442,8 +1445,8 @@
   rss: http://www.feelteller.com/rss
   description: Android
 - name: 김정환
-  blog: http://blog.jeonghwan.net/
-  rss: http://blog.jeonghwan.net/feed.xml
+  blog: http://jeonghwan-kim.github.io
+  rss: http://jeonghwan-kim.github.io/feed.xml
   description: Javascript, Node
   github: https://github.com/jeonghwan-kim
 - name: 김정환
@@ -1532,6 +1535,7 @@
   description: PHP
   facebook: https://www.facebook.com/juwonkimatmedotcom
   github: https://github.com/appkr
+  youtube: https://www.youtube.com/channel/UC6dl9UkHuEWtD1QZUnvCiEw
 - name: 김준기
   blog: https://daybreaker.info/
   github: https://github.com/achimnol
@@ -3714,6 +3718,8 @@
   facebook: https://www.facebook.com/jeongkyu.shin
   github: https://github.com/inureyes
   twitter: https://twitter.com/inureyes
+  slideshare: https://www.slideshare.net/inureyes
+  linkedin: https://www.linkedin.com/in/jeongkyu-shin-43820832/
 - name: 신정섭
   blog: https://ssup2.github.io/
   rss: https://ssup2.github.io/feed
@@ -6316,6 +6322,10 @@
   youtube: https://www.youtube.com/channel/UCNKmQkO1zhCwsIqqrh7pSAg
   facebook: https://www.facebook.com/sayuntv
   home: http://sayun.studio/
+- name: 정상역
+  blog: https://brunch.co.kr/@jsyqa
+  rss: https://brunch.co.kr/rss/@@rqE
+  description: 칼럼
 - name: 정상혁
   blog: http://blog.benelog.net/
   rss: http://rss.egloos.com/blog/benelog
@@ -6464,6 +6474,8 @@
 - name: 정재화
   linkedin: https://www.linkedin.com/in/blrunner/
   slideshare: https://www.slideshare.net/blrunner
+  facebook: https://www.facebook.com/jhjh7306
+  youtube: https://www.youtube.com/channel/UCGTIjwquc7_JvWdskWbVJQQ
 - name: 정재훈
   blog: http://uzys.net/
   description: Rankedin
