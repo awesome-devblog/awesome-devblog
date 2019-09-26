@@ -2041,6 +2041,11 @@
 - name: 나윤환
   blog: https://nayunhwan.github.io/
   description: React
+- name: 나윤호
+  blog: https://velog.io/@tura
+  rss: https://api.velog.io/atom/@tura
+  description: Android
+  facebook: https://www.facebook.com/profile.php?id=100003633039343
 - name: 나정휘
   blog: https://justicehui.github.io/
   rss: https://justicehui.github.io/feed.xml
