@@ -3100,6 +3100,9 @@
   slideshare: https://www.slideshare.net/debop
   speakerdeck: https://speakerdeck.com/debop
   blogspot: http://debop.blogspot.com/
+- name: 배소라
+  youtube: https://www.youtube.com/channel/UC2lVigaHHMMW42EYmqZ94kg
+  facebook: https://www.facebook.com/ssolbae
 - name: 백승지
   blog: https://blog.naver.com/conaman
   rss: https://rss.blog.naver.com/conaman.xml
@@ -3575,6 +3578,10 @@
   rss: https://medium.com/feed/@it_sjh9973
   description: ''
   twitter: https://twitter.com/it_sjh9973
+- name: 신준희
+  blog: https://www.linkedin.com/in/jun-hee-shin-b4241a50/detail/recent-activity/posts/
+  facebook: https://www.facebook.com/sjhstorm
+  linkedin: https://www.linkedin.com/in/jun-hee-shin-b4241a50/
 - name: 송치오
   blog: http://pizzaplanet.tistory.com/
   rss: http://pizzaplanet.tistory.com/rss
@@ -4531,6 +4538,7 @@
   description: DevOps
   github: https://github.com/yunsangjun
   twitter: https://twitter.com/sjyun2
+  linkedin: https://www.linkedin.com/in/상준-윤-80599bb3/
 - name: 윤석준
   blog: https://devstarsj.github.io/
   rss: https://devstarsj.github.io/atom.xml
