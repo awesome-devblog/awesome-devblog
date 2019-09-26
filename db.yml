@@ -3786,6 +3786,10 @@
   blog: https://byline.network/author/jsshim0622/
   description: IT 뉴스
   facebook: https://www.facebook.com/shimgiza
+- name: 심재운
+  blog: https://aspdotnet.tistory.com
+  rss: https://aspdotnet.tistory.com/rss
+  description: .NET, DB
 - name: 안경찬
   blog: https://medium.com/@joypinkgom
   rss: https://medium.com/feed/@joypinkgom
