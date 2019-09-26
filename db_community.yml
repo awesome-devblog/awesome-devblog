@@ -1372,3 +1372,10 @@
   rss: https://healingpaper.github.io/feed
 - name: 데이터센터 이야기
   youtube: https://www.youtube.com/channel/UCED-tnzVy5hrHwMO3qcMVyQ
+- name: Cloudflare
+  blog: https://blog.cloudflare.com/ko/
+  rss: https://blog.cloudflare.com/ko/rss/
+- name: TOAST
+  blog: https://meetup.toast.com
+  rss: https://meetup.toast.com/rss
+  facebook: https://www.facebook.com/toast.nhn
