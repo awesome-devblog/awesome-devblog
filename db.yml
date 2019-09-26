@@ -631,6 +631,13 @@
   rss: http://shine10e.tistory.com/rss
   facebook: https://www.facebook.com/shine10e
   naver: http://blog.naver.com/shine10ee
+- name: 김대원
+  blog: https://prudentcircle.gitlab.io
+  rss: https://prudentcircle.gitlab.io/index.xml
+  description: DevOps
+  facebook: https://www.facebook.com/prudentcircle
+  github: https://github.com/prudentcircle
+  twitter: https://twitter.com/prudentcircle
 - name: 김대현
   blog: http://hatemogi.com/
   rss: http://blog.hatemogi.com/rss
