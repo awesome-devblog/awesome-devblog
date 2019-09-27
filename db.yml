@@ -412,7 +412,7 @@
   rss: http://wookje.github.io/rss/
   description: 알고리즘
   github: https://github.com/wookje
-  boj: https://www.acmicpc.net/user/wookje
+  backjoon: https://www.acmicpc.net/user/wookje
   codeforces: http://codeforces.com/profile/wookje.happy
   facebook: https://www.facebook.com/profile.php?id=100008317802738
   opgg: https://overlog.gg/detail/overview/239042227252217170213224
@@ -3740,6 +3740,14 @@
   blog: https://kato75.blog.me/
   rss: http://kato75.blog.me/rss
   description: 엔트리
+- name: 신태민
+  blog: https://cprayer.github.io
+  rss: https://cprayer.github.io/feed.xml
+  description: Algorithm
+  github: https://github.com/cprayer
+  rocketpunch: https://www.rocketpunch.com/@cprayer13
+  backjoon: https://www.acmicpc.net/user/cprayer
+  codeforce: http://codeforces.com/profile/cprayer
 - name: 신현묵
   blog: https://brunch.co.kr/@supims
   rss: https://brunch.co.kr/rss/@@19F4
