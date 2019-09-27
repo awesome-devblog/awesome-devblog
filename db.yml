@@ -6323,6 +6323,12 @@
   rss: https://www.holaxprogramming.com/atom.xml
   description: JavaScript, DevOps
   github: https://github.com/stunstunstun
+- name: 정민호
+  blog: https://anew0m.github.io/blog
+  rss: https://anew0m.github.io/blog/feed.xml
+  description: 데이터, 자동화
+  github: https://github.com/anew0m
+  linkedin: https://linkedin.com/in/anew0m
 - name: 정범희
   blog: http://blog.sonim1.com/
   rss: http://blog.sonim1.com/rss
