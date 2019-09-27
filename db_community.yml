@@ -1379,3 +1379,6 @@
   blog: https://meetup.toast.com
   rss: https://meetup.toast.com/rss
   facebook: https://www.facebook.com/toast.nhn
+- name: 플라네타리움
+  blog: https://snack.planetarium.dev/kor/
+  rss: https://snack.planetarium.dev/kor/index.xml

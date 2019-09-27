@@ -7170,8 +7170,15 @@
   rss: https://api.velog.io/atom/@vnthf
   description: Typescript
 - name: 최백준
-  blog: http://www.baekjoon.com/
+  blog: https://stack.news
+  rss: https://stack.news/feed/
   description: 알고리즘
+  home: https://www.baekjoon.com
+  github: https://github.com/Baekjoon
+  facebook: https://www.facebook.com/baekjoon
+  instagram: https://www.instagram.com/baekjoon/
+  slideshare: https://www.slideshare.net/Baekjoon
+  linkedin: https://www.linkedin.com/in/baekjoon/
 - name: 최범균
   blog: http://javacan.tistory.com/
   rss: http://javacan.tistory.com/rss
