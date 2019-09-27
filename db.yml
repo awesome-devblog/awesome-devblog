@@ -7349,6 +7349,12 @@
   rss: https://normal93.tistory.com/rss
   description: Spring, SpringBoot, React 등 웹개발
   github: https://github.com/junwoochoi
+- name: 최준원
+  blog: https://juunone.github.io
+  rss: https://juunone.github.io/feed.xml
+  description: Front-end
+  github: https://github.com/juunone
+  linkedin: https://www.linkedin.com/in/juunone/
 - name: 최준호
   blog: https://www.saturnsoft.net/
   rss: http://feeds.feedburner.com/saturnsoft
