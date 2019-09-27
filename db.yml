@@ -5653,6 +5653,11 @@
   blog: https://blog.naver.com/ckdgus1433
   rss: https://rss.blog.naver.com/ckdgus1433.xml
   kaggle: https://www.kaggle.com/chlee1016
+- name: 이철민
+  blog: https://soeasyto.me
+  rss: https://soeasyto.me/feed.xml
+  description: Machine Learning
+  github: https://github.com/AutumnSky92
 - name: 이치웅
   blog: https://chichi.space/
   rss: https://chichi.space/atom
