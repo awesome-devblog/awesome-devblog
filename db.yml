@@ -4555,7 +4555,8 @@
   blog: https://mishka86.github.io/
   rss: https://mishka86.github.io/rss2.xml
   description: ''
-  github: https://github.com/mishka86 
+  github: https://github.com/mishka86
+  facebook: https://www.facebook.com/profile.php?id=100001030464062
 - name: 윤경태
   blog: https://android-blog.dev/
   rss: https://android-blog.dev/rss
@@ -5774,6 +5775,9 @@
   blog: https://brunch.co.kr/@leehosung
   rss: https://brunch.co.kr/rss/@@Gp7
   description: 8퍼센트 CTO. 개발 문화
+- name: 이호준
+  youtube: https://www.youtube.com/channel/UC4GnvNKtuJ4cqWsYjxNxAEQ
+  facebook: https://www.facebook.com/hojun.lee.521
 - name: 이호철
   blog: http://hochul.net/blog/
   rss: http://hochul.net/blog/feed/
