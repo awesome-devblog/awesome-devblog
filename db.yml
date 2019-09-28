@@ -3401,6 +3401,14 @@
   youtube: https://www.youtube.com/channel/UCI9iq2DoD55i40OWltsPGyQ
   instagram: https://www.instagram.com/slow_samuel/
   github: https://github.com/samslow
+- name: 서현우
+  blog: https://blueshw.github.io
+  rss: https://blueshw.github.io/rss.xml
+  description: Front-end
+  github: https://github.com/blueshw
+  twitter: https://twitter.com/blueshw
+  codepen: https://codepen.io/blueshw
+  facebook: https://www.facebook.com/blueshw
 - name: 설훈
   blog: https://seolhun.github.io/blog/
   rss: https://seolhun.github.io/blog/feed.xml
