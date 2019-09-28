@@ -409,10 +409,10 @@
 - name: 데일리호텔
   blog: https://dailyhotel.io/
   rss: https://dailyhotel.io/feed
-- name: 드라마앤컴패니 블로그
+- name: 드라마앤컴패니
   blog: http://blog.dramancompany.com/
   rss: http://blog.dramancompany.com/feed/
-- name: 로켓펀치 블로그
+- name: 로켓펀치
   blog: https://blog.rocketpunch.com/
   rss: https://blog.rocketpunch.com/feed/
 - name: 마이크로소프트웨어
@@ -421,7 +421,7 @@
 - name: 슬로우뉴스-테크
   blog: http://slownews.kr/category/tech
   rss: http://slownews.kr/category/tech/feed
-- name: 아해팀 블로그
+- name: 아해팀
   blog: https://devahea.github.io/
   rss: https://devahea.github.io/atom.xml
   description: Java, 김종인, 최경운, 노성현
@@ -435,10 +435,10 @@
 - name: 엠비안
   blog: http://blog.embian.com/
   rss: http://blog.embian.com/rss
-- name: 오라클 클라우드 기술 블로그
+- name: 오라클 클라우드
   blog: http://www.oracloud.kr/
   rss: http://www.oracloud.kr/index.xml
-- name: 우아한형제들 기술 블로그
+- name: 우아한형제들
   blog: http://woowabros.github.io
   rss: http://woowabros.github.io/feed.xml
 - name: 이상한모임
@@ -452,23 +452,25 @@
   rss: http://blog.insightbook.co.kr/rss
   facebook: https://www.facebook.com/insightbook
   twitter: https://twitter.com/insightbook
-- name: 인프런 블로그
+- name: 인프런
   blog: http://blog.inflearn.com
   rss: http://blog.inflearn.com/feed/
 - name: 지금 써보러 갑니다
   blog: http://icunow.co.kr
   rss: http://icunow.co.kr/feed/
   facebook: https://www.facebook.com/지금-써보러-갑니다-532187963596766/
-- name: 카카오 기술 블로그
-  blog: http://tech.kakao.com/
-  rss: http://tech.kakao.com/rss/
+- name: 카카오
+  blog: https://tech.kakao.com/
+  rss: https://tech.kakao.com/feed/
+  slideshare: https://www.slideshare.net/ifkakao
+  github: https://github.com/kakao
 - name: ㅍㅍㅅㅅ 테크
   blog: https://ppss.kr/archives/category/tech
   rss: https://ppss.kr/archives/category/tech/feed
 - name: 한국게임기획자모임
   blog: http://gameplanner.cafe24.com
   rss: http://gameplanner.cafe24.com/feed/
-- name: AWS 한국 블로그
+- name: AWS Korea
   blog: https://aws.amazon.com/ko/blogs/korea/
   rss: https://aws.amazon.com/ko/blogs/korea/feed/
   facebook: https://www.facebook.com/amazonwebservices.ko
@@ -789,7 +791,7 @@
   home: http://cloudz-labs.sk.com/
   blog: https://tech.cloudz-labs.io/
   rss: http://tech.cloudz-labs.io/index.xml
-- name: 오픈소스컨설팅 기술 블로그
+- name: 오픈소스컨설팅
   blog: https://tech.osci.kr/
   rss: https://tech.osci.kr/rss/
 - name: 퀄컴코리아
@@ -888,7 +890,7 @@
   rss: http://blog.remotty.com/blog/rss/
   twitter: https://twitter.com/remottykr
   github: https://github.com/remotty
-- name: 야놀자 기술블로그
+- name: 야놀자
   blog: https://yanolja.github.io/
   rss: https://yanolja.github.io/feed.xml
 - name: Python Korea
@@ -969,7 +971,7 @@
 - name: 락플레이스
   blog: https://ossonazure.tistory.com/
   rss: https://ossonazure.tistory.com/rss
-- name: 브랜디 R&D 본부 기술 블로그
+- name: 브랜디 R&D 본부
   blog: http://labs.brandi.co.kr/
   rss: http://labs.brandi.co.kr/feed.xml
 - name: 케라스 코리아 (Keras Korea)
@@ -980,7 +982,7 @@
   facebook: https://www.facebook.com/stdout.fm
   youtube: https://www.youtube.com/channel/UCni26Y9C0Z7H36hPPHuqpSg
   twitter: https://twitter.com/stdoutfm
-- name: 스티비 블로그
+- name: 스티비
   blog: https://blog.stibee.com/
   rss: https://blog.stibee.com/feed
 - name: TEAMLAB
@@ -1001,7 +1003,7 @@
 - name: 코드스테이츠
   blog: https://blog.naver.com/PostList.nhn?blogId=codestates
   rss: https://rss.blog.naver.com/codestates.xml
-- name: 레진 기술 블로그
+- name: 레진
   blog: https://tech.lezhin.com/
   rss: https://tech.lezhin.com/rss/
 - name: CodeIgniter 한국 사용자 포럼
@@ -1212,7 +1214,7 @@
   home: https://www.slipp.net/
 - name: 한국 커널 개발자 모임
   home: https://kernel-dev-ko.github.io/
-- name: 피플펀드 기술 블로그
+- name: 피플펀드
   blog: https://tech.peoplefund.co.kr/
   rss: https://tech.peoplefund.co.kr/feed.xml
 - name: 데브스터디
@@ -1243,22 +1245,22 @@
   home: https://hashcode.co.kr/
 - name: PSEG
   home: http://www.pseg.or.kr/pseg/
-- name: 굿닥 엔지니어링 블로그
+- name: 굿닥
   blog: http://dev.goodoc.co.kr/
   rss: http://dev.goodoc.co.kr/?feed=rss2
-- name: 꿈많은 청년들 블로그
+- name: 꿈많은 청년들
   blog: https://blog.dreamyoungs.com/
   rss: https://blog.dreamyoungs.com/feed/
   facebook: https://www.facebook.com/DreamYoungs
 - name: 나가자
   blog: http://www.nagaja.net/
   description: 해외 취업
-- name: 네이버 널리 블로그
+- name: 네이버 널리
   blog: https://nuli.navercorp.com/
   description: 웹 표준, 접근성
 - name: 넷매니아즈
   home: https://www.netmanias.com/ko/
-- name: 당근마켓 팀블로그
+- name: 당근마켓
   blog: https://medium.com/daangn
   twitter: https://twitter.com/danggeunteam
   facebook: https://www.facebook.com/danggeunmarket
@@ -1268,7 +1270,7 @@
   blog: http://laonple.blog.me/
   rss: http://laonple.blog.me/rss
   description: 비전, 머신 러닝
-- name: 리디북스 블로그
+- name: 리디북스
   blog: https://www.ridicorp.com/blog/
 - name: 리모트몬스터
   blog: https://blog.remotemonster.com/
@@ -1287,10 +1289,10 @@
 - name: 스타트링크
   blog: https://startlink.blog/
   rss: https://startlink.blog/feed/
-- name: 시스코 코리아 블로그
+- name: 시스코 코리아
   blog: https://ciscokrblog.com/
   rss: https://ciscokrblog.com/rss
-- name: 아이펀팩토리 블로그
+- name: 아이펀팩토리
   blog: https://blog.ifunfactory.com/
   rss: https://blog.ifunfactory.com/feed/
   facebook: https://ko-kr.facebook.com/ifunfactory/
@@ -1308,13 +1310,13 @@
   facebook: https://www.facebook.com/groups/javacafe/
 - name: Trickster
   youtube: https://www.youtube.com/channel/UCx0fFis3pbYtHjhvHxpLUJQ
-- name: 하이퍼커넥트 기술 블로그
+- name: 하이퍼커넥트
   blog: https://hyperconnect.github.io/
   rss: https://hyperconnect.github.io/feed.xml
   github: https://github.com/hyperconnect
 - name: '비개모: 비전공자 개발자 모임'
   facebook: https://www.facebook.com/groups/NonmajorDeveloperGroup/
-- name: 어반베이스 기술 블로그
+- name: 어반베이스
   blog: https://urbanbase.github.io/
   rss: https://urbanbase.github.io/feed.xml
   github: https://github.com/urbanbase/
