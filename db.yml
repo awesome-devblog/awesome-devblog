@@ -2016,6 +2016,8 @@
   blog: http://flowerexcel.tistory.com/
   rss: http://flowerexcel.tistory.com/rss
   description: C++
+  facebook: https://www.facebook.com/FlowerExcel
+  youtube: https://www.youtube.com/channel/UC76R9DL1NjD7aLr_C3eueLA
 - name: 김환희
   blog: http://greentec.egloos.com/
   rss: http://rss.egloos.com/blog/greentec
@@ -3684,6 +3686,12 @@
   blog: https://brunch.co.kr/@reinlainer
   rss: https://brunch.co.kr/rss/@@1UTF
   description: 게임개발
+- name: 신명진
+  blog: https://www.martinii.fun
+  rss: https://www.martinii.fun/rss
+  description: Python
+  facebook: https://www.facebook.com/martinii.fun
+  youtube: https://www.youtube.com/channel/UCDB-3Raasov1tC5_qd7jwLg
 - name: 신민욱
   blog: https://minwook-shin.github.io/
   rss: https://minwook-shin.github.io/feed
