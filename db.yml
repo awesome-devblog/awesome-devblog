@@ -3536,6 +3536,13 @@
   twitter: https://twitter.com/saltfactory
   facebook: https://www.facebook.com/salthub
   linkedin: https://www.linkedin.com/in/saltfactory/
+- name: 송승원
+  blog: https://songseungwon.tistory.com
+  rss: https://songseungwon.tistory.com/rss
+  description: Javascript
+  facebook: https://www.facebook.com/seungwon993
+  instagram: https://www.instagram.com/seungwon0601/
+  github: https://github.com/songseungwon
 - name: 송영길
   blog: https://youngsong.com/
   rss: http://youngsong.com/feed/
