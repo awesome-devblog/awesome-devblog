@@ -1448,6 +1448,15 @@
   blog: http://feelteller.com/
   rss: http://www.feelteller.com/rss
   description: Android
+- name: 김정헌
+  blog: https://dev-yakuza.github.io/ko/
+  rss: https://dev-yakuza.github.io/ko/feed.xml
+  description: React, React Native, Laravel
+  facebook: https://www.facebook.com/yakuza.dev.54
+  twitter: https://twitter.com/DevYakuza
+  linkedin: https://www.linkedin.com/in/jeonghean-kim/
+  github: https://github.com/dev-yakuza
+  instagram: https://www.instagram.com/dev_yakuza/
 - name: 김정환
   blog: http://jeonghwan-kim.github.io
   rss: http://jeonghwan-kim.github.io/feed.xml
@@ -7547,7 +7556,7 @@
 - name: 한고 (10년코더)
   blog: https://10yearscoder.tistory.com/
   rss: https://10yearscoder.tistory.com/rss
-  description: 프리랜서  
+  description: 프리랜서
   github: https://github.com/tenyearscoder
 - name: 한동수
   blog: https://medium.com/@herryhan2435
