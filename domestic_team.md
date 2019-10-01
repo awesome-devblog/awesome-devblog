@@ -160,3 +160,9 @@
 | We Build Product | https://webuildproduct.com/ | 프로덕트 디자인 & 매니지먼트 |
 | WIT 블로그 | http://wit.nts-corp.com/ | Web |
 | ZDNet Korea | http://www.zdnet.co.kr/ | IT 기사 |
+
+## Etc
+
+| Name | Blog | Description |
+|---|---|---|
+| 44bits | https://www.44bits.io/ko | Cloud 기술, IT 뉴스 |
