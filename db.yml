@@ -5648,6 +5648,12 @@
 - name: 이진원
   facebook: https://www.facebook.com/jinwon.lee.330
   youtube: https://www.youtube.com/channel/UCaJFuqpYqxWuQl9TZky0njA
+- name: 이찬구
+  blog: https://www.podo-dev.com
+  rss: https://www.podo-dev.com/feed.xml
+  github: https://github.com/cglee079
+  description: Podo, Dev Blog (Web, Server)
+  linkedin: www.linkedin.com/in/cglee079
 - name: 이찬미
   linkedin: https://www.linkedin.com/in/chanmi-kate-lee/
   github: https://github.com/chanmi-lee
