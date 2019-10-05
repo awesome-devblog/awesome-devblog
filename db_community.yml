@@ -86,7 +86,7 @@
   home: http://kotlin.kr/
   blog: http://kotlin.kr/blog/
   rss: http://kotlin.kr/feed.xml
-  facebook: https://www.facebook.com/groups/kotlinkr
+  facebook: https://www.facebook.com/groups/kotlinkr/
   twitter: https://twitter.com/kotlinkr
   meetup: https://www.meetup.com/ko-KR/kotlinkr/
   slack: https://kotlinkr.slack.com/
@@ -172,7 +172,7 @@
 - name: 메이커교육실천_MakerEdu
   home: http://www.makered.or.kr/
   rss: http://www.makered.or.kr/feed
-  facebook: https://www.facebook.com/groups/458166777716821
+  facebook: https://www.facebook.com/groups/458166777716821/
 - name: 영메이커 클럽
   facebook: https://www.facebook.com/groups/youngmakerclub/
 - name: 대시앤닷 큐 사용자 모임 Dash and Dot cue User Group
@@ -239,7 +239,7 @@
   facebook: https://www.facebook.com/likesangji.net/
 - name: 멋쟁이 사자처럼 at 평택대학교
   home: http://ptu.likelion.net
-  facebook: https://www.facebook.com/ptu.likelion
+  facebook: https://www.facebook.com/ptu.likelion/
 - name: 멋쟁이사자처럼 고려대학교
   facebook: https://www.facebook.com/LikelionKU/
 - name: 멋쟁이 사자처럼 at 한양대학교
@@ -295,7 +295,7 @@
   home: http://duksung.likelion.net/
   facebook: https://www.facebook.com/likelion.ds/
 - name: 멋쟁이 사자처럼 at 상명대학교
-  facebook: https://www.facebook.com/likelionSMU
+  facebook: https://www.facebook.com/likelionSMU/
 - name: 멋쟁이사자처럼 at 서울과학기술대학교
   facebook: https://www.facebook.com/likelionatseoultech/
 - name: 멋쟁이사자처럼 at 아주대학교
@@ -323,7 +323,7 @@
 - name: 멋쟁이사자처럼 at 충남대학교
   facebook: https://www.facebook.com/likelioncnu/
 - name: 멋쟁이 사자처럼 at 충북대학교
-  facebbok: https://www.facebook.com/LikeLionatCBNU/
+  facebook: https://www.facebook.com/LikeLionatCBNU/
 - name: 멋쟁이 사자처럼 at 홍익대학교
   home: www.hongik-likelion.com
   facebook: https://www.facebook.com/LikelionHongik/
@@ -370,7 +370,7 @@
   meetup: https://www.meetup.com/ko-KR/IBM-developerWorks-Meetup/
 - name: Seoul Artificial Intelligence
   home: http://seoulai.com/
-  facebook: https://www.facebook.com/seoulai
+  facebook: https://www.facebook.com/seoulai/
   meetup: https://www.meetup.com/ko-KR/Seoul-Artificial-Intelligence/
   slack: https://seoulai.slack.com/
   twitter: https://twitter.com/seoul_ai
@@ -441,6 +441,7 @@
 - name: 우아한형제들
   blog: http://woowabros.github.io
   rss: http://woowabros.github.io/feed.xml
+  facebook: https://www.facebook.com/woowahanTech/
 - name: 이상한모임
   blog: http://blog.weirdx.io
   rss: http://blog.weirdx.io/feed/
@@ -450,7 +451,7 @@
 - name: 인사이트
   blog: http://blog.insightbook.co.kr
   rss: http://blog.insightbook.co.kr/rss
-  facebook: https://www.facebook.com/insightbook
+  facebook: https://www.facebook.com/insightbook/
   twitter: https://twitter.com/insightbook
 - name: 인프런
   blog: http://blog.inflearn.com
@@ -473,7 +474,7 @@
 - name: AWS Korea
   blog: https://aws.amazon.com/ko/blogs/korea/
   rss: https://aws.amazon.com/ko/blogs/korea/feed/
-  facebook: https://www.facebook.com/amazonwebservices.ko
+  facebook: https://www.facebook.com/amazonwebservices.ko/
   twitter: https://twitter.com/awskorea
 - name: developerWorks Korea
   blog: https://developer.ibm.com/kr/blog/
@@ -553,7 +554,7 @@
 - name: Korea Docker User Group
   facebook: https://www.facebook.com/groups/korea.docker.user.group/
 - name: KAFKA 한국 사용자 모임
-  facebook: https://www.facebook.com/groups/kafka.kru
+  facebook: https://www.facebook.com/groups/kafka.kru/
 - name: Ask Django
   facebook: https://www.facebook.com/groups/askdjango/
 - name: React Korea
@@ -612,7 +613,7 @@
   naver: https://cafe.naver.com/fx8300
 - name: 한식구
   home: http://hansicgu.com/
-  facebook: https://www.facebook.com/hansicgu
+  facebook: https://www.facebook.com/hansicgu/
   naver: https://cafe.naver.com/hansicgu
 - name: 클리앙
   home: https://www.clien.net/
@@ -692,7 +693,7 @@
   facebook: https://www.facebook.com/groups/springkorea/
 - name: Django Girls Seoul
   home: https://djangogirls.org/seoul/
-  facebook: https://www.facebook.com/djangogirlsseoul
+  facebook: https://www.facebook.com/djangogirlsseoul/
   twitter: https://twitter.com/djangogirlseoul
   medium: https://medium.com/djangogirlsseoul-codecamp
   rss: https://medium.com/feed/djangogirlsseoul-codecamp
@@ -715,7 +716,7 @@
   facebook: https://www.facebook.com/SKTBrain/
 - name: Naver Clova
   home: https://clova.ai/ko
-  facebook: https://www.facebook.com/ClovaAI
+  facebook: https://www.facebook.com/ClovaAI/
 - name: YAPP
   home: http://yapp.co.kr/
   facebook: https://www.facebook.com/yapp.co.kr/
@@ -797,7 +798,7 @@
 - name: 퀄컴코리아
   blog: https://blog.naver.com/qualcommkr
   rss: https://rss.blog.naver.com/qualcommkr.xml
-  facebook: https://www.facebook.com/QualcommKR
+  facebook: https://www.facebook.com/QualcommKR/
   youtube: https://www.youtube.com/channel/UCQp-q5ysBDacrAKdkGcsYjw
 - name: 코드스피츠
   facebook: https://www.facebook.com/groups/codespitz/
@@ -820,7 +821,7 @@
   facebook: https://www.facebook.com/groups/electronkorea/
   slack: https://electron-kr.slack.com/
 - name: NAVER Engineering
-  facebook: https://www.facebook.com/naverengineering
+  facebook: https://www.facebook.com/naverengineering/
   slideshare: https://www.slideshare.net/NaverEngineering
 - name: Bsidesoft
   facebook: https://www.facebook.com/bsidesoft/
@@ -829,16 +830,16 @@
 - name: Aliencube
   blog: https://aliencube.org/
   rss: https://aliencube.org/feed/
-  facebook: https://www.facebook.com/aliencube.community
+  facebook: https://www.facebook.com/aliencube.community/
   twitter: https://twitter.com/aliencubeorg
 - name: 한국트렌드마이크로
   blog: http://www.trendmicro.co.kr/kr/blog/
-  facebook: https://www.facebook.com/TrendMicroKR
+  facebook: https://www.facebook.com/TrendMicroKR/
   home: http://www.trendmicro.co.kr/
 - name: 박스앤위스커
   blog: http://boxnwhis.kr/
   rss: http://boxnwhis.kr/feed.xml
-  facebook: https://www.facebook.com/boxnwhis.kr
+  facebook: https://www.facebook.com/boxnwhis.kr/
   twitter: https://twitter.com/boxnwhiskr
   linkedin: https://www.linkedin.com/company/box-and-whisker/
   github: https://github.com/box-and-whisker
@@ -893,6 +894,7 @@
 - name: 야놀자
   blog: https://yanolja.github.io/
   rss: https://yanolja.github.io/feed.xml
+  facebook: https://www.facebook.com/devyanolja/
 - name: Python Korea
   facebook: https://www.facebook.com/groups/pythonkorea/
 - name: 한국 메이커 모임
@@ -923,11 +925,11 @@
 - name: 서플
   blog: https://medium.com/supple
   rss: https://medium.com/feed/supple
-  facebook: https://www.facebook.com/supplehq
+  facebook: https://www.facebook.com/supplehq/
 - name: 지앤선
   blog: http://jinson.tistory.com/
   rss: http://jinson.tistory.com/rss
-  facebook: https://www.facebook.com/JiandSon
+  facebook: https://www.facebook.com/JiandSon/
 - name: 안드로이드 개발 팁팁팁!
   facebook: https://www.facebook.com/groups/junsle/
 - name: Hazelcast User in Seoul
@@ -979,7 +981,7 @@
 - name: stdout.fm
   blog: https://stdout.fm/
   rss: https://stdout.fm/feed
-  facebook: https://www.facebook.com/stdout.fm
+  facebook: https://www.facebook.com/stdout.fm/
   youtube: https://www.youtube.com/channel/UCni26Y9C0Z7H36hPPHuqpSg
   twitter: https://twitter.com/stdoutfm
 - name: 스티비
@@ -1040,6 +1042,7 @@
   youtube: https://www.youtube.com/channel/UCfm6gDYNrEW2hXCcIrVvj0w
 - name: 얄팍한 코딩사전
   youtube: https://www.youtube.com/channel/UC2nkWbaJt1KQDi2r2XclzTQ
+  facebook: https://www.facebook.com/yalcodic/
 - name: 엔지니어대한민국
   youtube: https://www.youtube.com/channel/UCWMAh9cSkEn8v42YRO90BHA
 - name: 음주코딩
@@ -1069,7 +1072,7 @@
   youtube: https://www.youtube.com/channel/UCwkGvF7xKz2E0Lv-fZ9wv2g
 - name: 한빛미디어
   home: http://www.hanbit.co.kr/
-  facebook: https://www.facebook.com/hanbitmedia
+  facebook: https://www.facebook.com/hanbitmedia/
   youtube: https://www.youtube.com/channel/UC31Gc42xzclOOi5Gp1xIpZw
 - name: TV플루토
   youtube: https://www.youtube.com/channel/UC8JVpZGSvoIwO6usKUYItHA
@@ -1087,6 +1090,7 @@
   youtube: https://www.youtube.com/channel/UC7pxRIgkEUGuJvItZ_K22KQ
 - name: FEConf Korea
   youtube: https://www.youtube.com/channel/UCWEzfYIpFBIG5jh6laXC6hA
+  facebook: https://www.facebook.com/feconf.kr/
 - name: GDG KOREA
   facebook: https://www.facebook.com/gdgkorea/
   youtube: https://www.youtube.com/channel/UCu3QGcALTC0FuXMma_dpK0A
@@ -1104,7 +1108,7 @@
   meetup: https://www.meetup.com/ko-KR/pangyo-gdg/
   slack: http://slack.gdg.kr/
 - name: GDG Incheon
-  facebook: https://www.facebook.com/gdgincheon
+  facebook: https://www.facebook.com/gdgincheon/
   meetup: https://www.meetup.com/ko-KR/GDG-Incheon/
   github: https://github.com/GDGincheonAndroidStudy
 - name: GDG Seoul
@@ -1123,11 +1127,12 @@
   meetup: https://www.meetup.com/ko-KR/GDG-SongDo/
 - name: GDG Campus Korea
   meetup: https://www.meetup.com/ko-KR/GDG-Campus/
+  facebook: https://www.facebook.com/gdgcampus/
 - name: GDG Busan
   facebook: https://www.facebook.com/gdgbusan/
   meetup: https://www.meetup.com/ko-KR/GDG-Busan/
 - name: GDG Daejeon
-  facebook: https://www.facebook.com/groups/gdg.daejeon
+  facebook: https://www.facebook.com/groups/gdg.daejeon/
   meetup: https://www.meetup.com/ko-KR/GDG-Daejeon/
   slack: https://gdgkr.slack.com/join/shared_invite/enQtNTk0NTA0NzY4NTkzLTA0NTg4MWJiOTExZmFlNWI4NWQxYWU1NGM0ZjMzZTk3YzY1NTFiNzdmNGQyNTMxMWFmZWI2ZTYzOTAyNjk2MTI
 - name: GM Yankee
@@ -1162,13 +1167,13 @@
   youtube: https://www.youtube.com/channel/UC9ZgpkQe_qLN1_DMCL5YFzA
 - name: TeamLab
   home: http://theteamlab.io/
-  facebook: https://www.facebook.com/GachonCS50
+  facebook: https://www.facebook.com/GachonCS50/
   github: https://github.com/TeamLab
   youtube: https://www.youtube.com/channel/UC_kvhNYJtP1-Ap67byTbfuw
 - name: withDaddy코딩아빠
   blog: https://blog.naver.com/codingdaddy
   rss: https://rss.blog.naver.com/codingdaddy.xml
-  facebook: https://www.facebook.com/codingdaddy
+  facebook: https://www.facebook.com/codingdaddy/
   youtube: https://www.youtube.com/channel/UCYBjeXCufQgqZuVDl0_lncA
 - name: K-MOOC
   home: http://www.kmooc.kr/
@@ -1183,13 +1188,13 @@
   home: http://www.smartmaker.com/
   blog: http://blog.smartmaker.com/
   rss: http://blog.smartmaker.com/rss
-  facebook: https://www.facebook.com/smartmakerkorea
+  facebook: https://www.facebook.com/smartmakerkorea/
   naver: https://cafe.naver.com/softmania
   youtube: https://www.youtube.com/channel/UC03x6KCsTmf_vDzSf4Y5miQ
 - name: 웹학교
   youtube: https://www.youtube.com/channel/UCjTQHbtYgSVCwU-sfVukZpw
 - name: 코딩의 신 아샬
-  facebook: https://www.facebook.com/GodOfCoding
+  facebook: https://www.facebook.com/GodOfCoding/
   instagram: https://www.instagram.com/ahastudio/
   youtube: https://www.youtube.com/channel/UCLLncfeIYljE0o_yUw7MkcA
 - name: 한국전자통신연구원
@@ -1203,7 +1208,7 @@
   youtube: https://www.youtube.com/channel/UCysbIC7UOmikXX8IB7QZMDA
 - name: 스튜디오밀 STUDIOMEAL
   home: https://studiomeal.com/
-  facebook: https://www.facebook.com/1mincoding
+  facebook: https://www.facebook.com/1mincoding/
   youtube: https://www.youtube.com/channel/UC_s1FC7s5YVwDImzv-WG93Q
 - name: 소프트박스
   blog: https://www.diymaker.net/
@@ -1212,6 +1217,7 @@
   pinterest: https://www.pinterest.co.kr/softboxcoding/
 - name: SLiPP
   home: https://www.slipp.net/
+  facebook: https://www.facebook.com/slipp.study/
 - name: 한국 커널 개발자 모임
   home: https://kernel-dev-ko.github.io/
 - name: 피플펀드
@@ -1234,7 +1240,7 @@
   blog: https://www.44bits.io/
   rss: https://www.44bits.io/ko/feed/posts
   youtube: https://www.youtube.com/channel/UCPwutg-Q08jMQoPClzD0lTQ/
-  facebook: https://www.facebook.com/fortyfourbits
+  facebook: https://www.facebook.com/fortyfourbits/
   twitter: https://twitter.com/@fortyfourbits
 - name: 시피의 코딩
   youtube: https://www.youtube.com/channel/UCK7lI9EjccHY-b8hHf95Rdw
@@ -1251,7 +1257,7 @@
 - name: 꿈많은 청년들
   blog: https://blog.dreamyoungs.com/
   rss: https://blog.dreamyoungs.com/feed/
-  facebook: https://www.facebook.com/DreamYoungs
+  facebook: https://www.facebook.com/DreamYoungs/
 - name: 나가자
   blog: http://www.nagaja.net/
   description: 해외 취업
@@ -1263,7 +1269,7 @@
 - name: 당근마켓
   blog: https://medium.com/daangn
   twitter: https://twitter.com/danggeunteam
-  facebook: https://www.facebook.com/danggeunmarket
+  facebook: https://www.facebook.com/danggeunmarket/
   github: https://github.com/daangn
   home: https://www.notion.so/3d0197c137ec43d18ff739b5b254a3c8
 - name: 라온피플
@@ -1358,7 +1364,7 @@
   rss: https://blog.alyac.co.kr/feed
 - name: 김버그
   youtube: https://www.youtube.com/channel/UCFDbz39kFPvU0AUpgHx4ICw
-  facebook: https://www.facebook.com/woohyeon.roh
+  facebook: https://www.facebook.com/woohyeon.roh/
   home: https://www.rohwoohyeon.com/
 - name: Encored
   blog: https://medium.com/encored-technologies-engineering-data-science
@@ -1380,7 +1386,7 @@
 - name: TOAST
   blog: https://meetup.toast.com
   rss: https://meetup.toast.com/rss
-  facebook: https://www.facebook.com/toast.nhn
+  facebook: https://www.facebook.com/toast.nhn/
 - name: 플라네타리움
   blog: https://snack.planetarium.dev/kor/
   rss: https://snack.planetarium.dev/kor/index.xml
@@ -1395,3 +1401,39 @@
 - name: 코드잇
   blog: https://blog.naver.com/codeitofficial
   rss: https://rss.blog.naver.com/codeitofficial.xml
+- name: 데벨업
+  youtube: https://www.youtube.com/channel/UCy5Y1Js01qEGSnI7KQeVjZw
+  facebook: https://www.facebook.com/goormdevelup/
+  home: https://develup.goorm.io
+- name: 서울개발자
+  facebook: https://www.facebook.com/console.man.solo/
+  home: http://www.seoulcodes.com
+- name: 개발자 커리어 이야기
+  facebook: https://www.facebook.com/devcareer/
+- name: 프론트엔드 개발 공부 - 프개공
+  facebook: https://www.facebook.com/frontendstudy/
+- name: "F E L O G: 프론트엔드 개발에 대하여"
+  facebook: https://www.facebook.com/Jbee.dev/
+- name: 모바일 앱 개발 공부
+  facebook: https://www.facebook.com/AppDevStudy/
+- name: 리드잇readIT
+  facebook: https://www.facebook.com/i.READ.IT.books/
+- name: IT스터디
+  facebook: https://www.facebook.com/ITStudygroup/
+- name: 알고리즘에 고통받는 취준생을 위한 안내서
+  facebook: https://www.facebook.com/algoguide/
+- name: A.I. Lookbook
+  facebook: https://www.facebook.com/AI.Lookbook/
+- name: Google Developers Korea
+  facebook: https://www.facebook.com/googledevkr/
+- name: 부스트캠프 - boostcamp
+  facebook: https://www.facebook.com/boostcamp.official/
+  home: http://boostcamp.connect.or.kr
+- name: JSConf Korea
+  facebook: https://www.facebook.com/jsconfkorea/
+- name: 코딩 그까이꺼
+  facebook: https://www.facebook.com/whereIsCoding/
+- name: 코딩한잔
+  facebook: https://www.facebook.com/acupofcode/
+- name: 코딩인카페
+  facebook: https://www.facebook.com/codingincafe/
