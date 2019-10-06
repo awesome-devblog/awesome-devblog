@@ -1118,6 +1118,12 @@
   blog: https://velog.io/@suyoung154
   rss: https://api.velog.io/atom/@suyoung154
   description: MongoDB
+- name: 김수지
+  blog: https://www.suzie.world/blog
+  description: Front-end
+  github: https://github.com/iamsuzie
+  youtube: https://www.youtube.com/channel/UCbt4LmY0tR3Z-XkokBRQsqw
+  home: https://www.suzie.world
 - name: 김순식
   blog: http://i-bada.blogspot.kr/
   rss: http://i-bada.blogspot.com/feeds/posts/default
