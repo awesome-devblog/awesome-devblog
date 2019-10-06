@@ -1036,6 +1036,7 @@
   youtube: https://www.youtube.com/channel/UC86HxrAQ4GS1Iq8LIvUYigQ
 - name: 쉐어드아이티
   youtube: https://www.youtube.com/channel/UCKmGquVYo0RkOwfAsxJ-WCQ
+  home: https://www.sharedit.co.kr
 - name: 스무디 TV
   youtube: https://www.youtube.com/channel/UCo-7BoOyUN6SrtCGWaAV81Q
 - name: 아프리카도서관
@@ -1437,3 +1438,10 @@
   facebook: https://www.facebook.com/acupofcode/
 - name: 코딩인카페
   facebook: https://www.facebook.com/codingincafe/
+- name: 너드팩토리
+  blog: https://blog.nerdfactory.ai
+  rss: https://blog.nerdfactory.ai/feed.xml
+- name: Delivery Hero Korea
+  blog: https://medium.com/deliverytechkorea
+  rss: https://medium.com/feed/deliverytechkorea
+  facebook: https://www.facebook.com/deliveryherokorea
