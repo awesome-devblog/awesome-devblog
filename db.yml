@@ -119,6 +119,12 @@
   description: 게임 개발
   twitter: https://twitter.com/Imseong
   slideshare: https://www.slideshare.net/ImseongKang
+- name: 강재석
+  blog: https://jaeseokk.dev
+  rss: https://jaeseokk.dev/rss.xml
+  description: React
+  github: https://github.com/jaeseokk
+  twitter: https://twitter.com/kang89kr
 - name: 강재호
   blog: http://blog.greennuri.info/
   rss: http://blog.greennuri.info/?feed=rss2
