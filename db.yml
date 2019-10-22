@@ -930,8 +930,8 @@
   github: https://github.com/sangyeol-kim
   rocketpunch: https://www.rocketpunch.com/@f7a9ec3c52fa4b1b
 - name: 김상윤
-  blog: https://blog.naver.com/freeristea
-  rss: https://rss.blog.naver.com/freeristea.xml
+  blog: https://freeristea.tistory.com/
+  rss: https://freeristea.tistory.com/rss
   facebook: https://www.facebook.com/profile.php?id=100028386872756
 - name: 김상헌
   blog: https://blog.naver.com/gaghiphop
@@ -3506,6 +3506,10 @@
   github: https://github.com/EJSohn
   speakerdeck: https://speakerdeck.com/ejsohn
   linkedin: https://www.linkedin.com/in/eunju-son/
+- name: 손주호
+  blog: https://medium.com/@joohotheman
+  rss: https://medium.com/feed/@joohotheman
+  facebook: https://www.facebook.com/jooho.fly.to.the.sky
 - name: 손지민
   blog: https://medium.com/@bryantjiminson
   rss: https://medium.com/feed/@bryantjiminson
