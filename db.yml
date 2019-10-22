@@ -3452,6 +3452,11 @@
   blog: http://healthydeveloper.tistory.com/
   rss: http://healthydeveloper.tistory.com/rss
   description: Algorithm
+- name: 성대현
+  blog: https://medium.com/@studioego
+  rss: https://medium.com/feed/@studioego
+  description: LibreOffice
+  twitter: https://twitter.com/studioego
 - name: 성동찬
   blog: http://gywn.net/
   rss: http://gywn.net/feed/
