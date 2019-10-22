@@ -3457,6 +3457,7 @@
   rss: https://medium.com/feed/@studioego
   description: LibreOffice
   twitter: https://twitter.com/studioego
+  facebook: https://www.facebook.com/dhyun.sung
 - name: 성동찬
   blog: http://gywn.net/
   rss: http://gywn.net/feed/
@@ -3648,6 +3649,11 @@
   blog: https://www.linkedin.com/in/jun-hee-shin-b4241a50/detail/recent-activity/posts/
   facebook: https://www.facebook.com/sjhstorm
   linkedin: https://www.linkedin.com/in/jun-hee-shin-b4241a50/
+- name: 송창안
+  blog: https://blog.naver.com/casong99
+  rss: https://rss.blog.naver.com/casong99.xml
+  description: 클라우드
+  facebook: https://www.facebook.com/changan.song
 - name: 송치오
   blog: http://pizzaplanet.tistory.com/
   rss: http://pizzaplanet.tistory.com/rss
