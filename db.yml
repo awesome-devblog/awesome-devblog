@@ -6229,6 +6229,11 @@
   rss: https://www.wizmusa.net/rss
   description: 기획
   facebook: https://www.facebook.com/Sihyoung.Jurn
+- name: 전시흠
+  blog: https://dailyheumsi.tistory.com/
+  rss: https://dailyheumsi.tistory.com/rss
+  description: Data Science
+  facebook: https://www.facebook.com/heumsi
 - name: 전윤아
   blog: https://brunch.co.kr/@itisyoona
   rss: https://brunch.co.kr/rss/@@12cS
@@ -6956,12 +6961,13 @@
   description: System, Network
   facebook: https://www.facebook.com/sysnet4admin
 - name: 주길재
-  blog: http://www.giljae.com/
-  rss: http://www.giljae.com/feeds/posts/default
+  blog: https://medium.com/@giljae
+  rss: https://medium.com/feed/@giljae
   description: Cloud
   github: https://github.com/giljae
   twitter: https://twitter.com/giljae
   facebook: https://www.facebook.com/giljae
+  home: http://www.giljae.com/
 - name: 주민하
   blog: https://alegruz.imweb.me/
   description: Python, 게임 개발, C
