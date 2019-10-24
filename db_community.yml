@@ -1079,7 +1079,7 @@
   youtube: https://www.youtube.com/channel/UC8JVpZGSvoIwO6usKUYItHA
 - name: Babo_Coding
   youtube: https://www.youtube.com/channel/UCcMW283tl-0u9ZZSwOvkupQ
-- name: 노마드 프로그래머 Nomad Programmer
+- name: 노마드 크리에이터
   blog: https://theprogrammertells.blogspot.com/
   rss: https://theprogrammertells.blogspot.com/feeds/posts/default?alt=rss
   youtube: https://www.youtube.com/channel/UCZ73ED3NQQB-FRE14uXU_3A
@@ -1203,7 +1203,7 @@
   youtube: https://www.youtube.com/channel/UCkUOpd1eE5elWKukIKYL-9w
 - name: 뉴렉처
   youtube: https://www.youtube.com/channel/UC5-ixpj8DioZqmrasj6Ihpw
-- name: Seoul Wiz
+- name: Seoul Smartcitycenter
   blog: https://iotcenter.seoul.go.kr/
   rss: https://iotcenter.seoul.go.kr/rss
   youtube: https://www.youtube.com/channel/UCysbIC7UOmikXX8IB7QZMDA
@@ -1448,3 +1448,11 @@
 - name: 테크니들
   blog: http://techneedle.com/
   rss: http://techneedle.com/feed
+- name: 쩡원의PHP
+  youtube: https://www.youtube.com/channel/UCHdmYfB-HgzGqCiTu0NfuLw
+- name: 프리렉
+  youtube: https://www.youtube.com/channel/UCn9oaGNfb_jvaZbe2VKDCtA
+- name: skyTV
+  youtube: https://www.youtube.com/channel/UCbv199nKJ-UbJYz9EHm8VWA
+- name: Smile Han
+  youtube: https://www.youtube.com/channel/UCM8wseo6DkA-D7yGlCrcrwA
