@@ -5421,6 +5421,9 @@
   rss: https://eblee-repo.tistory.com/rss
   github: https://github.com/fed-gren
   description: Front-end
+- name: 이은찬
+  blog: https://medium.com/@wyoducc
+  rss: https://medium.com/feed/@wyoducc
 - name: 이응준
   blog: https://blog.npcode.com/
   rss: https://blog.npcode.com/feed/
