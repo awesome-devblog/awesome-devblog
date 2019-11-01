@@ -1467,7 +1467,7 @@
   description: Android
 - name: 김정헌
   blog: https://dev-yakuza.github.io/ko/
-  rss: https://dev-yakuza.github.io/ko/feed.xml
+  rss: https://dev-yakuza.github.io/ko/rss.xml
   description: React, React Native, Laravel
   facebook: https://www.facebook.com/yakuza.dev.54
   twitter: https://twitter.com/DevYakuza
