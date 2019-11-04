@@ -493,7 +493,7 @@
 - name: Google
   blog: https://developers-kr.googleblog.com/
   rss: http://feeds.feedburner.com/GoogleDevelopersKorea
-- name: Line Engineering Blog
+- name: Line Engineering
   blog: https://engineering.linecorp.com/ko/blog
   rss: https://engineering.linecorp.com/ko/blog/rss2
 - name: Make Korea
