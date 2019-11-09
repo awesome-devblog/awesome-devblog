@@ -6207,6 +6207,12 @@
   blog: https://velog.io/@janghyoin
   rss: https://api.velog.io/atom/@janghyoin
   description: Front-end
+- name: 전광용
+  blog: https://velog.io/@devjeon1358
+  rss: https://api.velog.io/atom/@devjeon1358
+  description: Back-end
+  github: https://github.com/DevJeon1358
+  facebook: https://www.facebook.com/gwangyoung.jeon
 - name: 전규현
   blog: http://www.allofsoftware.net/
   rss: http://feeds.feedburner.com/allofsoftware?format=xml
