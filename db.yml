@@ -6526,6 +6526,10 @@
   description: Back-end
   tistory: http://yangwookee.tistory.com
   github: https://github.com/Yangeok
+- name: 정연진
+  blog: https://velog.io/@dus532
+  rss: https://api.velog.io/atom/@dus532
+  description: Front-end
 - name: 정용일
   blog: http://yongil.net/
   rss: http://yongil.net/feed
