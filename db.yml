@@ -4648,6 +4648,7 @@
   linkedin: https://www.linkedin.com/in/상준-윤-80599bb3/
 - name: 윤서현
   blog: https://seohyun.me
+  rss: https://seohyun.me/rss.xml
   description: JavaScript, TypeScript, AWS
   github: https://github.com/seohyun0120
 - name: 윤석준
