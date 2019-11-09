@@ -4455,6 +4455,7 @@
   facebook: https://www.facebook.com/ydh0110
   github: https://github.com/yuda110
   twitter: https://twitter.com/ydh0110
+  linkedin: https://www.linkedin.com/in/ydh0110/
 - name: 유동곤
   blog: http://blog.naver.com/ehdrhs1004
   rss: https://rss.blog.naver.com/ehdrhs1004.xml
@@ -4689,6 +4690,8 @@
   blog: https://velog.io/@sgyoon
   rss: https://api.velog.io/atom/@sgyoon
   description: Front-end
+  github: https://github.com/seulgiyoon
+  twitter: https://twitter.com/sgyoon_info
 - name: 윤승환
   blog: http://blog.daum.net/epilogs
   description: Elastic
@@ -8017,6 +8020,13 @@
   description: Java, Back-End
   rss: https://archive.htrucci.com/feed/
   github: https://gitlab.com/htrucci
+- name: 황대영
+  blog: https://ddayin.tistory.com
+  rss: https://ddayin.tistory.com/rss
+  description: 게임 개발
+  slideshare: https://www.slideshare.net/ddayinhwang9
+  linkedin: https://www.linkedin.com/in/ddayin/
+  facebook: https://www.facebook.com/ddayin.hwang.9
 - name: 황동현
   blog: http://dhhwang89.tistory.com/
   rss: http://dhhwang89.tistory.com/rss
