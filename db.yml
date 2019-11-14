@@ -1982,7 +1982,8 @@
   instagram: https://www.instagram.com/mickey.kim/
 - name: 김현호
   blog: https://devhyun.com/blog/post
-  description: Front-end
+  rss: https://devhyun.com/rss.xml
+  description: Node, SpringBoot, React, Vue
   github: https://github.com/opzyra
   home: https://devhyun.com/
 - name: 김형주
