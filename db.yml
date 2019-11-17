@@ -1706,6 +1706,12 @@
   rss: https://jistol.github.io/atom.xml
   description: ''
   github: https://github.com/jistol
+- name: 김지훈
+  blog: https://vagabond95.github.io/
+  rss: https://vagabond95.github.io/rss2.xml
+  description: Android
+  github: https://github.com/vagabond95
+  linkedin: https://www.linkedin.com/in/vagabond95/
 - name: 김진국
   blog: http://forensic-proof.com/
   rss: http://forensic-proof.com/feed
