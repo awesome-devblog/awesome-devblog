@@ -4751,6 +4751,13 @@
   rss: https://razorbacky.blogspot.com/feeds/posts/default?alt=rss
   description: Linux
   facebook: https://www.facebook.com/chanryul.yoon
+- name: 윤찬열
+  blog: https://cyuu.tistory.com
+  rss: https://cyuu.tistory.com/rss
+  description: cyuu_tech
+  github: https://gitlab.com/ycy1766
+  linkedin: https://www.linkedin.com/in/chanyeol-yoon-5b4363b5/
+  facebook: https://www.facebook.com/chanyoul.yoon
 - name: 윤청하
   blog: https://brunch.co.kr/@brunch4nrs
   rss: https://brunch.co.kr/rss/@@zav
