@@ -1703,8 +1703,8 @@
   slideshare: https://www.slideshare.net/mastrayer
 - name: 김지환
   blog: https://jistol.github.io/
-  rss: https://jistol.github.io/atom.xml
-  description: ''
+  rss: https://jistol.github.io/feed.xml
+  description: Java-Backend
   github: https://github.com/jistol
 - name: 김지훈
   blog: https://vagabond95.github.io/
