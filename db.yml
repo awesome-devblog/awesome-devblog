@@ -5379,6 +5379,13 @@
   github: https://github.com/phillyai
   facebook: https://www.facebook.com/ars103
   description: 'C#, 삽질'
+- name: 이영창
+  blog: https://p-iknow.netlify.com
+  rss: https://p-iknow.netlify.com/rss.xml
+  description: Algorithm
+  facebook: https://www.facebook.com/devpiknow
+  twitter: https://twitter.com/iknow_p
+  github: https://github.com/P-iknow
 - name: 이영훈
   blog: http://resoliwan.blogspot.kr/
   rss: http://resoliwan.blogspot.com/feeds/posts/default
