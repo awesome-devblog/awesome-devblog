@@ -2198,6 +2198,8 @@
   description: '프레임워크 / 오픈소스'
   github: https://github.com/roharon
   facebook: https://www.facebook.com/roharon
+  slideshare: https://www.slideshare.net/ssuser4f42b1
+  linkedin: https://www.linkedin.com/in/아론-노-73b155121/
 - name: 노요셉
   blog: https://velog.io/@noyo0123
   rss: https://api.velog.io/atom/@noyo0123
@@ -6808,6 +6810,11 @@
   blog: http://gahee0416.tistory.com/
   rss: http://gahee0416.tistory.com/rss
   description: Javascript
+- name: 조경완
+  blog: https://codingdog.tistory.com
+  rss: https://codingdog.tistory.com/rss
+  description: Algorithm
+  facebook: https://www.facebook.com/chogahui05
 - name: 조경재
   blog: http://devsyua.tistory.com/
   rss: http://devsyua.tistory.com/rss
