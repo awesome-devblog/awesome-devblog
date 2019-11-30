@@ -2726,6 +2726,7 @@
   description: ''
   slideshare: https://www.slideshare.net/arawnkr
   linkedin: https://www.linkedin.com/in/arawn/
+  facebook: https://www.facebook.com/arawn.kr
 - name: 박용규
   blog: https://brunch.co.kr/@davidpark1224
   rss: https://brunch.co.kr/rss/@@Ax1
@@ -4038,6 +4039,7 @@
   github: https://github.com/memnoth
   gitlab: https://gitlab.gnome.org/memnoth
   twitter: https://twitter.com/iamt0mmy
+  facebook: https://www.facebook.com/yisooan91
 - name: 안재열
   blog: http://doublem.org/
   rss: http://doublem.org/feed.xml
@@ -6590,6 +6592,9 @@
   facebook: https://www.facebook.com/JeongUkJae
   github: https://github.com/JeongUkJae
   linkedin: https://www.linkedin.com/in/JeongUkJae/
+- name: 정원봉
+  facebook: https://www.facebook.com/kindfamilybear
+  youtbue: https://www.youtube.com/channel/UCHGrcaroTQjz9wyASXQAmYQ
 - name: 정원석
   blog: https://wonseokjung.github.io/
   rss: https://wonseokjung.github.io/feed.xml
