@@ -2818,6 +2818,11 @@
   rss: https://medium.com/feed/@jungwook
   description: Kotlin, Android
   twitter: https://twitter.com/parkjungwook2
+- name: 박정욱
+  blog: https://bin-e.tistory.com/
+  rss: https://bin-e.tistory.com/rss
+  github: https://github.com/bin-e
+  description: Dev Love
 - name: 박정운
   blog: https://jungwoon.github.io/
   rss: https://jungwoon.github.io/feed.xml
