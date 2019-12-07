@@ -2473,6 +2473,9 @@
   facebook: https://www.facebook.com/EastSocial
   twitter: https://twitter.com/EastSocial
   instagram: https://www.instagram.com/baksimgorkii/
+- name: 박규남
+  blog: https://velog.io/@bottarijangsu
+  rss: https://api.velog.io/atom/@bottarijangsu
 - name: 박근희
   blog: https://humbledude.github.io/blog/
   rss: https://humbledude.github.io/blog/feed.xml
