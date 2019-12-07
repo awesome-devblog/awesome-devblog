@@ -3430,6 +3430,12 @@
   description: 해외 취업
   twitter: https://twitter.com/zechery1
   medium: https://medium.com/@zechery1
+- name: 서지녁
+  blog: https://velog.io/@idw5780
+  rss: https://api.velog.io/atom/@idw5780
+  github: https://github.com/seojeenyeok
+  facebook: https://www.facebook.com/AlwayssPositive
+  instagram: https://www.instagram.com/plzbepositive/
 - name: 서지연
   blog: http://jiyeonseo.github.io/
   rss: https://jiyeonseo.github.io/atom.xml
