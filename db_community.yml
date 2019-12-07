@@ -1459,3 +1459,8 @@
 - name: PlusTV
   blog: https://medium.com/plustv
   rss: https://medium.com/feed/plustv
+- name: ZUM Tech
+  blog: https://zuminternet.github.io/
+  rss: https://zuminternet.github.io/feed.xml
+- name: 보안프로젝트
+  youtube: https://www.youtube.com/channel/UC7X47oW4QqJS9z4uanD9qIw
