@@ -281,6 +281,11 @@
 - name: 공진기
   slideshare: https://www.slideshare.net/JinGiKong
   linkedin: https://www.linkedin.com/in/jin-gi-kong-289154121/
+- name: 공채원
+  blog: https://chaewonkong.github.io
+  rss: https://chaewonkong.github.io/atom.xml
+  description: React Native
+  github: https://github.com/ChaeWonKong
 - name: 곽민수
   blog: https://brunch.co.kr/@imagineer
   rss: https://brunch.co.kr/rss/@@YZF
