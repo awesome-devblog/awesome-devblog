@@ -895,6 +895,11 @@
   rss: https://medium.com/feed/@beejei
   description: ''
   twitter: https://twitter.com/beejei
+- name: 김병규
+  blog: https://velog.io/@loakick
+  rss: https://api.velog.io/atom/@loakick
+  description: 연플
+  github: https://github.com/beygee
 - name: 김병부
   blog: http://myboor.tistory.com/
   rss: http://myboor.tistory.com/rss
