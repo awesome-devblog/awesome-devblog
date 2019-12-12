@@ -22,6 +22,7 @@
 | 드라마앤컴패니 블로그 | http://blog.dramancompany.com/ | |
 | 라온피플 | http://blog.naver.com/laonple | 비전, 머신 러닝 |
 | 레진 기술 블로그 | http://tech.lezhin.com/ | |
+| 렌딧 기술 블로그 | https://lenditkr.github.io/ | |
 | 로켓펀치 블로그 | https://blog.rocketpunch.com/ | |
 | 리디북스 | https://www.ridicorp.com/blog/ | |
 | 리모트몬스터 | https://blog.remotemonster.com/ | WebRTC |
