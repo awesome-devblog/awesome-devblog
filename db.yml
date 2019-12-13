@@ -7482,6 +7482,11 @@
   rocketpunch: https://www.rocketpunch.com/@seungdols0822
   github: https://github.com/seungdols
   twitter: https://twitter.com/seungdols
+- name: 최승호
+  blog: https://smothly.github.io/
+  rss: https://smothly.github.io/feed.xml
+  description: Big Data, Backend
+  github: https://github.com/smothly
 - name: 최영훈
   blog: https://velog.io/@jeff0720
   rss: https://api.velog.io/atom/@jeff0720
