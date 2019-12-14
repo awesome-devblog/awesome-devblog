@@ -5828,6 +5828,11 @@
   rss: https://soeasyto.me/feed.xml
   description: Machine Learning
   github: https://github.com/AutumnSky92
+- name: 이청규
+  blog: https://blog.naver.com/openwiki
+  rss: https://rss.blog.naver.com/openwiki.xml
+  description: Jenkins, Atlassian
+  youtube: https://www.youtube.com/channel/UC_MinTXO3V4mhbjV3nd32PA  
 - name: 이치웅
   blog: https://chichi.space/
   rss: https://chichi.space/atom
