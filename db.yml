@@ -5101,6 +5101,13 @@
   description: Data Science
   github: https://github.com/lumiamitie
   instagram: https://www.instagram.com/miika__el/
+- name: 이민호
+  blog: https://velog.io/@minholee_93
+  rss: https://api.velog.io/atom/@minholee_93
+  description: AWS
+  linkedin: https://www.linkedin.com/in/minho-lee-26a1a8175/
+  github: https://github.com/MinhoLee93
+  leetcode: https://leetcode.com/minholee93/
 - name: 이바울
   blog: https://woolbro.tistory.com/
   rss: https://woolbro.tistory.com/rss
