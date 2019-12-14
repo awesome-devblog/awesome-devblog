@@ -3568,6 +3568,11 @@
   blog: http://sonseungha.tistory.com/
   rss: http://sonseungha.tistory.com/rss
   description: Linux
+- name: 손승현
+  blog: https://velog.io/@jamessoun93
+  rss: https://api.velog.io/atom/@jamessoun93
+  description: Algorithm
+  github: https://github.com/jamessoun93
 - name: 손영수(arload)
   blog: https://arload.wordpress.com/
   rss: https://arload.wordpress.com/feed/
