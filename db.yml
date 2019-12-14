@@ -2448,6 +2448,9 @@
   blog: http://pks424.tistory.com/
   rss: http://pks424.tistory.com/rss
   description: Flex
+- name: 박경연
+  blog: https://velog.io/@kykevin
+  rss: https://api.velog.io/atom/@kykevin
 - name: 박경욱
   blog: https://kyungw00k.github.io/
   rss: https://kyungw00k.github.io/atom.xml
