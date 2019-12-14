@@ -2500,6 +2500,11 @@
   facebook: https://www.facebook.com/kisang.pak
   linkedin: https://www.linkedin.com/in/kisangpak/
   twitter: https://twitter.com/kpakguy
+- name: 박동건
+  blog: https://velog.io/@bathingape
+  rss: https://api.velog.io/atom/@bathingape
+  description: Front-end
+  github: https://github.com/bathingape
 - name: 박동호
   blog: https://donghopark.github.io/
   rss: https://donghopark.github.io/feed.xml
