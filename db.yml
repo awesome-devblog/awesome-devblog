@@ -4536,6 +4536,10 @@
   github: https://github.com/yuda110
   twitter: https://twitter.com/ydh0110
   linkedin: https://www.linkedin.com/in/ydh0110/
+- name: 유다혜
+  blog: https://velog.io/@dahyeyudev
+  rss: https://api.velog.io/atom/@dahyeyudev
+  description: Front-end
 - name: 유동곤
   blog: http://blog.naver.com/ehdrhs1004
   rss: https://rss.blog.naver.com/ehdrhs1004.xml
