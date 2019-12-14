@@ -3409,6 +3409,9 @@
 - name: 서용마
   blog: https://brunch.co.kr/@bonfire
   description: Workflowy
+- name: 서유상
+  blog: https://velog.io/@vlvksbdof12
+  rss: https://api.velog.io/atom/@vlvksbdof12
 - name: 서유찬
   blog: https://medium.com/@seoyoochan
   rss: https://medium.com/feed/@seoyoochan
