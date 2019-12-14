@@ -4656,6 +4656,11 @@
   blog: http://duriepark.tistory.com/
   rss: http://duriepark.tistory.com/rss
   description: ''
+- name: 유현영
+  blog: https://velog.io/@hyeong412
+  rss: https://api.velog.io/atom/@hyeong412
+  github: https://github.com/You-hyeonyeong
+  facebook: https://www.facebook.com/hyeong412
 - name: 유형준
   blog: http://programmeringermany.blogspot.kr/
   rss: http://programmeringermany.blogspot.com/feeds/posts/default
