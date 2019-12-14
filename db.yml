@@ -2957,6 +2957,11 @@
   rss: https://junwoo45.github.io/feed.xml
   description: javascript
   github: https://github.com/JUNWOO45
+- name: 박준우
+  blog: https://velog.io/@korca0220
+  rss: https://api.velog.io/atom/@korca0220
+  github: https://github.com/korca0220
+  rocketpunch: https://www.rocketpunch.com/@korca0220
 - name: 박준표
   blog: https://junpyopark.github.io/
   facebook: https://www.facebook.com/profile.php?id=100001823794299
