@@ -4727,6 +4727,11 @@
   rss: https://android-blog.dev/rss
   description: Android
   github: https://github.com/YoonKyoungTae
+- name: 윤대희
+  blog: https://076923.github.io/
+  rss: https://076923.github.io/feed.xml
+  description: Computer Vision
+  aladin: https://www.aladin.co.kr/author/wauthor_overview.aspx?AuthorSearch=@7254515
 - name: 윤민식
   blog: https://medium.com/@yms9654
   rss: https://medium.com/feed/@yms9654
@@ -5338,7 +5343,7 @@
   twitter: https://twitter.com/mojosoeun
   facebook: https://www.facebook.com/mojosoeun
   github: https://github.com/mojosoeun
-  aboutme: https://about.sonalee.me/
+  home: https://www.sonalee.me/
 - name: 이소현
   blog: https://brunch.co.kr/@sohyeonlee
   rss: https://brunch.co.kr/rss/@@KYN
