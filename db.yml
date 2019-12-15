@@ -3484,6 +3484,7 @@
   twitter: https://twitter.com/seojeee
   linkedin: https://www.linkedin.com/in/jiyeon-seo-aa9b3366/
   instagram: https://www.instagram.com/cheeseinthedev/
+  gitbook: https://legacy.gitbook.com/@jiyeonseo
 - name: 서지형
   blog: https://medium.com/@jee0645
   rss: https://medium.com/feed/@jee0645
@@ -4513,6 +4514,7 @@
   rankedin: http://rankedin.kr/user/sarojaba
   aboutme: https://about.me/sarojaba
   openprocessing: https://www.openprocessing.org/user/67665
+  gitbook: https://legacy.gitbook.com/@sarojaba
 - name: 원강민
   blog: https://blog.wonhada.com/
   rss: https://blog.wonhada.com/?feed=rss2
@@ -5824,6 +5826,11 @@
 - name: 이진원
   facebook: https://www.facebook.com/jinwon.lee.330
   youtube: https://www.youtube.com/channel/UCaJFuqpYqxWuQl9TZky0njA
+- name: 이차민
+  blog: https://leechamin.tistory.com/
+  rss: https://leechamin.tistory.com/rss
+  description: Machine Learning
+  github: https://github.com/ChaminLee
 - name: 이찬구
   blog: https://www.podo-dev.com
   rss: https://www.podo-dev.com/feed.xml
@@ -6507,6 +6514,7 @@
   facebook: https://www.facebook.com/lesstif
   github: https://github.com/lesstif
   slideshare: https://www.slideshare.net/ssuser800974
+  gitbook: https://legacy.gitbook.com/@lesstif
 - name: 정금호
   blog: https://brunch.co.kr/@nashorn74
   rss: https://brunch.co.kr/rss/@@6xdo
@@ -6670,6 +6678,8 @@
   facebook: https://www.facebook.com/steve.SU.J
   twitter: https://twitter.com/jsuch2362
   slideshare: https://www.slideshare.net/ssuser70b5b8
+  github: https://github.com/ZeroBrain
+  gitbook: https://legacy.gitbook.com/@zerobrain
 - name: 정승철
   blog: https://medium.com/@ddt1984
   rss: https://medium.com/feed/@ddt1984
