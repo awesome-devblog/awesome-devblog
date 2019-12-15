@@ -5050,6 +5050,7 @@
   description: Java, Spring, IntelliJ, Backend
   facebook: https://www.facebook.com/jojoldu
   github: https://github.com/jojoldu
+  aladin: https://www.aladin.co.kr/author/wauthor_overview.aspx?AuthorSearch=@7569909
 - name: 이동원
   blog: https://blog.wonizz.tk/
   rss: https://blog.wonizz.tk/feed/
@@ -5665,8 +5666,12 @@
   description: IT 칼럼
   facebook: https://www.facebook.com/madlymissyou
 - name: 이정주
+  blog: https://webnautes.tistory.com/
+  rss: https://webnautes.tistory.com/rss
+  description: Machine Learning, Android
   youtube: https://www.youtube.com/channel/UCQeLdtodgFWThPxVeWjAncA
   facebook: https://www.facebook.com/jeongju.lee.5648
+  aladin: https://www.aladin.co.kr/author/wauthor_overview.aspx?AuthorSearch=@7438215
 - name: 이정해
   blog: http://hermestop.tistory.com/
   rss: http://hermestop.tistory.com/rss
