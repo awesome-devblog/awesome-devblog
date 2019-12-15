@@ -8081,6 +8081,12 @@
   rss: https://brunch.co.kr/rss/@@1wbE
   description: 야만인
   facebook: https://www.facebook.com/hvnpoet
+- name: 허민
+  blog: https://theorydb.github.io/
+  rss: https://theorydb.github.io/feed.xml
+  description: Machine Learning
+  facebook: https://www.facebook.com/cantouchmin
+  github: https://github.com/theorydb
 - name: 허민석
   linkedin: https://www.linkedin.com/in/minsuk-heo-008b8757/
   youtube: https://www.youtube.com/channel/UCxP77kNgVfiiG6CXZ5WMuAQ
