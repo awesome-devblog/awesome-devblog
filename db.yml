@@ -8338,3 +8338,8 @@
   rss: https://medium.com/feed/@hkc7180
   description: Javascript
   github: https://github.com/david718
+- name: 한건국
+  blog: https://umanking.github.io
+  rss: https://umanking.github.io/feed.xml
+  description: Java, Spring, JPA
+  github: https://github.com/umanking
