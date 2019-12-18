@@ -5849,11 +5849,11 @@
   rss: http://chanhaeng.blogspot.com/feeds/posts/default
   description: 3D Graphics
 - name: 이찬희
-  blog: https://velog.io/@iamchanii
-  rss: https://api.velog.io/atom/@iamchanii
-  description: Front-end
+  blog: https://imch.dev/posts
+  rss: https://imch.dev/rss.xml
+  description: Web Frontend Engineer
   github: https://github.com/iamchanii
-  home: https://resume.imch.dev/
+  home: https://imch.dev/resume
 - name: 이창주
   blog: https://velog.io/@jerrynim_
   rss: https://api.velog.io/atom/@jerrynim_
