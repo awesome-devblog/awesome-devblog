@@ -1603,6 +1603,13 @@
   blog: https://brunch.co.kr/@monodream
   rss: https://brunch.co.kr/rss/@@1Gdv
   description: 디자인
+- name: 김준비
+  blog: https://readystory.tistory.com/
+  rss: https://readystory.tistory.com/rss
+  description: Kotlin, Android, Web
+  github: https://github.com/KimReady
+  facebook: https://www.facebook.com/readykim
+  youtube: https://www.youtube.com/channel/UCbz-xGikqRRdyL73osTKbxg
 - name: 김준서
   blog: https://velog.io/@max9106
   rss: https://api.velog.io/atom/@max9106
