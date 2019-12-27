@@ -945,8 +945,8 @@
   linkedin: https://www.linkedin.com/in/hero4earth
   home: http://hero4earth.com/
 - name: 김상연
-  blog: https://kimsangyeon.github.io/kimsangyeon.github.io/
-  rss: https://kimsangyeon.github.io/kimsangyeon.github.io/feed/
+  blog: https://kimsangyeon.github.io
+  rss: https://kimsangyeon.github.io/feed
   description: Javascript
   github: https://github.com/kimsangyeon
 - name: 김상열
