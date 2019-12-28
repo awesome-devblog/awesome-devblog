@@ -2313,6 +2313,14 @@
   blog: http://occamsrazr.net/
   rss: http://feeds.feedburner.com/occamsrazr/blog?format=xml
   description: 번역
+- name: 류성두
+  blog: https://sungdoo.dev/
+  rss: http://feeds.feedburner.com/sungdoo/
+  twitter: https://twitter.com/sungdooyoo/
+  github: https://github.com/e-sung/
+  linkedin: https://www.linkedin.com/in/sungdoo-yoo-9735b8189/
+  youtube: https://www.youtube.com/channel/UCMALH48WsErg07SHpyukc6Q/
+  description: iOS, Swift, 접근성
 - name: 류우림
   slideshare: https://www.slideshare.net/woolimryu
 - name: 류재영
