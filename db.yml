@@ -2268,6 +2268,7 @@
   blog: https://soojin.ro/
   rss: https://soojin.ro/feed.xml
   description: Swift
+  facebook: https://www.facebook.com/nsoojin.ro
   linkedin: https://www.linkedin.com/in/soojinro/
   appstore: https://itunes.apple.com/kr/developer/soojin-ro/id921116369
 - name: 노아론
@@ -4932,6 +4933,10 @@
   blog: https://brunch.co.kr/@henen
   rss: https://brunch.co.kr/rss/@@1grC
   description: Android, Vue
+- name: 이건
+  blog: https://geonlee.tistory.com/
+  rss: https://geonlee.tistory.com/rss
+  facebook: https://www.facebook.com/thisisismyname
 - name: 이건희
   linkedin: https://www.linkedin.com/in/gunhee-lee-46b21312a/
   slideshare: https://www.slideshare.net/GunheeLee2
@@ -7653,9 +7658,11 @@
   rss: https://blog.voidmainvoid.net/rss
   description: Big Data, DevOps
   github: https://github.com/AndersonChoi
+  facebook: https://www.facebook.com/Choi.Anderson
   linkedin: https://www.linkedin.com/in/won-young-choi-189960b7/
   home: https://andersonchoi.github.io/
   youtube: https://www.youtube.com/channel/UCPdTFQUHzAzFobngtw1sFKg
+  stackoverflow: https://stackoverflow.com/users/9634545/anderson-choi
 - name: 최원우
   blog: https://blog.vbchunguk.me/
   description: Rust
