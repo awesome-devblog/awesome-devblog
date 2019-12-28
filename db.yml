@@ -7870,12 +7870,14 @@
   rss: https://www.hides.kr/rss
   facebook: https://www.facebook.com/sharehead
 - name: 편해걸
-  blog: https://medium.com/@la.place
-  rss: https://medium.com/feed/@la.place
+  blog: https://hg-pyun.github.io/
+  rss: https://hg-pyun.github.io/rss.xml
   description: Front-end
   github: https://github.com/hg-pyun
   facebook: https://www.facebook.com/profile.php?id=100006418173687
+  linkedin: https://www.linkedin.com/in/haegul-pyun-747977122/
   tistory: http://dev-momo.tistory.com/
+  medium: https://medium.com/@la.place
 - name: 하동우
   blog: https://medium.com/@cookatrice
   rss: https://medium.com/feed/@cookatrice
