@@ -1597,6 +1597,11 @@
   description: Back-end
   facebook: https://www.facebook.com/seretude
   github: https://github.com/kimpaper
+- name: 김주엽
+  blog: https://kjy13299.blog.me/
+  rss: https://kjy13299.blog.me/rss
+  facebook: https://www.facebook.com/profile.php?id=100010322945153
+  github: https://github.com/Kim-Ju-Yeop
 - name: 김주원
   blog: http://blog.appkr.kr/
   rss: http://blog.appkr.kr/feed.xml
@@ -5622,6 +5627,7 @@
   facebook: https://www.facebook.com/landvibe
   twitter: https://twitter.com/landvibe
   github: https://github.com/landvibe
+  aladin: https://www.aladin.co.kr/author/wauthor_overview.aspx?AuthorSearch=@7188634
 - name: 이재열
   blog: https://kodingwarrior.github.io/
   rss: https://kodingwarrior.github.io/feed.xml
@@ -7306,8 +7312,8 @@
   rss: http://softwaregeeks.org/feed/
   description: 오픈소스
 - name: 진성주
-  blog: https://velog.io/@evanjin
-  rss: https://api.velog.io/atom/@evanjin
+  blog: https://evanjin.dev/
+  rss: https://evanjin.dev/rss.xml
   description: Nuxt
   github: https://github.com/seongjoojin
   facebook: https://www.facebook.com/profile.php?id=100016513931686
