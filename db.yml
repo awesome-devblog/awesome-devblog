@@ -4749,6 +4749,11 @@
   rss: https://api.velog.io/atom/@hyeong412
   github: https://github.com/You-hyeonyeong
   facebook: https://www.facebook.com/hyeong412
+- name: 유형곤
+  blog: https://hygoni.com/
+  rss: https://hygoni.com/rss
+  description: Algorithm
+  facebook: https://www.facebook.com/profile.php?id=100005797202290
 - name: 유형준
   blog: http://programmeringermany.blogspot.kr/
   rss: http://programmeringermany.blogspot.com/feeds/posts/default
