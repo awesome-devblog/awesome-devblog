@@ -3225,6 +3225,11 @@
 - name: 배소라
   youtube: https://www.youtube.com/channel/UC2lVigaHHMMW42EYmqZ94kg
   facebook: https://www.facebook.com/ssolbae
+- name: 백서영
+  blog: https://baek.dev
+  rss: https://baek.dev/feed.xml
+  description: Backend Software Engineer
+  github: https://github.com/baekdev
 - name: 백승지
   blog: https://blog.naver.com/conaman
   rss: https://rss.blog.naver.com/conaman.xml
