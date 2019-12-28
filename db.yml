@@ -1907,6 +1907,10 @@
   description: Spring
   facebook: https://www.facebook.com/KTaeSeong
   github: https://github.com/taes-k
+- name: 김태성
+  blog: https://blog.naver.com/indy9052
+  rss: https://rss.blog.naver.com/indy9052.xml
+  facebook: https://www.facebook.com/indy905
 - name: 김태영
   blog: https://tykimos.github.io/
   rss: http://tykimos.github.io/feed.xml
