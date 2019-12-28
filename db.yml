@@ -2222,6 +2222,13 @@
   medium: https://medium.com/@rkttu
   aboutme: https://about.me/rkttu
   slideshare: https://www.slideshare.net/rkttu
+- name: 남현욱
+  blog: https://velog.io/@hw0knam
+  rss: https://api.velog.io/atom/@hw0knam
+  description: Front-end
+  github: https://github.com/hw0k
+  facebook: https://www.facebook.com/hw0k.nam
+  home: http://hw0k.me/
 - name: 남형걸
   linkedin: https://www.linkedin.com/in/형걸-남-7b937aa2/
   slideshare: https://www.slideshare.net/ssuser6fe086
