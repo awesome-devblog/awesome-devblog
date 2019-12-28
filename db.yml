@@ -2615,11 +2615,11 @@
   rss: https://api.velog.io/atom/@pa324
   description: Algorithm
 - name: 박상일
-  blog: https://tkddlf59.github.io/
-  description: AWS
+  blog: https://blog.realsangil.net/
+  description: 백엔드
   facebook: https://www.facebook.com/tkddlf59
-  github: https://github.com/tkddlf59
-  aboutme: https://about.me/tkddlf59
+  github: https://github.com/realsangil
+  rss: https://blog.realsangil.net/posts/index.xml
 - name: 박상철
   blog: https://velog.io/@park_sang
   rss: https://api.velog.io/atom/@park_sang
