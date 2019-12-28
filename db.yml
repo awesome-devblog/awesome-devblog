@@ -811,6 +811,12 @@
 - name: 김명준
   blog: http://html5lab.kr/
   description: 프론트엔드
+- name: 김명준
+  blog: https://velog.io/@glm777
+  rss: https://api.velog.io/atom/@glm777
+  description: Front-end
+  facebook: https://www.facebook.com/profile.php?id=100011189436233
+  github: https://github.com/demain18
 - name: 김민규
   blog: https://pkgonan.github.io/
   rss: https://pkgonan.github.io/feed
