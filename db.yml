@@ -3970,9 +3970,13 @@
   backjoon: https://www.acmicpc.net/user/cprayer
   codeforce: http://codeforces.com/profile/cprayer
 - name: 신현묵
-  blog: https://brunch.co.kr/@supims
-  rss: https://brunch.co.kr/rss/@@19F4
+  blog: https://velog.io/@zetlos
+  rss: https://api.velog.io/atom/@zetlos
   description: IT 칼럼
+  github: https://github.com/seanshin
+  twitter: https://twitter.com/zetlos
+  facebook: https://www.facebook.com/zetlos
+  brunch: https://brunch.co.kr/@supims
 - name: 신현석
   blog: http://hyeonseok.com/
   rss: http://hyeonseok.com/rss/
