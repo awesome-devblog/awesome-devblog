@@ -246,6 +246,12 @@
   blog: https://brunch.co.kr/@maru7091
   rss: https://brunch.co.kr/rss/@@LOc
   description: 스타트업
+- name: 고석진
+  blog: https://appear.github.io/
+  rss: https://appear.github.io/atom.xml
+  linkedin: https://www.linkedin.com/in/석진-고-07644614a/
+  github: https://github.com/appear
+  facebook: https://www.facebook.com/profile.php?id=100002748908784
 - name: 고영빈
   blog: http://akal.co.kr/
   rss: http://akal.co.kr/?feed=rss2
@@ -260,16 +266,15 @@
   description: Network
   github: https://github.com/koyokr
   linkedin: https://www.linkedin.com/in/younghun-ko-249125135/
-- name: 고석진
-  blog: https://appear.github.io/
-  rss: https://appear.github.io/atom.xml
-  linkedin: https://www.linkedin.com/in/석진-고-07644614a/
-  github: https://github.com/appear
-  facebook: https://www.facebook.com/profile.php?id=100002748908784
 - name: 고유영
   blog: https://medium.com/@yooyoungko
   description: Javascript
   facebook: https://www.facebook.com/lunayyko
+- name: 고은정
+  blog: https://velog.io/@godori
+  rss: https://api.velog.io/atom/@godori
+  description: Front-end
+  github: https://github.com/godori
 - name: 고종범
   blog: https://brunch.co.kr/@jbgo
   rss: https://brunch.co.kr/rss/@@24SO
@@ -7065,8 +7070,8 @@
   youtube: https://www.youtube.com/channel/UCCs6KHf_Zo_iI2jfg_eqeDg
   home: https://seonhyung.netlify.com/
 - name: 조성동
-  blog: https://sdong001.github.io/
-  rss: https://sdong001.github.io/atom.xml
+  blog: https://velog.io/@sdong001
+  rss: https://api.velog.io/atom/@sdong001
   description: Android
   github: https://github.com/sdong001
 - name: 조성문
