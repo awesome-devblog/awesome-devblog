@@ -948,8 +948,8 @@
   linkedin: https://www.linkedin.com/in/hero4earth
   home: http://hero4earth.com/
 - name: 김상연
-  blog: https://kimsangyeon.github.io/kimsangyeon.github.io/
-  rss: https://kimsangyeon.github.io/kimsangyeon.github.io/feed/
+  blog: https://kimsangyeon.github.io
+  rss: https://kimsangyeon.github.io/feed
   description: Javascript
   github: https://github.com/kimsangyeon
 - name: 김상열
@@ -1614,6 +1614,13 @@
   blog: https://brunch.co.kr/@monodream
   rss: https://brunch.co.kr/rss/@@1Gdv
   description: 디자인
+- name: 김준비
+  blog: https://readystory.tistory.com/
+  rss: https://readystory.tistory.com/rss
+  description: Kotlin, Android, Web
+  github: https://github.com/KimReady
+  facebook: https://www.facebook.com/readykim
+  youtube: https://www.youtube.com/channel/UCbz-xGikqRRdyL73osTKbxg
 - name: 김준서
   blog: https://velog.io/@max9106
   rss: https://api.velog.io/atom/@max9106
@@ -2317,6 +2324,14 @@
   blog: http://occamsrazr.net/
   rss: http://feeds.feedburner.com/occamsrazr/blog?format=xml
   description: 번역
+- name: 류성두
+  blog: https://sungdoo.dev/
+  rss: http://feeds.feedburner.com/sungdoo/
+  twitter: https://twitter.com/sungdooyoo/
+  github: https://github.com/e-sung/
+  linkedin: https://www.linkedin.com/in/sungdoo-yoo-9735b8189/
+  youtube: https://www.youtube.com/channel/UCMALH48WsErg07SHpyukc6Q/
+  description: iOS, Swift, 접근성
 - name: 류우림
   slideshare: https://www.slideshare.net/woolimryu
 - name: 류재영
@@ -2619,11 +2634,11 @@
   rss: https://api.velog.io/atom/@pa324
   description: Algorithm
 - name: 박상일
-  blog: https://tkddlf59.github.io/
-  description: AWS
+  blog: https://blog.realsangil.net/
+  description: 백엔드
   facebook: https://www.facebook.com/tkddlf59
-  github: https://github.com/tkddlf59
-  aboutme: https://about.me/tkddlf59
+  github: https://github.com/realsangil
+  rss: https://blog.realsangil.net/posts/index.xml
 - name: 박상철
   blog: https://velog.io/@park_sang
   rss: https://api.velog.io/atom/@park_sang
@@ -3229,6 +3244,11 @@
 - name: 배소라
   youtube: https://www.youtube.com/channel/UC2lVigaHHMMW42EYmqZ94kg
   facebook: https://www.facebook.com/ssolbae
+- name: 백서영
+  blog: https://baek.dev
+  rss: https://baek.dev/feed.xml
+  description: Backend Software Engineer
+  github: https://github.com/baekdev
 - name: 백승지
   blog: https://blog.naver.com/conaman
   rss: https://rss.blog.naver.com/conaman.xml
@@ -5877,11 +5897,11 @@
   rss: http://chanhaeng.blogspot.com/feeds/posts/default
   description: 3D Graphics
 - name: 이찬희
-  blog: https://velog.io/@iamchanii
-  rss: https://api.velog.io/atom/@iamchanii
-  description: Front-end
+  blog: https://imch.dev/posts
+  rss: https://imch.dev/rss.xml
+  description: Web Frontend Engineer
   github: https://github.com/iamchanii
-  home: https://resume.imch.dev/
+  home: https://imch.dev/resume
 - name: 이창주
   blog: https://velog.io/@jerrynim_
   rss: https://api.velog.io/atom/@jerrynim_
@@ -8375,3 +8395,8 @@
   rss: https://medium.com/feed/@hkc7180
   description: Javascript
   github: https://github.com/david718
+- name: 한건국
+  blog: https://umanking.github.io
+  rss: https://umanking.github.io/feed.xml
+  description: Java, Spring, JPA
+  github: https://github.com/umanking

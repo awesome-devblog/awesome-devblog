@@ -67,6 +67,7 @@
 | 오픈튜토리얼스 | https://opentutorials.org/ | |
 | 와탭 블로그 | http://blog.whatap.io/ | |
 | 우아한형제들 기술 블로그 | http://woowabros.github.io/ | |
+| 유비케어 기술 블로그 | http://tech.ubcare.co.kr/ | |
 | 위클립스 | http://eclipse.or.kr/ | 이클립스, 지율 |
 | 이상한모임 | http://blog.weirdx.io/ | |
 | 이음소시어스 | http://bigmatch.i-um.net/ | |
