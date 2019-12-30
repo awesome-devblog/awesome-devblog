@@ -125,11 +125,6 @@
   description: React
   github: https://github.com/jaeseokk
   twitter: https://twitter.com/kang89kr
-- name: 강재호
-  blog: http://blog.greennuri.info/
-  rss: http://blog.greennuri.info/?feed=rss2
-  description: AI, Python
-  github: https://github.com/jaeho-kang
 - name: 강전혁
   blog: https://kdinner.tistory.com/
   rss: https://kdinner.tistory.com/rss
@@ -215,10 +210,11 @@
   github: https://github.com/firejune
   linkedin: https://www.linkedin.com/in/firejune/
 - name: 계주성
-  blog: http://kyejusung.com/
-  rss: http://kyejusung.com/feed/
-  description: ''
+  blog: https://jusung.github.io/
+  rss: https://jusung.github.io/feed.xml
+  description: iOS
   twitter: https://twitter.com/kyejusung
+  youtube: https://www.youtube.com/channel/UCbxHx9ZcngAr0Sy0Ms6Jz0A
 - name: 고경운
   blog: https://armadillo-dev.github.io/
   rss: https://armadillo-dev.github.io/feed.xml
@@ -248,7 +244,6 @@
   description: 스타트업
 - name: 고석진
   blog: https://appear.github.io/
-  rss: https://appear.github.io/atom.xml
   linkedin: https://www.linkedin.com/in/석진-고-07644614a/
   github: https://github.com/appear
   facebook: https://www.facebook.com/profile.php?id=100002748908784
@@ -395,8 +390,7 @@
   github: https://github.com/sksggg123
   facebook: https://www.facebook.com/profile.php?id=100001583537117
 - name: 권보경
-  blog: http://www.elliekwon.com/
-  rss: http://www.elliekwon.com/feeds/posts/default
+  blog: https://elliekwon.github.io/
   description: iOS
   facebook: https://www.facebook.com/elliebkwon
   linkedin: https://www.linkedin.com/in/elliekwon/
@@ -480,10 +474,6 @@
   facebook: https://www.facebook.com/xguru
   linkedin: https://www.linkedin.com/in/xguru/
   slideshare: https://www.slideshare.net/guruguru
-- name: 권진호
-  blog: http://jinhokwon.tistory.com/
-  rss: http://jinhokwon.tistory.com/rss
-  description: Full Stack
 - name: 권진환
   blog: https://medium.com/@jinkwon711
   rss: https://medium.com/feed/@jinkwon711
@@ -510,7 +500,6 @@
   home: https://taeguk.github.io/
 - name: 권태형
   blog: https://taebbong.github.io/
-  rss: https://taebbong.github.io/feed.xml
   description: Node.js
   facebook: https://www.facebook.com/taebbong
   linkedin: https://www.linkedin.com/in/taebbong/
@@ -537,7 +526,6 @@
   github: https://github.com/kwonhyeona
 - name: 권희정
   blog: https://gmlwjd9405.github.io/
-  rss: https://gmlwjd9405.github.io/feed
   description: Spring
   github: https://github.com/gmlwjd9405
 - name: 김강령
@@ -632,7 +620,7 @@
   github: https://github.com/namjunemy
 - name: 김남훈
   blog: http://namhoon.kim/
-  rss: http://namhoon.kim/rss
+  rss: https://namhoon.kim/atom.xml
   description: Jekyll, Firebase Korea
   github: https://github.com/mydamyda
 - name: 김놀부
@@ -722,7 +710,7 @@
   description: 게임 개발
 - name: 김도훈
   blog: https://dohoons.com/
-  rss: https://dohoons.com/blog/feed
+  rss: https://dohoons.com/blog/feed/
   description: Web
   github: https://github.com/dohoons
 - name: 김동건
@@ -734,11 +722,12 @@
   slideshare: https://www.slideshare.net/ssuser2ced101
   linkedin: https://www.linkedin.com/in/dongmin-kim-635921156/
 - name: 김동범
-  blog: https://blog.dongbumkim.com
-  rss: https://blog.dongbumkim.com/feed
+  blog: https://dongbumkim.com/
+  rss: https://dongbumkim.com/feed.xml
   description: DONGBUM on blog
   github: https://github.com/dongbum
   linkedin: https://www.linkedin.com/in/dongbumkim/
+  facebook: https://www.facebook.com/dongbum9
 - name: 김동범
   blog: https://brocess.tistory.com/
   rss: https://brocess.tistory.com/rss
@@ -857,13 +846,15 @@
   slideshare: https://www.slideshare.net/MinseokKim4
   github: http://github.com/myminseok
 - name: 김민수
-  blog: http://www.kmshack.kr/
-  rss: http://www.kmshack.kr/rss
+  blog: https://blog.kmshack.kr/
+  rss: https://blog.kmshack.kr/feed.xml
   description: 안드로이드
   github: https://github.com/kmshack
   facebook: https://www.facebook.com/kmshack
   twitter: https://twitter.com/kmshack_kr
   linkedin: https://www.linkedin.com/in/kmshack/
+  home: https://kmshack.kr/
+  googleplay: https://play.google.com/store/apps/dev?id=7856146117568341459
 - name: 김민수
   blog: http://alwayspr.tistory.com/
   rss: http://alwayspr.tistory.com/rss
@@ -898,6 +889,7 @@
   rss: https://floydkim.netlify.com/rss.xml
   description: React
   github: https://github.com/floydkim
+  rocketpunch: https://www.rocketpunch.com/@minchangkimm
 - name: 김민태
   blog: https://medium.com/@ibare
   rss: https://medium.com/feed/@ibare
@@ -919,6 +911,7 @@
   rss: http://nolsigan.github.io/feed.xml
   description: ''
   github: https://github.com/nolsigan
+  twitter: https://twitter.com/_nolsigan
 - name: 김범진
   blog: https://medium.com/@beejei
   rss: https://medium.com/feed/@beejei
@@ -1000,8 +993,8 @@
   rss: https://brunch.co.kr/rss/@@ERG
   description: IT 칼럼
 - name: 김석범
-  blog: http://chaoxifer.tistory.com/
-  rss: http://chaoxifer.tistory.com/rss
+  blog: https://seokbeomkim.github.io/
+  rss: https://seokbeomkim.github.io/index.xml
   description: Linux, Windows
   github: https://github.com/seokbeomKim
 - name: 김석영
@@ -1010,10 +1003,13 @@
   description: Back-end
   github: https://github.com/deuxksy
 - name: 김석준
-  blog: http://seokjun.kr/
-  rss: http://seokjun.kr/rss/
+  blog: https://seokjun.kim/
+  rss: https://seokjun.kim/rss/
   description: React
+  github: https://github.com/colus001
   linkedin: https://www.linkedin.com/in/seokjunkim/
+  facebook: https://www.facebook.com/analogstyle
+  home: https://colus001.github.io/
 - name: 김석준
   blog: https://blog.usefulparadigm.com/@sjoonk
   description: Wordpress
@@ -1109,12 +1105,14 @@
   rss: http://greemate.tistory.com/rss
   description: 윈도우즈 커널
 - name: 김성현
-  blog: https://velog.io/@novemberoscar
-  rss: https://api.velog.io/atom/@novemberoscar
+  blog: https://seonghyeon.dev/
+  rss: https://seonghyeon.dev/rss.xml
   description: Python, Back-end
   facebook: https://www.facebook.com/seonghyeon2k18
   github: https://github.com/NovemberOscar
   twitter: https://twitter.com/NovemberOscar_
+  linkedin: https://www.linkedin.com/in/novemberoscar/
+  slides: https://slides.com/seonghyeonkim
   home: https://artoria.us/
 - name: 김성현
   blog: https://seonghyeon.dev/
@@ -1234,8 +1232,8 @@
   slideshare: https://www.slideshare.net/scarinet
   home: http://younggun.kim/
 - name: 김영빈
-  blog: https://blog.hanumoka.net/
-  rss: https://blog.hanumoka.net/atom.xml
+  blog: https://www.hanumoka.net/
+  rss: https://www.hanumoka.net/atom.xml
   description: Java
   linkedin: https://www.linkedin.com/in/youngbeen-kim-541487152/
   github: https://github.com/hanumoka
@@ -1308,11 +1306,9 @@
   linkedin: https://www.linkedin.com/in/josephkim75/
   slideshare: https://www.slideshare.net/chingu94
 - name: 김용균
-  blog: http://haruair.com/
-  rss: http://www.haruair.com/blog/feed
+  blog: https://edykim.com/ko/
+  rss: https://edykim.com/ko/feed.xml
   description: Web
-  twitter: https://twitter.com/haruair
-- name: 김용균
   github: https://github.com/edykim
   twitter: https://twitter.com/heyedykim
   linkedin: https://www.linkedin.com/in/edwardykim/
@@ -1406,11 +1402,12 @@
   linkedin: https://www.linkedin.com/in/eunhyang-kim-447812115/
   slideshare: https://www.slideshare.net/EunhyangKim2
 - name: 김은호
-  blog: http://djkeh.github.io/
-  rss: http://djkeh.github.io/feed.xml
+  blog: https://djkeh.github.io/
+  rss: https://djkeh.github.io/atom.xml
   description: Java
   facebook: https://www.facebook.com/djkehh
   github: https://github.com/djkeh
+  instagram: https://www.instagram.com/djuno.pianoguy/
 - name: 김이삭
   blog: https://lypicfa.tistory.com/
   rss: https://lypicfa.tistory.com/rss
@@ -1461,13 +1458,6 @@
   linkedin: https://www.linkedin.com/in/tcaesvk/
   twitter: https://twitter.com/tcaesvk
   slideshare: https://www.slideshare.net/tcaesvk
-- name: 김재우
-  blog: https://jscript.me/
-  rss: https://jscript.me/feed/
-  description: Blockchain
-  twitter: https://twitter.com/linkblockllc
-  facebook: https://www.facebook.com/jaewoo.life
-  medium: https://medium.com/@LinkBlock
 - name: 김재원
   blog: http://epiloum.net/
   rss: http://epiloum.net/feed
@@ -1516,10 +1506,6 @@
 - name: 김정주
   linkedin: https://www.linkedin.com/in/jeongjukim/
   slideshare: https://www.slideshare.net/ssuser163469
-- name: 김정헌
-  blog: http://feelteller.com/
-  rss: http://www.feelteller.com/rss
-  description: Android
 - name: 김정헌
   blog: https://dev-yakuza.github.io/ko/
   rss: https://dev-yakuza.github.io/ko/rss.xml
@@ -1595,15 +1581,10 @@
   github: https://github.com/infoscis
   aboutme: https://about.me/jongcheol.kim
 - name: 김종하
-  profile: people/wisedog.md
-  github: https://github.com/wisedog
   blog: https://dev.wisedog.net
-  rss: https://dev.wisedog.net/atom
-- name: 김종하
-  profile: people/wisedog.md
-  blog: http://story.wisedog.net/
-  rss: http://story.wisedog.net/feed/
-  description: 정적분석
+  rss: https://dev.wisedog.net/atom.xml
+  github: https://github.com/wisedog
+  twitter: https://twitter.com/jongha_the_dev
 - name: 김종헌
   blog: http://shovelman.tistory.com/
   rss: http://shovelman.tistory.com/rss
@@ -1620,8 +1601,8 @@
   facebook: https://www.facebook.com/profile.php?id=100010322945153
   github: https://github.com/Kim-Ju-Yeop
 - name: 김주원
-  blog: http://blog.appkr.kr/
-  rss: http://blog.appkr.kr/feed.xml
+  blog: https://blog.appkr.dev/
+  rss: https://blog.appkr.dev/feed.xml
   description: PHP
   facebook: https://www.facebook.com/juwonkimatmedotcom
   github: https://github.com/appkr
@@ -1752,7 +1733,6 @@
   speakerdeck: https://speakerdeck.com/simnalamburt
 - name: 김지형
   blog: https://roamgom.github.io/
-  rss: https://roamgom.github.io/feed
   description: Python
   github: https://github.com/roamgom
   facebook: https://www.facebook.com/roamgom
