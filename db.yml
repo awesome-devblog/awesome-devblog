@@ -6577,6 +6577,11 @@
 - name: 정경업
   facebook: https://www.facebook.com/perhapsspy
   slideshare: https://www.slideshare.net/perhapsspy
+- name: 정경원
+  blog: https://www.gamjaa.com/
+  rss: https://www.gamjaa.com/feed
+  twitter: https://twitter.com/_gamjaa
+  github: https://github.com/gamjaa
 - name: 정광섭
   blog: https://www.lesstif.com/
   description: Linux, 보안, laravel, JIRA
