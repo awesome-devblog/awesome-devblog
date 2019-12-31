@@ -1114,10 +1114,6 @@
   linkedin: https://www.linkedin.com/in/novemberoscar/
   slides: https://slides.com/seonghyeonkim
   home: https://artoria.us/
-- name: 김성현
-  blog: https://seonghyeon.dev/
-  rss: https://seonghyeon.dev/rss.xml
-  github: https://github.com/NovemberOscar
 - name: 김성호
   blog: http://shiren.github.io/
   rss: http://shiren.github.io/feed.xml
@@ -2197,10 +2193,6 @@
   rss: https://medium.com/feed/@Nam_se
   description: 게임 개발
   facebook: https://www.facebook.com/sehyeon.nam.9
-- name: 남영환
-  blog: http://www.whynam.com/
-  rss: http://www.whynam.com/feeds/posts/default
-  description: Java, Javascript, Clojure
 - name: 남윤지
   blog: https://sehajyang.github.io
   rss: https://sehajyang.github.io/atom.xml
@@ -2310,6 +2302,7 @@
   facebook: https://www.facebook.com/porchestra
   github: https://github.com/amati
   linkedin: https://www.linkedin.com/in/chanhyun-roh-51b056184/
+  instagram: https://www.instagram.com/preserde/
 - name: 노태환
   blog: https://taehwanno.github.io/
   rss: https://taehwanno.github.io/feed.xml
@@ -2357,9 +2350,6 @@
   rss: http://ryulib.tistory.com/rss
   description: ''
 - name: 류지환
-  blog: https://eclatant.io/
-  rss: https://eclatant.io/atom.xml
-  description: Ruby
   github: https://github.com/JeewhanR
   linkedin: https://www.linkedin.com/in/jeewhan-ryu-17a55110a/
 - name: 류현오
@@ -2546,11 +2536,9 @@
   description: Front-end
   github: https://github.com/bathingape
 - name: 박동호
-  blog: https://donghopark.github.io/
-  rss: https://donghopark.github.io/feed.xml
-  description: Scratch
   github: https://github.com/donghopark
   facebook: https://www.facebook.com/huedonghopark
+  linkedin: https://www.linkedin.com/in/dongho-park-941562192/
 - name: 박명호
   blog: https://qkraudghgh.github.io/
   rss: https://qkraudghgh.github.io/feed.xml
@@ -2991,9 +2979,6 @@
   description: BigData, AI
   github: https://github.com/Swalloow
 - name: 박준영
-  blog: https://b.chalk.pe/
-  rss: https://b.chalk.pe/index.xml
-  description: Ubuntu
   github: https://github.com/ChalkPE
   twitter: https://twitter.com/amato17
 - name: 박준우
@@ -3024,12 +3009,7 @@
   description: Python
   github: https://github.com/BlessingDev
 - name: 박중수
-  blog: https://danielpark.net/
-  rss: https://danielpark.net/rss
-  description: Java
-  linkedin: https://www.linkedin.com/in/jsdanielpark/
   slideshare: https://www.slideshare.net/parkjoongsoo1
-  github: https://github.com/JSDanielPark
 - name: 박지수
   blog: https://medium.com/@JisuPark
   rss: https://medium.com/feed/@JisuPark
@@ -4105,6 +4085,7 @@
 - name: 안수빈
   youtube: https://www.youtube.com/channel/UC8cvg1_oB-IDtWT2bfBC2OQ
   facebook: https://www.facebook.com/subinium
+  linkedin: https://www.linkedin.com/in/subin-an-841975110/
 - name: 안승규
   blog: http://ahnseungkyu.com/
   rss: http://ahnseungkyu.com/rss
