@@ -3400,6 +3400,11 @@
   description: 게임 개발
   twitter: https://twitter.com/kwangyulseo
   github: https://github.com/kseo/
+- name: 서동현
+  blog: https://blog.smilecat.dev/
+  rss: https://blog.smilecat.dev/rss.xml
+  description: Front-end
+  github: https://github.com/egaoneko
 - name: 서대영
   blog: http://www.daleseo.com/
   description: Javascript, AWS
