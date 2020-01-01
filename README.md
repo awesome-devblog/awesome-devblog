@@ -18,12 +18,13 @@
 1. 좋아요, 포크, 제보, 풀리퀘 모두 환영입니다.프로젝트에 관심있으시면 gitter 들어오셔서 문의바랍니다.
 
 ## 소개글
-- awesome-devblog 회고 [2017년](https://medium.com/@sarojaba/2017년-awesome-devblog-회고-294694e0f99d) [2018년](https://medium.com/@sarojaba/2018년-awesome-devblog-회고-ecf03ef16b1a)
+- awesome-devblog 회고 [2017년](https://medium.com/@sarojaba/2017년-awesome-devblog-회고-294694e0f99d) [2018년](https://medium.com/@sarojaba/2018년-awesome-devblog-회고-ecf03ef16b1a) [2019년](https://medium.com/@sarojaba/2019년-어썸데브블로그-회고-fabd24f64db8)
 - [개발자를 위한 (블로그) 글쓰기 intro](https://www.slideshare.net/zzsza/intro-102870757)
 - [기술블로그 구독서비스 개발 후기 - 1부](https://taetaetae.github.io/2018/08/05/daily-dev-blog-1/)
 - [(tech-trend) 구루들이 찾는다는 테크 트렌드 - 유명 블로그와 소셜 유명인](http://keen.devpools.kr/2017/08/03/tech-trend-03/)
 - [한국 오픈소스 프로젝트 랭킹 Top 100](https://medium.com/supple/한국-오픈소스-프로젝트-top-100-739dafc082cf) - 69위
 - [개발블로그 알림서비스 TodayDevblog_bot 개발기](https://miryang.dev/2019/06/22/Devblog-TelegramBot/)
+- [나는 LINE 개발자입니다: 라인의 개발 고수 12인의 도전과 기회, 성장의 개발 라이프](https://books.google.co.kr/books?id=2pK0DwAAQBAJ&pg=PT141&dq=awesome+devblog&hl=ko&sa=X&ved=0ahUKEwjpodLWyePmAhU-yIsBHYzGC5wQ6AEILzAB#v=onepage&q=awesome%20devblog)
 
 ## 형제자매 프로젝트
 - [AWESOME DEVBLOG(포탈)](https://awesome-devblog.netlify.com/)
