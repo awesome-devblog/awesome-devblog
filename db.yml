@@ -292,6 +292,7 @@
   rss: https://chaewonkong.github.io/atom.xml
   description: React Native
   github: https://github.com/ChaeWonKong
+  facebook: https://www.facebook.com/wonchaekong
 - name: 곽민수
   blog: https://brunch.co.kr/@imagineer
   rss: https://brunch.co.kr/rss/@@YZF
@@ -2940,6 +2941,11 @@
   twitter: https://twitter.com/JayPark_io
   github: https://github.com/jayjongcheolpark
   home: http://jaypark.io/
+- name: 박종하
+  blog: https://medium.com/@kevin_park
+  rss: https://medium.com/feed/@kevin_park
+  description: Java
+  facebook: https://www.facebook.com/underbell.park
 - name: 박종현
   blog: http://tmmse.xyz/author/park/
   rss: http://tmmse.xyz/author/park/rss/
