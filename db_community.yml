@@ -749,6 +749,8 @@
 - name: TensorFlow KR
   facebook: https://www.facebook.com/groups/TensorFlowKR/
   slack: https://tensorflowkr.slack.com/
+  github: https://github.com/tensorflowkorea
+  gitbook: https://legacy.gitbook.com/@tensorflowkorea
 - name: 캐글뽀개기
   facebook: https://www.facebook.com/groups/kagglebreak/
 - name: 데이터그램
@@ -1345,10 +1347,6 @@
   blog: https://tech.devsisters.com/
   github: https://github.com/devsisters
   home: https://www.devsisters.com/
-- name: NCSOFT
-  blog: https://blog.ncsoft.com/
-  rss: https://blog.ncsoft.com/feed/
-  facebook: https://www.facebook.com/ncsoft.official/
 - name: LG CNS
   blog: https://blog.lgcns.com/
   rss: https://blog.lgcns.com/rss
@@ -1465,3 +1463,7 @@
   rss: https://zuminternet.github.io/feed.xml
 - name: 보안프로젝트
   youtube: https://www.youtube.com/channel/UC7X47oW4QqJS9z4uanD9qIw
+- name: 책 읽는 프로그래머
+  facebook: https://www.facebook.com/groups/hanbitreaders/
+- name: IT 인프라 엔지니어 그룹
+  facebook: https://www.facebook.com/groups/InfraEngineer/
