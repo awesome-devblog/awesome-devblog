@@ -436,9 +436,6 @@
 - name: 엠비안
   blog: http://blog.embian.com/
   rss: http://blog.embian.com/rss
-- name: 오라클 클라우드
-  blog: http://www.oracloud.kr/
-  rss: http://www.oracloud.kr/index.xml
 - name: 우아한형제들
   blog: http://woowabros.github.io
   rss: http://woowabros.github.io/feed.xml
@@ -477,6 +474,7 @@
   rss: https://aws.amazon.com/ko/blogs/korea/feed/
   facebook: https://www.facebook.com/amazonwebservices.ko/
   twitter: https://twitter.com/awskorea
+  slideshare: https://www.slideshare.net/awskorea
 - name: developerWorks Korea
   blog: https://developer.ibm.com/kr/blog/
   rss: https://developer.ibm.com/kr/blog/feed/
@@ -657,6 +655,7 @@
   googleplus: https://plus.google.com/communities/112409570772055358734
   youtube: https://www.youtube.com/channel/UCid525Nc3OXk6SjLZ28cX5Q
   slack: https://ubuntu-kr.slack.com/
+  slideshare: https://www.slideshare.net/UbuntuKorea
 - name: KLDP
   home: https://kldp.org/
   blog: https://kldp.org/blog
@@ -1270,6 +1269,7 @@
   description: 웹 표준, 접근성
 - name: 넷매니아즈
   home: https://www.netmanias.com/ko/
+  slideshare: https://www.slideshare.net/netmanias-ko
 - name: 당근마켓
   blog: https://medium.com/daangn
   twitter: https://twitter.com/danggeunteam
@@ -1282,6 +1282,7 @@
   description: 비전, 머신 러닝
 - name: 리디북스
   blog: https://www.ridicorp.com/blog/
+  speakerdeck: https://speakerdeck.com/ridi
 - name: 리모트몬스터
   blog: https://blog.remotemonster.com/
   description: WebRTC
@@ -1333,6 +1334,9 @@
 - name: 패스트캠퍼스
   blog: http://blog.fastcampus.co.kr/
   rss: http://blog.fastcampus.co.kr/rss
+  slideshare: https://www.slideshare.net/fastcampus
+  facebook: https://www.facebook.com/fastcampus/
+  home: https://www.fastcampus.co.kr/
 - name: YodaCodd
   blog: https://medium.com/@codesquad_yoda
   rss: https://medium.com/feed/@codesquad_yoda
@@ -1467,3 +1471,17 @@
   facebook: https://www.facebook.com/groups/hanbitreaders/
 - name: IT 인프라 엔지니어 그룹
   facebook: https://www.facebook.com/groups/InfraEngineer/
+- name: devCAT Studio
+  home: https://devcat.com/
+  twitter: https://twitter.com/devCAT_official
+  facebook: https://www.facebook.com/devCAT.official
+  instagram: https://www.instagram.com/devcat.studio_official/
+  slideshare: https://www.slideshare.net/devcatpublications
+- name: jbugkorea
+  slideshare: https://www.slideshare.net/jbugkorea
+- name: Oracle Korea
+  home: https://www.oracle.com/kr/index.html
+  slideshare: https://www.slideshare.net/OracleDeveloperkr
+  facebook: https://www.facebook.com/groups/koreaoraclecloud/
+- name: 유미테크
+  slideshare: https://www.slideshare.net/ymtech
