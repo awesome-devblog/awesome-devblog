@@ -7606,6 +7606,11 @@
   rss: https://smothly.github.io/feed.xml
   description: Big Data, Backend
   github: https://github.com/smothly
+- name: 최영록
+  blog: https://yrok.tistory.com/
+  rss: https://yrok.tistory.com/rss
+  facebook: https://www.facebook.com/RakkuPlace
+  linkedin: https://www.linkedin.com/in/rakku/
 - name: 최영훈
   blog: https://velog.io/@jeff0720
   rss: https://api.velog.io/atom/@jeff0720
