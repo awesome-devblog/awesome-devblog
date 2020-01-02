@@ -620,7 +620,7 @@
   description: JPA
   github: https://github.com/namjunemy
 - name: 김남훈
-  blog: http://namhoon.kim/
+  blog: https://namhoon.kim/
   rss: https://namhoon.kim/atom.xml
   description: Jekyll, Firebase Korea
   github: https://github.com/mydamyda
@@ -4741,6 +4741,13 @@
   blog: https://velog.io/@youhogeon
   rss: https://api.velog.io/atom/@youhogeon
   description: Javascript
+- name: 유홍근
+  blog: https://coffeewhale.com/
+  rss: https://coffeewhale.com/feed
+  description: Machine Learning
+  facebook: https://www.facebook.com/mark8625
+  github: https://github.com/hongkunyoo
+  linkedin: https://www.linkedin.com/in/hongkunyoo/
 - name: 유희철
   blog: https://medium.com/@ryuheechul
   rss: https://medium.com/feed/@ryuheechul
@@ -5572,6 +5579,7 @@
   blog: https://leeyh0216.github.io/
   rss: https://leeyh0216.github.io/feed
   description: Java, Spark
+  github: https://github.com/leeyh0216
 - name: 이욱진
   blog: http://name267.tistory.com/
   rss: http://name267.tistory.com/rss
@@ -6926,10 +6934,6 @@
   blog: https://korchris.github.io/
   description: ''
   github: https://github.com/KorChris
-- name: 정창수
-  blog: http://downman.tistory.com/
-  rss: http://downman.tistory.com/rss
-  description: C
 - name: 정창훈
   blog: https://code.iamseapy.com/
   rss: https://code.iamseapy.com/feed
@@ -7338,10 +7342,6 @@
   blog: https://minwan1.github.io/
   description: Stpring
   github: https://github.com/minwan1
-- name: 진성주
-  blog: http://softwaregeeks.org/
-  rss: http://softwaregeeks.org/feed/
-  description: 오픈소스
 - name: 진성주
   blog: https://evanjin.dev/
   rss: https://evanjin.dev/rss.xml
