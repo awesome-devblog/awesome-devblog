@@ -7025,6 +7025,10 @@
   blog: https://medium.com/@manyoung
   rss: https://medium.com/feed/@manyoung
   description: Web
+- name: 조민국
+  blog: https://blog.naver.com/mingooddev
+  rss: https://rss.blog.naver.com/mingooddev.xml
+  facebook: https://www.facebook.com/mingood
 - name: 조민규
   blog: https://medium.com/@pitzcarraldo
   rss: https://medium.com/feed/@pitzcarraldo
@@ -7310,6 +7314,7 @@
   rss: https://jay-ji.tistory.com/feed
   description: 기술 블로그
   github: https://github.com/JAY-Chan9yu
+  facebook: https://www.facebook.com/changyu.ji.7
 - name: 진민규
   blog: https://medium.com/@justin_jin
   rss: https://medium.com/feed/@justin_jin
