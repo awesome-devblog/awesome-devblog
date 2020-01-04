@@ -5160,10 +5160,11 @@
 - name: 이무열
   blog: https://mooyoul.github.io/
   rss: https://mooyoul.github.io/atom.xml
-  description: ''
+  description: 'AWS, Serverless, Node.js'
   github: https://github.com/mooyoul
   linkedin: https://www.linkedin.com/in/mooyoul/
   slideshare: https://www.slideshare.net/mooyoul
+  home: https://debug.so
 - name: 이민구
   blog: https://medium.com/@premist
   rss: https://medium.com/feed/@premist
