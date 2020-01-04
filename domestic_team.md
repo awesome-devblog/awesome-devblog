@@ -39,6 +39,7 @@
 | 보드나라 | http://www.bodnara.co.kr/ | IT 뉴스 |
 | 보안뉴스 | http://www.boannews.com/ | 보안 |
 | 블로터 | http://www.bloter.net/ | IT 뉴스 |
+| 빙글 테크블로그 | https://medium.com/vingle-tech-blog | |
 | 솔라나라 | http://www.solanara.net/ | 솔라리스 |
 | 스타일쉐어 | http://styleshare.github.io/ | |
 | 스타트링크 | https://blog.startlink.io/ | |
