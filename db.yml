@@ -4924,6 +4924,10 @@
   blog: https://geonlee.tistory.com/
   rss: https://geonlee.tistory.com/rss
   facebook: https://www.facebook.com/thisisismyname
+- name: 이건모
+  blog: https://velog.io/@george
+  rss: https://api.velog.io/atom/@george
+  description: Front-end
 - name: 이건희
   linkedin: https://www.linkedin.com/in/gunhee-lee-46b21312a/
   slideshare: https://www.slideshare.net/GunheeLee2
@@ -4974,12 +4978,13 @@
   rss: http://www.kwangsiklee.com/ko/feed/
   description: DevOps
 - name: 이광용
-  blog: https://velog.io/@gwangyonglee
-  rss: https://api.velog.io/atom/@gwangyonglee
+  blog: https://gwangyonglee.tistory.com/
+  rss: https://gwangyonglee.tistory.com/rss
   description: iOS
   github: https://github.com/gwangyonglee
   facebook: https://www.facebook.com/gwangyongleee
   linkedin: https://www.linkedin.com/in/gwangyonglee
+  velog: https://velog.io/@gwangyonglee
 - name: 이광헌
   blog: http://honeyperl.tistory.com/
   rss: http://honeyperl.tistory.com/rss
