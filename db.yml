@@ -5686,6 +5686,10 @@
   facebook: https://www.facebook.com/jaeyo.developer
   twitter: https://twitter.com/lastiverse
   github: https://github.com/jaeyo
+- name: 이재원
+  blog: https://velog.io/@jwlee010523
+  rss: https://api.velog.io/atom/@jwlee010523
+  github: https://github.com/ijaewon
 - name: 이재현
   blog: http://www.unity3dstudy.com/
   rss: http://www.unity3dstudy.com/feed
