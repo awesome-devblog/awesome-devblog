@@ -1631,6 +1631,7 @@
   description: React Native
   github: https://github.com/KJunseo
   facebook: https://www.facebook.com/profile.php?id=100006999123503
+  naver: https://blog.naver.com/max9106
 - name: 김준성
   blog: https://brunch.co.kr/@codertimo
   rss: https://brunch.co.kr/rss/@@Gyh
@@ -6291,6 +6292,10 @@
   blog: http://mooneegee.blogspot.kr/
   rss: https://mooneegee.blogspot.com/feeds/posts/default
   description: 3D
+- name: 장봄
+  blog: https://velog.io/@denmark-choco
+  rss: https://api.velog.io/atom/@denmark-choco
+  description: Front-end
 - name: 장선우
   blog: https://sjquant.github.io/
   rss: https://sjquant.github.io/feed.xml
