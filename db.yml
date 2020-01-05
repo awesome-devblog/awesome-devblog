@@ -671,6 +671,10 @@
   github: https://github.com/hatemogi
   twitter: https://twitter.com/hatemogi
   medium: https://medium.com/@hatemogi
+- name: 김대현
+  blog: https://velog.io/@denmark-banana
+  rss: https://api.velog.io/atom/@denmark-banana
+  github: https://github.com/denmark-banana
 - name: 김대희
   facebook: https://www.facebook.com/day.kim.7
   github: https://github.com/zsaladin
