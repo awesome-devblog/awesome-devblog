@@ -5837,9 +5837,13 @@
   rss: https://brunch.co.kr/rss/@@QFh
   description: 해외 취업
 - name: 이준형
-  blog: https://gompro.postype.com/
-  rss: https://gompro.postype.com/rss/
+  blog: https://velog.io/@leejh3224
+  rss: https://api.velog.io/atom/@leejh3224
   description: Node.js, AWS
+  github: https://github.com/leejh3224
+  stackoverflow: https://stackoverflow.com/users/7424027/이준형
+  postype: https://gompro.postype.com/
+  home: https://gompro.io/
 - name: 이준호
   blog: http://www.vonzone.kr/
   description: 기획
