@@ -4583,6 +4583,11 @@
   blog: https://wondongho.tistory.com/
   rss: https://wondongho.tistory.com/rss
   description: Back-end
+- name: 원동휘
+  blog: https://velog.io/@donghwi
+  rss: https://api.velog.io/atom/@donghwi
+  description: Front-end
+  github: https://github.com/wondonghwi
 - name: 원종석
   blog: https://tedwon.com/
   description: Data Processing
