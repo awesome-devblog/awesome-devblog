@@ -4322,6 +4322,11 @@
   blog: https://brunch.co.kr/@jisuyang
   rss: https://brunch.co.kr/rss/@@iqk
   description: IT 칼럼
+- name: 양찬모
+  blog: https://velog.io/@jjanmo
+  rss: https://api.velog.io/atom/@jjanmo
+  description: Algorithm
+  github: https://github.com/jjanmo
 - name: 양현석
   blog: https://medium.com/@FourwingsY
   rss: https://medium.com/feed/@FourwingsY
