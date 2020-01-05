@@ -6151,6 +6151,10 @@
   blog: https://wariua.github.io/
   description: 네트워크
   github: https://github.com/wariua
+- name: 임수진
+  blog: https://velog.io/@ssuda
+  rss: https://api.velog.io/atom/@ssuda
+  description: OS
 - name: 임재연
   blog: https://imreplay.com/
   rss: https://imreplay.com/feed.xml
