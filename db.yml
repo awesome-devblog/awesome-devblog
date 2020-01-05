@@ -2097,6 +2097,10 @@
   rss: https://blog.cometkim.kr/rss.xml
   description: Mattermost
   github: https://github.com/cometkim
+- name: 김혜진
+  blog: https://velog.io/@yejinh
+  rss: https://api.velog.io/atom/@yejinh
+  github: https://github.com/yejinh
 - name: 김호동
   blog: http://cogniti-works.blogspot.kr/
   rss: http://cogniti-works.blogspot.com/feeds/posts/default
