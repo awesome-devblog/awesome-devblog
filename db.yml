@@ -8483,3 +8483,8 @@
   rss: https://umanking.github.io/feed.xml
   description: Java, Spring, JPA
   github: https://github.com/umanking
+- name: 이창섭
+  blog: https://sundries-in-myidea.tistory.com/
+  rss: https://sundries-in-myidea.tistory.com/rss
+  description: Java, Spring, 알고리즘, 웹프로그래밍
+  github: https://github.com/ventulus95
