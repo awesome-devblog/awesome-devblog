@@ -4294,9 +4294,9 @@
   description: Java, Spring
   github: https://github.com/yangbongsoo
 - name: 양상현
-  blog: http://medium.com/@tech.yangs
-  rss: https://medium.com/feed/@tech.yangs
-  description: AWS,서버
+  blog: http://tech.yangs.kr
+  rss: http://tech.yangs.kr/rss
+  description: 서버
   github: https://github.com/yangs1202
 - name: 양성민
   blog: https://velog.io/@chris
