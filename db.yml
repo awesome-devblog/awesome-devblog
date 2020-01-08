@@ -6001,7 +6001,7 @@
   blog: https://blog.naver.com/openwiki
   rss: https://rss.blog.naver.com/openwiki.xml
   description: Jenkins, Atlassian
-  youtube: https://www.youtube.com/channel/UC_MinTXO3V4mhbjV3nd32PA  
+  youtube: https://www.youtube.com/channel/UC_MinTXO3V4mhbjV3nd32PA
 - name: 이치웅
   blog: https://chichi.space/
   rss: https://chichi.space/rss.xml
@@ -7270,6 +7270,16 @@
   blog: http://incredible.ai/
   rss: http://incredible.ai/feed.xml
   description: AI
+- name: 조철제
+  blog: https://falsy.me/
+  rss: https://falsy.me/feed
+  github: https://github.com/falsy
+  youtube: https://www.youtube.com/channel/UC5zgVLAx70lItjB9gfFAwmw
+  description: Front-end
+- name: 조현석
+  blog: https://dev.zzoman.com/
+  rss: https://dev.zzoman.com/atom.xml
+  description: Front-end
 - name: 조현영(ZeroCho)
   blog: https://www.zerocho.com/
   rss: https://www.zerocho.com/api/rss.xml
@@ -7278,10 +7288,6 @@
   github: https://github.com/zerocho
   youtube: https://www.youtube.com/channel/UCp-vBtwvBmDiGqjvLjChaJw
   npm: https://www.npmjs.com/~zerocho
-- name: 조현석
-  blog: https://dev.zzoman.com/
-  rss: https://dev.zzoman.com/atom.xml
-  description: Front-end
 - name: 조현제
   blog: http://hyunje.com/
   rss: http://hyunje.com/feed.xml
