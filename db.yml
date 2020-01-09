@@ -2308,12 +2308,11 @@
   instagram: https://www.instagram.com/ttongfly/
   linkedin: https://www.linkedin.com/in/jaewoong-roh-588b3646/
 - name: 노찬우
-  blog: https://rajephon.github.io/blog/
-  rss: https://rajephon.github.io/blog/feed.xml
-  description: Erlang, iOS
+  blog: https://blog.rajephon.dev/
+  rss: https://blog.rajephon.dev/feed.xml
+  description: Erlang, 백엔드, iOS
   github: https://github.com/rajephon
   linkedin: https://www.linkedin.com/in/chanwoo-noh-799b79141/
-  instagram: https://www.instagram.com/rajephon/
   stackoverflow: https://stackoverflow.com/users/5286905/rajephon
 - name: 노찬현
   blog: https://amati.io/
