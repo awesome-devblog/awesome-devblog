@@ -2439,6 +2439,13 @@
   github: https://github.com/doorBW
 - name: 문석환
   slideshare: https://www.slideshare.net/SeokhwanMoon
+- name: 문성영
+  blog: https://moonspam.github.io/
+  rss: https://moonspam.github.io/feed.xml
+  description: Front-end
+  github: https://github.com/moonspam
+  linkedin: https://www.linkedin.com/in/moonspam/
+  codepen: https://codepen.io/moonspam/
 - name: 문성훈
   blog: https://moon9342.github.io/
   rss: https://moon9342.github.io/feed.xml
