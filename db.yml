@@ -4960,8 +4960,11 @@
   description: Android, Vue
 - name: 이건
   blog: https://geonlee.tistory.com/
+  github: https://github.com/dl0312/
+  linkedin: https://www.linkedin.com/in/geon-lee-26771614b/
   rss: https://geonlee.tistory.com/rss
   facebook: https://www.facebook.com/thisisismyname
+  description: '프론트엔드 엔지니어'
 - name: 이건모
   blog: https://velog.io/@george
   rss: https://api.velog.io/atom/@george
