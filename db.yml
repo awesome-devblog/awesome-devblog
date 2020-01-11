@@ -3284,6 +3284,10 @@
   facebook: https://www.facebook.com/jaemin.bae
   linkedin: https://www.linkedin.com/in/jaemin-bae/
   home: http://www.simple.pe.kr/
+- name: 배주웅
+  blog: https://juungbae.github.io/
+  rss: https://juungbae.github.io/feed.xml
+  github: https://github.com/juungbae
 - name: 배지원
   blog: https://medium.com/jiwon-bae
   rss: https://medium.com/feed/jiwon-bae
@@ -7527,6 +7531,7 @@
   rocketpunch: https://www.rocketpunch.com/@jonghui
 - name: 최강진
   blog: https://open-but-closed.com/
+  github: https://github.com/open-but-closed
 - name: 최경돈
   slideshare: https://www.slideshare.net/KyungDonChoi
   linkedin: https://www.linkedin.com/in/kyung-don-choi-625977a2/
