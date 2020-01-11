@@ -6131,6 +6131,10 @@
   description: Algorithm, Django
   facebook: https://www.facebook.com/wayhome25
   github: https://github.com/wayhome25
+- name: 이현주
+  blog: https://alro923.github.io/
+  rss: https://alro923.github.io/feed.xml
+  github: https://github.com/alro923
 - name: 이혜성
   blog: https://blog.silentsoft.org/
   rss: https://blog.silentsoft.org/feed.xml
