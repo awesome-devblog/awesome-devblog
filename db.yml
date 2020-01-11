@@ -6361,6 +6361,11 @@
   blog: http://mooneegee.blogspot.kr/
   rss: https://mooneegee.blogspot.com/feeds/posts/default
   description: 3D
+- name: 장범준
+  blog: https://tjtdkr.me/
+  rss: https://tjtdkr.me/feed.xml
+  github: https://github.com/tjtdkr
+  facebook: https://www.facebook.com/tjtdkr
 - name: 장봄
   blog: https://velog.io/@denmark-choco
   rss: https://api.velog.io/atom/@denmark-choco
