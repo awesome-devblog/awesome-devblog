@@ -3464,7 +3464,7 @@
   blog: https://velog.io/@tbvjaos510
   rss: https://api.velog.io/atom/@tbvjaos510
   github: https://github.com/tbvjaos510
-  name: 서송이
+- name: 서송이
   blog: https://songii00.github.io/
   rss: https://songii00.github.io/atom.xml
   github: https://github.com/songii00/
@@ -7525,6 +7525,8 @@
   facebook: https://www.facebook.com/ijonghui
   github: https://github.com/jong-hui
   rocketpunch: https://www.rocketpunch.com/@jonghui
+- name: 최강진
+  blog: https://open-but-closed.com/
 - name: 최경돈
   slideshare: https://www.slideshare.net/KyungDonChoi
   linkedin: https://www.linkedin.com/in/kyung-don-choi-625977a2/
