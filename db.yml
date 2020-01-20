@@ -1461,6 +1461,11 @@
   rss: https://api.velog.io/atom/@dlsghl92
   description: 보안뉴스, 크롤링
   github: https://github.com/pottybear
+- name: 김인회
+  blog: https://blog.naver.com/gngh0101
+  rss: https://rss.blog.naver.com/gngh0101.xml
+  description: Java, Spring(MVC, Webflux, Cloud), JPA
+  github: https://github.com/hotire
 - name: 김재곤
   linkedin: https://www.linkedin.com/in/재곤-김-21b283119/
   github: https://github.com/jaegon-kim
