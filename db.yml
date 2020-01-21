@@ -2491,6 +2491,12 @@
   description: ''
   facebook: https://www.facebook.com/moonj
   aladin: https://www.aladin.co.kr/author/wauthor_overview.aspx?AuthorSearch=@6307552
+- name: 문지형
+  blog: https://inmoonlight.github.io/
+  rss: https://inmoonlight.github.io/feed.xml
+  description: NLP, Deep Learning, Machine Learning, Reviews
+  github: https://github.com/inmoonlight
+  slideshare: https://www.slideshare.net/JiHyungMoon1
 - name: 문진수
   linkedin: https://www.linkedin.com/in/jinsu-moon-3a5a73a4/
   slideshare: https://www.slideshare.net/jinsumoon33
