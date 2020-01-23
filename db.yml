@@ -4577,6 +4577,12 @@
   rss: http://12bme.tistory.com/rss
   description: Java
   github: https://github.com/12bme
+- name: 오진선
+  blog: https://ohjinjin.github.io/
+  rss: https://ohjinjin.github.io/feed.xml
+  description: Machine Learning
+  facebook: https://www.facebook.com/profile.php?id=100005514605569
+  github: https://github.com/ohjinjin
 - name: 오진성
   blog: https://brunch.co.kr/@intmain
   rss: https://brunch.co.kr/rss/@@vaR
