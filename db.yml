@@ -887,6 +887,8 @@
   rss: https://brunch.co.kr/rss/@@16ei
   description: 데이터 분석
   facebook: https://www.facebook.com/minwoo.minu
+  slideshare: https://www.slideshare.net/minwoo84
+  linkedin: https://www.linkedin.com/in/minwookim/
 - name: 김민장
   blog: http://minjang.github.io/
   rss: http://minjang.github.io/feed.xml
@@ -3684,6 +3686,15 @@
   linkedin: https://www.linkedin.com/in/scinix/
   twitter: https://twitter.com/scinix
   stackoverflow: https://stackoverflow.com/users/1111002/sio4
+- name: 손계원
+  blog: https://sihan-son.github.io/
+  rss: https://sihan-son.github.io/feed.xml
+  facebook: https://www.facebook.com/sihan830
+  linkedin: https://www.linkedin.com/in/sihan-son-b43806120/
+  github: https://github.com/Sihan-Son
+  instagram: https://www.instagram.com/sihan_k_son/
+  steam: https://steamcommunity.com/id/sihan830
+  soundcloud: https://soundcloud.com/sihan-son
 - name: 손권남
   blog: http://kwon37xi.egloos.com/
   rss: http://rss.egloos.com/blog/kwon37xi
