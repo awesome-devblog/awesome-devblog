@@ -714,6 +714,11 @@
 - name: 김도현
   blog: http://loboprix.com/
   description: ''
+- name: 김도현
+  blog: https://blog.naver.com/do9562
+  rss: https://rss.blog.naver.com/do9562.xml
+  description: Algorithm
+  github: https://github.com/kimdohyun14
 - name: 김도형
   blog: https://brunch.co.kr/@iliyard
   rss: https://brunch.co.kr/rss/@@HP3
