@@ -1495,3 +1495,9 @@
 - name: 네이버 클라우드 플랫폼
   blog: https://blog.naver.com/n_cloudplatform
   rss: https://rss.blog.naver.com/n_cloudplatform.xml
+- name: WATCHA
+  blog: https://medium.com/watcha
+  rss: https://medium.com/feed/watcha
+  twitter: https://twitter.com/watcha_app
+  facebook: https://www.facebook.com/watchaInc/
+  home: https://team.watcha.com/
