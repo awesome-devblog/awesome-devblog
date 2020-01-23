@@ -3887,7 +3887,9 @@
 - name: 송호연
   blog: https://brunch.co.kr/@chris-song/
   rss: https://brunch.co.kr/rss/@@IgT
-  description: ''
+  description: AI
+  facebook: https://www.facebook.com/ai.chris.chris
+  youtube: https://www.youtube.com/channel/UC7O3FUfsi3DTc5dYTC57YTA
 - name: 송호원
   home: https://howonsong.com/
   linkedin: https://www.linkedin.com/in/howonsong/
@@ -7365,6 +7367,8 @@
   blog: http://incredible.ai/
   rss: http://incredible.ai/feed.xml
   description: AI
+  facebook: https://www.facebook.com/profile.php?id=100004390836029
+  youtube: https://www.youtube.com/channel/UCGig4R-RYBUeuxGchnQZY8Q
 - name: 조철제
   blog: https://falsy.me/
   rss: https://falsy.me/feed
@@ -8442,6 +8446,10 @@
   rss: https://medium.com/feed/@codenamehong
   description: Swift
   twitter: https://twitter.com/hcn1518
+- name: 홍창수
+  blog: https://brunch.co.kr/@gauss92tgrd#info
+  rss: https://brunch.co.kr/rss/@@5jl5
+  description: Data Science
 - name: 홍철주
   blog: https://medium.com/@angdev
   rss: https://medium.com/feed/@angdev

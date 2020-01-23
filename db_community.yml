@@ -1492,3 +1492,9 @@
   rss: https://tech.socarcorp.kr/feed.xml
   facebook: https://www.facebook.com/socarsharing
   home: https://www.socar.kr/
+- name: Incheon Dev's
+  home: https://incheon.devs.co.kr/
+  facebook: https://www.facebook.com/Incheon-Devs-339128023433615/
+- name: 네이버 클라우드 플랫폼
+  blog: https://blog.naver.com/n_cloudplatform
+  rss: https://rss.blog.naver.com/n_cloudplatform.xml
