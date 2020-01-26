@@ -1225,6 +1225,11 @@
   rss: https://lumiloves.github.io/feed.xml
   description: Front-end
   github: https://github.com/lumiloves
+- name: 김아형
+  blog: https://llmooon.github.io/blog/
+  rss: https://llmooon.github.io/feed.xml
+  description: Algorithm
+  github: https://github.com/llmooon
 - name: 김연민
   slideshare: https://www.slideshare.net/yeonminkim
   linkedin: https://www.linkedin.com/in/yeonmin-kim-811950116/
