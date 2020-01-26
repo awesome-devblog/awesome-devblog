@@ -803,6 +803,9 @@
   rss: https://wraithkim.wordpress.com/feed/
   description: Algorithm
   github: https://github.com/WraithKim
+- name: 김래영
+  blog: https://velog.io/@760kry
+  rss: https://api.velog.io/atom/@760kry
 - name: 김래형
   slideshare: https://www.slideshare.net/rerongs
 - name: 김만수
