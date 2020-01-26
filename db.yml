@@ -2464,6 +2464,7 @@
   description: Web, JavaScript, Graphics
   github: https://github.com/evan-moon
   linkedin: https://www.linkedin.com/in/evan-moon/
+  aladin: https://www.aladin.co.kr/author/wauthor_overview.aspx?AuthorSearch=@7243466
 - name: 문범우
   blog: https://doorbw.tistory.com/
   rss: https://doorbw.tistory.com/rss
@@ -2482,6 +2483,10 @@
   rss: https://moon9342.github.io/feed.xml
   description: Angular
   github: https://github.com/moon9342
+- name: 문수복
+  blog: https://sbmoon.tistory.com/
+  rss: https://sbmoon.tistory.com/rss
+  description: Computer Science
 - name: 문승환
   blog: http://shanemoon.com/
   linkedin: https://www.linkedin.com/in/shmoon/
