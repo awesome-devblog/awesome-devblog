@@ -6372,6 +6372,11 @@
   description: Web
   github: https://github.com/findawayer
   home: https://findawayer.github.io/
+- name: 임택
+  blog: https://velog.io/@victor
+  rss: https://api.velog.io/atom/@victor
+  description: Algorithm
+  github: https://github.com/intothedeep
 - name: 임한솔
   description: Web
   github: https://github.com/hsol
