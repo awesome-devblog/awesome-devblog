@@ -1713,6 +1713,10 @@
   home: https://mciastek.github.io/sal/
   github: https://github.com/mciastek/sal
   tags: [Animation]
+- name: Samza
+  home: http://samza.apache.org/
+  github: https://github.com/apache/samza
+  tags: [Steam Processing Framework]
 - name: Sanic
   home: https://sanic.readthedocs.io/
   github: https://github.com/channelcat/sanic
