@@ -1646,6 +1646,13 @@
   facebook: https://www.facebook.com/juwonkimatmedotcom
   github: https://github.com/appkr
   youtube: https://www.youtube.com/channel/UC6dl9UkHuEWtD1QZUnvCiEw
+- name: 김주호
+  blog: http://www.mcpanic.com/
+  rss: http://feeds.feedburner.com/mcpanic
+  description: HCI
+  twitter: https://twitter.com/imjuhokim
+  facebook: https://www.facebook.com/juho.kim
+  home: http://juhokim.com/
 - name: 김준기
   blog: https://daybreaker.info/
   github: https://github.com/achimnol
@@ -2862,6 +2869,7 @@
   rss: http://feeds.feedburner.com/bakyeono
   description: Python
   github: https://github.com/bakyeono
+  aladin: https://www.aladin.co.kr/author/wauthor_overview.aspx?AuthorSearch=@6241870
 - name: 박영록
   blog: http://youngrok.com/
   description: 위키나무
