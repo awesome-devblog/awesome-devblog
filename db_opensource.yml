@@ -3,6 +3,12 @@
   home: http://activemq.apache.org/
   github: https://github.com/apache/activemq
   tags: [Message Broker]
+- name: Actix
+  home: https://actix.rs/
+  github: https://github.com/actix/actix
+  reddit: https://www.reddit.com/r/actix/
+  gitter: https://gitter.im/actix/actix
+  tags: [Rust, Actor Framework]
 - name: Adonis
   home: https://adonisjs.com/
   github: https://github.com/adonisjs/adonis-framework
@@ -112,6 +118,7 @@
   tags: [KVM]
 - name: Bat
   github: https://github.com/sharkdp/bat
+  crates: https://crates.io/crates/bat
   tags: [CLI]
 - name: Bazel
   home: https://bazel.build/
@@ -439,6 +446,10 @@
   gitter: https://gitter.im/eslint/eslint
   awesome: https://github.com/dustinspecker/awesome-eslint
   tags: [Javascript, Lint]
+- name: exa
+  home: https://the.exa.website/
+  github: https://github.com/ogham/exa
+  tags: [CLI]
 - name: excel4node
   github: https://github.com/natergj/excel4node
   npm: https://www.npmjs.com/package/excel4node
@@ -604,6 +615,10 @@
   gitter: https://gitter.im/ethereum/go-ethereum
   discord: https://discordapp.com/invite/nthXNEv
   tags: [Block Chain]
+- name: GoAccess
+  home: https://goaccess.io/
+  github: https://github.com/allinurl/goaccess
+  tags: [Log Analyzer]
 - name: Godot
   home: https://godotengine.org/
   github: https://github.com/godotengine/godot
@@ -969,6 +984,10 @@
   home: http://libuv.org/
   github: https://github.com/libuv/libuv
   tags: [C, Async I/O]
+- name: Life
+  github: https://github.com/perlin-network/life
+  discord: https://discordapp.com/invite/dMYfDPM
+  tags: [WebAssembly]
 - name: LightTable
   home: http://lighttable.com/
   github: https://github.com/LightTable/LightTable
@@ -1232,6 +1251,10 @@
   github: https://github.com/netdata/netdata
   twitter: https://twitter.com/linuxnetdata
   tags: [Monitoring]
+- name: Nebulet
+  github: https://github.com/nebulet/nebulet
+  gitter: https://gitter.im/nebulet/nebulet
+  tags: [WebAssembly]
 - name: Neutralinojs
   home: https://neutralino.js.org/
   github: https://github.com/neutralinojs/neutralinojs
@@ -1399,6 +1422,10 @@
   slack: http://www.perfect.ly/
   stackoverflow: https://stackoverflow.com/questions/tagged/perfect
   tags: [Swift, Web Framework]
+- name: Playwright
+  github: https://github.com/microsoft/playwright
+  npm: https://www.npmjs.com/package/playwright
+  tags: [Automation]
 - name: Polka
   github: https://github.com/lukeed/polka
   npm: https://www.npmjs.com/package/polka
@@ -1480,6 +1507,10 @@
   forum: https://groups.google.com/forum/#!forum/protobuf
   stackoverflow: https://stackoverflow.com/questions/tagged/protocol-buffers
   tags: [RPC]
+- name: Pulsar
+  home: https://pulsar.apache.org
+  github: https://github.com/apache/pulsar
+  tags: [Message Broker]
 - name: Puppet
   home: https://puppet.com/
   github: https://github.com/puppetlabs/puppet
@@ -1511,6 +1542,11 @@
   forum: https://discuss.pytorch.org/
   awesome: https://github.com/bharathgs/Awesome-pytorch-list
   tags: [Machine Learning]
+- name: Quarkus
+  home: https://quarkus.io/
+  github: https://github.com/quarkusio/quarkus
+  zulip: https://quarkusio.zulipchat.com
+  tags: [Java, Back-end Framework]
 - name: Quasar
   home: https://quasar-framework.org/
   github: https://github.com/quasarframework/quasar
@@ -1618,6 +1654,10 @@
   twitter: https://twitter.com/riotjs_
   awesome: https://github.com/pankajparashar-zz/awesome-riotjs
   tags: [Javascript, Front-end Framework]
+- name: ripgrep
+  github: https://github.com/BurntSushi/ripgrep
+  crates: https://crates.io/crates/ripgrep
+  tags: [CLI]
 - name: Rocket
   home: https://rocket.rs/
   github: https://github.com/SergioBenitez/Rocket
@@ -1793,6 +1833,12 @@
   home: https://oguzhaninan.github.io/Stacer-Web/
   github: https://github.com/oguzhaninan/Stacer
   tags: [Monitoring]
+- name: Starship
+  home: https://starship.rs/
+  github: https://github.com/starship/starship
+  discord: https://discordapp.com/invite/8Jzqu3T
+  crates: https://crates.io/crates/starship
+  tags: [Shell]
 - name: Storm
   home: http://storm.apache.org/
   github: https://github.com/apache/storm
@@ -1813,6 +1859,10 @@
   twitter: https://twitter.com/swiftlang
   awesome: https://github.com/matteocrippa/awesome-swift
   tags: [Programming Language]
+- name: systemd
+  home: https://systemd.io/
+  github: https://github.com/systemd/systemd
+  tags: [System Manager]
 - name: TensorFlow
   home: https://www.tensorflow.org/
   github: https://github.com/tensorflow/tensorflow
@@ -2080,3 +2130,9 @@
   gitter: https://gitter.im/statecharts/statecharts
   npm: https://www.npmjs.com/package/xstate
   tags: [State, Javascript]
+- name: Yew
+  home: https://yew.rs/
+  github: https://github.com/yewstack/yew
+  gitter: https://gitter.im/yewframework/Lobby
+  crates: https://crates.io/crates/yew
+  tags: [Rust, Web Framework]
