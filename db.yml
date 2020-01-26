@@ -6562,6 +6562,12 @@
   description: Python
   facebook: https://www.facebook.com/simonjisu
   github: https://github.com/simonjisu
+- name: 장창섭
+  blog: https://velog.io/@changsubchang
+  rss: https://api.velog.io/atom/@changsubchang
+  github: https://github.com/changsubchang
+  facebook: https://www.facebook.com/changsubchang
+  linkedin: https://www.linkedin.com/in/changsubchang/
 - name: 장한빈
   blog: http://dork94.tistory.com/
   rss: http://dork94.tistory.com/rss
@@ -6606,6 +6612,12 @@
   blog: http://hongjun7.tistory.com/
   rss: http://hongjun7.tistory.com/rss
   description: 알고리즘
+- name: 장회문
+  blog: https://palindrom615.dev
+  rss: https://palindrom615.dev/feed.xml
+  github: https://github.com/palindrom615
+  twitter: https://twitter.com/palindrom615
+  linkedin: https://www.linkedin.com/in/palindrom615/
 - name: 장효인
   blog: https://velog.io/@janghyoin
   rss: https://api.velog.io/atom/@janghyoin
@@ -6744,12 +6756,6 @@
   linkedin: https://www.linkedin.com/in/hosang-jeon-7063334b/
   stackoverflow: https://stackoverflow.com/users/533290/hosang-jeon
   home: http://hosangjeon.com/
-- name: 장회문
-  blog: https://palindrom615.dev
-  rss: https://palindrom615.dev/feed.xml
-  github: https://github.com/palindrom615
-  twitter: https://twitter.com/palindrom615
-  linkedin: https://www.linkedin.com/in/palindrom615/
 - name: 전효준
   github: https://github.com/DevinJeon
   linkedin: https://www.linkedin.com/in/devinjeon/
