@@ -5251,6 +5251,11 @@
   description: Back-end
   facebook: https://www.facebook.com/sangwn.lee
   github: https://github.com/highluck
+- name: 이상원
+  blog: https://john015.netlify.com/
+  github: https://github.com/john015
+  rss: https://john015.netlify.com/rss.xml
+  description: front-end, Web
 - name: 이상주
   blog: http://surpreem.com/
   rss: https://surpreem.com/feed/
