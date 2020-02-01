@@ -6223,6 +6223,10 @@
   description: Backend developer (@deveely)
   github: https://github.com/HyunGyu-Lee
   linkedin: https://www.linkedin.com/in/hyungyu-lee-2387a8187/
+- name: 이현석
+  blog: https://xly.kr/
+  rss: https://xly.kr/feeds
+  description: Laravel
 - name: 이현섭
   blog: https://hyunseob.github.io/
   rss: https://hyunseob.github.io/atom.xml
