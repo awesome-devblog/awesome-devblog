@@ -6024,6 +6024,10 @@
 - name: 이지영
   blog: https://www.bloter.net/archives/author/izziene
   description: 통신, 금융
+- name: 이지은
+  blog: https://velog.io/@xaq03061
+  rss: https://api.velog.io/atom/@xaq03061
+  description: Algorithm
 - name: 이지현
   blog: https://www.bloter.net/archives/author/jihyun
   description: 오픈소스
