@@ -2088,6 +2088,12 @@
   rss: https://kokohapps.tistory.com/rss
   description: Full-Stack
   facebook: https://www.facebook.com/vowed21
+- name: 김현우
+  home: https://hyunw.kim/
+  github: https://github.com/skywalker023
+  linkedin: https://www.linkedin.com/in/hyunw-kim/
+  slideshare: https://www.slideshare.net/DavidKim486
+  twitter: https://twitter.com/hyunw_kim_
 - name: 김현유(미키김)
   blog: https://www.mickeykim.com/
   rss: https://www.mickeykim.com/rss
@@ -4503,8 +4509,9 @@
   blog: https://nogadaworks.tistory.com/
   rss: https://nogadaworks.tistory.com/rss
   description: Hacking, Algorithm
-  facebook: https://www.facebook.com/profile.php?id=100013643941326
-  github: https://github.com/JunhoYeo
+  facebook: https://www.facebook.com/juno3704
+  github: https://github.com/junhoyeo
+  home: https://trendy-resume.now.sh/
 - name: 염광호
   blog: https://sabarada.tistory.com
   rss: https://sabarada.tistory.com/rss
@@ -5359,6 +5366,8 @@
   description: Data Science
   github: https://github.com/lumiamitie
   instagram: https://www.instagram.com/miika__el/
+  linkedin: https://www.linkedin.com/in/minho-lee-255813146/
+  slideshare: https://www.slideshare.net/lumiamitie
 - name: 이민호
   blog: https://velog.io/@minholee_93
   rss: https://api.velog.io/atom/@minholee_93
