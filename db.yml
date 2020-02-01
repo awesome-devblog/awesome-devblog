@@ -6682,6 +6682,11 @@
   blog: https://sanghyukchun.github.io/
   rss: https://sanghyukchun.github.io/atom.xml
   description: Machine Learning
+- name: 전상현
+  blog: https://lntuition.github.io/
+  rss: https://lntuition.github.io/feed.xml
+  github: https://github.com/lntuition
+  linkedin: https://www.linkedin.com/in/sang-heon-jeon-994515190/
 - name: 전수열
   blog: https://medium.com/@devxoul
   rss: https://medium.com/feed/@devxoul
