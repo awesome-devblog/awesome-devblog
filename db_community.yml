@@ -1507,3 +1507,8 @@
   rss: https://blog.pabii.co.kr/feed/
   description: Data Science
   home: https://pabii.co.kr/
+- name: 호스팅케이알
+  blog: https://cloud.hosting.kr/blog/
+  rss: https://cloud.hosting.kr/feed/
+  description: AWS
+  home: https://www.hosting.kr/
