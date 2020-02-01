@@ -5017,6 +5017,13 @@
   rss: http://blog.daum.net/xml/rss/epilogs
   description: Elastic
   facebook: https://www.facebook.com/epilogs
+- name: 윤여선
+  blog: https://yeoseon.kr/
+  description: https://yeoseon.kr/
+  rss: https://yeoseon.kr/rss/
+  instagram: https://www.instagram.com/yys.kr/
+  linkedin: https://www.linkedin.com/in/yyskr/
+  github: https://github.com/yeoseon
 - name: 윤영선
   facebook: https://www.facebook.com/profile.php?id=100004892882665
   youtube: https://www.youtube.com/channel/UCvjXlZjlyAp2uZusgDn8lxA
