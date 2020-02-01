@@ -3254,6 +3254,12 @@
   blog: http://sirini.net/grboard2/blog
   rss: http://sirini.net/grboard2/blog/rss
   description: GR BOARD
+- name: 박희원
+  blog: https://brunch.co.kr/@itschloe1
+  rss: https://brunch.co.kr/rss/@@19LF
+  description: Data Science
+  slideshare: https://www.slideshare.net/HeeWonPark11
+  home: https://codingchloe.github.io/
 - name: 박희찬
   blog: https://blog.chann.kr/
   rss: https://blog.chann.kr/index.xml
