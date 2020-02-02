@@ -8536,6 +8536,10 @@
   twitter: https://twitter.com/sc3hong
   linkedin: https://www.linkedin.com/in/sungcheulhong/
   facebook: https://www.facebook.com/sunghong.sch
+- name: 홍영란
+  blog: https://velog.io/@hy9202
+  rss: https://api.velog.io/atom/@hy9202
+  github: https://github.com/YounglanHong
 - name: 홍영택
   blog: https://hackerwins.github.io/
   rss: https://hackerwins.github.io/feed.xml
