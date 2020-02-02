@@ -3829,6 +3829,10 @@
 - name: 송석리
   facebook: https://www.facebook.com/greatsong21
   slideshare: https://www.slideshare.net/SongSukree
+- name: 송성현
+  blog: https://velog.io/@rlcjf0014
+  rss: https://api.velog.io/atom/@rlcjf0014
+  github: https://github.com/rlcjf0014
 - name: 송승원
   blog: https://songseungwon.tistory.com
   rss: https://songseungwon.tistory.com/rss
