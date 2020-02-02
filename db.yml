@@ -1622,6 +1622,9 @@
   rss: https://dev.wisedog.net/atom.xml
   github: https://github.com/wisedog
   twitter: https://twitter.com/jongha_the_dev
+- name: 김종하
+  blog: https://velog.io/@jaden_94
+  rss: https://api.velog.io/atom/@jaden_94
 - name: 김종헌
   blog: https://shovelman.tistory.com/
   rss: https://shovelman.tistory.com/rss
