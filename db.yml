@@ -5078,6 +5078,9 @@
   blog: https://brunch.co.kr/@brunch4nrs
   rss: https://brunch.co.kr/rss/@@zav
   description: 구글러
+- name: 윤해은
+  blog: https://velog.io/@yhe228
+  rss: https://api.velog.io/atom/@yhe228
 - name: 윤현철
   blog: http://metashower.egloos.com/
   rss: http://rss.egloos.com/blog/metashower
