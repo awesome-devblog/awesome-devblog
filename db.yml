@@ -3707,6 +3707,11 @@
   blog: https://gywn.net/
   rss: https://gywn.net/feed/
   description: Database
+- name: 성연
+  blog: https://brunch.co.kr/@cliche-cliche
+  rss: https://brunch.co.kr/rss/@@2hV3
+  description: Design
+  home: https://greenray.kr/
 - name: 성열우
   blog: https://sungyeolwoo.github.io/
   rss: https://sungyeolwoo.github.io/atom.xml
