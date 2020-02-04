@@ -3129,6 +3129,9 @@
   rss: https://medium.com/feed/@ggikko
   description: RxJava
   github: https://github.com/ggikko
+- name: 박진
+  blog: https://jinn-blog.tistory.com/
+  rss: https://jinn-blog.tistory.com/rss
 - name: 박진서
   blog: https://jasonpark.me/
   description: Algorithm
