@@ -1405,6 +1405,9 @@
   rss: https://kimlog.me/rss.xml
   twitter: https://twitter.com/gnujoow
   github: https://github.com/gnujoow
+  rocketpunch: https://www.rocketpunch.com/@gnujoow.kim
+  linkedin: https://www.linkedin.com/in/wjkim90/
+  home: http://gnujoow.github.io/
 - name: 김웅곤
   facebook: https://www.facebook.com/therichman7
   youtube: https://www.youtube.com/channel/UC_PF96pvb7kxCjbzj6D94YQ
@@ -6225,6 +6228,11 @@
   description: Javascript
   facebook: https://www.facebook.com/chiwoooong
   github: https://github.com/jyqry
+- name: 이태영
+  facebook: https://www.facebook.com/tylee8033
+  linkedin: https://www.linkedin.com/in/tylee33/
+  github: https://github.com/tylee33
+  slideshare: https://www.slideshare.net/taeyounglee1447
 - name: 이태화
   blog: https://platformengineer.tistory.com/
   rss: https://platformengineer.tistory.com/rss
