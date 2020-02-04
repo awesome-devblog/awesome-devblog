@@ -3829,6 +3829,10 @@
   rss: https://min9nim.github.io/feed.xml
   description: Web
   github: https://github.com/min9nim
+- name: 송민석
+  blog: https://blog.songc.io/
+  rss: https://blog.songc.io/rss.xml
+  github: https://github.com/s-ong-c
 - name: 송민승
   blog: https://brunch.co.kr/@minseungsong
   rss: https://brunch.co.kr/rss/@@SN6
