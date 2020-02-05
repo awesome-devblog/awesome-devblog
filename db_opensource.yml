@@ -32,6 +32,10 @@
   home: https://amp.rs/
   github: https://github.com/jmacdonald/amp
   tags: [Text Editor]
+- name: Amp
+  home: https://amphp.org/amp/
+  github: https://github.com/amphp/amp
+  tags: [PHP, Back-end Framework]
 - name: Angular
   home: https://angular.io/
   github: https://github.com/angular/angular
@@ -1240,6 +1244,12 @@
 - name: Neofetch
   github: https://github.com/dylanaraps/neofetch
   tags: [Monitoring]
+- name: neovim
+  home: https://neovim.io/
+  github: https://github.com/neovim/neovim
+  gitter: https://gitter.im/neovim/neovim
+  twitter: https://twitter.com/Neovim
+  tags: [Text Editor]
 - name: Nest
   home: https://nestjs.com/
   github: https://github.com/nestjs/nest
@@ -1863,6 +1873,11 @@
   twitter: https://twitter.com/swiftlang
   awesome: https://github.com/matteocrippa/awesome-swift
   tags: [Programming Language]
+- name: swr
+  home: https://swr.now.sh/
+  github: https://github.com/zeit/swr
+  npm: https://www.npmjs.com/package/swr
+  tags: [React]
 - name: systemd
   home: https://systemd.io/
   github: https://github.com/systemd/systemd
