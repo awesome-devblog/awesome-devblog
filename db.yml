@@ -3392,6 +3392,14 @@
   facebook: https://www.facebook.com/juungbae
   github: https://github.com/juungbae
   home: https://juungbae.github.io/
+- name: 백지오
+  blog: https://skyil.tistory.com/
+  rss: https://skyil.tistory.com/rss
+  facebook: https://www.facebook.com/profile.php?id=100007750893990
+  twitter: https://twitter.com/GioPaik
+  instagram: https://www.instagram.com/giopaik/
+  github: https://github.com/skyil7
+  youtube: https://www.youtube.com/channel/UCsEF5EAdc5fTuRmkWcFjIhA
 - name: 배지원
   blog: https://medium.com/jiwon-bae
   rss: https://medium.com/feed/jiwon-bae
@@ -5503,8 +5511,8 @@
   github: https://github.com/highluck
 - name: 이상원
   blog: https://john015.netlify.com/
-  github: https://github.com/john015
   rss: https://john015.netlify.com/rss.xml
+  github: https://github.com/john015
   description: front-end, Web
 - name: 이상주
   blog: https://surpreem.com/
