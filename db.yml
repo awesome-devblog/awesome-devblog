@@ -725,6 +725,10 @@
   rss: https://dohoons.com/blog/feed/
   description: Web
   github: https://github.com/dohoons
+- name: 김도훈
+  blog: https://kimdohun0104.github.io/
+  rss: https://kimdohun0104.github.io/feed.xml
+  github: https://github.com/kimdohun0104
 - name: 김동건
   blog: https://dgkim5360.tistory.com/
   rss: https://dgkim5360.tistory.com/rss
