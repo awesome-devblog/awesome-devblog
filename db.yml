@@ -1535,6 +1535,10 @@
   rss: https://lastrites2018.netlify.com/rss.xml
   description: Front-end
   github: https://github.com/lastrites2018
+- name: 김정동
+  blog: https://dong-life.tistory.com/
+  rss: https://dong-life.tistory.com/rss
+  facebook: https://www.facebook.com/jungdong.kim.167
 - name: 김정웅
   youtube: https://www.youtube.com/channel/UCY8gYfkky1jYZbiba4x8Yvg
   facebook: https://www.facebook.com/profile.php?id=100033905388688
@@ -3400,6 +3404,7 @@
   instagram: https://www.instagram.com/giopaik/
   github: https://github.com/skyil7
   youtube: https://www.youtube.com/channel/UCsEF5EAdc5fTuRmkWcFjIhA
+  linkedin: https://www.linkedin.com/in/giopaik/
 - name: 배지원
   blog: https://medium.com/jiwon-bae
   rss: https://medium.com/feed/jiwon-bae
