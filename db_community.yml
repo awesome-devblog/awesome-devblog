@@ -80,6 +80,8 @@
   youtube: https://www.youtube.com/channel/UCrKE8ihOKHxYHBzI0Ys-Oow
   twitter: https://twitter.com/codebusking
 - name: JetBrains 코리아
+  blog: https://blog.jetbrains.com/kr/
+  rss: https://blog.jetbrains.com/kr/feed/
   facebook: https://www.facebook.com/jetbrainsKR/
   home: https://www.jetbrains.com/
 - name: Kotlin Korea
@@ -492,7 +494,7 @@
 - name: Google
   blog: https://developers-kr.googleblog.com/
   rss: http://feeds.feedburner.com/GoogleDevelopersKorea
-- name: Line Engineering
+- name: 라인
   blog: https://engineering.linecorp.com/ko/blog
   rss: https://engineering.linecorp.com/ko/blog/rss2
 - name: Make Korea
@@ -509,8 +511,8 @@
   blog: https://realm.io/kr/blog/
   rss: https://realm.io/kr/blog/feed.xml
 - name: Spoqa
-  blog: http://spoqa.github.io/
-  rss: http://spoqa.github.io/rss
+  blog: https://spoqa.github.io/
+  rss: https://spoqa.github.io/atom.xml
   github: https://github.com/spoqa
 - name: Anyang Artificial Intelligence Meetup
   meetup: https://www.meetup.com/ko-KR/Anyang-Artificial-Intelligence-Meetup/
@@ -1216,6 +1218,8 @@
   facebook: https://www.facebook.com/slipp.study/
 - name: 한국 커널 개발자 모임
   home: https://kernel-dev-ko.github.io/
+  groups: https://groups.google.com/forum/#!forum/korea-linux-kernel-developers-meetup
+  instagram: https://www.instagram.com/kernel.dev.ko/
 - name: 피플펀드
   blog: https://tech.peoplefund.co.kr/
   rss: https://tech.peoplefund.co.kr/feed.xml
@@ -1265,6 +1269,7 @@
   slideshare: https://www.slideshare.net/netmanias-ko
 - name: 당근마켓
   blog: https://medium.com/daangn
+  rss: https://medium.com/feed/daangn
   twitter: https://twitter.com/danggeunteam
   facebook: https://www.facebook.com/danggeunmarket/
   github: https://github.com/daangn
@@ -1278,6 +1283,7 @@
   speakerdeck: https://speakerdeck.com/ridi
 - name: 리모트몬스터
   blog: https://blog.remotemonster.com/
+  rss: https://blog.remotemonster.com/feed
   description: WebRTC
   twitter: https://twitter.com/remotemonster
   facebook: https://www.facebook.com/RemoteMonster/
@@ -1518,3 +1524,73 @@
   home: https://sullivanproject.io/
   facebook: https://www.facebook.com/sullivanproject.in
   instagram: https://www.instagram.com/sullivanproject/
+- name: 토스랩
+  blog: https://tosslab.github.io/
+  rss: https://tosslab.github.io/feed.xml
+- name: 망고플레이트
+  blog: https://medium.com/team-mangoplate
+  rss: https://medium.com/feed/team-mangoplate
+- name: 조이코퍼레이션
+  blog: https://blog-kr.zoyi.co/
+  rss: https://blog-kr.zoyi.co/rss/
+- name: 굿닥
+  blog: http://dev.goodoc.co.kr/
+  rss: http://dev.goodoc.co.kr/?feed=rss2
+- name: 쿠팡
+  blog: https://medium.com/coupang-tech
+  rss: https://medium.com/feed/coupang-tech
+- name: Class101
+  blog: https://class101.dev/
+  rss: https://class101.dev/rss.xml
+- name: NTS WIT
+  blog: https://wit.nts-corp.com/
+  rss: https://wit.nts-corp.com/feed
+- name: Gitple
+  blog: https://tech.gitple.io/
+  rss: https://tech.gitple.io/atom.xml
+- name: 씨앤텍시스템즈
+  blog: https://cntechsystems.tistory.com/
+  rss: https://cntechsystems.tistory.com/rss
+- name: 블로코
+  blog: https://www.blocko.io/resource/blog/
+  rss: https://www.blocko.io/feed/
+- name: S/W 멤버십
+  blog: http://www.secmem.org/blog/
+  github: https://github.com/infossm
+  facebook: https://www.facebook.com/secmem
+  youtube: https://www.youtube.com/user/SamsungSWMem
+- name: UNREAL
+  blog: https://www.unrealengine.com/ko/feed/tech-blog
+  rss: https://www.unrealengine.com/ko/rss
+- name: 글루시스
+  blog: https://tech.gluesys.com/blog/
+  rss: https://tech.gluesys.com/feed.xml
+- name: 모두의 연구소
+  blog: https://www.whydsp.org/
+  rss: https://www.whydsp.org/rss
+- name: 이스트소프트
+  blog: https://blog.est.ai/
+  rss: https://blog.est.ai/feed/
+- name: 게임빌컴투스
+  blog: https://tech.gamevilcom2us.com/
+  rss: https://tech.gamevilcom2us.com/feed
+- name: NDS
+  blog: https://tech.cloud.nongshim.co.kr/
+  rss: https://tech.cloud.nongshim.co.kr/feed/
+- name: 플랫폼 개발팀
+  blog: https://team-platform.tistory.com/
+  rss: https://team-platform.tistory.com/rss
+- name: 사이버이메지네이션
+  blog: https://cyberx.tistory.com/
+  rss: https://cyberx.tistory.com/rss
+- name: 이더리움 연구회
+  blog: https://medium.com/@etherstudy
+  rss: https://medium.com/feed/@etherstudy
+  facebook: https://www.facebook.com/etherstudy
+  github: https://github.com/etherstudy
+- name: UBcare
+  blog: http://tech.ubcare.co.kr/
+  rss: http://tech.ubcare.co.kr/feed.xml
+- name: 메가존
+  blog: https://cloud.hosting.kr/blog/
+  rss: https://cloud.hosting.kr/feed/
