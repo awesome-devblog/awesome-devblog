@@ -1924,9 +1924,12 @@
 - name: 김충섭
   blog: https://subicura.com/
   rss: https://subicura.com/feed.xml
-  description: ''
+  description: DevOps
   twitter: https://twitter.com/subicura
   github: https://github.com/subicura
+  facebook: https://www.facebook.com/subicura
+  slideshare: https://www.slideshare.net/subicura
+  linkedin: https://www.linkedin.com/in/subicura/
 - name: 김태강
   blog: https://brunch.co.kr/@taekangk
   rss: https://brunch.co.kr/rss/@@5sFx
@@ -3325,6 +3328,11 @@
   blog: https://mathbarn.wordpress.com/
   rss: https://mathbarn.wordpress.com/feed/
   description: Ubuntu
+- name: 방경민
+  blog: https://bkm412.github.io/
+  rss: https://bkm412.github.io/feed.xml
+  description: React
+  github: https://github.com/bkm412
 - name: 방경용
   blog: https://medium.com/@yesesyo
   rss: https://medium.com/feed/@yesesyo
