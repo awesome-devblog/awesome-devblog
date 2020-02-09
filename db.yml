@@ -558,7 +558,8 @@
 - name: 김광섭
   linkedin: https://www.linkedin.com/in/kwangseob-kim-a2516541/
   slideshare: https://www.slideshare.net/kimkwangseop
-- name: 김광현(광파리)
+- name: 김광현
+  nickname: 광파리
   blog: https://kwang82.blogspot.kr/
   rss: https://kwang82.blogspot.com/feeds/posts/default
   description: IT 소식
@@ -796,7 +797,8 @@
   facebook: https://www.facebook.com/kim2da
   slideshare: https://www.slideshare.net/ssuser6feedd
   linkedin: https://www.linkedin.com/in/동현-김-46462b118/
-- name: 김동현(Austin Kim)
+- name: 김동현
+  nickname: Austin Kim
   blog: http://rousalome.egloos.com/
   rss: http://rss.egloos.com/blog/rousalome
   description: 리눅스 커널
@@ -2121,7 +2123,8 @@
   linkedin: https://www.linkedin.com/in/hyunw-kim/
   slideshare: https://www.slideshare.net/DavidKim486
   twitter: https://twitter.com/hyunw_kim_
-- name: 김현유(미키김)
+- name: 김현유
+  nickname: 미키김
   blog: https://www.mickeykim.com/
   rss: https://www.mickeykim.com/rss
   description: 구글
@@ -2207,7 +2210,8 @@
   description: Deep Learning
   facebook: https://www.facebook.com/kim.hoondong
   github: https://github.com/hoondongkim
-- name: 김훈민(김코딩)
+- name: 김훈민
+  nickname: 김코딩
   blog: https://huns.me/
   rss: https://huns.me/feed
   description: Web
@@ -2617,7 +2621,8 @@
   description: Domain Driven Design
   facebook: https://www.facebook.com/kyungjun.park.77
   github: https://github.com/ryanpark91
-- name: 박경훈(HOONS)
+- name: 박경훈
+  nickname: HOONS
   blog: https://hoonsbara.tistory.com/
   description: 닷넷
   linkedin: https://www.linkedin.com/in/hoonsbara/
@@ -2686,7 +2691,8 @@
   description: Front-end
   facebook: https://www.facebook.com/zooqzqz
   github: https://github.com/isme2n
-- name: 박민근(알콜코더)
+- name: 박민근
+  nickname: 알콜코더
   blog: https://blog.naver.com/agebreak
   rss: https://agebreak.blog.me/rss
   description: 게임 개발
@@ -2975,7 +2981,8 @@
   blog: https://devage.tistory.com/
   rss: https://devage.tistory.com/rss
   description: 5G, network
-- name: 박재성(자바지기)
+- name: 박재성
+  nickname: 자바지기
   blog: https://brunch.co.kr/@javajigi
   rss: https://brunch.co.kr/rss/@@5tdm
   description: Java
@@ -3531,7 +3538,8 @@
   linkedin: https://www.linkedin.com/in/seong-yun-byeon-8183a8113/
   slideshare: https://www.slideshare.net/zzsza
   instagram: https://www.instagram.com/data.scientist/
-- name: 변정훈(Outsider)
+- name: 변정훈
+  nickname: Outsider
   blog: https://blog.outsider.ne.kr/
   rss: https://feeds.feedburner.com/rss_outsider_dev?format=xml
   description: Web
@@ -3663,7 +3671,8 @@
   rss: https://medium.com/feed/@thejungwon
   description: ''
   twitter: https://twitter.com/thejungwon
-- name: 서주영(천재태지)
+- name: 서주영
+  nickname: 천재태지
   blog: http://seoz.com/
   rss: http://rss.egloos.com/blog/seoz
   description: EFL, 타이젠
@@ -3819,7 +3828,8 @@
   rss: https://api.velog.io/atom/@jamessoun93
   description: Algorithm
   github: https://github.com/jamessoun93
-- name: 손영수(arload)
+- name: 손영수
+  nickname: arload
   blog: https://arload.wordpress.com/
   rss: https://arload.wordpress.com/feed/
   description: 개발방법론, Android
@@ -3965,7 +3975,8 @@
   rss: https://medium.com/feed/@gaemi
   description: Web, Java
   twitter: https://twitter.com/darkGaemi
-- name: 송주성(빈꿈)
+- name: 송주성
+  nickname: 빈꿈
   blog: https://emptydream.tistory.com/
   rss: https://emptydream.tistory.com/rss
   description: IT 칼럼
@@ -5548,7 +5559,8 @@
   rss: https://surpreem.com/feed/
   description: ''
   twitter: https://twitter.com/spreem
-- name: 이상철(문화일상)
+- name: 이상철
+  nickname: 문화일상
   blog: https://1ilsang.blog.me/
   rss: https://1ilsang.blog.me/rss
   description: IT 서적 리뷰, JavaScript, Back-End
@@ -6566,7 +6578,8 @@
   rss: https://medium.com/feed/@axisj
   description: Front-end
   github: https://github.com/thomasJang
-- name: 장기효(기효 조슈아 장)
+- name: 장기효
+  nickname: 기효 조슈아 장
   blog: https://joshua1988.github.io/
   rss: https://joshua1988.github.io/atom.xml
   description: ''
@@ -6917,7 +6930,8 @@
   speakerdeck: https://speakerdeck.com/devinjeon
   slideshare: https://www.slideshare.net/ssuser380e9c
   home: https://hyojun.me/
-- name: 전희원(고감자)
+- name: 전희원
+  nickname: 고감자
   blog: http://freesearch.pe.kr/
   rss: https://feeds.feedburner.com/gogamza?format=xml
   description: 빅데이터
@@ -7437,7 +7451,8 @@
   description: Swift
 - name: 조민환
   slideshare: https://www.slideshare.net/ssuser611bac
-- name: 조병욱(조대협)
+- name: 조병욱
+  nickname: 조대협
   blog: https://bcho.tistory.com/
   rss: https://bcho.tistory.com/rss
   description: Java
@@ -7597,7 +7612,8 @@
   blog: https://dev.zzoman.com/
   rss: https://dev.zzoman.com/atom.xml
   description: Front-end
-- name: 조현영(ZeroCho)
+- name: 조현영
+  nickname: ZeroCho
   blog: https://www.zerocho.com/
   rss: https://www.zerocho.com/api/rss.xml
   description: Javascript
@@ -8289,7 +8305,8 @@
   home: https://hajunho.com/
 - name: 하호준
   slideshare: https://www.slideshare.net/hojunlife
-- name: 하호진(Mimul)
+- name: 하호진
+  nickname: Mimul
   blog: https://www.mimul.com/blog
   description: 칼럼
   twitter: https://twitter.com/mimul
@@ -8301,7 +8318,8 @@
   rss: https://umanking.github.io/feed.xml
   description: Java, Spring, JPA
   github: https://github.com/umanking
-- name: 한고 (10년코더)
+- name: 한고
+  nickname: 10년코더
   blog: https://10yearscoder.tistory.com/
   rss: https://10yearscoder.tistory.com/rss
   description: 프리랜서
@@ -8374,7 +8392,8 @@
   rss: https://tech.ssut.me/rss/
   description: Node, Go, Python
   github: https://github.com/ssut
-- name: 한승훈(kkamagui)
+- name: 한승훈
+  nickname: kkamagui
   profile: people/kkamagui.md
   blog: https://kkamagui.tistory.com/
   rss: https://kkamagui.tistory.com/rss
@@ -8580,7 +8599,8 @@
   blog: https://serpiko.tistory.com/
   rss: https://serpiko.tistory.com/rss
   description: Server, Front-end
-- name: 허준회(주네)
+- name: 허준회
+  nickname: 주네
   blog: https://joone.net/
   rss: https://joone.net/feed/
   description: 만화
@@ -8627,7 +8647,8 @@
   blog: https://blog.naver.com/hgh73
   rss: https://rss.blog.naver.com/hgh73.xml
   description: 워드프레스
-- name: 홍민희(dahlia)
+- name: 홍민희
+  nickname: dahlia
   blog: https://blog.hongminhee.org/
   rss: https://blog.hongminhee.org/feed.xml
   description: ''
