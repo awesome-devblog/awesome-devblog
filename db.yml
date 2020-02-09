@@ -237,7 +237,7 @@
   slideshare: https://www.slideshare.net/skyizblue
 - name: 고명진
   blog: https://velog.io/@rjs1197
-  rss: https://api.velog.io/atom/@rjs1197
+  rss: https://v2.velog.io/rss/rjs1197
   description: C++
   gitlab: https://gitlab.com/rjs1197/
 - name: 고명환
@@ -269,7 +269,7 @@
   facebook: https://www.facebook.com/lunayyko
 - name: 고은정
   blog: https://velog.io/@godori
-  rss: https://api.velog.io/atom/@godori
+  rss: https://v2.velog.io/rss/godori
   description: Front-end
   github: https://github.com/godori
 - name: 고종범
@@ -679,7 +679,7 @@
   home: https://hatemogi.com/
 - name: 김대현
   blog: https://velog.io/@denmark-banana
-  rss: https://api.velog.io/atom/@denmark-banana
+  rss: https://v2.velog.io/rss/denmark-banana
   github: https://github.com/denmark-banana
 - name: 김대희
   facebook: https://www.facebook.com/day.kim.7
@@ -779,7 +779,7 @@
   linkedin: https://www.linkedin.com/in/dongeun-kim-114a44187
 - name: 김동인
   blog: https://velog.io/@owljoa
-  rss: https://api.velog.io/atom/@owljoa
+  rss: https://v2.velog.io/rss/owljoa
   github: https://github.com/owljoa
 - name: 김동철
   blog: https://medium.com/@idus_devteam
@@ -814,7 +814,7 @@
   github: https://github.com/WraithKim
 - name: 김래영
   blog: https://velog.io/@760kry
-  rss: https://api.velog.io/atom/@760kry
+  rss: https://v2.velog.io/rss/760kry
 - name: 김래형
   slideshare: https://www.slideshare.net/rerongs
 - name: 김만수
@@ -836,7 +836,7 @@
   slideshare: https://www.slideshare.net/ssuser45ecc2
 - name: 김명준
   blog: https://velog.io/@glm777
-  rss: https://api.velog.io/atom/@glm777
+  rss: https://v2.velog.io/rss/glm777
   description: Front-end
   facebook: https://www.facebook.com/profile.php?id=100011189436233
   github: https://github.com/demain18
@@ -944,7 +944,7 @@
   twitter: https://twitter.com/beejei
 - name: 김병규
   blog: https://velog.io/@loakick
-  rss: https://api.velog.io/atom/@loakick
+  rss: https://v2.velog.io/rss/loakick
   description: 연플
   github: https://github.com/beygee
 - name: 김병부
@@ -1057,7 +1057,7 @@
   description: Java
 - name: 김선욱
   blog: https://velog.io/@wo0kgod
-  rss: https://api.velog.io/atom/@wo0kgod
+  rss: https://v2.velog.io/rss/wo0kgod
 - name: 김선철
   blog: https://blog.naver.com/PostList.nhn?blogId=sckim007
   rss: https://blog.rss.naver.com/sckim007.xml
@@ -1191,7 +1191,7 @@
   wordpress: https://subokim.wordpress.com/
 - name: 김수영
   blog: https://velog.io/@suyoung154
-  rss: https://api.velog.io/atom/@suyoung154
+  rss: https://v2.velog.io/rss/suyoung154
   description: MongoDB
 - name: 김수지
   blog: https://www.suzie.world/blog
@@ -1201,7 +1201,7 @@
   home: https://www.suzie.world
 - name: 김수지
   blog: https://velog.io/@naseriansuzie
-  rss: https://api.velog.io/atom/@naseriansuzie
+  rss: https://v2.velog.io/rss/naseriansuzie
   description: Front-end
   github: https://github.com/naseriansuzie
   facebook: https://www.facebook.com/sooji.kim.311
@@ -1487,7 +1487,7 @@
   slideshare: https://www.slideshare.net/shoo7830
 - name: 김인회
   blog: https://velog.io/@dlsghl92
-  rss: https://api.velog.io/atom/@dlsghl92
+  rss: https://v2.velog.io/rss/dlsghl92
   description: 보안뉴스, 크롤링
   github: https://github.com/pottybear
 - name: 김인회
@@ -1560,7 +1560,7 @@
   github: https://github.com/swtpumpkin
 - name: 김정윤
   blog: https://velog.io/@skyepodium
-  rss: https://api.velog.io/atom/@skyepodium
+  rss: https://v2.velog.io/rss/skyepodium
   description: Vue
   github: https://github.com/skyepodium
 - name: 김정주
@@ -1647,7 +1647,7 @@
   twitter: https://twitter.com/jongha_the_dev
 - name: 김종하
   blog: https://velog.io/@jaden_94
-  rss: https://api.velog.io/atom/@jaden_94
+  rss: https://v2.velog.io/rss/jaden_94
 - name: 김종헌
   blog: https://shovelman.tistory.com/
   rss: https://shovelman.tistory.com/rss
@@ -1696,7 +1696,7 @@
   youtube: https://www.youtube.com/channel/UCbz-xGikqRRdyL73osTKbxg
 - name: 김준서
   blog: https://velog.io/@max9106
-  rss: https://api.velog.io/atom/@max9106
+  rss: https://v2.velog.io/rss/max9106
   description: React Native
   github: https://github.com/KJunseo
   facebook: https://www.facebook.com/profile.php?id=100006999123503
@@ -1909,7 +1909,7 @@
   twitter: https://twitter.com/cjunekim
 - name: 김창회
   blog: https://velog.io/@changhoi
-  rss: https://api.velog.io/atom/@changhoi
+  rss: https://v2.velog.io/rss/changhoi
   description: Design Pattern
   facebook: https://www.facebook.com/profile.php?id=100014499787423
   github: https://github.com/changhoi
@@ -1997,7 +1997,7 @@
   description: Oracle
 - name: 김태완
   blog: https://velog.io/@terry960302
-  rss: https://api.velog.io/atom/@terry960302
+  rss: https://v2.velog.io/rss/terry960302
   description: Android
 - name: 김태완
   blog: https://madplay.github.io/
@@ -2016,7 +2016,7 @@
   home: https://xodnr.github.io/
 - name: 김태욱
   blog: https://velog.io/@foxkim
-  rss: https://api.velog.io/atom/@foxkim
+  rss: https://v2.velog.io/rss/foxkim
   description: ''
 - name: 김태현
   blog: https://javaexpert.tistory.com/
@@ -2092,7 +2092,7 @@
   instagram: https://www.instagram.com/hanationbear/
 - name: 김해준
   blog: https://velog.io/@dankim
-  rss: https://api.velog.io/atom/@dankim
+  rss: https://v2.velog.io/rss/dankim
   description: Data Structure
 - name: 김헌기
   blog: https://hunlabs.wordpress.com/
@@ -2180,7 +2180,7 @@
   github: https://github.com/cometkim
 - name: 김혜진
   blog: https://velog.io/@yejinh
-  rss: https://api.velog.io/atom/@yejinh
+  rss: https://v2.velog.io/rss/yejinh
   github: https://github.com/yejinh
 - name: 김호동
   blog: https://cogniti-works.blogspot.kr/
@@ -2248,7 +2248,7 @@
   description: React
 - name: 나윤호
   blog: https://velog.io/@tura
-  rss: https://api.velog.io/atom/@tura
+  rss: https://v2.velog.io/rss/tura
   description: Android
   facebook: https://www.facebook.com/profile.php?id=100003633039343
 - name: 나정휘
@@ -2314,7 +2314,7 @@
   slideshare: https://www.slideshare.net/rkttu
 - name: 남현욱
   blog: https://velog.io/@hw0knam
-  rss: https://api.velog.io/atom/@hw0knam
+  rss: https://v2.velog.io/rss/hw0knam
   description: Front-end
   github: https://github.com/hw0k
   facebook: https://www.facebook.com/hw0k.nam
@@ -2356,7 +2356,7 @@
   linkedin: https://www.linkedin.com/in/아론-노-73b155121/
 - name: 노요셉
   blog: https://velog.io/@noyo0123
-  rss: https://api.velog.io/atom/@noyo0123
+  rss: https://v2.velog.io/rss/noyo0123
   description: Front-end
 - name: 노용은
   blog: https://nali21c.github.io/
@@ -2563,7 +2563,7 @@
   slideshare: https://www.slideshare.net/jinsumoon33
 - name: 문태민
   blog: https://velog.io/@tmmoond8
-  rss: https://api.velog.io/atom/@tmmoond8
+  rss: https://v2.velog.io/rss/tmmoond8
   description: Front-end
 - name: 문태준
   slideshare: https://www.slideshare.net/ssuser2f0173
@@ -2597,7 +2597,7 @@
   youtube: https://www.youtube.com/channel/UCiOdhEAjYpBN-PEWxBHa7mg
 - name: 박건우
   blog: https://velog.io/@rjsdnqkr1
-  rss: https://api.velog.io/atom/@rjsdnqkr1
+  rss: https://v2.velog.io/rss/rjsdnqkr1
   description: Android
   github: https://github.com/rjsdnqkr1
   rocketpunch: https://www.rocketpunch.com/@rjsdnqkr1
@@ -2607,7 +2607,7 @@
   description: Flex
 - name: 박경연
   blog: https://velog.io/@kykevin
-  rss: https://api.velog.io/atom/@kykevin
+  rss: https://v2.velog.io/rss/kykevin
 - name: 박경욱
   blog: https://kyungw00k.github.io/
   rss: https://kyungw00k.github.io/atom.xml
@@ -2645,7 +2645,7 @@
   instagram: https://www.instagram.com/baksimgorkii/
 - name: 박규남
   blog: https://velog.io/@bottarijangsu
-  rss: https://api.velog.io/atom/@bottarijangsu
+  rss: https://v2.velog.io/rss/bottarijangsu
 - name: 박근희
   blog: https://humbledude.github.io/blog/
   rss: https://humbledude.github.io/blog/feed.xml
@@ -2660,7 +2660,7 @@
   twitter: https://twitter.com/kpakguy
 - name: 박동건
   blog: https://velog.io/@bathingape
-  rss: https://api.velog.io/atom/@bathingape
+  rss: https://v2.velog.io/rss/bathingape
   description: Front-end
   github: https://github.com/bathingape
 - name: 박동호
@@ -2716,7 +2716,7 @@
   youtube: https://www.youtube.com/channel/UCHqOI06V0gVfLSoNf2XLSxQ
 - name: 박병길
   blog: https://velog.io/@pop8682
-  rss: https://api.velog.io/atom/@pop8682
+  rss: https://v2.velog.io/rss/pop8682
   description: Frontend
 - name: 박병준
   home: https://qkr0990.github.io/
@@ -2762,12 +2762,12 @@
   speakerdeck: https://speakerdeck.com/sangwoopark
 - name: 박상우
   blog: https://velog.io/@sw7190
-  rss: https://api.velog.io/atom/@sw7190
+  rss: https://v2.velog.io/rss/sw7190
   description: Algorithm
   github: https://github.com/sw7190
 - name: 박상윤
   blog: https://velog.io/@pa324
-  rss: https://api.velog.io/atom/@pa324
+  rss: https://v2.velog.io/rss/pa324
   description: Algorithm
 - name: 박상일
   blog: https://blog.realsangil.net/
@@ -2777,7 +2777,7 @@
   rss: https://blog.realsangil.net/posts/index.xml
 - name: 박상철
   blog: https://velog.io/@park_sang
-  rss: https://api.velog.io/atom/@park_sang
+  rss: https://v2.velog.io/rss/park_sang
 - name: 박상훈
   blog: https://brunch.co.kr/@sanghoonpak
   rss: https://brunch.co.kr/rss/@@v0n
@@ -2794,7 +2794,7 @@
   aboutme: https://about.me/seokjae
 - name: 박선미
   blog: https://velog.io/@psm8873
-  rss: https://api.velog.io/atom/@psm8873
+  rss: https://v2.velog.io/rss/psm8873
   description: Vue
 - name: 박선민
   slideshare: https://www.slideshare.net/SeonminPark2
@@ -2829,7 +2829,7 @@
   linkedin: https://www.linkedin.com/in/parksb
 - name: 박성범
   blog: https://velog.io/@codemcd
-  rss: https://api.velog.io/atom/@codemcd
+  rss: https://v2.velog.io/rss/codemcd
   description: Java
   github: https://github.com/CODEMCD
 - name: 박성우
@@ -2841,7 +2841,7 @@
   slideshare: https://www.slideshare.net/SungWooPark41
 - name: 박성은
   blog: https://velog.io/@p_ssungnni
-  rss: https://api.velog.io/atom/@p_ssungnni
+  rss: https://v2.velog.io/rss/p_ssungnni
   description: iOS
 - name: 박성준
   blog: https://blog.dochis.net/
@@ -2876,7 +2876,7 @@
   slideshare: https://www.slideshare.net/ParkSejin
 - name: 박세환
   blog: https://velog.io/@sehwanforeal
-  rss: https://api.velog.io/atom/@sehwanforeal
+  rss: https://v2.velog.io/rss/sehwanforeal
   github: https://github.com/sehwanforeal
 - name: 박소현
   blog: https://soromi.github.io/
@@ -3126,7 +3126,7 @@
   github: https://github.com/JUNWOO45
 - name: 박준우
   blog: https://velog.io/@korca0220
-  rss: https://api.velog.io/atom/@korca0220
+  rss: https://v2.velog.io/rss/korca0220
   github: https://github.com/korca0220
   rocketpunch: https://www.rocketpunch.com/@korca0220
 - name: 박준표
@@ -3256,7 +3256,7 @@
   home: https://chiwanpark.com/
 - name: 박한준
   blog: https://velog.io/@cyranocoding
-  rss: https://api.velog.io/atom/@cyranocoding
+  rss: https://v2.velog.io/rss/cyranocoding
 - name: 박해선
   blog: https://tensorflow.blog/
   rss: https://tensorflow.blog/feed/
@@ -3383,7 +3383,7 @@
   home: https://www.doosikbae.com/
 - name: 배롱진
   blog: https://velog.io/@qoszino
-  rss: https://api.velog.io/atom/@qoszino
+  rss: https://v2.velog.io/rss/qoszino
 - name: 배상익
   blog: https://aidanbae.github.io/
   rss: https://aidanbae.github.io/index.xml
@@ -3423,7 +3423,7 @@
   home: http://www.simple.pe.kr/
 - name: 배주웅
   blog: https://velog.io/@jbae
-  rss: https://api.velog.io/atom/@jbae
+  rss: https://v2.velog.io/rss/jbae
   facebook: https://www.facebook.com/juungbae
   github: https://github.com/juungbae
   home: https://juungbae.github.io/
@@ -3568,7 +3568,7 @@
   description: 미국 취업 성공기
 - name: 사명기
   blog: https://velog.io/@conatuseus
-  rss: https://api.velog.io/atom/@conatuseus
+  rss: https://v2.velog.io/rss/conatuseus
   description: Back-end
   github: https://github.com/conatuseus
   facebook: https://www.facebook.com/MyungkiSa
@@ -3615,7 +3615,7 @@
   github: https://github.com/inter6
 - name: 서상희
   blog: https://velog.io/@tbvjaos510
-  rss: https://api.velog.io/atom/@tbvjaos510
+  rss: https://v2.velog.io/rss/tbvjaos510
   github: https://github.com/tbvjaos510
 - name: 서송이
   blog: https://songii00.github.io/
@@ -3646,7 +3646,7 @@
   facebook: https://www.facebook.com/lucaseo1991
 - name: 서유상
   blog: https://velog.io/@vlvksbdof12
-  rss: https://api.velog.io/atom/@vlvksbdof12
+  rss: https://v2.velog.io/rss/vlvksbdof12
 - name: 서유찬
   blog: https://medium.com/@seoyoochan
   rss: https://medium.com/feed/@seoyoochan
@@ -3694,7 +3694,7 @@
   medium: https://medium.com/@zechery1
 - name: 서지녁
   blog: https://velog.io/@idw5780
-  rss: https://api.velog.io/atom/@idw5780
+  rss: https://v2.velog.io/rss/idw5780
   facebook: https://www.facebook.com/AlwayssPositive
   instagram: https://www.instagram.com/plzbepositive/
 - name: 서지연
@@ -3712,7 +3712,7 @@
   description: AWS
 - name: 서진규
   blog: https://velog.io/@jakeseo_me
-  rss: https://api.velog.io/atom/@jakeseo_me
+  rss: https://v2.velog.io/rss/jakeseo_me
   description: Javascript
   github: https://github.com/n00nietzsche
 - name: 서창욱
@@ -3825,7 +3825,7 @@
   description: Linux
 - name: 손승현
   blog: https://velog.io/@jamessoun93
-  rss: https://api.velog.io/atom/@jamessoun93
+  rss: https://v2.velog.io/rss/jamessoun93
   description: Algorithm
   github: https://github.com/jamessoun93
 - name: 손영수
@@ -3906,7 +3906,7 @@
   slideshare: https://www.slideshare.net/SongSukree
 - name: 송성현
   blog: https://velog.io/@rlcjf0014
-  rss: https://api.velog.io/atom/@rlcjf0014
+  rss: https://v2.velog.io/rss/rlcjf0014
   github: https://github.com/rlcjf0014
 - name: 송승원
   blog: https://songseungwon.tistory.com
@@ -4169,7 +4169,7 @@
   codeforce: https://codeforces.com/profile/cprayer
 - name: 신현묵
   blog: https://velog.io/@zetlos
-  rss: https://api.velog.io/atom/@zetlos
+  rss: https://v2.velog.io/rss/zetlos
   description: IT 칼럼
   github: https://github.com/seanshin
   twitter: https://twitter.com/zetlos
@@ -4457,7 +4457,7 @@
   github: https://github.com/mytory
 - name: 안홍선
   blog: https://velog.io/@hongku
-  rss: https://api.velog.io/atom/@hongku
+  rss: https://v2.velog.io/rss/hongku
   github: https://github.com/hongku
 - name: 안효근
   blog: https://hyogeun.tistory.com/
@@ -4502,7 +4502,7 @@
   github: https://github.com/yangs1202
 - name: 양성민
   blog: https://velog.io/@chris
-  rss: https://api.velog.io/atom/@chris
+  rss: https://v2.velog.io/rss/chris
   github: https://github.com/ysm0622
   linkedin: https://www.linkedin.com/in/ysm0622/
 - name: 양성익
@@ -4537,7 +4537,7 @@
   description: IT 칼럼
 - name: 양찬모
   blog: https://velog.io/@jjanmo
-  rss: https://api.velog.io/atom/@jjanmo
+  rss: https://v2.velog.io/rss/jjanmo
   description: Algorithm
   github: https://github.com/jjanmo
 - name: 양현석
@@ -4797,7 +4797,7 @@
   description: Back-end
 - name: 원동휘
   blog: https://velog.io/@donghwi
-  rss: https://api.velog.io/atom/@donghwi
+  rss: https://v2.velog.io/rss/donghwi
   description: Front-end
   github: https://github.com/wondonghwi
 - name: 원종석
@@ -4826,7 +4826,7 @@
   linkedin: https://www.linkedin.com/in/ydh0110/
 - name: 유다혜
   blog: https://velog.io/@dahyeyudev
-  rss: https://api.velog.io/atom/@dahyeyudev
+  rss: https://v2.velog.io/rss/dahyeyudev
   description: Front-end
 - name: 유동곤
   blog: https://blog.naver.com/ehdrhs1004
@@ -4967,7 +4967,7 @@
   description: ''
 - name: 유현영
   blog: https://velog.io/@hyeong412
-  rss: https://api.velog.io/atom/@hyeong412
+  rss: https://v2.velog.io/rss/hyeong412
   github: https://github.com/You-hyeonyeong
   facebook: https://www.facebook.com/hyeong412
 - name: 유형곤
@@ -4985,7 +4985,7 @@
   github: https://github.com/cocopambag
 - name: 유호건
   blog: https://velog.io/@youhogeon
-  rss: https://api.velog.io/atom/@youhogeon
+  rss: https://v2.velog.io/rss/youhogeon
   description: Javascript
 - name: 유홍근
   blog: https://coffeewhale.com/
@@ -5096,7 +5096,7 @@
   description: Web
 - name: 윤슬기
   blog: https://velog.io/@sgyoon
-  rss: https://api.velog.io/atom/@sgyoon
+  rss: https://v2.velog.io/rss/sgyoon
   description: Front-end
   github: https://github.com/seulgiyoon
   twitter: https://twitter.com/sgyoon_info
@@ -5168,7 +5168,7 @@
   description: 구글러
 - name: 윤해은
   blog: https://velog.io/@yhe228
-  rss: https://api.velog.io/atom/@yhe228
+  rss: https://v2.velog.io/rss/yhe228
 - name: 윤현철
   blog: http://metashower.egloos.com/
   rss: http://rss.egloos.com/blog/metashower
@@ -5186,7 +5186,7 @@
   description: '프론트엔드 엔지니어'
 - name: 이건모
   blog: https://velog.io/@george
-  rss: https://api.velog.io/atom/@george
+  rss: https://v2.velog.io/rss/george
   description: Front-end
 - name: 이건희
   linkedin: https://www.linkedin.com/in/gunhee-lee-46b21312a/
@@ -5468,7 +5468,7 @@
   slideshare: https://www.slideshare.net/lumiamitie
 - name: 이민호
   blog: https://velog.io/@minholee_93
-  rss: https://api.velog.io/atom/@minholee_93
+  rss: https://v2.velog.io/rss/minholee_93
   description: AWS
   linkedin: https://www.linkedin.com/in/minho-lee-26a1a8175/
   github: https://github.com/MinhoLee93
@@ -5489,7 +5489,7 @@
   description: Agile
 - name: 이병훈
   blog: https://velog.io/@ohmry
-  rss: https://api.velog.io/atom/@ohmry
+  rss: https://v2.velog.io/rss/ohmry
 - name: 이병훈
   blog: https://byeonghun-lee.github.io/
   facebook: https://www.facebook.com/hun0811
@@ -5519,7 +5519,7 @@
   description: Linux
 - name: 이상배
   blog: https://velog.io/@lsb156
-  rss: https://api.velog.io/atom/@lsb156
+  rss: https://v2.velog.io/rss/lsb156
   description: Kotlin
 - name: 이상복
   blog: https://medium.com/@sangboaklee
@@ -5659,7 +5659,7 @@
   twitter: https://twitter.com/excoda
 - name: 이세진
   blog: https://velog.io/@chadonghwa
-  rss: https://api.velog.io/atom/@chadonghwa
+  rss: https://v2.velog.io/rss/chadonghwa
   description: Data Structure
 - name: 이소영
   blog: https://so-so.dev/
@@ -5733,7 +5733,7 @@
   linkedin: https://www.linkedin.com/in/maryangmin/
 - name: 이승엽
   blog: https://velog.io/@nekonitrate
-  rss: https://api.velog.io/atom/@nekonitrate
+  rss: https://v2.velog.io/rss/nekonitrate
   description: Front-end
   github: https://github.com/nekoromancer
 - name: 이승우
@@ -5847,7 +5847,7 @@
   linkedin: https://www.linkedin.com/in/wangwon-lee-25670a135/
 - name: 이용수
   blog: https://velog.io/@widian
-  rss: https://api.velog.io/atom/@widian
+  rss: https://v2.velog.io/rss/widian
   description: Linux
 - name: 이용혁
   twitter: https://twitter.com/skynle
@@ -5887,7 +5887,7 @@
   description: Robot
 - name: 이유진
   blog: https://velog.io/@2ujin
-  rss: https://api.velog.io/atom/@2ujin
+  rss: https://v2.velog.io/rss/2ujin
   github: https://github.com/2ujin
 - name: 이유한
   facebook: https://www.facebook.com/youhan.lee.33
@@ -5931,7 +5931,7 @@
   tistory: https://second-brain.tistory.com/
 - name: 이장희
   blog: https://velog.io/@yesdoing
-  rss: https://api.velog.io/atom/@yesdoing
+  rss: https://v2.velog.io/rss/yesdoing
   description: Front-end
 - name: 이재면
   slideshare: https://www.slideshare.net/jaemyunlee1
@@ -5966,7 +5966,7 @@
   github: https://github.com/jaeyo
 - name: 이재원
   blog: https://velog.io/@jwlee010523
-  rss: https://api.velog.io/atom/@jwlee010523
+  rss: https://v2.velog.io/rss/jwlee010523
   github: https://github.com/ijaewon
 - name: 이재현
   blog: https://www.unity3dstudy.com/
@@ -6119,7 +6119,7 @@
   description: 해외 취업
 - name: 이준형
   blog: https://velog.io/@leejh3224
-  rss: https://api.velog.io/atom/@leejh3224
+  rss: https://v2.velog.io/rss/leejh3224
   description: Node.js, AWS
   github: https://github.com/leejh3224
   stackoverflow: https://stackoverflow.com/users/7424027/이준형
@@ -6154,7 +6154,7 @@
   description: 통신, 금융
 - name: 이지은
   blog: https://velog.io/@xaq03061
-  rss: https://api.velog.io/atom/@xaq03061
+  rss: https://v2.velog.io/rss/xaq03061
   description: Algorithm
 - name: 이지현
   blog: https://www.bloter.net/archives/author/jihyun
@@ -6192,7 +6192,7 @@
   facebook: https://www.facebook.com/allieuslee
 - name: 이진석
   blog: https://velog.io/@sonaky47
-  rss: https://api.velog.io/atom/@sonaky47
+  rss: https://v2.velog.io/rss/sonaky47
   description: Web
   github: https://github.com/leejinseok
 - name: 이진석
@@ -6204,7 +6204,7 @@
   facebook: https://www.facebook.com/jhinseok.lee
 - name: 이진영
   blog: https://velog.io/@wlsdud2194
-  rss: https://api.velog.io/atom/@wlsdud2194
+  rss: https://v2.velog.io/rss/wlsdud2194
   description: Web
   facebook: https://www.facebook.com/wlsdud2194
   github: https://github.com/wlsdud2194
@@ -6254,7 +6254,7 @@
   github: https://github.com/ventulus95
 - name: 이창주
   blog: https://velog.io/@jerrynim_
-  rss: https://api.velog.io/atom/@jerrynim_
+  rss: https://v2.velog.io/rss/jerrynim_
   description: AWS
   github: https://github.com/jerrynim
   home: https://jerrynim.com
@@ -6268,7 +6268,7 @@
   description: Machine Learning
 - name: 이청규
   blog: https://velog.io/@king
-  rss: https://api.velog.io/atom/@king
+  rss: https://v2.velog.io/rss/king
   description: Jenkins, Atlassian
   youtube: https://www.youtube.com/channel/UC_MinTXO3V4mhbjV3nd32PA
 - name: 이치웅
@@ -6471,7 +6471,7 @@
   github: https://github.com/wariua
 - name: 임수진
   blog: https://velog.io/@ssuda
-  rss: https://api.velog.io/atom/@ssuda
+  rss: https://v2.velog.io/rss/ssuda
   description: OS
 - name: 임재연
   blog: https://imreplay.com/
@@ -6529,7 +6529,7 @@
   home: https://findawayer.github.io/
 - name: 임택
   blog: https://velog.io/@victor
-  rss: https://api.velog.io/atom/@victor
+  rss: https://v2.velog.io/rss/victor
   description: Algorithm
   github: https://github.com/intothedeep
 - name: 임한솔
@@ -6616,7 +6616,7 @@
   facebook: https://www.facebook.com/tjtdkr
 - name: 장봄
   blog: https://velog.io/@denmark-choco
-  rss: https://api.velog.io/atom/@denmark-choco
+  rss: https://v2.velog.io/rss/denmark-choco
   description: Front-end
 - name: 장선우
   blog: https://sjquant.github.io/
@@ -6723,7 +6723,7 @@
   github: https://github.com/simonjisu
 - name: 장창섭
   blog: https://velog.io/@changsubchang
-  rss: https://api.velog.io/atom/@changsubchang
+  rss: https://v2.velog.io/rss/changsubchang
   github: https://github.com/changsubchang
   facebook: https://www.facebook.com/changsubchang
   linkedin: https://www.linkedin.com/in/changsubchang/
@@ -6779,11 +6779,11 @@
   linkedin: https://www.linkedin.com/in/palindrom615/
 - name: 장효인
   blog: https://velog.io/@janghyoin
-  rss: https://api.velog.io/atom/@janghyoin
+  rss: https://v2.velog.io/rss/janghyoin
   description: Front-end
 - name: 전광용
   blog: https://velog.io/@devjeon1358
-  rss: https://api.velog.io/atom/@devjeon1358
+  rss: https://v2.velog.io/rss/devjeon1358
   description: Back-end
   github: https://github.com/DevJeon1358
   facebook: https://www.facebook.com/gwangyoung.jeon
@@ -7076,7 +7076,7 @@
   github: https://github.com/Resten1497
 - name: 정서경
   blog: https://velog.io/@imacoolgirlyo
-  rss: https://api.velog.io/atom/@imacoolgirlyo
+  rss: https://v2.velog.io/rss/imacoolgirlyo
   description: Front-end
   github: https://github.com/imacoolgirlyo
   rocketpunch: https://www.rocketpunch.com/@d2b91136dc75475e
@@ -7139,11 +7139,11 @@
   github: https://github.com/Yangeok
 - name: 정연진
   blog: https://velog.io/@dus532
-  rss: https://api.velog.io/atom/@dus532
+  rss: https://v2.velog.io/rss/dus532
   description: Front-end
 - name: 정영진
   blog: https://velog.io/@jeong3320
-  rss: https://api.velog.io/atom/@jeong3320
+  rss: https://v2.velog.io/rss/jeong3320
 - name: 정용일
   blog: http://yongil.net/
   rss: http://yongil.net/feed
@@ -7288,7 +7288,7 @@
   github: https://github.com/Gompangs
 - name: 정진균
   blog: https://velog.io/@jjikkyu
-  rss: https://api.velog.io/atom/@jjikkyu
+  rss: https://v2.velog.io/rss/jjikkyu
   github: https://github.com/jjikkyu
   youtube: https://www.youtube.com/user/UMAKification
 - name: 정진성
@@ -7303,7 +7303,7 @@
   github: https://github.com/jwChung
 - name: 정진욱
   blog: https://velog.io/@jinuku
-  rss: https://api.velog.io/atom/@jinuku
+  rss: https://v2.velog.io/rss/jinuku
   description: Unity
 - name: 정찬명
   blog: http://naradesign.net/
@@ -7440,7 +7440,7 @@
   linkedin: https://www.linkedin.com/in/pitzcarraldo
 - name: 조민규
   blog: https://velog.io/@city7310
-  rss: https://api.velog.io/atom/@city7310
+  rss: https://v2.velog.io/rss/city7310
   description: Back-end
   github: https://github.com/JoMingyu
   facebook: https://www.facebook.com/profile.php?id=100006735372513
@@ -7471,7 +7471,7 @@
   home: https://seonhyung.netlify.com/
 - name: 조성동
   blog: https://velog.io/@sdong001
-  rss: https://api.velog.io/atom/@sdong001
+  rss: https://v2.velog.io/rss/sdong001
   description: Android
 - name: 조성문
   blog: https://sungmooncho.com/
@@ -7741,7 +7741,7 @@
   facebook: https://www.facebook.com/profile.php?id=100016513931686
 - name: 진소린
   blog: https://velog.io/@jnsorn
-  rss: https://api.velog.io/atom/@jnsorn
+  rss: https://v2.velog.io/rss/jnsorn
   description: Redis
   github: https://github.com/jnsorn
 - name: 진수민
@@ -7935,7 +7935,7 @@
   github: https://github.com/bench87
 - name: 최민호
   blog: https://velog.io/@vnthf
-  rss: https://api.velog.io/atom/@vnthf
+  rss: https://v2.velog.io/rss/vnthf
   description: Typescript
 - name: 최백준
   blog: https://stack.news
@@ -8001,7 +8001,7 @@
   description: Kotlin, JavaScript, TDD, Agile
 - name: 최승윤
   blog: https://velog.io/@alchemist718
-  rss: https://api.velog.io/atom/@alchemist718
+  rss: https://v2.velog.io/rss/alchemist718
 - name: 최승필
   blog: https://brunch.co.kr/@pilsogood
   rss: https://brunch.co.kr/rss/@@1iQC
@@ -8026,7 +8026,7 @@
   linkedin: https://www.linkedin.com/in/rakku/
 - name: 최영훈
   blog: https://velog.io/@jeff0720
-  rss: https://api.velog.io/atom/@jeff0720
+  rss: https://v2.velog.io/rss/jeff0720
   description: AWS
   github: https://github.com/jeffchoi72
 - name: 최예나
@@ -8077,7 +8077,7 @@
   description: Algorithm
 - name: 최재용
   blog: https://velog.io/@kingcjy
-  rss: https://api.velog.io/atom/@kingcjy
+  rss: https://v2.velog.io/rss/kingcjy
   github: https://github.com/KingCjy
 - name: 최재원
   blog: https://medium.com/@jaewon.james.choi
@@ -8255,7 +8255,7 @@
   youtube: https://www.youtube.com/channel/UCBi0jCTCZUJMWGQrrvVmVRQ
 - name: 추명호
   blog: https://velog.io/@myeongho0812
-  rss: https://api.velog.io/atom/@myeongho0812
+  rss: https://v2.velog.io/rss/myeongho0812
   description: Web
   facebook: https://www.facebook.com/chumyeongho
   github: https://github.com/ttingho
@@ -8677,7 +8677,7 @@
   facebook: https://www.facebook.com/sunghong.sch
 - name: 홍영란
   blog: https://velog.io/@hy9202
-  rss: https://api.velog.io/atom/@hy9202
+  rss: https://v2.velog.io/rss/hy9202
   github: https://github.com/YounglanHong
 - name: 홍영택
   blog: https://hackerwins.github.io/
@@ -8828,7 +8828,7 @@
   github: https://github.com/jhhwang4195
 - name: 황창재
   blog: https://velog.io/@pequalnp
-  rss: https://api.velog.io/atom/@pequalnp
+  rss: https://v2.velog.io/rss/pequalnp
 - name: 황치규
   blog: https://brunch.co.kr/@delight412
   rss: https://brunch.co.kr/rss/@@ZVA
