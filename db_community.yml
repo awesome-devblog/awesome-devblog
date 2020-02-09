@@ -888,7 +888,7 @@
   github: https://github.com/croquiscom
 - name: velog
   blog: https://velog.io/
-  rss: https://api.velog.io/atom/
+  rss: https://v2.velog.io/rss/
   description: Meta Blog
 - name: Remotty
   blog: http://blog.remotty.com/blog/
@@ -1416,7 +1416,7 @@
   facebook: https://www.facebook.com/devcareer/
 - name: 프론트엔드 개발 공부 - 프개공
   facebook: https://www.facebook.com/frontendstudy/
-- name: "F E L O G: 프론트엔드 개발에 대하여"
+- name: 'F E L O G: 프론트엔드 개발에 대하여'
   facebook: https://www.facebook.com/Jbee.dev/
 - name: 모바일 앱 개발 공부
   facebook: https://www.facebook.com/AppDevStudy/
