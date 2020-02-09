@@ -7995,6 +7995,10 @@
   blog: https://cionman.tistory.com/
   rss: https://cionman.tistory.com/rss
   description: Linux
+- name: 최수형
+  blog: https://wholeman.dev/
+  rss: https://wholeman.dev/rss.xml
+  description: Kotlin, JavaScript, TDD, Agile
 - name: 최승윤
   blog: https://velog.io/@alchemist718
   rss: https://api.velog.io/atom/@alchemist718
