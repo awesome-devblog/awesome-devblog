@@ -1539,9 +1539,6 @@
 - name: 쿠팡
   blog: https://medium.com/coupang-tech
   rss: https://medium.com/feed/coupang-tech
-- name: Class101
-  blog: https://class101.dev/
-  rss: https://class101.dev/rss.xml
 - name: NTS WIT
   blog: https://wit.nts-corp.com/
   rss: https://wit.nts-corp.com/feed
