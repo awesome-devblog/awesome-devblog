@@ -1591,3 +1591,6 @@
 - name: 메가존
   blog: https://cloud.hosting.kr/blog/
   rss: https://cloud.hosting.kr/feed/
+- name: 컬리
+  blog: https://helloworld.kurly.com/
+  rss: https://helloworld.kurly.com/feed.xml
