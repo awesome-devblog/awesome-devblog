@@ -1534,6 +1534,11 @@
   rss: https://jhyeok.com/rss.xml
   description: Back-end
   github: https://github.com/JHyeok
+- name: 김재현
+  blog: https://jaehyun8719.github.io/
+  rss: https://jaehyun8719.github.io/atom.xml
+  description: Back-end
+  github: https://github.com/jaehyun8719
 - name: 김재호
   blog: https://www.benjaminlog.com/
   rss: https://feeds.feedburner.com/crazytazo?format=xml
