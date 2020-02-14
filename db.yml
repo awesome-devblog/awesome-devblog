@@ -3410,15 +3410,12 @@
 - name: 배소라
   youtube: https://www.youtube.com/channel/UC2lVigaHHMMW42EYmqZ94kg
   facebook: https://www.facebook.com/ssolbae
-- name: 백서영
-  blog: https://baek.dev
-  rss: https://baek.dev/feed.xml
-  description: Backend Software Engineer
-  github: https://github.com/baekdev
-- name: 백승지
-  blog: https://blog.naver.com/conaman
-  rss: https://rss.blog.naver.com/conaman.xml
-  desciprion: Game Development
+- name: 배영섭
+  blog: https://byseop.netlify.com/
+  rss: https://byseop.netlify.com/rss.xml
+  description: React
+  facebook: https://www.facebook.com/profile.php?id=100003672276708
+  github: https://github.com/byseop
 - name: 배재민
   blog: https://medium.com/@JaeminBae
   rss: https://medium.com/feed/@JaeminBae
@@ -3483,6 +3480,11 @@
   description: Java, OOP
   linkedin: https://www.linkedin.com/in/myeongseok-baek-b9b1591b/
   slideshare: https://www.slideshare.net/codetemplate
+- name: 백서영
+  blog: https://baek.dev
+  rss: https://baek.dev/feed.xml
+  description: Backend Software Engineer
+  github: https://github.com/baekdev
 - name: 백성덕
   blog: https://black9p.github.io/
   description: React
@@ -3498,6 +3500,10 @@
   twitter: https://twitter.com/drumpet
   linkedin: https://www.linkedin.com/in/anthony-seungwook-paek-24b54228/
   slideshare: https://www.slideshare.net/AnthonySeungwookPaek
+- name: 백승지
+  blog: https://blog.naver.com/conaman
+  rss: https://rss.blog.naver.com/conaman.xml
+  desciprion: Game Development
 - name: 백영진
   blog: https://koreaceladon.tistory.com/
   rss: https://koreaceladon.tistory.com/rss
