@@ -1594,3 +1594,6 @@
 - name: 컬리
   blog: https://helloworld.kurly.com/
   rss: https://helloworld.kurly.com/feed.xml
+- name: 휴먼스케이프 개발블로그
+  blog: https://medium.com/humanscape-tech
+  rss: https://medium.com/feed/humanscape-tech
