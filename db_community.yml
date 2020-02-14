@@ -1597,3 +1597,6 @@
 - name: 휴먼스케이프 개발블로그
   blog: https://medium.com/humanscape-tech
   rss: https://medium.com/feed/humanscape-tech
+- name: 라인웍스
+  blog: https://linewalks.com/blog
+  rss: https://linewalks.com/feed
