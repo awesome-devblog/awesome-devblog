@@ -6077,6 +6077,12 @@
 - name: 이제민
   youtube: https://www.youtube.com/channel/UCRWq4MPqifkmT2GyL2d2ZAQ
   aladin: https://www.aladin.co.kr/author/wauthor_overview.aspx?AuthorSearch=@6535991
+- name: 이제현
+  blog: https://jehyunlee.github.io/
+  rss: https://jehyunlee.github.io/feed.xml
+  description: Python
+  github: https://github.com/jehyunlee
+  facebook: https://www.facebook.com/jehyun.lee.9615
 - name: 이종립
   blog: https://johngrib.github.io/
   rss: https://johngrib.github.io/feed.xml
