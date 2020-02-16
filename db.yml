@@ -6047,8 +6047,8 @@
   facebook: https://www.facebook.com/jeongju.lee.5648
   aladin: https://www.aladin.co.kr/author/wauthor_overview.aspx?AuthorSearch=@7438215
 - name: 이정해
-  blog: https://hermestop.tistory.com/
-  rss: https://hermestop.tistory.com/rss
+  blog: https://myinfrabox.tistory.com/
+  rss: https://myinfrabox.tistory.com/rss
   description: Database
   slideshare: https://www.slideshare.net/junghaelee10
   linkedin: https://www.linkedin.com/in/정해-이-a905058b/
@@ -6339,6 +6339,11 @@
   blog: https://medium.com/@kkak10
   rss: https://medium.com/feed/@kkak10
   description: Javascript
+- name: 이한종
+  blog: https://medium.com/@larkbless
+  rss: https://medium.com/feed/@larkbless
+  description: Front-end
+  facebook: https://www.facebook.com/hanjong.lee.319
 - name: 이항희
   blog: https://blog.javarouka.me/
   rss: https://blog.javarouka.me/atom.xml
