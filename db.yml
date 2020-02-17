@@ -3020,6 +3020,7 @@
   blog: https://k9327.tistory.com/
   rss: https://k9327.tistory.com/rss
   github: https://github.com/kei9327
+  meeta: https://meeta.io/@kei
 - name: 박재성
   nickname: 자바지기
   blog: https://brunch.co.kr/@javajigi
@@ -3477,6 +3478,12 @@
   rss: https://medium.com/feed/jiwon-bae
   description: Java
   github: https://github.com/jiwonbabe
+- name: 배진오
+  blog: https://baejino.com/
+  rss: https://baejino.com/feed.xml
+  description: Blex
+  github: https://github.com/baealex
+  youtube: https://www.youtube.com/channel/UCuupY_WlY6cPKEnpNNSVRpA
 - name: 배진호
   blog: https://medium.com/@baejinho/
   rss: https://medium.com/feed/@baejinho
