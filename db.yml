@@ -586,6 +586,12 @@
 - name: 김길호
   blog: https://kilhokim.github.io/
   description: ''
+- name: 김나람
+  blog: https://blog.grotesq.com/
+  rss: https://blog.grotesq.com/feed
+  github: https://github.com/Unk
+  facebook: https://www.facebook.com/unknown.grotesq
+  home: https://naram.kim/
 - name: 김나솔
   blog: https://brunch.co.kr/@nassol
   rss: https://brunch.co.kr/rss/@@14Ig
@@ -1449,6 +1455,12 @@
   rss: https://devtimothy.tistory.com/rss
   description: Front-end
   facebook: https://www.facebook.com/yunseop.kim.5
+- name: 김은수
+  blog: https://cla9.tistory.com/
+  rss: https://cla9.tistory.com/rss
+  description: MSA
+  facebook: https://www.facebook.com/cla909
+  github: https://github.com/cla9
 - name: 김은향
   linkedin: https://www.linkedin.com/in/eunhyang-kim-447812115/
   slideshare: https://www.slideshare.net/EunhyangKim2
@@ -1763,6 +1775,15 @@
   blog: https://brunch.co.kr/@pubjinson
   rss: https://brunch.co.kr/rss/@@l9p
   description: ''
+- name: 김지오
+  blog: https://blog.wldh.org/
+  rss: https://blog.wldh.org/rss
+  github: https://github.com/wldh-g/
+  facebook: https://www.facebook.com/wldh.aa
+  twitter: https://twitter.com/wldh_aa
+  linkedin: https://www.linkedin.com/in/wldh/
+  instagram: https://www.instagram.com/with_jio/
+  home: https://www.wldh.org/
 - name: 김지용
   blog: https://milhouse93.tistory.com/
   rss: https://milhouse93.tistory.com/rss
@@ -2251,6 +2272,10 @@
 - name: 나윤환
   blog: https://nayunhwan.github.io/
   description: React
+  github: https://github.com/nayunhwan
+  linkedin: https://www.linkedin.com/in/nayunhwan/
+  slideshare: https://www.slideshare.net/YunHwanNa
+  instagram: https://www.instagram.com/nayunhwan/
 - name: 나윤호
   blog: https://velog.io/@tura
   rss: https://v2.velog.io/rss/tura
@@ -5498,6 +5523,10 @@
   rss: https://medium.com/feed/@beomjae
   twitter: https://twitter.com/beomjae
   facebook: https://www.facebook.com/scloudycom
+- name: 이병록
+  blog: https://roka88.dev/
+  rss: https://roka88.dev/rss
+  facebook: https://www.facebook.com/roka88dev
 - name: 이병준
   blog: http://www.buggymind.com/
   rss: http://buggymind.com/rss
@@ -6047,8 +6076,8 @@
   facebook: https://www.facebook.com/jeongju.lee.5648
   aladin: https://www.aladin.co.kr/author/wauthor_overview.aspx?AuthorSearch=@7438215
 - name: 이정해
-  blog: https://hermestop.tistory.com/
-  rss: https://hermestop.tistory.com/rss
+  blog: https://myinfrabox.tistory.com/
+  rss: https://myinfrabox.tistory.com/rss
   description: Database
   slideshare: https://www.slideshare.net/junghaelee10
   linkedin: https://www.linkedin.com/in/정해-이-a905058b/
@@ -6079,6 +6108,10 @@
   aladin: https://www.aladin.co.kr/author/wauthor_overview.aspx?AuthorSearch=@6535991
 - name: 이제현
   blog: https://jehyunlee.github.io/  
+  rss: https://jehyunlee.github.io/feed.xml
+  description: Python
+  github: https://github.com/jehyunlee
+  facebook: https://www.facebook.com/jehyun.lee.9615
 - name: 이종립
   blog: https://johngrib.github.io/
   rss: https://johngrib.github.io/feed.xml
@@ -6341,6 +6374,11 @@
   blog: https://medium.com/@kkak10
   rss: https://medium.com/feed/@kkak10
   description: Javascript
+- name: 이한종
+  blog: https://medium.com/@larkbless
+  rss: https://medium.com/feed/@larkbless
+  description: Front-end
+  facebook: https://www.facebook.com/hanjong.lee.319
 - name: 이항희
   blog: https://blog.javarouka.me/
   rss: https://blog.javarouka.me/atom.xml
