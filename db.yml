@@ -3100,6 +3100,11 @@
   slideshare: https://www.slideshare.net/zzonee
   github: https://github.com/corazzon
   youtube: https://www.youtube.com/channel/UCLR3sD0KB_dWpvcsrLP0aUg
+- name: 박종균
+  blog: https://jongp.me/
+  rss: https://jongp.me/rss.xml
+  description: Front-end
+  github: https://github.com/jonggyun
 - name: 박종명
   blog: https://m.mkexdev.net/
   rss: https://m.mkexdev.net/rss
