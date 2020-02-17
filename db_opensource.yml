@@ -442,6 +442,9 @@
 - name: epic-spinners
   github: https://github.com/epicmaxco/epic-spinners
   tags: [CSS Spinner]
+- name: esbuild
+  github: https://github.com/evanw/esbuild
+  tags: [Javascript, Tool]
 - name: ESLint
   home: https://eslint.org/
   github: https://github.com/eslint/eslint
@@ -735,16 +738,22 @@
   github: https://github.com/haproxy/haproxy
   slack: https://slack.haproxy.org/
   tags: [Proxy]
+- name: Harbor
+  home: https://goharbor.io/
+  github: https://github.com/goharbor
+  stackoverflow: https://stackoverflow.com/questions/tagged/harbor
+  twitter: https://twitter.com/project_harbor
+  tags: [Container, Registry]
 - name: Helidon
   home: https://helidon.io/
   github: https://github.com/oracle/helidon
   twitter: https://twitter.com/helidon_project
   tags: [Java, Back-end Framework]
 - name: Helm
-  home: https://helm.sh/
+  home: https://www.helm.sh/
   github: https://github.com/helm/helm
   slack: https://kubernetes.slack.com/
-  tags: [Container]
+  tags: [Container, Package Management]
 - name: Hermes
   home: https://hermesengine.dev/
   github: https://github.com/facebook/hermes
@@ -861,6 +870,11 @@
   home: http://johnny-five.io/
   github: https://github.com/rwaldron/johnny-five
   tags: [Robotics]
+- name: Joplin
+  home: https://joplinapp.org/
+  github: https://github.com/laurent22/joplin
+  discourse: https://discourse.joplinapp.org/
+  tags: [Note]
 - name: Julia
   home: https://julialang.org/
   github: https://github.com/JuliaLang/julia
@@ -1941,6 +1955,11 @@
   home: https://pingcap.com/
   github: https://github.com/pingcap/tidb
   tags: [Database]
+- name: TiKV
+  home: https://tikv.org/
+  github: https://github.com/tikv/tikv
+  stackoverflow: https://stackoverflow.com/questions/tagged/tikv
+  tags: [Key-value Store]
 - name: Toast UI Editor
   home: http://ui.toast.com/tui-editor/
   github: https://github.com/nhnent/tui.editor
