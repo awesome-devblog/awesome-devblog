@@ -1563,9 +1563,12 @@
   rss: https://lastrites2018.netlify.com/rss.xml
   description: Front-end
   github: https://github.com/lastrites2018
-- name: 김제열
+- name: 김재열
   blog: https://jjerry-k.github.io/
- - name: 김정동
+  rss: https://jjerry-k.github.io/atom.xml
+  facebook: https://www.facebook.com/jerry.kim.566
+  github: https://github.com/jjerry-k
+- name: 김정동
   blog: https://dong-life.tistory.com/
   rss: https://dong-life.tistory.com/rss
   facebook: https://www.facebook.com/jungdong.kim.167
