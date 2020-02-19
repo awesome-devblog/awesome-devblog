@@ -1900,7 +1900,7 @@
   blog: https://brunch.co.kr/@lifidea
   rss: https://brunch.co.kr/rss/@@C6L
   description: 데이터 과학
-  aladin: https://www.aladin.co.kr/author/wauthor_overview.aspx?AuthorSearch=@4975468
+  aladin: https://www.aladin.co.kr/m/mauthorinfo.aspx?authorsearch=@4975468
 - name: 김진욱
   blog: https://rein.kr/blog/
   description: ''
@@ -2550,7 +2550,7 @@
   description: Web, JavaScript, Graphics
   github: https://github.com/evan-moon
   linkedin: https://www.linkedin.com/in/evan-moon/
-  aladin: https://www.aladin.co.kr/author/wauthor_overview.aspx?AuthorSearch=@7243466
+  aladin: https://www.aladin.co.kr/m/mauthorinfo.aspx?authorsearch=@7243466
 - name: 문범우
   blog: https://doorbw.tistory.com/
   rss: https://doorbw.tistory.com/rss
@@ -2592,7 +2592,7 @@
   rss: https://brunch.co.kr/atom/@@2o8u
   description: ''
   facebook: https://www.facebook.com/moonj
-  aladin: https://www.aladin.co.kr/author/wauthor_overview.aspx?AuthorSearch=@6307552
+  aladin: https://www.aladin.co.kr/m/mauthorinfo.aspx?authorsearch=@6307552
 - name: 문지형
   blog: https://inmoonlight.github.io/
   rss: https://inmoonlight.github.io/feed.xml
@@ -2961,7 +2961,7 @@
   rss: https://feeds.feedburner.com/bakyeono
   description: Python
   github: https://github.com/bakyeono
-  aladin: https://www.aladin.co.kr/author/wauthor_overview.aspx?AuthorSearch=@6241870
+  aladin: https://www.aladin.co.kr/m/mauthorinfo.aspx?authorsearch=@6241870
 - name: 박영록
   blog: http://youngrok.com/
   description: 위키나무
@@ -4983,7 +4983,7 @@
   blog: https://blog.eedler.com/
   rss: https://blog.eedler.com/rss
   description: Swift
-  aladin: https://www.aladin.co.kr/author/wauthor_overview.aspx?AuthorSearch=@5864807
+  aladin: https://www.aladin.co.kr/m/mauthorinfo.aspx?authorsearch=@5864807
 - name: 유인동
   blog: https://medium.com/@indongyoo
   rss: https://medium.com/feed/@indongyoo
@@ -5099,7 +5099,7 @@
   blog: https://076923.github.io/
   rss: https://076923.github.io/feed.xml
   description: Computer Vision
-  aladin: https://www.aladin.co.kr/author/wauthor_overview.aspx?AuthorSearch=@7254515
+  aladin: https://www.aladin.co.kr/m/mauthorinfo.aspx?authorsearch=@7254515
 - name: 윤도경
   blog: https://blog.metafor.kr/
   rss: https://blog.metafor.kr/rss
@@ -5463,7 +5463,7 @@
   description: Java, Spring, IntelliJ, Backend
   facebook: https://www.facebook.com/jojoldu
   github: https://github.com/jojoldu
-  aladin: https://www.aladin.co.kr/author/wauthor_overview.aspx?AuthorSearch=@7569909
+  aladin: https://www.aladin.co.kr/m/mauthorinfo.aspx?authorsearch=@7569909
 - name: 이동원
   blog: https://blog.wonizz.tk/
   rss: https://blog.wonizz.tk/feed/
@@ -6057,7 +6057,7 @@
   facebook: https://www.facebook.com/landvibe
   twitter: https://twitter.com/landvibe
   github: https://github.com/landvibe
-  aladin: https://www.aladin.co.kr/author/wauthor_overview.aspx?AuthorSearch=@7188634
+  aladin: https://www.aladin.co.kr/m/mauthorinfo.aspx?authorsearch=@7188634
 - name: 이재열
   blog: https://kodingwarrior.github.io/
   rss: https://kodingwarrior.github.io/feed.xml
@@ -6140,7 +6140,7 @@
   description: Machine Learning, Android
   youtube: https://www.youtube.com/channel/UCQeLdtodgFWThPxVeWjAncA
   facebook: https://www.facebook.com/jeongju.lee.5648
-  aladin: https://www.aladin.co.kr/author/wauthor_overview.aspx?AuthorSearch=@7438215
+  aladin: https://www.aladin.co.kr/m/mauthorinfo.aspx?authorsearch=@7438215
 - name: 이정해
   blog: https://myinfrabox.tistory.com/
   rss: https://myinfrabox.tistory.com/rss
@@ -6171,7 +6171,7 @@
   home: https://leejaymin.github.io/
 - name: 이제민
   youtube: https://www.youtube.com/channel/UCRWq4MPqifkmT2GyL2d2ZAQ
-  aladin: https://www.aladin.co.kr/author/wauthor_overview.aspx?AuthorSearch=@6535991
+  aladin: https://www.aladin.co.kr/m/mauthorinfo.aspx?authorsearch=@6535991
 - name: 이제현
   blog: https://jehyunlee.github.io/  
   rss: https://jehyunlee.github.io/feed.xml
@@ -6562,6 +6562,11 @@
   description: 포털
 - name: 이희진
   github: https://github.com/foxwavez
+- name: 임규민
+  blog: https://medium.com/@limgyumin
+  rss: https://medium.com/feed/@limgyumin
+  github: https://github.com/GMLim
+  aladin: https://www.aladin.co.kr/m/mauthorinfo.aspx?authorsearch=@6180444
 - name: 임덕규
   linkedin: https://www.linkedin.com/in/ravenkyu/
   slideshare: https://www.slideshare.net/ravenkyu
@@ -7629,7 +7634,7 @@
   facebook: https://www.facebook.com/cho.seungjin
   twitter: https://twitter.com/John_Nasse/
   linkedin: https://www.linkedin.com/in/seungjin-cho-72844723/
-  aladin: https://www.aladin.co.kr/m/msearch.aspx?AuthorSearch=조승진@5193537
+  aladin: https://www.aladin.co.kr/m/mauthorinfo.aspx?authorsearch=@5193537
 - name: 조영국
   blog: https://brunch.co.kr/@ziyocode
   rss: https://brunch.co.kr/rss/@@262h
