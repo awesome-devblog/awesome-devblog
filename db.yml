@@ -3519,6 +3519,10 @@
   description: 번역
   twitter: https://twitter.com/steadyslow
   facebook: https://www.facebook.com/hwidong.bae
+- name: 백규철
+  blog: https://boss109.tistory.com/
+  rss: https://boss109.tistory.com/rss
+  description: Java, Spring, 컴퓨터 공학
 - name: 백기선
   blog: http://whiteship.me/
   rss: http://whiteship.me/?feed=rss2
