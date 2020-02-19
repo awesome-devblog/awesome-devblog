@@ -5508,6 +5508,9 @@
   blog: https://brunch.co.kr/@brightlee
   rss: https://brunch.co.kr/rss/@@2kai
   description: 스타트업
+- name: 이명휘
+  blog: https://medium.com/@bunjang_kelly
+  rss: https://medium.com/feed/@bunjang_kelly
 - name: 이무열
   blog: https://mooyoul.github.io/
   rss: https://mooyoul.github.io/atom.xml
