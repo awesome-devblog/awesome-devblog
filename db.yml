@@ -1045,6 +1045,11 @@
   blog: https://blog.usefulparadigm.com/@sjoonk
   description: Wordpress
   twitter: https://twitter.com/sjoonk
+- name: 김선규
+  blog: https://velog.io/@hopsprings2
+  rss: https://v2.velog.io/rss/hopsprings2
+  facebook: https://www.facebook.com/profile.php?id=100004200672253
+  github: https://github.com/seonkyukim
 - name: 김선기
   blog: https://brunch.co.kr/@sungi-kim
   rss: https://brunch.co.kr/rss/@@11Qy
@@ -4843,6 +4848,7 @@
   blog: https://blog.naver.com/alice_k106
   rss: https://rss.blog.naver.com/alice_k106.xml
   description: Docker, RTOS
+  aladin: https://www.aladin.co.kr/m/mauthorinfo.aspx?authorsearch=@5620338
 - name: 우명인
   slideshare: https://www.slideshare.net/myeonginwoo
 - name: 우웅몬
