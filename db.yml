@@ -5560,6 +5560,10 @@
   blog: https://bab2min.tistory.com/
   rss: https://bab2min.tistory.com/rss
   description: Python
+- name: 이민택
+  blog: https://velog.io/@1571min
+  rss: https://v2.velog.io/rss/1571min
+  github: https://github.com/1571min
 - name: 이민호
   blog: https://lumiamitie.github.io/
   rss: https://lumiamitie.github.io/feed.xml
@@ -5829,6 +5833,8 @@
   rss: https://ideveloper2.tistory.com/rss
   description: Front-end, Back-end
   facebook: https://www.facebook.com/profile.php?id=100007569735100
+  linkedin: https://www.linkedin.com/in/승규-이-965b53149/
+  github: https://github.com/zx6658
 - name: 이승민
   blog: https://medium.com/@maryangmin
   rss: https://medium.com/feed/@maryangmin
