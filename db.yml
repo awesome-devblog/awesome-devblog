@@ -7644,6 +7644,12 @@
   description: Web
   facebook: https://www.facebook.com/wsj7923
   github: https://github.com/joswlv
+- name: 조성재
+  blog: https://velog.io/@rubycho
+  rss: https://v2.velog.io/rss/rubycho
+  github: https://github.com/rubycho
+  linkedin: https://www.linkedin.com/in/성재-조-3ba1a0135/
+  home: https://rubycho.github.io/
 - name: 조승진
   blog: https://tacogrammer.com/
   rss: https://tacogrammer.com/feed/
