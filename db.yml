@@ -5964,6 +5964,11 @@
   blog: https://velog.io/@widian
   rss: https://v2.velog.io/rss/widian
   description: Linux
+- name: 이용준
+  blog: https://wooooooak.github.io/
+  rss: https://wooooooak.github.io/atom.xml
+  description: Android
+  github: https://github.com/wooooooak
 - name: 이용혁
   twitter: https://twitter.com/skynle
   slideshare: https://www.slideshare.net/unlogicaldev
