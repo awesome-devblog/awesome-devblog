@@ -3531,6 +3531,10 @@
   blog: https://boss109.tistory.com/
   rss: https://boss109.tistory.com/rss
   description: Java, Spring, 컴퓨터 공학
+- name: 백근영
+  blog: https://velog.io/@dvmflstm
+  rss: https://v2.velog.io/rss/dvmflstm
+  github: https://github.com/BaekGeunYoung
 - name: 백기선
   blog: http://whiteship.me/
   rss: http://whiteship.me/?feed=rss2
@@ -4734,9 +4738,12 @@
   rss: https://osebin.tistory.com/rss
   description: ''
 - name: 오세용
-  blog: https://brunch.co.kr/@osyvv
-  rss: https://brunch.co.kr/rss/@@vpi
+  blog: http://ohseyong.com/
+  rss: http://ohseyong.com/?feed=rss2
   description: IT 칼럼
+  facebook: https://www.facebook.com/osystst
+  linkedin: https://www.linkedin.com/in/domingo-oh-25270a75/
+  brunch: https://brunch.co.kr/@osyvv
 - name: 오승환
   blog: https://bluesh55.github.io
   rss: https://bluesh55.github.io/atom.xml
