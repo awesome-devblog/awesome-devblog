@@ -272,6 +272,10 @@
   rss: https://v2.velog.io/rss/godori
   description: Front-end
   github: https://github.com/godori
+- name: 고재현
+  blog: https://delphiforwin.blogspot.com/
+  rss: https://delphiforwin.blogspot.com/feeds/posts/default?alt=rss
+  facebook: https://www.facebook.com/profile.php?id=100010782283968
 - name: 고종범
   blog: https://brunch.co.kr/@jbgo
   rss: https://brunch.co.kr/rss/@@24SO
@@ -5218,7 +5222,8 @@
 - name: 윤영욱
   blog: https://velog.io/@yvvyoon
   rss: https://v2.velog.io/rss/yvvyoon
-  github: https://yvvyoon.github.io/
+  github: https://github.com/yvvyoon
+  home: https://yvvyoon.github.io/
   instagram: https://www.instagram.com/yvv.y_/
 - name: 윤용성
   linkedin: https://www.linkedin.com/in/yongsung-yoon-9b6a30a/
