@@ -1328,6 +1328,7 @@
   github: https://github.com/qpfmtlcp
 - name: 김영조
   blog: https://blex.kr/@yoyounn18
+  rss: https://blex.kr/rss/@yoyounn18
   github: https://github.com/yoyounn18
 - name: 김영준
   blog: https://linked2ev.github.io/
@@ -2120,6 +2121,7 @@
   home: https://pilgwon.github.io/
 - name: 김학진
   blog: https://blex.kr/@mildsalmon
+  rss: https://blex.kr/rss/@mildsalmon
   github: https://github.com/mildsalmon
 - name: 김한결
   blog: https://devkyeol.tistory.com/
@@ -3506,8 +3508,8 @@
   description: Java
   github: https://github.com/jiwonbabe
 - name: 배진오
-  blog: https://baejino.com/
-  rss: https://baejino.com/feed.xml
+  blog: https://blex.kr/@baealex
+  rss: https://blex.kr/rss/@baealex
   description: Blex
   github: https://github.com/baealex
   youtube: https://www.youtube.com/channel/UCuupY_WlY6cPKEnpNNSVRpA
