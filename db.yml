@@ -6433,8 +6433,8 @@
   rss: https://soeasyto.me/feed.xml
   description: Machine Learning
 - name: 이청규
-  blog: https://velog.io/@king
-  rss: https://v2.velog.io/rss/king
+  blog: https://qiita.com/leechungkyu
+  rss: https://qiita.com/leechungkyu/feed.atom
   description: Jenkins, Atlassian
   youtube: https://www.youtube.com/channel/UC_MinTXO3V4mhbjV3nd32PA
 - name: 이치웅
