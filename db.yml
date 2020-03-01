@@ -3348,6 +3348,14 @@
   description: Django
   github: https://github.com/Canine89
   facebook: https://www.facebook.com/profile.php?id=100023761655331
+- name: 박현상
+  blog: https://hyunsang0625.github.io/
+  rss: https://hyunsang0625.github.io/feed.xml
+  description: Front-end
+  github: https://github.com/HyunSang0625
+  facebook: https://www.facebook.com/profile.php?id=100034448592868
+  instagram: https://www.instagram.com/hyunsang_0625/
+  twitter: https://twitter.com/JoaoUbCcDxWtNaK
 - name: 박현우
   blog: https://lqez.github.io/blog/
   rss: https://lqez.github.io/blog/feeds/all.atom.xml
