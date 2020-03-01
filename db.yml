@@ -3433,6 +3433,11 @@
   rss: https://makesource.tistory.com/rss
   description: 알고리즘
   facebook: https://www.facebook.com/chinabang
+- name: 방영민
+  blog: https://blog.naver.com/appeal7712
+  rss: https://rss.blog.naver.com/appeal7712.xml
+  description: Linux
+  facebook: https://www.facebook.com/profile.php?id=100003229745865
 - name: 방준영
   blog: https://bangjunyoung.github.io/
   rss: https://feeds.feedburner.com/github/bangjunyoung
