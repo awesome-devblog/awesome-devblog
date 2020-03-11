@@ -9116,3 +9116,7 @@
   rss: https://stricky.tistory.com/rss
   description: DB
   facebook: https://www.facebook.com/ricky.han.52438
+- name: poplcode
+  blog: https://popl.ml/minilog.html
+  rss: https://popl.ml/minilog.rss
+  description: php library
