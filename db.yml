@@ -9117,6 +9117,6 @@
   description: DB
   facebook: https://www.facebook.com/ricky.han.52438
 - name: poplcode
-  blog: https://popl.ml/minilog.html
-  rss: https://popl.ml/minilog.rss
+  blog: https://blog.popl.ml
+  rss: https://blog.popl.ml/rss
   description: php library
