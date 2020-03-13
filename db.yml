@@ -5359,6 +5359,12 @@
   linkedin: https://www.linkedin.com/in/leekchan/
   github: https://github.com/leekchan
   home: https://leekchan.com/
+- name: 이경환
+  blog: https://blog.n2ptune.xyz/
+  rss: https://blog.n2ptune.xyz/rss.xml
+  description: Nodejs, Vue
+  facebook: https://www.facebook.com/linediffuser
+  github: https://github.com/n2ptune
 - name: 이관형
   blog: https://sphilee.github.io/blog/
   rss: https://sphilee.github.io/feed.xml
