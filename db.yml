@@ -5360,10 +5360,11 @@
   github: https://github.com/leekchan
   home: https://leekchan.com/
 - name: 이경환
+  blog: https://blog.n2ptune.xyz/
+  rss: https://blog.n2ptune.xyz/rss.xml
   description: Nodejs, Vue
   facebook: https://www.facebook.com/linediffuser
   github: https://github.com/n2ptune
-  home: https://blog.n2ptune.xyz/
 - name: 이관형
   blog: https://sphilee.github.io/blog/
   rss: https://sphilee.github.io/feed.xml
@@ -9122,6 +9123,6 @@
   description: DB
   facebook: https://www.facebook.com/ricky.han.52438
 - name: poplcode
-  blog: https://popl.ml/minilog.html
-  rss: https://popl.ml/minilog.rss
+  blog: https://blog.popl.ml
+  rss: https://blog.popl.ml/rss
   description: php library
