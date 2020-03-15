@@ -2286,6 +2286,10 @@
   rss: https://heejune.me/feed/
   description: ''
   linkedin: https://www.linkedin.com/in/heejune/
+- name: 남경호
+  blog: https://veluxer62.github.io/
+  rss: https://veluxer62.github.io/feed.xml
+  github: https://github.com/veluxer62
 - name: 나동빈
   blog: https://blog.naver.com/ndb796
   rss: https://rss.blog.naver.com/ndb796.xml
