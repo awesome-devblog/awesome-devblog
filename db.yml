@@ -3180,7 +3180,7 @@
   description: C++
   home: http://tmmse.xyz/jong-hyun-park/
 - name: 박종훈
-  blog: https://blog.naver.com/PostList.nhn?blogId=m05214
+  blog: https://blog.naver.com/m05214
   rss: https://rss.blog.naver.com/m05214.xml
   facebook: https://www.facebook.com/profile.php?id=100003249616373
 - name: 박주은
@@ -7834,6 +7834,13 @@
   blog: https://brunch.co.kr/@insuk
   rss: https://brunch.co.kr/rss/@@102g
   description: SW 칼럼
+  facebook: https://www.facebook.com/insuk.chris.cho
+  youtube: https://www.youtube.com/channel/UCeVUYYRywp9JR3yJRG80V-g
+  linkedin: https://www.linkedin.com/in/insukcho/
+  slideshare: https://www.slideshare.net/ChrisCho2
+  twitter: https://twitter.com/isccho
+  home: https://insukcho.github.io/
+  aladin: https://www.aladin.co.kr/m/mauthorinfo.aspx?authorsearch=@2852693
 - name: 조일하
   blog: https://medium.com/@jiraknet
   rss: https://medium.com/feed/@jiraknet
