@@ -2247,6 +2247,7 @@
   blog: https://velog.io/@yejinh
   rss: https://v2.velog.io/rss/yejinh
   github: https://github.com/yejinh
+  twitter: https://twitter.com/yejiinh
 - name: 김호동
   blog: https://cogniti-works.blogspot.kr/
   rss: https://cogniti-works.blogspot.com/feeds/posts/default
@@ -6323,6 +6324,10 @@
   rss: https://dev-juyoung.github.io/atom.xml
   description: Android
   github: https://github.com/dev-juyoung
+- name: 이주영
+  blog: https://medium.com/@mark_47981
+  rss: https://medium.com/feed/@mark_47981
+  facebook: https://www.facebook.com/uptownlee
 - name: 이준범
   blog: https://beomi.github.io/
   rss: https://beomi.github.io/feed
