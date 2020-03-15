@@ -1629,6 +1629,7 @@
   description: Javascript, Java, Web
   github: https://github.com/writer0713
   linkedin: https://www.linkedin.com/in/junghwan-kim-799425b6/
+  facebook: https://www.facebook.com/profile.php?id=100002444318532
 - name: 김정훈
   blog: https://wonderer80.github.io/
   rss: https://wonderer80.github.io/feed.xml
@@ -3670,6 +3671,7 @@
   linkedin: https://www.linkedin.com/in/seong-yun-byeon-8183a8113/
   slideshare: https://www.slideshare.net/zzsza
   instagram: https://www.instagram.com/data.scientist/
+  youtube: https://www.youtube.com/channel/UCYyAaezBGEVmXcnink6nY9Q
 - name: 변정훈
   nickname: Outsider
   blog: https://blog.outsider.ne.kr/
@@ -6121,6 +6123,8 @@
   description: Web
   twitter: https://twitter.com/semtlnori
   slideshare: https://www.slideshare.net/eungjun
+  github: https://github.com/eungjun-yi
+  facebook: https://www.facebook.com/eungjun
 - name: 이일민
   youtube: https://www.youtube.com/channel/UCcqH2RV1-9ebRBhmN_uaSNg
 - name: 이임복
@@ -6954,12 +6958,12 @@
   rss: https://jungwoo5394.blogspot.com/feeds/posts/default
   description: Algorithm
 - name: 장준영
-  blog: https://dailykul.tistory.com/
-  rss: https://dailykul.tistory.com/rss
+  blog: https://ailrun.github.io/ko/posts/
   description: C/C++
   facebook: https://www.facebook.com/ThePhilosopoet
   github: https://github.com/Ailrun
   home: https://ailrun.github.io/
+  tistory: https://dailykul.tistory.com/
 - name: 장준혁
   blog: https://medium.com/@hyuk
   rss: https://medium.com/feed/@hyuk
@@ -9168,7 +9172,3 @@
   rss: https://stricky.tistory.com/rss
   description: DB
   facebook: https://www.facebook.com/ricky.han.52438
-- name: poplcode
-  blog: https://blog.popl.ml
-  rss: https://blog.popl.ml/rss
-  description: php library
