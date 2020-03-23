@@ -9099,6 +9099,11 @@
 - name: 황은지
   blog: https://velog.io/@hwang-eunji
   rss: https://v2.velog.io/rss/hwang-eunji
+- name: 황종후
+  blog: https://jh-7.tistory.com/
+  rss: https://jh-7.tistory.com/rss
+  description: Java, javascript
+  linkedin: https://www.linkedin.com/in/jonghoo/
 - name: 황준식
   profile: people/junkwhinger.md
   blog: https://jsideas.net/
