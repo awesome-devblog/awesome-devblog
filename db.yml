@@ -6353,6 +6353,11 @@
   rss: https://brunch.co.kr/rss/@@sIR
   facebook: https://www.facebook.com/cafielo87
   youtube: https://www.youtube.com/channel/UCafTGoLLt1eNu5yQiLzrqwQ
+- name: 이준현
+  blog: https://pro-dev.tistory.com/
+  rss: https://pro-dev.tistory.com/rss
+  description: 개발 인생
+  github: https://github.com/dlwnsgus777
 - name: 이준형
   blog: https://velog.io/@leejh3224
   rss: https://v2.velog.io/rss/leejh3224
