@@ -6869,6 +6869,10 @@
   blog: https://mooneegee.blogspot.kr/
   rss: https://mooneegee.blogspot.com/feeds/posts/default
   description: 3D
+- name: 장민
+  blog: https://m-veloper.github.io/
+  rss: https://m-veloper.github.io/feed.xml
+  description: 초보 개발자의 정리
 - name: 장범준
   blog: https://tjtdkr.me/
   rss: https://tjtdkr.me/feed.xml
