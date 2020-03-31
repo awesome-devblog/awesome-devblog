@@ -883,7 +883,7 @@
   github: https://github.com/myminseok
 - name: 김민석
   blog: https://v0o0v.atlassian.net/wiki/spaces/SF/overview
-  rss: https://v0o0v.atlassian.net/wiki/createrssfeed.action?types=page&pageSubTypes=comment&pageSubTypes=attachment&types=blogpost&blogpostSubTypes=comment&blogpostSubTypes=attachment&spaces=SF&title=v0o0v+RSS+%ED%94%BC%EB%93%9C&labelString%3D&excludedSpaceKeys%3D&sort=modified&maxResults=10&timeSpan=5&showContent=true&confirm=RSS+%ED%94%BC%EB%93%9C+%EB%A7%8C%EB%93%A4%EA%B8%B0&os_authType=basic
+  rss: https://v0o0v.atlassian.net/wiki/createrssfeed.action?types=page&spaces=SF&title=v0o0v+S%2FW+%EA%B0%9C%EB%B0%9C+RSS&labelString%3D&excludedSpaceKeys%3D&sort=modified&maxResults=10&timeSpan=5&showContent=true&confirm=RSS+%ED%94%BC%EB%93%9C+%EB%A7%8C%EB%93%A4%EA%B8%B0&os_authType=basic
   github: https://github.com/v0o0v
 - name: 김민수
   blog: https://blog.kmshack.kr/
