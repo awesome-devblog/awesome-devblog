@@ -6644,6 +6644,12 @@
   rss: https://blog.silentsoft.org/feed.xml
   description: Back-end
   github: https://github.com/silentsoft
+- name: 이현진
+  blog: https://jayprogram.tistory.com/
+  rss: https://jayprogram.tistory.com/rss
+  description: JavaScript, Unity
+  facebook: http://www.facebook.com/hjleesm
+  github: https://github.com/hjleesm
 - name: 이호성
   blog: https://brunch.co.kr/@leehosung
   rss: https://brunch.co.kr/rss/@@Gp7
