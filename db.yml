@@ -1958,6 +1958,12 @@
   rss: https://medium.com/feed/@jimkimau
   description: Front-end
   twitter: https://twitter.com/jimkimau
+- name: 김찬미
+  blog: https://chanmi-kim.github.io/
+  rss: https://chanmi-kim.github.io/atom.xml
+  description: Java
+  github: https://github.com/Chanmi-Kim
+  facebook: https://www.facebook.com/devchanmi
 - name: 김찬빈
   blog: https://blog.kesuskim.com/
   rss: https://blog.kesuskim.com/feed.xml
