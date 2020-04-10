@@ -2048,6 +2048,10 @@
   blog: https://blog.naver.com/indy9052
   rss: https://rss.blog.naver.com/indy9052.xml
   facebook: https://www.facebook.com/indy905
+- name: 김태열
+  blog: https://medium.com/@taeyeolkim
+  rss: https://medium.com/feed/@taeyeolkim
+  description: AWS
 - name: 김태영
   blog: https://tykimos.github.io/
   rss: https://tykimos.github.io/feed.xml
