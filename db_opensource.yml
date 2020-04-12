@@ -235,6 +235,10 @@
   awesome: https://github.com/yikebocai/awesome-cassandra
   reddit: https://www.reddit.com/r/cassandra/
   tags: [Database]
+- name: Chakra UI
+  home: https://chakra-ui.com/
+  github: https://github.com/chakra-ui/chakra-ui
+  tags: [UI Framework]
 - name: Chart.js
   home: https://www.chartjs.org/
   github: https://github.com/chartjs/Chart.js
@@ -984,12 +988,21 @@
   discourse: https://discuss.kubernetes.io/
   awesome: https://github.com/ramitsurana/awesome-kubernetes
   tags: [Container Orchestration]
+- name: Kuma
+  home: https://kuma.io/
+  github: https://github.com/Kong/kuma
+  slack: https://kuma-mesh.slack.com/
+  tags: [Service Mesh]
 - name: Ky
   github: https://github.com/sindresorhus/ky
   tags: [HTTP Client]
 - name: Laco
   github: https://github.com/deamme/laco
   tags: [State Management, React]
+- name: Lens
+  home: https://k8slens.dev/
+  github: https://github.com/lensapp/lens
+  tags: [Kubernetes]
 - name: Lerna
   home: https://lernajs.io/
   github: https://github.com/lerna/lerna
@@ -1288,6 +1301,10 @@
   github: https://github.com/zeit/next.js
   awesome: https://github.com/unicodeveloper/awesome-nextjs
   tags: [Javascript, Web Framework]
+- name: Nift
+  home: https://nift.cc/
+  github: https://github.com/nifty-site-manager/nsm
+  tags: [Static Site Generator]
 - name: nivo
   home: https://nivo.rocks/
   github: https://github.com/plouc/nivo
@@ -1423,6 +1440,9 @@
   github: https://github.com/processing/p5.js
   cdnjs: https://cdnjs.com/libraries/p5.js
   tags: [Visualization]
+- name: pkgtop
+  github: https://github.com/orhun/pkgtop
+  tags: [CLI, Monitoring]
 - name: Parcel
   home: https://parceljs.org/
   github: https://github.com/parcel-bundler/parcel
@@ -1609,6 +1629,11 @@
   quora: https://www.quora.com/topic/React-Native-1
   awesome: https://github.com/jondot/awesome-react-native
   tags: [Application Framework]
+- name: React Rainbow
+  home: https://react-rainbow.io/
+  github: https://github.com/nexxtway/react-rainbow
+  twitter: https://twitter.com/ReactRainbow
+  tags: [React, UI Component]
 - name: React Static
   github: https://github.com/nozzle/react-static
   spectrum: https://spectrum.chat/react-static
@@ -1695,6 +1720,10 @@
   home: https://roughjs.com/
   github: https://github.com/pshihn/rough
   tags: [Javascript, 2D Graphics]
+- name: roughViz.js
+  github: https://github.com/jwilber/roughViz
+  npm: https://www.npmjs.com/package/rough-viz
+  tags: [Javascript, Chart]
 - name: Ruby
   home: https://www.ruby-lang.org/
   github: https://github.com/ruby/ruby
@@ -1725,6 +1754,11 @@
   home: https://www.rrweb.io/
   github: https://github.com/rrweb-io/rrweb
   tags: [Testing]
+- name: Saber
+  home: https://saber.land/
+  github: https://github.com/saberland/saber
+  blog: https://saber.land/blog
+  tags: [Static Site Generator]
 - name: Sails
   home: https://sailsjs.com/
   github: https://github.com/balderdashy/sails
@@ -2174,3 +2208,8 @@
   gitter: https://gitter.im/yewframework/Lobby
   crates: https://crates.io/crates/yew
   tags: [Rust, Web Framework]
+- name: Zerker
+  home: https://flutterkit.github.io/zerkerdocs/
+  github: https://github.com/flutterkit/zerker
+  pubdev: https://pub.dev/packages/zerker
+  tags: [Flutter, Animation]
