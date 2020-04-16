@@ -8377,6 +8377,10 @@
   rss: https://v2.velog.io/rss/jeff0720
   description: AWS
   github: https://github.com/jeffchoi72
+- name: 최영재
+  blog: https://ororso.tistory.com/
+  rss: https://ororso.tistory.com/rss
+  description: 백엔드
 - name: 최예나
   blog: https://blog.yena.io/
   rss: https://blog.yena.io/feed.xml
