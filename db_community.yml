@@ -44,10 +44,6 @@
   facebook: https://www.facebook.com/groups/217998138756276/
 - name: Korea Blazor User Group
   facebook: https://www.facebook.com/groups/kblug/
-- name: GDG Pangyo
-  facebook: https://www.facebook.com/groups/gdgpangyo/
-  meetup: https://www.meetup.com/ko-KR/pangyo-gdg/
-  slack: http://slack.gdg.kr/
 - name: Facebook Developer Circle
   facebook: https://www.facebook.com/groups/DevCSeoul/
 - name: Vue.js Korea
@@ -70,9 +66,6 @@
   facebook: https://www.facebook.com/groups/k8skorea/
 - name: Korea Chaos Engineering Group
   facebook: https://www.facebook.com/groups/chaosengkorea/
-- name: GDG Korea WebTech
-  facebook: https://www.facebook.com/groups/webTechKR/
-  meetup: https://www.meetup.com/ko-KR/GDG-WebTech/
 - name: Serverless Korea User Group
   facebook: https://www.facebook.com/groups/serverless.korea/
 - name: 소사모 (한국 소나큐브 사용자 모임)
@@ -87,15 +80,15 @@
   youtube: https://www.youtube.com/channel/UCrKE8ihOKHxYHBzI0Ys-Oow
   twitter: https://twitter.com/codebusking
 - name: JetBrains 코리아
+  blog: https://blog.jetbrains.com/kr/
+  rss: https://blog.jetbrains.com/kr/feed/
   facebook: https://www.facebook.com/jetbrainsKR/
   home: https://www.jetbrains.com/
-- name: Google Developer Group Korea
-  facebook: https://www.facebook.com/gdgkorea/
 - name: Kotlin Korea
   home: http://kotlin.kr/
   blog: http://kotlin.kr/blog/
   rss: http://kotlin.kr/feed.xml
-  facebook: https://www.facebook.com/groups/kotlinkr
+  facebook: https://www.facebook.com/groups/kotlinkr/
   twitter: https://twitter.com/kotlinkr
   meetup: https://www.meetup.com/ko-KR/kotlinkr/
   slack: https://kotlinkr.slack.com/
@@ -177,10 +170,11 @@
   facebook: https://www.facebook.com/groups/pydatakorea/
 - name: Korea Elasticsearch User Group
   facebook: https://www.facebook.com/groups/elasticsearch.kr/
+  youtube: https://www.youtube.com/channel/UCmI0g3ROh1WrUMZDv2kcjfQ
 - name: 메이커교육실천_MakerEdu
   home: http://www.makered.or.kr/
   rss: http://www.makered.or.kr/feed
-  facebook: https://www.facebook.com/groups/458166777716821
+  facebook: https://www.facebook.com/groups/458166777716821/
 - name: 영메이커 클럽
   facebook: https://www.facebook.com/groups/youngmakerclub/
 - name: 대시앤닷 큐 사용자 모임 Dash and Dot cue User Group
@@ -247,7 +241,7 @@
   facebook: https://www.facebook.com/likesangji.net/
 - name: 멋쟁이 사자처럼 at 평택대학교
   home: http://ptu.likelion.net
-  facebook: https://www.facebook.com/ptu.likelion
+  facebook: https://www.facebook.com/ptu.likelion/
 - name: 멋쟁이사자처럼 고려대학교
   facebook: https://www.facebook.com/LikelionKU/
 - name: 멋쟁이 사자처럼 at 한양대학교
@@ -303,7 +297,7 @@
   home: http://duksung.likelion.net/
   facebook: https://www.facebook.com/likelion.ds/
 - name: 멋쟁이 사자처럼 at 상명대학교
-  facebook: https://www.facebook.com/likelionSMU
+  facebook: https://www.facebook.com/likelionSMU/
 - name: 멋쟁이사자처럼 at 서울과학기술대학교
   facebook: https://www.facebook.com/likelionatseoultech/
 - name: 멋쟁이사자처럼 at 아주대학교
@@ -331,14 +325,15 @@
 - name: 멋쟁이사자처럼 at 충남대학교
   facebook: https://www.facebook.com/likelioncnu/
 - name: 멋쟁이 사자처럼 at 충북대학교
-  facebbok: https://www.facebook.com/LikeLionatCBNU/
+  facebook: https://www.facebook.com/LikeLionatCBNU/
 - name: 멋쟁이 사자처럼 at 홍익대학교
   home: www.hongik-likelion.com
   facebook: https://www.facebook.com/LikelionHongik/
 - name: 멋쟁이사자처럼 at 한밭대학교
   facebook: https://www.facebook.com/멋쟁이사자처럼-at-한밭대학교-1252739578152373/
 - name: 멋쟁이 사자처럼 at 한국외국어대학교_글로벌캠퍼스
-  facebook: https://www.facebook.com/hufsglobal.likelion/
+  home: hufsglobal.likelion.org
+  facebook: https://www.facebook.com/likelionhufs/
 - name: 멋쟁이 사자처럼 at 한국예술종합학교
   facebook: https://www.facebook.com/likelion.karts/
 - name: 멋쟁이 사자처럼 at 한국항공대학교
@@ -357,20 +352,6 @@
   github: https://github.com/awskrug
   twitter: https://twitter.com/awskrug
   slideshare: https://www.slideshare.net/awskr
-- name: GDG Incheon
-  facebook: https://www.facebook.com/gdgincheon
-  meetup: https://www.meetup.com/ko-KR/GDG-Incheon/
-  github: https://github.com/GDGincheonAndroidStudy
-  googleplus: https://plus.google.com/communities/104783014618153871181
-- name: GDG Seoul
-  facebook: https://www.facebook.com/groups/gdgseoul/
-  meetup: https://www.meetup.com/ko-KR/GDG-Seoul/
-  slack: https://gdgkr.slack.com/
-  twitter: https://twitter.com/gdgseoul
-  googleplus: https://plus.google.com/116593433820963567116
-- name: GDG Suwon
-  meetup: https://www.meetup.com/ko-KR/gdg-suwon/
-  googlegroups: https://groups.google.com/forum/#!forum/gdg-suwon
 - name: Meteor Seoul
   meetup: https://www.meetup.com/ko-KR/Meteor-Seoul/
   github: https://github.com/meteor-seoul/
@@ -388,16 +369,11 @@
   meetup: https://www.meetup.com/ko-KR/R-Korea/
 - name: Seoul iOS Developer
   meetup: https://www.meetup.com/ko-KR/Seoul-iOS-Developer/
-- name: GDG Cloud Korea
-  meetup: https://www.meetup.com/ko-KR/GDG-Cloud-Korea/
-  googleplus: https://plus.google.com/communities/100306609804963352061
-- name: GDG Gwangmyeong
-  meetup: https://www.meetup.com/ko-KR/GDG-Gwangmyeong/
 - name: IBM developerWorks
   meetup: https://www.meetup.com/ko-KR/IBM-developerWorks-Meetup/
 - name: Seoul Artificial Intelligence
   home: http://seoulai.com/
-  facebook: https://www.facebook.com/seoulai
+  facebook: https://www.facebook.com/seoulai/
   meetup: https://www.meetup.com/ko-KR/Seoul-Artificial-Intelligence/
   slack: https://seoulai.slack.com/
   twitter: https://twitter.com/seoul_ai
@@ -415,8 +391,6 @@
   meetup: https://www.meetup.com/ko-KR/Play-project-with-Arduino-Raspberry-pi-at-Songpa-Seoul/
 - name: 송도 딥러닝 스터디
   meetup: https://www.meetup.com/ko-KR/송도-딥러닝-스터디/
-- name: GDG SongDo
-  meetup: https://www.meetup.com/ko-KR/GDG-SongDo/
 - name: 게임개발포에버
   blog: http://gamedevforever.tistory.com/
   rss: http://feeds.feedburner.com/gamedevforever?format=xml
@@ -438,10 +412,10 @@
 - name: 데일리호텔
   blog: https://dailyhotel.io/
   rss: https://dailyhotel.io/feed
-- name: 드라마앤컴패니 블로그
+- name: 드라마앤컴패니
   blog: http://blog.dramancompany.com/
   rss: http://blog.dramancompany.com/feed/
-- name: 로켓펀치 블로그
+- name: 로켓펀치
   blog: https://blog.rocketpunch.com/
   rss: https://blog.rocketpunch.com/feed/
 - name: 마이크로소프트웨어
@@ -450,7 +424,7 @@
 - name: 슬로우뉴스-테크
   blog: http://slownews.kr/category/tech
   rss: http://slownews.kr/category/tech/feed
-- name: 아해팀 블로그
+- name: 아해팀
   blog: https://devahea.github.io/
   rss: https://devahea.github.io/atom.xml
   description: Java, 김종인, 최경운, 노성현
@@ -464,12 +438,10 @@
 - name: 엠비안
   blog: http://blog.embian.com/
   rss: http://blog.embian.com/rss
-- name: 오라클 클라우드 기술 블로그
-  blog: http://www.oracloud.kr/
-  rss: http://www.oracloud.kr/index.xml
-- name: 우아한형제들 기술 블로그
+- name: 우아한형제들
   blog: http://woowabros.github.io
   rss: http://woowabros.github.io/feed.xml
+  facebook: https://www.facebook.com/woowahanTech/
 - name: 이상한모임
   blog: http://blog.weirdx.io
   rss: http://blog.weirdx.io/feed/
@@ -479,29 +451,32 @@
 - name: 인사이트
   blog: http://blog.insightbook.co.kr
   rss: http://blog.insightbook.co.kr/rss
-  facebook: https://www.facebook.com/insightbook
+  facebook: https://www.facebook.com/insightbook/
   twitter: https://twitter.com/insightbook
-- name: 인프런 블로그
+- name: 인프런
   blog: http://blog.inflearn.com
   rss: http://blog.inflearn.com/feed/
 - name: 지금 써보러 갑니다
   blog: http://icunow.co.kr
   rss: http://icunow.co.kr/feed/
   facebook: https://www.facebook.com/지금-써보러-갑니다-532187963596766/
-- name: 카카오 기술 블로그
-  blog: http://tech.kakao.com/
-  rss: http://tech.kakao.com/rss/
+- name: 카카오
+  blog: https://tech.kakao.com/
+  rss: https://tech.kakao.com/feed/
+  slideshare: https://www.slideshare.net/ifkakao
+  github: https://github.com/kakao
 - name: ㅍㅍㅅㅅ 테크
   blog: https://ppss.kr/archives/category/tech
   rss: https://ppss.kr/archives/category/tech/feed
 - name: 한국게임기획자모임
   blog: http://gameplanner.cafe24.com
   rss: http://gameplanner.cafe24.com/feed/
-- name: Amazon Web Services 한국 블로그
+- name: AWS Korea
   blog: https://aws.amazon.com/ko/blogs/korea/
   rss: https://aws.amazon.com/ko/blogs/korea/feed/
-  facebook: https://www.facebook.com/amazonwebservices.ko
+  facebook: https://www.facebook.com/amazonwebservices.ko/
   twitter: https://twitter.com/awskorea
+  slideshare: https://www.slideshare.net/awskorea
 - name: developerWorks Korea
   blog: https://developer.ibm.com/kr/blog/
   rss: https://developer.ibm.com/kr/blog/feed/
@@ -519,7 +494,7 @@
 - name: Google
   blog: https://developers-kr.googleblog.com/
   rss: http://feeds.feedburner.com/GoogleDevelopersKorea
-- name: Line Engineering Blog
+- name: 라인
   blog: https://engineering.linecorp.com/ko/blog
   rss: https://engineering.linecorp.com/ko/blog/rss2
 - name: Make Korea
@@ -536,8 +511,8 @@
   blog: https://realm.io/kr/blog/
   rss: https://realm.io/kr/blog/feed.xml
 - name: Spoqa
-  blog: http://spoqa.github.io/
-  rss: http://spoqa.github.io/rss
+  blog: https://spoqa.github.io/
+  rss: https://spoqa.github.io/atom.xml
   github: https://github.com/spoqa
 - name: Anyang Artificial Intelligence Meetup
   meetup: https://www.meetup.com/ko-KR/Anyang-Artificial-Intelligence-Meetup/
@@ -565,6 +540,7 @@
   facebook: https://www.facebook.com/groups/ansiblekoreausergroup/
 - name: DevOps Korea
   facebook: https://www.facebook.com/groups/TeAnE/
+  youtube: https://www.youtube.com/channel/UCOs9gZXnf6qb7cdfd7rQBDQ/about
 - name: 챗봇 개발자 모임 (인공지능 스피커, 자연어처리)
   home: http://aidev.co.kr/
   facebook: https://www.facebook.com/groups/ChatbotDevKR/
@@ -579,7 +555,7 @@
 - name: Korea Docker User Group
   facebook: https://www.facebook.com/groups/korea.docker.user.group/
 - name: KAFKA 한국 사용자 모임
-  facebook: https://www.facebook.com/groups/kafka.kru
+  facebook: https://www.facebook.com/groups/kafka.kru/
 - name: Ask Django
   facebook: https://www.facebook.com/groups/askdjango/
 - name: React Korea
@@ -602,12 +578,6 @@
 - name: Korea Azure User Group
   facebook: https://www.facebook.com/groups/krazure/
   meetup: https://www.meetup.com/ko-KR/krazure/
-- name: GDG Korea Android
-  meetup: https://www.meetup.com/ko-KR/GDG-Korea-Android/
-  youtube: https://www.youtube.com/channel/UCvLeTAlv3s84BIiYxVCeSag
-- name: GDG Campus Korea
-  meetup: https://www.meetup.com/ko-KR/GDG-Campus/
-  googleplus: https://plus.google.com/communities/101463090584658665422
 - name: Pangyo Tech Meetup
   meetup: https://www.meetup.com/ko-KR/pangyotech/
 - name: 분당 kaggle 스터디
@@ -644,7 +614,7 @@
   naver: https://cafe.naver.com/fx8300
 - name: 한식구
   home: http://hansicgu.com/
-  facebook: https://www.facebook.com/hansicgu
+  facebook: https://www.facebook.com/hansicgu/
   naver: https://cafe.naver.com/hansicgu
 - name: 클리앙
   home: https://www.clien.net/
@@ -662,9 +632,6 @@
 - name: EFL Korea
   home: http://efl.or.kr/
   facebook: https://www.facebook.com/efl.or.kr/
-- name: GDG Busan
-  facebook: https://www.facebook.com/gdgbusan/
-  googleplus: https://plus.google.com/+Gdg-busanBlogspotKr
 - name: GNU Korea
   home: http://korea.gnu.org/
 - name: 한국자바개발자협의회(JCO)
@@ -690,6 +657,7 @@
   googleplus: https://plus.google.com/communities/112409570772055358734
   youtube: https://www.youtube.com/channel/UCid525Nc3OXk6SjLZ28cX5Q
   slack: https://ubuntu-kr.slack.com/
+  slideshare: https://www.slideshare.net/UbuntuKorea
 - name: KLDP
   home: https://kldp.org/
   blog: https://kldp.org/blog
@@ -727,7 +695,7 @@
   facebook: https://www.facebook.com/groups/springkorea/
 - name: Django Girls Seoul
   home: https://djangogirls.org/seoul/
-  facebook: https://www.facebook.com/djangogirlsseoul
+  facebook: https://www.facebook.com/djangogirlsseoul/
   twitter: https://twitter.com/djangogirlseoul
   medium: https://medium.com/djangogirlsseoul-codecamp
   rss: https://medium.com/feed/djangogirlsseoul-codecamp
@@ -750,7 +718,7 @@
   facebook: https://www.facebook.com/SKTBrain/
 - name: Naver Clova
   home: https://clova.ai/ko
-  facebook: https://www.facebook.com/ClovaAI
+  facebook: https://www.facebook.com/ClovaAI/
 - name: YAPP
   home: http://yapp.co.kr/
   facebook: https://www.facebook.com/yapp.co.kr/
@@ -782,6 +750,8 @@
 - name: TensorFlow KR
   facebook: https://www.facebook.com/groups/TensorFlowKR/
   slack: https://tensorflowkr.slack.com/
+  github: https://github.com/tensorflowkorea
+  gitbook: https://legacy.gitbook.com/@tensorflowkorea
 - name: 캐글뽀개기
   facebook: https://www.facebook.com/groups/kagglebreak/
 - name: 데이터그램
@@ -826,13 +796,13 @@
   home: http://cloudz-labs.sk.com/
   blog: https://tech.cloudz-labs.io/
   rss: http://tech.cloudz-labs.io/index.xml
-- name: 오픈소스컨설팅 기술 블로그
+- name: 오픈소스컨설팅
   blog: https://tech.osci.kr/
   rss: https://tech.osci.kr/rss/
 - name: 퀄컴코리아
   blog: https://blog.naver.com/qualcommkr
   rss: https://rss.blog.naver.com/qualcommkr.xml
-  facebook: https://www.facebook.com/QualcommKR
+  facebook: https://www.facebook.com/QualcommKR/
   youtube: https://www.youtube.com/channel/UCQp-q5ysBDacrAKdkGcsYjw
 - name: 코드스피츠
   facebook: https://www.facebook.com/groups/codespitz/
@@ -855,7 +825,7 @@
   facebook: https://www.facebook.com/groups/electronkorea/
   slack: https://electron-kr.slack.com/
 - name: NAVER Engineering
-  facebook: https://www.facebook.com/naverengineering
+  facebook: https://www.facebook.com/naverengineering/
   slideshare: https://www.slideshare.net/NaverEngineering
 - name: Bsidesoft
   facebook: https://www.facebook.com/bsidesoft/
@@ -864,16 +834,16 @@
 - name: Aliencube
   blog: https://aliencube.org/
   rss: https://aliencube.org/feed/
-  facebook: https://www.facebook.com/aliencube.community
+  facebook: https://www.facebook.com/aliencube.community/
   twitter: https://twitter.com/aliencubeorg
 - name: 한국트렌드마이크로
   blog: http://www.trendmicro.co.kr/kr/blog/
-  facebook: https://www.facebook.com/TrendMicroKR
+  facebook: https://www.facebook.com/TrendMicroKR/
   home: http://www.trendmicro.co.kr/
 - name: 박스앤위스커
   blog: http://boxnwhis.kr/
   rss: http://boxnwhis.kr/feed.xml
-  facebook: https://www.facebook.com/boxnwhis.kr
+  facebook: https://www.facebook.com/boxnwhis.kr/
   twitter: https://twitter.com/boxnwhiskr
   linkedin: https://www.linkedin.com/company/box-and-whisker/
   github: https://github.com/box-and-whisker
@@ -918,16 +888,17 @@
   github: https://github.com/croquiscom
 - name: velog
   blog: https://velog.io/
-  rss: https://api.velog.io/atom/
+  rss: https://v2.velog.io/rss/
   description: Meta Blog
 - name: Remotty
   blog: http://blog.remotty.com/blog/
   rss: http://blog.remotty.com/blog/rss/
   twitter: https://twitter.com/remottykr
   github: https://github.com/remotty
-- name: 야놀자 기술블로그
+- name: 야놀자
   blog: https://yanolja.github.io/
   rss: https://yanolja.github.io/feed.xml
+  facebook: https://www.facebook.com/devyanolja/
 - name: Python Korea
   facebook: https://www.facebook.com/groups/pythonkorea/
 - name: 한국 메이커 모임
@@ -958,11 +929,11 @@
 - name: 서플
   blog: https://medium.com/supple
   rss: https://medium.com/feed/supple
-  facebook: https://www.facebook.com/supplehq
+  facebook: https://www.facebook.com/supplehq/
 - name: 지앤선
   blog: http://jinson.tistory.com/
   rss: http://jinson.tistory.com/rss
-  facebook: https://www.facebook.com/JiandSon
+  facebook: https://www.facebook.com/JiandSon/
 - name: 안드로이드 개발 팁팁팁!
   facebook: https://www.facebook.com/groups/junsle/
 - name: Hazelcast User in Seoul
@@ -1006,7 +977,7 @@
 - name: 락플레이스
   blog: https://ossonazure.tistory.com/
   rss: https://ossonazure.tistory.com/rss
-- name: 브랜디 R&D 본부 기술 블로그
+- name: 브랜디 R&D 본부
   blog: http://labs.brandi.co.kr/
   rss: http://labs.brandi.co.kr/feed.xml
 - name: 케라스 코리아 (Keras Korea)
@@ -1014,10 +985,10 @@
 - name: stdout.fm
   blog: https://stdout.fm/
   rss: https://stdout.fm/feed
-  facebook: https://www.facebook.com/stdout.fm
+  facebook: https://www.facebook.com/stdout.fm/
   youtube: https://www.youtube.com/channel/UCni26Y9C0Z7H36hPPHuqpSg
   twitter: https://twitter.com/stdoutfm
-- name: 스티비 블로그
+- name: 스티비
   blog: https://blog.stibee.com/
   rss: https://blog.stibee.com/feed
 - name: TEAMLAB
@@ -1038,7 +1009,7 @@
 - name: 코드스테이츠
   blog: https://blog.naver.com/PostList.nhn?blogId=codestates
   rss: https://rss.blog.naver.com/codestates.xml
-- name: 레진 기술 블로그
+- name: 레진
   blog: https://tech.lezhin.com/
   rss: https://tech.lezhin.com/rss/
 - name: CodeIgniter 한국 사용자 포럼
@@ -1069,12 +1040,11 @@
   youtube: https://www.youtube.com/channel/UC86HxrAQ4GS1Iq8LIvUYigQ
 - name: 쉐어드아이티
   youtube: https://www.youtube.com/channel/UCKmGquVYo0RkOwfAsxJ-WCQ
+  home: https://www.sharedit.co.kr
 - name: 스무디 TV
   youtube: https://www.youtube.com/channel/UCo-7BoOyUN6SrtCGWaAV81Q
 - name: 아프리카도서관
   youtube: https://www.youtube.com/channel/UCfm6gDYNrEW2hXCcIrVvj0w
-- name: 얄팍한 코딩사전
-  youtube: https://www.youtube.com/channel/UC2nkWbaJt1KQDi2r2XclzTQ
 - name: 엔지니어대한민국
   youtube: https://www.youtube.com/channel/UCWMAh9cSkEn8v42YRO90BHA
 - name: 음주코딩
@@ -1104,15 +1074,13 @@
   youtube: https://www.youtube.com/channel/UCwkGvF7xKz2E0Lv-fZ9wv2g
 - name: 한빛미디어
   home: http://www.hanbit.co.kr/
-  facebook: https://www.facebook.com/hanbitmedia
+  facebook: https://www.facebook.com/hanbitmedia/
   youtube: https://www.youtube.com/channel/UC31Gc42xzclOOi5Gp1xIpZw
-- name: 화이트해커
-  youtube: https://www.youtube.com/channel/UC3BZupqBa9CZiNSc0x3lJlg
 - name: TV플루토
   youtube: https://www.youtube.com/channel/UC8JVpZGSvoIwO6usKUYItHA
 - name: Babo_Coding
   youtube: https://www.youtube.com/channel/UCcMW283tl-0u9ZZSwOvkupQ
-- name: 노마드 프로그래머 Nomad Programmer
+- name: 노마드 크리에이터
   blog: https://theprogrammertells.blogspot.com/
   rss: https://theprogrammertells.blogspot.com/feeds/posts/default?alt=rss
   youtube: https://www.youtube.com/channel/UCZ73ED3NQQB-FRE14uXU_3A
@@ -1124,14 +1092,53 @@
   youtube: https://www.youtube.com/channel/UC7pxRIgkEUGuJvItZ_K22KQ
 - name: FEConf Korea
   youtube: https://www.youtube.com/channel/UCWEzfYIpFBIG5jh6laXC6hA
+  facebook: https://www.facebook.com/feconf.kr/
 - name: GDG KOREA
+  facebook: https://www.facebook.com/gdgkorea/
   youtube: https://www.youtube.com/channel/UCu3QGcALTC0FuXMma_dpK0A
+  festa: https://festa.io/hosts/25
+  slack: http://slack.gdg.kr/
+- name: GDG Korea WebTech
+  facebook: https://www.facebook.com/groups/webTechKR/
+  meetup: https://www.meetup.com/ko-KR/GDG-WebTech/
+- name: GDG Korea Android
+  meetup: https://www.meetup.com/ko-KR/GDG-Korea-Android/
+  youtube: https://www.youtube.com/channel/UCvLeTAlv3s84BIiYxVCeSag
+  festa: https://festa.io/hosts/236
+- name: GDG Pangyo
+  facebook: https://www.facebook.com/groups/gdgpangyo/
+  meetup: https://www.meetup.com/ko-KR/pangyo-gdg/
+  slack: http://slack.gdg.kr/
+- name: GDG Incheon
+  facebook: https://www.facebook.com/gdgincheon/
+  meetup: https://www.meetup.com/ko-KR/GDG-Incheon/
+  github: https://github.com/GDGincheonAndroidStudy
+- name: GDG Seoul
+  facebook: https://www.facebook.com/groups/gdgseoul/
+  meetup: https://www.meetup.com/ko-KR/GDG-Seoul/
+  slack: https://gdgkr.slack.com/
+  twitter: https://twitter.com/gdgseoul
+- name: GDG Suwon
+  meetup: https://www.meetup.com/ko-KR/gdg-suwon/
+  googlegroups: https://groups.google.com/forum/#!forum/gdg-suwon
+- name: GDG Cloud Korea
+  meetup: https://www.meetup.com/ko-KR/GDG-Cloud-Korea/
+- name: GDG Gwangmyeong
+  meetup: https://www.meetup.com/ko-KR/GDG-Gwangmyeong/
+- name: GDG SongDo
+  meetup: https://www.meetup.com/ko-KR/GDG-SongDo/
+- name: GDG Campus Korea
+  meetup: https://www.meetup.com/ko-KR/GDG-Campus/
+  facebook: https://www.facebook.com/gdgcampus/
+- name: GDG Busan
+  facebook: https://www.facebook.com/gdgbusan/
+  meetup: https://www.meetup.com/ko-KR/GDG-Busan/
+- name: GDG Daejeon
+  facebook: https://www.facebook.com/groups/gdg.daejeon/
+  meetup: https://www.meetup.com/ko-KR/GDG-Daejeon/
+  slack: https://gdgkr.slack.com/join/shared_invite/enQtNTk0NTA0NzY4NTkzLTA0NTg4MWJiOTExZmFlNWI4NWQxYWU1NGM0ZjMzZTk3YzY1NTFiNzdmNGQyNTMxMWFmZWI2ZTYzOTAyNjk2MTI
 - name: GM Yankee
   youtube: https://www.youtube.com/channel/UC9RsPwY9QfPDGD-IMEwLn3Q
-- name: 하울의 코딩 채널
-  youtube: https://www.youtube.com/channel/UCScI4bsr-RaGdYSC2QAHWug
-  facebook: https://www.facebook.com/HowlCoding/
-  naver: https://cafe.naver.com/howlcode
 - name: LifeSoft
   youtube: https://www.youtube.com/channel/UCqRTjWqD-ZWHj0ZoPSKVWBw
 - name: OpenStack Korea Group
@@ -1158,13 +1165,13 @@
   youtube: https://www.youtube.com/channel/UC9ZgpkQe_qLN1_DMCL5YFzA
 - name: TeamLab
   home: http://theteamlab.io/
-  facebook: https://www.facebook.com/GachonCS50
+  facebook: https://www.facebook.com/GachonCS50/
   github: https://github.com/TeamLab
   youtube: https://www.youtube.com/channel/UC_kvhNYJtP1-Ap67byTbfuw
 - name: withDaddy코딩아빠
   blog: https://blog.naver.com/codingdaddy
   rss: https://rss.blog.naver.com/codingdaddy.xml
-  facebook: https://www.facebook.com/codingdaddy
+  facebook: https://www.facebook.com/codingdaddy/
   youtube: https://www.youtube.com/channel/UCYBjeXCufQgqZuVDl0_lncA
 - name: K-MOOC
   home: http://www.kmooc.kr/
@@ -1179,13 +1186,13 @@
   home: http://www.smartmaker.com/
   blog: http://blog.smartmaker.com/
   rss: http://blog.smartmaker.com/rss
-  facebook: https://www.facebook.com/smartmakerkorea
+  facebook: https://www.facebook.com/smartmakerkorea/
   naver: https://cafe.naver.com/softmania
   youtube: https://www.youtube.com/channel/UC03x6KCsTmf_vDzSf4Y5miQ
 - name: 웹학교
   youtube: https://www.youtube.com/channel/UCjTQHbtYgSVCwU-sfVukZpw
 - name: 코딩의 신 아샬
-  facebook: https://www.facebook.com/GodOfCoding
+  facebook: https://www.facebook.com/GodOfCoding/
   instagram: https://www.instagram.com/ahastudio/
   youtube: https://www.youtube.com/channel/UCLLncfeIYljE0o_yUw7MkcA
 - name: 한국전자통신연구원
@@ -1193,13 +1200,13 @@
   youtube: https://www.youtube.com/channel/UCkUOpd1eE5elWKukIKYL-9w
 - name: 뉴렉처
   youtube: https://www.youtube.com/channel/UC5-ixpj8DioZqmrasj6Ihpw
-- name: Seoul Wiz
+- name: Seoul Smartcitycenter
   blog: https://iotcenter.seoul.go.kr/
   rss: https://iotcenter.seoul.go.kr/rss
   youtube: https://www.youtube.com/channel/UCysbIC7UOmikXX8IB7QZMDA
 - name: 스튜디오밀 STUDIOMEAL
   home: https://studiomeal.com/
-  facebook: https://www.facebook.com/1mincoding
+  facebook: https://www.facebook.com/1mincoding/
   youtube: https://www.youtube.com/channel/UC_s1FC7s5YVwDImzv-WG93Q
 - name: 소프트박스
   blog: https://www.diymaker.net/
@@ -1208,9 +1215,12 @@
   pinterest: https://www.pinterest.co.kr/softboxcoding/
 - name: SLiPP
   home: https://www.slipp.net/
+  facebook: https://www.facebook.com/slipp.study/
 - name: 한국 커널 개발자 모임
   home: https://kernel-dev-ko.github.io/
-- name: 피플펀드 기술 블로그
+  groups: https://groups.google.com/forum/#!forum/korea-linux-kernel-developers-meetup
+  instagram: https://www.instagram.com/kernel.dev.ko/
+- name: 피플펀드
   blog: https://tech.peoplefund.co.kr/
   rss: https://tech.peoplefund.co.kr/feed.xml
 - name: 데브스터디
@@ -1230,7 +1240,7 @@
   blog: https://www.44bits.io/
   rss: https://www.44bits.io/ko/feed/posts
   youtube: https://www.youtube.com/channel/UCPwutg-Q08jMQoPClzD0lTQ/
-  facebook: https://www.facebook.com/fortyfourbits
+  facebook: https://www.facebook.com/fortyfourbits/
   twitter: https://twitter.com/@fortyfourbits
 - name: 시피의 코딩
   youtube: https://www.youtube.com/channel/UCK7lI9EjccHY-b8hHf95Rdw
@@ -1241,35 +1251,39 @@
   home: https://hashcode.co.kr/
 - name: PSEG
   home: http://www.pseg.or.kr/pseg/
-- name: 굿닥 엔지니어링 블로그
+- name: 굿닥
   blog: http://dev.goodoc.co.kr/
   rss: http://dev.goodoc.co.kr/?feed=rss2
-- name: 꿈많은 청년들 블로그
+- name: 꿈많은 청년들
   blog: https://blog.dreamyoungs.com/
   rss: https://blog.dreamyoungs.com/feed/
-  facebook: https://www.facebook.com/DreamYoungs
+  facebook: https://www.facebook.com/DreamYoungs/
 - name: 나가자
   blog: http://www.nagaja.net/
   description: 해외 취업
-- name: 네이버 널리 블로그
+- name: 네이버 널리
   blog: https://nuli.navercorp.com/
   description: 웹 표준, 접근성
 - name: 넷매니아즈
   home: https://www.netmanias.com/ko/
-- name: 당근마켓 팀블로그
+  slideshare: https://www.slideshare.net/netmanias-ko
+- name: 당근마켓
   blog: https://medium.com/daangn
+  rss: https://medium.com/feed/daangn
   twitter: https://twitter.com/danggeunteam
-  facebook: https://www.facebook.com/danggeunmarket
+  facebook: https://www.facebook.com/danggeunmarket/
   github: https://github.com/daangn
   home: https://www.notion.so/3d0197c137ec43d18ff739b5b254a3c8
 - name: 라온피플
   blog: http://laonple.blog.me/
   rss: http://laonple.blog.me/rss
   description: 비전, 머신 러닝
-- name: 리디북스 블로그
+- name: 리디북스
   blog: https://www.ridicorp.com/blog/
+  speakerdeck: https://speakerdeck.com/ridi
 - name: 리모트몬스터
   blog: https://blog.remotemonster.com/
+  rss: https://blog.remotemonster.com/feed
   description: WebRTC
   twitter: https://twitter.com/remotemonster
   facebook: https://www.facebook.com/RemoteMonster/
@@ -1285,10 +1299,10 @@
 - name: 스타트링크
   blog: https://startlink.blog/
   rss: https://startlink.blog/feed/
-- name: 시스코 코리아 블로그
+- name: 시스코 코리아
   blog: https://ciscokrblog.com/
   rss: https://ciscokrblog.com/rss
-- name: 아이펀팩토리 블로그
+- name: 아이펀팩토리
   blog: https://blog.ifunfactory.com/
   rss: https://blog.ifunfactory.com/feed/
   facebook: https://ko-kr.facebook.com/ifunfactory/
@@ -1306,16 +1320,315 @@
   facebook: https://www.facebook.com/groups/javacafe/
 - name: Trickster
   youtube: https://www.youtube.com/channel/UCx0fFis3pbYtHjhvHxpLUJQ
-- name: 하이퍼커넥트 기술 블로그
+- name: 하이퍼커넥트
   blog: https://hyperconnect.github.io/
   rss: https://hyperconnect.github.io/feed.xml
   github: https://github.com/hyperconnect
 - name: '비개모: 비전공자 개발자 모임'
   facebook: https://www.facebook.com/groups/NonmajorDeveloperGroup/
-- name: 어반베이스 기술 블로그
+- name: 어반베이스
   blog: https://urbanbase.github.io/
   rss: https://urbanbase.github.io/feed.xml
   github: https://github.com/urbanbase/
 - name: 패스트캠퍼스
   blog: http://blog.fastcampus.co.kr/
   rss: http://blog.fastcampus.co.kr/rss
+  slideshare: https://www.slideshare.net/fastcampus
+  facebook: https://www.facebook.com/fastcampus/
+  home: https://www.fastcampus.co.kr/
+- name: YodaCodd
+  blog: https://medium.com/@codesquad_yoda
+  rss: https://medium.com/feed/@codesquad_yoda
+  github: https://github.com/yodacode/
+- name: Google Study Jams in Korea
+  facebook: https://www.facebook.com/groups/studyjamkorea/
+- name: 라라의 프로그래밍
+  youtube: https://www.youtube.com/channel/UCjWnBKjlXv550KDiBjtW8vQ
+- name: 조코딩 JoCoding
+  youtube: https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg
+- name: Devsisters
+  blog: https://tech.devsisters.com/
+  github: https://github.com/devsisters
+  home: https://www.devsisters.com/
+- name: LG CNS
+  blog: https://blog.lgcns.com/
+  rss: https://blog.lgcns.com/rss
+- name: 코딩지니어스
+  blog: https://blog.naver.com/codinggenius
+  rss: https://rss.blog.naver.com/codinggenius.xml
+- name: 개발자의 앞길에 맵핵 시전
+  facebook: https://www.facebook.com/dev.loadmap/
+- name: Metta
+  blog: https://blog.meeta.io/
+  rss: https://blog.meeta.io/rss
+  home: https://meeta.io/
+- name: 이스트 시큐리티
+  blog: https://blog.alyac.co.kr/
+  rss: https://blog.alyac.co.kr/feed
+- name: 김버그
+  youtube: https://www.youtube.com/channel/UCFDbz39kFPvU0AUpgHx4ICw
+  facebook: https://www.facebook.com/woohyeon.roh/
+  home: https://www.rohwoohyeon.com/
+- name: Encored
+  blog: https://medium.com/encored-technologies-engineering-data-science
+  rss: https://medium.com/feed/encored-technologies-engineering-data-science
+- name: 박센스
+  youtube: https://www.youtube.com/channel/UCi18b8sq1x1SrokadMkT_EQ
+- name: 어센트
+  blog: https://developers.ascentnet.co.jp/
+- name: 버즈니 보일러실
+  blog: https://boiler.buzzni.com/
+- name: 힐링페이퍼
+  blog: https://healingpaper.github.io/
+  rss: https://healingpaper.github.io/feed
+- name: 데이터센터 이야기
+  youtube: https://www.youtube.com/channel/UCED-tnzVy5hrHwMO3qcMVyQ
+- name: Cloudflare
+  blog: https://blog.cloudflare.com/ko/
+  rss: https://blog.cloudflare.com/ko/rss/
+- name: TOAST
+  blog: https://meetup.toast.com
+  rss: https://meetup.toast.com/rss
+  facebook: https://www.facebook.com/toast.nhn/
+  youtube: https://www.youtube.com/channel/UC982FhzZx87lIWCimFiry_w
+- name: 플라네타리움
+  blog: https://snack.planetarium.dev/kor/
+  rss: https://snack.planetarium.dev/kor/index.xml
+- name: 딥러닝논문읽기모임
+  youtube: https://www.youtube.com/channel/UCDULrK2OJsiDhFroa2Aj_LQ
+- name: 라라의 프로그래밍
+  youtube: https://www.youtube.com/channel/UCjWnBKjlXv550KDiBjtW8vQ
+- name: OSSF 개발자 그룹
+  facebook: https://www.facebook.com/sda.re.kr/
+- name: 백준 온라인 저지
+  facebook: https://www.facebook.com/onlinejudge/
+- name: 코드잇
+  blog: https://blog.naver.com/codeitofficial
+  rss: https://rss.blog.naver.com/codeitofficial.xml
+- name: 데벨업
+  youtube: https://www.youtube.com/channel/UCy5Y1Js01qEGSnI7KQeVjZw
+  facebook: https://www.facebook.com/goormdevelup/
+  home: https://develup.goorm.io
+- name: 서울개발자
+  facebook: https://www.facebook.com/console.man.solo/
+  home: http://www.seoulcodes.com
+- name: 개발자 커리어 이야기
+  facebook: https://www.facebook.com/devcareer/
+- name: 프론트엔드 개발 공부 - 프개공
+  facebook: https://www.facebook.com/frontendstudy/
+- name: 'F E L O G: 프론트엔드 개발에 대하여'
+  facebook: https://www.facebook.com/Jbee.dev/
+- name: 모바일 앱 개발 공부
+  facebook: https://www.facebook.com/AppDevStudy/
+- name: 리드잇readIT
+  facebook: https://www.facebook.com/i.READ.IT.books/
+- name: IT스터디
+  facebook: https://www.facebook.com/ITStudygroup/
+- name: 알고리즘에 고통받는 취준생을 위한 안내서
+  facebook: https://www.facebook.com/algoguide/
+- name: A.I. Lookbook
+  facebook: https://www.facebook.com/AI.Lookbook/
+- name: Google Developers Korea
+  facebook: https://www.facebook.com/googledevkr/
+- name: 부스트캠프 - boostcamp
+  facebook: https://www.facebook.com/boostcamp.official/
+  home: http://boostcamp.connect.or.kr
+- name: JSConf Korea
+  facebook: https://www.facebook.com/jsconfkorea/
+- name: 코딩 그까이꺼
+  facebook: https://www.facebook.com/whereIsCoding/
+- name: 코딩한잔
+  facebook: https://www.facebook.com/acupofcode/
+- name: 코딩인카페
+  facebook: https://www.facebook.com/codingincafe/
+- name: 너드팩토리
+  blog: https://blog.nerdfactory.ai
+  rss: https://blog.nerdfactory.ai/feed.xml
+- name: Delivery Hero Korea
+  blog: https://medium.com/deliverytechkorea
+  rss: https://medium.com/feed/deliverytechkorea
+  facebook: https://www.facebook.com/deliveryherokorea
+- name: 테크니들
+  blog: http://techneedle.com/
+  rss: http://techneedle.com/feed
+- name: 쩡원의PHP
+  youtube: https://www.youtube.com/channel/UCHdmYfB-HgzGqCiTu0NfuLw
+- name: 프리렉
+  youtube: https://www.youtube.com/channel/UCn9oaGNfb_jvaZbe2VKDCtA
+- name: skyTV
+  youtube: https://www.youtube.com/channel/UCbv199nKJ-UbJYz9EHm8VWA
+- name: Smile Han
+  youtube: https://www.youtube.com/channel/UCM8wseo6DkA-D7yGlCrcrwA
+- name: PlusTV
+  blog: https://medium.com/plustv
+  rss: https://medium.com/feed/plustv
+- name: ZUM Tech
+  blog: https://zuminternet.github.io/
+  rss: https://zuminternet.github.io/feed.xml
+- name: 보안프로젝트
+  youtube: https://www.youtube.com/channel/UC7X47oW4QqJS9z4uanD9qIw
+- name: 책 읽는 프로그래머
+  facebook: https://www.facebook.com/groups/hanbitreaders/
+- name: IT 인프라 엔지니어 그룹
+  facebook: https://www.facebook.com/groups/InfraEngineer/
+- name: devCAT Studio
+  home: https://devcat.com/
+  twitter: https://twitter.com/devCAT_official
+  facebook: https://www.facebook.com/devCAT.official
+  instagram: https://www.instagram.com/devcat.studio_official/
+  slideshare: https://www.slideshare.net/devcatpublications
+- name: jbugkorea
+  slideshare: https://www.slideshare.net/jbugkorea
+- name: Oracle Korea
+  home: https://www.oracle.com/kr/index.html
+  slideshare: https://www.slideshare.net/OracleDeveloperkr
+  facebook: https://www.facebook.com/groups/koreaoraclecloud/
+- name: 유미테크
+  slideshare: https://www.slideshare.net/ymtech
+- name: FineReport
+  blog: https://www.finereport.com/kr/blog/
+- name: 쏘카
+  blog: https://tech.socarcorp.kr/
+  rss: https://tech.socarcorp.kr/feed.xml
+  facebook: https://www.facebook.com/socarsharing
+  home: https://www.socar.kr/
+- name: Incheon Dev's
+  home: https://incheon.devs.co.kr/
+  facebook: https://www.facebook.com/Incheon-Devs-339128023433615/
+- name: 네이버 클라우드 플랫폼
+  blog: https://blog.naver.com/n_cloudplatform
+  rss: https://rss.blog.naver.com/n_cloudplatform.xml
+- name: WATCHA
+  blog: https://medium.com/watcha
+  rss: https://medium.com/feed/watcha
+  twitter: https://twitter.com/watcha_app
+  facebook: https://www.facebook.com/watchaInc/
+  home: https://team.watcha.com/
+- name: EO
+  youtube: https://www.youtube.com/channel/UCQ2DWm5Md16Dc3xRwwhVE7Q
+- name: 코딩하는 테크보이 워니
+  youtube: https://www.youtube.com/channel/UC0uDM1xZMNBAoW2xnzhAQ7g
+- name: 파비
+  blog: https://blog.pabii.co.kr/
+  rss: https://blog.pabii.co.kr/feed/
+  description: Data Science
+  home: https://pabii.co.kr/
+- name: 호스팅케이알
+  blog: https://cloud.hosting.kr/blog/
+  rss: https://cloud.hosting.kr/feed/
+  description: AWS
+  home: https://www.hosting.kr/
+- name: 널채움
+  home: https://nullfull.kr/
+- name: 설리번 프로젝트
+  home: https://sullivanproject.io/
+  facebook: https://www.facebook.com/sullivanproject.in
+  instagram: https://www.instagram.com/sullivanproject/
+- name: 토스랩
+  blog: https://tosslab.github.io/
+  rss: https://tosslab.github.io/feed.xml
+- name: 망고플레이트
+  blog: https://medium.com/team-mangoplate
+  rss: https://medium.com/feed/team-mangoplate
+- name: 조이코퍼레이션
+  blog: https://blog-kr.zoyi.co/
+  rss: https://blog-kr.zoyi.co/rss/
+- name: 굿닥
+  blog: http://dev.goodoc.co.kr/
+  rss: http://dev.goodoc.co.kr/?feed=rss2
+- name: 쿠팡
+  blog: https://medium.com/coupang-tech
+  rss: https://medium.com/feed/coupang-tech
+- name: NTS WIT
+  blog: https://wit.nts-corp.com/
+  rss: https://wit.nts-corp.com/feed
+- name: Gitple
+  blog: https://tech.gitple.io/
+  rss: https://tech.gitple.io/atom.xml
+- name: 씨앤텍시스템즈
+  blog: https://cntechsystems.tistory.com/
+  rss: https://cntechsystems.tistory.com/rss
+- name: 블로코
+  blog: https://www.blocko.io/resource/blog/
+  rss: https://www.blocko.io/feed/
+- name: S/W 멤버십
+  blog: http://www.secmem.org/blog/
+  github: https://github.com/infossm
+  facebook: https://www.facebook.com/secmem
+  youtube: https://www.youtube.com/user/SamsungSWMem
+- name: UNREAL
+  blog: https://www.unrealengine.com/ko/feed/tech-blog
+  rss: https://www.unrealengine.com/ko/rss
+- name: 글루시스
+  blog: https://tech.gluesys.com/blog/
+  rss: https://tech.gluesys.com/feed.xml
+- name: 모두의 연구소
+  blog: https://www.whydsp.org/
+  rss: https://www.whydsp.org/rss
+- name: 이스트소프트
+  blog: https://blog.est.ai/
+  rss: https://blog.est.ai/feed/
+- name: 게임빌컴투스
+  blog: https://tech.gamevilcom2us.com/
+  rss: https://tech.gamevilcom2us.com/feed
+- name: NDS
+  blog: https://tech.cloud.nongshim.co.kr/
+  rss: https://tech.cloud.nongshim.co.kr/feed/
+- name: 플랫폼 개발팀
+  blog: https://team-platform.tistory.com/
+  rss: https://team-platform.tistory.com/rss
+- name: 사이버이메지네이션
+  blog: https://cyberx.tistory.com/
+  rss: https://cyberx.tistory.com/rss
+- name: 이더리움 연구회
+  blog: https://medium.com/@etherstudy
+  rss: https://medium.com/feed/@etherstudy
+  facebook: https://www.facebook.com/etherstudy
+  github: https://github.com/etherstudy
+- name: UBcare
+  blog: http://tech.ubcare.co.kr/
+  rss: http://tech.ubcare.co.kr/feed.xml
+- name: 메가존
+  blog: https://cloud.hosting.kr/blog/
+  rss: https://cloud.hosting.kr/feed/
+- name: 컬리
+  blog: https://helloworld.kurly.com/
+  rss: https://helloworld.kurly.com/feed.xml
+- name: 휴먼스케이프 개발블로그
+  blog: https://medium.com/humanscape-tech
+  rss: https://medium.com/feed/humanscape-tech
+- name: 라인웍스
+  blog: https://linewalks.com/blog
+  rss: https://linewalks.com/feed
+- name: 헤렌
+  blog: https://herrenofficial.github.io/
+  rss: https://herrenofficial.github.io/feed.xml
+  stackshare: https://stackshare.io/companies/herren
+  slideshare: https://www.slideshare.net/herrenstudy
+  home: https://www.herrencorp.com/
+- name: 번개장터
+  blog: https://medium.com/bunjang-tech-blog
+  rss: https://medium.com/feed/bunjang-tech-blog
+- name: vais
+  kakaotalk: https://open.kakao.com/o/ghU9D1o
+- name: 캐글코리아
+  kakaotalk: https://open.kakao.com/o/gP24T89
+- name: 케라스코리아
+  kakaotalk: https://open.kakao.com/o/g93MSBV
+- name: 자율주행을 좋아하는 사람들의 모임
+  kakaotalk: https://open.kakao.com/o/geMJ6H2
+- name: 파이썬 처음처럼
+  kakaotalk: https://open.kakao.com/o/gG6kgabb
+- name: 멜론 Design Group
+  blog: https://brunch.co.kr/@design-melon
+  rss: https://brunch.co.kr/rss/@@5fXt
+- name: poplcode
+  blog: https://blog.popl.ml
+  rss: https://blog.popl.ml/rss
+  description: php library
+- name: 디자인 못 하는 디자이너
+  blog: https://brunch.co.kr/@wlgp2096
+  rss: https://brunch.co.kr/rss/@@34u4
+- name: CODE 200
+  blog: https://code-200.tistory.com/
+  rss: https://code-200.tistory.com/rss

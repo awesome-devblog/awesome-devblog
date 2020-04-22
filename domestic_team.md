@@ -22,6 +22,7 @@
 | 드라마앤컴패니 블로그 | http://blog.dramancompany.com/ | |
 | 라온피플 | http://blog.naver.com/laonple | 비전, 머신 러닝 |
 | 레진 기술 블로그 | http://tech.lezhin.com/ | |
+| 렌딧 기술 블로그 | https://lenditkr.github.io/ | |
 | 로켓펀치 블로그 | https://blog.rocketpunch.com/ | |
 | 리디북스 | https://www.ridicorp.com/blog/ | |
 | 리모트몬스터 | https://blog.remotemonster.com/ | WebRTC |
@@ -38,6 +39,7 @@
 | 보드나라 | http://www.bodnara.co.kr/ | IT 뉴스 |
 | 보안뉴스 | http://www.boannews.com/ | 보안 |
 | 블로터 | http://www.bloter.net/ | IT 뉴스 |
+| 빙글 테크블로그 | https://medium.com/vingle-tech-blog | |
 | 솔라나라 | http://www.solanara.net/ | 솔라리스 |
 | 스타일쉐어 | http://styleshare.github.io/ | |
 | 스타트링크 | https://blog.startlink.io/ | |
@@ -66,6 +68,7 @@
 | 오픈튜토리얼스 | https://opentutorials.org/ | |
 | 와탭 블로그 | http://blog.whatap.io/ | |
 | 우아한형제들 기술 블로그 | http://woowabros.github.io/ | |
+| 유비케어 기술 블로그 | http://tech.ubcare.co.kr/ | |
 | 위클립스 | http://eclipse.or.kr/ | 이클립스, 지율 |
 | 이상한모임 | http://blog.weirdx.io/ | |
 | 이음소시어스 | http://bigmatch.i-um.net/ | |
@@ -134,6 +137,7 @@
 | Mozilla Developer | https://developer.mozilla.org/ko/ | |
 | Mozilla Hack | http://hacks.mozilla.or.kr/ | |
 | MSDN Korea Evengelist | https://blogs.msdn.microsoft.com/eva/ | .Net |
+| NHN | https://meetup.toast.com/ | TOAST Meetup |
 | NVIDA | http://blogs.nvidia.co.kr/ | Graphic |
 | OKKY | https://okky.kr/ | Q&A |
 | opennaru Blog | http://www.opennaru.com/blog/ | APM |
@@ -160,3 +164,9 @@
 | We Build Product | https://webuildproduct.com/ | 프로덕트 디자인 & 매니지먼트 |
 | WIT 블로그 | http://wit.nts-corp.com/ | Web |
 | ZDNet Korea | http://www.zdnet.co.kr/ | IT 기사 |
+
+## Etc
+
+| Name | Blog | Description |
+|---|---|---|
+| 44bits | https://www.44bits.io/ko | Cloud 기술, IT 뉴스 |
