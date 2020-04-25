@@ -30,3 +30,4 @@
 - [Daily DevBlog(뉴스레터)](http://daily-devblog.com/)
 - [DEVBLOG(메타블로그)](http://devblog.selfhow.com/)
 - [TodayDevBlog_bot(텔레그램봇)](https://t.me/TodayDevblog_bot)
+- [TodayDevBlog bot(슬랙 웹훅)](https://github.com/techinpark/today-devblog-bot)
