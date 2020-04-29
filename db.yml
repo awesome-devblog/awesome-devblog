@@ -9240,3 +9240,8 @@
   rss: https://stricky.tistory.com/rss
   description: DB
   facebook: https://www.facebook.com/ricky.han.52438
+- name: 정준영
+  blog: https://jeong-develop-repository.netlify.com/
+  rss: https://jeong-develop-repository.netlify.app/rss.xml
+  description: WEB 개발
+  github: https://github.com/bcc829
