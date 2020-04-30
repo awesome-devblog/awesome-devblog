@@ -939,8 +939,8 @@
   facebook: https://www.facebook.com/velopert
   youtube: https://www.youtube.com/channel/UCmMgRlN-3GKQ_CH7cOtLdvg
 - name: 김민창
-  blog: https://floydkim.netlify.com
-  rss: https://floydkim.netlify.com/rss.xml
+  blog: https://floydkim.netlify.app
+  rss: https://floydkim.netlify.app/rss.xml
   description: React
   github: https://github.com/floydkim
   rocketpunch: https://www.rocketpunch.com/@minchangkimm
@@ -1605,8 +1605,8 @@
   linkedin: https://www.linkedin.com/in/benjamin-kim-73ab2038/
   gitlab: https://gitlab.com/BenjaminKim
 - name: 김재완
-  blog: https://lastrites2018.netlify.com/
-  rss: https://lastrites2018.netlify.com/rss.xml
+  blog: https://lastrites2018.netlify.app/
+  rss: https://lastrites2018.netlify.app/rss.xml
   description: Front-end
   github: https://github.com/lastrites2018
 - name: 김재열
@@ -2935,8 +2935,8 @@
   rss: https://medium.com/feed/@pks2974
   description: Javascript
 - name: 박성민
-  blog: https://a1p4ca.netlify.com
-  rss: https://a1p4ca.netlify.com/atom.xml
+  blog: https://a1p4ca.netlify.app
+  rss: https://a1p4ca.netlify.app/atom.xml
   description: Web
   github: https://github.com/a1p4ca
   facebook: https://fb.com/a1p4ca
@@ -3201,7 +3201,7 @@
   blog: https://medium.com/@jongyoungpark
   rss: https://medium.com/feed/@jongyoungpark
 - name: 박종철
-  blog: https://jaypark.netlify.com/
+  blog: https://jaypark.netlify.app/
   description: React
   linkedin: https://www.linkedin.com/in/jay-jongcheol-park/
   twitter: https://twitter.com/JayPark_io
@@ -3552,8 +3552,8 @@
   youtube: https://www.youtube.com/channel/UC2lVigaHHMMW42EYmqZ94kg
   facebook: https://www.facebook.com/ssolbae
 - name: 배영섭
-  blog: https://byseop.netlify.com/
-  rss: https://byseop.netlify.com/rss.xml
+  blog: https://byseop.netlify.app/
+  rss: https://byseop.netlify.app/rss.xml
   description: React
   facebook: https://www.facebook.com/profile.php?id=100003672276708
   github: https://github.com/byseop
@@ -3831,7 +3831,7 @@
   rss: https://simsi6.tistory.com/rss
   description: AWS
 - name: 서재원
-  blog: https://overcurried.netlify.com/
+  blog: https://overcurried.netlify.app/
   description: Front-end
   facebook: https://www.facebook.com/ENvironmentSet
   github: https://github.com/ENvironmentSet
@@ -5788,8 +5788,8 @@
   facebook: https://www.facebook.com/sangwn.lee
   github: https://github.com/highluck
 - name: 이상원
-  blog: https://john015.netlify.com/
-  rss: https://john015.netlify.com/rss.xml
+  blog: https://john015.netlify.app/
+  rss: https://john015.netlify.app/rss.xml
   github: https://github.com/john015
   description: front-end, Web
 - name: 이상주
@@ -6065,8 +6065,8 @@
   facebook: https://www.facebook.com/ars103
   description: 'C#, 삽질'
 - name: 이영창
-  blog: https://p-iknow.netlify.com
-  rss: https://p-iknow.netlify.com/rss.xml
+  blog: https://p-iknow.netlify.app
+  rss: https://p-iknow.netlify.app/rss.xml
   description: Algorithm
   facebook: https://www.facebook.com/devpiknow
   twitter: https://twitter.com/iknow_p
@@ -6651,8 +6651,8 @@
   twitter: https://twitter.com/vazrupe
   github: https://github.com/vazrupe
 - name: 이현규
-  blog: https://deveely-log.netlify.com/
-  rss: https://deveely-log.netlify.com/rss.xml
+  blog: https://deveely-log.netlify.app/
+  rss: https://deveely-log.netlify.app/rss.xml
   description: Backend developer (@deveely)
   github: https://github.com/HyunGyu-Lee
   linkedin: https://www.linkedin.com/in/hyungyu-lee-2387a8187/
@@ -6835,8 +6835,8 @@
   twitter: https://twitter.com/jinwooe
   rocketpunch: https://www.rocketpunch.com/@jinwooe.1
 - name: 임창현
-  blog: https://select995.netlify.com/
-  rss: https://select995.netlify.com/rss.xml
+  blog: https://select995.netlify.app/
+  rss: https://select995.netlify.app/rss.xml
   github: https://github.com/threesnakes
   linkedin: https://www.linkedin.com/in/changhyun-lim-86334a194/
   description: Web
@@ -7805,12 +7805,12 @@
   rss: https://brunch.co.kr/atom/@@CCX
   description: ''
 - name: 조선형
-  blog: https://seonhyung.netlify.com/posts
+  blog: https://seonhyung.netlify.app/posts
   description: Front-End
   github: https://github.com/SeonHyungJo
   facebook: https://www.facebook.com/profile.php?id=100015515351267
   youtube: https://www.youtube.com/channel/UCCs6KHf_Zo_iI2jfg_eqeDg
-  home: https://seonhyung.netlify.com/
+  home: https://seonhyung.netlify.app/
 - name: 조성동
   blog: https://velog.io/@sdong001
   rss: https://v2.velog.io/rss/sdong001
