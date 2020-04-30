@@ -7575,6 +7575,11 @@
 - name: 정준석
   github: https://github.com/korcosin
   slideshare: https://www.slideshare.net/junseokjung1
+- name: 정준영
+  blog: https://jeong-develop-repository.netlify.app
+  rss: https://jeong-develop-repository.netlify.app/rss.xml
+  description: WEB 개발
+  github: https://github.com/bcc829  
 - name: 정준호
   youtube: https://www.youtube.com/channel/UCNbp-JsE2BUZMwPaC6J8ApQ
 - name: 정지수
