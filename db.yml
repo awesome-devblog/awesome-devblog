@@ -3104,6 +3104,13 @@
   blog: https://devage.tistory.com/
   rss: https://devage.tistory.com/rss
   description: 5G, network
+- name: 박장원
+  blog: https://monologg.kr/
+  rss: https://monologg.kr/rss2.xml
+  description: NLP, Deep Learning, Machine Learning
+  github: https://github.com/monologg
+  facebook: https://www.facebook.com/jangwon.park.9619
+  linkedin: https://www.linkedin.com/in/jang-won-park/
 - name: 박장혁
   blog: https://k9327.tistory.com/
   rss: https://k9327.tistory.com/rss
