@@ -19,7 +19,8 @@
   slideshare: https://www.slideshare.net/jania902
 - name: 강관우
   blog: https://brunch.co.kr/@kd4
-  description: Java
+  description: 웹개발
+  rss: https://brunch.co.kr/rss/@@xTa
 - name: 강대명
   profile: people/charsyam.md
   blog: https://charsyam.wordpress.com/
