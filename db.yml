@@ -2002,6 +2002,11 @@
   rss: https://blog.kesuskim.com/feed.xml
   description: Front-end
   github: https://github.com/kesuskim
+- name: 김찬정
+  blog: https://kimchanjung.github.io/
+  rss: https://kimchanjung.github.io/feed.xml
+  description: java/spring/react/architecture
+  github: https://github.com/kimchanjung
 - name: 김창원
   blog: http://www.memoriesreloaded.net/
   rss: http://www.memoriesreloaded.net/feeds/posts/default
