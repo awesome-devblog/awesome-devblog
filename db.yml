@@ -573,6 +573,12 @@
   description: IT 소식
   twitter: https://twitter.com/kwang82
   facebook: https://www.facebook.com/kwang8e
+- name: 김광훈
+  blog: https://wave1994.tistory.com/
+  rss: https://wave1994.tistory.com/rss
+  description: 주니어 백엔드 개발자 성장 로그
+  github: https://github.com/Wave1994-Hoon
+  facebook: https://www.facebook.com/profile.php?id=100004740005006
 - name: 김국현
   blog: http://goodhyun.com/
   rss: https://feeds.feedburner.com/goodhyun
