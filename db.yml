@@ -4918,6 +4918,12 @@
   description: IT 칼럼
   facebook: https://www.facebook.com/ringtheworld
   instagram: https://www.instagram.com/jongtaek.o/
+- name: 오종택
+  blog: https://saengmotmi.netlify.app
+  rss: https://saengmotmi.netlify.app/rss.xml
+  description: {Wannabe Programmer}
+  github: https://github.com/saengmotmi
+  facebook: https://www.facebook.com/jongtaek5/
 - name: 오준석
   blog: https://brunch.co.kr/@hopeless
   rss: https://brunch.co.kr/rss/@@2iiS
