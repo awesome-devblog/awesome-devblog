@@ -6584,6 +6584,10 @@
   blog: https://chanhaeng.blogspot.com/
   rss: https://chanhaeng.blogspot.com/feeds/posts/default
   description: 3D Graphics
+- name: 이찬호
+  blog: https://nero.devstory.co.kr
+  rss: https://nero.devstory.co.kr/rss.xml
+  github: https://github.com/nero-angela
 - name: 이찬희
   blog: https://imch.dev/posts
   rss: https://imch.dev/rss.xml
