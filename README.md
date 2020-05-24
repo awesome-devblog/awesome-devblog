@@ -23,7 +23,7 @@
 - [나는 LINE 개발자입니다: 라인의 개발 고수 12인의 도전과 기회, 성장의 개발 라이프](https://books.google.co.kr/books?id=2pK0DwAAQBAJ&pg=PT141&dq=awesome+devblog&hl=ko&sa=X&ved=0ahUKEwjpodLWyePmAhU-yIsBHYzGC5wQ6AEILzAB#v=onepage&q=awesome%20devblog)
 
 ## 형제자매 프로젝트
-- [AWESOME DEVBLOG(포탈)](https://awesome-devblog.netlify.com/)
+- [AWESOME DEVBLOG(포탈)](https://awesome-devblog.netlify.app/)
 - [어썸블로그(안드로이드)](https://play.google.com/store/apps/details?id=org.petabytes.awesomeblogs)
 - [어썸블로그(iOS)](https://itunes.apple.com/us/app/어썸-블로그/id1276023809)
 - [어썸블로그(페이스북 페이지)](https://www.facebook.com/awesomeblogs/)
