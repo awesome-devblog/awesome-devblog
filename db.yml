@@ -2143,6 +2143,11 @@
   blog: https://velog.io/@foxkim
   rss: https://v2.velog.io/rss/foxkim
   description: ''
+- name: 김태은
+  blog: https://taeny.dev/
+  rss: https://taeny.dev/rss.xml
+  github: https://github.com/taenykim
+  facebook: https://www.facebook.com/teun1215
 - name: 김태현
   blog: https://javaexpert.tistory.com/
   rss: https://javaexpert.tistory.com/rss
@@ -8293,6 +8298,8 @@
   rss: https://ryanking13.github.io/feed.xml
   description: Python
   github: https://github.com/ryanking13
+  linkedin: https://www.linkedin.com/in/gyeongjae-choi-b259b0163/
+  slideshare: https://www.slideshare.net/sihadan
 - name: 최경훈
   blog: https://medium.com/@idchoi2
   rss: https://medium.com/feed/@idchoi2
