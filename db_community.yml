@@ -1638,3 +1638,9 @@
 - name: 위매치
   blog: https://medium.com/wematch
   rss: https://medium.com/feed/wematch
+- name: 마이크로프로텍트
+  blog: https://microprotect.github.io/
+  rss: https://microprotect.github.io/feed.xml
+  facebook: https://www.facebook.com/microprotect
+  github: https://github.com/microprotect
+  instagram: https://www.instagram.com/microprotect/
