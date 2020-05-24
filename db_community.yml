@@ -1635,3 +1635,6 @@
 - name: 가비아
   blog: https://library.gabia.com/
   rss: https://library.gabia.com/feed
+- name: 위매치
+  blog: https://medium.com/wematch
+  rss: https://medium.com/feed/wematch
