@@ -1632,3 +1632,6 @@
 - name: CODE 200
   blog: https://code-200.tistory.com/
   rss: https://code-200.tistory.com/rss
+- name: 가비아
+  blog: https://library.gabia.com/
+  rss: https://library.gabia.com/feed
