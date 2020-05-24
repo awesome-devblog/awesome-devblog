@@ -5507,8 +5507,8 @@
   rss: http://mindthelog.com/feed/
   description: 마케팅 분석
 - name: 이규원
-  blog: https://justhackem.wordpress.com/
-  rss: https://justhackem.wordpress.com/feed/
+  blog: https://gyuwon.github.io/
+  rss: https://gyuwon.github.io/feed.xml
   description: OOP
   facebook: https://www.facebook.com/gyuwon.yi
   github: https://github.com/gyuwon
@@ -6151,6 +6151,8 @@
   rss: https://leeyh0216.github.io/feed
   description: Java, Spark
   github: https://github.com/leeyh0216
+  backjoon: https://www.acmicpc.net/user/leeyh0216
+  rocketpunch: https://www.rocketpunch.com/@leeyh0216
 - name: 이욱진
   blog: https://name267.tistory.com/
   rss: https://name267.tistory.com/rss
@@ -8474,6 +8476,10 @@
   blog: https://yongho1037.tistory.com/
   rss: https://yongho1037.tistory.com/rss
   description: 도서 리뷰
+- name: 최용호
+  blog: https://goldenthumb.net/
+  rss: https://goldenthumb.net/feed
+  github: https://github.com/goldenthumb
 - name: 최원영
   blog: https://blog.voidmainvoid.net/
   rss: https://blog.voidmainvoid.net/rss
