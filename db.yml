@@ -1381,6 +1381,9 @@
   description: ''
 - name: 김영한
   slideshare: https://www.slideshare.net/zipkyh
+- name: 김영후
+  blog: https://medium.com/@younghoo88
+  rss: https://medium.com/feed/@younghoo88
 - name: 김영훈
   blog: https://blog.martinwork.co.kr/
   rss: https://blog.martinwork.co.kr/feed.xml
@@ -2129,6 +2132,9 @@
   rss: https://madplay.github.io/feed
   description: Java
   github: https://github.com/madplay
+  linkedin: https://www.linkedin.com/in/madplay/
+  facebook: https://www.facebook.com/itsmetaeng
+  instagram: https://www.instagram.com/itsme.taeng/
 - name: 김태우
   blog: https://lazy-coder.tistory.com/
   rss: https://lazy-coder.tistory.com/rss
