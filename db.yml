@@ -623,6 +623,7 @@
   github: https://github.com/feel5ny
   facebook: https://www.facebook.com/feel5ny
   linkedin: https://www.linkedin.com/in/feel5ny/
+  speakerdeck: https://speakerdeck.com/feel5ny
 - name: 김나영
   blog: https://nykim.work/
   rss: https://nykim.work/rss
@@ -8448,6 +8449,8 @@
   blog: https://wholeman.dev/
   rss: https://wholeman.dev/rss.xml
   description: Kotlin, JavaScript, TDD, Agile
+  facebook: https://www.facebook.com/soohyung.choi.7
+  github: https://github.com/wholemann
 - name: 최승윤
   blog: https://velog.io/@alchemist718
   rss: https://v2.velog.io/rss/alchemist718
@@ -8528,6 +8531,10 @@
   blog: https://im-mota.github.io/
   description: UX
   linkedin: https://www.linkedin.com/in/eunsunmota/
+- name: 최일선
+  blog: https://blog.naver.com/isc0304
+  rss: https://rss.blog.naver.com/isc0304.xml
+  youtube: https://www.youtube.com/channel/UCW_PO0316aD16L3IcD34wPg
 - name: 최재길
   blog: https://blog.devjoshua.me/
   rss: https://blog.devjoshua.me/feed.xml
