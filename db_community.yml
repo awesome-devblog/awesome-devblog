@@ -1654,3 +1654,6 @@
 - name: 구름
   blog: https://blog.naver.com/goorm_official
   rss: https://rss.blog.naver.com/goorm_official.xml
+- name: 에이브릴
+  blog: https://blog.naver.com/skaibril
+  rss: https://rss.blog.naver.com/skaibril.xml
