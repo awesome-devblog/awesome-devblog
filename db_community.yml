@@ -1685,3 +1685,8 @@
 - name: 다나와
   blog: https://danawalab.github.io/
   rss: https://danawalab.github.io/feed
+- name: 카카오 엔터프라이즈
+  blog: https://tech.kakaoenterprise.com/
+  rss: https://tech.kakaoenterprise.com/rss
+  facebook: https://www.facebook.com/kakaoenterprise
+  youtube: https://www.youtube.com/kakaoenterprise
