@@ -1682,3 +1682,6 @@
 - name: VWLAB
   blog: https://www.vw-lab.com/
   rss: https://www.vw-lab.com/rss
+- name: 다나와
+  blog: https://danawalab.github.io/
+  rss: https://danawalab.github.io/feed
