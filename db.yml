@@ -540,6 +540,7 @@
   github: https://github.com/kwonhyeona
 - name: 권희정
   blog: https://gmlwjd9405.github.io/
+  rss: https://gmlwjd9405.github.io/feed
   description: Spring
   github: https://github.com/gmlwjd9405
 - name: 김강령
@@ -1147,6 +1148,12 @@
   blog: http://devopser.me/
   description: DevOps
   github: https://github.com/kssminus
+- name: 김성연
+  blog: https://brunch.co.kr/@cliche-cliche
+  rss: https://brunch.co.kr/rss/@@2hV3
+  description: Design
+  rocketpunch: https://www.rocketpunch.com/@sykime1012107180447fc
+  dribbble: https://dribbble.com/woody_woody
 - name: 김성원
   blog: https://eaglesoft.tistory.com/
   rss: https://eaglesoft.tistory.com/rss
