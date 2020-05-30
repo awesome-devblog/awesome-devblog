@@ -231,7 +231,7 @@
   youtube: https://www.youtube.com/user/kckohkoh
 - name: 고득녕
   blog: https://blog.naver.com/nackji80/
-  rss:  https://blog.rss.naver.com/nackji80.xml
+  rss: https://blog.rss.naver.com/nackji80.xml
   description: 네트워크
 - name: 고명석
   blog: https://ifyoudontknow-youcandothis.tistory.com/
@@ -1760,7 +1760,7 @@
 - name: 김종헌
   blog: https://shovelman.tistory.com/
   rss: https://shovelman.tistory.com/rss
-  description: ".NET"
+  description: '.NET'
 - name: 김종현
   blog: https://root-kjh.github.io/
   github: https://github.com/Root-kjh
@@ -5077,7 +5077,7 @@
 - name: 유경상
   blog: http://www.simpleisbest.net/
   rss: http://www.simpleisbest.net/syndication.axd
-  description: ".NET"
+  description: '.NET'
 - name: 유다현
   blog: https://yuda.dev/
   rss: https://yuda.dev/rss
@@ -6416,7 +6416,7 @@
   youtube: https://www.youtube.com/channel/UCRWq4MPqifkmT2GyL2d2ZAQ
   aladin: https://www.aladin.co.kr/m/mauthorinfo.aspx?authorsearch=@6535991
 - name: 이제현
-  blog: https://jehyunlee.github.io/  
+  blog: https://jehyunlee.github.io/
   rss: https://jehyunlee.github.io/feed.xml
   description: Python
   github: https://github.com/jehyunlee
@@ -7690,7 +7690,7 @@
   blog: https://jeong-develop-repository.netlify.app
   rss: https://jeong-develop-repository.netlify.app/rss.xml
   description: WEB 개발
-  github: https://github.com/bcc829  
+  github: https://github.com/bcc829
 - name: 정준호
   youtube: https://www.youtube.com/channel/UCNbp-JsE2BUZMwPaC6J8ApQ
 - name: 정지수
@@ -8756,6 +8756,12 @@
   github: https://github.com/seongminchoob
   appstore: https://itunes.apple.com/us/developer/성민-추/id1434887090
   home: https://www.seongmin.org/
+- name: 추연호
+  blog: https://younho9.dev
+  description: younho9의 기술 블로그, 웹 프론트엔드 개발 일지, 느려도 꾸준하게
+  rss: https://younho9.dev/rss.xml
+  facebook: https://www.facebook.com/younho9.choo
+  github: https://github.com/younho9
 - name: 추영식
   blog: https://www.hides.kr
   rss: https://www.hides.kr/rss
@@ -9359,7 +9365,7 @@
   linkedin: https://www.linkedin.com/in/hohyeonmoon
   youtube: https://www.youtube.com/hohyeonmoon
   facebook: https://www.facebook.com/hohyeonmoon
-  instagram: https://www.instagram.com/hohyeonmoon  
+  instagram: https://www.instagram.com/hohyeonmoon
 - name: Jason Ryu
   blog: https://medium.com/@sryu99
   rss: https://medium.com/feed/@sryu99
