@@ -3886,7 +3886,8 @@
   rss: https://simsi6.tistory.com/rss
   description: AWS
 - name: 서재원
-  blog: https://overcurried.netlify.app/
+  blog: https://overcurried.com/
+  rss: https://overcurried.com/rss.xml
   description: Front-end
   facebook: https://www.facebook.com/ENvironmentSet
   github: https://github.com/ENvironmentSet
@@ -7056,6 +7057,11 @@
   linkedin: https://www.linkedin.com/in/jangkunblog/
   flickr: https://www.flickr.com/photos/jangkunblog/
   youtube: https://www.youtube.com/jangkunblog
+- name: 장연철
+  blog: https://yeon-kr.tistory.com/
+  rss: https://yeon-kr.tistory.com/rss
+  description: Java
+  facebook: https://www.facebook.com/profile.php?id=100010757858151
 - name: 장영석
   blog: https://brunch.co.kr/@ddangdol
   rss: https://brunch.co.kr/rss/@@1cYs
