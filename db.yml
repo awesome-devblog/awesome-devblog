@@ -7649,6 +7649,11 @@
   blog: http://blog.younjinjeong.io/
   description: Cloud
   tistory: https://kerberosj.tistory.com/
+- name: 정의정
+  blog: https://uiui.blog/
+  rss: https://uiui.blog/rss.xml
+  description: Algorithm
+  github: https://github.com/Uijeong97
 - name: 정이원
   blog: https://pywc.github.io/
   rss: https://pywc.github.io/rss/index.html
