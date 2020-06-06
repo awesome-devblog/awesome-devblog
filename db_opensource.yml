@@ -101,6 +101,10 @@
   stackoverflow: https://stackoverflow.com/questions/tagged/ava
   awesome: https://github.com/avajs/awesome-ava
   tags: [Javascript, Testing]
+- name: AvionDB
+  github: https://github.com/dappkit/aviondb
+  twitter: https://twitter.com/aviondb
+  tags: [Database]
 - name: axios
   github: https://github.com/axios/axios
   npm: https://www.npmjs.com/package/axios
@@ -866,6 +870,10 @@
   github: https://github.com/jekyll/jekyll
   awesome: https://github.com/planetjekyll/awesome-jekyll
   tags: [Static Site Generator]
+- name: JExcel
+  home: https://bossanova.uk/jexcel/v4/
+  github: https://github.com/paulhodel/jexcel
+  tags: [Javascript, Spreadsheet]
 - name: Jib
   github: https://github.com/GoogleContainerTools/jib
   gitter: https://gitter.im/google/jib
@@ -943,6 +951,9 @@
   quora: https://www.quora.com/topic/Koa-Node-js-framework
   awesome: https://github.com/ellerbrock/awesome-koa
   tags: [Javascript, Back-end Framework]
+- name: Koge
+  github: https://github.com/KogeLabs/Koge
+  tags: [Kotlin, Game Engine]
 - name: Koin
   github: https://github.com/InsertKoinIO/koin
   home: https://insert-koin.io/
@@ -1466,6 +1477,11 @@
   slack: http://www.perfect.ly/
   stackoverflow: https://stackoverflow.com/questions/tagged/perfect
   tags: [Swift, Web Framework]
+- name: Photon
+  home: https://silvia-odwyer.github.io/photon/
+  github: https://github.com/silvia-odwyer/photon
+  gitter: https://gitter.im/photonlibrary/community
+  tags: [Image Processing, WebAssembly]
 - name: Playwright
   github: https://github.com/microsoft/playwright
   npm: https://www.npmjs.com/package/playwright
@@ -1689,6 +1705,10 @@
 - name: Revery
   github: https://github.com/revery-ui/revery
   tags: [Application Framework]
+- name: Rich
+  home: https://rich.readthedocs.io/en/latest/
+  github: https://github.com/willmcgugan/rich
+  tags: [Python, CLI]
 - name: Ring
   home: http://ring-lang.net/
   github: https://github.com/ring-lang/ring
@@ -1834,6 +1854,10 @@
   slack: https://snapsvg.slack.com/
   googlegroups: https://groups.google.com/forum/#!forum/snapsvg
   tags: [Animation]
+- name: Snowpack
+  home: https://www.snowpack.dev/
+  github: https://github.com/pikapkg/snowpack
+  tags: [Javascript, Build]
 - name: SonarQube
   home: https://www.sonarqube.org/
   github: https://github.com/SonarSource/sonarqube
@@ -1967,6 +1991,12 @@
   twitter: https://twitter.com/totalframework
   facebook: https://www.facebook.com/totaljs.web.framework/
   tags: [Javascript, Back-end Framework]
+- name: Ts.ED
+  home: https://tsed.io/
+  github: https://github.com/TypedProject/tsed
+  stackoverflow: https://stackoverflow.com/questions/tagged/tsed
+  gitter: https://gitter.im/Tsed-io/community
+  tags: [TypeScript, Back-end Framework, Express]
 - name: Turf
   home: http://turfjs.org/
   github: https://github.com/Turfjs/turf
