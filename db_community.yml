@@ -93,7 +93,7 @@
   twitter: https://twitter.com/kotlinkr
   meetup: https://www.meetup.com/ko-KR/kotlinkr/
   slack: https://kotlinkr.slack.com/
-  github: https://github.com/kotlinkr/kotlinkr.github.io
+  github: https://github.com/kotlinkr
 - name: Golang Korea
   home: https://golangkorea.github.io/
   facebook: https://www.facebook.com/groups/golangko/
@@ -132,7 +132,7 @@
 - name: HeXA
   facebook: https://www.facebook.com/unist.hexa/
   home: http://hexa.pro/
-  blog: http://hexa-unist.github.io/
+  blog: https://hexa-unist.github.io/
 - name: jinyPHP
   facebook: https://www.facebook.com/groups/422759191427518/
 - name: Slipp 스터디
@@ -440,8 +440,8 @@
   blog: http://blog.embian.com/
   rss: http://blog.embian.com/rss
 - name: 우아한형제들
-  blog: http://woowabros.github.io
-  rss: http://woowabros.github.io/feed.xml
+  blog: https://woowabros.github.io
+  rss: https://woowabros.github.io/feed.xml
   facebook: https://www.facebook.com/woowahanTech/
 - name: 이상한모임
   blog: http://blog.weirdx.io
