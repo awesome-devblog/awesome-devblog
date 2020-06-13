@@ -1652,6 +1652,7 @@
   blog: https://dong-life.tistory.com/
   rss: https://dong-life.tistory.com/rss
   facebook: https://www.facebook.com/jungdong.kim.167
+  linkedin: https://www.linkedin.com/in/jung-dong-kim/
 - name: 김정선
   blog: http://visualdb.net/
   rss: http://visualdb.net/feed/
@@ -6903,6 +6904,10 @@
   description: Front-end
   twitter: https://twitter.com/imsukmin
   slides: https://slides.com/imsukmin
+- name: 임성빈
+  blog: https://dveamer.github.io/
+  rss: https://dveamer.github.io/feed.xml
+  facebook: https://www.facebook.com/MrOIEI
 - name: 임성진
   blog: https://blog.bbom.org/
   rss: https://blog.bbom.org/rss
@@ -9246,6 +9251,7 @@
   blog: https://blog.naver.com/atelierjpro
   rss: https://rss.blog.naver.com/atelierjpro.xml
   description: AI
+  facebook: https://www.facebook.com/profile.php?id=100006564348693
   youtube: https://www.youtube.com/channel/UCg6IlhycdYiK_nWB3spjIqA
 - name: 홍진우
   blog: https://blog.naver.com/jinwooo_hong
