@@ -5003,6 +5003,11 @@
   rss: https://12bme.tistory.com/rss
   description: Java
   github: https://github.com/12bme
+- name: 오지환
+  blog: https://134130.tistory.com/
+  rss: https://134130.tistory.com/rss
+  description: Hacking
+  facebook: https://www.facebook.com/sapindus.hwan
 - name: 오진선
   blog: https://ohjinjin.github.io/
   rss: https://ohjinjin.github.io/feed.xml
