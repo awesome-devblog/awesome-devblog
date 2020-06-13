@@ -497,7 +497,11 @@
   rss: http://feeds.feedburner.com/GoogleDevelopersKorea
 - name: 라인
   blog: https://engineering.linecorp.com/ko/blog
-  rss: https://engineering.linecorp.com/ko/blog/rss2
+  rss: https://engineering.linecorp.com/ko/feed/
+  youtube: https://www.youtube.com/channel/UC4CjFOoZlYSaqMHEDFCKcXQ
+  facebook: https://www.facebook.com/line.developers
+  twitter: https://twitter.com/line_developers
+  home: https://engineering.linecorp.com/ko/
 - name: Make Korea
   blog: https://make.co.kr/
   rss: https://make.co.kr/feed/
@@ -1693,3 +1697,5 @@
 - name: 에듀코딩
   blog: https://blog.naver.com/educoding
   rss: https://rss.blog.naver.com/educoding.xml
+- name: 한국 리눅스 사용자 그룹
+  facebook: https://www.facebook.com/groups/korelnxuser/
