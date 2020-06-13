@@ -893,7 +893,6 @@
   github: https://github.com/croquiscom
 - name: velog
   blog: https://velog.io/
-  rss: https://v2.velog.io/rss/
   description: Meta Blog
 - name: Remotty
   blog: http://blog.remotty.com/blog/
