@@ -186,14 +186,14 @@
   description: Swift
   github: https://github.com/skydice
 - name: 강형석
-  blog: https://hskang9.github.io/
-  rss: https://hskang9.github.io/feed.xml
+  blog: https://medium.com/@hyungsukkang
+  rss: https://medium.com/feed/@hyungsukkang
   description: 머신러닝
   facebook: https://www.facebook.com/hskang960
   linkedin: https://www.linkedin.com/in/hyungsuk-kang-5217a7103/
   github: https://github.com/hskang9
-  medium: https://medium.com/@hyungsukkang
   instagram: https://www.instagram.com/hyungsuk_k/
+  home: https://hskang9.github.io/
 - name: 강홍구
   blog: https://wckhg89.github.io
   rss: https://wckhg89.github.io/feed.xml
@@ -823,6 +823,7 @@
   description: AI, 스타트업
   facebook: https://www.facebook.com/profile.php?id=100008189377563
   linkedin: https://www.linkedin.com/in/dongeun-kim-114a44187
+  youtube: https://www.youtube.com/channel/UCB_qK0V8LR73NMYjtz29O9A
 - name: 김동인
   blog: https://velog.io/@owljoa
   rss: https://v2.velog.io/rss/owljoa
@@ -4198,6 +4199,7 @@
   rss: https://blog.wonjun.kr/rss
   description: ''
   github: https://github.com/songjun51
+  facebook: https://www.facebook.com/profile.php?id=100003692899081
   home: https://wonjun.kr/
 - name: 송윤섭
   blog: https://tech.songyunseop.com/
@@ -4955,6 +4957,13 @@
   facebook: https://www.facebook.com/yoonseok.oh.5
   linkedin: https://www.linkedin.com/in/yoonseok-oh-b4b4607b/
   home: https://yoonseokoh.com/
+- name: 오인규
+  blog: https://velog.io/@gomjellie
+  rss: https://v2.velog.io/rss/gomjellie
+  facebook: https://www.facebook.com/profile.php?id=100008488698005
+  linkedin: https://www.linkedin.com/in/gomjellie/
+  github: https://github.com/gomjellie
+  home: https://gomjellie.me/
 - name: 오일석
   blog: http://ilseokoh.com/
   rss: http://ilseokoh.com/rss/
@@ -7987,6 +7996,12 @@
 - name: 조성윤
   linkedin: https://www.linkedin.com/in/sung-yun-jo-22b5b5155/
   slideshare: https://www.slideshare.net/ssuserf65996
+- name: 조성재
+  blog: https://velog.io/@rubycho
+  rss: https://v2.velog.io/rss/rubycho
+  github: https://github.com/rubycho
+  linkedin: https://www.linkedin.com/in/성재-조-3ba1a0135/
+  home: https://rubycho.github.io/
 - name: 조승연
   blog: https://blog.kivol.net/
   rss: https://blog.kivol.net/rss
@@ -8000,12 +8015,6 @@
   description: Web
   facebook: https://www.facebook.com/wsj7923
   github: https://github.com/joswlv
-- name: 조성재
-  blog: https://velog.io/@rubycho
-  rss: https://v2.velog.io/rss/rubycho
-  github: https://github.com/rubycho
-  linkedin: https://www.linkedin.com/in/성재-조-3ba1a0135/
-  home: https://rubycho.github.io/
 - name: 조승진
   blog: https://tacogrammer.com/
   rss: https://tacogrammer.com/feed/
