@@ -343,7 +343,12 @@
   facebook: https://www.facebook.com/profile.php?id=100000697013969
   youtube: https://www.youtube.com/channel/UC_KRcBNnFQoN6EsvG87H6cg
 - name: 구영민
-  slideshare: https://www.slideshare.net/kym970918
+  blog: https://youngminz.netlify.app
+  description: 백엔드
+  rss: https://youngminz.netlify.app/rss.xml
+  linkedin: https://www.linkedin.com/in/youngminz
+  github: https://github.com/youngminz
+  stackoverflow: https://stackoverflow.com/users/3096304/youngminz
 - name: 구인본
   blog: https://inbon.net/
   rss: https://inbon.net/rss/
