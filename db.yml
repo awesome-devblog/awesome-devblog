@@ -8755,6 +8755,10 @@
   blog: http://calmglow.egloos.com/
   rss: http://rss.egloos.com/blog/calmglow
   description: Web
+- name: 최지헌
+  blog: https://velog.io/@unidev
+  rss: https://v2.velog.io/rss/unidev
+  description: Security, Startup
 - name: 최창규
   blog: https://brunch.co.kr/@cg4jins
   rss: https://brunch.co.kr/rss/@@399
