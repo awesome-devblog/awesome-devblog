@@ -6882,6 +6882,13 @@
   rss: https://medium.com/feed/@mldevhong
   description: 머신러닝
   facebook: https://www.facebook.com/mldevhong
+- name: 이화랑
+  blog: https://leehwarang.github.io/
+  rss: https://leehwarang.github.io/feed
+  github: https://github.com/leehwarang
+  linkedin: https://www.linkedin.com/in/hwarang-lee-27890a187/
+  youtube: https://www.youtube.com/channel/UCn_GPmB3ZqAC-dhbycfSbJQ
+  facebook: https://www.facebook.com/leewharang
 - name: 이흥섭
   description: 게임
   github: https://github.com/sublee
