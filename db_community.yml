@@ -454,9 +454,6 @@
   rss: http://blog.insightbook.co.kr/rss
   facebook: https://www.facebook.com/insightbook/
   twitter: https://twitter.com/insightbook
-- name: 인프런
-  blog: http://blog.inflearn.com
-  rss: http://blog.inflearn.com/feed/
 - name: 지금 써보러 갑니다
   blog: http://icunow.co.kr
   rss: http://icunow.co.kr/feed/
@@ -469,9 +466,6 @@
 - name: ㅍㅍㅅㅅ 테크
   blog: https://ppss.kr/archives/category/tech
   rss: https://ppss.kr/archives/category/tech/feed
-- name: 한국게임기획자모임
-  blog: http://gameplanner.cafe24.com
-  rss: http://gameplanner.cafe24.com/feed/
 - name: AWS Korea
   blog: https://aws.amazon.com/ko/blogs/korea/
   rss: https://aws.amazon.com/ko/blogs/korea/feed/
@@ -502,9 +496,6 @@
   facebook: https://www.facebook.com/line.developers
   twitter: https://twitter.com/line_developers
   home: https://engineering.linecorp.com/ko/
-- name: Make Korea
-  blog: https://make.co.kr/
-  rss: https://make.co.kr/feed/
 - name: Mozilla Hacks
   blog: http://hacks.mozilla.or.kr
   rss: http://hacks.mozilla.or.kr/feed/
@@ -714,8 +705,6 @@
   facebook: https://www.facebook.com/hivearena/
   twitter: https://twitter.com/hivearena
   instagram: https://www.instagram.com/hivearena/
-  blog: https://hivearena.com/blog/
-  rss: https://hivearena.com/blog/feed/
 - name: 나는프로그래머다
   facebook: https://www.facebook.com/iamprogrammer.io/
   description: 임작가, 데니스, 정개발
@@ -799,8 +788,6 @@
   facebook: https://www.facebook.com/groups/SWarchitecture/
 - name: CloudZ Labs
   home: http://cloudz-labs.sk.com/
-  blog: https://tech.cloudz-labs.io/
-  rss: http://tech.cloudz-labs.io/index.xml
 - name: 오픈소스컨설팅
   blog: https://tech.osci.kr/
   rss: https://tech.osci.kr/rss/
@@ -928,8 +915,6 @@
   rss: https://brunch.co.kr/rss/@@sIU
   facebook: https://www.facebook.com/kmongkorea/
   instagram: https://www.instagram.com/kmong_official/
-- name: IMQA
-  blog: https://imqa.tech/
 - name: 서플
   blog: https://medium.com/supple
   rss: https://medium.com/feed/supple
@@ -1259,8 +1244,6 @@
   blog: http://dev.goodoc.co.kr/
   rss: http://dev.goodoc.co.kr/?feed=rss2
 - name: 꿈많은 청년들
-  blog: https://blog.dreamyoungs.com/
-  rss: https://blog.dreamyoungs.com/feed/
   facebook: https://www.facebook.com/DreamYoungs/
 - name: 나가자
   blog: http://www.nagaja.net/
