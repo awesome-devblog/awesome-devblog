@@ -8147,6 +8147,10 @@
   rss: https://rss.blog.naver.com/chowin21.xml
   description: 마케팅
   facebook: https://www.facebook.com/chowin21
+- name: 조찬영
+  blog: http://chanyeong.com/blog
+  rss: http://chanyeong.com/rss.xml
+  description: Front-end
 - name: 조창민
   blog: https://incredible.ai/
   rss: https://incredible.ai/feed.xml
