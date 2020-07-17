@@ -109,6 +109,11 @@
 - name: 강신동
   description: Machine Learning
   slideshare: https://www.slideshare.net/uspace
+- name: 강영진
+  blog: https://medium.com/@youngjin.kang
+  rss: https://medium.com/feed/@youngjin.kang
+  github: https://github.com/youngjin-k
+  description: Front-end
 - name: 강영훈
   blog: https://brunch.co.kr/@yhkang0513
   rss: https://brunch.co.kr/rss/@@3waF
