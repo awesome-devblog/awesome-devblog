@@ -66,6 +66,12 @@
   github: https://github.com/minieetea
 - name: 강민우
   slideshare: https://www.slideshare.net/ssuser052dd11
+- name: 강민우
+  blog: https://medium.com/@minukang
+  rss: https://medium.com/feed/@minukang
+  description: Front-end
+  facebook: https://www.facebook.com/minwoo.kang.77
+  github: https://github.com/minuukang
 - name: 강병수
   blog: https://01010011.blog/
   rss: https://01010011.blog/feed/
@@ -3368,6 +3374,7 @@
   rss: https://junwoo45.github.io/feed.xml
   description: javascript
   github: https://github.com/JUNWOO45
+  linkedin: https://www.linkedin.com/in/junwoo-park-a16a52187/
 - name: 박준우
   blog: https://velog.io/@korca0220
   rss: https://v2.velog.io/rss/korca0220
@@ -4832,6 +4839,7 @@
   home: leoslife2.herokuapp.com
   linkedin: https://www.linkedin.com/in/승화-양-99630861
   slideshare: https://www.slideshare.net/leoyang991
+  facebook: https://www.facebook.com/leoyang99
 - name: 양욱진
   description: ''
   facebook: https://www.facebook.com/ukjinplant
