@@ -1699,3 +1699,7 @@
   blog: https://blog.naver.com/spartacoding
   rss: https://rss.blog.naver.com/spartacoding.xml
   youtube: https://www.youtube.com/channel/UC2Fh3XoQYNYTba-cigq5cAA
+- name: 핑퐁팀
+  blog: https://blog.pingpong.us/
+  rss: https://blog.pingpong.us/feed.xml
+  github: https://github.com/pingpong-ai
