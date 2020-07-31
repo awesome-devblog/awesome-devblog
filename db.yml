@@ -5319,6 +5319,10 @@
   blog: https://cocopambag.github.io
   description: AI
   github: https://github.com/cocopambag
+- name: 유형환
+  blog: https://cobbybb.tistory.com/
+  rss: https://cobbybb.tistory.com/rss
+  description: Java, Spring, JPA, Backend
 - name: 유호건
   blog: https://velog.io/@youhogeon
   rss: https://v2.velog.io/rss/youhogeon
