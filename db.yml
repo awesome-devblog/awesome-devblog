@@ -4682,13 +4682,14 @@
   rss: https://toyfab.tistory.com/rss
   description: 마이크로 프로세서
 - name: 안이수
-  blog: https://yisooan.wordpress.com/
-  rss: https://yisooan.wordpress.com/feed/
+  blog: https://memnoth.tistory.com/
+  rss: https://memnoth.tistory.com/rss
   description: webOS, GNOME
   github: https://github.com/memnoth
   gitlab: https://gitlab.gnome.org/memnoth
   twitter: https://twitter.com/iamt0mmy
   facebook: https://www.facebook.com/yisooan91
+  wordpress: https://yisooan.wordpress.com/
 - name: 안재열
   blog: https://doublem.org/
   rss: https://doublem.org/feed.xml
