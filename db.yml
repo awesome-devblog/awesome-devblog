@@ -30,6 +30,12 @@
   github: https://github.com/charsyam
   linkedin: https://www.linkedin.com/in/daemyung-kang-7538a731/
   slideshare: https://www.slideshare.net/charsyam2
+- name: 강동윤
+  blog: https://kdy1.github.io/
+  rss: https://kdy1.github.io/index.xml
+  description: swc
+  github: https://github.com/kdy1
+  facebook: https://www.facebook.com/profile.php?id=100024888122318
 - name: 강동혁
   blog: https://brunch.co.kr/@dongkang
   rss: https://brunch.co.kr/rss/@@1fY0
@@ -7652,10 +7658,11 @@
   github: https://github.com/seirian
   home: http://yeop.net/
 - name: 정수영
-  blog: https://codeameba.github.io/
+  blog: https://codeameba.netlify.app/
   description: Javascript
   github: https://github.com/codeAmeba
   twitter: https://twitter.com/CodeAmeba
+  facebook: https://www.facebook.com/aprilgreenery
 - name: 정순형
   blog: https://medium.com/@kevin.j
   rss: https://medium.com/feed/@kevin.j
