@@ -7692,6 +7692,11 @@
   description: Back-end
   tistory: https://yangwookee.tistory.com
   github: https://github.com/Yangeok
+- name: 정연문
+  blog: https://blog.naver.com/jdusans
+  rss: https://rss.blog.naver.com/jdusans.xml
+  description: iOS
+  facebook: https://www.facebook.com/yeonmun.jeong
 - name: 정연진
   blog: https://velog.io/@dus532
   rss: https://v2.velog.io/rss/dus532
