@@ -61,7 +61,6 @@
   youtube: https://www.youtube.com/channel/UCKXBpFPbho1tp-Ntlfc25kA
 - name: React Native Korea
   facebook: https://www.facebook.com/groups/reactapp/
-  meetup: https://www.meetup.com/ko-KR/React-Native-Korea/
   slack: https://reactnativekorea.slack.com
 - name: Kubernetes & Docker 스터디 그룹
   facebook: https://www.facebook.com/groups/k8skorea/
@@ -368,8 +367,6 @@
 - name: 한국R사용자커뮤니티(R Korea)
   facebook: https://www.facebook.com/groups/KoreaRUsers/
   meetup: https://www.meetup.com/ko-KR/R-Korea/
-- name: Seoul iOS Developer
-  meetup: https://www.meetup.com/ko-KR/Seoul-iOS-Developer/
 - name: IBM developerWorks
   meetup: https://www.meetup.com/ko-KR/IBM-developerWorks-Meetup/
 - name: Seoul Artificial Intelligence
