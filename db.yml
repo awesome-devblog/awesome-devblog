@@ -9364,6 +9364,11 @@
   blog: https://brunch.co.kr/@doberman
   rss: https://brunch.co.kr/rss/@@QPF
   description: 스타트업
+- name: 홍원준
+  blog: https://hongwonjun.github.io/
+  rss: https://hongwonjun.github.io/feed.xml
+  description: Data, AI, Healthcare
+  speakerdeck: https://speakerdeck.com/hongwonjun
 - name: 홍정모
   blog: https://blog.naver.com/atelierjpro
   rss: https://rss.blog.naver.com/atelierjpro.xml
