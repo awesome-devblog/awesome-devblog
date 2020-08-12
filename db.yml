@@ -6578,6 +6578,10 @@
   description: ''
   facebook: https://www.facebook.com/jongeun.lee.7
   twitter: https://twitter.com/yomybaby
+- name: 이종찬
+  blog: https://leejongchan.tistory.com/
+  rss: https://leejongchan.tistory.com/rss
+  description: 개발자 종찬
 - name: 이종학
   blog: https://devhaks.github.io/
   description: Web
