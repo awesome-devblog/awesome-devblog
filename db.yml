@@ -8664,9 +8664,9 @@
   github: https://github.com/seungdols
   twitter: https://twitter.com/seungdols
 - name: 최승호
-  blog: https://smothly.github.io/
-  rss: https://smothly.github.io/feed.xml
-  description: Big Data, Backend
+  blog: https://data-engineer.tistory.com/
+  rss: https://data-engineer.tistory.com/rss
+  description: DataEngineering, BigData, Cloud
   github: https://github.com/smothly
 - name: 최영록
   blog: https://yrok.tistory.com/
