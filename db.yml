@@ -1467,6 +1467,11 @@
   description: ''
   linkedin: https://www.linkedin.com/in/josephkim75/
   slideshare: https://www.slideshare.net/chingu94
+- name: 김요한
+  blog: https://yohanpro.com/
+  rss: https://yohanpro.com/rss.xml
+  description: Front-end
+  github: https://github.com/yohanpro
 - name: 김용균
   blog: https://edykim.com/ko/
   rss: https://edykim.com/ko/feed.xml
