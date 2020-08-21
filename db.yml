@@ -7692,6 +7692,7 @@
   home: http://yeop.net/
 - name: 정수범
   blog: https://velog.io/@soobeom-jeong
+  rss: https://v2.velog.io/rss/soobeom-jeong
   github: https://github.com/soobeom-jeong
   description: iOS, Swift
 - name: 정수영

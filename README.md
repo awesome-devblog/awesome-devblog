@@ -22,6 +22,7 @@
 - [개발블로그 알림서비스 TodayDevblog_bot 개발기](https://miryang.dev/2019/06/22/Devblog-TelegramBot/)
 - [나는 LINE 개발자입니다: 라인의 개발 고수 12인의 도전과 기회, 성장의 개발 라이프](https://books.google.co.kr/books?id=2pK0DwAAQBAJ&pg=PT141&dq=awesome+devblog&hl=ko&sa=X&ved=0ahUKEwjpodLWyePmAhU-yIsBHYzGC5wQ6AEILzAB#v=onepage&q=awesome%20devblog)
 - [Feedly로 기술 블로그의 최신글을 모아서 볼 수 없을까? – 잔디에 기술 블로그 Lake 만들기](http://blog.jandi.com/ko/2020/02/11/feedly-and-jandi-blog-lake/)
+- [awesome-devblog에 내 블로그 등록하기](https://velog.io/@soobeom-jeong/awesome-devblog에-내-블로그-등록하기)
 
 ## 형제자매 프로젝트
 - [AWESOME DEVBLOG(포탈)](https://awesome-devblog.netlify.app/)
