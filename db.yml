@@ -3095,6 +3095,10 @@
   blog: https://velog.io/@p_ssungnni
   rss: https://v2.velog.io/rss/p_ssungnni
   description: iOS
+- name: 박성은
+  blog: https://medium.com/@parkseongeun
+  rss: https://medium.com/feed/@parkseongeun
+  description: Front-end
 - name: 박성준
   blog: https://blog.dochis.net/
   rss: https://blog.dochis.net/feed.xml
