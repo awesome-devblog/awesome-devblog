@@ -253,7 +253,7 @@
   youtube: https://www.youtube.com/user/kckohkoh
 - name: 고득녕
   blog: https://blog.naver.com/nackji80/
-  rss:  https://blog.rss.naver.com/nackji80.xml
+  rss: https://blog.rss.naver.com/nackji80.xml
   description: 네트워크
 - name: 고명석
   blog: https://ifyoudontknow-youcandothis.tistory.com/
@@ -630,7 +630,7 @@
   rss: https://rabbitthief37.github.io/feed
   description: 잡다한 지식
   facebook: https://www.facebook.com/RabbitThief
-  github: https://github.com/RabbitThief37  
+  github: https://github.com/RabbitThief37
 - name: 김기현
   github: https://github.com/kh-kim
   linkedin: https://www.linkedin.com/in/ki-hyun-kim/
@@ -1729,6 +1729,11 @@
 - name: 김정주
   linkedin: https://www.linkedin.com/in/jeongjukim/
   slideshare: https://www.slideshare.net/ssuser163469
+- name: 김정준
+  blog: https://velog.io/@two_jay
+  instagram: https://www.instagram.com/arabi1549/
+  github: https://github.com/Two-Jay
+  description: Web(Back-end)
 - name: 김정출
   blog: https://jeongchul.tistory.com/
   rss: https://jeongchul.tistory.com/rss
@@ -1827,7 +1832,7 @@
 - name: 김종헌
   blog: https://shovelman.tistory.com/
   rss: https://shovelman.tistory.com/rss
-  description: ".NET"
+  description: '.NET'
 - name: 김종현
   blog: https://root-kjh.github.io/
   github: https://github.com/Root-kjh
@@ -2727,7 +2732,7 @@
   blog: https://brunch.co.kr/@aidenswmo
   rss: https://brunch.co.kr/rss/@@FOY
   description: ''
-- name: 모영진  
+- name: 모영진
   blog: https://devyoungjin.github.io/
   rss: https://devyoungjin.github.io/atom.xml
   github: https://github.com/devyoungjin
@@ -5206,7 +5211,7 @@
 - name: 유경상
   blog: http://www.simpleisbest.net/
   rss: http://www.simpleisbest.net/syndication.axd
-  description: ".NET"
+  description: '.NET'
 - name: 유다현
   blog: https://yuda.dev/
   rss: https://yuda.dev/rss
@@ -6578,7 +6583,7 @@
   youtube: https://www.youtube.com/channel/UCRWq4MPqifkmT2GyL2d2ZAQ
   aladin: https://www.aladin.co.kr/m/mauthorinfo.aspx?authorsearch=@6535991
 - name: 이제현
-  blog: https://jehyunlee.github.io/  
+  blog: https://jehyunlee.github.io/
   rss: https://jehyunlee.github.io/feed.xml
   description: Python
   github: https://github.com/jehyunlee
@@ -7894,7 +7899,7 @@
   blog: https://jeong-develop-repository.netlify.app
   rss: https://jeong-develop-repository.netlify.app/rss.xml
   description: WEB 개발
-  github: https://github.com/bcc829  
+  github: https://github.com/bcc829
 - name: 정준호
   youtube: https://www.youtube.com/channel/UCNbp-JsE2BUZMwPaC6J8ApQ
 - name: 정지수
@@ -9594,7 +9599,7 @@
   linkedin: https://www.linkedin.com/in/hohyeonmoon
   youtube: https://www.youtube.com/hohyeonmoon
   facebook: https://www.facebook.com/hohyeonmoon
-  instagram: https://www.instagram.com/hohyeonmoon  
+  instagram: https://www.instagram.com/hohyeonmoon
 - name: Jason Ryu
   blog: https://medium.com/@sryu99
   rss: https://medium.com/feed/@sryu99
