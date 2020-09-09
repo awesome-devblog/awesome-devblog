@@ -3904,6 +3904,12 @@
   description: Back-end
   github: https://github.com/conatuseus
   facebook: https://www.facebook.com/MyungkiSa
+- name: 사승민
+  blog: https://haranglog.tistory.com/
+  rss: https://haranglog.tistory.com/rss
+  description: Front-end
+  github: https://github.com/saseungmin
+  facebook: https://www.facebook.com/profile.php?id=100003758628929
 - name: 서강혁
   blog: https://medium.com/@darkrasid
   rss: https://medium.com/feed/@darkrasid
