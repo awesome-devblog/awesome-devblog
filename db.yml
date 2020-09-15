@@ -6102,6 +6102,12 @@
   blog: http://blog.sungwonandseohyun.us/
   rss: http://blog.sungwonandseohyun.us/rss/
   description: ''
+- name: 이성일
+  blog: https://velog.io/@modolee
+  rss: https://v2.velog.io/rss/modolee
+  github: https://github.com/modolee
+  linkedin: https://www.linkedin.com/in/modolee/
+  description: JavaScript, Web Backend, DevOps
 - name: 이성준
   blog: https://blog.naver.com/occidere
   rss: https://rss.blog.naver.com/occidere.xml
