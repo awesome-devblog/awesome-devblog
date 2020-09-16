@@ -5624,6 +5624,11 @@
   youtube: https://www.youtube.com/channel/UCO7g158NWgLyn98z8v3zduA
   instagram: https://www.instagram.com/algorithmtogether/
   twitch: https://www.twitch.tv/algotogether
+- name: 이경언
+  blog: https://redthing.tistory.com/
+  rss: https://redthing.tistory.com/rss
+  github: https://github.com/leekyungun
+  description: 백엔드 관련 블로그입니다.
 - name: 이경원
   blog: https://blog.woniper.net/
   rss: https://blog.woniper.net/rss
