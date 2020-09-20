@@ -1701,3 +1701,7 @@
 - name: 뱅크샐러드
   blog: https://blog.banksalad.com/
   rss: https://blog.banksalad.com/rss.xml
+- name: 딥백수
+  blog: https://dl4ab.github.io/
+  rss: https://dl4ab.github.io/atom.xml
+  github: https://github.com/dl4ab
