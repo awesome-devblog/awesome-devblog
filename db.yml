@@ -4218,6 +4218,11 @@
   rss: https://thswave.github.io/feed.xml
   description: Java
   github: https://github.com/thswave
+- name: 송근일
+  blog: https://data-engineer-song.tistory.com/
+  rss: https://data-engineer-song.tistory.com/rss
+  description: Data Engineering
+  facebook: https://www.facebook.com/profile.php?id=100010490384594
 - name: 송기원
   blog: https://blog.naver.com/agilesoft
   rss: https://rss.blog.naver.com/agilesoft.xml
