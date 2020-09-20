@@ -93,6 +93,7 @@
   twitter: https://twitter.com/Brandon_Kang
   linkedin: https://www.linkedin.com/in/brandonkang/
   slideshare: https://www.slideshare.net/BrandonK
+  facebook: https://www.facebook.com/brandon.kang.9674
 - name: 강성일
   blog: https://b.luavis.kr/
   rss: https://b.luavis.kr/feed.xml
@@ -2288,6 +2289,15 @@
   linkedin: https://www.linkedin.com/in/carpedm20/
   facebook: https://www.facebook.com/carpedm20
   twitter: https://twitter.com/carpedm20
+- name: 김태희
+  blog: https://blog.roto.codes/
+  rss: https://blog.roto.codes/rss/
+  github: https://github.com/rotoshine
+  facebook: https://www.facebook.com/rotoshine
+  twitter: https://twitter.com/winterwolf0412
+  linkedin: https://www.linkedin.com/in/rotoshine/
+  slides: http://slides.com/rotoshine
+  home: https://roto.dev/
 - name: 김포프
   blog: https://kblog.popekim.com/
   rss: https://feeds.feedburner.com/kblog-blindrenderer?format=xml
