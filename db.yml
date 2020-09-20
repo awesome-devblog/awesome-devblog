@@ -4231,6 +4231,14 @@
   blog: https://medium.com/@downy
   rss: https://medium.com/feed/@downy
   description: Python, Django
+- name: 송동훈
+  blog: https://donghoon759.github.io/
+  rss: https://donghoon759.github.io/rss.xml
+  description: Front-end
+  linkedin: https://www.linkedin.com/in/donghoonsong/
+  github: https://github.com/Donghoon759
+  instagram: https://www.instagram.com/hoon_donghoon/
+  facebook: https://www.facebook.com/thdehdgns759
 - name: 송무찬
   blog: http://sjava.net/
   rss: http://sjava.net/feed/
