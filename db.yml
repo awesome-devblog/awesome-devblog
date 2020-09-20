@@ -7001,10 +7001,13 @@
   rss: https://brunch.co.kr/rss/@@Gp7
   description: 8퍼센트 CTO. 개발 문화
 - name: 이호연
-  blog: https://tansfil.tistory.com
-  rss: https://tansfil.tistory.com/rss
+  nickname: 그랩
+  blog: https://brunch.co.kr/@tansfil
+  rss: https://brunch.co.kr/rss/@@3ds8
   description: Javascript
   facebook: https://www.facebook.com/hoyun.lee.10
+  youtube: https://www.youtube.com/channel/UCv6qWqCUlp-_3NfWDqSEnNg
+  tistory: https://tansfil.tistory.com
 - name: 이호준
   youtube: https://www.youtube.com/channel/UC4GnvNKtuJ4cqWsYjxNxAEQ
   facebook: https://www.facebook.com/hojun.lee.521
