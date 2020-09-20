@@ -988,6 +988,13 @@
   rss: https://minjang.github.io/feed.xml
   description: 컴퓨터 아키텍처
   linkedin: https://www.linkedin.com/in/minjang/
+- name: 김민정
+  blog: https://jyami.tistory.com/
+  rss: https://jyami.tistory.com/rss
+  description: Spring, BackEnd
+  github: https://github.com/mjung1798
+  youtube: https://www.youtube.com/channel/UC2RNnR5UkMXWUzdk5Cd3vjw
+  facebook: https://www.facebook.com/jyami.kim
 - name: 김민준
   blog: https://velopert.com/
   rss: https://velopert.com/feed
