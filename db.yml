@@ -3353,6 +3353,13 @@
   github: https://github.com/pjt3591oo
   facebook: https://www.facebook.com/profile.php?id=100003874674961
   stackoverflow: https://stackoverflow.com/story/mung
+- name: 박정현
+  blog: https://simplear.tistory.com
+  rss: https://simplear.tistory.com/rss
+  github: https://github.com/simp7
+  facebook: https://www.facebook.com/profile.php?id=100005081051207
+  twitter: https://twitter.com/GopherPark
+  description: golang
 - name: 박조은
   blog: https://corazzon.github.io/
   rss: https://feeds.feedburner.com/github/GgbQ?format=xml
