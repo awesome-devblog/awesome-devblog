@@ -7674,6 +7674,11 @@
   rss: https://jusths.tistory.com/rss
   description: Python
   facebook: https://www.facebook.com/kiwook.jeong
+- name: 정다훈
+  blog: https://freepanda.tistory.com/
+  rss: https://freepanda.tistory.com/rss
+  description: Spring, Java, BackEnd
+  github: https://github.com/PandaHun
 - name: 정덕수
   blog: http://blog.iamartin.com/
   rss: http://iamartin-gh.herokuapp.com/rss/
