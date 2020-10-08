@@ -823,6 +823,15 @@
   blog: https://brocess.tistory.com/
   rss: https://brocess.tistory.com/rss
   description: 행복한디벨로퍼
+- name: 김동석
+  blog: https://bluedskim.github.io
+  rss: https://bluedskim.github.io/index.xml
+  description: fullstack developer, Java, ReactJS, Linux, Chromebook
+  github: https://github.com/bluedskim
+  twitter: https://twitter.com/Humanize12
+  instagram: https://www.instagram.com/bluedskim/
+  soundcloud: https://soundcloud.com/bluedskim
+  youtube: https://www.youtube.com/user/bluedskim/videos  
 - name: 김동신
   blog: https://dosh.kim/
   rss: https://dosh.kim/rss
@@ -9715,4 +9724,4 @@
   blog: https://stricky.tistory.com/
   rss: https://stricky.tistory.com/rss
   description: DB
-  facebook: https://www.facebook.com/ricky.han.52438
+  facebook: https://www.facebook.com/ricky.han.52438 
