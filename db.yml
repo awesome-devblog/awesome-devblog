@@ -8573,6 +8573,12 @@
   rss: https://medium.com/feed/@minslovey
   description: 스타트업
   twitter: https://twitter.com/minslovey
+- name: 차성원
+  blog: https://bluewings.github.io/
+  rss: https://bluewings.github.io/rss.xml
+  description: Web, 아빠는 개발자
+  github: https://github.com/bluewings
+  npm: https://www.npmjs.com/~bluewings
 - name: 차완진
   blog: https://natsgun.tistory.com
   rss: https://natsgun.tistory.com/rss
