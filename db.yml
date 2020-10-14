@@ -5206,6 +5206,12 @@
   rss: https://zinee-world.tistory.com/rss
   description: Front-end/Markup
   github: https://github.com/zineeworld
+- name: 옥수환
+  blog: https://www.charlezz.com/
+  rss: https://www.charlezz.com/?feed=rss2
+  description: Android
+  github: https://github.com/Charlezz
+  youtube: https://www.youtube.com/channel/UCxIEmnN8jVhvnKzwKrjpJcQ
 - name: 옥찬호
   slideshare: https://www.slideshare.net/utilforever
 - name: 왕응석
