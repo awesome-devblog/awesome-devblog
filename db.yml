@@ -8575,6 +8575,7 @@
   twitter: https://twitter.com/minslovey
 - name: 차성원
   blog: https://bluewings.github.io/
+  rss: https://bluewings.github.io/rss.xml
   description: Web, 아빠는 개발자
   github: https://github.com/bluewings
   npm: https://www.npmjs.com/~bluewings
