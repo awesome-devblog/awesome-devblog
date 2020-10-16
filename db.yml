@@ -182,6 +182,10 @@
   blog: https://brunch.co.kr/@alden
   rss: https://brunch.co.kr/rss/@@3Y0
   description: Linux
+- name: 강지회
+  blog: https://medium.com/@jihoi.kang
+  github: https://github.com/jihoi-kang
+  description: Anddroid
 - name: 강태욱
   blog: https://daddynkidsmakers.blogspot.kr/
   rss: https://daddynkidsmakers.blogspot.com/feeds/posts/default
