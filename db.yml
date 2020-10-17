@@ -184,6 +184,7 @@
   description: Linux
 - name: 강지회
   blog: https://medium.com/@jihoi.kang
+  rss: https://medium.com/feed/@jihoi.kang
   github: https://github.com/jihoi-kang
   description: Android
 - name: 강태욱
