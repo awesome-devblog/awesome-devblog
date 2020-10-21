@@ -842,6 +842,12 @@
   rss: https://dosh.kim/rss
   description: 실리콘밸리
   linkedin: https://www.linkedin.com/in/doshkim/
+- name: 김동영
+  blog: https://pers0n4.io
+  rss: https://pers0n4.io/rss.xml
+  github: https://github.com/pers0n4
+  linkedin: https://www.linkedin.com/in/dong-young-kim/
+  description: Web
 - name: 김동열
   blog: https://greatkim91.tistory.com/
   rss: https://greatkim91.tistory.com/rss
