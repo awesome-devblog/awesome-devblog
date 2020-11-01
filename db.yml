@@ -3141,12 +3141,15 @@
   description: Java
   github: https://github.com/CODEMCD
 - name: 박성우
-  blog: https://cos18.github.io/
-  rss: https://cos18.github.io/feed
+  blog: https://velog.io/@cos
+  rss: https://v2.velog.io/rss/cos
+  description: Web, Frontend
+  github: https://github.com/cos18
   facebook: https://www.facebook.com/profile.php?id=100008491600375
-  instagram: https://www.instagram.com/cos_cs18/
   linkedin: https://www.linkedin.com/in/cos18/
   slideshare: https://www.slideshare.net/SungWooPark41
+  youtube: https://www.youtube.com/channel/UC74IIMkCN_-rxuLAwvMOw7w
+  home: https://sungwoo.dev
 - name: 박성은
   blog: https://velog.io/@p_ssungnni
   rss: https://v2.velog.io/rss/p_ssungnni
