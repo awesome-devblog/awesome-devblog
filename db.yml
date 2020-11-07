@@ -7182,6 +7182,10 @@
   blog: https://velog.io/@ssuda
   rss: https://v2.velog.io/rss/ssuda
   description: OS
+- name: 임용태
+  blog: https://jessyt.tistory.com/
+  rss: https://jessyt.tistory.com/rss
+  description: Spring
 - name: 임재연
   blog: https://imreplay.com/
   rss: https://imreplay.com/feed.xml
