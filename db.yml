@@ -1358,6 +1358,11 @@
   blog: https://blog.seulgi.kim/
   rss: https://blog.seulgi.kim/feeds/posts/default
   description: ''
+- name: 김슬기
+  blog: https://4z7l.github.io
+  rss: https://4z7l.github.io/feed.xml
+  description: Android, Algorithms
+  github: https://github.com/4z7l
 - name: 김시은
   blog: https://brunch.co.kr/@springboot
   rss: https://brunch.co.kr/rss/@@2MrI
