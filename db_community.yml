@@ -765,7 +765,7 @@
 - name: 게임 서버 개발자 모임
   naver: http://cafe.naver.com/ongameserver
   youtube: https://www.youtube.com/channel/UCYnvySStWs6IDeYr8IeyayA
-- name: 'C# 스터디 그룹'
+- name: "C# 스터디 그룹"
   facebook: https://www.facebook.com/groups/200708093411111/
 - name: 초중급 게임 개발자 스터디 「데브루키」
   facebook: https://www.facebook.com/groups/devrookie/
@@ -860,7 +860,7 @@
   home: https://www.androidpub.com/
 - name: 데브피아
   home: http://www.devpia.com/
-- name: 'C<>DE&T4LK5'
+- name: "C<>DE&T4LK5"
   home: https://www.codentalks.com/
   github: https://github.com/codentalks
 - name: 2cpu
@@ -994,8 +994,11 @@
   twitter: https://twitter.com/4grit_beusable
   home: https://www.beusable.net/
 - name: 코드스테이츠
-  blog: https://blog.naver.com/PostList.nhn?blogId=codestates
-  rss: https://rss.blog.naver.com/codestates.xml
+  home: https://codestates.com/
+  facebook: https://www.facebook.com/codestates
+  instagram: https://www.instagram.com/codestates/?hl=ko
+  blog: https://medium.com/code-states
+  rss: https://medium.com/feed/code-states
 - name: 레진
   blog: https://tech.lezhin.com/
   rss: https://tech.lezhin.com/rss/
@@ -1309,7 +1312,7 @@
   blog: https://hyperconnect.github.io/
   rss: https://hyperconnect.github.io/feed.xml
   github: https://github.com/hyperconnect
-- name: '비개모: 비전공자 개발자 모임'
+- name: "비개모: 비전공자 개발자 모임"
   facebook: https://www.facebook.com/groups/NonmajorDeveloperGroup/
 - name: 어반베이스
   blog: https://urbanbase.github.io/
@@ -1401,7 +1404,7 @@
   facebook: https://www.facebook.com/devcareer/
 - name: 프론트엔드 개발 공부 - 프개공
   facebook: https://www.facebook.com/frontendstudy/
-- name: 'F E L O G: 프론트엔드 개발에 대하여'
+- name: "F E L O G: 프론트엔드 개발에 대하여"
   facebook: https://www.facebook.com/Jbee.dev/
 - name: 모바일 앱 개발 공부
   facebook: https://www.facebook.com/AppDevStudy/
