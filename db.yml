@@ -2783,11 +2783,12 @@
   rss: https://brunch.co.kr/rss/@@FOY
   description: ''
 - name: 모영진
-  blog: https://devyoungjin.github.io/
-  rss: https://devyoungjin.github.io/atom.xml
-  github: https://github.com/devyoungjin
+  blog: https://youngjinmo.github.io/
+  rss: https://youngjinmo.github.io/atom.xml
+  github: https://github.com/youngjinmo
+  twitter: https://twitter.com/devandy_yj
   linkedin: https://www.linkedin.com/in/youngjinmo/
-  description: 기억하기 위해 기록하는 저장소
+  description: 개발자앤디의 개발블로그
 - name: 문금환
   blog: https://jason-moon.tistory.com/
   rss: https://jason-moon.tistory.com/rss
