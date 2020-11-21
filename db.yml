@@ -1963,6 +1963,12 @@
   facebook: https://www.facebook.com/profile.php?id=100002784525012
   github: https://github.com/wnsgml972
   linkedin: https://www.linkedin.com/in/junhee-kim-252376167
+- name: 김준태
+  blog: https://devlog.juntae.kim
+  rss: https://devlog.juntae.kim/rss
+  facebook: https://www.facebook.com/juntae.kim.336/
+  github: https://github.com/rlawnsxo131
+  description: javascript, typescript, graphql, react, web, serverside, clientside
 - name: 김중근
   blog: http://confluence.swtools.review/display/SWEN
   rss: http://confluence.swtools.review/createrssfeed.action?types=page&pageSubTypes=comment&pageSubTypes=attachment&spaces=SWEN&title=SWTOOLS+RSS+Feed&labelString%3D&excludedSpaceKeys%3D&sort=modified&maxResults=50&timeSpan=365&showContent=true&confirm=Create+RSS+Feed
