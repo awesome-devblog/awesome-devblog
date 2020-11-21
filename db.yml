@@ -7475,6 +7475,14 @@
   description: Python
   facebook: https://www.facebook.com/simonjisu
   github: https://github.com/simonjisu
+- name: 장지훈
+  description: 백엔드 개발자 Kiwi의 개발노트
+  blog: https://medium.com/@whitekiwi
+  rss: https://medium.com/feed/@whitekiwi
+  facebook: https://www.facebook.com/Whitekiwi0313
+  instargram: https://www.instagram.com/whitekiwi_
+  github: https://github.com/WhiteKiwi
+  home: https://whitekiwi.github.io
 - name: 장창섭
   blog: https://velog.io/@changsubchang
   rss: https://v2.velog.io/rss/changsubchang
