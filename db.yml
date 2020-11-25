@@ -4851,6 +4851,11 @@
   rss: https://brunch.co.kr/rss/@@22CG
   description: 해외취업
   naver: https://blog.naver.com/saltynut
+- name: 안재욱
+  blog: https://jaewook.me/
+  rss: https://jaewook.me/rss.xml
+  description: Front-end
+  github: https://github.com/Jaewoook
 - name: 안재하
   blog: https://programmingsummaries.tistory.com/
   rss: https://programmingsummaries.tistory.com/rss
