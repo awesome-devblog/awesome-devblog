@@ -5431,6 +5431,10 @@
   rss: https://blog.eedler.com/rss
   description: Swift
   aladin: https://www.aladin.co.kr/m/mauthorinfo.aspx?authorsearch=@5864807
+- name: 유윤식
+  blog: https://brunch.co.kr/@yysttong
+  rss: https://brunch.co.kr/rss/@@1aft
+  description: Python
 - name: 유인동
   blog: https://medium.com/@indongyoo
   rss: https://medium.com/feed/@indongyoo
