@@ -1694,6 +1694,13 @@
   linkedin: https://www.linkedin.com/in/tcaesvk/
   twitter: https://twitter.com/tcaesvk
   slideshare: https://www.slideshare.net/tcaesvk
+- name: 김재영
+  blog: https://medium.com/@jaeyeong951
+  rss: https://medium.com/feed/@jaeyeong951
+  description: Android
+  linkedin: https://www.linkedin.com/in/jaeyeongkim/
+  github: https://github.com/jaeyeong951
+  home: https://github.com/jaeyeong951
 - name: 김재원
   blog: http://epiloum.net/
   rss: http://epiloum.net/feed
@@ -9825,4 +9832,4 @@
   blog: https://stricky.tistory.com/
   rss: https://stricky.tistory.com/rss
   description: DB
-  facebook: https://www.facebook.com/ricky.han.52438 
+  facebook: https://www.facebook.com/ricky.han.52438
