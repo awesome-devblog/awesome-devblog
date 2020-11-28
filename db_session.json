@@ -8793,6 +8793,390 @@
   "conference": "if(kakao) dev",
   "year": 2020
 },{
+  "title": "디지털 자산으로 만드는 넥스트 인터넷 세상",
+  "author": "한재선, 배상언, 서상민, 김희배, 김형준",
+  "description": "개인의 자산은 어디서부터 어디까지일까요? 개인 정보나 데이터에 대한 소유권을 어떻게 디지털 환경에서 증명하고 보장할 수 있을까요?\n그라운드X가 블록체인 기술로 정의하는 디지털 자산과 이를 바탕으로 만드는\n인터넷의 새로운 지형을 소개합니다.",
+  "category": "서비스",
+  "video": "https://tv.kakao.com/v/413968099",
+  "conference": "if(kakao) dev",
+  "year": 2020
+},{
+  "title": "카카오모빌리티가 그리는 스마트시티",
+  "author": "류긍선",
+  "description": "Q. 굳이 이동하지 않고도 즐겁게 살 수 있을까요?\nA. 네, 카카오모빌리티가 그리는 스마트시티에서는 가능합니다.\n\n불필요한 이동을 최소화하고, 이동경험을 혁신하는 카카오모빌리티가 만들어 나갈 미래도시의 모습을 만나보세요.",
+  "category": "서비스",
+  "video": "https://tv.kakao.com/v/413988650",
+  "conference": "if(kakao) dev",
+  "year": 2020
+},{
+  "title": "금융, Beyond",
+  "author": "윤호영",
+  "description": "카카오뱅크는 금융을 어떻게 바꾸었을까요? 그리고, 디지털 콘택트의 시대에 카카오뱅크가 그리는 미래의 금융은 어떤 모습일까요?\n그동안 아무도 가보지 않았던 금융의 길을 걸어온 카카오뱅크의 어제, 오늘 그리고 내일의 이야기를 전합니다.",
+  "category": "서비스",
+  "video": "https://tv.kakao.com/v/413991141",
+  "conference": "if(kakao) dev",
+  "year": 2020
+},{
+  "title": "AI로 만드는 더 나은 세상",
+  "author": "백상엽, 이석영, 고우찬",
+  "description": "카카오가 엔터프라이즈를 만났습니다.\n일과 일상에 AI 기술을 더해 더 스마트한 비즈니스, 더 특별한 일상을 만들기 위해서죠. 어떻게 하면 AI를 통해 세상을 편리하게 변화시킬 수 있을까요?\n카카오엔터프라이즈가 AI 기술로 만들어 가는 더 나은 세상, 지금 바로 확인해보세요.",
+  "category": "서비스",
+  "video": "https://tv.kakao.com/v/413989350",
+  "conference": "if(kakao) dev",
+  "year": 2020
+},{
+  "title": "픽코마가 꿈꾸는 콘텐츠 비지니스 생태계 2.0",
+  "author": "김재용",
+  "description": "만화 강국 일본에서 만화 같은 성장을 이뤄낸 픽코마의 시작과 현재, 성장 비결, 앞으로의 비전을 소개합니다.\n그리고 일본 만화 시장의 현황과 함께 픽코마가 꿈꾸는 크리에이터, 독자, 플랫폼이 함께 만들어가는 콘텐츠 생태계에 대해 들려 드리고자 합니다.",
+  "category": "서비스",
+  "video": "https://tv.kakao.com/v/413991625",
+  "conference": "if(kakao) dev",
+  "year": 2020
+},{
+  "title": "마음 놓고 금융하다 : 01100193500",
+  "author": "류영준",
+  "description": "코로나19 이후 새로운 금융 패러다임을 맞이한 지금, 카카오페이가 그리는 앞으로의 금융 생활은 어떠한 모습일까요?\n기존 금융의 불편함을 없애고 모두가 마음 놓고 금융하기 위해 카카오페이가 만들어가고 있는 새로운 금융을 소개합니다.",
+  "category": "서비스",
+  "video": "https://tv.kakao.com/v/414110017",
+  "conference": "if(kakao) dev",
+  "year": 2020
+},{
+  "title": "Blockchain Application 개발을 시작하는 사람들을 위하여(feat. Klaytn API Service)",
+  "author": "권동환",
+  "description": "Toy Application을 통해 블록체인 애플리케이션 구조의 특징을 설명합니다.\n그리고, Klaytn 블록체인 어플리케이션 개발 과정을 편리하게 해주는 KAS(Klaytn API Service)의 주요 기능을 소개합니다.",
+  "category": "기술",
+  "video": "https://tv.kakao.com/v/413991874",
+  "conference": "if(kakao) dev",
+  "year": 2020
+},{
+  "title": "카카오지도 기반의 맵 플랫폼",
+  "author": "김우용",
+  "description": "맵 플랫폼에 대해서 소개 드리고, 카카오지도 데이터를 이용해서, 플랫폼을 개발하는 과정과 플랫폼을 활용해서 위치 기반 서비스를 만드는 방법에 대해서 공유합니다.",
+  "category": "기술",
+  "video": "https://tv.kakao.com/v/414129447",
+  "conference": "if(kakao) dev",
+  "year": 2020
+},{
+  "title": "DFLO 구축 사례 : 사람처럼 알아듣고 말하다",
+  "author": "김보미",
+  "description": "사람처럼 자연스러운 대화를 통해, 목적을 달성하도록 하는 AI 솔루션, DFLO 구축 사례를 설명합니다.\nDFLO는 고도화된 STT, TTS, 대화 엔진을 기반으로 사람을 대신하여 전화 예약을 받거나 주문을 받는 것을 가능하게 하는 솔루션입니다. 간단한 시연 영상과 함께 기존 대화 엔진과의 차별화된 기술은 무엇인지, 개발 시 어려웠던 점이나 고려할 점은 어떤 것이 있는지, 앞으로의 계획은 무엇인지를 소개합니다.",
+  "category": "기술",
+  "video": "https://tv.kakao.com/v/414109913",
+  "conference": "if(kakao) dev",
+  "year": 2020
+},{
+  "title": "어서오세요 RIBs입니다. 카카오페이 비즈니스앱 개발기",
+  "author": "이다흰",
+  "description": "카카오페이 비즈니스 앱에 RIBs architecture를 적용한 사례를 공유합니다.\n- 카카오페이 비즈니스 앱은 카카오페이 결제 가맹점 신청이나 관리에 필요한 다양한 서비스를 제공하는 앱입니다. 새로운 앱에 어떤 아키텍처를 적용하면 좋을까?\n그 고민부터 실제 개발하면서 겪었던 시행착오와 해결까지의 과정을 나눕니다.",
+  "category": "기술",
+  "video": "https://tv.kakao.com/v/414004680",
+  "conference": "if(kakao) dev",
+  "year": 2020
+},{
+  "title": "Blockchain Application 개발자들을 위한 Klip : 야, 너두 BApp 개발할 수 있어",
+  "author": "배지원",
+  "description": "기존에 블록체인 어플리케이션(BApp)개발자들이 가지고 있었던 어려움이 무엇이었고, Klip App2App 연동을 통해 BApp 개발의 어려움을 어떻게 해결할 수 있는지에 대한 가이드를 드립니다.",
+  "category": "기술",
+  "video": "https://tv.kakao.com/v/414129357",
+  "conference": "if(kakao) dev",
+  "year": 2020
+},{
+  "title": "Caver, 참 쉽죠?",
+  "author": "김지민",
+  "description": "Klaytn의 클라이언트 SDK인 caver의 common architecture에 대한 소개와 caver를 통해 Klaytn을 사용하는 방법을 공유합니다.",
+  "category": "기술",
+  "video": "https://tv.kakao.com/v/414132034",
+  "conference": "if(kakao) dev",
+  "year": 2020
+},{
+  "title": "DevOps at GroundX: 인프라도 코드처럼",
+  "author": "오스틴 브라운, 정초아",
+  "description": "GroundX의 DevOps 체계 및 정책, Klip과 KAS 서비스의 infrastructure 및 kubernetes 운영 관련 툴들에 대해서 소개합니다.",
+  "category": "기술",
+  "video": "https://tv.kakao.com/v/414118805",
+  "conference": "if(kakao) dev",
+  "year": 2020
+},{
+  "title": "Klaytn에 알맞는 cache 찾기 : State trie cache 최적화",
+  "author": "변주원",
+  "description": "Klaytn에서 기존 cache의 문제점에 대해 설명하고, 문제의 원인 파악과 해결 과정을 공유합니다.\n그 과정에서 Go 언어의 GC와 캐시 종류에 대해 알아보고, Klaytn에서 사용하는 merkle trie의\ncache miss를 계산하는 방법을 소개합니다.",
+  "category": "기술",
+  "video": "https://tv.kakao.com/v/414072528",
+  "conference": "if(kakao) dev",
+  "year": 2020
+},{
+  "title": "Nonce 그게 뭔데?",
+  "author": "노경태",
+  "description": "블록체인 애플리케이션에서 발생할 수 있는 nonce 관련 문제들과 이를 해결하기 위해 Klip이 했던 노력들을 공유 함으로서 더 나은 블록체인 애플리케이션 개발을 위한 가이드를 제공합니다.",
+  "category": "기술",
+  "video": "https://tv.kakao.com/v/413991773",
+  "conference": "if(kakao) dev",
+  "year": 2020
+},{
+  "title": "Solidity로 시작하는 스마트 컨트랙트 개발: 블록체인 개발자가 되어 몸값을 올려보자",
+  "author": "김경구",
+  "description": "언어에 상관없이 개발 경험이 있는 사람들은 모두 어렵지 않게 블록체인 애플리케이션(BApp)을 만들 수 있습니다.\nBApp의 동작의 필수인 스마트 컨트랙트에 대해 블록체인을 잘 모르는 개발자라도 쉽게 개발을 시작할 수 있도록 개발 가이드를 드립니다.",
+  "category": "기술",
+  "video": "https://tv.kakao.com/v/414129365",
+  "conference": "if(kakao) dev",
+  "year": 2020
+},{
+  "title": "두통 없는 비동기 I/O 처리를 위한 Redux-Saga 활용기",
+  "author": "서이레",
+  "description": "블록체인의 NFT를 웹으로 보여주며 프론트 개발자로서 부딪혔던 문제, 그리고 redux-saga로 해결한 사례를 소개하려고 합니다.",
+  "category": "기술",
+  "video": "https://tv.kakao.com/v/414129356",
+  "conference": "if(kakao) dev",
+  "year": 2020
+},{
+  "title": "블록체인의 storage를 줄여보자 : Klaytn의 혹독한 다이어트 일기",
+  "author": "김경업",
+  "description": "Klaytn의 1TB에 가까운 block chain 데이터 용량을 줄이기 위해 그중에서도 가장 큰 state trie 데이터를 node의 중단 없이 최신 state trie만 남기고 삭제하는 state migration 기술을 어떻게 개발하였는지 공유하려고 합니다.",
+  "category": "기술",
+  "video": "https://tv.kakao.com/v/414129431",
+  "conference": "if(kakao) dev",
+  "year": 2020
+},{
+  "title": "자유로운 영혼의 자유로운 운영",
+  "author": "허정훈",
+  "description": "AWS Connect를 사용해서 \"나만의 운영 ARS 콜 센터 서비스\"를 만들고 ARS를 통해서 운영 시 장애 해결하는 아이디어를 공유하려고 합니다.",
+  "category": "기술",
+  "video": "https://tv.kakao.com/v/414072536",
+  "conference": "if(kakao) dev",
+  "year": 2020
+},{
+  "title": "가디언테일즈 글로벌 서비스 도전기!",
+  "author": "신승혁, 이동수",
+  "description": "가디언테일즈의 글로벌 서비스를 준비하면서 선택한 방식과 그 이유\n- 네트워크 인프라 구성은 어떻게 결정했는지\n- 빌드 안정성을 확보하기 위해 어떤 방법을 선택했는지",
+  "category": "기술",
+  "video": "https://tv.kakao.com/v/414072576",
+  "conference": "if(kakao) dev",
+  "year": 2020
+},{
+  "title": "게임에서 바라본 챗봇 - 캐릭터를 표현하는 챗봇을 구현하기 위한 키워드들",
+  "author": "김남식",
+  "description": "캐릭터를 표현하는 챗봇을 구현하면서 알게 된 키워드들과 개발 경험을 공유.\n챗봇에서 사용되는 특별한 키워드를 설명하고 카카오게임즈에서 이를 어떻게 활용하고 있는지 공유하려 합니다.",
+  "category": "기술",
+  "video": "https://tv.kakao.com/v/414004672",
+  "conference": "if(kakao) dev",
+  "year": 2020
+},{
+  "title": "데이터가 없는데 예측을 해달라고요? 런칭 전에 LTV 구하기",
+  "author": "송대섭",
+  "description": "일반적으로 데이터 분석은 일정량 이상의 데이터를 필요로 합니다. 특히 구현하고자 하는 예측값이 복잡할수록 요구되는 데이터의 양은 많아집니다.\n하지만 데이터가 기존 모델을 학습 시키기에 부족한 상황이라면? 이런 상황에서 문제를 해결해 나가는 대안 중 하나를 소개합니다.",
+  "category": "기술",
+  "video": "https://tv.kakao.com/v/414129439",
+  "conference": "if(kakao) dev",
+  "year": 2020
+},{
+  "title": "쏟아지는 로그를 차분하게 다루는 기술 - 카카오게임 로그 관리 시스템 logbucket",
+  "author": "조원민, 김진모",
+  "description": "- 카카오게임 통합 로그 관리 구조에 대해서 설명합니다.\n- 더 많은 로그를 다루기 위해 수행했던 작업들을 공유합니다.\n- 운영 자동화를 위해 수행했던 작업들을 공유합니다.",
+  "category": "기술",
+  "video": "https://tv.kakao.com/v/414129453",
+  "conference": "if(kakao) dev",
+  "year": 2020
+},{
+  "title": "잡았다, 요놈! - 재화 도둑 잡는 '딥러닝 기반 이상 탐지 모델'",
+  "author": "서은비",
+  "description": "RPG의 다양한 버그/어뷰징을 잡기 위한 딥러닝 기반 이상 탐지 모델 소개\n\n-게임에서의 어뷰징이란? 어뷰징의 정의와 영향력 알아보기\n-사전에 어뷰징 패턴을 알 수 없다면? CNN/GAN을 활용한 탐지 모델 개발\n-어떤 유형이 있을까? 탐지된 어뷰징 사례 소개",
+  "category": "기술",
+  "video": "https://tv.kakao.com/v/413991947",
+  "conference": "if(kakao) dev",
+  "year": 2020
+},{
+  "title": "안드로이드 버전 카카오 T SDK 개발기",
+  "author": "안세원",
+  "description": "카카오 T 앱의 주차 서비스를 카카오내비에 탑재하는 프로젝트를 진행하는 과정에서 마주친 기술적인 문제와 해결 과정을 소개합니다. 앱의 일부 모듈을 독립적인 SDK로 만들어내는 과정을 살펴보며, 모듈화가 얼마나 큰 도음을 주었는지 알아봅니다.",
+  "category": "기술",
+  "video": "https://tv.kakao.com/v/414072465",
+  "conference": "if(kakao) dev",
+  "year": 2020
+},{
+  "title": "카카오내비는 어떻게 경험을 바꾸는가",
+  "author": "김수진",
+  "description": "카카오내비가 길 탐색 시 사용하는 데이터부터 길 탐색 알고리즘, 소요시간 예측 모델까지 전반적인 내비 길 탐색 엔진에 대해서 설명합니다. 나아가 카카오내비가 앞으로 선보일 흥미로운 프로젝트에 대해서도 소개합니다.",
+  "category": "기술",
+  "video": "https://tv.kakao.com/v/413991846",
+  "conference": "if(kakao) dev",
+  "year": 2020
+},{
+  "title": "터널 안에서 위치를 계산하는 FIN 기술",
+  "author": "전상훈",
+  "description": "모빌리티에서는 GPS의 한계를 넘는 정확하고 안정적인 위치 기술을 연구개발 중입니다.\n이 중 LTE 신호 패턴을 이용해서 터널 내 위치를 계산하고 이를 카카오내비에 적용한 FIN 기술의 원리와 서울 주요 터널에 실시 중인 시범 서비스를 소개합니다.",
+  "category": "기술",
+  "video": "https://tv.kakao.com/v/414131951",
+  "conference": "if(kakao) dev",
+  "year": 2020
+},{
+  "title": "같지만 다른 카카오뱅크의 안드로이드 테스트",
+  "author": "김용준",
+  "description": "은행의 다양하고 복잡한 프로세스를 안정적으로 다루기 위해서는 테스트를 잘 해야 합니다.\n카카오뱅크 모바일 개발팀에서는 작은 단위의 유닛 테스트부터 큰 단위의 화면/시나리오별 UI 테스트를 자동화하여 반복적인 작업을 최소화하여 개발 효율을 높이기 위해 노력하고 있습니다. 다양한 테스트를 단계적으로 도입하게 된 이유와 개발/운영하면서 쌓은 경험과 노하우를 공유하고자 합니다.",
+  "category": "기술",
+  "video": "https://tv.kakao.com/v/414072285",
+  "conference": "if(kakao) dev",
+  "year": 2020
+},{
+  "title": "알아서 저금해주는 똑똑한 저금통 자동 모으기 개발",
+  "author": "오세영, 윤선범",
+  "description": "저금통 자동 모으기는 고객의 여유 자금을 예측하여 자동으로 저금해 주는 상품입니다.\n매주, 고객별로 잔고 예측을 통해서 적정 금액을 산출하여 자동으로 저금합니다.\n\n발표는 2개의 파트로 구성됩니다. 먼저, 자동 모으기에서 사용할 머신러닝 모델을 설계한 과정과 서비스를 위해 Airflow를 활용해서 개발한 ML 파이프라인 환경을 소개합니다.\n두 번째로, 여유 자금 예측을 하기 위해 살펴본 고객 잔고 데이터의 특징과 미래 잔고 예측을 위해서 사용한 여러 가지 시계열 예측 알고리즘 성능에 대해서 공유합니다.",
+  "category": "기술",
+  "video": "",
+  "conference": "if(kakao) dev",
+  "year": 2020
+},{
+  "title": "유한상태기계로 밀려드는 프로모션 감당하기",
+  "author": "김현승",
+  "description": "카카오뱅크의 성공적 오픈 이후. 카카오뱅크를 사랑해 주시는 고객들 위해 다양하고 즐거운 프로모션을 제공하는 것은 예정된 수순이었습니다.\n\n'획일화 된 페이지와 전화번호 인증은 너무 식상하고 불편해.\n야근하고 집에 가는 길에 열면 늘 조기 소진이래.'\n'추첨은 대체 언제 하는 건지 기다리고 싶지 않아.'\n'왜 프로모션들은 다 거기서 거기일까요?'\n'원래 기획안은 참신하고 다양할 텐데, 한정된 개발 리소스가 문제이지 않을까'\n\n그 해답을 찾기 위해 떠나는 카카오뱅크만의 프로모션 대모험!!",
+  "category": "기술",
+  "video": "https://tv.kakao.com/v/414072284",
+  "conference": "if(kakao) dev",
+  "year": 2020
+},{
+  "title": "딥러닝으로 어려운 요가 자세 잡아드립니다 (부제: 포즈 인식 입문부터 API서비스까지)",
+  "author": "김동우",
+  "description": "카카오브레인 포즈 API는 포즈 분석 딥러닝 모델을 기반으로 이미지나 동영상 속의 사람들을 탐색해 자세를 분석하는 기능을 제공합니다.\n\n공개된 다른 포즈 모델/API들과는 어떠한 차이가 있는지, 우리의 모델에서 잘 되는 것과 안 되는 것들을 보여주고 이 모델을 만드는 과정에서의 경험을 공유합니다",
+  "category": "기술",
+  "video": "https://tv.kakao.com/v/414072243",
+  "conference": "if(kakao) dev",
+  "year": 2020
+},{
+  "title": "E2E 음성인식 가속화 기술 그리고 On-Device로의 확장",
+  "author": "김준태",
+  "description": "음성처리 파트에서 연구 개발한 End-to-End 음성인식 가속화 기술에 대한 설명과 이를 활용한 on-device 음성인식 application에 대해 소개하고자 합니다.",
+  "category": "기술",
+  "video": "https://tv.kakao.com/v/414132072",
+  "conference": "if(kakao) dev",
+  "year": 2020
+},{
+  "title": "Kubernetes-native Datacenter: 데이터센터안의 모든것들을 쿠버네티스로 관리하는 방법",
+  "author": "이어형",
+  "description": "카카오엔터프라이즈의 클라우드 서비스는 이를 구성하기 위한 IDC의 모든 IT 자원(server, network, DB, VM, K8S ...) 들을 kubernetes-native 한 방법으로 관리하고 있습니다.\n어떻게 하면 이런 다양한 자원들을 kubernetes화 할 수 있는지에 대한 설명과 이를 통해 보다 선언적이며 결정론적인 방법들로 IT 자원 들을 관리하는 방법들을 소개합니다.",
+  "category": "기술",
+  "video": "https://tv.kakao.com/v/414129433",
+  "conference": "if(kakao) dev",
+  "year": 2020
+},{
+  "title": "MySQL on Kubernetes: 발표자도 데이터베이스를 컨테이너로 운영하게 될 줄 몰랐다",
+  "author": "한수호, 송현호",
+  "description": "클라우드 서비스에서 빠질 수 없는 것 중 하나가 데이터베이스 서비스일 것입니다.\n안정성이 최우선인 RDBMS, 과연 전통적인 방식(PM, VM)에서 벗어나 컨테이너 환경에서도 운영이 가능할 것인가? 그 이야기를 풀어보고자 합니다.",
+  "category": "기술",
+  "video": "https://tv.kakao.com/v/414132056",
+  "conference": "if(kakao) dev",
+  "year": 2020
+},{
+  "title": "embedded로 음성인식 확장하기",
+  "author": "안은영",
+  "description": "embedded system에서의 음성인식 성능 향상과 공간성을 확장한 사례를 설명합니다.\nKakao i 음성인식 엔진을 사용하여 embedded system을 만들고자 하는 개발자들에게\n성능 향상의 팁과 그 경험치를 공유합니다.",
+  "category": "기술",
+  "video": "https://tv.kakao.com/v/414132077",
+  "conference": "if(kakao) dev",
+  "year": 2020
+},{
+  "title": "k8s와 함께 flex 해버린 Multitenancy Network",
+  "author": "이정복, 김병주",
+  "description": "어떻게 Multitenancy Network를 flex 하였고, k8s를 이용하여 network 관련 controller와 component들을 관리하는 방법들을 소개합니다.",
+  "category": "기술",
+  "video": "https://tv.kakao.com/v/414132061",
+  "conference": "if(kakao) dev",
+  "year": 2020
+},{
+  "title": "무인 편의점 개발기 - Edge Device로 Object Tracking 시스템 구축하는 방법",
+  "author": "임현호, 안지운",
+  "description": "Amazon을 포함해 많은 리테일 업체들이 관심을 가지고 있는 무인 상점을 구현하기 위해서는 다양한 기술요소들이 필요합니다.\n입장한 사람이 누구인지 알기 위한 얼굴인식 기술부터, 입구에서부터 각 사람의 동선을 추적할 수 있는 tracking 기술, 어떤 상품을 집었는지를 알기 위한 무게센서와의 센서 퓨전 기술 등이 대표적입니다.\n\n이 세션에서는 이 중 멀티미디어 처리 파트에서 개발한 tracking 기술에 대해서 소개하고, 이 기술을 실제 편의점과 유사하게 세팅된 공간에서 적용한 경험을 공유하고자 합니다. 또한 이러한 시스템을 엔비디아의 xavier라는 에지 디바이스 위에 구축하는 과정에서 마주쳤던 기술적인 어려움들과 극복 과정에서 배웠던 팁들도 함께 소개 드립니다.",
+  "category": "기술",
+  "video": "https://tv.kakao.com/v/414132079",
+  "conference": "if(kakao) dev",
+  "year": 2020
+},{
+  "title": "Pacemaker와 함께... 따뜻한 서비스의 첫 걸음",
+  "author": "지성인, 김준형",
+  "description": "카카오커머스의 쇼핑하기 서비스를 운영하면서 겪었던, 예상하지 못한 트래픽의 폭증으로 발생한 장애 상황과 이를 해결하기 위해서 고민했던 내용들 그리고 그 고민의 결과물인 Pacemaker에 대해서 소개한다.\n\nPacemaker는 CountMinSketch와 TimingWheel이라는 자료구조를 활용하여 수많은 상품 상세 페이지의 트래픽을 효율적으로 측정하고 임계치 이상의 트래픽에 대해서는 Webflux와 Disruptor를 활용해서 개발된 Pacemaker 서버 팜으로 트래픽을 우회시켜 준다. 이후 프론트 서버가 수용 가능한 수준으로 트래픽을 조절하여 항상 프론트 서버가 최적의 상황으로 서비스를 유지할 수 있도록 도와준다.",
+  "category": "기술",
+  "video": "https://tv.kakao.com/v/414129352",
+  "conference": "if(kakao) dev",
+  "year": 2020
+},{
+  "title": "Perfect Storm을 일으키는 트래픽의 정체는?",
+  "author": "이병기",
+  "description": "JVM 기반의 MSA 환경에서 대량의 트래픽을 안정적으로 처리하기 위해서 알아야 하는 G1 GC의 특징과 이것으로 인해 발생할 수 있는 장애 상황에 대해서 설명한다. WAS worker 쓰레드들이 공진현상(Resonance Phenomenon)과 유사한 실행 패턴을 가지게 되는 원인에 대해 설명하고 이로 인한 트래픽의 보강 간섭(Constructive Interference)으로 Perfect Storm 같은 장애가 발생할 수 있는 가능성에 대해서 다룬다.",
+  "category": "기술",
+  "video": "https://tv.kakao.com/v/414191712",
+  "conference": "if(kakao) dev",
+  "year": 2020
+},{
+  "title": "Can Detect Fake or Not, That is the Question",
+  "author": "김중균",
+  "description": "얼굴 인증 서비스 개발에 필수적인 요소인 안티스푸핑 개념에 대해 소개하고, 스푸핑을 탐지하기 위한 여러 가지 방법과 카카오페이에서 개발 중인 안티스푸핑 모델을 소개합니다.\n스푸핑 탐지를 위한 딥러닝 모델 학습 과정 중에 겪은 여러 이슈들의 원인과 개선해나가는 시행착오를 공유하고자 합니다.",
+  "category": "기술",
+  "video": "https://tv.kakao.com/v/414072328",
+  "conference": "if(kakao) dev",
+  "year": 2020
+},{
+  "title": "Kubernetes 환경 \u2028Spring Cloud Data Flow 를 \u2028이용한 백업, 정산 데이터 파이프라인 구축 - 카카오페이머니클랜의 데이터파이프라인은 어떻게 생겼을까?",
+  "author": "김윤웅",
+  "description": "매일 천만 건 이상의 거래 데이터가 축적되는 환경에서 Spring Cloud Data Flow (SCDF)를 통해\n어떻게 카카오페이 머니 서비스의 기존 정산 방식을 변화시켰는지 소개합니다.",
+  "category": "기술",
+  "video": "https://tv.kakao.com/v/414072537",
+  "conference": "if(kakao) dev",
+  "year": 2020
+},{
+  "title": "메트릭 기반 모니터링 환경 구축(feat. Prometheus)",
+  "author": "양원석",
+  "description": "빠르게 변하는 서비스를 안정적으로 운영하기 위해 확장 가능한 메트릭 저장소 구축과 장애 관리,\n장애 대응 프로세스를 만들어가는 경험을 공유",
+  "category": "기술",
+  "video": "https://tv.kakao.com/v/414072331",
+  "conference": "if(kakao) dev",
+  "year": 2020
+},{
+  "title": "이상거래 탐지를 위한 실시간 데이터 처리와 금융 사기 행동 분석",
+  "author": "이완근, 이재광",
+  "description": "카카오페이에서의 금융사기 모니터링을 위한 리스크 관리 플랫폼의 개발 여정과 금융 사기 데이터 분석 여정 및 앞으로의 접근 방향을 공유합니다.",
+  "category": "기술",
+  "video": "https://tv.kakao.com/v/414129448",
+  "conference": "if(kakao) dev",
+  "year": 2020
+},{
+  "title": "카카오페이 DevOps의 통합과 자동화에 관한 이야기",
+  "author": "김성민",
+  "description": "Hybrid Infrastructure(Public Cloud+On Premise)환경에서 통합과 자동화를 적용한 사례",
+  "category": "기술",
+  "video": "https://tv.kakao.com/v/413991843",
+  "conference": "if(kakao) dev",
+  "year": 2020
+},{
+  "title": "카카오페이 매입 시스템 - 성능 개선 과정과 JOOQ 도입을 중심으로",
+  "author": "박명하",
+  "description": "카카오페이 매입 시스템인 HAWK 의 소개와 개선 과정에 대한 경험 공유\n- HAWK : 매입 시스템\n- HAWK : 성능 개선하기\n- HAWK : JOOQ 적용하기\n- TIP : JOOQ로 할 수 있는 것들",
+  "category": "기술",
+  "video": "https://tv.kakao.com/v/414004681",
+  "conference": "if(kakao) dev",
+  "year": 2020
+},{
+  "title": "Terraform을 사용해보았습니다. 나 혼자만 beanstalk",
+  "author": "전민영, 심샘",
+  "description": "AWS Elastic Beanstalk, CircleCi 기반의 인프라 환경/배포 시스템에서 terraform, ecs, jenkins 환경으로의 변화에 대한 경험을 공유합니다.\n왜 바꾸게 되었는지, 위와 같은 기술 스택을 어떤 형태로 이용하고 있는지, 장단점은 어떤지 등에 대한 실제 프로덕션 환경에 적용했을 때의 이야기를 하려고 합니다.",
+  "category": "기술",
+  "video": "https://tv.kakao.com/v/414072246",
+  "conference": "if(kakao) dev",
+  "year": 2020
+},{
+  "title": "다크 모드로 알아보는 카카오페이지의 iOS 업데이트",
+  "author": "이규원",
+  "description": "iOS13부터 애플이 선보인 다크 모드는 화면을 절제된 아름다움으로 표현해 주는 어두운 컬러 스킴으로, 시스템 전체 및 모든 네이티브 앱에 걸쳐 어두운 색상 조합이 새롭게 구현되는 화면 모드입니다. 다크 모드는 저조도 환경에서 눈이 편안할 뿐 아니라, 주변 사람들에게 방해가 되지 않습니다.\n\n카카오페이지는 2020년 4월 다크 모드 적용 버전이 출시되었는데요. 카카오페이지가 낮이든 밤이든 장시간 사용하는 콘텐츠 앱인 만큼, 다크 모드 기능은 콘텐츠를 더 몰입감 있고 재미있게 볼 수 있게 해 주었습니다. 카카오페이지에 이런 다크 모드를 도입하면서 만났던 문제들과 고민, 그리고 해결 방법을 이야기합니다.",
+  "category": "기술",
+  "video": "https://tv.kakao.com/v/414072245",
+  "conference": "if(kakao) dev",
+  "year": 2020
+},{
+  "title": "유연한 해외 현지화를 위한 iOS 앱 구성",
+  "author": "김한샘, 김선빈",
+  "description": "다국가 배포를 위한 multi build 프로젝트 설정\ntag를 이용한 attributed string 생성\nPropertyWrapper를 이용한 다국어 리소스 적용",
+  "category": "기술",
+  "video": "https://tv.kakao.com/v/414072247",
+  "conference": "if(kakao) dev",
+  "year": 2020
+},{
   "title": "Opening & OpenInfra Days Korea 2018 프로그램 소개",
   "author": "조성수, 안승규",
   "slide": "https://www.slideshare.net/openstack_kr/openinfra-days-korea-2018",
