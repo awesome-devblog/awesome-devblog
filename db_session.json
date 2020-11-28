@@ -8361,6 +8361,438 @@
   "conference": "if(kakao) dev",
   "year": 2019
 },{
+  "title": "오프닝 키노트",
+  "author": "조수용, 여민수",
+  "description": "if(kakao)2020은 더 나은 세상을 만들기 위한 카카오의 많은 생각과 도전들을 담았습니다.\n오프닝키노트를 시작으로 11월 18일부터 3일 동안 다양한 카카오의 이야기가 펼쳐집니다. \nif(kakao)에서 카카오의 변화를 함께 확인해 보시죠!",
+  "category": "서비스",
+  "video": "https://tv.kakao.com/v/414004572",
+  "conference": "if(kakao) dev",
+  "year": 2020
+},{
+  "title": "디지털화된 일상에서 카카오톡이 만드는 새로운 세상",
+  "author": "김택수",
+  "description": "카카오의 대표 서비스 카카오톡에 새롭게 추가되는 신규 기능들을 소개합니다.\n\n카톡에서 주고받은 대화와 디지털 자산들을 안전하게 보관할 수 있는\n네트워크 드라이브 서비스인 ‘톡서랍’.\n톡서랍의 저장 공간을 활용한 새로운 채팅방인 ‘팀채팅’.\n다양한 관계에 따라 여러 개의 프로필을 만들고,\n어떤 상대에게 노출할지 스스로 결정할 수 있는 ‘멀티프로필’.\n공개 프로필 검색을 통해 특별한 자격을 가진 사람과\n새로운 관계를 맺을 수 있는 ‘인물 검색’.\n모바일 환경에서 신원을 증명하고 본인임을 인증할 수 있는 ‘디지털 신분증’.\n\n카카오가 기대하는 새로운 관계 맺기와 소중한 만남의 확장, 그리고 더욱 편리해진 디지털 일상의 모습을 만나보실 수 있습니다.",
+  "category": "서비스",
+  "video": "https://tv.kakao.com/v/414072174",
+  "conference": "if(kakao) dev",
+  "year": 2020
+},{
+  "title": "비즈니스. 톡처럼 쉬워지다.",
+  "author": "정의정",
+  "description": "카카오톡에서 비즈니스는 어떻게 하는 걸까요?\n톡처럼 쉽게 비즈니스를 할 수 있는 방법은 없을까요?\n\n카카오가 여러분의 비즈니스를 쉽게 성장시킬 수 있도록 변화합니다.\n카카오 비즈니스의 개념과, 변화하는 플랫폼의 모습, 그리고 그 활용법에 대해 알아보겠습니다.",
+  "category": "비즈니스",
+  "video": "https://tv.kakao.com/v/414132708",
+  "conference": "if(kakao) dev",
+  "year": 2020
+},{
+  "title": "카카오를 지탱하는 기술에 대하여",
+  "author": "신정환",
+  "description": "카카오에서 기술의 가치에 대해서 이야기 나눕니다.\n또한, 카카오의 주요 기술의 현황과 관련된 기술 세션을 소개하며,\n카카오가 바라는 개발자 인재상에 대해 이야기합니다.",
+  "category": "기술",
+  "video": "https://tv.kakao.com/v/414199815",
+  "conference": "if(kakao) dev",
+  "year": 2020
+},{
+  "title": "혁신의 씨앗을 뿌리다. 카카오임팩트 펠로우십",
+  "author": "김태완, 육심나, 엄윤미, 정정윤",
+  "description": "혁신의 씨앗을 뿌리는 카카오임팩트의 새로운 시작!\n2021년 1월, 우리 사회의 긍정적 변화를 만드는 사회혁신가들을 지원하는 '카카오임팩트펠로우십' 사업이 시작됩니다.\n\n더 나은 사회를 만드는 사람들, 가치있는 혁신을 고민하는 사람들의 발걸음이 꾸준히 나아가고, 그들의 목소리가 퍼질 수 있게 오늘보다 더 나은 미래를 만드는 사람들을 찾아내고 지원합니다. '카카오임팩트펠로우십'은 혁신가들에게 가장 필요한 부분을 지혜롭게 챙겨주고, 그들의 메시지를 확산해주고 연결하는 역할을 하고자 합니다.",
+  "category": "서비스",
+  "video": "https://tv.kakao.com/v/413991179",
+  "conference": "if(kakao) dev",
+  "year": 2020
+},{
+  "title": "브런치 작가들의 이야기 - 글을 쓰면 기회가 온다. 계속 쓰면 힘이 된다.",
+  "author": "정혜윤, 고수리, 김혜령, 송창현",
+  "description": "브런치 작가님들은 브런치에 글을 쓰기 시작한 뒤로 삶이 바뀌었다고 말합니다.\n평범한 직장인이 출간을 하고 베스트셀러 작가가 됩니다. 여러 사람 앞에서 강연을 하고, 기고를 하고, 클래스를 엽니다. 브런치에 쓴 글이 계기가 되어 이직을 하고, 자기만의 브랜드를 구축하기도 합니다. 브런치 대표 작가님들로부터 '브런치'와 '글쓰기'가 가져온 기회와 변화에 대한 이야기를 들어봅니다. 작가님들의 글쓰기 노하우도 공개합니다.",
+  "category": "서비스",
+  "video": "https://tv.kakao.com/v/414072205",
+  "conference": "if(kakao) dev",
+  "year": 2020
+},{
+  "title": "아티스트가 이야기하는 \"멜론 스테이션\"의 녹음 비하인드 스토리와 멜론을 바라보는 시선",
+  "author": "정기고",
+  "description": "요즘 뮤지션들은 '어떻게' 음악을 하고 있을까?\n그들이 경험해 온 멜론, 그리고 앞으로 바라는 멜론에 대한 이야기를 멜론 스테이션의 호스트인 정기고의 목소리로 들어봅니다.",
+  "category": "서비스",
+  "video": "https://tv.kakao.com/v/414141285",
+  "conference": "if(kakao) dev",
+  "year": 2020
+},{
+  "title": "이모티콘으로 마음을 사로잡는 법: 감정 표현에서 관계 형성까지",
+  "author": "백윤화, 곽정일, 애소, 철새",
+  "description": "사람들의 마음을 사로잡는 이모티콘은 어떻게 만들어지는 걸까요?\n전 국민의 채팅 창에서 한 번씩은 보았음직한 인기 캐릭터 작가들이 한자리에 모여 그들만의 노하우를 공개합니다.",
+  "category": "서비스",
+  "video": "https://tv.kakao.com/v/414072195",
+  "conference": "if(kakao) dev",
+  "year": 2020
+},{
+  "title": "ClickHouse - analytical database",
+  "author": "한승후",
+  "description": "ClickHouse는 non-aggregated data를 처리하는데 최적화된 분석용 데이터베이스이며, 새로운 카카오 웹 분석 시스템의 백엔드 저장소로 사용 중입니다. ClickHouse에 대해 소개하고, ClickHouse를 적용하면서 오픈소스에 기여한 기능을 공유하려 합니다.",
+  "category": "기술",
+  "video": "https://tv.kakao.com/v/414129353",
+  "conference": "if(kakao) dev",
+  "year": 2020
+},{
+  "title": "Flink 기반 log streaming pipeline - log와 사용자를 잇는 무지개 다리",
+  "author": "한상윤",
+  "description": "Apache Flink를 이용하여 카카오의 로그 파이프라인을 개선한 경험을 소개합니다. 카카오의 전사 로그 파이프라인과 apache Flink에 대한 개념을 설명합니다.",
+  "category": "기술",
+  "video": "https://tv.kakao.com/v/414072318",
+  "conference": "if(kakao) dev",
+  "year": 2020
+},{
+  "title": "Hello, Open API World!",
+  "author": "이현",
+  "description": "카카오가 제공하는 다양한 Open API를 소개합니다. 카카오는 Open API를 통해 카카오의 소셜 그래프, 지도 데이터, 인공지능 플랫폼까지 폭넓은 기술과 데이터를 사용자들과 공유하고 있습니다. 카카오 API를 사용하여 어떤 기능들을 보다 쉽고 편리하게 구현할 수 있는지 알아보세요.",
+  "category": "기술",
+  "video": "https://tv.kakao.com/v/413991719",
+  "conference": "if(kakao) dev",
+  "year": 2020
+},{
+  "title": "How to make log based Alert with Flink",
+  "author": "이성주",
+  "description": "Apache Flink 플랫폼을 이용하여 Log를 기반으로 알람을 보내는 방법을 설명합니다.\n추가로 플링크의 윈도우의 개념과 동작 방식, 플링크의 워터마크 흐름 및 개념을 설명합니다.",
+  "category": "기술",
+  "video": "https://tv.kakao.com/v/414072312",
+  "conference": "if(kakao) dev",
+  "year": 2020
+},{
+  "title": "JUnit5를 시작하며",
+  "author": "권영재",
+  "description": "Java를 사용하고 테스트를 작성하고 계신가요? JUnit4를 사용하고 계신가요?\n새롭게 태어난 Junit5가 어떤 이유로 시작이 되었고, 어떤 기능이 추가 되었는지 소개합니다.",
+  "category": "기술",
+  "video": "https://tv.kakao.com/v/413991832",
+  "conference": "if(kakao) dev",
+  "year": 2020
+},{
+  "title": "OLIVE 카카오에서 제공하는 오픈소스 관리 서비스",
+  "author": "황은경, 김영환",
+  "description": "카카오에서는 오픈소스 관리 시스템 Olive를 사용하여 프로젝트에서 사용하는 오픈소스를 관리하고 있습니다. 실시간으로 오픈소스를 관리하고, 누구나 오픈소스 데이터를 등록하여 모두가 사용할 수 있도록 Olive를 오픈합니다. Olive는 Github 프로젝트를 분석하여 오픈소스 데이터를 관리하고, 라이선스 의무사항 확인, Report 생성 등의 기능을 제공합니다.\n\n본 세션에서는 Olive에 대해 소개하고, Olive의 핵심 기능인 의존성 분석 모듈 Analyzer의 분석 범위와 방식도 설명합니다.",
+  "category": "기술",
+  "video": "https://tv.kakao.com/v/414132069",
+  "conference": "if(kakao) dev",
+  "year": 2020
+},{
+  "title": "OpenWork 카카오의 일하는 방식",
+  "author": "이호정",
+  "description": "여러분의 팀은 얼마나 열려있으신가요?\n더욱더 열린 문화와 열려있는 일하는 방식을 향한 카카오의 지난 여정과 현재, 그리고 다음 여정에 대해서 이야기 나누려 합니다. 지난 여정의 발걸음에서 만들어진 카카오의 일하는 방식인 OpenWork에 대해서도 소개하려 합니다.",
+  "category": "기술",
+  "video": "https://tv.kakao.com/v/414132091",
+  "conference": "if(kakao) dev",
+  "year": 2020
+},{
+  "title": "Programming Kubernetes Controller",
+  "author": "신정섭",
+  "description": "Kubernetes Controller가 무엇인지 소개하고, MyReplicaSet Controller라는 에제 Controller 소개를 통해서 Kubernetes Controller의 개발 방법을 소개한다.",
+  "category": "기술",
+  "video": "https://tv.kakao.com/v/414072325",
+  "conference": "if(kakao) dev",
+  "year": 2020
+},{
+  "title": "Single Image Cloud over Distributed Clouds with 9rum cloud platform",
+  "author": "공용준",
+  "description": "카카오의 9rum 클라우드 플랫폼을 통해서 여러 개의 멀티클라우드를 하나의 클라우드 (Single Cloud Image)처럼 사용하는 기술적인 방법과 그리고 사례를 소개한다.",
+  "category": "기술",
+  "video": "https://tv.kakao.com/v/414072222",
+  "conference": "if(kakao) dev",
+  "year": 2020
+},{
+  "title": "SwiftUI를 망설이고 있다면?",
+  "author": "염승엽",
+  "description": "WWDC가 진행되면 코코아 개발자들은 새로운 학습할 거리와 숙제들을 할당받습니다.\nWWDC19에서는 사용자 인터페이스를 구현할 수 있는 새로운 방법인 SwiftUI가 공개되었습니다.\n발 빠르게 적용해보고자 SwiftUI를 사내 전용 앱에 도입해보며 겪었던 경험과 생각을 UI 중심으로 공유합니다.",
+  "category": "기술",
+  "video": "https://tv.kakao.com/v/414129341",
+  "conference": "if(kakao) dev",
+  "year": 2020
+},{
+  "title": "Time Travel Debugging asio 라이브러리와 고급 윈도우 디버깅 사례 공유",
+  "author": "김희준",
+  "description": "사실상 C++ 네트워킹 표준 구현 라이브러리인 asio를 카톡PC 버전에 적용하며 기묘한 버그를 경험하였고, 그 버그의 원인을 찾기 위해 asio의 내부 구현을 분석하고, 결국 Time travel debugging이라는 MS의 최신 디버깅 기술로 어셈블리 코드와 스택 메모리를 뒤져가며 버그의 원인을 찾아가는 이야기를 공유합니다.",
+  "category": "기술",
+  "video": "https://tv.kakao.com/v/413991727",
+  "conference": "if(kakao) dev",
+  "year": 2020
+},{
+  "title": "UI 테스트를 위한 여정",
+  "author": "권태민",
+  "description": "공통 UI 컴포넌트의 변경을 추적하기 위해 UI 테스트를 적용하면서 경험한 다양한 이슈들을 소개합니다.",
+  "category": "기술",
+  "video": "https://tv.kakao.com/v/414129351",
+  "conference": "if(kakao) dev",
+  "year": 2020
+},{
+  "title": "[직장인 VLOG] 출근부터 스터디까지 알차게 하루 보내는 주니어 개발자 VLOG",
+  "author": "김예빈",
+  "description": "카카오 주니어 개발자는 어떻게 하루를 보낼까?\n하루하루 출근하고 밥 먹고 회의하고 공부하는 주니어 개발자의 하루 대공개!\n\n저기 마이크 꺼져있으신 거 같아요.. 마스크 없인 못 들어주는 코로나19 속 회사원의 일상\n엥 이게 왜 되지? 우당탕탕 주니어 개발자의 코딩 일상\n아날로그 다이어리 체크하는 것을 즐기는 ENTJ의 계획적인 일상\n\n지금 바로 공개합니다!",
+  "category": "기술",
+  "video": "https://tv.kakao.com/v/414004625",
+  "conference": "if(kakao) dev",
+  "year": 2020
+},{
+  "title": "iOS 14 WidgetKit 카카오톡 적용기",
+  "author": "김태인",
+  "description": "2020 WWDC에서 새로 발표된 iOS14 WidgetKit을 카카오톡에 적용해본 경험을 공유합니다.\n기존에 제공되었던 Today Extension과 비교하여 어떤 점이 달라졌는지 살펴보도록 하겠습니다.\nWidgetKit의 예시로 톡 위젯과 서랍 위젯을 적용한 경험을 공유합니다.",
+  "category": "기술",
+  "video": "https://tv.kakao.com/v/413991919",
+  "conference": "if(kakao) dev",
+  "year": 2020
+},{
+  "title": "iOS Audio Programming Mechanism",
+  "author": "윤정욱, 이희종",
+  "description": "멜론 iOS 개발자가 설명하는 iOS 오디오 프로그래밍.\niOS 환경에서의 전반적인 오디오 프로그래밍에 대해서 살펴보고 개발 과정에서 함께 고려해야 되는 부분들에 대해서 설명합니다.",
+  "category": "기술",
+  "video": "https://tv.kakao.com/v/414129432",
+  "conference": "if(kakao) dev",
+  "year": 2020
+},{
+  "title": "if (카카오콘)",
+  "author": "이용운",
+  "description": "카카오콘 서비스를 블록체인 위에 만든 배경과 사용된 기술,\n현재의 카카오콘과 카카오콘이 꿈꾸는 미래.",
+  "category": "기술",
+  "video": "https://tv.kakao.com/v/413991918",
+  "conference": "if(kakao) dev",
+  "year": 2020
+},{
+  "title": "kotest가 있다면 TDD 묻고 BDD로 가!",
+  "author": "이원제, 강진혁",
+  "description": "BDD(Behavior Driven Development)와 TDD(Test Driven Development)를 비교하고 BDD와 TDD를 통해 얻는 장점을 이야기해봅니다. 그리고, 예제를 통해 BDD를 적용하는 법을 살펴보고 이 BDD와 TDD를 kotlin project에서 쉽게 적용할 수 있도록 도와주는 kotest와 주변 라이브러리를 소개합니다.",
+  "category": "기술",
+  "video": "https://tv.kakao.com/v/414004682",
+  "conference": "if(kakao) dev",
+  "year": 2020
+},{
+  "title": "개인화 콘텐츠 푸시 고도화 후기",
+  "author": "김성진",
+  "description": "카카오 추천팀에서 2019년에 진행했던 개인화 콘텐츠 푸시 고도화 프로젝트를 소개합니다.\n이 프로젝트에서는 \"누구나 좋아할 콘텐츠를 보냈을 때의 성과를, 누구나 좋아할 콘텐츠가 없더라도 꾸준히 내고 싶다.\"는 문제를 풀었습니다.\n\n이 문제를 풀기 위해, 푸시할 콘텐츠 선정, 유저별 선호도 예측, 발송 모수 설정, 발송까지 이르는 모든 푸시 과정을 머신러닝 기반 시스템으로 자동화하였습니다. 다음앱에서 실험해 본 결과, 기존 푸시 방식 대비하여 주간 활성 유저수가 큰 폭으로 증가한 성과가 있었습니다.\n이 프로젝트에서 풀고자 했던 문제와, 그 문제를 해결하기 위한 시스템을 어떻게 설계했는지 공유합니다.",
+  "category": "기술",
+  "video": "https://tv.kakao.com/v/413991950",
+  "conference": "if(kakao) dev",
+  "year": 2020
+},{
+  "title": "담당자만 아는 카카오맵의 공적 마스크 프로젝트 뒷이야기",
+  "author": "김태엽",
+  "description": "구성원이 모두 원격 근무하고 있던 상황에서 카카오맵 공적 마스크 서비스 적용 프로젝트를 어떻게 진행했는지 소개하고 모든 과정을 직접 진행하면서 느낀 점을 공유합니다.\n\n어떤 프로젝트이든지 빠른 진행속도를 강조하는데 공적 마스크 프로젝트는 속도가 최우선 가치였습니다. 단 며칠밖에 없는 시간 속에서 Android, iOS, PC, 모바일 웹에 대한 작업을 모두 해야 했습니다. 어떤 방식으로 프로젝트를 구성하고 관리하면서 제한 시간 내에 공적 마스크 데이터를 안정적이고 신뢰도 있게 내보낼 수 있었는지 궁금하신 분들에게 도움이 될만한 내용으로 구성했습니다.",
+  "category": "기술",
+  "video": "https://tv.kakao.com/v/413991788",
+  "conference": "if(kakao) dev",
+  "year": 2020
+},{
+  "title": "디지털 비즈니스 시대의 생존법, 카카오톡 채널",
+  "author": "이기형",
+  "description": "치열해지고 있는 디지털 비즈니스 시대, 살아남기 위해 제일 먼저 해야 할 일이 무엇일까요?\n여러분들이 지금 당장 카카오톡 채널을 개설해야 하는 이유와, 카카오톡 채널을 카카오의 다른 비즈니스 도구들과 결합해서 잘 사용할 수 있는 법을 알려드립니다.\n\n어떤 비즈니스를 하던, 어떤 고객이 필요하던, 카카오톡 채널은 선택이 아니라 필수입니다.",
+  "category": "비즈니스",
+  "video": "https://tv.kakao.com/v/414164261",
+  "conference": "if(kakao) dev",
+  "year": 2020
+},{
+  "title": "로드뷰 제작 과정 소개",
+  "author": "김아름",
+  "description": "로드뷰 서비스를 위한 촬영부터 제작까지의 전 과정을 소개합니다.\n촬영을 위한 Hardware적인 기술과 수집한 데이터를 분석하고 가공하기 위한 Software적인 기술을 다루고 있으며, 보다 효율적인 데이터 처리를 위한 자동화 과정에 대해 소개합니다.",
+  "category": "기술",
+  "video": "https://tv.kakao.com/v/414119140",
+  "conference": "if(kakao) dev",
+  "year": 2020
+},{
+  "title": "멜론 DataBase IDC 이관 및 재구성시 사용된 High Availability, CDC 기술 소개",
+  "author": "박준현, 복명호",
+  "description": "무중단 기술의 선택적인 활용 / 자체 개발 솔루션 소개와 활용 사례 / CDC 공정 최적화 / 효과적인 CDC 적용을 위한 기본 조건 / DBMS의 기능 차이로 인한 변환 이슈를 소개합니다.",
+  "category": "기술",
+  "video": "https://tv.kakao.com/v/414072527",
+  "conference": "if(kakao) dev",
+  "year": 2020
+},{
+  "title": "미디어뷰",
+  "author": "김민찬",
+  "description": "뉴스 서비스에서 안정적이면서 빠르게 동적인 뷰를 만드는 방식에 대한 소개.\nWebflux, GraphQL, Cache, fallback을 적절히 이용하여 빠르고 안정적이게 동적인 뷰 페이지를 구성하는 방법",
+  "category": "기술",
+  "video": "https://tv.kakao.com/v/414129438",
+  "conference": "if(kakao) dev",
+  "year": 2020
+},{
+  "title": "비주얼 컴퓨팅을 활용한 카카오맵 파트 II",
+  "author": "박영욱",
+  "description": "카카오의 대표 서비스인 카카오맵!\n카카오맵은 비주얼 컴퓨팅 기술을 이용하여, 지도를 좀 더 빠르고 정확하게 그리고 효율적으로 만들기 위한 연구를 진행하고 있습니다. 이번 발표에서는 카카오맵에서 진행하고 있는 많은 연구 중, 'Spatial Connection Map'에 대하여 발표하고자 합니다.\n'Spatial Connection Map'은 영상 내에 다양한 오브젝트를 자동으로 검출하고, 검출된 오브젝트를 3차원 공간상에 결합하는 새로운 공간의 지도로서, 자동화 시스템/빠른 업데이트/다양한 확장성 등의 장점을 가지고 있습니다.\n'Spatial Connection Map'의 제작 과정, 그 안에 포함된 비주얼 컴퓨팅 기술, 이를 통한 활용방안에 대해 소개하도록 하겠습니다.",
+  "category": "기술",
+  "video": "https://tv.kakao.com/v/414072598",
+  "conference": "if(kakao) dev",
+  "year": 2020
+},{
+  "title": "스토리 안드로이드 앱의 화면 전환 애니메이션 적용기",
+  "author": "손정현",
+  "description": "Shared Elements Transition을 이용하여 자연스러운 화면 전환을 적용한 내용과 적용 과정에서 발생한 이슈들과 해결 방법에 대해서 공유하고자 합니다.",
+  "category": "기술",
+  "video": "https://tv.kakao.com/v/414128147",
+  "conference": "if(kakao) dev",
+  "year": 2020
+},{
+  "title": "신입으로 입사하기 vs 인턴으로 입사하기",
+  "author": "조준호, 송인아",
+  "description": "대한민국 개발자라면 누구나 궁금해할 카카오의 신입 개발자 채용 전형! 인턴과 공채 중 어떤 전형이 더 좋을까?\n우주와 페니가 펼치는 2020 겨울 신개념유쾌발랄흑당마라민트초코버블로맨스섹시코메디\n그리고 그들이 펼치는 구름 위 카카오의 클라우드 이야기!\n카카오톡, 카카오페이, 카카오내비, 다음 등 전 국민의 서비스를 지탱하는 카카오 클라우드팀의 속내를 들여다본다!",
+  "category": "기술",
+  "video": "https://tv.kakao.com/v/414199823",
+  "conference": "if(kakao) dev",
+  "year": 2020
+},{
+  "title": "애플워치로 어디서든 카카오톡을 읽어보자",
+  "author": "윤태중",
+  "description": "애플워치는 아이폰과 떨어져 있어도 사용 가능하도록 변화 중입니다. 카카오톡은 이에 맞게 애플워치를 단독으로도 사용할 수 있게 개발했습니다.\n올해 초에 애플워치 셀룰러 모델의 사용성을 향상하기 위해서 폰과 데이터를 공유하는 방식, 서버로부터 데이터를 가져오는 방식을 모두 지원하게끔 구조를 개선했습니다. 또한 애플워치를 애플워치답게 사용할 수 있도록 App 내 사용성뿐만 아니라 Complication도 지원했습니다.\n위 개발과정에 대해 간략하게 공유드리겠습니다.",
+  "category": "기술",
+  "video": "https://tv.kakao.com/v/414129420",
+  "conference": "if(kakao) dev",
+  "year": 2020
+},{
+  "title": "언택트 시대 상담의 진화",
+  "author": "김유미",
+  "description": "기술의 진화와 사회적 환경의 변화들이 가져온 고객 상담 트렌드의 변화를 짚어보고,\n채팅상담, 챗봇 기반의 무인상담, 코로나19 언택트 환경에서의 원격상담을 고도화하기 위해서\n카카오가 준비 중인 새로운 상담 센터를 소개하고 어떻게 비즈니스에 활용하는 게 좋을지 알려드립니다.",
+  "category": "비즈니스",
+  "video": "https://tv.kakao.com/v/414132055",
+  "conference": "if(kakao) dev",
+  "year": 2020
+},{
+  "title": "에디터 프로젝트와 Text Span",
+  "author": "이두영",
+  "description": "공용 에디터를 만들면서 문서 구조에 맞게 텍스트에 span 적용을 해봅니다.",
+  "category": "기술",
+  "video": "https://tv.kakao.com/v/414129360",
+  "conference": "if(kakao) dev",
+  "year": 2020
+},{
+  "title": "엔터프라이즈 환경에서의 ITSM 을 고려한 Kubernetes 도입",
+  "author": "홍석용",
+  "description": "카카오에서의 쿠버네티스 활용 사례와 엔터프라이즈 환경에서 쿠버네티스를 도입할 때, 전사적 ITSM 관점에서 고려해야 하는 사항들에 대해서 공유합니다.",
+  "category": "기술",
+  "video": "https://tv.kakao.com/v/414072321",
+  "conference": "if(kakao) dev",
+  "year": 2020
+},{
+  "title": "오픈 소스 기반 하이브 테이블 모니터링 시스템 만들기",
+  "author": "권성원",
+  "description": "오픈 소스를 사용해서 하이브 테이블 모니터링 시스템을 만든 경험을 공유합니다.\nInfluxDB와 Grafana를 이용해 만들면서 겪은 시행착오와 하이브 테이블을 모니터링하는 여러 가지 방법을 소개합니다. 해당 시스템을 이용해서 테이블보다 더 작은 단위(파티션 등)로 데이터들을 모니터링하고 있으며, 테이블 생성 잡 모니터링으로는 파악하기 어려운 장애들을 감지합니다.",
+  "category": "기술",
+  "video": "https://tv.kakao.com/v/413991774",
+  "conference": "if(kakao) dev",
+  "year": 2020
+},{
+  "title": "전 국민을 쉽게 내 고객으로, 카카오비즈니스",
+  "author": "이송민",
+  "description": "새로운 고객을 찾고 유지해나가야 하는 과제를 안고 계시나요?\n지금 바로, 카카오톡 안에서 이루어지는 마케팅 선순환 구조를 경험해보세요!\n\n4천만 전국민을 유저로 보유한 카카오톡에서 핵심 고객을 발견하다 보면, 어렵게만 느껴지던 비즈니스 성장에 대한 자신감을 갖게 되실 수 있습니다.",
+  "category": "비즈니스",
+  "video": "https://tv.kakao.com/v/414165101",
+  "conference": "if(kakao) dev",
+  "year": 2020
+},{
+  "title": "주니어 개발자가 말하는 카카오 FE팀",
+  "author": "김송현, 연주안, 이재일",
+  "description": "카카오 front-end팀의 주니어 개발자들이 소개하는 카카오와 front-end 팀",
+  "category": "기술",
+  "video": "https://tv.kakao.com/v/414004633",
+  "conference": "if(kakao) dev",
+  "year": 2020
+},{
+  "title": "추천 시스템, 써보지 않겠는가? - 맥락과 취향 사이 줄타기",
+  "author": "김영민, 안창배",
+  "description": "추천팀에서 진행한 픽코마 팝업 추천 프로젝트를 소개합니다.\n서비스의 전략에 적합한 추천 방식을 찾기 위해 개인화 추천과 연관 추천이라는 두 방식을 비교해본 실험 과정을 살펴보고, 실험 결과를 통해 알게 된 추천 타이밍, 유저의 취향, 그리고 콘텐츠를 소비하는 맥락 사이의 관계에 대한 인사이트를 공유합니다.",
+  "category": "기술",
+  "video": "https://tv.kakao.com/v/414129446",
+  "conference": "if(kakao) dev",
+  "year": 2020
+},{
+  "title": "카카오 FE 개발 서바이벌 키트 - 디버깅",
+  "author": "조정진",
+  "description": "다양한 사용자 환경에 대응하여 FE(Front End) 개발자가 디버깅하는 방법과 작은 팁\n- 개발자 도구를 활용하여, 다양한 환경에서 마주하는 버그를 추적하는 방법과 성능 개선을 위해서 활용할 수 있는 팁을 공유합니다.",
+  "category": "기술",
+  "video": "https://tv.kakao.com/v/414004678",
+  "conference": "if(kakao) dev",
+  "year": 2020
+},{
+  "title": "카카오 개발자의 찐세계",
+  "author": "김태진, 홍지인",
+  "description": "IT업계 내에서도 개발자들이 선호하는 직장으로 손꼽히는 카카오!!\n개발자들의 일하는 방식, 성장, 문화, 영입 등 다양한 질문에 대한 ‘찐’ 답변을\n현직 개발자들의 ‘직격 인터뷰’로 공개합니다.",
+  "category": "기술",
+  "video": "https://tv.kakao.com/v/414004630",
+  "conference": "if(kakao) dev",
+  "year": 2020
+},{
+  "title": "카카오 이모티콘, 당신이 몰랐던 이야기",
+  "author": "김희현",
+  "description": "매일 우리의 대화를 즐겁게 해주는 카카오 이모티콘 이야기.\n관계와 부캐, 다양성과 취향으로 이어지는 이모티콘의 트렌드를 소개하고 앞으로 카카오 이모티콘이 나아갈 서비스에 대한 이야기도 만나보실 수 있습니다.",
+  "category": "서비스",
+  "video": "https://tv.kakao.com/v/414072535",
+  "conference": "if(kakao) dev",
+  "year": 2020
+},{
+  "title": "카카오 입사 8개월 리얼 후기",
+  "author": "유웅진, 김가연",
+  "description": "입사 후 주니어 개발자로의 10개월간의 느낀 점에 대해 직접 신입 개발자들이 10개월간의 리뷰를 해보았습니다!\n카카오의 개발자가 되어 뿌듯했던 순간, 버그를 만나 당황했던 순간 등 10개월간의 시간 속에서\n성장하고 있는 신입 개발자들의 모습과 향후에 되고 싶은 개발자의 모습들을 대화에 녹여보았습니다.",
+  "category": "기술",
+  "video": "https://tv.kakao.com/v/414199776",
+  "conference": "if(kakao) dev",
+  "year": 2020
+},{
+  "title": "카카오와 MongoDB",
+  "author": "서동주",
+  "description": "MongoDB가 무엇이고 어떻게 동작하는지 간략한 설명과 함께 카카오 공동체에서 사용 중인 MongoDB의 현황과 주요 활용 사례를 공유합니다.\n카카오에서 MongoDB 를 어떻게 사용하는지 확인할 수 있습니다.",
+  "category": "기술",
+  "video": "https://tv.kakao.com/v/414072595",
+  "conference": "if(kakao) dev",
+  "year": 2020
+},{
+  "title": "카카오톡 4M/s 캐시 클러스터 전환기",
+  "author": "이재목, 김승섭",
+  "description": "카카오톡 서버의 캐시 클러스터를 k8s 상의 Redis farm으로 구축, 기존 Memcached 클러스터에서 무중단 전환한 경험을 공유합니다.",
+  "category": "기술",
+  "video": "https://tv.kakao.com/v/414132080",
+  "conference": "if(kakao) dev",
+  "year": 2020
+},{
+  "title": "카카오톡 사례로 살펴보는 견고한 안드로이드 앱 만들기",
+  "author": "채기병",
+  "description": "카카오톡 안드로이드 앱의 사례로 살펴보는 견고한 안드로이드 앱을 만드는 방법과 문화에 대해 고민한 내용을 공유합니다.",
+  "category": "기술",
+  "video": "https://tv.kakao.com/v/413991819",
+  "conference": "if(kakao) dev",
+  "year": 2020
+},{
+  "title": "카카오톡 시스템의 진화 - 테스트 자동화로 자신감 갖기",
+  "author": "신성열",
+  "description": "비즈니스 로직이 매우 복잡한 카카오톡 메시징 서비스에 BDD 테스트를 적용한 경험을 공유합니다. 오래된 서비스에 테스트 자동화 시스템을 적용하여 개발 및 운영에 대한 부담을 최소화한 이야기를 하고자 합니다.\n\n",
+  "category": "기술",
+  "video": "https://tv.kakao.com/v/414072577",
+  "conference": "if(kakao) dev",
+  "year": 2020
+},{
+  "title": "카카오톡 채널에서 상품구독 비즈니스를 만드는 법",
+  "author": "안진혁",
+  "description": "카카오톡만 있다면 모든 것을 구독할 수 있다.\n구독의 시대에 카카오톡 채널에서 렌탈/상품구독 비즈니스를 지원합니다. 많은 투자와 시간이 걸렸던 렌탈사업을 즉시 시작하고 성장시킬 수 있는 플랫폼과 마케팅 솔루션에 대해서 소개합니다.",
+  "category": "비즈니스",
+  "video": "https://tv.kakao.com/v/414131949",
+  "conference": "if(kakao) dev",
+  "year": 2020
+},{
+  "title": "카톡으로 뉴스를 배달해 드립니다.",
+  "author": "이선영",
+  "description": "뉴스봇(챗봇)은 사용자 키워드에 맞는 뉴스를 어떻게 빠르게 검색하고, 배달할 수 있는지 챗봇 시스템이 궁금한 개발자를 대상으로 간략히 소개하려고 합니다.\n뉴스봇 써보셨나요?\n뉴스봇 '채널 추가'하고 오늘의 뉴스브리핑을 받아보세요!",
+  "category": "기술",
+  "video": "https://tv.kakao.com/v/414132078",
+  "conference": "if(kakao) dev",
+  "year": 2020
+},{
+  "title": "콘텐츠를 위해 FE 개발자가 설계한 공통 데이터 모델과 활용",
+  "author": "이호영",
+  "description": "콘텐츠를 구성하는 요소와 속성들을 체계화한 공통 데이터 모델이 왜 필요했고, 만들어지게 되었는지와 신규 에디터를 통해 여러 서비스와 사용자에게 필요로 하는 기능을 제공하고, 또 그에 맞는 최적화된 뷰를 만들 수 있는 일련의 과정을 소개합니다.",
+  "category": "기술",
+  "video": "https://tv.kakao.com/v/414129425",
+  "conference": "if(kakao) dev",
+  "year": 2020
+},{
+  "title": "톡에서 발견하는 신규 고객, 카카오 X 정육각",
+  "author": "금세연, 이소해",
+  "description": "초.신선 돼지고기를 판매하는 정육각과 카카오가 만나면?\n카카오와 정육각이 만나게 된 과정, 그리고 톡 안에서 정육각의 신규 고객을 확보하게 된 이야기를 들어봅니다.",
+  "category": "비즈니스",
+  "video": "https://tv.kakao.com/v/414072194",
+  "conference": "if(kakao) dev",
+  "year": 2020
+},{
   "title": "Opening & OpenInfra Days Korea 2018 프로그램 소개",
   "author": "조성수, 안승규",
   "slide": "https://www.slideshare.net/openstack_kr/openinfra-days-korea-2018",
