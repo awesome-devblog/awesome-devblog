@@ -2303,6 +2303,11 @@
   rss: https://taeny.dev/rss.xml
   github: https://github.com/taenykim
   facebook: https://www.facebook.com/teun1215
+- name: 김태정
+  blog: https://velog.io/@livenow
+  rss: https://v2.velog.io/rss/@livenow
+  description: Java, Spring boot
+  github: https://github.com/Livenow14
 - name: 김태현
   blog: https://javaexpert.tistory.com/
   rss: https://javaexpert.tistory.com/rss
