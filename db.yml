@@ -797,6 +797,11 @@
   blog: https://www.dokyun.pe.kr/
   rss: https://www.dokyun.pe.kr/rss
   description: ''
+- name: 김도하
+  blog: https://blog.naver.com/adamdoha
+  rss: https://rss.blog.naver.com/adamdoha.xml
+  description: Spring, Java, Backend
+  github: https://github.com/adamdoha
 - name: 김도현
   blog: https://blog.naver.com/do9562
   rss: https://rss.blog.naver.com/do9562.xml
@@ -9844,8 +9849,3 @@
   rss: https://stricky.tistory.com/rss
   description: DB
   facebook: https://www.facebook.com/ricky.han.52438
-- name: 김도하
-  blog: https://blog.naver.com/adamdoha
-  rss: https://rss.blog.naver.com/adamdoha.xml
-  description: Spring, Java, Backend
-  github: https://github.com/adamdoha
