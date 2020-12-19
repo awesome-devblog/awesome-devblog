@@ -7813,11 +7813,6 @@
   blog: https://jdm.kr/blog/
   description: Java
   home: https://jdm.kr/
-- name: 정만수
-  blog: https://brunch.co.kr/@pronist
-  rss: https://brunch.co.kr/rss/@@5ZK0
-  description: 티도리
-  github: https://github.com/pronist
 - name: 정미나
   youtube: https://www.youtube.com/channel/UCoc7x15NFZ97UbwfdmMZxlw
 - name: 정미량
@@ -7878,6 +7873,11 @@
   blog: https://brunch.co.kr/@jsyqa
   rss: https://brunch.co.kr/rss/@@rqE
   description: 칼럼
+  - name: 정상우
+  blog: https://pronist.tistory.com
+  rss: https://pronist.tistory.com/rss
+  description: 웹, 블록체인, 칼럼
+  github: https://github.com/pronist
 - name: 정상혁
   blog: https://blog.benelog.net/
   rss: https://blog.benelog.net/feed.xml
