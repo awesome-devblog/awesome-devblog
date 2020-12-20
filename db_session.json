@@ -7472,6 +7472,200 @@
   "conference": "Pycon Korea",
   "year": 2019
 },{
+  "title": "파이썬 커뮤니티가 교육에 기여할 수 있는 것들",
+  "author": "송석리",
+  "slide": "",
+  "video": "",
+  "conference": "Pycon Korea",
+  "year": 2020
+},{
+  "title": "g0v.py / g0vernance.txt",
+  "author": "Chihhao Yu",
+  "slide": "",
+  "video": "",
+  "conference": "Pycon Korea",
+  "year": 2020
+},{
+  "title": "Light Up Your Life, with Python and LEDs!",
+  "author": "Nina Zakharenko",
+  "slide": "",
+  "video": "",
+  "conference": "Pycon Korea",
+  "year": 2020
+},{
+  "title": "파이썬으로 구현하는 신경세포 기반의 인공 뇌 시뮬레이터",
+  "author": "김성현",
+  "description": "현대 인공 신경망의 뿌리가 되었던 뇌 과학!\n\n\n이 발표에서는 인공 신경망에 대한 뇌 과학적 접근과,\n\n뇌 세포의 발화를 모사하는 파이썬 기반의 뉴로모픽 신경망 모델에 대한 사례를 공유할 예정입니다.\n\n\n뉴로모픽 신경망은 단순히 기존의 딥러닝에서 셀 구조만을 변경한 것이 아닙니다.\n\n실제로 실험을 수행하기 어려운 생물학적 한계점을 뇌 시뮬레이션을 통해서 극복할 수 있으며,\n\n나아가 뇌의 정보처리 메커니즘을 밝히고, 다양한 뇌 질환 치료제의 타겟을 연구하는데 아주 중요한 역할을 할 수 있습니다.\n\n\n이번 발표를 통해, 기계학습을 연구하고 있는 많은 연구자 분들에게 새로운 아이디어에 대한 영감이 될 수 있기를 희망합니다.",
+  "tags": ["Deep Learning & AI"],
+  "slide": "https://www.slideshare.net/qksksk657/2020-238330469",
+  "video": "https://www.youtube.com/watch?v=7ffvdJj4xlM",
+  "conference": "Pycon Korea",
+  "year": 2020
+},{
+  "title": "Django ORM (QuerySet)구조와 원리 그리고 최적화전략",
+  "author": "김성렬",
+  "description": "Django ORM  그중에 QuerySet에 대한 내용입니다. \n\nQuerySet을 이제 막 공부했거나 오래 사용했지만 그 깊이가 깊지 않다 생각하시는 분들에게 도움이 되고자합니다\n\nQuerySet의 구조를 설명하고  사용시 실수하기 쉬운부분들에 대해 설명합니다 \n\n발표 내용에  다 담지 못한 내용들은 발표 이후 개인Github 프로젝트를  통해  소개합니다",
+  "tags": ["Web Service"],
+  "slide": "https://github.com/KimSoungRyoul/Django_ORM_pratice_project/issues/7",
+  "video": "https://www.youtube.com/watch?v=EZgLfDrUlrk",
+  "conference": "Pycon Korea",
+  "year": 2020
+},{
+  "title": "글로벌 방송국 서비스 1인 개국기",
+  "author": "김주현",
+  "description": "100% 파이썬만으로 빠르고 유연하게 \"신규 방송 웹&앱서비스\"의 admin,cms,api,각종 지표 분석 데이터엔지니어링 batch까지 쉽게 통합 개발하여 런칭할 수 있었던 각종 팁들을 소개합니다",
+  "tags": ["Web Service"],
+  "slide": "https://www.slideshare.net/DrexlSpivey1/pyconkr2020-1-238359420",
+  "video": "https://www.youtube.com/watch?v=8Ue4L3F2YqA",
+  "conference": "Pycon Korea",
+  "year": 2020
+},{
+  "title": "대본 프롬프터 서비스에서의 문장 유사도 알고리즘 개발 경험 공유",
+  "author": "강지훈",
+  "description": "정치인, 아나운서들이 사용하는 대본 프롬프터 기기를 일반인들도 누구나 웹사이트에 접속할 수 있는 노트북로 대체할 수 있는 웹 서비스를 개발하였습니다.\n\n음성으로만 슬라이딩 할 수 있는 기능을 위해 문장 유사도 알고리즘을 분석하고 개발하였습니다.\n\n실시간성이 중요한 발표 상황을 위해 문장 유사도 알고리즘을 의미적으로 분석하면서 겪은 시행 착오들과 발화적으로 분석하면서 구현한 내용을 공유드립니다.",
+  "tags": ["Web Service"],
+  "slide": "https://www.slideshare.net/jihoonkang29/pycon-korea-2020-238626016",
+  "video": "https://www.youtube.com/watch?v=iTXrAQWPc5k",
+  "code": "https://github.com/thisishoon/django-script-slide",
+  "conference": "Pycon Korea",
+  "year": 2020
+},{
+  "title": "청각 장애인의 발음 교정 어플리케이션을 위한 음성인식 모델 개발기",
+  "author": "문영기",
+  "description": "저희는 소리를 듣기 어려운 청각장애인들이 발성 과정에서도 문제를 겪을 수 있다는 사실을 인지하고, 이에 대해 스스로 피드백을 받을 수 있다면 좋을 것이라 생각했습니다. 저희는 청각장애인들이 보다 편하게 해당 이슈에 접근할 수 있도록 하기 위해, 청각 장애인의 음성 발화를 입력받아 이에 대해 단어, 문장 차원에서의 피드백을 줄 수 있는 어플리케이션을 구상하였습니다. 이 과정에서, 다화자의 음성 발화를 통해 학습된 음성인식 모델을 활용하면 보다 효과적으로 발음에 피드백을 줄 지표를 마련할 수 있다는 것에 주목하였습니다. 한국어 음성인식 모델을 직접 학습하여 앱에 적용해나가는 과정의 기록을 공유해보고자 합니다.",
+  "tags": ["Deep Learning & AI"],
+  "slide": "https://www.slideshare.net/YoungkiMoon1/sharing-development-experience-of-educational-apps-for-the-hard-of-hearing-pyconkr-2020",
+  "video": "https://www.youtube.com/watch?v=w3VpqMOCic0",
+  "conference": "Pycon Korea",
+  "year": 2020
+},{
+  "title": "투어라이브 서비스를 Python으로 이사하기",
+  "author": "김지훈",
+  "description": "",
+  "tags": ["후원사 세션"],
+  "slide": "",
+  "video": "https://www.youtube.com/watch?v=AWb0YVqHtTk",
+  "conference": "Pycon Korea",
+  "year": 2020
+},{
+  "title": "Building Petabyte Scale ML Models with Dask/ Tensorflow",
+  "author": "Vaibhav Srivastav",
+  "description": "",
+  "tags": ["Data Science"],
+  "slide": "",
+  "video": "https://www.youtube.com/watch?v=lxFKFB_yYWs",
+  "conference": "Pycon Korea",
+  "year": 2020
+},{
+  "title": "Backend.AI에 점진적 typing 적용하기",
+  "author": "김준기",
+  "description": "지난 몇 년간 파이썬 3의 주요 개발 이슈 중 하나로는 타입 주석(type annotation)의 도입을 들 수 있습니다. 말 그대로 주석이기 때문에 코드가 실행될 때 영향을 끼치지는 않지만, 타입 주석을 잘 활용하면 PyCharm, VSCode, vim-lsp와 같은 IDE 환경을 사용할 때 코드 가독성을 높여주고 자동완성 기능이 보다 정확하게 동작하도록 도와주며, 런타임에 발생할 수 있는 버그나 코드 작성 과정에서의 실수를 줄여줍니다.\n\n\"Sorna\"라는 이름으로 발표했던 Backend.AI 프레임워크 개발 과정을 통해 7만줄 이상의 코드를 작성하기 위해 타입 주석을 어떻게 도입했는지에 대한 경험을 공유하고자 합니다. 타입 주석을 기초부터 전체적으로 소개하기보다는, 튜토리얼만 보고는 바로 알기 어려운, 실제 실무에서 부딪히는 타입 주석 사례들을 함께 살펴봅니다.\n\n- 타입 주석 개념과 도입 효과\n- 타입 주석을 활용하는 개발환경 준비하기 (VSCode, vim-lsp)\n- 코루틴과 제네레이터에 타입 주석 넣기\n- Protocol로 복잡한 타입 정의 및 조합하기\n- Generic으로 플러그인 시스템 설계하기\n- 동적 타입 검사를 보완적으로 활용하기 (JSON + trafaret)\n- Python 미래 버전의 타입 주석 관련 기능 소개",
+  "tags": ["Python Core & Fundamental"],
+  "slide": "https://speakerdeck.com/achimnol/pycon-kr-backend-dot-aie-jeomjinjeog-typing-jeogyonghagi",
+  "video": "https://www.youtube.com/watch?v=9njdWZaTZYs",
+  "conference": "Pycon Korea",
+  "year": 2020
+},{
+  "title": "Python and FOSS in Education for Generation Z",
+  "author": "Gajendra Deshpande",
+  "description": "",
+  "tags": [],
+  "slide": "",
+  "video": "https://www.youtube.com/watch?v=KT-W2zWkD0c",
+  "conference": "Pycon Korea",
+  "year": 2020
+},{
+  "title": "Python을 사용하는 데이터 과학자를 위한 서버 없는 WebAssembly 기반 과학 연산 환경 만들기",
+  "author": "신정규",
+  "description": "머신러닝 및 데이터 과학 분야는 갈수록 많은 연산 자원을 요구합니다. 고성능 컴퓨팅 자원은 초대규모 연산 환경과 클라우드로 집중되고 있습니다. 동시에, 머신러닝 및 데이터 과학에 입문하는 사람들 또한 해가 갈수록 늘어나고 있습니다. 서버 연산 자원만 늘어나는 것이 아니라 개인용 컴퓨터의 연산 자원 또한 빠르게 증가하고 있습니다. 그럼 이 환경을 좀 더 쉽게 잘 써서 어디서나 Python 기반의 과학 연산을 쉽게 해 볼 수 있는 방법은 없을까요? 아직 입문자라서 분산 처리나 대용량 파이프라인까진 안 가도 되는 경우라면 더더욱!\n\n이 세션에서는 Python 기반의 과학 연산 환경 및 머신러닝 환경을 서버측 연산 없이 브라우저 엔진을 통해 사용하는 방법에 대해 알아봅니다. 최근 몇 년 동안의 웹환경을 둘러싼 기술적인 변화가, WebAssembly 기반의 과학 연산환경을 구축하려는 Mozilla 재단의 실험 프로젝트인 Iodide 프로젝트로 이어진 과정을 설명합니다. 그 후 Iodide를 이용하여 WebAssembly기반의 Python 환경을 구축하는 Pyodide 프로젝트 및 빌드 과정을 소개합니다. Pyodide를 이용하여, 브라우저 단독으로 실행 가능한 Python 환경을 제공하는 오픈소스 데스크탑 앱 및 웹을 개발한 경험을 공유합니다. 몇 가지 Python+WebAssembly 기반의 과학 연산 예시를 데모하고, 브라우저의 Python 스니펫으로 HTML을 실시간으로 제어하는 재미있는 응용 예를 웹으로 시연합니다. 마무리로는 WebAssembly 기반의 python 런타임 및 과학 연산 환경의 기술적인 한계와 함께, 상상해 볼 수 있는 앞으로의 응용 가능성에 대해 고민해 보겠습니다.",
+  "tags": ["Data Science"],
+  "slide": "https://speakerdeck.com/inureyes/creating-a-serverless-python-environment-for-scientific-computing-with-webassembly-for-data-scientists-and-python-lovers",
+  "video": "https://www.youtube.com/watch?v=wsbtgoPPr1o",
+  "conference": "Pycon Korea",
+  "year": 2020
+},{
+  "title": "왕초보 파이썬 코딩교육 삽질기",
+  "author": "이범규",
+  "description": "",
+  "tags": ["후원사 세션"],
+  "slide": "",
+  "video": "https://www.youtube.com/watch?v=YEBquBub0rQ",
+  "conference": "Pycon Korea",
+  "year": 2020
+},{
+  "title": "제로부터 시작하는 신나는 Python생활",
+  "author": "라스",
+  "description": "Python은 정말로 재미있는 언어입니다. 이 발표에서는 신기하고 재미있는 Python의 기능들을 소개합니다. Python으로 공부만 하는 것은 지루하니 Python으로 놀아보는 것은 어떤가요!",
+  "tags": [],
+  "slide": "",
+  "video": "https://www.youtube.com/watch?v=Ei4KYlHYUic",
+  "conference": "Pycon Korea",
+  "year": 2020
+},{
+  "title": "금융 언어 이해를 위해 개발된 ALBERT 톺아보기",
+  "author": "오성우",
+  "description": "최근 자연어처리 분야는 사전학습한 언어모델들(PLMs) (e.g. BERT, XLNet, ALBERT, ELECTRA)을 활용한 미세조정 등을 하는 것이 \n\n일반적이게 됐습니다.  최근 가장 인기있는 라이브러리 중 하나인 \uD83E\uDD17 Transformers를 통해 자신의 목적에 맞게\n\n초보자부터 전문적인 딥러닝 연구자까지 누구나 쉽게 블록 형태로 transformer 아키텍처를 불러와 사용할 수 있게 되었습니다.\n\n이번 발표가 자신의 데이터를 가지고 최신 SOTA PLM을 활용해 NLP 및 Text Mining을 해보기를 원하는 분들에게 도움이 될 수 있기를 바랍니다.\n\n그리고 금융 분야에 대한 Domain Adaptation 관련된 약간의 내용을 담았습니다.",
+  "tags": ["Deep Learning & AI"],
+  "slide": "https://github.com/sackoh/pycon-korea-2020-kb-albert/blob/master/assets/PyConKR-2020_오성우_금융 언어 이해를 위해 개발된 ALBERT 톺아보기_v1.0.pdf",
+  "video": "https://www.youtube.com/watch?v=1xSzcbLgq7Q",
+  "code": "https://github.com/sackoh/pycon-korea-2020-kb-albert",
+  "conference": "Pycon Korea",
+  "year": 2020
+},{
+  "title": "파이썬으로 맛보는 프로그램 분석 101",
+  "author": "박지수",
+  "description": "",
+  "tags": ["후원사 세션"],
+  "slide": "",
+  "video": "https://www.youtube.com/watch?v=BioMS1906k8",
+  "conference": "Pycon Korea",
+  "year": 2020
+},{
+  "title": "세상을 한 발자국 더 넓히고 싶었던 우리의 이야기",
+  "author": "오주영, 오시영",
+  "description": "부제: 누구나 포용될 수 있는 행사를 상상해보셨나요?\n\n\n파이콘 한국 준비위원회가 들려드리는 파이콘 한국 이야기 - 현재 진행 중인 파이콘의 CoC\n\n우리는 파이콘 한국에서 여러분이 자신 그대로 존중받기를 바랍니다. 그리고 그 이상적인 공간을 만들고자 시도하고 노력합니다. \n\n비록 아직 완벽하지는 않지만 우리의 시도가 가져올 미래를 상상하며 함께 만들어 갑니다.  \n\n\n파이콘 한국에서의 행동강령(이하 CoC)의 의미와 파이콘 한국 준비위원회에서 어떤 방법으로 CoC를 지키기 위한 시도를 하는지에 대한 설명을 합니다.\n\n이 세션으로 인해 CoC 가 조금 더 참가자들에게 가깝게 와 닿을 수 있기를 바랍니다.",
+  "tags": ["파이콘 한국 준비위원회"],
+  "slide": "",
+  "video": "https://www.youtube.com/watch?v=vJHe5bqTRZU",
+  "conference": "Pycon Korea",
+  "year": 2020
+},{
+  "title": "Elastic App Search 로 파이썬 애플리케이션에서 검색 기능 사용하기",
+  "author": "김종민",
+  "description": "",
+  "tags": ["후원사 세션"],
+  "slide": "",
+  "video": "https://www.youtube.com/watch?v=0rpe2hfn5Sc",
+  "conference": "Pycon Korea",
+  "year": 2020
+},{
+  "title": "Your Escape Plan From Numpy + Cython",
+  "author": "Cheng-Lin Yang",
+  "description": "",
+  "tags": ["Data Science"],
+  "slide": "",
+  "video": "https://www.youtube.com/watch?v=DYjXXLjK44U",
+  "conference": "Pycon Korea",
+  "year": 2020
+},{
+  "title": "기술블로그 파이썬으로 정적블로그 시작하자",
+  "author": "황창현",
+  "description": "",
+  "tags": [],
+  "slide": "https://drive.google.com/file/d/13ULSTS7647_T5BekFwMOcxOc72z08Wgv/view",
+  "video": "https://www.youtube.com/watch?v=wY7NBE6exz0",
+  "conference": "Pycon Korea",
+  "year": 2020
+},{
+  "title": "영문과가 데이터 분석하러가서 영어 배우고 온 썰",
+  "author": "손지은",
+  "description": "",
+  "tags": [],
+  "slide": "https://drive.google.com/file/d/1nt4S7utRxDbZObU5D_cWRyOf-s2hf4Bp/view",
+  "video": "https://www.youtube.com/watch?v=wY7NBE6exz0?t=252",
+  "conference": "Pycon Korea",
+  "year": 2020
+},{
   "title": "Performance Optimization",
   "author": "Robin Rheem",
   "slide": "https://drive.google.com/open?id=1GyQtv3Tv5g32TFVUgMmJj4CGt3E5KmQV",
