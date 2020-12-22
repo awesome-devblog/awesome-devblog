@@ -7666,6 +7666,195 @@
   "conference": "Pycon Korea",
   "year": 2020
 },{
+  "title": "이 선 넘으면 침범이야, BEEP!",
+  "author": "문지형",
+  "description": "온라인에서 발생하는 혐오표현은 널리 알려진 사회적 문제입니다. 익명성 때문에 혐오의 강도가 오프라인에 비해 더욱 세고, 온라인 상에 기록되기 때문에 그 내용을 지지하는 집단만 있다면 쉽게 불특정다수에게 확산되어 피해의 강도가 증폭됩니다. 최근에 발생한 일련의 비극적인 사건들로 포털 사이트들은 연예 및 스포츠 뉴스의 댓글란을 폐쇄하는 조치를 취했지만 그 곳이 아니더라도 혐오 발언은 어딘가에서 계속 표출이 되고 있기 때문에 다소 아쉬울 수 있는 해결책입니다.\n\n이 때문에 어떤 텍스트에 혐오발언이 담겨 있는지 아닌지를 검출하는 모델은 불필요한 곳에서의 혐오 확산 및 노출을 제어할 수 있다는 면에서도, 표현의 자유를 침해하지 않고도 혐오발언으로 인한 피해를 감소시킬 수 있기 때문에도 중요합니다.\n\n하지만 좋은 혐오탐지 모델 개발을 위해서는 우선, 좋은 데이터셋이 필요합니다. 그래서 이번 발표에서는 데이터를 구축하기 위해 했던 고민과 삽질기, 그리고 완성된 데이터를 활용해서 학습한 혐오탐지 모델을 소개할 예정입니다. 발표를 통해 혐오발언에 대한 다양한 논의와 모델 개선을 위해 필요한 작업들에 대한 토의가 이루어지길 기대합니다.\n\n",
+  "tags": ["Life / Social"],
+  "slide": "https://www.slideshare.net/JiHyungMoon1/pyconkr2020-beep-238646571",
+  "video": "https://www.youtube.com/watch?v=P0fyKb3U9yo",
+  "conference": "Pycon Korea",
+  "year": 2020
+},{
+  "title": "파이썬으로 법률 역사 연구하기",
+  "author": "김재윤",
+  "description": "안녕하세요, 입법을 연구하는 대학원생입니다. \n법률 데이터 분석 방법과 시행착오 과정을 공유합니다. \n\n목차\n\n    한국법의 탄생: 조선총독부법령의 그늘\n    징벌적 손해배상의 오래된 미래\n    타자기에서 워드프로세서로\n    법률안 유사도 검사\n    정책 증거로서의 법률 데이터",
+  "tags": ["Life / Social"],
+  "slide": "https://drive.google.com/file/d/1IjcXtakhhwLIC8jklWpWLqxb6ga3L0b1/view",
+  "video": "https://www.youtube.com/watch?v=-teop71JmbQ",
+  "conference": "Pycon Korea",
+  "year": 2020
+},{
+  "title": "자연어처리 초보자의 BERT 도전기",
+  "author": "김윤기",
+  "description": "1. BERT 모델 소개\n2. BERT 모델을 활용한 KorQuAD 2.1 도전기\n3. 2달 동안의 시행착오 - Hugginface Transformers, 한국어 인코딩 문제, 멀티프로세싱 최적화 등\n4. 앞으로 계획 - 한국어 GPT-3 도전",
+  "tags": ["후원사 세션"],
+  "slide": "https://www.slideshare.net/ssuser78d9d6/pycon2020-nlp-beginners-bert-challenge",
+  "video": "https://www.youtube.com/watch?v=6JyuhLDopb0",
+  "conference": "Pycon Korea",
+  "year": 2020
+},{
+  "title": "TDD와 Flipped Classroom을 활용한 파이썬 교육",
+  "author": "설진석",
+  "description": "대학에 와서 프로그래밍 관련 수업을 처음 듣는 학부 1학년 학생들\n\n그 중에서도 공과대학이 아닌 학생만 들을 수 있는 분반에서\n\n파이썬을 재밌고 효과적으로 가르치기 위해 시도했던 교수법들을 소개합니다.\n\nFlipped Classroom을 사용해서 파이썬 이론 교육을 강화하고\n\nTDD를 접목 시켜서 파이썬 실습 교육을 진행했습니다.\n\n두 가지 개념이 무엇이고, 어떻게 교육에 적용시켜서 어떠한 결과가 나왔는지에 대해 설명합니다.",
+  "tags": ["Life / Social"],
+  "slide": "https://drive.google.com/file/d/1hK8SXzYoCtsUmaxC2y9So-xr9Rpjlbfb/view?usp=sharing",
+  "video": "https://www.youtube.com/watch?v=P9QDCcpFtSM",
+  "conference": "Pycon Korea",
+  "year": 2020
+},{
+  "title": "Publishing well-formed Python packages",
+  "author": "Julin Shaji",
+  "description": "A package that is well-formed has a kind of structure that makes development and testing easier and less error-prone. Working with such a package is a pleasant experience. Let's talk about some practices, along with tools that help us follow those practices, which can be used to create a well-formed package.",
+  "tags": ["Development Method with Python"],
+  "slide": "https://drive.google.com/file/d/1eE4_iunN8ghK4M08Fm5i5pj-fm3Sa4rk/view",
+  "video": "https://www.youtube.com/watch?v=XFGXCK6HZbk",
+  "conference": "Pycon Korea",
+  "year": 2020
+},{
+  "title": "Automated Newsletter Service for Your Valuable Community",
+  "author": "박찬성",
+  "description": "background knowledge\n\n    about the nature of TensorFlow Korea community\n    drawbacks in Facebook Group for sharing/searching past information\n    the reason why we need to launch newsletter service for your community\n\ntechnical contents\n\n    basic pipeline and required components to build newsletter service\n    why we need to have two sensitive and non-sensitive configurations separately\n    how to access Facebook contents without officially approved app\n    : during the COVID19, Facebook is pausing individual verification process\n    some libraries including Jinja2, markdown2, premailer\n    what GitHub Action is, and how to use it for task automation\n    MLOps pipeline with GitHub Action, DVC, and CML",
+  "tags": ["Life / Social"],
+  "slide": "https://drive.google.com/file/d/1bbFGF4FWidptvSjp_NJ33rHleJ51h63k/view",
+  "video": "https://www.youtube.com/watch?v=3HtXWmqu_-A",
+  "conference": "Pycon Korea",
+  "year": 2020
+},{
+  "title": "Python 기반 정적 (Static) 웹 사이트를 DevOps와 클라우드로 빌드하기",
+  "author": "최영락, 유저스틴",
+  "description": "PyCon 콜롬비아 ( URL: https://www.pycon.co) 홈페이지가 Lektor라는 Static 생성기를 활용해 만들어졌다는 것을 혹시 아실까요? 본 발표에서는 HTML, CSS, JavaScript로만 만들어진 Static (정적) 사이트 빌드를 위한 Python 라이브러리를 DevOps와 클라우드 환경에서 어떤 식으로 동작하는지를 살펴봅니다. Pelican, Lektor, Sphinx 등 Python 기반으로 된 주요 정적 사이트 프레임워크를 GitHub Actions과 Azure Static Web Apps를 통해 DevOps 및 클라우드 환경에서 Static 사이트를 구축하는 과정을 본 세션에서 만나보세요!",
+  "tags": ["후원사 세션"],
+  "slide": "",
+  "video": "https://www.youtube.com/watch?v=PwEFsRIm3x4",
+  "conference": "Pycon Korea",
+  "year": 2020
+},{
+  "title": "주식투자를 위한 비정형 데이터 활용",
+  "author": "Jay Han",
+  "description": "1. 발표의 목적이나 주제\n- 비정형 데이터를 주식투자에 활용하는 사례 공유\n- 전자공시, 뉴스, 신규상장주 등을 주제로 다룰 예정\n- 막상 활용하기 어려운 비정형 데이터를 어떻게 수집하고 활용하는지 등에 대한 내용을 다룰 것임\n\n- 정형데이터(주가, 재무 등)만을 활용한 투자 로직보다 훨씬 다양한 로직 개발 가능\n- 일반적으로 시계열데이터로 대표되는 정형데이터를 활용하지만,\n- 비정형 데이터를 활용한다면, 더욱 투자성과를 높일 수 있음.\n\n2.발표 내용의 순서\n-- 비정형 데이터에 대한 이해\n(왜 비정형 데이터를 활용해야 하는가?)\n\n-- 전자공시의 활용\n실시간 분석이 필요한 전자공시\n유사사례 분석이 필요한 전자공시\n일정 데이터를 활용할 수 있는 전자공시\n실제 투자 로직 개발\n\n-- 뉴스의 활용\n네이버 API활용한 수집\n각 출처에서 수집\n빠른 수집이 중요한 뉴스 + 향후 일정 정보 추출 필요한 뉴스\n뉴스 데이터를 활용한 투자 로직 개발\n\n-- 신규상장주\n신규 상장주 관련 투자데이터의 특징\n신규 상장주 데이터 수집\n의사결정 트리 모델을 활용한 분석 성과 비교\n\n-- 비정형 데이터의 특징과 적용 사례",
+  "tags": ["Data Analytics"],
+  "slide": "",
+  "video": "https://www.youtube.com/watch?v=c0J5uK5cglI",
+  "conference": "Pycon Korea",
+  "year": 2020
+},{
+  "title": "pandas 코드로 대규모 클러스터에서 더 빠르게 빅데이터를 분석 해보자 - Koalas",
+  "author": "박현우",
+  "description": "pandas는 전세계 많은 분석가들이 표준으로 사용하는 라이브러리 입니다\n\n데이터가 늘어날수록 분석 속도가 느려져서 고민해본 경험이 있으신가요?\n\nKoalas는 pandas 라이브러리에 익숙한 데이터 분석가들이 같은 코드를 사용하여, \n\n대규모 병렬처리 엔진(Apache Spark)을 고민없이 활용 가능하여 빅데이터 분석이 가능하도록 도와줍니다. \n\n이번 발표에서는 데이터 분석가와 엔지니어의 역할과 오픈소스 프로젝트인 Koalas에 대한 소개와 활용성에 관해 이야기하고자 합니다.",
+  "tags": ["Data Analytics "],
+  "slide": "",
+  "video": "https://www.youtube.com/watch?v=Y9kdUq_qIa8",
+  "conference": "Pycon Korea",
+  "year": 2020
+},{
+  "title": "직렬화 포맷 개량과 라이브러리 구현",
+  "author": "이도건",
+  "description": "암호학적 해시나 디지털 서명 등의 입력으로 직렬화된 데이터를 쓰려면, 해당 입력 데이터는 같은 의미에 대해서는 일관된 표현을 가져야 합니다. 하지만 JSON 등 널리 쓰이는 직렬화 포맷은 \"a\"와 \"\\x61\"과 같이 하나의 의미를 여러 방식으로 표현할 수 있기 때문에, 의미는 같은데 해시나 서명이 달라지는 일이 발생하게 됩니다. 이런 문제를 해결하기 위해 여러 직렬화 포맷을 서베이하고, 그 중에서 가장 적절한 것을 좀더 개량한 뒤 Pythonic하게 구현한 경험을 공유합니다.",
+  "tags": ["Python Library"],
+  "slide": "https://www.slideshare.net/ssuser816abd/pycon-korea-2020-238651563",
+  "video": "https://www.youtube.com/watch?v=Z4nx-cONpAc",
+  "conference": "Pycon Korea",
+  "year": 2020
+},{
+  "title": "파이썬 대패키지시대, requirements 텍스트 파일 하나만 믿어도 정말 괜찮은 걸까",
+  "author": "강민철",
+  "description": "pip를 이용한 패키지 의존성 관리(requirements.txt)에 대한 문제의식을 공유하고,\n\n더 나은 패키지 관리를 위한 대안(pip-tools, pipenv, poetry)들을 소개하며,\n\n각각에 대한 기능 비교 및 성능 분석 결과를 공유할 예정입니다.\n\n(세션에 대한 이해를 돕기 위해 발표 초반 관련 배경지식에 대한 짧은 설명도 있을 예정입니다.)",
+  "tags": ["Python Library"],
+  "slide": "https://github.com/kangtegong/pycon-session-release",
+  "video": "https://www.youtube.com/watch?v=y2kqs4d-Wf0",
+  "conference": "Pycon Korea",
+  "year": 2020
+},{
+  "title": "Honey, Python inside Android is under control!",
+  "author": "James Ing Wei Tang",
+  "description": "",
+  "tags": ["Robotics / Embedded System"],
+  "slide": "",
+  "video": "https://www.youtube.com/watch?v=WAg21xbYJCo",
+  "conference": "Pycon Korea",
+  "year": 2020
+},{
+  "title": "gRPC 프레임워크를 만들며 알아보는 파이썬",
+  "author": "신재현",
+  "description": "flask와 유사한 인터페이스의 grpc 프레임워크를 만드는 과정과\n\n프레임워크를 만들면서 사용한 파이썬 내장 모듈에 대해 설명합니다.",
+  "tags": ["Python Library"],
+  "slide": "https://www.slideshare.net/wesky93/grpc-2020",
+  "video": "https://www.youtube.com/watch?v=UbdCFocZ7GM",
+  "conference": "Pycon Korea",
+  "year": 2020
+},{
+  "title": "이미지 프로세싱 in python 그리고 오픈소스",
+  "author": "한성민",
+  "description": "파이썬의 이미지 프로세싱은 Computer Vision과 Deep Learning 연구자들과 개발자들이 많이 사용하고 있으며,\n\n라이브러리 생태계는 지속적으로, 발전하고 있고 요구되고 있습니다.\n\n\n하지만, 여전히 오픈 소스 생태계에서 제공되는 라이브러리들의 기능으로는 섬세한 이미지 편집을 지원하지 못합니다.\n\n즉 앞으로도 꾸준히 파이썬 이미지 프로세싱 라이브러리의 생태계는 기여와 발전이 필요합니다.\n\n\n오늘 여러분에게 제가 오픈소스 이미지 라이브러리에 기여하며 겪었던 경험과 시행착오들을 공유드리고자 합니다.",
+  "tags": ["Python Library"],
+  "slide": "https://www.slideshare.net/KennethCeyer/in-python-open-source-pycon-korea-2020",
+  "video": "https://www.youtube.com/watch?v=W0RbWxMSyuw",
+  "conference": "Pycon Korea",
+  "year": 2020
+},{
+  "title": "How to use Python in Video streaming service",
+  "author": "김애영",
+  "description": "스트리밍 서비스를 구축하기 위해선 어떤 기술들이 필요할까요? ODK Media에 대한 짧막한 소개와 함께 이미지, 비디오와 같은 스트리밍에 필수적인 에셋 관리, 서비스 API, 백오피스, 데이터 파이프라인 등에 Python을 어떻게 사용하고 있는지 이야기합니다.",
+  "tags": ["후원사 세션 "],
+  "slide": "https://www.slideshare.net/AeYeongKim/how-to-use-python-in-video-streaming-service-pycon-korea-2020-238652306",
+  "video": "https://www.youtube.com/watch?v=2lR9-U0LnQs",
+  "conference": "Pycon Korea",
+  "year": 2020
+},{
+  "title": "Bring your Python script to more users!",
+  "author": "nikkie",
+  "description": "",
+  "tags": ["Python Library"],
+  "slide": "",
+  "video": "https://www.youtube.com/watch?v=777gSFOAaSA",
+  "conference": "Pycon Korea",
+  "year": 2020
+},{
+  "title": "type-docopt : Pythonic command line arguments parser with types",
+  "author": "조용래",
+  "description": "",
+  "tags": ["Python Library"],
+  "slide": "",
+  "video": "https://www.youtube.com/watch?v=2cwBZKA-n8s",
+  "conference": "Pycon Korea",
+  "year": 2020
+},{
+  "title": "파이콘 한국 역사 7년, 온라인 파이콘은 저희도 처음이라...",
+  "author": "홍연의",
+  "description": "올해로 7년째 개최되는 파이콘 한국.\n\n설레는 마음으로 준비를 시작했던 파이콘 한국 2020은 전례없는 상황에 의하여 '온라인'으로 개최하게 되었습니다.\n\n파이콘 한국 2020이 온라인으로 변경되기까지 파이콘 한국 준비위원회는 어떤 논의 과정을 거쳤는지,\n\n그리고 온라인 파이콘 한국은 이전과 무엇이 달라졌는지 공유합니다 :)",
+  "tags": ["파이콘 한국 준비위원회"],
+  "slide": "https://www.slideshare.net/ssuser9ad176/pycon-korea-2020-7-238659455",
+  "video": "https://www.youtube.com/watch?v=wsi3wWvu99U",
+  "conference": "Pycon Korea",
+  "year": 2020
+},{
+  "title": "양자한테 얽힌 개발자",
+  "author": "김효린",
+  "description": "",
+  "tags": ["라이트닝 토크"],
+  "slide": "",
+  "video": "https://www.youtube.com/watch?v=s8yBnEcOYN8",
+  "conference": "Pycon Korea",
+  "year": 2020
+},{
+  "title": "비전공자가 커뮤니티로 파이썬하기",
+  "author": "정우주",
+  "description": "",
+  "tags": ["라이트닝 토크"],
+  "slide": "",
+  "video": "https://youtu.be/s8yBnEcOYN8?t=306",
+  "conference": "Pycon Korea",
+  "year": 2020
+},{
+  "title": "Since Pycon, 세상 밖으로",
+  "author": "이제현",
+  "description": "",
+  "tags": ["라이트닝 토크"],
+  "slide": "",
+  "video": "https://youtu.be/s8yBnEcOYN8?t=568",
+  "conference": "Pycon Korea",
+  "year": 2020
+},{
   "title": "Performance Optimization",
   "author": "Robin Rheem",
   "slide": "https://drive.google.com/open?id=1GyQtv3Tv5g32TFVUgMmJj4CGt3E5KmQV",
