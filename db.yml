@@ -886,6 +886,12 @@
   facebook: https://www.facebook.com/profile.php?id=100008189377563
   linkedin: https://www.linkedin.com/in/dongeun-kim-114a44187
   youtube: https://www.youtube.com/channel/UCB_qK0V8LR73NMYjtz29O9A
+- name: 김동이
+  blog: https://velog.io/@dongyi
+  rss: https://v2.velog.io/rss/dongyi
+  linkedin: https://www.linkedin.com/in/dongyikim/
+  github: https://github.com/dongyi-kim
+  facebook: https://www.facebook.com/dongyi93
 - name: 김동인
   blog: https://velog.io/@owljoa
   rss: https://v2.velog.io/rss/owljoa
@@ -4955,7 +4961,7 @@
   facebook: https://www.facebook.com/mytorydev
   github: https://github.com/mytory
 - name: 안홍범
-  blog: https://medium.com/@hongbeomi
+  blog: https://hongbeomi.medium.com/
   rss: https://medium.com/feed/@hongbeomi
   facebook: https://www.facebook.com/profile.php?id=100004676797441
 - name: 안홍선
