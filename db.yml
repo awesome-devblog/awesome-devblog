@@ -4467,18 +4467,6 @@
   rss: https://medium.com/feed/@it_sjh9973
   description: ''
   twitter: https://twitter.com/it_sjh9973
-- name: 신선영
-  blog: https://shinsunyoung.tistory.com/
-  rss: https://shinsunyoung.tistory.com/rss
-- name: 신주범
-  blog: https://bum752.github.io
-  rss: https://bum752.github.io/feed.xml
-  linkedin: https://www.linkedin.com/in/jubeom/
-  github: https://github.com/bum752
-- name: 신준희
-  blog: https://www.linkedin.com/in/jun-hee-shin-b4241a50/detail/recent-activity/posts/
-  facebook: https://www.facebook.com/sjhstorm
-  linkedin: https://www.linkedin.com/in/jun-hee-shin-b4241a50/
 - name: 송창안
   blog: https://blog.naver.com/casong99
   rss: https://rss.blog.naver.com/casong99.xml
@@ -4578,6 +4566,9 @@
   rss: https://doublsb.tistory.com/rss
   description: Unity, C#
   twitter: https://twitter.com/DoublSB_dev
+- name: 신선영
+  blog: https://shinsunyoung.tistory.com/
+  rss: https://shinsunyoung.tistory.com/rss
 - name: 신승환
   blog: http://www.talk-with-hani.com/
   description: ''
@@ -4644,6 +4635,15 @@
   slideshare: https://www.slideshare.net/ShinJeongah
   github: https://github.com/Jeongah-Shin
   home: http://jeongari.com/
+- name: 신주범
+  blog: https://bum752.github.io
+  rss: https://bum752.github.io/feed.xml
+  linkedin: https://www.linkedin.com/in/jubeom/
+  github: https://github.com/bum752
+- name: 신준희
+  blog: https://www.linkedin.com/in/jun-hee-shin-b4241a50/detail/recent-activity/posts/
+  facebook: https://www.facebook.com/sjhstorm
+  linkedin: https://www.linkedin.com/in/jun-hee-shin-b4241a50/
 - name: 신지웅
   blog: https://medium.com/@shinjiwoong1656
   rss: https://medium.com/feed/@shinjiwoong1656
