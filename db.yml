@@ -4024,6 +4024,10 @@
   description: Front-end
   github: https://github.com/saseungmin
   facebook: https://www.facebook.com/profile.php?id=100003758628929
+- name: 사지원
+  blog: https://pacientes.github.io/
+  rss: https://pacientes.github.io/index.xml
+  github: https://github.com/pacientes
 - name: 서강혁
   blog: https://medium.com/@darkrasid
   rss: https://medium.com/feed/@darkrasid
