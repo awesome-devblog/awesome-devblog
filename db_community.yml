@@ -1716,3 +1716,7 @@
 - name: Riiid Techblog
   blog: https://riiidtechblog.medium.com/
   rss: https://medium.com/feed/@riiidtechblog
+- name: 사람인HR 기술 블로그
+  blog: https://saramin.github.io/
+  rss: https://saramin.github.io/feed.xml
+  facebook: https://www.facebook.com/saramin.dream
