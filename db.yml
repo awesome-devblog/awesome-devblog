@@ -3509,9 +3509,12 @@
   rss: https://brunch.co.kr/rss/@@301t
   description: 인공지능
 - name: 박준규
-  blog: https://brunch.co.kr/@nattybear
-  rss: https://brunch.co.kr/rss/@@1noz
-  description: ''
+  blog: https://gist.github.com/nattybear/c5e4f24a8242d88cf427568fb7cbe311
+  rss: https://gist.github.com/nattybear.atom
+  description: Haskell, Python
+  brunch: https://brunch.co.kr/@nattybear
+  facebook: https://www.facebook.com/profile.php?id=100000642547878
+  github: https://github.com/nattybear
 - name: 박준영
   blog: https://swalloow.github.io/
   rss: https://swalloow.github.io/feed.xml
