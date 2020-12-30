@@ -6889,6 +6889,11 @@
   blog: https://medium.com/@mark_47981
   rss: https://medium.com/feed/@mark_47981
   facebook: https://www.facebook.com/uptownlee
+- name: 이주형
+  blog: https://velog.io/@jacoblee19
+  rss: https://v2.velog.io/rss/jacoblee19
+  description: Back-end
+  github: https://github.com/jacobjuhyunglee
 - name: 이준범
   blog: https://beomi.github.io/
   rss: https://beomi.github.io/feed
