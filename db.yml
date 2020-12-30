@@ -4598,6 +4598,11 @@
 - name: 신선영
   blog: https://shinsunyoung.tistory.com/
   rss: https://shinsunyoung.tistory.com/rss
+- name: 신세원
+  blog: https://velog.io/@shin6403
+  rss: https://v2.velog.io/rss/shin6403
+  description: Front-end
+  github: https://github.com/shinsewon
 - name: 신승환
   blog: http://www.talk-with-hani.com/
   description: ''
