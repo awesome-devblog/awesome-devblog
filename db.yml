@@ -900,6 +900,10 @@
   blog: https://medium.com/@idus_devteam
   rss: https://medium.com/feed/@idus_devteam
   description: 백엔드
+- name: 김동하
+  blog: https://velog.io/@dongha1992
+  rss: https://v2.velog.io/rss/dongha1992
+  description: Front-end
 - name: 김동현
   facebook: https://www.facebook.com/digitalisx
   github: https://github.com/Digitalisx
