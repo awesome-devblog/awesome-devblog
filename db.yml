@@ -1469,6 +1469,10 @@
   rss: https://haviyj.tistory.com/rss
   description: Spring Boot
   github: https://github.com/young891221
+- name: 김영재
+  blog: https://velog.io/@kyj2471
+  rss: https://v2.velog.io/rss/kyj2471
+  description: Front-end
 - name: 김영전
   blog: https://qpfmtlcp.github.io
   rss: https://qpfmtlcp.github.io/feed
