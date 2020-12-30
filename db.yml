@@ -1989,6 +1989,11 @@
   rss: https://medium.com/feed/@ghilbut
   description: ''
   facebook: https://www.facebook.com/ghilbut
+- name: 김준형
+  blog: https://velog.io/@ddalkigum
+  rss: https://v2.velog.io/rss/ddalkigum
+  description: Back-end
+  github: https://github.com/ddalkigum
 - name: 김준호
   facebook: https://www.facebook.com/taki0112
   github: https://github.com/taki0112
