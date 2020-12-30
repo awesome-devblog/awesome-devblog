@@ -6928,6 +6928,12 @@
 - name: 이지현
   blog: https://www.bloter.net/archives/author/jihyun
   description: 오픈소스
+- name: 이지형
+  blog: https://velog.io/@hyounglee
+  rss: https://v2.velog.io/rss/hyounglee
+  description: Front-end
+  github: https://github.com/MiaJLee
+  rocketpunch: https://www.rocketpunch.com/@ijihyeongce94a52a133d4753
 - name: 이지혜
   blog: http://jihyeleee.com/
   description: 디자인
