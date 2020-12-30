@@ -1312,6 +1312,10 @@
   rss: https://elky84.github.io/feed.xml
   description: C++, C#, Ruby, Python
   github: https://github.com/elky84
+- name: 김성훈
+  blog: https://velog.io/@tonyk0901
+  rss: https://v2.velog.io/rss/tonyk0901
+  description: Front-end
 - name: 김세창
   blog: https://ksch93.tistory.com/
   rss: https://ksch93.tistory.com/rss
