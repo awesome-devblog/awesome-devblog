@@ -6617,6 +6617,10 @@
   rss: https://eblee-repo.tistory.com/rss
   github: https://github.com/fed-gren
   description: Front-end
+- name: 이은진
+  blog: https://velog.io/@eunjin
+  rss: https://v2.velog.io/rss/eunjin
+  description: Front-end
 - name: 이은찬
   blog: https://medium.com/@wyoducc
   rss: https://medium.com/feed/@wyoducc
