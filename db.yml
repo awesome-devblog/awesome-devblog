@@ -556,6 +556,11 @@
   linkedin: https://www.linkedin.com/in/taebbong/
   github: https://github.com/TaeBbong
   instagram: https://www.instagram.com/taebbong1127/
+  - name: 권태형
+  blog: https://hoorooroob.tistory.com/
+  rss: https://hoorooroob.tistory.com/rss
+  description: Python, Django, Backend
+  github: https://github.com/TaeHyoungKwon
 - name: 권태환
   blog: https://thdev.tech/
   rss: https://thdev.tech/feed.xml
