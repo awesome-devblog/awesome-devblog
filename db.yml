@@ -3340,6 +3340,11 @@
 - name: 박용서
   blog: https://gs.saro.me
   description: ''
+- name: 박용훈
+  blog: https://b-programmer.tistory.com
+  rss: https://b-programmer.tistory.com/rss
+  description: 웹 프로그래밍
+  github: https://github.com/asqwklop12
 - name: 박우철
   description: Android
   github: https://github.com/ParkWoocheol
