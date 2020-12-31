@@ -3318,7 +3318,8 @@
   description: ''
 - name: 박용훈
   blog: https://b-programmer.tistory.com
-  description: 예비개발자의 고부분투 개발
+  rss: https://b-programmer.tistory.com/rss
+  description: 웹 프로그래밍
   github: https://github.com/asqwklop12
 - name: 박우철
   description: Android
