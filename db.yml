@@ -7095,11 +7095,10 @@
   rss: https://nero.devstory.co.kr/rss.xml
   github: https://github.com/nero-angela
 - name: 이찬희
-  blog: https://imch.dev/posts
+  blog: https://imch.dev
   rss: https://imch.dev/rss.xml
   description: Web Frontend Engineer
   github: https://github.com/iamchanii
-  home: https://imch.dev/resume
 - name: 이창섭
   blog: https://sundries-in-myidea.tistory.com/
   rss: https://sundries-in-myidea.tistory.com/rss
