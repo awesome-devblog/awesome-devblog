@@ -21,7 +21,7 @@
 | 독립 개발자 네트워크 | https://indidev.net/ | C/C++ |
 | 드라마앤컴패니 블로그 | http://blog.dramancompany.com/ | |
 | 라온피플 | http://blog.naver.com/laonple | 비전, 머신 러닝 |
-| 라인웍스 | https://blog.linewalks.com/ | 헬스케어 데이터 |
+| 라인웍스 | https://blog.linewalks.com/ | 헬스케어 데이터 |
 | 레진 기술 블로그 | http://tech.lezhin.com/ | |
 | 렌딧 기술 블로그 | https://lenditkr.github.io/ | |
 | 로켓펀치 블로그 | https://blog.rocketpunch.com/ | |
