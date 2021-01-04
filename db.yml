@@ -9499,6 +9499,14 @@
   rss: https://tech.ssut.me/rss/
   description: Node, Go, Python
   github: https://github.com/ssut
+- name: 한승욱
+  blog: https://wooogy-egg.tistory.com/
+  rss: https://wooogy-egg.tistory.com//rss
+  description: Django, Python
+  github: https://github.com/SeungWookHan
+  facebook: https://www.facebook.com/wooogy
+  instagram: https://www.instagram.com/wooogy_/
+  linkedin: www.linkedin.com/in/seungwook-han-b15221195
 - name: 한승훈
   nickname: kkamagui
   profile: people/kkamagui.md
