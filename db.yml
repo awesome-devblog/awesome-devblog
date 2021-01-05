@@ -8595,6 +8595,10 @@
   description: SE
   twitter: https://twitter.com/jiraknet
   home: https://jirak.net/
+- name: 조석훈
+  blog: https://n1tjrgns.tistory.com/
+  rss: https://n1tjrgns.tistory.com/rss
+  description: 백엔드 주니어 개발자
 - name: 조재우
   blog: https://flowkater.github.io/
   rss: https://flowkater.github.io/atom.xml
