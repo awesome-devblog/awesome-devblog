@@ -9434,7 +9434,7 @@
   home: https://www.mimul.com/
 - name: 한건국
   blog: https://umanking.github.io
-  rss: https://umanking.github.io/feed.xml
+  rss: https://umanking.github.io/rss2.xml
   description: Java, Spring, JPA
   github: https://github.com/umanking
 - name: 한고
