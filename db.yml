@@ -5406,6 +5406,12 @@
   rss: https://rss.blog.naver.com/alice_k106.xml
   description: Docker, RTOS
   aladin: https://www.aladin.co.kr/m/mauthorinfo.aspx?authorsearch=@5620338
+- name: 용현정
+  blog: https://charotiti9.github.io/
+  rss: https://charotiti9.github.io/feed.xml
+  description: Unity, C#, GameDev, VR
+  github: https://github.com/charotiti9
+  twitter: https://twitter.com/charo_999
 - name: 우명인
   slideshare: https://www.slideshare.net/myeonginwoo
 - name: 우웅몬
