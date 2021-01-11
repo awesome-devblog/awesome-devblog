@@ -6151,6 +6151,10 @@
   description: Docker
   twitter: https://twitter.com/premist
   home: https://si.mpli.st/
+- name: 이민기
+  blog: https://paris-in-the-rain.tistory.com/
+  rss: https://paris-in-the-rain.tistory.com/rss
+  description: Algorithm, Devops
 - name: 이민석
   blog: https://hl1itj.tistory.com/
   rss: https://hl1itj.tistory.com/rss
