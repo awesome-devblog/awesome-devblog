@@ -3312,6 +3312,11 @@
   rss: https://parksuseong.blogspot.com/feeds/posts/default
   description: 데이터 엔지니어링
   github: https://github.com/parksuseong
+- name: 박승현
+  blog: https://bingbingpa.github.io
+  rss: https://bingbingpa.github.io/feed.xml
+  description: GIS 개발자
+  github: https://github.com/bingbingpa
 - name: 박승호
   blog: https://devwaf.blogspot.kr/
   rss: https://devwaf.blogspot.com/feeds/posts/default
