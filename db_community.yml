@@ -361,7 +361,6 @@
 - name: Docker Seoul
   meetup: https://www.meetup.com/ko-KR/Docker-Seoul/
 - name: Hongdae Machine Learning Study
-  meetup: https://www.meetup.com/ko-KR/Hongdae-Machine-Learning-Study/
   github: https://github.com/rickiepark/hongdae-ml-study
 - name: 리액트 네이티브 서울
   home: https://reactnativeseoul.org/
