@@ -3649,6 +3649,7 @@
   github: https://github.com/umi0410
   facebook: https://www.facebook.com/profile.php?id=100010100740759
   home: https://umi0410.github.io/
+  rocketpunch: https://www.rocketpunch.com/@umi0410
 - name: 박진영
   blog: https://deepweller.tistory.com/
   rss: https://deepweller.tistory.com/rss
@@ -9231,6 +9232,9 @@
   blog: https://bestalign.github.io/
   rss: https://bestalign.github.io/atom.xml
   description: Javascript
+- name: 최정명
+  github: https://github.com/jeongmyeong
+  dacon: https://www.dacon.io/myprofile/24607
 - name: 최정연
   blog: https://blog.naver.com/cenodim
   rss: https://rss.blog.naver.com/cenodim.xml
