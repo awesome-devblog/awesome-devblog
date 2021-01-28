@@ -8199,6 +8199,10 @@
   rss: https://takeuu.tistory.com/rss
   description: Front-end
   github: https://github.com/youtaekjung
+- name: 정윤선
+  blog: https://brunch.co.kr/@blackindigo-red
+  rss: https://brunch.co.kr/rss/@@WCb
+  description: UI
 - name: 정윤성
   blog: https://yoonsung.github.io/
   rss: https://yoonsung.github.io/atom.xml
