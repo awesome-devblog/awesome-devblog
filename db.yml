@@ -1355,18 +1355,18 @@
   blog: https://brunch.co.kr/@flatdesign
   rss: https://brunch.co.kr/rss/@@PUo
   description: UX 디자인
-- name: 김수빈
-  blog: https://kimyo-s.tistory.com/
-  github: https://github.com/kimziou77
-  rss: https://kimyo-s.tistory.com/rss
-  LinkedIn: https://www.linkedin.com/in/subin-kim-195ba6190/
-  description: DeepLearning, 영상처리, IT일상
 - name: 김수보
   blog: https://greypencil.tistory.com/
   rss: https://greypencil.tistory.com/rss
   description: IT 칼럼
   facebook: https://www.facebook.com/kimsubo
   wordpress: https://subokim.wordpress.com/
+- name: 김수빈
+  blog: https://kimyo-s.tistory.com/
+  github: https://github.com/kimziou77
+  rss: https://kimyo-s.tistory.com/rss
+  LinkedIn: https://www.linkedin.com/in/subin-kim-195ba6190/
+  description: DeepLearning, 영상처리, IT일상
 - name: 김수영
   blog: https://velog.io/@suyoung154
   rss: https://v2.velog.io/rss/suyoung154
