@@ -575,6 +575,11 @@
   rss: https://medium.com/feed/@khwsc1
   description: React
   facebook: https://www.facebook.com/AlexHyuckKwon
+- name: 권현수
+  blog: https://hye-on-astrogrammer.tistory.com/
+  rss: https://hye-on-astrogrammer.tistory.com/rss
+  description: JavaScript, HTML, CSS
+  github: https://github.com/helloworld-hellohyeon
 - name: 권현아
   blog: https://hyeooona825.tistory.com/
   rss: https://hyeooona825.tistory.com/rss
