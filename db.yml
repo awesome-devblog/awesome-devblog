@@ -5448,14 +5448,18 @@
   twitter: https://twitter.com/charo_999
 - name: 우명인
   slideshare: https://www.slideshare.net/myeonginwoo
-- name: 우웅몬
-  blog: https://brunch.co.kr/@wej6688
-  rss: https://brunch.co.kr/rss/@@zKy
-  description: UX
 - name: 우영준
   blog: https://blog.hax0r.info
   rss: https://blog.hax0r.info/rss
   description: Serverside, security
+- name: 우용현
+  blog: https://singo112ok.tistory.com/
+  rss: https://singo112ok.tistory.com/rss
+  description: Android
+- name: 우웅몬
+  blog: https://brunch.co.kr/@wej6688
+  rss: https://brunch.co.kr/rss/@@zKy
+  description: UX
 - name: 우정태
   blog: https://coding-factory.tistory.com/
   rss: https://coding-factory.tistory.com/rss
