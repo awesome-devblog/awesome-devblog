@@ -9060,6 +9060,10 @@
 - name: 최명지
   blog: https://choimyungji.github.io/
   rss: https://choimyungji.github.io/feed.xml
+- name: 최민석
+  blog: https://velog.io/@minsgy
+  rss: https://v2.velog.io/rss/minsgy
+  github: https://github.com/minsgy
 - name: 최민호
   blog: https://velog.io/@vnthf
   rss: https://v2.velog.io/rss/vnthf
