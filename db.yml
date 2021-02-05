@@ -304,6 +304,10 @@
   rss: https://v2.velog.io/rss/godori
   description: Front-end
   github: https://github.com/godori
+- name: 고은정
+  blog: https://velog.io/@edie_ko
+  rss: https://v2.velog.io/rss/edie_ko
+  github: https://github.com/positiveko
 - name: 고재현
   blog: https://delphiforwin.blogspot.com/
   rss: https://delphiforwin.blogspot.com/feeds/posts/default?alt=rss
