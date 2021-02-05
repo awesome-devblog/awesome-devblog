@@ -594,6 +594,10 @@
   rss: https://gmlwjd9405.github.io/feed
   description: Spring
   github: https://github.com/gmlwjd9405
+- name: 김가영
+  blog: https://velog.io/@jujube0
+  rss: https://v2.velog.io/rss/jujube0
+  github: https://github.com/jujube0
 - name: 김강령
   blog: https://brunch.co.kr/@thinkaboutlove
   rss: https://brunch.co.kr/rss/@@1SwI
