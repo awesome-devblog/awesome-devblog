@@ -3343,6 +3343,9 @@
   rss: https://parksuseong.blogspot.com/feeds/posts/default
   description: 데이터 엔지니어링
   github: https://github.com/parksuseong
+- name: 박승제
+  blog: https://velog.io/@psj0810
+  rss: https://v2.velog.io/rss/psj0810
 - name: 박승현
   blog: https://bingbingpa.github.io
   rss: https://bingbingpa.github.io/feed.xml
