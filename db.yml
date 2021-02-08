@@ -944,6 +944,13 @@
   rss: https://codegizer.me/feed.xml
   github: https://github.com/codegizer
   twitter: https://twitter.com/codegizer_kim
+- name: 김동현
+  nickname: HVHO
+  blog: https://hvho.github.io/
+  rss: https://hvho.github.io/feed.xml
+  github: https://github.com/hvho
+  linkedin: https://www.linkedin.com/in/donghyun-kim-0b1823196/
+  description: HVHO's dev blog
 - name: 김동환
   blog: https://wraithkim.wordpress.com/
   rss: https://wraithkim.wordpress.com/feed/
