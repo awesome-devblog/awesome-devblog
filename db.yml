@@ -5120,7 +5120,8 @@
 - name: 양민열
   facebook: https://www.facebook.com/profile.php?id=100004971253829
   github: https://github.com/AlpoxDev
-  home: https://alpox.kr/
+  home: https://alpox.dev/
+  description: React
 - name: 양병규
   blog: https://blog.naver.com/delmadang
   rss: https://rss.blog.naver.com/delmadang.xml
