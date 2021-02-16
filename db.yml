@@ -1930,6 +1930,11 @@
   blog: https://im-yeobi.io/
   rss: https://im-yeobi.io/rss.xml
   github: https://github.com/im-yeobi
+- name: 김종완
+  blog: https://wani-coding.tistory.com/
+  github: https://github.com/oen142
+  rss: https://wani-coding.tistory.com/rss
+  description: '꾸준한 백엔드 개발자입니다.'
 - name: 김종욱
   blog: https://jongwook.kim/
   description: ''
