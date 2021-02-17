@@ -2243,3 +2243,8 @@
   github: https://github.com/flutterkit/zerker
   pubdev: https://pub.dev/packages/zerker
   tags: [Flutter, Animation]
+- name: swc
+  home: https://swc.rs
+  github: https://github.com/swc-project/swc
+  crates: https://crates.io/crates/swc_ecma_parser
+  tags: [Rust, TypeScript, JavaScript, Compiler]
