@@ -303,6 +303,11 @@
   blog: https://medium.com/@yooyoungko
   description: Javascript
   facebook: https://www.facebook.com/lunayyko
+- name: 고은연
+  blog: https://velog.io/@koeunyeon
+  rss: https://v2.velog.io/rss/koeunyeon
+  description: 스타트업
+  github: https://github.com/koeunyeon  
 - name: 고은정
   blog: https://velog.io/@godori
   rss: https://v2.velog.io/rss/godori
