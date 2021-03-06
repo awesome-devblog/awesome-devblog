@@ -169,14 +169,15 @@
   facebook: https://www.facebook.com/newstars77
   naver: https://newstars77.blog.me/
 - name: 강준영
-  blog: https://juneyoung.io/articles.html
+  blog: https://juneyoung.io/
+  rss: https://juneyoung.io/rss.xml
   description: Web Backend/Server
-  facebook: https://www.facebook.com/juneyoungdev
-  instagram: https://www.instagram.com/iam_juneyoung
-  twitter: https://twitter.com/_4B1DD3N
-  github: https://github.com/iam-juneyoung
+  facebook: https://www.facebook.com/stevejkang
+  instagram: https://www.instagram.com/stevejkang
+  twitter: https://twitter.com/stevejkang_
+  github: https://github.com/stevejkang
+  linkedin: https://www.linkedin.com/in/iam-stevejkang/
   home: https://juneyoung.io/
-  rocketpunch: https://www.rocketpunch.com/@iam-juneyoung
 - name: 강진우
   profile: people/alden.md
   blog: https://brunch.co.kr/@alden
