@@ -7293,6 +7293,11 @@
   rss: https://lhb0517.tistory.com/rss
   description: Ubuntu, Java
   github: https://github.com/starrybleu
+- name: 이한빈
+  blog: https://velog.io/@hanbinleejoy
+  rss: https://v2.velog.io/rss/hanbinleejoy
+  description: Back-end
+  github: https://github.com/beaniejoy
 - name: 이한영
   blog: https://lhy.kr/
   rss: https://lhy.kr/feed.xml
