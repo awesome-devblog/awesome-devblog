@@ -6255,6 +6255,12 @@
   rss: https://brunch.co.kr/rss/@@7E8
   description: 데이터 분석
   facebook: https://www.facebook.com/minwoo.lee.313371
+- name: 이민지
+  blog: https://velog.io/@bbio3o
+  rss: https://v2.velog.io/rss/bbio3o
+  description: Front-end
+  github: https://github.com/2minzy
+  home: https://www.minzy.studio/
 - name: 이민철
   blog: https://bab2min.tistory.com/
   rss: https://bab2min.tistory.com/rss
