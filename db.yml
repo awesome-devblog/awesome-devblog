@@ -7557,6 +7557,11 @@
   blog: https://www.jimmyrim.com/
   rss: https://www.jimmyrim.com/rss
   description: 스타트업 투자
+- name: 임진영
+  blog: https://velog.io/@delheure
+  rss: https://v2.velog.io/rss/delheure
+  description: Front-end
+  github: https://github.com/delheure
 - name: 임진우
   blog: https://jinwooe.wordpress.com/
   rss: https://jinwooe.wordpress.com/feed/
