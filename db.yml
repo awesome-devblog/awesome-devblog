@@ -8320,6 +8320,10 @@
   rss: https://yoonsung.github.io/atom.xml
   description: Rust
   github: https://github.com/YoonSung
+- name: 정윤성
+  blog: https://unluckyjung.github.io
+  description: Problem Solver, Back-end Developer
+  github: https://github.com/unluckyjung
 - name: 정윤원
   blog: https://youknowone.github.io/
   description: IOS
