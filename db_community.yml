@@ -1701,3 +1701,6 @@
 - name: MakinaRocks
   blog: https://makinarocks.github.io/
   rss: https://makinarocks.github.io/feed
+- name: Samsung SDS
+  blog: https://www.samsungsds.com/kr/insights/index.html
+  rss: https://www.samsungsds.com/kr/insights/insight_ko_rss.xml
