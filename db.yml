@@ -1570,6 +1570,7 @@
   github: https://github.com/martinyounghoonkim
   linkedin: https://www.linkedin.com/in/younghoon-kim-2a1530149/
   facebook: https://www.facebook.com/profile.php?id=100005693104994
+  aladin: https://www.aladin.co.kr/m/mauthorinfo.aspx?authorsearch=@7243465
 - name: 김예찬
   blog: https://kycfeel.github.io/
   rss: https://kycfeel.github.io/feed.xml
@@ -4698,6 +4699,10 @@
   linkedin: https://www.linkedin.com/in/minwook-shin/
   facebook: https://www.facebook.com/minwook.book
   launchpad: https://launchpad.net/~minwook-shin
+- name: 신상훈
+  blog: https://medium.com/@sindepal
+  rss: https://medium.com/feed/@sindepal
+  description: Back-end
 - name: 신서현
   blog: https://doublsb.tistory.com/
   rss: https://doublsb.tistory.com/rss
