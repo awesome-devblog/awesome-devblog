@@ -1551,7 +1551,7 @@
 - name: 메가존
   blog: https://cloud.hosting.kr/blog/
   rss: https://cloud.hosting.kr/feed/
-- name: 컬리
+- name: 마켓컬리
   blog: https://helloworld.kurly.com/
   rss: https://helloworld.kurly.com/feed.xml
 - name: 휴먼스케이프 개발블로그
@@ -1708,3 +1708,5 @@
   blog: https://pushnewsdev.github.io/
   rss: https://pushnewsdev.github.io/feed
   github: https://github.com/pushnewsdev
+- name: 강남언니
+  blog: https://blog.gangnamunni.com/blog/tech/
