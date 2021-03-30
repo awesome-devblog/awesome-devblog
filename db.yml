@@ -6953,6 +6953,9 @@
   rss: https://brunch.co.kr/rss/@@aBL
   description: IT 칼럼
   facebook: https://www.facebook.com/madlymissyou
+- name: 이정원
+  blog: https://velog.io/@lychee
+  rss: https://v2.velog.io/rss/lychee
 - name: 이정주
   blog: https://webnautes.tistory.com/
   rss: https://webnautes.tistory.com/rss
