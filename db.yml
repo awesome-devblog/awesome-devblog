@@ -9234,6 +9234,10 @@
   rss: https://egg-programmer.tistory.com/rss
   description: Javascript, Vue, React
   github: https://github.com/choisohyun
+- name: 최수민
+  blog: https://sumini.dev/
+  rss: https://sumini.dev/rss.xml
+  github: https://github.com/greatSumini
 - name: 최수원
   blog: https://cionman.tistory.com/
   rss: https://cionman.tistory.com/rss
