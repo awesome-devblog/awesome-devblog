@@ -1704,3 +1704,7 @@
 - name: Samsung SDS
   blog: https://www.samsungsds.com/kr/insights/index.html
   rss: https://www.samsungsds.com/kr/insights/insight_ko_rss.xml
+- name: 푸시뉴스
+  blog: https://pushnewsdev.github.io/
+  rss: https://pushnewsdev.github.io/feed
+  github: https://github.com/pushnewsdev
