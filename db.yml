@@ -10013,6 +10013,11 @@
   rss: https://hongwonjun.github.io/feed.xml
   description: Data, AI, Healthcare
   speakerdeck: https://speakerdeck.com/hongwonjun
+- name: 홍지훈
+  blog: http://hongji3354.tistory.com/
+  rss: http://hongji3354.tistory.com/rss
+  description: Back-End developer
+  github: https://github.com/hongji3354
 - name: 홍정모
   blog: https://blog.naver.com/atelierjpro
   rss: https://rss.blog.naver.com/atelierjpro.xml
