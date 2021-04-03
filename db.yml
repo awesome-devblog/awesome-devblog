@@ -5508,6 +5508,12 @@
   twitter: https://twitter.com/charo_999
 - name: 우명인
   slideshare: https://www.slideshare.net/myeonginwoo
+- name: 우성환
+  blog: https://sas-study.tistory.com
+  rss: https://sas-study.tistory.com/rss
+  description: Java Spring Spring Boot Postgresql Server Side Programming
+  linkedin: https://www.linkedin.com/in/%EC%84%B1%ED%99%98-%EC%9A%B0-621443182/
+  github: https://github.com/WooSungHwan
 - name: 우영준
   blog: https://blog.hax0r.info
   rss: https://blog.hax0r.info/rss
@@ -10229,9 +10235,3 @@
   rss: https://stricky.tistory.com/rss
   description: DB
   facebook: https://www.facebook.com/ricky.han.52438
-- name: 우성환
-  blog: https://sas-study.tistory.com
-  rss: https://sas-study.tistory.com/rss
-  description: Java Spring Spring Boot Postgresql Server Side Programming
-  linkedin: https://www.linkedin.com/in/%EC%84%B1%ED%99%98-%EC%9A%B0-621443182/
-  github: https://github.com/WooSungHwan
