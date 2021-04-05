@@ -181,6 +181,7 @@
 - name: 강준현
   blog: https://junhyunny.github.io/
   github: https://github.com/Junhyunny
+  rss: https://junhyunny.github.io/feed.xml
   description: Java, Spring, Back-End
 - name: 강진우
   profile: people/alden.md
