@@ -3124,6 +3124,11 @@
   facebook: https://www.facebook.com/kisang.pak
   linkedin: https://www.linkedin.com/in/kisangpak/
   twitter: https://twitter.com/kpakguy
+- name: 박대성
+  blog: https://cckn.dev
+  rss: https://www.cckn.dev/rss.xml
+  description: Cloud, Web, IoT
+  github: https://github.com/cckn
 - name: 박동건
   blog: https://velog.io/@bathingape
   rss: https://v2.velog.io/rss/bathingape
