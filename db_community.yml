@@ -287,8 +287,8 @@
   facebook: https://www.facebook.com/wearescdc/
 - name: 티몬의 개발이야기
   facebook: https://www.facebook.com/tmondev/
-  blog: https://tmondev.blog.me/
-  rss: https://tmondev.blog.me/rss
+  blog: https://blog.naver.com/tmondev
+  rss: https://rss.blog.naver.com/tmondev.xml
 - name: ㅍㅍㅅㅅ 테크
   blog: https://ppss.kr/archives/category/tech
   rss: https://ppss.kr/archives/category/tech/feed
@@ -834,8 +834,8 @@
 - name: 누나IT
   naver: https://cafe.naver.com/noonacom
   facebook: https://www.facebook.com/nnitit/
-  blog: https://comkang4.blog.me/
-  rss: https://comkang4.blog.me/rss
+  blog: https://blog.naver.com/comkang4
+  rss: https://rss.blog.naver.com/comkang4.xml
   youtube: https://www.youtube.com/channel/UCCfy_jauEe07jowzGkEqo-g
 - name: 컴맹이 해커가 되기까지
   facebook: https://www.facebook.com/ssangchobohacking/
@@ -1234,8 +1234,8 @@
   github: https://github.com/daangn
   home: https://www.notion.so/3d0197c137ec43d18ff739b5b254a3c8
 - name: 라온피플
-  blog: http://laonple.blog.me/
-  rss: http://laonple.blog.me/rss
+  blog: https://blog.naver.com/laonple
+  rss: https://rss.blog.naver.com/laonple.xml
   description: 비전, 머신 러닝
 - name: 리디북스
   blog: https://www.ridicorp.com/story-category/tech-blog/
