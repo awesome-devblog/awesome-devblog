@@ -1771,6 +1771,11 @@
   github: https://github.com/jaigouk
   linkedin: https://www.linkedin.com/in/jaigouk/
   twitter: https://twitter.com/jaigouk
+- name: 김재민
+  blog: https://velog.io/@jmkim87
+  rss: https://v2.velog.io/rss/jmkim87
+  description: Back-end
+  github: https://github.com/jaeminkim87
 - name: 김재서
   blog: https://jaeseokim.github.io/
   rss: https://jaeseokim.github.io/rss
