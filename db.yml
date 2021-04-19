@@ -4812,10 +4812,6 @@
   blog: https://medium.com/@shinjiwoong1656
   rss: https://medium.com/feed/@shinjiwoong1656
   description: Linux
-- name: 신철민
-  blog: https://blog.naver.com/kato75
-  rss: https://rss.blog.naver.com/kato75.xml
-  description: 엔트리
 - name: 신태민
   blog: https://cprayer.github.io
   rss: https://cprayer.github.io/feed.xml
