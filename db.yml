@@ -781,6 +781,14 @@
   rss: https://shine10e.tistory.com/rss
   facebook: https://www.facebook.com/shine10e
   naver: https://blog.naver.com/shine10ee
+- name: 김대영
+  nickname: DevBruce
+  blog: https://devbruce.github.io/
+  rss: https://devbruce.github.io/feed.xml
+  description: DeepLearning, Develop
+  linkedin: https://www.linkedin.com/in/devbruce/
+  github: https://github.com/devbruce
+  kaggle: https://www.kaggle.com/devbruce
 - name: 김대원
   blog: https://prudentcircle.gitlab.io
   rss: https://prudentcircle.gitlab.io/index.xml
