@@ -6744,6 +6744,11 @@
 - name: 이왕원
   slideshare: https://www.slideshare.net/wangwonLee
   linkedin: https://www.linkedin.com/in/wangwon-lee-25670a135/
+- name: 이용빈
+  blog: https://yongbin3525.github.io/
+  rss: https://yongbin3525.github.io/rss/
+  description: Java, etc
+  github: https://github.com/yongbin3525
 - name: 이용수
   blog: https://velog.io/@widian
   rss: https://v2.velog.io/rss/widian
