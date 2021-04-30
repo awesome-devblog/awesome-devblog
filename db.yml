@@ -7002,6 +7002,11 @@
   youtube: https://www.youtube.com/channel/UCQeLdtodgFWThPxVeWjAncA
   facebook: https://www.facebook.com/jeongju.lee.5648
   aladin: https://www.aladin.co.kr/m/mauthorinfo.aspx?authorsearch=@7438215
+- name: 이정주
+  blog: https://gloryan.medium.com/
+  rss: https://medium.com/feed/@gloryan
+  description: JavaScript, FullStack, Blockchain, AWS DevOps
+  github: https://github.com/gloryan0829
 - name: 이정해
   blog: https://myinfrabox.tistory.com/
   rss: https://myinfrabox.tistory.com/rss
