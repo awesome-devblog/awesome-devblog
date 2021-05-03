@@ -6455,6 +6455,12 @@
   blog: https://pgmrlsh.tistory.com/
   rss: https://pgmrlsh.tistory.com/rss
   description: TensorFlow
+- name: 이상협
+  blog: https://tkdguq05.github.io/
+  desciption: Data Science & Engineering
+  rss: https://tkdguq05.github.io/rss2.xml
+  facebook: https://www.facebook.com/sanghyub.lee.501/
+  linkedin: https://www.linkedin.com/in/sanghyub-lee-100589160/
 - name: 이상훈
   github: https://github.com/dsa28s
   speakerdeck: https://speakerdeck.com/dsa28s
@@ -10277,8 +10283,3 @@
   facebook: https://www.facebook.com/khi0211
   instagram: https://www.instagram.com/sydev_sk/
   linkedin: https://www.linkedin.com/in/steve-kwon-8606ba1b8
-- name: 이상협
-  blog: https://tkdguq05.github.io/
-  desciption: Data Science & Engineering
-  facebook: https://www.facebook.com/sanghyub.lee.501/
-  linkedin: https://www.linkedin.com/in/sanghyub-lee-100589160/
