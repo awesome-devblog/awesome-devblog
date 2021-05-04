@@ -15299,4 +15299,156 @@
   "video": "https://www.youtube.com/watch?v=uTSuVFyv81w",
   "conference": "KSUG Seminar",
   "year": 2019
+},{
+  "title": "오프닝 키노트",
+  "author": "이형석",
+  "description": "토스 개발자들이 기술을 대하는 태도와 개발자 컨퍼런스 SLASH에서 다룰 이야기를 소개합니다.",
+  "slide": "",
+  "video": "https://www.youtube.com/watch?v=rEazan3lr-Q",
+  "conference": "SLASH",
+  "year": 2021
+},{
+  "title": "토스의 서버 인프라 모니터링",
+  "author": "이재성",
+  "description": "서버 인프라를 효과적으로 트러블 슈팅할 수 있도록 노력한 경험과 모니터링 인프라를 운영한 경험을 공유합니다.",
+  "slide": "https://static.toss.im/slash21/pdf/[토스_SLASH 21] 토스의 서버 인프라 모니터링_이재성.pdf",
+  "video": "https://www.youtube.com/watch?v=rxurfKT2lD8",
+  "conference": "SLASH",
+  "year": 2021
+},{
+  "title": "토스 서비스를 구성하는 서버 기술",
+  "author": "이항령",
+  "description": "Active-Active 데이터센터 운영, Kubernetes와 Istio Service Mesh 운영, API-Gateway, Kafka, Redis, Monitoring Stack 등\n토스에서 사용하는 전반적인 기술과 시스템 구성을 공유합니다.",
+  "slide": "https://static.toss.im/slash21/pdf/[토스_SLASH 21] 토스 서비스를 구성하는 서버 기술_이항령.pdf",
+  "video": "https://www.youtube.com/watch?v=YBXFRSAXScs",
+  "conference": "SLASH",
+  "year": 2021
+},{
+  "title": "SRE 사례 소개",
+  "author": "조규희",
+  "description": "토스에서 경험한 사이트 신뢰성 엔지니어링 사례를 공유합니다.",
+  "slide": "https://static.toss.im/slash21/pdf/[토스_SLASH 21] SRE 사례 소개_조규희.pdf",
+  "video": "https://www.youtube.com/watch?v=Tu0MMBgdyTw",
+  "conference": "SLASH",
+  "year": 2021
+},{
+  "title": "실수 없이 안전하게 쿠버네티스 운영하기",
+  "author": "김형록",
+  "description": "효율적인 쿠버네티스 관리를 통해 휴먼 에러를 방지하는 방법을 공유합니다.",
+  "slide": "https://static.toss.im/slash21/pdf/[토스_SLASH 21] 실수 없이 안전하게 쿠버네티스 운영하기_김형록.pdf",
+  "video": "https://www.youtube.com/watch?v=gF1wfTCDyI8",
+  "conference": "SLASH",
+  "year": 2021
+},{
+  "title": "테스트 커버리지 100%",
+  "author": "이응준",
+  "description": "스프링 프레임워크 기반 서버 애플리케이션을 코틀린으로 작성하면서, 테스트 커버리지를 100%까지 올리고 1년 6개월 동안 유지해보았습니다. 이 경험을 통해 배운 점과 테스트 개선 방법에 대한 고민을 공유합니다.",
+  "slide": "https://static.toss.im/slash21/pdf/[토스_SLASH 21] 테스트 커버리지 100퍼센트_이응준.pdf",
+  "video": "https://www.youtube.com/watch?v=jdlBu2vFv58",
+  "conference": "SLASH",
+  "year": 2021
+},{
+  "title": "결제 시스템의 SDK와 API 디자인",
+  "author": "이홍채, 이현섭, 박순영",
+  "description": "PG 연동 개발자들에게 쉽고 빠른 가이드 제공을 위해, 20년 동안 유지된 기존 시스템에 추상화 레이어를 만들고 SDK와 API를 설계했던 경험을 공유합니다. 추가로 인터페이스의 일관성과 예측 가능성 그리고 TypeScript와 npm 모듈 지원을 위한 시도들까지, 토스페이먼츠 오픈 API의 첫 여정에 대해 공유합니다.",
+  "slide": "https://static.toss.im/slash21/pdf/[토스_SLASH 21] 결제 시스템의 SDK와 API 디자인_이홍채, 이현섭, 박순영.pdf",
+  "video": "https://www.youtube.com/watch?v=E4_0WWqmF3M",
+  "conference": "SLASH",
+  "year": 2021
+},{
+  "title": "토스 데이터의 흐름과 활용",
+  "author": "유결",
+  "description": "토스의 데이터 흐름과 활용 방법,\n그리고 용도에 따라 어떤 플랫폼을 활용하는지를 공유합니다.",
+  "slide": "https://static.toss.im/slash21/pdf/[토스_SLASH 21] 토스 데이터의 흐름과 활용_유결.pdf",
+  "video": "https://www.youtube.com/watch?v=8ZhnUgylQgo",
+  "conference": "SLASH",
+  "year": 2021
+},{
+  "title": "빠르게 성장하는 스타트업의 DW",
+  "author": "유승민",
+  "description": "빠르게 성장하는 회사에서 제한된 리소스 안에서 데이터를 효율적으로 집계하고 제공하기 위해 선택한 방법.\n신뢰할 수 있는 데이터 제공 및 데이터의 맥락, 정보 공유를 위한 고민들과 이를 극복하기 위한 방법을 공유합니다.",
+  "slide": "https://static.toss.im/slash21/pdf/[토스_SLASH 21] 빠르게 성장하는 스타트업의 DW_유승민.pdf",
+  "video": "https://www.youtube.com/watch?v=6CZwKUp1ozw",
+  "conference": "SLASH",
+  "year": 2021
+},{
+  "title": "MYSQL HA & DR Topology",
+  "author": "김피터",
+  "description": "토스의 Database DR 구조에 대해 공유합니다.",
+  "slide": "https://static.toss.im/slash21/pdf/[토스_SLASH 21] MYSQL HA and DR Topology_김피터.pdf",
+  "video": "https://www.youtube.com/watch?v=t96l6ry_qmw",
+  "conference": "SLASH",
+  "year": 2021
+},{
+  "title": "토스뱅크(가칭) 데이터 설계사상",
+  "author": "조한기",
+  "description": "토스뱅크(가칭)의 데이터 설계가 어떻게 진행되었는지 다른 은행과의 비교를 통해 그 과정을 공유합니다.",
+  "slide": "https://static.toss.im/slash21/pdf/[토스_SLASH 21] 토스뱅크(가칭) 데이터 설계사상_조한기.pdf",
+  "video": "https://www.youtube.com/watch?v=KoLObZ9A3Kc",
+  "conference": "SLASH",
+  "year": 2021
+},{
+  "title": "Micro-frontend React, 점진적으로 도입하기",
+  "author": "조유성",
+  "description": "거대한 모놀리식 Django 프로젝트에 현대적인 프론트엔드 인프라를 구축한 사례를 공유합니다.\n어떻게 해야 오래된 코드 베이스를 대대적으로 수정하지 않으면서도,\n최신 프론트엔드 기술들을 적극적으로 도입해나갈 수 있을지 고민한 경험을 공유합니다.",
+  "slide": "https://static.toss.im/slash21/pdf/[토스_SLASH 21] Micro-frontend React, 점진적으로 도입하기_조유성.pdf",
+  "video": "https://www.youtube.com/watch?v=DHPeeEvDbdo",
+  "conference": "SLASH",
+  "year": 2021
+},{
+  "title": "토스팀을 위한 슬랙봇 설계",
+  "author": "임한솔",
+  "description": "토스에서 사용하는 슬랙봇들의 개발 과정과 그동안의 고민을 공유합니다.",
+  "slide": "https://static.toss.im/slash21/pdf/[토스_SLASH 21] 토스팀을 위한 슬랙봇 설계_임한솔.pdf",
+  "video": "https://www.youtube.com/watch?v=EChKnpxgX-4",
+  "conference": "SLASH",
+  "year": 2021
+},{
+  "title": "프론트엔드 웹 서비스에서 우아하게 비동기 처리하기",
+  "author": "박서진",
+  "description": "API를 호출하거나 네이티브 앱과 통신할 때 프론트엔드 웹 서비스에서는 반드시 비동기 작업이 일어나게 됩니다.\n일상처럼 다루고 있지만 정작 UI에서 다루기 힘든 비동기 프로그래밍.\nReact Suspense를 이용하여 우아하게 처리하는 이론과 실전 적용법을 공유합니다.",
+  "slide": "https://static.toss.im/slash21/pdf/[토스_SLASH 21] 프론트엔드 웹 서비스에서 우아하게 비동기 처리하기_박서진.pdf",
+  "video": "https://www.youtube.com/watch?v=FvRtoViujGg",
+  "conference": "SLASH",
+  "year": 2021
+},{
+  "title": "JavaScript Bundle Diet",
+  "author": "이한",
+  "description": "웹사이트 기능이 많아짐에 따라 점점 커지는 JavaScript Bundle Size.\n웹사이트 속도는 느려지고, 잠재 고객을 잃을 수도 있습니다.\n라이브러리를 사용하는 그리고 제공하는 관점에서 Bundle Size가 커질 수 있는 상황과 해결 방법을 공유합니다.",
+  "slide": "https://static.toss.im/slash21/pdf/[토스_SLASH 21] JavaScript Bundle Diet_이한.pdf",
+  "video": "https://www.youtube.com/watch?v=EP7g5R-7zwM",
+  "conference": "SLASH",
+  "year": 2021
+},{
+  "title": "실무에서 바로 쓰는 Frontend Clean Code",
+  "author": "진유림",
+  "description": "실무에서 클린 코드의 의의는 유지보수 시간의 단축입니다.\n동료 혹은 과거의 스스로 짠 코드를 빠르게 이해할 수 있다면 유지보수할 때 드는 개발 시간이 짧아집니다.\n실제 예시와 함께 1. 응집도 2. 단일 책임 3. 추상화 총 세 가지 관점으로 클린코드 방법론을 공유합니다.",
+  "slide": "https://static.toss.im/slash21/pdf/[토스_SLASH 21] 실무에서 바로 쓰는 Frontend Clean Code_진유림.pdf",
+  "video": "https://www.youtube.com/watch?v=edWbHp_k_9Y",
+  "conference": "SLASH",
+  "year": 2021
+},{
+  "title": "TDS로 UI 쌓기: 그 많던 코드는 누가 다 치웠을까?",
+  "author": "박민수",
+  "description": "TDS(Toss Design System)로 구성되어 있는 토스의 제품들.\n복잡한 화면도 단숨에 개발할 수 있도록 큰 힘이 되어주는 TDS를 개발자들이 사용하고, 확장하는 과정을 공유합니다.",
+  "slide": "https://static.toss.im/slash21/pdf/[토스_SLASH 21] TDS로 UI 쌓기, 그 많던 코드는 누가 다 치웠을까_박민수.pdf",
+  "video": "https://www.youtube.com/watch?v=pfKuEuufgdc",
+  "conference": "SLASH",
+  "year": 2021
+},{
+  "title": "Build, Harder Better Faster Stronger",
+  "author": "이성민",
+  "description": "프로젝트가 복잡해지고 커져감에 따라 일반적인 빌드 방법으로는 더 이상 빨라지지 않는 지점이 옵니다.\n토스에서 해당 지점을 넘어 더 빠른 개발 속도를 달성한 방법을 공유합니다.",
+  "slide": "https://static.toss.im/slash21/pdf/[토스_SLASH 21] Build, Harder Better Faster Stronger_이성민.pdf",
+  "video": "https://www.youtube.com/watch?v=6y_lR3yjg7k",
+  "conference": "SLASH",
+  "year": 2021
+},{
+  "title": "메모리에 남지 않는 문자열",
+  "author": "안정원",
+  "description": "메모리에 남지 않는 문자열을 통해 민감한 정보를 안전하게 사용하는 방법을 공유합니다.",
+  "slide": "https://static.toss.im/slash21/pdf/[토스_SLASH 21] 메모리에 남지 않는 문자열_안정원.pdf",
+  "video": "https://www.youtube.com/watch?v=awpdM665y-k",
+  "conference": "SLASH",
+  "year": 2021
 }]
