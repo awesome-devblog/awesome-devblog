@@ -329,6 +329,12 @@
   twitter: https://twitter.com/thecubejs
   slack: https://slack.cube.dev/
   tags: [Javascript, Chart]
+- name: CUBRID
+  home: https://www.cubrid.org/
+  github: https://github.com/CUBRID/cubrid
+  twitter: https://twitter.com/cubrid
+  reddit: https://www.reddit.com/r/CUBRID/
+  tags: [Database]
 - name: Curl
   home: https://curl.haxx.se/
   github: https://github.com/curl/curl
