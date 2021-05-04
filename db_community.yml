@@ -1094,7 +1094,6 @@
   github: https://github.com/GDGincheonAndroidStudy
 - name: GDG Seoul
   facebook: https://www.facebook.com/groups/gdgseoul/
-  meetup: https://www.meetup.com/ko-KR/GDG-Seoul/
   slack: https://gdgkr.slack.com/
   twitter: https://twitter.com/gdgseoul
 - name: GDG Suwon
@@ -1526,9 +1525,12 @@
 - name: 글루시스
   blog: https://tech.gluesys.com/blog/
   rss: https://tech.gluesys.com/feed.xml
-- name: 모두의 연구소
-  blog: https://www.whydsp.org/
-  rss: https://www.whydsp.org/rss
+- name: 모두의연구소
+  blog: https://brunch.co.kr/@modulabs
+  rss: https://brunch.co.kr/rss/@@c7um
+  facebook: https://www.facebook.com/lab4all
+  home: https://modulabs.co.kr/
+  tistory: https://www.whydsp.org/
 - name: 이스트소프트
   blog: https://blog.est.ai/
   rss: https://blog.est.ai/feed/
