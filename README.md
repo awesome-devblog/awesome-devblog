@@ -12,6 +12,7 @@
 1. 개인 블로그는 db.yml, 단체 블로그는 db_community.yml, 컨퍼런스는 db_session.json 파일을 업데이트 해주세요.
     1. 이 목록을 이용한 2차 저작 환영합니다.
 1. 좋아요, 포크, 제보, 풀리퀘 모두 환영입니다.프로젝트에 관심있으시면 gitter 들어오셔서 문의바랍니다.
+1. 추가적으로 [기여시 주의사항](CONTRIBUTING.md)을 꼭 읽어주세요.
 
 ## 소개 및 언급된 글
 - awesome-devblog 회고 [2017년](https://medium.com/@sarojaba/2017년-awesome-devblog-회고-294694e0f99d) [2018년](https://medium.com/@sarojaba/2018년-awesome-devblog-회고-ecf03ef16b1a) [2019년](https://medium.com/@sarojaba/2019년-어썸데브블로그-회고-fabd24f64db8)
