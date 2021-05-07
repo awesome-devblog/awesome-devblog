@@ -974,6 +974,13 @@
   github: https://github.com/hvho
   linkedin: https://www.linkedin.com/in/donghyun-kim-0b1823196/
   description: HVHO's dev blog
+- name: 김동현
+  nickname: peterkimzz
+  blog: https://peterkimzz.com/
+  rss: https://peterkimzz.com/feed.xml
+  github: https://github.com/peterkimzz
+  instagram: https://www.instagram.com/peterkimzz
+  description: Front-end
 - name: 김동환
   blog: https://wraithkim.wordpress.com/
   rss: https://wraithkim.wordpress.com/feed/
