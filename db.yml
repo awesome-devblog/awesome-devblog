@@ -2757,6 +2757,10 @@
   rss: https://medium.com/feed/@Nam_se
   description: 게임 개발
   facebook: https://www.facebook.com/sehyeon.nam.9
+- name: 남승호
+  blog: https://softwareeng.tistory.com/
+  rss: https://softwareeng.tistory.com/rss
+  facebook: https://www.facebook.com/nevermet
 - name: 남윤지
   blog: https://sehajyang.github.io
   rss: https://sehajyang.github.io/atom.xml
