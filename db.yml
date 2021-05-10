@@ -3595,6 +3595,10 @@
   rss: https://rss.blog.naver.com/pjws0321.xml
   description: PHP
   youtube: https://www.youtube.com/channel/UCHdmYfB-HgzGqCiTu0NfuLw
+- name: 박정원
+  blog: https://medium.com/@aiden.p
+  rss: https://medium.com/feed/@aiden.p
+  description: 블록체인, 이더리움
 - name: 박정태
   blog: https://blog.naver.com/pjt3591oo
   rss: https://rss.blog.naver.com/pjt3591oo.xml
