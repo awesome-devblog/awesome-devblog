@@ -100,6 +100,11 @@
   description: Python
   facebook: https://www.facebook.com/luavis
   github: https://github.com/luavis
+- name: 강성지
+  blog: https://devkingdom.tistory.com/
+  rss: https://devkingdom.tistory.com/rss
+  facebook: https://www.facebook.com/seongji.kang.9
+  youtube: https://www.youtube.com/channel/UCyK4XIn3F8GJ7JQYq0NXGQA
 - name: 강성진
   blog: https://ujuc.github.io/
   rss: https://ujuc.github.io/feeds/rss.xml
