@@ -79,6 +79,17 @@
   youtube: https://www.youtube.com/channel/UC0pEW_GOrMJ23l8QcrGdKSw
   awesome: https://github.com/ooade/awesome-apollo-graphql
   tags: [GraphQL]
+- name: Argo CD
+  home: https://argoproj.github.io/projects/argo-cd
+  blog: https://blog.argoproj.io/
+  github: https://github.com/argoproj/argo-cd
+  tags: [Kubernetes]
+- name: Armeria
+  home: https://armeria.dev/
+  github: https://github.com/line/armeria
+  slack: https://line-armeria.slack.com/
+  twitter: https://twitter.com/armeria_project
+  tags: [Java, Back-end Framework]
 - name: Astroflow
   home: https://astrocorp.net/astroflow/
   github: https://github.com/astrocorp42/astroflow-go
@@ -496,6 +507,13 @@
   github: https://github.com/jhalterman/failsafe
   gitter: https://gitter.im/jhalterman/failsafe
   tags: [Java]
+- name: Falco
+  home: https://falco.org/
+  github: https://github.com/falcosecurity/falco
+  slack: https://kubernetes.slack.com/
+  twitter: https://twitter.com/falco_org
+  stackoverflow: https://stackoverflow.com/questions/tagged/falco
+  tags: [Kubernetes, Security]
 - name: Falcon
   home: https://falconframework.org/
   github: https://github.com/falconry/falcon
@@ -618,6 +636,12 @@
   twitter: https://twitter.com/gatsbyjs
   awesome: https://github.com/prayash/awesome-gatsby
   tags: [Static Site Generator]
+- name: Ghost
+  home: https://ghost.org/
+  github: https://github.com/TryGhost/Ghost
+  blog: https://ghost.org/blog/
+  opencollective: https://opencollective.com/ghost
+  tags: [CMS]
 - name: Glances
   home: https://nicolargo.github.io/glances/
   github: https://github.com/nicolargo/glances
@@ -702,6 +726,12 @@
   npm: https://www.npmjs.com/package/gulp
   awesome: https://github.com/alferov/awesome-gulp
   tags: [Javascript, Tool]
+- name: GraalVM
+  home: https://www.graalvm.org/
+  github: https://github.com/oracle/graal
+  blog: https://www.graalvm.org/blog/
+  twitter: https://twitter.com/graalvm
+  tags: [Java, Compiler]
 - name: gRPC
   home: https://grpc.io/
   github: https://github.com/grpc/grpc
@@ -1076,6 +1106,12 @@
   stackoverflow: https://stackoverflow.com/questions/tagged/light-4j
   reddit: https://www.reddit.com/r/lightapi/
   tags: [Java, Back-end Framework]
+- name: LLVM
+  home: https://llvm.org/
+  github: https://github.com/llvm/llvm-project/
+  discord: https://discord.com/invite/xS7Z362
+  blog: http://blog.llvm.org/
+  tags: [Compiler]
 - name: Lombok
   home: https://projectlombok.org/
   github: https://github.com/rzwitserloot/lombok
@@ -1403,6 +1439,13 @@
   twitter: https://twitter.com/onf_onos
   youtube: https://www.youtube.com/channel/UCTQaOpqno48GTimdwyfytFw
   tags: [Network]
+- name: Open Policy Agent
+  home: https://www.openpolicyagent.org/
+  github: https://github.com/open-policy-agent/opa
+  slack: https://slack.openpolicyagent.org/
+  twitter: https://twitter.com/openpolicyagent
+  dockerhub: https://hub.docker.com/r/openpolicyagent/opa
+  tags: [Kubernetes]
 - name: OpenAI Gym
   home: https://gym.openai.com/
   github: https://github.com/openai/gym
@@ -1772,6 +1815,12 @@
   github: https://github.com/ReactiveX/RxJava
   awesome: https://github.com/eleventigers/awesome-rxjava
   tags: [Java, Core Library]
+- name: RxJS
+  home: https://rxjs-dev.firebaseapp.com/
+  github: https://github.com/ReactiveX/rxjs
+  gitter: https://gitter.im/Reactive-Extensions/RxJS
+  npm: https://www.npmjs.com/package/rxjs
+  tags: [Javascript, Core Library]
 - name: Rythm.js
   home: https://okazari.github.io/Rythm.js/
   github: https://github.com/Okazari/Rythm.js
@@ -1940,6 +1989,13 @@
   github: https://github.com/airbnb/streamalert
   slack: https://streamalert.herokuapp.com/
   tags: [Data Analysis]
+- name: Svelte
+  home: https://svelte.dev/
+  github: https://github.com/sveltejs/svelte
+  blog: https://svelte.dev/blog
+  discord: https://discord.com/invite/yy75DKs
+  npm: https://www.npmjs.com/package/svelte
+  tags: [Javascript, Front-end Framework]
 - name: swc
   home: https://swc-project.github.io/
   github: https://github.com/swc-project/swc
@@ -1972,6 +2028,10 @@
   home: https://eugeny.github.io/terminus/
   github: https://github.com/Eugeny/terminus
   tags: [Terminal]
+- name: Terraform
+  home: https://www.terraform.io/
+  github: https://github.com/hashicorp/terraform
+  tags: [Infrastructure as Code]
 - name: Three.js
   home: https://threejs.org/
   github: https://github.com/mrdoob/three.js
