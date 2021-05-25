@@ -9116,6 +9116,15 @@
   description: Web, 아빠는 개발자
   github: https://github.com/bluewings
   npm: https://www.npmjs.com/~bluewings
+- name: 차승호
+  blog: https://slog.website/
+  rss: https://slog.website/rss.xml
+  description: Web, Server
+  github: https://github.com/Sh031224
+  npm: https://www.npmjs.com/~sh031224
+  stackoverflow: https://stackoverflow.com/users/12651185/sh031224
+  linkedin: https://www.linkedin.com/in/%EC%8A%B9%ED%98%B8-%EC%B0%A8-a879b2207/
+  facebook: https://www.facebook.com/profile.php?id=100048700034135
 - name: 차완진
   blog: https://natsgun.tistory.com
   rss: https://natsgun.tistory.com/rss
