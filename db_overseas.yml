@@ -355,6 +355,11 @@
   speakerdeck: https://speakerdeck.com/shah
 - name: Shai Mishali
   speakerdeck: https://speakerdeck.com/freak4pc
+- name: Siderlabs
+  blog: https://siderlabs.com/blog
+  rss: https://siderlabs.com/blog/feed/
+  twitter: https://twitter.com/siderlabs
+  description: 코드 리뷰 자동화 솔루션
 - name: Stephen Colebourne
   blog: http://blog.joda.org/
   rss: http://blog.joda.org/feeds/posts/default
