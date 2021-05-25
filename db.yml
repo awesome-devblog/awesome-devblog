@@ -8922,6 +8922,11 @@
   blog: http://chanyeong.com/blog
   rss: http://chanyeong.com/rss.xml
   description: Front-end
+- name: 조찬기
+  blog: https://changicho.tistory.com/
+  rss: https://changicho.tistory.com/rss
+  description: Front-end
+  github: https://github.com/changicho
 - name: 조창민
   blog: https://incredible.ai/
   rss: https://incredible.ai/feed.xml
