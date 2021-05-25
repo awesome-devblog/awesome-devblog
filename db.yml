@@ -2666,6 +2666,12 @@
   blog: http://greentec.egloos.com/
   rss: http://rss.egloos.com/blog/greentec
   description: 게임개발
+- name: 김효재
+  blog: https://hyojaedev.tistory.com/
+  rss: https://hyojaedev.tistory.com/rss
+  description: Back-end
+  github: https://github.com/hyojaekim
+  home: https://www.hyojae.info/
 - name: 김훈동
   blog: https://hoondongkim.blogspot.com/
   rss: https://hoondongkim.blogspot.com/feeds/posts/default
