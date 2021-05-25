@@ -9556,6 +9556,11 @@
   blog: https://medium.com/@JinwooChoi
   rss: https://medium.com/feed/@JinwooChoi
   description: Swift
+- name: 최진우
+  blog: http://wlswoo.tistory.com
+  rss: https://wlswoo.tistory.com/rss
+  description: DGSW, High school student
+  github: https://github.com/choi-jinwoo
 - name: 최진호
   blog: http://calmglow.egloos.com/
   rss: http://rss.egloos.com/blog/calmglow
@@ -10348,10 +10353,3 @@
   facebook: https://www.facebook.com/khi0211
   instagram: https://www.instagram.com/sydev_sk/
   linkedin: https://www.linkedin.com/in/steve-kwon-8606ba1b8
-- name: Choi Jinwoo
-  blog: http://wlswoo.tistory.com
-  rss: https://wlswoo.tistory.com/rss
-  description: DGSW, High school student
-  github: https://github.com/choi-jinwoo
-  
-  
