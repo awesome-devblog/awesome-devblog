@@ -6644,6 +6644,11 @@
   description: AWS
   twitter: https://twitter.com/blaswan
   facebook: https://www.facebook.com/blaswan
+- name: 이수정
+  blog: https://2ssue.github.io/
+  rss: https://2ssue.github.io/feed
+  description: Front-end
+  github: https://github.com/2ssue
 - name: 이수진
   blog: https://sujinlee.me/
   rss: https://sujinlee.me/rss/
