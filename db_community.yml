@@ -1,4 +1,6 @@
 ---
+- name: 0xProject 한국 커뮤니티
+  facebook: https://www.facebook.com/groups/1969505666422964/
 - name: 1Day1Make
   facebook: https://www.facebook.com/groups/981396648628570/
 - name: 2017영메이커연구그룹
@@ -16,16 +18,28 @@
   rss: http://feeds.feedburner.com/gamedevforever?format=xml
   description: 포프, 친절한티스, 알콜코더 민군
   facebook: https://www.facebook.com/GameDevForever/
+- name: 고구마S
+  naver: https://cafe.naver.com/gogoomas
 - name: 그래프 데이터베이스 in Korea
   meetup: https://www.meetup.com/ko-KR/graphdatabase/
 - name: 글로벌 SW교육 연구 모임 Global Computing Education Group
   facebook: https://www.facebook.com/groups/globalsw/
+- name: 기글 하드웨어
+  home: https://gigglehd.com/
+- name: 남궁성의 코드초보스터디
+  naver: https://cafe.naver.com/javachobostudy
 - name: 넥스트리
   blog: http://www.nextree.co.kr/
   rss: http://www.nextree.co.kr/feed/
+- name: 네이버 리눅스 유저 그룹
+  naver: https://cafe.naver.com/linuxcare
+- name: 네트워크 전문가 따라잡기
+  naver: https://cafe.naver.com/neteg
 - name: 달리웍스
   blog: http://techblog.daliworks.net/
   rss: http://techblog.daliworks.net/feed.xml
+- name: 당근이의 AVR 갖구 놀기
+  naver: https://cafe.naver.com/carroty
 - name: 대시앤닷 큐 사용자 모임 Dash and Dot cue User Group
   facebook: https://www.facebook.com/groups/dashndotuser/
 - name: 댑스 코리아 (DApps Korea)
@@ -35,6 +49,8 @@
 - name: 데일리호텔
   blog: https://dailyhotel.io/
   rss: https://dailyhotel.io/feed
+- name: 도스 박물관 (DOS MUSEUM)
+  naver: https://cafe.naver.com/olddos
 - name: 동국컴공
   facebook: https://www.facebook.com/dgcsesound/
 - name: 딥리워드
@@ -44,6 +60,13 @@
   rss: http://blog.dramancompany.com/feed/
 - name: 뚜루뚜루 사용자 모임 TrueTrue Coding Robot User Group
   facebook: https://www.facebook.com/groups/truetrueuser/
+- name: 라인
+  blog: https://engineering.linecorp.com/ko/blog
+  rss: https://engineering.linecorp.com/ko/feed/
+  youtube: https://www.youtube.com/channel/UC4CjFOoZlYSaqMHEDFCKcXQ
+  facebook: https://www.facebook.com/line.developers
+  twitter: https://twitter.com/line_developers
+  home: https://engineering.linecorp.com/ko/
 - name: 럭스로보 모디 사용자 모임 Luxrobo MODI User Group
   facebook: https://www.facebook.com/groups/luxroboer/
 - name: 로켓펀치
@@ -201,6 +224,8 @@
   facebook: https://www.facebook.com/groups/458166777716821/
 - name: 바나나코딩 - 세상에서 가장 재미있는 코딩학교
   facebook: https://www.facebook.com/bananacoding.ac/
+- name: 블록체인 개발자 모임
+  facebook: https://www.facebook.com/groups/114962092511047/
 - name: 생활코딩
   facebook: https://www.facebook.com/groups/codingeverybody/
   home: https://opentutorials.org/
@@ -210,6 +235,8 @@
   facebook: https://www.facebook.com/groups/korea.sonarqube.user.group/
 - name: 송파 메이커스페이스
   home: http://songpamakers.com/
+- name: 스크래치 매니아 프로그래머들
+  naver: https://cafe.naver.com/onell0
 - name: 슬로우뉴스-테크
   blog: http://slownews.kr/category/tech
   rss: http://slownews.kr/category/tech/feed
@@ -233,6 +260,15 @@
   facebook: https://www.facebook.com/groups/youngmakerclub/
 - name: 오조봇 이보 사용자 모임 Ozobot Evo User Group
   facebook: https://www.facebook.com/groups/ozobotuser/
+- name: 우분투 한국 커뮤니티
+  home: https://www.ubuntu-kr.org/
+  blog: http://blog.ubuntu-kr.org/
+  rss: http://blog.ubuntu-kr.org/feed.xml
+  facebook: https://www.facebook.com/groups/ubuntu.ko/
+  googleplus: https://plus.google.com/communities/112409570772055358734
+  youtube: https://www.youtube.com/channel/UCid525Nc3OXk6SjLZ28cX5Q
+  slack: https://ubuntu-kr.slack.com/
+  slideshare: https://www.slideshare.net/UbuntuKorea
 - name: 우아한형제들
   blog: https://woowabros.github.io
   rss: https://woowabros.github.io/feed.xml
@@ -266,6 +302,9 @@
   blog: http://icunow.co.kr
   rss: http://icunow.co.kr/feed/
   facebook: https://www.facebook.com/지금-써보러-갑니다-532187963596766/
+- name: 챗봇 개발자 모임 (인공지능 스피커, 자연어처리)
+  home: http://aidev.co.kr/
+  facebook: https://www.facebook.com/groups/ChatbotDevKR/
 - name: 추천시스템 연구소(Recommender Systems Labs)
   facebook: https://www.facebook.com/groups/recolabs/
 - name: 카카오
@@ -285,6 +324,17 @@
   facebook: https://www.facebook.com/groups/ludenscode/
 - name: 코딩하는 디자이너
   facebook: https://www.facebook.com/wearescdc/
+- name: 퀘이사존
+  home: https://quasarzone.co.kr/
+- name: 클라우드 아키텍트(Cloud Architect)
+  facebook: https://www.facebook.com/groups/1963638103652580/
+- name: 클리앙
+  home: https://www.clien.net/
+  twitter: https://twitter.com/clien_archive
+  android: https://play.google.com/store/apps/details?id=com.esstudio.clien
+- name: 클리어보스
+  facebook: https://www.facebook.com/groups/clearboth/
+  twitter: https://twitter.com/clearboth_kr
 - name: 티몬의 개발이야기
   facebook: https://www.facebook.com/tmondev/
   blog: https://blog.naver.com/tmondev
@@ -292,6 +342,12 @@
 - name: ㅍㅍㅅㅅ 테크
   blog: https://ppss.kr/archives/category/tech
   rss: https://ppss.kr/archives/category/tech/feed
+- name: 파워빌더 커뮤니티(PBExpertClub)
+  naver: https://cafe.naver.com/pentaeduclub
+- name: 파워포인트 게임마을
+  naver: https://cafe.naver.com/gameppt
+- name: 파코즈
+  home: http://www.parkoz.com/
 - name: 팹랩대전 커뮤니티(Fab Lab Daejeon)
   facebook: https://www.facebook.com/groups/217998138756276/
 - name: 프론트엔드개발그룹
@@ -309,12 +365,27 @@
 - name: 한국R사용자커뮤니티(R Korea)
   facebook: https://www.facebook.com/groups/KoreaRUsers/
   meetup: https://www.meetup.com/ko-KR/R-Korea/
+- name: 한국자바개발자협의회(JCO)
+  facebook: https://www.facebook.com/groups/jco.or.kr/
+- name: 한식구
+  home: http://hansicgu.com/
+  facebook: https://www.facebook.com/hansicgu/
+  naver: https://cafe.naver.com/hansicgu
 - name: 함께하는 딥러닝
   facebook: https://www.facebook.com/groups/withdl/
 - name: AI 클럽
   facebook: https://www.facebook.com/groups/aiclub/
 - name: AI(인공지능) / Deep Learning(딥러닝) 정보 그룹
   facebook: https://www.facebook.com/groups/1945386765733837/
+- name: AMD 비쉐라 라이젠 컴퓨터 사용자 모임
+  naver: https://cafe.naver.com/fx8300
+- name: Ansible Korea User Group
+  facebook: https://www.facebook.com/groups/ansiblekoreausergroup/
+- name: Ask Django
+  facebook: https://www.facebook.com/groups/askdjango/
+- name: Atlassian User group (Korea)
+  home: http://confluence.augkorea.org/
+  facebook: https://www.facebook.com/groups/atlassiankorea/
 - name: Autonomous Driving Research KR
   facebook: https://www.facebook.com/groups/106272686509360/
 - name: AWSKRUG - AWS한국사용자모임
@@ -325,8 +396,21 @@
   github: https://github.com/awskrug
   twitter: https://twitter.com/awskrug
   slideshare: https://www.slideshare.net/awskr
+- name: AWS Korea
+  blog: https://aws.amazon.com/ko/blogs/korea/
+  rss: https://aws.amazon.com/ko/blogs/korea/feed/
+  facebook: https://www.facebook.com/amazonwebservices.ko/
+  twitter: https://twitter.com/awskorea
+  slideshare: https://www.slideshare.net/awskorea
+- name: Big Data Seoul
+  meetup: https://www.meetup.com/ko-KR/Big-Data-Seoul/
+- name: C언어를 배우자
+  naver: https://cafe.naver.com/cafec
 - name: CodeBakery
   facebook: https://www.facebook.com/codebakery/
+- name: Cloud Native Computing & K8S Korea
+  meetup: https://www.meetup.com/ko-KR/Cloud-Native-Computing-Seoul/
+  facebook: https://www.facebook.com/groups/k8skr/
 - name: CQRS
   facebook: https://www.facebook.com/groups/1919342698298205/
 - name: Data Scientist Meetup in Seoul
@@ -335,14 +419,34 @@
   facebook: https://www.facebook.com/daumdevelopers/
 - name: Devlog
   facebook: https://www.facebook.com/Jbee.dev/
+- name: developerWorks Korea
+  blog: https://developer.ibm.com/kr/blog/
+  rss: https://developer.ibm.com/kr/blog/feed/
+  facebook: https://www.facebook.com/groups/developerWorksKRUG/
+- name: DevOps Korea
+  facebook: https://www.facebook.com/groups/TeAnE/
+  youtube: https://www.youtube.com/channel/UCOs9gZXnf6qb7cdfd7rQBDQ
+- name: devpools
+  blog: http://www.devpools.kr
+  rss: http://www.devpools.kr/atom.xml
 - name: Docker Seoul
   meetup: https://www.meetup.com/ko-KR/Docker-Seoul/
+- name: EFL Korea
+  home: http://efl.or.kr/
+  facebook: https://www.facebook.com/efl.or.kr/
+- name: Elastic
+  blog: https://www.elastic.co/kr/blog
+  rss: https://www.elastic.co/kr/blog/feed
+- name: EOSIO DEEP DIVE
+  facebook: https://www.facebook.com/groups/238753656858011/
 - name: Facebook Developer Circle
   facebook: https://www.facebook.com/groups/DevCSeoul/
 - name: Firebase
   facebook: https://www.facebook.com/groups/1650124438643831/
 - name: FunFunStudy
   facebook: https://www.facebook.com/groups/1189616354467814/
+- name: GNU Korea
+  home: http://korea.gnu.org/
 - name: Golang Korea
   home: https://golangkorea.github.io/
   facebook: https://www.facebook.com/groups/golangko/
@@ -351,6 +455,9 @@
   gitter: https://gitter.im/golang-korean-community
   googleplus: https://plus.google.com/communities/115721275599816202991
   github: https://github.com/golangkorea
+- name: Google
+  blog: https://developers-kr.googleblog.com/
+  rss: http://feeds.feedburner.com/GoogleDevelopersKorea
 - name: Google Colaboratory KR
   facebook: https://www.facebook.com/groups/1986745628242135/
 - name: HelloCoding
@@ -361,10 +468,21 @@
   blog: https://hexa-unist.github.io/
 - name: Hongdae Machine Learning Study
   github: https://github.com/rickiepark/hongdae-ml-study
+- name: Hyperledger Korea User Group
+  facebook: https://www.facebook.com/groups/115267728985925/
 - name: IBM developerWorks
   meetup: https://www.meetup.com/ko-KR/IBM-developerWorks-Meetup/
+- name: IIJ - 일본 IT in Japan
+  naver: https://cafe.naver.com/itcareer
+- name: Internet of Things Korea Meetup
+  meetup: https://www.meetup.com/ko-KR/Internet-of-Things-Korea-Meetup/
+  facebook: https://www.facebook.com/IoTKoreaMeetup/
+- name: IT독서실
+  facebook: https://www.facebook.com/groups/itbook4u/
 - name: Javawocky
   facebook: https://www.facebook.com/groups/javawocky/
+- name: Jenkins korea
+  facebook: https://www.facebook.com/groups/712393792190261/
 - name: JetBrains 코리아
   blog: https://blog.jetbrains.com/kr/
   rss: https://blog.jetbrains.com/kr/feed/
@@ -372,15 +490,25 @@
   home: https://www.jetbrains.com/
 - name: jinyPHP
   facebook: https://www.facebook.com/groups/422759191427518/
+- name: KAFKA 한국 사용자 모임
+  facebook: https://www.facebook.com/groups/kafka.kru/
+- name: Kong/SEOUL
+  meetup: https://www.meetup.com/ko-KR/Kong-SEOUL/
+- name: Korea Azure User Group
+  facebook: https://www.facebook.com/groups/krazure/
 - name: Korea Blazor User Group
   facebook: https://www.facebook.com/groups/kblug/
 - name: Korea Ceph User Group
   facebook: https://www.facebook.com/groups/620899444961207/
 - name: Korea Chaos Engineering Group
   facebook: https://www.facebook.com/groups/chaosengkorea/
+- name: Korea Docker User Group
+  facebook: https://www.facebook.com/groups/korea.docker.user.group/
 - name: Korea Elasticsearch User Group
   facebook: https://www.facebook.com/groups/elasticsearch.kr/
   youtube: https://www.youtube.com/channel/UCmI0g3ROh1WrUMZDv2kcjfQ
+- name: Korea Spring User Group
+  meetup: https://www.meetup.com/ko-KR/koreasug/
 - name: Kotlin Korea
   home: http://kotlin.kr/
   blog: http://kotlin.kr/blog/
@@ -399,8 +527,14 @@
   github: https://github.com/meteor-seoul/
 - name: Microsoft MVPs in Korea
   facebook: https://www.facebook.com/groups/MVPKorea/
+- name: MongoDB Korea
+  facebook: https://www.facebook.com/groups/krmug/
 - name: MonsterVR
   facebook: https://www.facebook.com/groups/monstervr/
+- name: Mozilla Hacks
+  blog: http://hacks.mozilla.or.kr
+  rss: http://hacks.mozilla.or.kr/feed/
+  slack: https://mozkr.slack.com/
 - name: MSA and DDD Software modeling - 마이크로서비스와 도메인 주도 SW 모델링
   facebook: https://www.facebook.com/groups/cloudswmoding/
 - name: NAVER D2 - 네이버
@@ -419,12 +553,27 @@
   behance: https://www.behance.net/naverlabs
 - name: Navigation & Control Research KR
   facebook: https://www.facebook.com/groups/1712143652200320/
+- name: Nginx Korea
+  facebook: https://www.facebook.com/groups/nginx/
 - name: NodeMCU 사용자 모임
   facebook: https://www.facebook.com/groups/1984960828444627/
+- name: OKKY
+  home: https://okky.kr/
+  github: https://github.com/okjsp/okky
+- name: Open Source Networking(OSN) User Group Daejeon
+  meetup: https://www.meetup.com/ko-KR/Daejeon-OPNFV-Meetup/
 - name: OpenCV 프로그래밍
   facebook: https://www.facebook.com/groups/opencvprogramming/
+- name: OpenCV KOREA 대한민국 최고의 컴퓨터비젼 커뮤니티
+  naver: https://cafe.naver.com/opencv
+- name: OSXDev
+  home: http://www.osxdev.org/
+  facebook: https://www.facebook.com/groups/osxdevorg/
 - name: PCL Research Group KR
   facebook: https://www.facebook.com/groups/165198587522918/
+- name: Popit
+  blog: http://www.popit.kr
+  rss: http://www.popit.kr/feed/
 - name: Popit contributor
   facebook: https://www.facebook.com/groups/popitcontributor/
 - name: PRESSer
@@ -436,8 +585,20 @@
 - name: React Native Korea
   facebook: https://www.facebook.com/groups/reactapp/
   slack: https://reactnativekorea.slack.com
+- name: React Korea
+  facebook: https://www.facebook.com/groups/react.ko/
+  slack: https://react-korea.slack.com/
 - name: ReactiveX Lab
   facebook: https://www.facebook.com/groups/reactivexLab/
+- name: Realm Blog
+  blog: https://realm.io/kr/blog/
+  rss: https://realm.io/kr/blog/feed.xml
+- name: Redis Korean User Group
+  facebook: https://www.facebook.com/groups/rediskorea/
+- name: Rust Seoul
+  meetup: https://www.meetup.com/ko-KR/Rust-Seoul/
+- name: Seoul AngularJS Meetup
+  meetup: https://www.meetup.com/ko-KR/Seoul-AngularJS-Meetup/
 - name: Seoul Artificial Intelligence
   home: http://seoulai.com/
   facebook: https://www.facebook.com/seoulai/
@@ -446,15 +607,33 @@
   twitter: https://twitter.com/seoul_ai
 - name: Seoul Elixir Meetup
   meetup: https://www.meetup.com/ko-KR/Seoul-Elixir-Meetup/
+- name: Seoul Ruby Meetup
+  meetup: https://www.meetup.com/ko-KR/Seoul-Ruby-Meetup/
 - name: Serverless Korea User Group
   facebook: https://www.facebook.com/groups/serverless.korea/
+- name: Server Side Architecture Group
+  facebook: https://www.facebook.com/groups/serverside/
 - name: Slipp 스터디
   facebook: https://www.facebook.com/slipp.study/
   home: https://www.slipp.net/
+- name: Solidity Korea
+  facebook: https://www.facebook.com/groups/soliditykorea/
 - name: SK플래닛 개발자활동
   facebook: https://www.facebook.com/README.SKP/
   blog: http://readme.skplanet.com/
   rss: http://feeds.feedburner.com/skpreadme?format=xml
+- name: Spoqa
+  blog: https://spoqa.github.io/
+  rss: https://spoqa.github.io/atom.xml
+  github: https://github.com/spoqa
+- name: SW교육 (스크래치, 앱인벤터, 파이썬, C)
+  naver: https://cafe.naver.com/scratchprogramming
+- name: TeachCode
+  home: https://teachcoding.me/
+- name: VCNC
+  blog: http://engineering.vcnc.co.kr
+  rss: http://engineering.vcnc.co.kr/atom.xml
+  github: https://github.com/vcnc/
 - name: Vue.js Korea
   facebook: https://www.facebook.com/groups/vuejs.korea/
   slack: https://vuejs-korea.herokuapp.com
@@ -463,185 +642,6 @@
   github: https://github.com/vuejs-kr
 - name: Zabbix Users Korea
   facebook: https://www.facebook.com/groups/1549599631997752/
-- name: AWS Korea
-  blog: https://aws.amazon.com/ko/blogs/korea/
-  rss: https://aws.amazon.com/ko/blogs/korea/feed/
-  facebook: https://www.facebook.com/amazonwebservices.ko/
-  twitter: https://twitter.com/awskorea
-  slideshare: https://www.slideshare.net/awskorea
-- name: developerWorks Korea
-  blog: https://developer.ibm.com/kr/blog/
-  rss: https://developer.ibm.com/kr/blog/feed/
-  facebook: https://www.facebook.com/groups/developerWorksKRUG/
-- name: devpools
-  blog: http://www.devpools.kr
-  rss: http://www.devpools.kr/atom.xml
-- name: Elastic
-  blog: https://www.elastic.co/kr/blog
-  rss: https://www.elastic.co/kr/blog/feed
-- name: VCNC
-  blog: http://engineering.vcnc.co.kr
-  rss: http://engineering.vcnc.co.kr/atom.xml
-  github: https://github.com/vcnc/
-- name: Google
-  blog: https://developers-kr.googleblog.com/
-  rss: http://feeds.feedburner.com/GoogleDevelopersKorea
-- name: 라인
-  blog: https://engineering.linecorp.com/ko/blog
-  rss: https://engineering.linecorp.com/ko/feed/
-  youtube: https://www.youtube.com/channel/UC4CjFOoZlYSaqMHEDFCKcXQ
-  facebook: https://www.facebook.com/line.developers
-  twitter: https://twitter.com/line_developers
-  home: https://engineering.linecorp.com/ko/
-- name: Mozilla Hacks
-  blog: http://hacks.mozilla.or.kr
-  rss: http://hacks.mozilla.or.kr/feed/
-  slack: https://mozkr.slack.com/
-- name: Popit
-  blog: http://www.popit.kr
-  rss: http://www.popit.kr/feed/
-- name: Realm Blog
-  blog: https://realm.io/kr/blog/
-  rss: https://realm.io/kr/blog/feed.xml
-- name: Spoqa
-  blog: https://spoqa.github.io/
-  rss: https://spoqa.github.io/atom.xml
-  github: https://github.com/spoqa
-- name: Big Data Seoul
-  meetup: https://www.meetup.com/ko-KR/Big-Data-Seoul/
-- name: Seoul AngularJS Meetup
-  meetup: https://www.meetup.com/ko-KR/Seoul-AngularJS-Meetup/
-- name: Internet of Things Korea Meetup
-  meetup: https://www.meetup.com/ko-KR/Internet-of-Things-Korea-Meetup/
-  facebook: https://www.facebook.com/IoTKoreaMeetup/
-- name: Cloud Native Computing & K8S Korea
-  meetup: https://www.meetup.com/ko-KR/Cloud-Native-Computing-Seoul/
-  facebook: https://www.facebook.com/groups/k8skr/
-- name: 클라우드 아키텍트(Cloud Architect)
-  facebook: https://www.facebook.com/groups/1963638103652580/
-- name: Solidity Korea
-  facebook: https://www.facebook.com/groups/soliditykorea/
-- name: 0xProject 한국 커뮤니티
-  facebook: https://www.facebook.com/groups/1969505666422964/
-- name: EOSIO DEEP DIVE
-  facebook: https://www.facebook.com/groups/238753656858011/
-- name: Hyperledger Korea User Group
-  facebook: https://www.facebook.com/groups/115267728985925/
-- name: Ansible Korea User Group
-  facebook: https://www.facebook.com/groups/ansiblekoreausergroup/
-- name: DevOps Korea
-  facebook: https://www.facebook.com/groups/TeAnE/
-  youtube: https://www.youtube.com/channel/UCOs9gZXnf6qb7cdfd7rQBDQ/about
-- name: 챗봇 개발자 모임 (인공지능 스피커, 자연어처리)
-  home: http://aidev.co.kr/
-  facebook: https://www.facebook.com/groups/ChatbotDevKR/
-- name: Redis Korean User Group
-  facebook: https://www.facebook.com/groups/rediskorea/
-- name: Nginx Korea
-  facebook: https://www.facebook.com/groups/nginx/
-- name: Jenkins korea
-  facebook: https://www.facebook.com/groups/712393792190261/
-- name: Server Side Architecture Group
-  facebook: https://www.facebook.com/groups/serverside/
-- name: Korea Docker User Group
-  facebook: https://www.facebook.com/groups/korea.docker.user.group/
-- name: KAFKA 한국 사용자 모임
-  facebook: https://www.facebook.com/groups/kafka.kru/
-- name: Ask Django
-  facebook: https://www.facebook.com/groups/askdjango/
-- name: React Korea
-  facebook: https://www.facebook.com/groups/react.ko/
-  slack: https://react-korea.slack.com/
-- name: 블록체인 개발자 모임
-  facebook: https://www.facebook.com/groups/114962092511047/
-- name: Rust Seoul
-  meetup: https://www.meetup.com/ko-KR/Rust-Seoul/
-- name: Korea Spring User Group
-  meetup: https://www.meetup.com/ko-KR/koreasug/
-- name: Seoul Ruby Meetup
-  meetup: https://www.meetup.com/ko-KR/Seoul-Ruby-Meetup/
-- name: Open Source Networking(OSN) User Group Daejeon
-  meetup: https://www.meetup.com/ko-KR/Daejeon-OPNFV-Meetup/
-- name: Kong/SEOUL
-  meetup: https://www.meetup.com/ko-KR/Kong-SEOUL/
-- name: Korea Azure User Group
-  facebook: https://www.facebook.com/groups/krazure/
-- name: TeachCode
-  home: https://teachcoding.me/
-- name: 남궁성의 코드초보스터디
-  naver: https://cafe.naver.com/javachobostudy
-- name: C언어를 배우자
-  naver: https://cafe.naver.com/cafec
-- name: 스크래치 매니아 프로그래머들
-  naver: https://cafe.naver.com/onell0
-- name: SW교육 (스크래치, 앱인벤터, 파이썬, C)
-  naver: https://cafe.naver.com/scratchprogramming
-- name: IIJ - 일본 IT in Japan
-  naver: https://cafe.naver.com/itcareer
-- name: 고구마S
-  naver: https://cafe.naver.com/gogoomas
-- name: 파워빌더 커뮤니티(PBExpertClub)
-  naver: https://cafe.naver.com/pentaeduclub
-- name: 네트워크 전문가 따라잡기
-  naver: https://cafe.naver.com/neteg
-- name: 네이버 리눅스 유저 그룹
-  naver: https://cafe.naver.com/linuxcare
-- name: 도스 박물관 (DOS MUSEUM)
-  naver: https://cafe.naver.com/olddos
-- name: 파워포인트 게임마을
-  naver: https://cafe.naver.com/gameppt
-- name: OpenCV KOREA 대한민국 최고의 컴퓨터비젼 커뮤니티
-  naver: https://cafe.naver.com/opencv
-- name: 당근이의 AVR 갖구 놀기
-  naver: https://cafe.naver.com/carroty
-- name: AMD 비쉐라 라이젠 컴퓨터 사용자 모임
-  naver: https://cafe.naver.com/fx8300
-- name: 한식구
-  home: http://hansicgu.com/
-  facebook: https://www.facebook.com/hansicgu/
-  naver: https://cafe.naver.com/hansicgu
-- name: 클리앙
-  home: https://www.clien.net/
-  twitter: https://twitter.com/clien_archive
-  android: https://play.google.com/store/apps/details?id=com.esstudio.clien
-- name: 파코즈
-  home: http://www.parkoz.com/
-- name: 퀘이사존
-  home: https://quasarzone.co.kr/
-- name: 기글 하드웨어
-  home: https://gigglehd.com/
-- name: 클리어보스
-  facebook: https://www.facebook.com/groups/clearboth/
-  twitter: https://twitter.com/clearboth_kr
-- name: EFL Korea
-  home: http://efl.or.kr/
-  facebook: https://www.facebook.com/efl.or.kr/
-- name: GNU Korea
-  home: http://korea.gnu.org/
-- name: 한국자바개발자협의회(JCO)
-  facebook: https://www.facebook.com/groups/jco.or.kr/
-- name: IT독서실
-  facebook: https://www.facebook.com/groups/itbook4u/
-- name: Atlassian User group (Korea)
-  home: http://confluence.augkorea.org/
-  facebook: https://www.facebook.com/groups/atlassiankorea/
-- name: MongoDB Korea
-  facebook: https://www.facebook.com/groups/krmug/
-- name: OKKY
-  home: https://okky.kr/
-  github: https://github.com/okjsp/okky
-- name: OSXDev
-  home: http://www.osxdev.org/
-  facebook: https://www.facebook.com/groups/osxdevorg/
-- name: 우분투 한국 커뮤니티
-  home: https://www.ubuntu-kr.org/
-  blog: http://blog.ubuntu-kr.org/
-  rss: http://blog.ubuntu-kr.org/feed.xml
-  facebook: https://www.facebook.com/groups/ubuntu.ko/
-  googleplus: https://plus.google.com/communities/112409570772055358734
-  youtube: https://www.youtube.com/channel/UCid525Nc3OXk6SjLZ28cX5Q
-  slack: https://ubuntu-kr.slack.com/
-  slideshare: https://www.slideshare.net/UbuntuKorea
 - name: KLDP
   home: https://kldp.org/
   blog: https://kldp.org/blog
