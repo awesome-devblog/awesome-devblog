@@ -1290,9 +1290,10 @@
 - name: "비개모: 비전공자 개발자 모임"
   facebook: https://www.facebook.com/groups/NonmajorDeveloperGroup/
 - name: 어반베이스
-  blog: https://urbanbase.github.io/
-  rss: https://urbanbase.github.io/feed.xml
+  blog: https://tech.urbanbase.com/
+  rss: https://tech.urbanbase.com/feed.xml
   github: https://github.com/urbanbase/
+  facebook: https://www.facebook.com/urbanbaseinc/
 - name: 패스트캠퍼스
   blog: http://blog.fastcampus.co.kr/
   rss: http://blog.fastcampus.co.kr/rss
@@ -1740,3 +1741,8 @@
   blog: https://www.cubrid.com/blog/
   rss: https://www.cubrid.com/blog/rss
   youtube: https://www.youtube.com/channel/UCMM_fm0yEHFsB8Ri4CZJcwQ
+- name: 솔트룩스
+  blog: https://blog.naver.com/saltluxmarketing
+  rss: https://rss.blog.naver.com/saltluxmarketing.xml
+  home: http://www.saltlux.com/
+  instagram: https://www.instagram.com/slx_saltlux/
