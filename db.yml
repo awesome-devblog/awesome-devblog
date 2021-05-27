@@ -1701,6 +1701,12 @@
   rss: https://kimws.wordpress.com/feed/
   description: 빅데이터
   facebook: https://www.facebook.com/kim.wooseung
+- name: 김우식
+  blog: https://well-balanced.medium.com/
+  rss: https://medium.com/feed/@well-balanced
+  github: https://github.com/well-balanced
+  facebook: https://www.facebook.com/woosik.kim.73113
+  linkedin: https://www.linkedin.com/in/iam-woosik-kim/
 - name: 김우용
   blog: https://brunch.co.kr/@wedump
   rss: https://brunch.co.kr/atom/@@13x1
@@ -7388,6 +7394,7 @@
   rss: https://qiita.com/leechungkyu/feed.atom
   description: Jenkins, Atlassian
   youtube: https://www.youtube.com/channel/UC_MinTXO3V4mhbjV3nd32PA
+  facebook: https://www.facebook.com/ck1214.lee
 - name: 이치웅
   blog: https://chichi.space/
   rss: https://chichi.space/rss.xml
