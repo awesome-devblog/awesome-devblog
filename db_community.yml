@@ -1354,6 +1354,11 @@
   rss: https://meetup.toast.com/rss
   facebook: https://www.facebook.com/toast.nhn/
   youtube: https://www.youtube.com/channel/UC982FhzZx87lIWCimFiry_w
+- name: TOAST UI
+  blog: https://ui.toast.com/
+  rss: https://ui.toast.com/rss.xml
+  twitter: https://twitter.com/toastui
+  medium: https://toastui.medium.com/
 - name: 플라네타리움
   blog: https://snack.planetarium.dev/kor/
   rss: https://snack.planetarium.dev/kor/index.xml
