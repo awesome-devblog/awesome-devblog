@@ -4419,6 +4419,11 @@
   twitter: https://twitter.com/blueshw
   codepen: https://codepen.io/blueshw
   facebook: https://www.facebook.com/blueshw
+- name: 설진영
+  blog: https://jinyoungsul.github.io/
+  rss: https://jinyoungsul.github.io/feed.xml
+  description: 데이터분석
+  github: https://github.com/jinyoungsul
 - name: 설훈
   blog: https://seolhun.github.io/blog/
   rss: https://seolhun.github.io/blog/feed.xml
