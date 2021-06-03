@@ -2862,13 +2862,17 @@
   blog: https://bugsfixed.blogspot.kr/
   rss: https://bugsfixed.blogspot.com/feeds/posts/default
   description: 윈도우즈 커널
-  egloos: http://somma.egloos.com/
+  egloos: http://somma.egloos.com/:q
 - name: 노우현
   blog: https://www.rohwoohyeon.com
   description: '주니어 개발자의 성장 일기, 김버그'
   facebook: https://www.facebook.com/woohyeon.roh
   instagram: https://www.instagram.com/_kimbug/
   youtube: https://youtube.com/c/kimbug
+- name: 노유정
+  blog: https://velog.io/@dell_mond
+  description: '예전의 그 오렌지가 아니다. 갈갈 갈려서 오렌지 쥬스가 된 dell.mond 의 프론트엔드 개발자 성장 기록'
+  rss: https://api.velog.io/rss/@dell_mond
 - name: 노재민
   blog: https://korsnack.kr/
   description: ''
