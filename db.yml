@@ -2869,6 +2869,10 @@
   facebook: https://www.facebook.com/woohyeon.roh
   instagram: https://www.instagram.com/_kimbug/
   youtube: https://youtube.com/c/kimbug
+- name: 노유정
+  blog: https://velog.io/@dell_mond
+  description: '예전의 그 오렌지가 아니다. 갈갈 갈려서 오렌지 쥬스가 된 dell.mond 의 프론트엔드 개발자 성장 기록'
+  rss: https://api.velog.io/rss/@dell_mond
 - name: 노재민
   blog: https://korsnack.kr/
   description: ''
