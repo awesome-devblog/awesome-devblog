@@ -7092,6 +7092,11 @@
   rss: https://leejungdo.com/feed.xml
   description: React
   github: https://github.com/jd1386
+- name: 이정민
+  blog: https://jaime-note.tistory.com/
+  rss: https://jaime-note.tistory.com/rss
+  description: java, backend
+  github: https://github.com/lcalmsky
 - name: 이정영
   blog: https://blog.jyslash.com/@jungyounglee
   description: UI 디자인
