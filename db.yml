@@ -7222,6 +7222,11 @@
   blog: https://medium.com/@mark_47981
   rss: https://medium.com/feed/@mark_47981
   facebook: https://www.facebook.com/uptownlee
+- name: 이주현
+  blog: https://zzang9ha.tistory.com/
+  rss: https://zzang9ha.tistory.com/rss
+  description: Java, Backend
+  github: https://github.com/JuHyun419
 - name: 이주형
   blog: https://velog.io/@jacoblee19
   rss: https://v2.velog.io/rss/jacoblee19
