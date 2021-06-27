@@ -8221,6 +8221,13 @@
   rss: https://www.gamjaa.com/feed
   twitter: https://twitter.com/_gamjaa
   github: https://github.com/gamjaa
+- name: 정경훈
+  description: Android, iOS, Game
+  blog: https://cliearl.github.io/
+  rss: https://cliearl.github.io/index.xml
+  github: https://github.com/cliearl
+  twitter: https://twitter.com/coder_frozen
+  youtube: https://www.youtube.com/channel/UC6V7LBEgcoTZUUgUU0Jv3xg
 - name: 정광섭
   blog: https://www.lesstif.com/
   description: Linux, 보안, laravel, JIRA
