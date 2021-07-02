@@ -7430,6 +7430,11 @@
   description: Jenkins, Atlassian
   youtube: https://www.youtube.com/channel/UC_MinTXO3V4mhbjV3nd32PA
   facebook: https://www.facebook.com/ck1214.lee
+- name: 이충현
+  blog: https://sinna94.tistory.com
+  rss: https://sinna94.tistory.com/rss
+  description: Java, Kotlin, Spring
+  github: https://github.com/sinna94
 - name: 이치웅
   blog: https://chichi.space/
   rss: https://chichi.space/rss.xml
