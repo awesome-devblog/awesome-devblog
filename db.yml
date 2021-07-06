@@ -8682,6 +8682,11 @@
   description: Back-end
   twitter: https://twitter.com/JungTaehyun
   github: https://github.com/chomman
+- name: 정필규
+  blog: https://anothel.tistory.com/
+  rss: https://anothel.tistory.com/rss
+  description: C/C++
+  github: https://github.com/ANOTHEL
 - name: 정해균
   blog: https://haeguri.github.io
   rss: https://haeguri.github.io/atom.xml
