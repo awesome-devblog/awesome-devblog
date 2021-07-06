@@ -28,13 +28,15 @@
   home: https://gigglehd.com/
 - name: 남궁성의 코드초보스터디
   naver: https://cafe.naver.com/javachobostudy
-- name: 넥스트리
-  blog: http://www.nextree.co.kr/
-  rss: http://www.nextree.co.kr/feed/
+- name: 넘버원 리눅스
+  home: http://www.no1linux.org/
 - name: 네이버 리눅스 유저 그룹
   naver: https://cafe.naver.com/linuxcare
 - name: 네트워크 전문가 따라잡기
   naver: https://cafe.naver.com/neteg
+- name: 넥스트리
+  blog: http://www.nextree.co.kr/
+  rss: http://www.nextree.co.kr/feed/
 - name: 달리웍스
   blog: http://techblog.daliworks.net/
   rss: http://techblog.daliworks.net/feed.xml
@@ -46,6 +48,10 @@
   facebook: https://www.facebook.com/groups/dappskorea/
 - name: 데이터 분석 커뮤니티
   facebook: https://www.facebook.com/groups/datacommunity/
+- name: 데이터야놀자
+  home: https://datayanolja.github.io/
+  facebook: https://www.facebook.com/datayanolja.github.io/
+  github: https://github.com/datayanolja
 - name: 데일리호텔
   blog: https://dailyhotel.io/
   rss: https://dailyhotel.io/feed
@@ -225,8 +231,20 @@
   home: http://www.makered.or.kr/
   rss: http://www.makered.or.kr/feed
   facebook: https://www.facebook.com/groups/458166777716821/
+- name: 모두의연구소
+  home: http://www.modulabs.co.kr/
+  facebook: https://www.facebook.com/lab4all/
+- name: 모두의연구소 커뮤니티
+  facebook: https://www.facebook.com/groups/modulabs/
+- name: 모여서 각자 코딩하는 모임.
+  facebook: https://www.facebook.com/groups/mogaco/
+  github: https://github.com/OpenMogaco
+- name: 모의 침투 연구회
+  facebook: https://www.facebook.com/groups/metasploits/
 - name: 바나나코딩 - 세상에서 가장 재미있는 코딩학교
   facebook: https://www.facebook.com/bananacoding.ac/
+- name: 부스트코스-boostcourse
+  facebook: https://www.facebook.com/boostcourse.connect/
 - name: 블록체인 개발자 모임
   facebook: https://www.facebook.com/groups/114962092511047/
 - name: 생활코딩
@@ -251,6 +269,8 @@
   description: Java, 김종인, 최경운, 노성현
   facebook: https://www.facebook.com/AheaCommunity/
   github: https://github.com/devahea
+- name: 안녕 리눅스
+  home: http://annyung.oops.org/
 - name: 에이콘
   blog: http://www.acornpub.co.kr/blog
   rss: http://feeds.feedburner.com/acornpub
@@ -276,6 +296,8 @@
   blog: https://woowabros.github.io
   rss: https://woowabros.github.io/feed.xml
   facebook: https://www.facebook.com/woowahanTech/
+- name: 유니톤 - 대학생 연합 해커톤
+  facebook: https://www.facebook.com/unithonWithU/
 - name: 이상한모임
   blog: http://blog.weirdx.io
   rss: http://blog.weirdx.io/feed/
@@ -315,6 +337,11 @@
   rss: https://tech.kakao.com/feed/
   slideshare: https://www.slideshare.net/ifkakao
   github: https://github.com/kakao
+- name: 커넥트재단
+  home: https://connect.or.kr/
+  facebook: https://www.facebook.com/connect.naver/
+- name: 케이벤치
+  home: https://kbench.com/
 - name: 코드버스킹 - Codebusking
   facebook: https://www.facebook.com/codebusking.show/
   home: https://codebusking.show/
@@ -325,8 +352,17 @@
   youtube: https://www.youtube.com/channel/UCKXBpFPbho1tp-Ntlfc25kA
 - name: 코딩교육연구회
   facebook: https://www.facebook.com/groups/ludenscode/
+- name: 코딩클럽
+  home: http://codingclubs.org/
+  facebook: https://www.facebook.com/codingclubs/
+  youtube: https://www.youtube.com/channel/UCUr3XU8t9UrfGfkcP1mG8sA
 - name: 코딩하는 디자이너
   facebook: https://www.facebook.com/wearescdc/
+- name: 코알라 - 코딩좀알려주라
+  facebook: https://www.facebook.com/coalastudy/
+  home: http://www.coalastudy.com/
+  blog: http://blog.coalastudy.com/
+  rss: http://blog.coalastudy.com/rss
 - name: 퀘이사존
   home: https://quasarzone.co.kr/
 - name: 클라우드 아키텍트(Cloud Architect)
@@ -353,14 +389,28 @@
   home: http://www.parkoz.com/
 - name: 팹랩대전 커뮤니티(Fab Lab Daejeon)
   facebook: https://www.facebook.com/groups/217998138756276/
+- name: 프로그래머스
+  home: https://programmers.co.kr/
+  blog: https://brunch.co.kr/@programmers
+  rss: https://brunch.co.kr/rss/@@Pmz
 - name: 프론트엔드개발그룹
   facebook: https://www.facebook.com/groups/webfrontend/
 - name: 플러닝 Flearning
   facebook: https://www.facebook.com/flearning.net/
+- name: 하모니카
+  home: http://hamonikr.org/
+  rss: https://hamonikr.org/rss
+- name: 하이브아레나
+  home: https://hivearena.com/
+  facebook: https://www.facebook.com/hivearena/
+  twitter: https://twitter.com/hivearena
+  instagram: https://www.instagram.com/hivearena/
 - name: 한국 그린데이터
   blog: https://medium.com/greendatakr
   rss: https://medium.com/feed/greendatakr
   linkedin: https://www.linkedin.com/company/krgreendata
+- name: 한국 리눅스 민트 사용자 모임
+  home: http://linuxmint.kr/
 - name: 한국 Tidyverse
   facebook: https://www.facebook.com/groups/1404219106509417/
 - name: 한국 VR 실사기반 3D 모델링
@@ -370,6 +420,9 @@
   meetup: https://www.meetup.com/ko-KR/R-Korea/
 - name: 한국자바개발자협의회(JCO)
   facebook: https://www.facebook.com/groups/jco.or.kr/
+- name: 한국 스프링 사용자 모임(KSUG)
+  home: http://www.ksug.org/
+  facebook: https://www.facebook.com/groups/springkorea/
 - name: 한식구
   home: http://hansicgu.com/
   facebook: https://www.facebook.com/hansicgu/
@@ -495,6 +548,10 @@
   facebook: https://www.facebook.com/groups/422759191427518/
 - name: KAFKA 한국 사용자 모임
   facebook: https://www.facebook.com/groups/kafka.kru/
+- name: KLDP
+  home: https://kldp.org/
+  blog: https://kldp.org/blog
+  rss: https://kldp.org/blog/feed
 - name: Kong/SEOUL
   meetup: https://www.meetup.com/ko-KR/Kong-SEOUL/
 - name: Korea Azure User Group
@@ -629,6 +686,8 @@
   blog: https://spoqa.github.io/
   rss: https://spoqa.github.io/atom.xml
   github: https://github.com/spoqa
+- name: SULinux
+  home: https://www.sulinux.net/
 - name: SW교육 (스크래치, 앱인벤터, 파이썬, C)
   naver: https://cafe.naver.com/scratchprogramming
 - name: TeachCode
@@ -645,86 +704,25 @@
   github: https://github.com/vuejs-kr
 - name: Zabbix Users Korea
   facebook: https://www.facebook.com/groups/1549599631997752/
-- name: KLDP
-  home: https://kldp.org/
-  blog: https://kldp.org/blog
-  rss: https://kldp.org/blog/feed
-- name: 한국 리눅스 민트 사용자 모임
-  home: http://linuxmint.kr/
-- name: 넘버원 리눅스
-  home: http://www.no1linux.org/
-- name: 안녕 리눅스
-  home: http://annyung.oops.org/
-- name: SULinux
-  home: https://www.sulinux.net/
-- name: 리눅스 커뮤니티 하모니카
-  home: http://hamonikr.org/
-- name: 케이벤치
-  home: https://kbench.com/
-- name: 코알라 - 코딩좀알려주라
-  facebook: https://www.facebook.com/coalastudy/
-  home: http://www.coalastudy.com/
-  blog: http://blog.coalastudy.com/
-  rss: http://blog.coalastudy.com/rss
-- name: 데이터야놀자
-  home: https://datayanolja.github.io/
-  facebook: https://www.facebook.com/datayanolja.github.io/
-  github: https://github.com/datayanolja
-- name: 코딩클럽
-  home: http://codingclubs.org/
-  facebook: https://www.facebook.com/codingclubs/
-  youtube: https://www.youtube.com/channel/UCUr3XU8t9UrfGfkcP1mG8sA
-- name: SONOL_코딩.소프트웨어놀이터
-  naver: https://cafe.naver.com/gubass
-  youtube: https://www.youtube.com/channel/UC576all-JloCWvzLrc2QZxw
-- name: 한국 스프링 사용자 모임(KSUG)
-  home: http://www.ksug.org/
-  facebook: https://www.facebook.com/groups/springkorea/
 - name: Django Girls Seoul
   home: https://djangogirls.org/seoul/
   facebook: https://www.facebook.com/djangogirlsseoul/
   twitter: https://twitter.com/djangogirlseoul
   medium: https://medium.com/djangogirlsseoul-codecamp
   rss: https://medium.com/feed/djangogirlsseoul-codecamp
-- name: 모두의연구소
-  home: http://www.modulabs.co.kr/
-  facebook: https://www.facebook.com/lab4all/
-- name: 모두의연구소 커뮤니티
-  facebook: https://www.facebook.com/groups/modulabs/
-- name: 하이브아레나
-  home: https://hivearena.com/
-  facebook: https://www.facebook.com/hivearena/
-  twitter: https://twitter.com/hivearena
-  instagram: https://www.instagram.com/hivearena/
-- name: 나는프로그래머다
-  facebook: https://www.facebook.com/iamprogrammer.io/
-  description: 임작가, 데니스, 정개발
-- name: SK텔레콤 T-Brain
-  facebook: https://www.facebook.com/SKTBrain/
 - name: Naver Clova
   home: https://clova.ai/ko
   facebook: https://www.facebook.com/ClovaAI/
+- name: SK텔레콤 T-Brain
+  facebook: https://www.facebook.com/SKTBrain/
+- name: SONOL_코딩.소프트웨어놀이터
+  naver: https://cafe.naver.com/gubass
+  youtube: https://www.youtube.com/channel/UC576all-JloCWvzLrc2QZxw
 - name: YAPP
   home: http://yapp.co.kr/
   facebook: https://www.facebook.com/yapp.co.kr/
-- name: 유니톤 - 대학생 연합 해커톤
-  facebook: https://www.facebook.com/unithonWithU/
 - name: SW Maestro 과정
   facebook: https://www.facebook.com/swmaestro/
-- name: 부스트코스-boostcourse
-  facebook: https://www.facebook.com/boostcourse.connect/
-- name: 커넥트재단
-  home: https://connect.or.kr/
-  facebook: https://www.facebook.com/connect.naver/
-- name: 프로그래머스
-  home: https://programmers.co.kr/
-  blog: https://brunch.co.kr/@programmers
-  rss: https://brunch.co.kr/rss/@@Pmz
-- name: 모여서 각자 코딩하는 모임.
-  facebook: https://www.facebook.com/groups/mogaco/
-  github: https://github.com/OpenMogaco
-- name: 모의 침투 연구회
-  facebook: https://www.facebook.com/groups/metasploits/
 - name: 딥스터딩 딥러닝하는 고등학생 네트워크
   facebook: https://www.facebook.com/groups/174054533149440/
   discord: https://discordapp.com/invite/gY7eJYz
