@@ -31,6 +31,7 @@
 - [awesome-devblog에 내 블로그 등록하기](https://soobaaaam.tistory.com/5)
 - [「Clog」 서비스 개발기(React Native, Laravel, Django)](https://dev-yakuza.posstree.com/ko/clog/development-journal/)
 - [기술 블로그(Engineering Blog)란?](https://www.44bits.io/ko/keyword/engineering-blog#기술-블로그-링크집)
+- [mysetting 트윗](https://twitter.com/mysetting_io/status/1401730873725124613)
 
 ## 형제자매 프로젝트
 - [AWESOME DEVBLOG(포탈)](https://awesome-devblog.netlify.app/)
