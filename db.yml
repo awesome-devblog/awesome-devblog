@@ -4513,6 +4513,10 @@
   rss: https://rerewww.github.io/feed
   description: 'Web 기술 블로그'
   github: https://github.com/rerewww
+- name: 손수민
+  blog: https://codeamor.dev/
+  rss: https://codeamor.dev/rss.xml
+  description: JS Fullstack
 - name: 손승하
   blog: https://sonseungha.tistory.com/
   rss: https://sonseungha.tistory.com/rss
