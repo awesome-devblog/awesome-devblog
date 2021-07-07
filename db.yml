@@ -318,7 +318,7 @@
   blog: https://velog.io/@koeunyeon
   rss: https://v2.velog.io/rss/koeunyeon
   description: 스타트업
-  github: https://github.com/koeunyeon  
+  github: https://github.com/koeunyeon
 - name: 고은정
   blog: https://velog.io/@godori
   rss: https://v2.velog.io/rss/godori
@@ -4256,6 +4256,11 @@
   description: 게임 개발
   twitter: https://twitter.com/kwangyulseo
   github: https://github.com/kseo
+- name: 서경석
+  blog: https://gseok.github.io/
+  rss: https://gseok.github.io/atom.xml
+  description: Front-end, Web
+  github: https://github.com/gseok
 - name: 서동현
   blog: https://blog.smilecat.dev/
   rss: https://blog.smilecat.dev/rss.xml
@@ -6222,7 +6227,7 @@
   github: https://github.com/sonanlee
   linkedin: https://www.linkedin.com/in/sonanlee/
   facebook: https://www.facebook.com/sonan0721
-  description: 프로그래밍, 게임 개발, 리더쉽, 애자일 
+  description: 프로그래밍, 게임 개발, 리더쉽, 애자일
 - name: 이도현
   blog: https://genesis8.tistory.com/
   rss: https://genesis8.tistory.com/rss
@@ -8434,7 +8439,7 @@
 - name: 정승현
   blog: http://www.roach-devlog.com/
   description: 기술 블로그
-  github: https://github.com/tmdgusya  
+  github: https://github.com/tmdgusya
 - name: 정승철
   blog: https://medium.com/@ddt1984
   rss: https://medium.com/feed/@ddt1984
