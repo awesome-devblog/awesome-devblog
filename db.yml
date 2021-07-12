@@ -4098,10 +4098,6 @@
   description: 번역
   twitter: https://twitter.com/steadyslow
   facebook: https://www.facebook.com/hwidong.bae
-- name: 백규철
-  blog: https://bk-investing.tistory.com/
-  rss: https://bk-investing.tistory.com/rss
-  description: Java, Spring, 네이버, 카카오, 주식
 - name: 백근영
   blog: https://velog.io/@dvmflstm
   rss: https://v2.velog.io/rss/dvmflstm
