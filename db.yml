@@ -1175,6 +1175,10 @@
   description: Elixir
   github: https://github.com/harfangk
   twitter: https://twitter.com/harfangk
+- name: 김백
+  blog: https://baek-kim-dev.site/
+  rss: https://baek-kim-dev.site/rss
+  description: 개발, IT기업 취업, 알고리즘
 - name: 김삼영
   blog: https://netpple.github.io/
   rss: https://netpple.github.io/feed
