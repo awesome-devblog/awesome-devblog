@@ -3655,6 +3655,11 @@
   facebook: https://www.facebook.com/profile.php?id=100005081051207
   twitter: https://twitter.com/GopherPark
   description: golang
+- name: 박정훈
+  blog: https://haragoo30.medium.com/
+  rss: https://medium.com/feed/@haragoo30
+  github: https://github.com/qkreltms
+  facebook: https://www.facebook.com/profile.php?id=100005018261888
 - name: 박조은
   blog: https://corazzon.github.io/
   rss: https://feeds.feedburner.com/github/GgbQ?format=xml
