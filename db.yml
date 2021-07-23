@@ -7285,6 +7285,11 @@
   blog: https://velog.io/@jacoblee19
   rss: https://v2.velog.io/rss/jacoblee19
   description: Back-end
+- name: 이준균
+  blog: https://insanelysimple.tistory.com/
+  rss: https://insanelysimple.tistory.com/rss
+  description: Java, Backend
+  github: https://github.com/leechoongyon
 - name: 이준범
   blog: https://beomi.github.io/
   rss: https://beomi.github.io/feed
