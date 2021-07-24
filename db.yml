@@ -8829,11 +8829,10 @@
   rss: https://medium.com/feed/@namunamu1105
   rocketpunch: https://www.rocketpunch.com/@namunamu1105
 - name: 조동현
-  blog: https://hudi.kr/
-  rss: https://hudi.kr/feed/
-  description: Front-end
-  facebook: https://www.facebook.com/profile.php?id=100007156273191
-  slideshare: https://www.slideshare.net/Chodonghyun
+  blog: https://hudi.blog/
+  rss: https://hudi.blog/rss.xml
+  description: Full-Stack
+  home: https://wise-leader-b3c.notion.site/Hudi-s-R-sum-0c1d1a1b35284d1eaf05c5bfac4a3cad
 - name: 조만석
   blog: https://manseok.blogspot.com
   rss: https://manseok.blogspot.com/feeds/posts/default
