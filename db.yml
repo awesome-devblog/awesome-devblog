@@ -3469,6 +3469,12 @@
   description: Web
   github: https://github.com/soromi
   instagram: https://www.instagram.com/soromi_/
+- name: 박소현
+  blog: https://cooding-penguin.netlify.app/
+  rss: https://cooding-penguin.netlify.app/rss.xml
+  description: 파이썬, 웹, 컴퓨터비전
+  github: https://github.com/coodingpenguin
+  instagram: https://www.instagram.com/cooding_penguin/
 - name: 박소희
   blog: https://blog.naver.com/hyo04085
   rss: https://rss.blog.naver.com/hyo04085.xml
