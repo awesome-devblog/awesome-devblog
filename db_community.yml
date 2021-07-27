@@ -540,6 +540,11 @@
 - name: Internet of Things Korea Meetup
   meetup: https://www.meetup.com/ko-KR/Internet-of-Things-Korea-Meetup/
   facebook: https://www.facebook.com/IoTKoreaMeetup/
+- name: IMQA
+  blog: https://blog.imqa.io/
+  rss: https://blog.imqa.io/rss/
+  facebook: https://www.facebook.com/imqa.io/
+  home: http://imqa.io/mpm
 - name: IT독서실
   facebook: https://www.facebook.com/groups/itbook4u/
 - name: Javawocky
