@@ -4359,6 +4359,8 @@
   blog: https://brunch.co.kr/@bonfire
   description: Workflowy
 - name: 서우혁
+  blog: https://traitors-biscuit.tistory.com/
+  rss: https://traitors-biscuit.tistory.com/rss
   github: https://github.com/traitor0213
   youtube: https://www.youtube.com/channel/UCtF0oPFoC_4kskBC2v7xWTw
   facebook: https://www.facebook.com/profile.php?id=100020502853148
@@ -7650,6 +7652,7 @@
   rss: https://blog.silentsoft.org/feed.xml
   description: Back-end
   github: https://github.com/silentsoft
+  facebook: https://www.facebook.com/hyesung.e.lee
 - name: 이현진
   blog: https://jayprogram.tistory.com/
   rss: https://jayprogram.tistory.com/rss
