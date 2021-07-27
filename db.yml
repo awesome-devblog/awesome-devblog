@@ -1824,8 +1824,8 @@
   description: Back-end
   github: https://github.com/jaeminkim87
 - name: 김재서
-  blog: https://jaeseokim.github.io/
-  rss: https://jaeseokim.github.io/rss
+  blog: https://jaeseokim.dev/
+  rss: https://jaeseokim.dev/rss.xml
   description: Security, Develop
   github: https://github.com/JaeSeoKim
   facebook: https://www.facebook.com/devjaeseo/
@@ -5338,6 +5338,7 @@
   description: '프리랜서(?)'
   home: http://comne.kr
   blog: https://dev.to/composite
+  rss: https://dev.to/feed/composite
   facebook: https://www.facebook.com/ukjinplant
   linkedin: https://www.linkedin.com/in/ukjinplant
   github: https://github.com/composite
@@ -5624,6 +5625,9 @@
   github: https://github.com/Charlezz
   youtube: https://www.youtube.com/channel/UCxIEmnN8jVhvnKzwKrjpJcQ
 - name: 옥찬호
+  blog: http://utilforever.github.io/
+  rss: http://utilforever.github.io/atom.xml
+  github: https://github.com/utilForever
   slideshare: https://www.slideshare.net/utilforever
 - name: 왕응석
   blog: https://project-openlab.blogspot.com/
