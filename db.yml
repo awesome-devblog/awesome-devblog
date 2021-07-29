@@ -7637,6 +7637,13 @@
   blog: https://blog.naver.com/PostList.nhn?blogId=hidejj79
   rss: https://rss.blog.naver.com/hidejj79.xml
   description: ''
+- name: 이현우
+  blog: https://velog.io/@l2hyunwoo
+  rss: https://v2.velog.io/rss/l2hyunwoo
+  description: Android
+  linkedin: https://www.linkedin.com/in/hyunwoo-lee-0412/
+  github: https://github.com/l2hyunwoo
+  instagram: https://www.instagram.com/l2hyunwoo/
 - name: 이현주
   blog: https://wayhome25.github.io/
   rss: https://wayhome25.github.io/atom.xml
