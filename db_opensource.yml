@@ -2056,6 +2056,9 @@
   home: https://www.terraform.io/
   github: https://github.com/hashicorp/terraform
   tags: [Infrastructure as Code]
+- name: Textual
+  github: https://github.com/willmcgugan/textual
+  tags: [TUI Framework]
 - name: Three.js
   home: https://threejs.org/
   github: https://github.com/mrdoob/three.js
