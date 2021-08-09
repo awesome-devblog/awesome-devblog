@@ -2142,6 +2142,12 @@
   stackoverflow: https://stackoverflow.com/questions/tagged/traefik
   dockerhub: https://hub.docker.com/r/_/traefik/
   tags: [Proxy]
+- name: TypeORM
+  home: https://typeorm.io/
+  github: https://github.com/typeorm/typeorm
+  npm: https://www.npmjs.com/package/typeorm
+  slack: https://join.slack.com/t/typeorm/shared_invite/zt-gej3gc00-hR~L~DqGUJ7qOpGy4SSq3g
+  tags: [ORM]
 - name: TypeScript
   home: https://www.typescriptlang.org/
   github: https://github.com/Microsoft/TypeScript
