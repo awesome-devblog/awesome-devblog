@@ -2016,6 +2016,13 @@
   home: https://systemd.io/
   github: https://github.com/systemd/systemd
   tags: [System Manager]
+- name: Tailwind CSS
+  home: https://tailwindcss.com/
+  github: https://github.com/tailwindlabs/tailwindcss
+  discord: https://discord.com/invite/7NF8GNe
+  twitter: https://twitter.com/tailwindcss
+  youtube: https://www.youtube.com/tailwindlabs
+  tags: [UI Framework]
 - name: TensorFlow
   home: https://www.tensorflow.org/
   github: https://github.com/tensorflow/tensorflow
