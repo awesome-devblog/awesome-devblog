@@ -450,6 +450,13 @@
   awesome: https://github.com/sindresorhus/awesome-electron
   reddit: https://www.reddit.com/r/electronjs/
   tags: [Application Framework]
+- name: Eleventy
+  home: https://www.11ty.dev/
+  github: https://github.com/11ty/eleventy
+  twitter: https://twitter.com/eleven_ty
+  npm: https://www.npmjs.com/package/@11ty/eleventy
+  opencollective: https://opencollective.com/11ty
+  tags: [Static Site Generator]
 - name: Ember.js
   home: https://emberjs.com/
   github: https://github.com/emberjs/ember.js
