@@ -1495,6 +1495,11 @@
   slack: http://openwhisk.incubator.apache.org/slack.html
   awesome: https://github.com/apache/incubator-openwhisk-external-resources
   tags: [Serverless]
+- name: Outline
+  home: https://www.getoutline.com/
+  github: https://github.com/outline/outline
+  twitter: https://twitter.com/outlinewiki
+  tags: [Wiki]
 - name: p5.js
   home: https://p5js.org/
   github: https://github.com/processing/p5.js
