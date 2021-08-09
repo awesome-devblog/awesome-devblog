@@ -2022,7 +2022,7 @@
   discord: https://discord.com/invite/7NF8GNe
   twitter: https://twitter.com/tailwindcss
   youtube: https://www.youtube.com/tailwindlabs
-  tags: [UI Framework]
+  tags: [CSS Framework]
 - name: TensorFlow
   home: https://www.tensorflow.org/
   github: https://github.com/tensorflow/tensorflow
@@ -2299,6 +2299,12 @@
   github: https://github.com/CraneStation/wasmtime
   gitter: https://gitter.im/CraneStation/Lobby
   tags: [WebAssembly, Runtime]
+- name: Windi CSS
+  home: https://windicss.org/
+  github: https://github.com/windicss/windicss
+  discord: https://discord.com/invite/GTKYWq9zgA
+  twitter: https://twitter.com/windi_css
+  tags: [CSS Framework]
 - name: XState
   home: https://xstate.js.org/
   github: https://github.com/davidkpiano/xstate
