@@ -1989,6 +1989,11 @@
   github: https://github.com/airbnb/streamalert
   slack: https://streamalert.herokuapp.com/
   tags: [Data Analysis]
+- name: Supabase
+  home: https://supabase.io/
+  github: https://github.com/supabase/supabase
+  discord: https://discord.com/invite/AYybku5cUz
+  tags: [Database]
 - name: Svelte
   home: https://svelte.dev/
   github: https://github.com/sveltejs/svelte
