@@ -2325,12 +2325,12 @@
   rss: https://medium.com/feed/@jimkimau
   description: Front-end
   twitter: https://twitter.com/jimkimau
-- name: 김찬미
-  blog: https://chanmi-kim.github.io/
-  rss: https://chanmi-kim.github.io/atom.xml
+- name: 김이안
+  blog: https://yian.tistory.com
+  rss: https://yian.tistory.com/rss
   description: Java
-  github: https://github.com/Chanmi-Kim
-  facebook: https://www.facebook.com/devchanmi
+  github: https://github.com/Yian-Kim
+  facebook: https://www.facebook.com/devyiankim
 - name: 김찬빈
   blog: https://blog.kesuskim.com/
   rss: https://blog.kesuskim.com/feed.xml
