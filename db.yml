@@ -1776,6 +1776,12 @@
   rss: https://lypicfa.tistory.com/rss
   description: C++
   facebook: https://www.facebook.com/isaak.kim.7
+- name: 김이안
+  blog: https://yian.tistory.com
+  rss: https://yian.tistory.com/rss
+  description: Java
+  github: https://github.com/Yian-Kim
+  facebook: https://www.facebook.com/devyiankim
 - name: 김익환
   blog: http://www.ikwisdom.com/
   rss: http://www.ikwisdom.com/feeds/posts/default
@@ -2325,12 +2331,6 @@
   rss: https://medium.com/feed/@jimkimau
   description: Front-end
   twitter: https://twitter.com/jimkimau
-- name: 김이안
-  blog: https://yian.tistory.com
-  rss: https://yian.tistory.com/rss
-  description: Java
-  github: https://github.com/Yian-Kim
-  facebook: https://www.facebook.com/devyiankim
 - name: 김찬빈
   blog: https://blog.kesuskim.com/
   rss: https://blog.kesuskim.com/feed.xml
