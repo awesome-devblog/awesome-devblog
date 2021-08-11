@@ -9950,6 +9950,12 @@
   rss: https://10yearscoder.tistory.com/rss
   description: 프리랜서
   github: https://github.com/tenyearscoder
+- name: 한구영
+  nickname: developer-h
+  blog: https://developer-h.tistory.com/
+  rss: https://developer-h.tistory.com/rss
+  description: spring boot
+  github: https://github.com/dwarf-han
 - name: 한국현
   blog: https://brunch.co.kr/@breakthrough
   rss: https://brunch.co.kr/rss/@@Gwg
