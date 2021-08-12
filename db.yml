@@ -5835,6 +5835,12 @@
   rss: https://sungdoo.dev/feed/
   twitter: https://twitter.com/SungdooYoo
   github: https://github.com/e-sung
+- name: 유시형
+  blog: https://sihyungyou.github.io/
+  rss: https://sihyungyou.github.io/feed.xml
+  description: Swift
+  github: https://github.com/sihyungyou
+  youtube: https://www.youtube.com/channel/UCxb0aG8YjuLpkvBZekp1C5g
 - name: 유영모
   blog: https://medium.com/@SlackBeck
   rss: https://medium.com/feed/@SlackBeck
