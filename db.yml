@@ -2910,6 +2910,10 @@
   blog: https://velog.io/@dell_mond
   description: '예전의 그 오렌지가 아니다. 갈갈 갈려서 오렌지 쥬스가 된 dell.mond 의 프론트엔드 개발자 성장 기록'
   rss: https://api.velog.io/rss/@dell_mond
+- name: 노장혁
+  blog: https://nohriter.tistory.com/
+  rss: https://nohriter.tistory.com/rss
+  github: https://github.com/nohriter
 - name: 노재민
   blog: https://korsnack.kr/
   description: ''
@@ -7566,6 +7570,7 @@
   blog: https://qiita.com/leechungkyu
   rss: https://qiita.com/leechungkyu/feed.atom
   description: Jenkins, Atlassian
+  github: https://github.com/leechungkyu
   youtube: https://www.youtube.com/channel/UC_MinTXO3V4mhbjV3nd32PA
   facebook: https://www.facebook.com/ck1214.lee
 - name: 이충현
