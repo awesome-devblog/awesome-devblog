@@ -1166,6 +1166,10 @@
   rss: https://byounghoonkim.github.io/posts/index.xml
   github: https://github.com/byounghoonkim
   linkedin: https://www.linkedin.com/in/병훈-김-6608638b/
+- name: 김보경
+  blog: https://bokyeong-kim.github.io/
+  rss: https://bokyeong-kim.github.io/feed.xml
+  github: https://github.com/BoKyeong-Kim
 - name: 김보원
   blog: https://boribap.github.io/
   description: Block Chain
