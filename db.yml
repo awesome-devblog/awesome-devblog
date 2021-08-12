@@ -4306,6 +4306,11 @@
   rss: https://gseok.github.io/atom.xml
   description: Front-end, Web
   github: https://github.com/gseok
+- name: 서근
+  blog: https://seons-dev.tistory.com/
+  rss: https://seons-dev.tistory.com/rss
+  description: Swift
+  github: https://github.com/Seogun95
 - name: 서동현
   blog: https://blog.smilecat.dev/
   rss: https://blog.smilecat.dev/rss.xml
