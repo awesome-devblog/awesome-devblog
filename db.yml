@@ -1261,6 +1261,11 @@
   blog: https://blog.usefulparadigm.com/@sjoonk
   description: Wordpress
   twitter: https://twitter.com/sjoonk
+- name: 김석호
+  blog: https://seokba.tistory.com/
+  rss: https://seokba.tistory.com/rss
+  description: iOS
+  github: https://github.com/SeokBA
 - name: 김선규
   blog: https://velog.io/@hopsprings2
   rss: https://v2.velog.io/rss/hopsprings2
@@ -2507,6 +2512,9 @@
   rss: https://medium.com/feed/@xissy
   description: 스타트업
   linkedin: https://linkedin.com/in/xissy/
+  facebook: https://www.facebook.com/profile.php?id=100009318936193
+  github: https://github.com/xissy
+  home: https://taeho.io/
 - name: 김태환
   blog: http://thefinestartist.com/
   description: Java, Android
@@ -9626,6 +9634,7 @@
   blog: https://yunsikus.github.io/
   rss: https://yunsikus.github.io/feed.xml
   facebook: https://github.com/yunsikus
+  github: https://github.com/yunsikus
 - name: 최영록
   blog: https://yrok.tistory.com/
   facebook: https://www.facebook.com/RakkuPlace
