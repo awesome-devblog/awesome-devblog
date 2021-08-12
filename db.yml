@@ -7839,6 +7839,12 @@
   blog: https://velog.io/@ssuda
   rss: https://v2.velog.io/rss/ssuda
   description: OS
+- name: 임승현
+  blog: https://lsmman.tistory.com/
+  rss: https://lsmman.tistory.com/rss
+  description: AWS
+  github: https://github.com/lsmman
+  velog: https://velog.io/@lsmman
 - name: 임용태
   blog: https://jessyt.tistory.com/
   rss: https://jessyt.tistory.com/rss
