@@ -32,6 +32,7 @@
 - [「Clog」 서비스 개발기(React Native, Laravel, Django)](https://dev-yakuza.posstree.com/ko/clog/development-journal/)
 - [기술 블로그(Engineering Blog)란?](https://www.44bits.io/ko/keyword/engineering-blog#기술-블로그-링크집)
 - [mysetting 트윗](https://twitter.com/mysetting_io/status/1401730873725124613)
+- [Korean Open Source Projects](https://awesomeopensource.com/projects/korean) - Community 부문
 
 ## 형제자매 프로젝트
 - [AWESOME DEVBLOG(포탈)](https://awesome-devblog.netlify.app/)
@@ -44,3 +45,4 @@
 - [TodayDevBlog bot(슬랙 웹훅)](https://github.com/techinpark/today-devblog-bot)
 - [딥러닝으로 문서 분류기 만들기](https://nero.devstory.co.kr/post/pj-devblog-classifier/)
 - [devlogmoa](http://devlogmoa.shop/), [Github](https://github.com/monkeyDugi/dev_log_moa)
+- [mysetting](https://mysetting.io/posts/trending/all)
