@@ -14,7 +14,13 @@
 1. 좋아요, 포크, 제보, 풀리퀘 모두 환영입니다.프로젝트에 관심있으시면 gitter 들어오셔서 문의바랍니다.
 1. 추가적으로 [기여시 주의사항](CONTRIBUTING.md)을 꼭 읽어주세요.
 
+## 튜토리얼
+
+- [awesome-devblog에 내 블로그 등록하기](https://soobaaaam.tistory.com/5)
+- [awesome-devblog에 블로그 추가](https://jhhwang4195.tistory.com/6)
+
 ## 소개 및 언급된 글
+
 - awesome-devblog 회고
   - [2017년](https://medium.com/@sarojaba/2017년-awesome-devblog-회고-294694e0f99d)
   - [2018년](https://medium.com/@sarojaba/2018년-awesome-devblog-회고-ecf03ef16b1a)
@@ -28,13 +34,13 @@
 - [개발블로그 알림서비스 TodayDevblog_bot 개발기](https://miryang.dev/2019/06/22/Devblog-TelegramBot/)
 - [나는 LINE 개발자입니다: 라인의 개발 고수 12인의 도전과 기회, 성장의 개발 라이프](https://books.google.co.kr/books?id=2pK0DwAAQBAJ&pg=PT141&dq=awesome+devblog&hl=ko&sa=X&ved=0ahUKEwjpodLWyePmAhU-yIsBHYzGC5wQ6AEILzAB#v=onepage&q=awesome%20devblog)
 - [Feedly로 기술 블로그의 최신글을 모아서 볼 수 없을까? – 잔디에 기술 블로그 Lake 만들기](http://blog.jandi.com/ko/2020/02/11/feedly-and-jandi-blog-lake/)
-- [awesome-devblog에 내 블로그 등록하기](https://soobaaaam.tistory.com/5)
 - [「Clog」 서비스 개발기(React Native, Laravel, Django)](https://dev-yakuza.posstree.com/ko/clog/development-journal/)
 - [기술 블로그(Engineering Blog)란?](https://www.44bits.io/ko/keyword/engineering-blog#기술-블로그-링크집)
 - [mysetting 트윗](https://twitter.com/mysetting_io/status/1401730873725124613)
 - [Korean Open Source Projects](https://awesomeopensource.com/projects/korean) - Community 부문
 
 ## 형제자매 프로젝트
+
 - [AWESOME DEVBLOG(포탈)](https://awesome-devblog.netlify.app/)
 - [어썸블로그(안드로이드)](https://play.google.com/store/apps/details?id=org.petabytes.awesomeblogs)
 - [어썸블로그(iOS)](https://itunes.apple.com/us/app/어썸-블로그/id1276023809)
