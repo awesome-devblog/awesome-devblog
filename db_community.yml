@@ -305,9 +305,6 @@
 - name: 이상한모임
   blog: http://blog.weirdx.io
   rss: http://blog.weirdx.io/feed/
-- name: 이음소시어스
-  blog: http://bigmatch.i-um.net
-  rss: http://bigmatch.i-um.net/feed/
 - name: 인사이트
   blog: http://blog.insightbook.co.kr
   rss: http://blog.insightbook.co.kr/rss
@@ -365,11 +362,6 @@
   youtube: https://www.youtube.com/channel/UCUr3XU8t9UrfGfkcP1mG8sA
 - name: 코딩하는 디자이너
   facebook: https://www.facebook.com/wearescdc/
-- name: 코알라 - 코딩좀알려주라
-  facebook: https://www.facebook.com/coalastudy/
-  home: http://www.coalastudy.com/
-  blog: http://blog.coalastudy.com/
-  rss: http://blog.coalastudy.com/rss
 - name: 퀘이사존
   home: https://quasarzone.co.kr/
 - name: 클라우드 아키텍트(Cloud Architect)
@@ -482,10 +474,6 @@
   facebook: https://www.facebook.com/daumdevelopers/
 - name: Devlog
   facebook: https://www.facebook.com/Jbee.dev/
-- name: developerWorks Korea
-  blog: https://developer.ibm.com/kr/blog/
-  rss: https://developer.ibm.com/kr/blog/feed/
-  facebook: https://www.facebook.com/groups/developerWorksKRUG/
 - name: DevOps Korea
   facebook: https://www.facebook.com/groups/TeAnE/
   youtube: https://www.youtube.com/channel/UCOs9gZXnf6qb7cdfd7rQBDQ
@@ -533,7 +521,8 @@
   github: https://github.com/rickiepark/hongdae-ml-study
 - name: Hyperledger Korea User Group
   facebook: https://www.facebook.com/groups/115267728985925/
-- name: IBM developerWorks
+- name: IBM Developer Korea 사용자 그룹
+  facebook: https://www.facebook.com/groups/developerWorksKRUG/
   meetup: https://www.meetup.com/ko-KR/IBM-developerWorks-Meetup/
 - name: IIJ - 일본 IT in Japan
   naver: https://cafe.naver.com/itcareer
@@ -779,10 +768,6 @@
   home: http://gonggongplace.com
 - name: 싸이그래머
   facebook: https://www.facebook.com/groups/psygrammer/
-- name: 얼리버드
-  home: http://earlybird.ai/
-  blog: http://earlybird.ai/main/blog/
-  rss: http://earlybird.ai/feed/
 - name: C++, OpenSource Study
   facebook: https://www.facebook.com/groups/OpenCPP/
 - name: SW아키텍처 실무자 포럼
@@ -825,8 +810,8 @@
   blog: http://www.bsidesoft.com/
   rss: https://www.bsidesoft.com/?feed=rss2
 - name: Aliencube
-  blog: https://aliencube.org/
-  rss: https://aliencube.org/feed/
+  blog: https://blog.aliencube.org/
+  rss: https://blog.aliencube.org/feed.xml
   facebook: https://www.facebook.com/aliencube.community/
   twitter: https://twitter.com/aliencubeorg
 - name: 한국트렌드마이크로
@@ -883,8 +868,6 @@
   blog: https://velog.io/
   description: Meta Blog
 - name: Remotty
-  blog: http://blog.remotty.com/blog/
-  rss: http://blog.remotty.com/blog/rss/
   twitter: https://twitter.com/remottykr
   github: https://github.com/remotty
 - name: 야놀자
@@ -954,8 +937,7 @@
   blog: http://blog.jandi.com/ko/
   rss: http://feeds.feedburner.com/jandi/cbSy?format=xml
 - name: 스노우키위
-  blog: http://snowkiwi.com/
-  rss: http://www.snowkiwi.com/feed.xml
+  blog: https://www.snowkiwi.com/blog/
 - name: AXISJ
   home: http://axisj.com/
 - name: 서지스윈
@@ -1166,13 +1148,6 @@
 - name: 소프트캠퍼스
   home: http://www.softcampus.co.kr/
   youtube: https://www.youtube.com/channel/UCNSz1OJrw5yB8JGi76UQQ-Q
-- name: 스마트메이커
-  home: http://www.smartmaker.com/
-  blog: http://blog.smartmaker.com/
-  rss: http://blog.smartmaker.com/rss
-  facebook: https://www.facebook.com/smartmakerkorea/
-  naver: https://cafe.naver.com/softmania
-  youtube: https://www.youtube.com/channel/UC03x6KCsTmf_vDzSf4Y5miQ
 - name: 웹학교
   youtube: https://www.youtube.com/channel/UCjTQHbtYgSVCwU-sfVukZpw
 - name: 코딩의 신 아샬
@@ -1276,8 +1251,8 @@
   blog: https://startlink.blog/
   rss: https://startlink.blog/feed/
 - name: 시스코 코리아
-  blog: https://ciscokrblog.com/
-  rss: https://ciscokrblog.com/rss
+  blog: https://gblogs.cisco.com/kr/
+  rss: https://gblogs.cisco.com/kr/feed/
 - name: 아이펀팩토리
   blog: https://blog.ifunfactory.com/
   rss: https://blog.ifunfactory.com/feed/
@@ -1285,9 +1260,9 @@
   youtube: https://www.youtube.com/channel/UCZwya7NM8zija1I0MgLAIcA
   slideshare: https://www.slideshare.net/ifunfactory
 - name: 에이비일팔공
-  blog: http://blog.airbridge.io/
-  rss: http://blog.airbridge.io/rss/
+  blog: https://blog.ab180.co/
   facebook: https://www.facebook.com/ab180.co/
+  home: https://www.ab180.co/
 - name: 초보람보
   youtube: https://www.youtube.com/channel/UCvQOwKeXLw2jwecuL3bcw0w
 - name: 자바까페
@@ -1308,15 +1283,10 @@
   github: https://github.com/urbanbase/
   facebook: https://www.facebook.com/urbanbaseinc/
 - name: 패스트캠퍼스
-  blog: http://blog.fastcampus.co.kr/
-  rss: http://blog.fastcampus.co.kr/rss
+  blog: https://fastcampus.co.kr/story
   slideshare: https://www.slideshare.net/fastcampus
   facebook: https://www.facebook.com/fastcampus/
-  home: https://www.fastcampus.co.kr/
-- name: YodaCodd
-  blog: https://medium.com/@codesquad_yoda
-  rss: https://medium.com/feed/@codesquad_yoda
-  github: https://github.com/yodacode/
+  home: https://fastcampus.co.kr/
 - name: Google Study Jams in Korea
   facebook: https://www.facebook.com/groups/studyjamkorea/
 - name: 라라의 프로그래밍
@@ -1361,8 +1331,8 @@
 - name: 데이터센터 이야기
   youtube: https://www.youtube.com/channel/UCED-tnzVy5hrHwMO3qcMVyQ
 - name: Cloudflare
-  blog: https://blog.cloudflare.com/ko/
-  rss: https://blog.cloudflare.com/ko/rss/
+  blog: https://blog.cloudflare.com/ko-kr/
+  rss: https://blog.cloudflare.com/ko-kr/rss/
 - name: TOAST
   blog: https://meetup.toast.com
   rss: https://meetup.toast.com/rss
@@ -1512,9 +1482,6 @@
 - name: 망고플레이트
   blog: https://medium.com/team-mangoplate
   rss: https://medium.com/feed/team-mangoplate
-- name: 조이코퍼레이션
-  blog: https://blog-kr.zoyi.co/
-  rss: https://blog-kr.zoyi.co/rss/
 - name: 굿닥
   blog: http://dev.goodoc.co.kr/
   rss: http://dev.goodoc.co.kr/?feed=rss2
@@ -1583,8 +1550,8 @@
   blog: https://medium.com/humanscape-tech
   rss: https://medium.com/feed/humanscape-tech
 - name: 라인웍스
-  blog: https://linewalks.com/blog
-  rss: https://linewalks.com/feed
+  blog: https://blog.linewalks.com/
+  rss: https://blog.linewalks.com/feed
 - name: 헤렌
   blog: https://herrenofficial.github.io/
   rss: https://herrenofficial.github.io/feed.xml
@@ -1621,11 +1588,10 @@
   blog: https://medium.com/wematch
   rss: https://medium.com/feed/wematch
 - name: 마이크로프로텍트
-  blog: https://microprotect.github.io/
-  rss: https://microprotect.github.io/feed.xml
   facebook: https://www.facebook.com/microprotect
   github: https://github.com/microprotect
   instagram: https://www.instagram.com/microprotect/
+  home: https://microprotect.github.io/
 - name: 콜라비
   blog: https://blog.naver.com/collabee
   rss: https://rss.blog.naver.com/collabee.xml
@@ -1701,10 +1667,6 @@
 - name: 뱅크샐러드
   blog: https://blog.banksalad.com/
   rss: https://blog.banksalad.com/rss.xml
-- name: 딥백수
-  blog: https://dl4ab.github.io/
-  rss: https://dl4ab.github.io/atom.xml
-  github: https://github.com/dl4ab
 - name: 원티드
   blog: https://medium.com/wantedjobs
   rss: https://medium.com/feed/wantedjobs
