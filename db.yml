@@ -7269,6 +7269,12 @@
   rss: https://jaime-note.tistory.com/rss
   description: java, backend
   github: https://github.com/lcalmsky
+- name: 이정민
+  blog: https://velog.io/@hustle-dev
+  rss: https://v2.velog.io/rss/hustle-dev
+  facebook: https://www.facebook.com/jeongminiminimini
+  github: https://github.com/hustle-dev
+  linkedin: https://www.linkedin.com/in/jeongmin-lee-5ab898202/
 - name: 이정영
   blog: https://blog.jyslash.com/@jungyounglee
   description: UI 디자인
