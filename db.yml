@@ -7816,6 +7816,14 @@
   description: 포털
 - name: 이희진
   github: https://github.com/foxwavez
+- name: 인병윤
+  blog: https://velog.io/@kirri1124
+  rss: https://v2.velog.io/rss/kirri1124
+  description: Swift
+  github: https://github.com/ITlearning
+  linkedin: https://www.linkedin.com/in/byeongyun-in/
+  facebook: https://www.facebook.com/ITIBY
+  home: https://www.notion.so/ibyprofile/IT-learning-eb63ca29014c4dbc9b48d830ed41a36d
 - name: 임규민
   blog: https://medium.com/@limgyumin
   rss: https://medium.com/feed/@limgyumin
