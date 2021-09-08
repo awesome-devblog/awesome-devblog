@@ -6992,6 +6992,10 @@
   facebook: https://www.facebook.com/devpiknow
   twitter: https://twitter.com/iknow_p
   github: https://github.com/P-iknow
+- name: 이영한
+  blog: https://velog.io/@201
+  rss: https://v2.velog.io/rss/201
+  description: Android
 - name: 이영훈
   blog: https://resoliwan.blogspot.kr/
   rss: https://resoliwan.blogspot.com/feeds/posts/default
