@@ -997,6 +997,10 @@
   rss: https://wraithkim.wordpress.com/feed/
   description: Algorithm
   github: https://github.com/WraithKim
+- name: 김동희
+  blog: https://velog.io/@dev_bomdong
+  rss: https://v2.velog.io/rss/dev_bomdong
+  description: Front-end
 - name: 김래영
   blog: https://velog.io/@760kry
   rss: https://v2.velog.io/rss/760kry
