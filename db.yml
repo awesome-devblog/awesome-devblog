@@ -8875,6 +8875,10 @@
   rss: https://haeguri.github.io/atom.xml
   description: Front-end
   github: https://github.com/haeguri
+- name: 정현수
+  blog: https://velog.io/@junghyeonsu
+  rss: https://v2.velog.io/rss/junghyeonsu
+  github: https://github.com/junghyeonsu
 - name: 정현일
   blog: https://nuti.tistory.com/
   rss: https://nuti.tistory.com/rss
