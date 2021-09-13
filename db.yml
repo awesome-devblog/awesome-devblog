@@ -8927,7 +8927,9 @@
 - name: 정현수
   blog: https://velog.io/@junghyeonsu
   rss: https://v2.velog.io/rss/junghyeonsu
+  description: Front-end
   github: https://github.com/junghyeonsu
+  tistory: https://junghyeonsu.tistory.com/
 - name: 정현일
   blog: https://nuti.tistory.com/
   rss: https://nuti.tistory.com/rss
