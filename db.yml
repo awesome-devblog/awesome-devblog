@@ -1274,6 +1274,12 @@
   rss: https://seokba.tistory.com/rss
   description: iOS
   github: https://github.com/SeokBA
+- name: 김석현
+  blog: https://lob-dev.tistory.com/
+  rss: https://lob-dev.tistory.com/rss
+  description: Back-end
+  github: https://github.com/Lob-dev
+  linkedin: https://www.linkedin.com/in/seokhyeon-kim-6674501b2/
 - name: 김선규
   blog: https://velog.io/@hopsprings2
   rss: https://v2.velog.io/rss/hopsprings2
