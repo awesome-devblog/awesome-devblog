@@ -3539,8 +3539,8 @@
   rss: https://v2.velog.io/rss/psj0810
 - name: 박승현
   blog: https://bingbingpa.github.io
-  rss: https://bingbingpa.github.io/feed.xml
-  description: GIS 개발자
+  rss: https://bingbingpa.github.io/rss.xml
+  description: 개발자
   github: https://github.com/bingbingpa
 - name: 박승호
   blog: https://devwaf.blogspot.kr/
