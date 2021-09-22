@@ -2147,6 +2147,12 @@
   rss: https://juneyr.dev/feed.xml
   github: https://github.com/JuneBuug
   youtube: https://www.youtube.com/channel/UCXkByV3GagC1t5gCtr7Z1HA
+- name: 김준우
+  blog: https://junukim.dev/
+  rss: https://junukim.dev/feed.xml
+  description: Front-end
+  github: https://github.com/junu126
+  facebook: https://www.facebook.com/junukim.dev
 - name: 김준철
   blog: https://jetalog.net/
   rss: https://jetalog.net/rss
