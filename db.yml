@@ -9848,6 +9848,10 @@
   blog: https://blog.naver.com/isc0304
   rss: https://rss.blog.naver.com/isc0304.xml
   youtube: https://www.youtube.com/channel/UCW_PO0316aD16L3IcD34wPg
+- name: 최재강
+  blog: https://manchann.tistory.com/
+  rss: https://manchann.tistory.com/rss
+  description: Deep Learning, Cloud Architecture
 - name: 최재길
   blog: https://blog.devjoshua.me/
   rss: https://blog.devjoshua.me/feed.xml
