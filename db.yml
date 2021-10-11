@@ -1038,6 +1038,10 @@
   rss: https://pkgonan.github.io/feed
   description: Spring
   github: https://github.com/pkgonan
+- name: 김민규
+  blog: https://1minute-before6pm.tistory.com/
+  rss: https://1minute-before6pm.tistory.com/rss
+  description: Backend
 - name: 김민근
   blog: https://mingeun.com/
   rss: https://mingeun.com/feed
