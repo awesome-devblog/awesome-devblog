@@ -79,11 +79,11 @@
 | 로지스팟 | http://engineering.logi-spot.com/ | |
 | 전자신문 | http://www.etnews.com/ | IT 뉴스 |
 | 제이펍 | http://jpub.tistory.com/ | 책 |
-| 조이코퍼레이션 | https://medium.com/zoyi-blog | |
 | 줌 인터넷 개발 블로그 | https://zumdev.github.io/ | |
 | 지금 써보러 갑니다 | http://icunow.co.kr/ | |
 | 지디넷 코리아 | http://www.zdnet.co.kr/ | |
 | 지앤선 | http://jinson.tistory.com/ | 출판사 |
+| 채널톡 테크인사이트 | https://channel.io/ko/blog/tag/tech | |
 | 카이스트 Applied Algorithm Lab. | http://aalog.tistory.com/ | |
 | 카카오 기술 블로그 | http://tech.kakao.com/ | |
 | 카카오 정책지원팀 블로그 | https://brunch.co.kr/@kakao-it | |
