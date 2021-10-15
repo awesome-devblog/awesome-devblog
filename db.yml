@@ -2307,6 +2307,11 @@
   description: Java-Backend
   github: https://github.com/jistol
 - name: 김지훈
+  blog: http://soopsaram.com/documentudy/
+  rss: http://soopsaram.com/documentudy/feed.xml
+  description: UNIX & Linux Kernel
+  github: https://github.com/jihuun
+- name: 김지훈
   blog: https://vagabond95.github.io/
   rss: https://vagabond95.github.io/rss2.xml
   description: Android
