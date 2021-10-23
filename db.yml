@@ -9392,6 +9392,10 @@
   blog: https://joojaebum.com/
   description: 픽셀 아트
   instagram: https://www.instagram.com/joojaebum/
+- name: 주홍철
+  blog: https://blog.naver.com/jhc9639
+  rss: https://rss.blog.naver.com/jhc9639.xml
+  facebook: https://www.facebook.com/LucidHong
 - name: 지국환
   blog: https://blog.naver.com/wlhermit
   rss: https://rss.blog.naver.com/wlhermit.xml
@@ -10111,8 +10115,11 @@
   blog: https://younho9.dev
   rss: https://younho9.dev/rss.xml
   description: Front-end
+  github: https://github.com/younho9
   facebook: https://www.facebook.com/younho9.choo
   instagram: https://www.instagram.com/younho_9/
+  linkedin: https://www.linkedin.com/in/younho-choo-87b5151a0/
+  twitter: https://twitter.com/younho_9
 - name: 추영식
   blog: https://www.hides.kr
   rss: https://www.hides.kr/rss
