@@ -2364,8 +2364,13 @@
   rss: https://brunch.co.kr/rss/@@C6L
   description: 데이터 과학
   aladin: https://www.aladin.co.kr/m/mauthorinfo.aspx?authorsearch=@4975468
+- name: 김진완
+  blog: https://jwkim96.tistory.com/
+  rss: https://jwkim96.tistory.com/rss
+  facebook: https://www.facebook.com/jinwan.kim.9256
 - name: 김진욱
   blog: https://rein.kr/blog/
+  rss: https://rein.kr/blog/feed
   description: ''
 - name: 김진웅
   blog: https://ddii.dev/
@@ -3512,11 +3517,10 @@
   rss: https://medium.com/feed/@parkseongeun
   description: Front-end
 - name: 박성준
-  blog: https://blog.dochis.net/
-  rss: https://blog.dochis.net/feed.xml
+  blog: https://velog.io/@dochis
+  rss: https://v2.velog.io/rss/dochis
   facebook: https://www.facebook.com/shung.juin
   github: https://github.com/DOCHIS
-  home: http://dochis.net/
 - name: 박성진
   blog: https://precioustar.github.io/
   description: Web
