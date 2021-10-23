@@ -27,6 +27,7 @@
   - [2019년](https://medium.com/@sarojaba/2019년-어썸데브블로그-회고-fabd24f64db8)
 - [메이커스토리 8 - 신입 개발자분들이 유명해졌으면 좋겠어요.](https://www.disquiet.tech/post/makerstory-8)
   - ["신입 개발자분들이 유명해졌으면 좋겠어요." 라는 글을 읽고](https://www.hyojae.info/809a9321-0427-4268-8096-8415e7f33bcd)
+  - [취미로 만든 어썸데브블로그(Awesome Devblog) 사이트](https://ddka.tistory.com/entry/취미로-만든-어썸데브블로그Awesome-Devblog-사이트)
 - [개발자를 위한 (블로그) 글쓰기 intro](https://www.slideshare.net/zzsza/intro-102870757)
 - [기술블로그 구독서비스 개발 후기 - 1부](https://taetaetae.github.io/2018/08/05/daily-dev-blog-1/)
 - [(tech-trend) 구루들이 찾는다는 테크 트렌드 - 유명 블로그와 소셜 유명인](http://keen.devpools.kr/2017/08/03/tech-trend-03/)
