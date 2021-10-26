@@ -1701,7 +1701,7 @@
   description: 한글 언어, C++
 - name: 김용성
   blog: https://kys9261.github.io/
-  res: https://kys9261.github.io/rss.xml
+  rss: https://kys9261.github.io/rss.xml
   description: Web, Backend
   linkedin: https://www.linkedin.com/in/kys9261/
   github: https://github.com/kys9261
