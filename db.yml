@@ -1699,6 +1699,13 @@
   blog: http://moogi.new21.org/
   rss: http://moogi.new21.org/tc/rss
   description: 한글 언어, C++
+- name: 김용성
+  blog: https://kys9261.github.io/
+  res: https://kys9261.github.io/rss.xml
+  description: Web, Backend
+  linkedin: https://www.linkedin.com/in/kys9261/
+  github: https://github.com/kys9261
+  facebook: https://www.facebook.com/Uabout/
 - name: 김용일
   blog: https://app-developer.tistory.com
   rss: https://app-developer.tistory.com/rss
