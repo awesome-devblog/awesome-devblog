@@ -108,7 +108,7 @@
 - name: 강성진
   blog: https://ujuc.github.io/
   rss: https://ujuc.github.io/feeds/rss.xml
-  description: "-"
+  description: '-'
   github: https://github.com/ujuc
 - name: 강성훈
   blog: https://mearie.org/
@@ -2069,7 +2069,7 @@
   blog: https://wani-coding.tistory.com/
   github: https://github.com/oen142
   rss: https://wani-coding.tistory.com/rss
-  description: "꾸준한 백엔드 개발자입니다."
+  description: '꾸준한 백엔드 개발자입니다.'
 - name: 김종욱
   blog: https://jongwook.kim/
   description: ''
@@ -2095,7 +2095,7 @@
 - name: 김종헌
   blog: https://shovelman.tistory.com/
   rss: https://shovelman.tistory.com/rss
-  description: ".NET"
+  description: '.NET'
 - name: 김종혁
   blog: https://enfycius.github.io/
   rss: https://enfycius.github.io/feed.xml
@@ -2953,7 +2953,7 @@
 - name: 노아론
   blog: https:/codeac.tistory.com
   rss: https://codeac.tistory.com/rss
-  description: "프레임워크 / 오픈소스"
+  description: '프레임워크 / 오픈소스'
   github: https://github.com/roharon
   facebook: https://www.facebook.com/roharon
   slideshare: https://www.slideshare.net/ssuser4f42b1
@@ -2977,13 +2977,13 @@
   egloos: http://somma.egloos.com/
 - name: 노우현
   blog: https://www.rohwoohyeon.com
-  description: "주니어 개발자의 성장 일기, 김버그"
+  description: '주니어 개발자의 성장 일기, 김버그'
   facebook: https://www.facebook.com/woohyeon.roh
   instagram: https://www.instagram.com/_kimbug/
   youtube: https://youtube.com/c/kimbug
 - name: 노유정
   blog: https://velog.io/@dell_mond
-  description: "예전의 그 오렌지가 아니다. 갈갈 갈려서 오렌지 쥬스가 된 dell.mond 의 프론트엔드 개발자 성장 기록"
+  description: '예전의 그 오렌지가 아니다. 갈갈 갈려서 오렌지 쥬스가 된 dell.mond 의 프론트엔드 개발자 성장 기록'
   rss: https://api.velog.io/rss/@dell_mond
 - name: 노장혁
   blog: https://nohriter.tistory.com/
@@ -4106,7 +4106,7 @@
 - name: 박태진
   blog: https://fernando.kr/
   rss: https://fernando.kr/feed
-  description: "Fernando 기술 블로그"
+  description: 'Fernando 기술 블로그'
   github: https://github.com/techinpark
   twitter: https://twitter.com/techinpark
 - name: 반병현
@@ -4690,7 +4690,7 @@
 - name: 손상우
   blog: https://rerewww.github.io/
   rss: https://rerewww.github.io/feed
-  description: "Web 기술 블로그"
+  description: 'Web 기술 블로그'
   github: https://github.com/rerewww
 - name: 손수민
   blog: https://codeamor.dev/
@@ -5491,7 +5491,7 @@
   slideshare: https://www.slideshare.net/leoyang991
   facebook: https://www.facebook.com/leoyang99
 - name: 양욱진
-  description: "프리랜서(?)"
+  description: '프리랜서(?)'
   home: http://comne.kr
   blog: https://dev.to/composite
   rss: https://dev.to/feed/composite
@@ -5872,7 +5872,7 @@
 - name: 유경상
   blog: http://www.simpleisbest.net/
   rss: http://www.simpleisbest.net/syndication.axd
-  description: ".NET"
+  description: '.NET'
 - name: 유다현
   blog: https://yuda.dev/
   rss: https://yuda.dev/rss
@@ -6286,7 +6286,7 @@
   linkedin: https://www.linkedin.com/in/geon-lee-26771614b/
   rss: https://geonlee.tistory.com/rss
   facebook: https://www.facebook.com/thisisismyname
-  description: "프론트엔드 엔지니어"
+  description: '프론트엔드 엔지니어'
 - name: 이건모
   blog: https://velog.io/@george
   rss: https://v2.velog.io/rss/george
@@ -6367,7 +6367,7 @@
 - name: 이구현
   blog: https://blinders.tistory.com/
   rss: https://blinders.tistory.com/rss
-  description: "10년뒤의 내가 읽어도 이해하기 위한 기술 블로그"
+  description: '10년뒤의 내가 읽어도 이해하기 위한 기술 블로그'
   github: https://github.com/onedayz
   linkedin: https://www.linkedin.com/in/grey-lee-12973a154/
 - name: 이규영
@@ -6584,7 +6584,7 @@
 - name: 이무열
   blog: https://mooyoul.github.io/
   rss: https://mooyoul.github.io/atom.xml
-  description: "AWS, Serverless, Node.js"
+  description: 'AWS, Serverless, Node.js'
   github: https://github.com/mooyoul
   linkedin: https://www.linkedin.com/in/mooyoul/
   slideshare: https://www.slideshare.net/mooyoul
@@ -7067,7 +7067,7 @@
   rss: https://phillyai.github.io/feed.xml
   twitter: https://twitter.com/dev_philly
   facebook: https://www.facebook.com/ars103
-  description: "C#, 삽질"
+  description: 'C#, 삽질'
 - name: 이영창
   blog: https://p-iknow.netlify.app
   rss: https://p-iknow.netlify.app/rss.xml
@@ -7137,7 +7137,7 @@
 - name: 이욱진
   blog: https://name267.tistory.com/
   rss: https://name267.tistory.com/rss
-  description: "C#"
+  description: 'C#'
   facebook: https://www.facebook.com/wookjin.lee.50
 - name: 이웅원
   blog: https://blog.naver.com/dnddnjs11
