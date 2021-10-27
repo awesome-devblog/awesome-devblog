@@ -1833,6 +1833,11 @@
   description: Java
   github: https://github.com/Yian-Kim
   facebook: https://www.facebook.com/devyiankim
+- name: 김인우
+  blog: https://dlsdn73.tistory.com
+  rss: https://dlsdn73.tistory.com/rss
+  description: javascript
+  github: https://github.com/Kiminwoo
 - name: 김익환
   blog: http://www.ikwisdom.com/
   rss: http://www.ikwisdom.com/feeds/posts/default
@@ -2106,10 +2111,10 @@
   rss: https://kim-jong-hyun.tistory.com/rss
   description: Spring
   facebook: https://www.facebook.com/profile.php?id=100042178410079
-- name : 김종현
-  blog : https://velog.io/@beberiche
-  rss : https://v2.velog.io/rss/beberiche
-  description : Nodejs
+- name: 김종현
+  blog: https://velog.io/@beberiche
+  rss: https://v2.velog.io/rss/beberiche
+  description: Nodejs
 - name: 김종희
   blog: https://kimpaper.github.io/
   rss: https://kimpaper.github.io/feed.xml
