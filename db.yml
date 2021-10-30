@@ -4177,6 +4177,13 @@
 - name: 배롱진
   blog: https://velog.io/@qoszino
   rss: https://v2.velog.io/rss/qoszino
+- name: 배명호
+  blog: https://velog.io/@cada
+  rss: https://v2.velog.io/rss/cada
+  description: Front-end
+  github: https://github.com/skqoaudgh
+  linkedin: https://www.linkedin.com/in/명호-배-b09389183/
+  facebook: https://www.facebook.com/skqoaudgh
 - name: 배상익
   blog: https://aidanbae.github.io/
   rss: https://aidanbae.github.io/index.xml
