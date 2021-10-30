@@ -9321,6 +9321,10 @@
   rss: https://rss.blog.naver.com/chowin21.xml
   description: 마케팅
   facebook: https://www.facebook.com/chowin21
+- name: 조찬아
+  blog: https://chana.tistory.com/
+  rss: https://chana.tistory.com/rss
+  facebook: https://www.facebook.com/profile.php?id=100016225624004
 - name: 조찬영
   blog: http://chanyeong.com/blog
   rss: http://chanyeong.com/rss.xml
