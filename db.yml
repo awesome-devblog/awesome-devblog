@@ -774,6 +774,9 @@
   rss: https://nolboo.kim/feed.xml
   description: 번역 모음
   github: https://github.com/nolboo
+- name: 김다희
+  blog: https://velog.io/@heehee
+  rss: https://v2.velog.io/rss/heehee
 - name: 김대권
   blog: https://blog.nacyot.com/
   rss: https://blog.nacyot.com/feed.xml
