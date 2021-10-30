@@ -6428,6 +6428,10 @@
   rss: https://hoshiblog.tistory.com/rss
   github: https://github.com/opentizen
   facebook: https://www.facebook.com/opentizen
+- name: 이다래
+  blog: https://leedr0730.medium.com/
+  rss: https://medium.com/feed/@leedr0730
+  description: Front-end
 - name: 이다윗
   blog: https://brunch.co.kr/@designforhuman
   rss: https://brunch.co.kr/rss/@@RSS
