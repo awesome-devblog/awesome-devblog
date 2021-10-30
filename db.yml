@@ -485,6 +485,11 @@
   github: https://github.com/gwonsungjun
   facebook: https://www.facebook.com/sungjun.gwon
   twitter: https://twitter.com/kwen5600
+- name: 권세진
+  blog: https://velog.io/@0307kwon
+  rss: https://v2.velog.io/rss/0307kwon
+  description: Front-end
+  github: https://v2.velog.io/rss/0307kwon
 - name: 권수호
   blog: https://blog.naver.com/PostList.nhn?blogId=knix008
   rss: https://blog.rss.naver.com/knix008.xml
