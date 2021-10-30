@@ -9337,6 +9337,11 @@
   rss: https://rss.blog.naver.com/chowin21.xml
   description: 마케팅
   facebook: https://www.facebook.com/chowin21
+- name: 조중현
+  blog: https://reniew.github.io/
+  rss: https://reniew.github.io/atom.xml
+  github: https://github.com/reniew
+  facebook: https://www.facebook.com/people/조중현/100001883067095
 - name: 조찬아
   blog: https://chana.tistory.com/
   rss: https://chana.tistory.com/rss
