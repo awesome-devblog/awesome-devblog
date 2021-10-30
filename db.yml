@@ -9041,6 +9041,9 @@
   rss: https://anothel.tistory.com/rss
   description: C/C++
   github: https://github.com/ANOTHEL
+- name: 정한별
+  blog: https://velog.io/@berrygood
+  rss: https://v2.velog.io/rss/berrygood
 - name: 정해균
   blog: https://haeguri.github.io
   rss: https://haeguri.github.io/atom.xml
