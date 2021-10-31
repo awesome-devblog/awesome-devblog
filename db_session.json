@@ -14119,6 +14119,134 @@
   "conference": "SOSCON",
   "year": 2019
 },{
+  "title": "오픈 소스 프로젝트를 엑싯한 후 생기는 일",
+  "author": "유저스틴",
+  "slide": "",
+  "video": "https://youtu.be/8i3QhY-y760",
+  "description": "",
+  "conference": "SOSCON",
+  "year": 2020
+},{
+  "title": "Mozilla Hubs를 통한 WebXR (가상현실) 구현하기",
+  "author": "윤석찬",
+  "slide": "",
+  "video": "https://youtu.be/bUk87y2VgCk",
+  "description": "",
+  "conference": "SOSCON",
+  "year": 2020
+},{
+  "title": "MPC 기반 커스터디 서비스 소개 및 고려사항",
+  "author": "허강욱",
+  "slide": "",
+  "video": "https://youtu.be/6Vmc3MVGktk",
+  "description": "",
+  "conference": "SOSCON",
+  "year": 2020
+},{
+  "title": "오픈소스 하드웨어를 넘어 오픈소스 프로세서로",
+  "author": "박상수",
+  "slide": "",
+  "video": "https://youtu.be/gEVaCDQ2CZI",
+  "description": "",
+  "conference": "SOSCON",
+  "year": 2020
+},{
+  "title": "Tizen Open Source Project & Samsung Tizen TV",
+  "author": "권호범, 정석재",
+  "slide": "",
+  "video": "https://youtu.be/L2wMZ75qTto",
+  "description": "",
+  "conference": "SOSCON",
+  "year": 2020
+},{
+  "title": "오픈 소스 컴플라이언스 in Business And Kakao",
+  "author": "황민호",
+  "slide": "",
+  "video": "https://youtu.be/oo2QTTavx8o",
+  "description": "",
+  "conference": "SOSCON",
+  "year": 2020
+},{
+  "title": "OpenSource AI 를 Live Service로 바꿔보자!",
+  "author": "김민현",
+  "slide": "",
+  "video": "https://youtu.be/-ZRrB9M7JHQ",
+  "description": "",
+  "conference": "SOSCON",
+  "year": 2020
+},{
+  "title": "올플래시 기반 분산 스토리지 시스템 용량 및 성능 최적화 방안",
+  "author": "오명원",
+  "slide": "",
+  "video": "https://youtu.be/NASnl5fwH2c",
+  "description": "",
+  "conference": "SOSCON",
+  "year": 2020
+},{
+  "title": "On-Device AI를 위한 이진화 영상 분할 신경망 모델과 하드웨어 가속기",
+  "author": "김정훈, 김현우",
+  "slide": "",
+  "video": "https://youtu.be/xF9OE8tbwGo",
+  "description": "",
+  "conference": "SOSCON",
+  "year": 2020
+},{
+  "title": "깃헙 4.3K 스타 웹 차트 오픈소스 billboard.js 성장기",
+  "author": "박재성",
+  "slide": "",
+  "video": "https://youtu.be/r8QT0UOf3Vw",
+  "description": "",
+  "conference": "SOSCON",
+  "year": 2020
+},{
+  "title": "AI Project에서 Open Source 도입했다 죽도록 고생했던 이야기",
+  "author": "한기훈",
+  "slide": "",
+  "video": "https://youtu.be/5aFkBd51Y2g",
+  "description": "",
+  "conference": "SOSCON",
+  "year": 2020
+},{
+  "title": "사회에 기여하는 SW 개발 경험 소개 「2019 삼성 주니어SW창작대회」수상작 및 Bixby Capsule 개발 경험담",
+  "author": "Reinventor",
+  "slide": "",
+  "video": "https://youtu.be/ZuqHV4-96XQ",
+  "description": "",
+  "conference": "SOSCON",
+  "year": 2020
+},{
+  "title": "개발자가 오픈소스로 성장하는 구체적인 방법",
+  "author": "김완수",
+  "slide": "",
+  "video": "https://youtu.be/QOLnhZ-HV78",
+  "description": "",
+  "conference": "SOSCON",
+  "year": 2020
+},{
+  "title": "SOS Ecosystem, 세상을 바꾸는 힘",
+  "author": "백동원",
+  "slide": "",
+  "video": "https://youtu.be/QfGUEEEhzJU",
+  "description": "",
+  "conference": "SOSCON",
+  "year": 2020
+},{
+  "title": "(서비스를 넘어) 아트를 만드는 오픈소스 | 크리에이티브 코딩",
+  "author": "박소선",
+  "slide": "",
+  "video": "https://youtu.be/iCdtuChPdU4",
+  "description": "",
+  "conference": "SOSCON",
+  "year": 2020
+},{
+  "title": "SSAFY의 맛있는 오픈소스 올리오알리오 도전기",
+  "author": "오픈소스 올리오알리오 프로젝트",
+  "slide": "",
+  "video": "https://youtu.be/G-g_QMkUnuo",
+  "description": "",
+  "conference": "SOSCON",
+  "year": 2020
+},{
   "title": "웰컴 스피치",
   "author": "송치형",
   "slide": "https://udc-file.s3.ap-northeast-2.amazonaws.com/files/1568082132205_Welcome%20Speech%201_Chi-Hyung%20Song.pdf",
