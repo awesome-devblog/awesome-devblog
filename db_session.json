@@ -13730,49 +13730,49 @@
 },{
   "title": "개발자라면, 회사라면 왜 오픈소스를 해야 할까?",
   "author": "이민석",
-  "slide": "https://www.soscon.net/content/data/session/Day%201_1330_1.pdf",
+  "slide": "https://www.sosconhistory.net/soscon2019/content/data/session/Day%201_1330_1.pdf",
   "description": "개발자에게 그리고 모든 회사에게 오픈소스와 커뮤니티는 너무나 중요합니다. 처음 개발에 입문하는 사람들이 역량을 높일 수 있는 방법도, 회사가 고객들이 원하는 모든 기술적, 비 기술적 혁신을 빠르게 달성하는 방법도 모두 오픈소스와 커뮤니티 안에 있습니다. 이 발표에서는 오픈소스와 커뮤니티가 개발자 역량과 기술 혁신의 핵심 고리인 이유가 무엇이고 정말 듣던대로 중요한지를 기술적인 관점과 비기술적인 관점에서 이야기합니다. 특히 넘쳐나는 지식 속에서, 가르치는 교육보다 스스로 배우는 과정을 통해 성장하는 것이 더 당연해진 요즘, 개발자로 커리어를 쌓아가려고 하는 주니어들에게 구체적인 학습 및 활동 방식을 제시해보고자 하며, 소프트웨어 개발자에 대한 폭발적인 수요 속에서 채용에 심각한 어려움을 겪고 있는 회사들에게는 생태계의 일원이 되기 위하여 할 수 있는 활동들을 제시합니다.",
   "conference": "SOSCON",
   "year": 2019
 },{
   "title": "오픈소스 ROS와 AWS RoboMaker를 통한 지능형 로봇앱 개발하기",
   "author": "윤석찬",
-  "slide": "https://www.soscon.net/content/data/session/Day%201_1330_2.pdf",
+  "slide": "https://www.sosconhistory.net/soscon2019/content/data/session/Day%201_1330_2.pdf",
   "description": "로봇은 이제 일상 생활 및 업무에서 널리 보급되어, 다양한 작업을 자동화하는데 도움을 주고 있습니다. 하지만, 로봇앱을 개발, 테스트 및 배포하는 데는 많은 진입 장벽이 있습니다. 본 세션에서는 오픈 소스 기반 로봇 운영 체제인 ROS를 소개하고, 이를 통해 클라우드 기반으로 로봇 앱을 만들 수 있는 AWS RoboMaker를 활용하는 방법을 살펴봅니다.로봇 앱 개발 부터 시뮬레이션 및 배포 단계별 샘플 예제와 자율 주행 모형 자동차인 Deep Racer같은 기계 학습을 결합한 로봇 서비스 개발 방식을 알아봅니다.",
   "conference": "SOSCON",
   "year": 2019
 },{
   "title": "Armeria로 Reactive Streams과 놀자!",
   "author": "엄익훈",
-  "slide": "https://www.soscon.net/content/data/session/Day%201_1330_3.pdf",
+  "slide": "https://www.sosconhistory.net/soscon2019/content/data/session/Day%201_1330_3.pdf",
   "description": "마이크로 서비스 아키텍처를 통한 설계 시, 우리는 다수의 마이크로 서비스로 분리하여 커플링을 줄이고 노드 간에 네트워크로 서로 통신하게 됩니다. 특정 노드에 응답을 줄 때 해당 노드가 처리할 수 있는 한계를 넘으면 어떻게 해야 할까요? 서버에 메모리 크기보다 많은 양의 데이터가 입력으로 들어오면 어떻게 해야 할까요? 이러한 문제를 해결하기 위해 Reactive Streams 공개가 되고 2015년에 1.0.0 버전이 릴리즈 되었습니다. 이는 Java9에 Flow API에 포함되어 대중화 및 표준화가 되었습니다. Armeria는 Reactive Streams 스펙를 구현하여 upstream과 downstream 사이의 traffic을 탄력적으로 조절할 수 있습니다. 기존에 있는 서버를 수정하지 않고 Armeria를 프락시 서버로 활용하여 reactive한 시스템을 구성할 수 있습니다. 더욱더 풍부한 기능을 위해서 여러분의 서버를 Armeria로 구축하게 되면 고성능 반응형 웹서버를 빠르게 구축할 수 있습니다. 더불어 Armeria는 HTTP/2와 gRPC의 stream, Spring Webflux 및 RxJava등 다양한 Reactive Streams Provider와 쉽게 연동할 수 있는 다양한 기능들을 제공하고 있습니다. 본 세션에서는 Reactive Streams를 이해하기 위한 배경 지식과 Armeria를 통해서 Reactive Streams 이용한 서버를 구축하고 이를 활용할 수 있는 정보에 대해서 공유하고자 합니다.",
   "conference": "SOSCON",
   "year": 2019
 },{
   "title": "적이 친구가 되는 법 - 오픈소스 커뮤니티에서 경쟁자와 협업하기",
   "author": "Ranny Haiby",
-  "slide": "https://www.soscon.net/content/data/session/Day%201_1430_1.pdf",
+  "slide": "https://www.sosconhistory.net/soscon2019/content/data/session/Day%201_1430_1.pdf",
   "description": "오픈소스는 우리가 경쟁자를 바라보는 방식을 변화시키고 있습니다. 우리는 과거에 경쟁자를 적으로 생각해야한다고 배웠습니다. 멀티벤더 오픈소스 커뮤니티는 협력을 위한 플랫폼을 제공합니다. 우리는 이제 일부 핵심기술에 대해 경쟁자와 협업할 수 있습니다. 동시에, 우리는 여전히 고객에게 제공하는 솔루션 전반에 있어서 차별성을 갖고 있습니다. 본 발표에서는 발표자의 수년 간의 협업 경험을 공유하고, 협업의 혜택과 피해야할 위험에 대해 알아봅니다. 뿐만 아니라, 성공적인 협업을 위한 팁도 공유합니다.",
   "conference": "SOSCON",
   "year": 2019
 },{
   "title": "로봇 환경에서의 고령자 일상 행동 인식을 위한 대규모 3차원 영상 데이터셋 구축과 공개",
   "author": "김도형",
-  "slide": "https://www.soscon.net/content/data/session/Day%201_1430_2.pdf",
+  "slide": "https://www.sosconhistory.net/soscon2019/content/data/session/Day%201_1430_2.pdf",
   "description": "휴먼케어 로봇을 위한 딥러닝 기반의 행동 인식 기술의 개발을 위해서는 충분한 크기의 데이터 셋의 확보가 필수적인데 이는 쉬운 일이 아닙니다. 유튜브나 영화 등에서 수집된 행동들로 이루어진 기존의 데이터 셋들이 있기는 하나, 로봇환경에서 휴먼의 일상 행동을 인식하기 위한 공개 데이터 셋은 매우 부족하며 특히 고령자를 대상으로 하는 데이터 셋은 전무합니다. 따라서 본 연구진은 로봇 환경에서 고령자의 일상 행동 인식을 위해 필요한 대규모의 3차원 영상 데이터 셋을 직접 설계하고 구축하고 있습니다. 구축된 데이터 셋은 2019년 하반기부터 순차적으로 공개될 계획이며, 지능정보-로봇 기술의 발전에 기여할 수 있을 것으로 기대됩니다.",
   "conference": "SOSCON",
   "year": 2019
 },{
   "title": "Chromium 커밋 사례를 통한 오픈소스 활동 방법",
   "author": "김현준, 박중헌",
-  "slide": "https://www.soscon.net/content/data/session/Day%201_1430_3.pdf",
+  "slide": "https://www.sosconhistory.net/soscon2019/content/data/session/Day%201_1430_3.pdf",
   "description": "Chrome/Safari의 Layout Engine인 Blink/WebKit에 Commit한 실제 패치의 사례를 통해 Layout, CSS, SVG등 웹 표준을 이해하고 이들 웹 엔진에 기여를 하고자 하는 사람들에게 가이드를 제공하고자 합니다.",
   "conference": "SOSCON",
   "year": 2019
 },{
   "title": "회사원에서 오픈소스 개발자로 거듭나기",
   "author": "방진호, 고병권",
-  "slide": "https://www.soscon.net/content/data/session/Day%201_1530_1.pdf",
+  "slide": "https://www.sosconhistory.net/soscon2019/content/data/session/Day%201_1530_1.pdf",
   "description": "회사에 불만 많던 두 개발자가 오픈소스라는 새로운 세계를 통해 성장하게 된 과정을 이야기 합니다.",
   "conference": "SOSCON",
   "year": 2019
@@ -13786,77 +13786,77 @@
 },{
   "title": "Method of NUMA-Aware Resource Management for Kubernetes 5G NFV Cluster",
   "author": "전병곤",
-  "slide": "https://www.soscon.net/content/data/session/Day%201_1530_3.pdf",
+  "slide": "https://www.sosconhistory.net/soscon2019/content/data/session/Day%201_1530_3.pdf",
   "description": "본 세션에서는 Kubernetes와 다양한 CRI Runtime(Docker, Containerd, CRI-O)들을 사용할 때 구성되는 Container 실행 환경에 대하여 소개 한 뒤, Kubernetes 환경에서 CNF(Containerized Network Function)를 위한 NUMA를 고려한 리소스 관리방법(CPU Manager, Topology Manager, Etc)과 관련 이슈들, 그리고 현업에서 Opensource에 기여중인 내용들을 소개합니다.",
   "conference": "SOSCON",
   "year": 2019
 },{
   "title": "오픈소스 기여자 만들기, 참 쉽죠?",
   "author": "송민우, 이서연",
-  "slide": "https://www.soscon.net/content/data/session/Day%201_1630_1.pdf",
+  "slide": "https://www.sosconhistory.net/soscon2019/content/data/session/Day%201_1630_1.pdf",
   "description": "올해로 4년 차를 맞이하는 Armeria는 단순히 메인테이너에 의해서만 개발된 것이 아니라 기여자의 참여로 꾸준히 개발될 수 있었습니다. 커뮤니티와 함께 성장하는 것을 핵심으로 삼은 Armeria 팀에서는 기여자와 함께하는 프로그램을 진행하며 여러 가지 배운 점들이 많았습니다. 이번 세션에서는 오픈소스 기여에 관심이 많은 사람, 그리고 기여자를 더 찾고 싶은 메인테이너에게 멘토링 프로그램의 기획 과정과 실행 후기를 공유합니다.",
   "conference": "SOSCON",
   "year": 2019
 },{
   "title": "Micro-architectural attack and defense on Linux kernel",
   "author": "박진범, 강준원",
-  "slide": "https://www.soscon.net/content/data/session/Day%201_1630_2.pdf",
+  "slide": "https://www.sosconhistory.net/soscon2019/content/data/session/Day%201_1630_2.pdf",
   "description": "공격자의 입장이 되어 봅시다. 이전까지 \"ROP 공격\"으로 대변되는 SW 취약점 공격으로 상당한 재미를 보았습니다. 이처럼 SW 취약점에 기반한 공격은 Arbitrary code execution으로 이어질 정도로 강력하지만, 특성상 Target SW에 대해 알아야 할 내용이 많고, 비교적 간단한 SW 패치를 통해 단시간에 방어가 가능해 공격이 무산되기 일쑤였습니다. 하지만 Target SW에 대해 알아야 할 것이 적고, 특성상 패치가 느리거나 불가능한 HW의 취약점을 이용해 어렵지 않게 ROP 공격의 효과를 낼 수 있다면 어떨까요? Meltdown과 Spectre가 HW 취약점을 이용하는 대표적인 Micro-architectural attack 기법입니다. 이것이 최근 공격자들이 Micro-architectural attack을 많이 시도하고, 또 연구하는 이유입니다. 본 세션에서는 Meltdown과 Spectre의 Root cause와 Attack 방식에 대해 알아보고, Application 개발자가 어떻게 최선의 방어를 할 수 있는지 Linux kernel에서 채택된 Defense 방식을 통해 알아봅니다.",
   "conference": "SOSCON",
   "year": 2019
 },{
   "title": "rlottie: Lottie Animation를 이용한 모션 그래픽스 활용 사례 소개",
   "author": "최준수",
-  "slide": "https://www.soscon.net/content/data/session/Day%201_1630_3.pdf",
+  "slide": "https://www.sosconhistory.net/soscon2019/content/data/session/Day%201_1630_3.pdf",
   "description": "본 세션에서는 타이젠에서 Lottie 애니메이션 적용 방안 및 사례를 살펴봅니다. Lottie 애니메이션은 After Effect 등의 애니메이션 디자인 툴에서 추출한 데이터를 재생하는 벡터 그래픽스 기반의 애니메이션 기술 중 하나이며 타이젠에서는 이를 지원하기 위해 독립형 오픈소스 라이브러리 rlottie 프로젝트를 새로 생성했습니다. 본 세션에서는 rlottie 프로젝트에 대한 전반적인 소개를 함께 다루고자 합니다.",
   "conference": "SOSCON",
   "year": 2019
 },{
   "title": "SCP : Cloud Native Infrastructure for Telco",
   "author": "박종한",
-  "slide": "https://www.soscon.net/content/data/session/Day%202_1000_1.pdf",
+  "slide": "https://www.sosconhistory.net/soscon2019/content/data/session/Day%202_1000_1.pdf",
   "description": "SCP(Samsung Cloud Platform)는 Kubernetes를 Telco 환경에 사용하기 위해 CNI 및 EPA (Enhanced Platform Awareness) 기능을 최적화한 solution입니다. 이 세션에서는 Telco Application을 Cloud Native 하게 만들기 위해 Infrastructure 에서 준비해야 할 내용들을 공유하고자 합니다.",
   "conference": "SOSCON",
   "year": 2019
 },{
   "title": "Oliot – 데이터 혁명,참치에서 기차까지 그들의 일생을 담아라",
   "author": "김대영",
-  "slide": "https://www.soscon.net/content/data/session/Day%202_1000_2.pdf",
+  "slide": "https://www.sosconhistory.net/soscon2019/content/data/session/Day%202_1000_2.pdf",
   "description": "4차 산업혁명 시대는 데이터혁명 시대라고 합니다. 태평양에서 잡히는 참치가 우리의 식탁에 오를 때 까지의 일생 데이터, 그리고 프랑스에서 스위스로 가는 TGV 기차의 일생 데이터는 GS1 국제표준 언어로 기록과 공유가 됩니다. GS1 국제표준을 구현한 Oliot 오픈소스는 25개 이상의 글로벌 산업분야에서 활용될 수 있는 데이터 기반의 사물인터넷 플랫폼입니다. GS1 국제표준을 활용 하여, 여러 국가, 국제기구, 글로벌 기업들이 건설하고 있는 데이터왕국으로 초대합니다.",
   "conference": "SOSCON",
   "year": 2019
 },{
   "title": "첫 컨트리뷰션부터 Apache Committer가 되기까지",
   "author": "김동경",
-  "slide": "https://www.soscon.net/content/data/session/Day%202_1000_3.pdf",
+  "slide": "https://www.sosconhistory.net/soscon2019/content/data/session/Day%202_1000_3.pdf",
   "description": "2017년 2월, 첫 컨트리뷰션을 시작으로, 2019년 4월, Apache OpenWhisk의 Committer이자 PMC 멤버로 승격 되기까지 겪은 경험들을 공유 드립니다. 첫 컨트리뷰션을 하며 어려웠던 점이나, 컨트리뷰션 과정에서 겪은 헤프닝, Committer로 승격되는데 있어 가장 큰 역할을 했던 부분 등을 주로 경험 위주로 공유드릴 예정입니다. 오픈소스 프로젝트에 참여하기에 좋은 팁과 노하우들도 공유 드리며, 컨트리뷰션을 진행하면서 해결했던 문제들 중, 참석자분들께 도움이 될 만한 기술관련 내용들을 함께 조금씩 언급할 예정입니다.",
   "conference": "SOSCON",
   "year": 2019
 },{
   "title": "Treat Your Infrastructure like Cloud Native App",
   "author": "안재석",
-  "slide": "https://www.soscon.net/content/data/session/Day%202_1100_1.pdf",
+  "slide": "https://www.sosconhistory.net/soscon2019/content/data/session/Day%202_1100_1.pdf",
   "description": "5G가 런칭되면서 네트워크 가상화, MEC, MEDIA등 기술에 대한 진화와 새로운 서비스에 대한 요구사항이 강하게 대두되면서, Infrastructure도 Cloud Native Service 형태로 발전해 나가고 있습니다. 이에, SKT는 2016년부터 OpenStack과 Kubernetes를 접목한 Cloud Native Infrastructure 기술을 개발하고 있으며, OpenStack-Helm, Airship과 같은 글로벌 오픈소스SW 프로젝트에서 적극적인 코드 기여 등의 활동을 하고 있습니다. TACO(SKT All Container Orchestrator)는 이러한 기술들을 기반으로 SKT에서 개발한 \"Declarative Infrastructure Delivery 플랫폼\"이며, 기본적으로 Kubernetes의 Life cycle Management 기능을 통해 컨테이너화된 Infrastructure Software들을 Cloud Native Application처럼 배포, 관리하고 있습니다. 얼마전 오픈소스SW로 공개도 하였습니다 ([https://github.com/openinfradev](https://github.com/openinfradev)). 이번 발표에서는 TACO에 대한 기술 설명과 간단한 데모를 시작으로, 1) SKT Telco Network, IT환경, 외부 프로젝트에 TACO를 상용 적용하면서 경험한 다양한 기술적 이슈들과 해결방법, 2) 오픈소스SW기반 솔루션을 만들면서, 특히 중요하게 Build했던 CI Pipeline 아키텍처 및 기술 설명, 3) CRD, Operator, Cluster-API등 Cloud Native 생태계에 새롭게 등장한 기술 패턴들에 대한 설명과 이를 기반으로 한 새로운 형태의 Infrastructure Delivery & Lifecycle 관리 구현 계획에 대해서 이야기하고자 합니다.",
   "conference": "SOSCON",
   "year": 2019
 },{
   "title": "차세대 애플리케이션을 위한 세가지 떠오르는 기술 : Operators, Service Mesh, Serverless",
   "author": "이규석",
-  "slide": "https://www.soscon.net/content/data/session/Day%202_1100_2.pdf",
+  "slide": "https://www.sosconhistory.net/soscon2019/content/data/session/Day%202_1100_2.pdf",
   "description": "오퍼레이터, 서비스 메시, 서버리스는 최신 업계 트랜드인 컨테이너와 MSA와 같은 기술과 함께 주목을 받고 있으며, 컨테이너화 된 차세대 애플리케이션 개발 및 배포 구성 요소를 정의하도록 설정된 기술입니다. 고객은 오퍼레이터를 통해 비즈니스 로직을 애플리케이션에 구축하여 배치 및 관리를 향상시킬 수 있습니다. 서비스 메시는 개별 컨테이너 내에 배포 된 서비스 간의 통신 인프라를 가능하게 합니다. 서버리스는 최소한의 오버 헤드로 새로운 컴퓨팅 소비 모델을 가능하게 합니다. 이 세션에서는 이러한 기술을 통해보다 빠르고 일관되게 구축하고 배포하는 방법을 설명합니다.",
   "conference": "SOSCON",
   "year": 2019
 },{
   "title": "리눅스에서 더 빠른 패킷 처리하기: XDP",
   "author": "이호연",
-  "slide": "https://www.soscon.net/content/data/session/Day%202_1100_3.pdf",
+  "slide": "https://www.sosconhistory.net/soscon2019/content/data/session/Day%202_1100_3.pdf",
   "description": "리눅스에서 패킷 처리를 위한 방법은 어떤 것들이 있을까요? 그리고 각각의 패킷 처리 방법들은 얼마나 빠를까요? 이 발표에서는 리눅스에서의 패킷 처리 방법(User space, socket filter, netfilter, tc) 에 대해 알아보고, 각각의 패킷 처리가 네트워크 스택의 어떤 위치(hook point)에서 이루어지는지 분석과 함께 성능 비교를 진행해 볼 것입니다. 이와 함께, 최근 리눅스 커널에 추가된 in-kernel fast-path인 XDP를 이용한 패킷 처리에 대해 다루어 볼 것입니다. XDP(eXpress Data Path)는 리눅스 커널 내의 고성능의 programmable한 네트워크 data-path입니다. XDP는 네트워크 스택에서 SW 상으로 접근할 수 있는 가장 낮은 단계인 드라이버가 패킷을 받는 시점에 있으며,이 hook point에서 eBPF infrastructure를 이용함으로써 커널의 수정 없이 네트워크 스택의 확장이 가능합니다.",
   "conference": "SOSCON",
   "year": 2019
 },{
   "title": "공개 SW 3D VR 저작도구 및 엔진 - 다누리 엔진 - 개발",
   "author": "류성원",
-  "slide": "https://www.soscon.net/content/data/session/Day%202_1150_1.pdf",
+  "slide": "https://www.sosconhistory.net/soscon2019/content/data/session/Day%202_1150_1.pdf",
   "description": "현재 게임 및 가상현실 개발을 위한 3D / VR 엔진은 Unity3D 및 Unreal 의 양대 개발환경으로 모든 시장이 수렴되고 있으며, 일부 개발 능력을 가진 콘텐츠 제작사는 독자 개발 엔진을 사용하여 콘텐츠를 제작하고 있다. 이러한 대중적인 상용 SW 이외에 Godot, Torque, Xenko, Ogre 등이 활용되고 있다. 현재 개발하는 다누리 엔진은 이러한 여러 공개 SW 엔진의 그룹에 또 하나의 엔진을 넣는 것이 목적이 아니라, Unity3D처럼 쉬운 접근성을 가지면서도 엔진과 저작도구에 대한 소스를 공개하여, 콘텐츠 개발자가 엔진의 코드 수준에서 수정 변경이 가능하면서도, Unity에 근접하는 사용편의성을 제공하려고 노력하고 있다. 비교적 손쉽게 이해할 수 있어서 대학 수준에서 코드 개발에 활용이 가능하면서도, 상용 서비스가 가능한 간략한 구조의 엔진을 여러 협력사가 참여하여 개발을 진행하고 있고, 현재 Codefarm 및 EBS 의 교육 콘텐츠 개발에 활용되고 있다. 2017년부터 www.danuri-vr.org 에서 다누리 라이선스라는 MIT 형태와 비슷한 라이선스로 공개되고 있다.",
   "conference": "SOSCON",
   "year": 2019
@@ -13870,91 +13870,91 @@
 },{
   "title": "[IoT] 개인정보 보호를 고려한 IoT를 구축하자!",
   "author": "Ziran Sun",
-  "slide": "https://www.soscon.net/content/data/session/Day%202_1150_3.pdf",
+  "slide": "https://www.sosconhistory.net/soscon2019/content/data/session/Day%202_1150_3.pdf",
   "description": "사물 인터넷(IoT)으로 인한 사생활 침해에 대한 우려가 몇 년째 제기되고 있습니다. 일반 개인정보 보호법(GDPR)과 같은 데이터 보호 법안들은 \"프라이버시 중심 디자인(privacy by design)\"을 지지하고 기술을 배치하고 서비스를 구축할 때 디지털 사생활에 대한 우선순위를 재조정하도록 권장합니다. 다른 기술 스택과 비교했을 때, 개방형 웹 플랫폼의 프로미스(promise) 중 하나는 개인정보 보호 향상입니다. 본 발표에서는 새로운 장치 온보딩부터 원격 접속까지에 이르는 웹 기술을 사용하여 현장에 구축한 엔드 투 엔드(end to end) IoT 시스템에 대해 알아볼 것입니다. 각 단계에서는. 사생활 보호 및 우리의 솔루션에 대해 설명할 것입니다. 제약된 IoT 장치에서의 리소스 제한 문제를 해결하고 REST 웹 인터페이스를 개발하기 위해, 삼성의 초경량 제리스크립트(JerryScript) 엔진을 기반으로 하는 자바스크립트(JavaScript) 플랫폼인, Node.js부터 IoT.js에 이르는 Web of Things API를 포팅했습니다. 개방형 게이트웨이 프레임워크는 node.js를 기반으로 하며, 개인정보 보호 및 보안을 고려한 분산 '사물 인터넷(Internet of Things)'을 타겟으로 합니다. 웹을 이용한 '사물 (Thing)'의 디지털 복제를 위해, '디지털 트윈(Digital Twin)'을 바탕으로 하는 'Web of Twin'이라는 개념을 소개했습니다. 이 개념은 사물 웹(Web of Things), 몰입형 웹(Immersive Web) 및 PWA 기술을 사용한 스마트 홈 데모를 통해 설명할 수 있습니다. 네트워크 인프라 측면에서, 협력적 머신러닝 프레임워크인 연합 학습(Federated Learning)의 시행을 논의하고 실연해 보겠습니다. 시행되고 있는 연합 학습을 통해 모든 사용자 정보를 로컬 장치에 저장하고 '모형(model)' 업데이트만 서버로 보냄으로써 개인정보를 보호합니다.",
   "conference": "SOSCON",
   "year": 2019
 },{
   "title": "[AI] 오픈소스와 함께하는 인공지능 의료기기 제작기",
   "author": "양홍일",
-  "slide": "https://www.soscon.net/content/data/session/Day%202_1330_1.pdf",
+  "slide": "https://www.sosconhistory.net/soscon2019/content/data/session/Day%202_1330_1.pdf",
   "description": "안구 문제는 점점 심각해지고 있습니다. 미국안과협회에 따르면 머지않아 인구의 절반이 안경이 필요할 것으로 예상하고 있으며, 한국 국민건강보험 자료에 따르면 앞서 말씀드린 안경을 써야하는 원인인 안구 굴절 이상으로 야기되는 소아 약시 환자들이 꾸준히 증가하고 있다고 합니다. 그러나 증가하는 약시 발병률에 비해 소아 검사는 여전히 전 세계적으로 난제입니다. 약시는 4세 이전 조기 발견 시 95% 예방이 가능하지만 치료시기를 놓치면 8세 이후에는 23%대로 약시 완치율이 급감하기에 안경을 써도 교정이 불가한 상태로 평생을 고통 받아야 합니다. 약시 검사는 간단한 조기 검안으로 예방할 수 있지만 근본적인 문제는 4세 이전 아이들은 글을 모르거나 협조가 어려워 간단한 조기 검안조차 어렵다는 데에 있습니다. 이러한 문제점에 소아용 검안기기가 존재하지만 1000만원 대의 고가의 기기로 개인 안과의원이나 개발도상국의 낙후 지역 의료시설에 구비하기에는 어려움이 있습니다. 이에 생활 속 가장 가까이 존재하는 스마트폰만으로 검안을 할 수 있는 혁신적인 솔루션을 개발하여 우리나라 아이들의 눈 검사 뿐만 아닌 개발도상국의 아이들의 눈 건강까지 지켜줄 수 있는 기회를 창조하려 합니다. 이 혁신적인 솔루션은 KIZOPTER로 불리우며 오픈소스와 딥러닝을 이용하여 기존의 검안 기술을 접목시켜 연구, 개발하여 제작하였습니다. 이를 만들면서 있었던 제작과정 이야기와 주니어 개발자로서의 우여곡절 이야기, 연구개발부에서 사용한 DevOps환경을 스스로 개척해왔던 이야기들을 여러분들께 말씀 드리려 합니다.",
   "conference": "SOSCON",
   "year": 2019
 },{
   "title": "[Cloud] NHN은 어떻게 OpenStack으로 퍼블릭 클라우드 운영할까?",
   "author": "조성수",
-  "slide": "https://www.soscon.net/content/data/session/Day%202_1330_2.pdf",
+  "slide": "https://www.sosconhistory.net/soscon2019/content/data/session/Day%202_1330_2.pdf",
   "description": "우리는 지금 이 순간에도 아마존/구글/MS와 같이 클라우드 사업자가 제공하는 클라우드 서비스를 이용하고 있습니다. 우리가 사용하는 클라우드 서비스는 어떻게 구성되어있을까요? 그리고 또 어떻게 운영을 하고 있을까요? NHN TOAST는 OpenStack으로 퍼블릭/프라이빗 클라우드를 서비스하고 있습니다. 본 발표에서는 OpenStack을 포함한 다양한 오픈소스로 어떻게 퍼블릭 클라우드를 구축하고 있는지 그리고 운영하면서 겪은 다양한 경험들을 공유합니다.",
   "conference": "SOSCON",
   "year": 2019
 },{
   "title": "[AI] Unity ML-Agents를 이용한 강화학습 환경 및 인공지능 에이전트 개발 사례",
   "author": "민규식",
-  "slide": "https://www.soscon.net/content/data/session/Day%202_1330_3.pdf",
+  "slide": "https://www.sosconhistory.net/soscon2019/content/data/session/Day%202_1330_3.pdf",
   "description": "강화학습의 연구에 있어서 강화학습 알고리즘 자체도 중요하지만 강화학습 알고리즘을 테스트하기 위한 환경을 구성하는 것도 매우 중요합니다. 예를 들어 드론 시뮬레이션 환경에 강화학습 알고리즘을 적용해보고 싶은 경우에는 드론 시뮬레이터가 필요합니다. 그러나 이런 시뮬레이터를 직접 개발하는 것은 매우 어려운 일입니다. 특히 3D 환경의 시뮬레이터나 물리적인 모델을 가지는 시뮬레이터의 경우 더욱 구현이 어렵습니다. 하지만 지난 2017년 9월, Unity ML-agents가 공개되면서 강화학습 알고리즘을 테스트 할 게임 및 시뮬레이션 환경을 훨씬 간단하게 구현할 수 있게 되었습니다. Unity를 이용하여 3D 및 물리적인 모델을 가지는 환경도 비교적 쉽게 구현할 수 있으며 ML-agents를 이용해 제작된 환경과 강화학습 알고리즘 간의 통신도 간단하게 수행할 수 있습니다. 본 발표에서는 Unity ML-agents에 대한 소개를 진행하며 Unity ML-agents를 통해 구현한 강화학습 환경들의 예시를 소개하려 합니다.",
   "conference": "SOSCON",
   "year": 2019
 },{
   "title": "[BigData] Elastic Stack과 공공데이터를 이용해서 서울시 지하철 대시보드 만들기",
   "author": "김종민",
-  "slide": "https://www.soscon.net/content/data/session/Day%202_1430_1.pdf",
+  "slide": "https://www.sosconhistory.net/soscon2019/content/data/session/Day%202_1430_1.pdf",
   "description": "서울시 공공데이터 포털에서 수집한 데이터셋을 바탕으로 Elastic Stack 에서 서울시 지하철의 승하차 인원 추이와 통계 등을 분석하고 시각화 하는 과정을 소개합니다. 역별, 시간대별 데이터의 변화를 통해 분석 과정으로부터 어떤 통찰력을 얻을 수 있는지도 알아봅니다.",
   "conference": "SOSCON",
   "year": 2019
 },{
   "title": "[BigData] 샤딩스피어(shardingsphere) 어디까지 써봤니?",
   "author": "성동찬",
-  "slide": "https://www.soscon.net/content/data/session/Day%202_1430_2.pdf",
+  "slide": "https://www.sosconhistory.net/soscon2019/content/data/session/Day%202_1430_2.pdf",
   "description": "최근 아파치 프로젝트로 등극된 샤딩스피어를 사용하기 위해 좌충우돌 경험했던 내용 공유와 더불어, 다양한 활용 방안에 대해서 내용을 풀어봅니다. 비록 개발자는 아니지만, 필요하면 만들어야 하는 오픈소스 데이터엔지니어 입장에서, 남들이 해보지 않았던 방식으로 우리의 문제점을 해결한, 그리고 풀어나가고 있는 이야기를 중심으로 풀어보겠습니다.",
   "conference": "SOSCON",
   "year": 2019
 },{
   "title": "[Junior SW] 미래사회의 역량과 교육",
   "author": "권대용",
-  "slide": "https://www.soscon.net/content/data/session/Day%202_1430_3.pdf",
+  "slide": "https://www.sosconhistory.net/soscon2019/content/data/session/Day%202_1430_3.pdf",
   "description": "4차 산업혁명에 따른 미래사회에서는 컴퓨팅 기술과 사회의 모든 분야가 결합하여 기존의 방식이 자동화되며, 사람은 새로운 것을 하는 사회입니다. 이러한 사회에서 우리는 어떤 삶의 스타일 가질지를 상상해 보고 다양성이라는 관점에서 좀 더 우리에게 필요한 것이 무엇인지 생각해보고자 합니다. 특히 SW 교육이 우리에게 컴퓨팅을 통해 자동화 된 사회에서 어떠한 역량이 되는지를 고민해 보고 그 가치를 논의해 보고자 합니다.",
   "conference": "SOSCON",
   "year": 2019
 },{
   "title": "[BigData] Use Case로 살펴보는 Production Deep Learning 서비스 인프라 Eco System",
   "author": "김훈동",
-  "slide": "https://www.soscon.net/content/data/session/Day%202_1530_1.pdf",
+  "slide": "https://www.sosconhistory.net/soscon2019/content/data/session/Day%202_1530_1.pdf",
   "description": "Deep Learning Production 에서는 Model 코드 보다 5~10배 많은 Engineering Art 가 필요할 수 있으며, 그것들을 Support 하는 다양한 Open Source Eco System 이 존재합니다. 안정적이고, 확장 가능한, 진화하는 AI 서비스 설계 방법론과, 이를 위한 Infra 요소인, AI DevOps, AI BackOffice, CI/CD 무중지 모델 배포, Auto Scale Out/ Scale Down 기법들을 살펴보고, Cloud 및 Open Source 를 아우르는 최적화 도구들을 소개합니다.",
   "conference": "SOSCON",
   "year": 2019
 },{
   "title": "[Cloud] Metal3-IO : Kubernetes Native 한 방식으로 Baremetal Host 관리하기",
   "author": "한승진",
-  "slide": "https://www.soscon.net/content/data/session/Day%202_1530_2.pdf",
+  "slide": "https://www.sosconhistory.net/soscon2019/content/data/session/Day%202_1530_2.pdf",
   "description": "edge cloud와 같은 분산된 클라우드 인프라 환경에 대한 요구사항이 많아지면서 declarative infrastructure management 에 대한 중요성도 커지고 있습니다. 우리는 Metal³ 를 통해서 Kubernetes Native 한 방식으로 bare metal 호스트를 배포하고 관리할 수 있습니다. 이 세션에서는 Metal³ 프로젝트에서 활용하는 cluster-api, baremetal operator 등의 kubernetes native 기술과 실제로 bare metal host를 provisioning 하는데 사용되는 OpenStack ironic 프로젝트에 대해 다룰 예정입니다.",
   "conference": "SOSCON",
   "year": 2019
 },{
   "title": "[Junior SW] 챗봇을 활용한 SW (작품명 : ReviewSpy)",
   "author": "강태욱",
-  "slide": "https://www.soscon.net/content/data/session/Day%202_1630_3.pdf",
+  "slide": "https://www.sosconhistory.net/soscon2019/content/data/session/Day%202_1630_3.pdf",
   "description": "머신러닝 자연어 처리를 통한 화자의 감정을 분류하는 SW입니다.",
   "conference": "SOSCON",
   "year": 2019
 },{
   "title": "공공데이터를 활용한 SW (작품명 : 내 손 안의 수질연구소)",
   "author": "김민겸, 김지환, 조현성",
-  "slide": "https://www.soscon.net/content/data/session/Day%202_1630_4.pdf",
+  "slide": "https://www.sosconhistory.net/soscon2019/content/data/session/Day%202_1630_4.pdf",
   "description": "수질관련 공공데이터를 실용적이고 편리하게 전달하는 SW입니다.",
   "conference": "SOSCON",
   "year": 2019
 },{
   "title": "오픈소스SW 라이브러리 Maven Central Repository로 공개하기",
   "author": "한성곤",
-  "slide": "https://www.soscon.net/content/data/session/Day%202_1730_1.pdf",
+  "slide": "https://www.sosconhistory.net/soscon2019/content/data/session/Day%202_1730_1.pdf",
   "description": "경쟁력있는 SW를 개발하기 위해서는 다양한 오픈소스SW를 적극적으로 활용해야 할 뿐만 아니라, 오픈소스SW 개발에 기여할 필요가 있습니다. 특히, 기업의 기술역량을 확보하고 회사 이미지를 제고할 수 있으며, 커뮤니티의 역량을 기반으로 새로운 기회를 얻을 수 있습니다. 삼성SDS에서도 오픈소스SW 생태계 참여를 위해 여러 노력들을 하고 있습니다. 그중 Code Analyst라는 SW의 다양한 품질을 측정할 수 있는 오픈소스SW를 18년부터 공개하고 있으며, 다른 오픈소스SW에서도 다양하게 활용할 수 있도록 Maven Central Repository로 공개하고 있습니다. Maven Central Repository는 전세계 다양한 오픈소스SW의 Java 라이브러리를 누구나 쉽게 사용할 수 있도록 제공되는 서비스이지만, Central Repository에 라이브러리를 공개하기 위해서는 여러 준비가 필요합니다. 본 세션에서는 SonaType의 OSSRH(OSS Repository Hosting)를 통해 라이브러리 배포를 준비하는 방법과 지속적인 통합(Continuous Integration)을 통해 릴리즈하는 사례를 공유함으로써 Central Repository의 전체 체계와 방법을 깊이 있게 이해할 수 있도록 안내합니다.",
   "conference": "SOSCON",
   "year": 2019
 },{
   "title": "CDC 오픈소스, Debezium 쓸까? 말까?",
   "author": "김용환",
-  "slide": "https://www.soscon.net/content/data/session/Day%202_1730_2.pdf",
+  "slide": "https://www.sosconhistory.net/soscon2019/content/data/session/Day%202_1730_2.pdf",
   "description": "Debezium(https://github.com/debezium/debezium)은 CDC(Change Data Capture)를 지원하는 지연 시간이 짧은 데이터 스트리밍 플랫폼을 제공하는 오픈 소스 프로젝트(Apache License 2.0)입니다. Debezium은 데이터베이스에서 로우 레벨의 변경 사항을 애플리케이션에서 해당 변경 사항을 반영할 수 있게 하는 분산 서비스 서비스입니다. Debezium은 내구성 있고 복제 로그에 데이터 변경 기록을 저장하고 애플리케이션에서 중지했다가 재시작할 수 있다. 기존 CDC 기술, Debezium 아키텍처, 카프카/카프카 커넥트/스키마 레지스트리/Mysql 데이터베이스/Kubernetes 연동, Debezium 장/단점을 설명합니다.",
   "conference": "SOSCON",
   "year": 2019
@@ -13969,7 +13969,7 @@
 },{
   "title": "함께 성장하는 커뮤니티, 케라스 코리아",
   "author": "전미정",
-  "slide": "https://www.soscon.net/content/data/commu/1_Day1_1330.pdf",
+  "slide": "https://www.sosconhistory.net/soscon2019/content/data/commu/1_Day1_1330.pdf",
   "video": "",
   "description": "기술을 공유하고 나누는 것이 더 큰 가치가 되어 돌아오는 요즘, 혼자 성장하는 것이 아니라 함께 성장 할 수 있는 방법인 커뮤니티 활동에 대해 이야기합니다. 동일한 분야에 관심을 지닌 다양한 사람들이 모여있는 커뮤니티에서 어떤 이야기가 오고가는지, 온/오프라인으로 어떤 활동을 하는지 알아봅니다. 그리고 커뮤니티에서 다른 사람들과 어떻게 커뮤니케이션 해야 나도, 상대방도 함께 성장할 수 있는지 공유합니다.",
   "conference": "SOSCON",
@@ -13977,7 +13977,7 @@
 },{
   "title": "케라스 in 텐서플로우2.0",
   "author": "박해선",
-  "slide": "https://www.soscon.net/content/data/commu/1_Day1_1400.pdf",
+  "slide": "https://www.sosconhistory.net/soscon2019/content/data/commu/1_Day1_1400.pdf",
   "video": "",
   "description": "텐서플로 2.0에서 변화된 내용을 소개하고 텐서플로 2.0에서 케라스가 어떤 역할을 담당하게 되었는지 소개합니다. 기본적인 케라스 사용법외에 텐서플로에서 케라스를 이용한 사용자 정의 모델을 어떻게 구현하는지도 알아보겠습니다.",
   "conference": "SOSCON",
@@ -13985,7 +13985,7 @@
 },{
   "title": "챗봇 (Keracom)",
   "author": "김슬기",
-  "slide": "https://www.soscon.net/content/data/commu/1_Day1_1430.pdf",
+  "slide": "https://www.sosconhistory.net/soscon2019/content/data/commu/1_Day1_1430.pdf",
   "video": "",
   "description": "최근 챗봇시스템에 대한 관심이 많아지면서 많은 회사들이 챗봇 시스템 구축을 진행해 왔으나, 인공지능이라는 추상적인 개념으로 인해 많은 오해를 가지고 왔습니다. 기존에 존재했던 텍스트 기반 기술과 AI(Deep Learning)가 들어간 기술을 비교하고, 현재 비즈니스에서 활용하는 챗봇시스템의 예시 및 코어가 되는 자연어 처리의 흐름을 공유하고자 합니다. 그리고, 현재 오픈소스 컨트리뷰톤에 진행 중인 케라콘에 대해 소개하고자 합니다.",
   "conference": "SOSCON",
@@ -13993,7 +13993,7 @@
 },{
   "title": "신경망 모델의 손쉽고 효과적인 구성과 수행을 이뤄주는 NNStreamer",
   "author": "함명주",
-  "slide": "https://www.soscon.net/content/data/commu/1_Day1_1500.pdf",
+  "slide": "https://www.sosconhistory.net/soscon2019/content/data/commu/1_Day1_1500.pdf",
   "video": "",
   "description": "심층신경망의 사용은 Cloud나 기존 고성능 기기에서 확대되어 모바일/가전기기에서의 On-Device AI로 확대되고 있습니다. On-Device AI는 특히 Device에서 직접 생산되는 대량의 Online Data Stream의 저지연 처리가 요구되는 경우, Cloud 비용이 문제되는 경우, 혹은 개인정보 보호 및 보안문제에 민감할 경우 더욱 유용합니다. 이러한 요구조건을 가지는 AI Application을 구현하기 위해 Data Stream Pipeline 형태로 On-Device AI 를 구현하는 방법들이 최근 제안되고 있으며, 그러한 신경망 용 Pipeline Framework이면서 Tizen, Android, Ubuntu, Yocto, macOS 환경에서 쉽게 공통으로 사용될 수 있는 nnstreamer에 대해 알아보고, nnstreamer를 사용하여 보다 쉽고 효율적으로 application을 작성하는 방법에 대해 소개하고자 합니다.",
   "conference": "SOSCON",
@@ -14001,7 +14001,7 @@
 },{
   "title": "알아두면 쓸데 있는 오픈소스 입문",
   "author": "정연준",
-  "slide": "https://www.soscon.net/content/data/commu/1_Day1_1530.pdf",
+  "slide": "https://www.sosconhistory.net/soscon2019/content/data/commu/1_Day1_1530.pdf",
   "video": "",
   "description": "오픈소스에 기여하고 싶어도, 처음 시작할 땐 어떻게 해야 할지 막막할 수 있습니다. 이에 케라스 코리아에서는 컨트리뷰톤, 케라스 공식 문서 한글화 등의 프로젝트를 통해 오픈소스 개발자로서의 첫 발을 내딛는 것을 도와주고 있습니다. 케라스 코리아에서 오픈소스 문화 확산에 기여하는 방식과, 그간 오픈소스 프로젝트에 기여하며 ‘이런 점은 알고 시작하면 좋겠다’고 느낀 점들을 사례를 중심으로 공유해보는 자리를 마련해 보았습니다.",
   "conference": "SOSCON",
@@ -14009,113 +14009,113 @@
 },{
   "title": "Keras를 한 층 더 멋지게 활용하기",
   "author": "황준원",
-  "slide": "https://www.soscon.net/content/data/commu/1_Day1_1600.pdf",
+  "slide": "https://www.sosconhistory.net/soscon2019/content/data/commu/1_Day1_1600.pdf",
   "video": "",
   "description": "초심자 분들도 쉽게 사용할 수 있는 딥러닝 라이브러리인 Keras는 많은 사람들에게 환영받고 있지만, 많은 분들이 어떤 기능을 추가하거나 사용자 임의로 뉴럴 네트워크의 레이어를 수정하는 방법을 잘 모르거나 어려워하십니다. 오픈 채팅방에서도 비슷한 질문들이 여럿 올라오기도 합니다. 이에 사람들이 많이 궁금해하는 기능이나, 잘 모르지만 유용한 기능들을 소개하고 사용법을 간단히 적어 Keras를 좀 더 자유롭고 강력하게 사용할 수 있도록 도와드리는 발표를 준비하려 합니다.",
   "conference": "SOSCON",
   "year": 2019
 },{
   "title": "Kaggle in Keras !",
-  "author": "",
-  "slide": "",
+  "author": "김태진",
+  "slide": "https://www.sosconhistory.net/soscon2019/content/data/commu/1_Day1_1630.pdf",
   "video": "",
-  "description": "",
+  "description": "데이터 공부를 하고 싶은데 어떻게 시작해야 좋을까요? 캐글이라는 플랫폼이 있던데 처음이라 너무 어려워요…. 케라스, 파이토치, 텐서플로우 들어본 적은 있는데 뭐부터 건드려야 할지 모르겠어요. 케라스 쉽다고 하는데 저한텐 아직…. 캐글을 잘 할 수 있는 방법은 뭘까요? 초보자에겐 익숙해지기 어려운 캐글을 케라스와 함께 풀어서 소개해드리려고 합니다. 캐글을 하기 위한 여러가지 팁과 정보는 덤!",
   "conference": "SOSCON",
   "year": 2019
 },{
   "title": "YOLO? YOLK!",
-  "author": "",
-  "slide": "",
+  "author": "박정현",
+  "slide": "https://www.sosconhistory.net/soscon2019/content/data/commu/1_Day1_1700.pdf",
   "video": "",
-  "description": "",
+  "description": "영상 및 이미지 컨텐츠에 포함된 물체 분석해 유용한 정보를 찾아내거나, 새로운 사용자 경험을 제공하는 Object Detection은 최근 가장 인기 있는 computer vision 분야 중 하나입니다. 활용도가 높고 관심이 많아 Object Detection 기술을 쉽게 사용할 수 있는 다양한 API가 제공되고 있지만, 공개된 API를 목적에 맞게 튜닝하거나 실제 데이터를 적용하기에는 어려움이 많습니다. 그래서 시작된 2019 공개 SW 컨트리뷰톤의 케라스 커뮤니티 프로젝트! Keras를 활용한 Objective Detection Platform YOLK를 소개합니다.",
   "conference": "SOSCON",
   "year": 2019
 },{
   "title": "Privacy protected. Verify your identity with your signature",
-  "author": "",
+  "author": "강형석",
   "slide": "",
   "video": "",
-  "description": "",
+  "description": "만약 아이디나 패스워드 없이 신원을 인증할 수 있다면 어떨까요? 인공지능을 이용해 어떻게 digital identity를 만들 수 있는지 알아보고 케라스로 간단하게 모바일 서명 인식 예제를 만들어봅시다.",
   "conference": "SOSCON",
   "year": 2019
 },{
   "title": "Little big Data 및 데이터야놀자 소개",
-  "author": "",
-  "slide": "",
+  "author": "진유림, 강민구",
+  "slide": "https://www.sosconhistory.net/soscon2019/content/data/commu/2_Day1_1310.pdf",
   "video": "",
-  "description": "",
+  "description": "Little Big Data는 'Big 데이터는 Big한 회사만을 위한 것이 아니다' 라는 슬로건으로 비정기 밋업을 여는 커뮤니티입니다. 다양한 백그라운드에서 온 사람들의 데이터 이야기를 나눕니다. 데이터야놀자는 데이터를 다루는 모든 사람들의 축제입니다. 데이터에 대한 관심은 나날이 늘어나고 있지만, 데이터를 가지고 '놀 줄 아는' 사람들의 이야기는 주변에서 쉽게 듣기가 어렵습니다. 데이터야놀자는 데이터 사용자들이 데이터와 더 잘 '놀' 수 있는 방법을 고민하고, 이를 여러분들과 함께 이야기해보고 싶습니다.",
   "conference": "SOSCON",
   "year": 2019
 },{
   "title": "부랴부랴 벼락 사이드 프로젝트(암호화폐 자동매매)",
-  "author": "",
-  "slide": "",
+  "author": "송치오",
+  "slide": "https://www.sosconhistory.net/soscon2019/content/data/commu/2_Day1_1330.pdf",
   "video": "",
-  "description": "",
+  "description": "SOSCON의 커뮤니티룸에서 25min 발표모집을 한다는 소식을 들었다. 하지만 '데이터로 사이드 프로젝트 만들기'라는 주제에 맞는 발표거리가 없다. 하지만 발표는 하고싶다. 그래서 부랴부랴 시작한 벼락 사이드 프로젝트! 발표날까지 '암호화폐 자동매매 사이드 프로젝트'를 처음부터 진행한다면 어디까지 진행 할 수 있을까? 1. 사이드 프로젝트를 진행한 다른 사람들을 보면 \"우와\"가 나오지만 막상 스스로 해보면 그렇지 않다. 저 사람은 도대체 얼만큼의 시간을 들인 것일까? 그래서 직접 발표날까지 사이드 프로젝트를 진행하는 과정의 민낯을 보여주고자 한다. 2. 데이터 수집부터 전처리, 인공지능을 활용한 자동매매까지(계획)의 A-Z를 소개합니다.",
   "conference": "SOSCON",
   "year": 2019
 },{
   "title": "LOL! 너의 추천아이템 믿어도 되니?",
-  "author": "",
-  "slide": "",
+  "author": "이재화",
+  "slide": "https://www.sosconhistory.net/soscon2019/content/data/commu/2_Day1_1400.pdf",
   "video": "",
-  "description": "",
+  "description": "LOL을 처음 접하거나 아직 잘 모르시는 분들은 LOL의 추천템에 맞게 템을 사거나 그냥 사고 싶은거 삽니다. 하지만 LOL 추천템을 잘 확인해 보세요. 탱커는 무조건 이 아이템, 딜러는 무조건 저 아이템 고정되어 있습니다. 특히 아이템에 대한 이해도가 없다면 아이템 뭐살지 고민하다가 전장에 늦게 합류합니다. 그리고 그 작은 스노우볼은 어디로 튈지 아무도 모릅니다. 그래서 우리는 시작할때, 중반, 후반 시간대 별로 상대방의 챔피언, 룬특성, 조합 등을 확인하고 그에 맞는 아이템을 추천해주는 알고리즘을 통해 아이템을 추천해보려고 합니다. 기존에 제가 제작했던 영상내용에서 보다 업그레이드 된 방식으로 재밌게 25분을 채워보겠습니다.",
   "conference": "SOSCON",
   "year": 2019
 },{
   "title": "나의 브런치 구독자 데이터 분석기",
-  "author": "",
-  "slide": "",
+  "author": "강원양",
+  "slide": "https://www.sosconhistory.net/soscon2019/content/data/commu/2_Day1_1430.pdf",
   "video": "",
-  "description": "",
+  "description": "올해 파이썬을 처음 접한 뒤 진행한 '나의 브런치 구독자 데이터 분석' 프로젝트의 과정과 후기를 공유합니다. 데이터 분석 프로젝트를 위해 진행한 웹 크롤링, 시각화 제작을 진행하였고, 그 결과 간단한 인사이트를 알게 되었습니다. 발표를 통해 데이터 활용 및 분석에 관심을 갖고 분들에게 누구나 관심사와 궁금증에 대한 답을 데이터로 찾을 수 있고, 또 나아가 업무 등에 데이터 활용 경험을 시도하고 적용할 수 있다는 이야기를 공유하고자 합니다.",
   "conference": "SOSCON",
   "year": 2019
 },{
   "title": "청소년도 같이 노는 데이터 사이언스",
-  "author": "",
-  "slide": "",
+  "author": "김현우",
+  "slide": "https://www.sosconhistory.net/soscon2019/content/data/commu/2_Day1_1500.pdf",
   "video": "",
-  "description": "",
+  "description": "먼저 학생인 저는 어떻게 데이터 사이언스를 입문했는지, 그리고 제 경험을 살려서 데이터들을 가지고 노는 방법들을 누구나 쉽게 할 수 있도록 알아보도록 하겠습니다. 그 후, 자유롭게 데이터 시각화를 통해 데이터와 친해질 수 있는 시간을 갖고, 그 동안의 삼성전자 주가로 미래의 주가를 예측 해보기를 진행한 후, 이게 과연 유의미한 결과인가에 대해 이야기할 것입니다. 그리고 마지막으로 이러한 데이터 사이언스를 누구나 쉽게 접할 수 있는 접할 수 있는 캐글에 대해 소개하며 마무리를 지을 예정입니다.",
   "conference": "SOSCON",
   "year": 2019
 },{
   "title": "이길 수 있는 조기축구 상대팀 고르기",
-  "author": "",
-  "slide": "",
+  "author": "심상훈",
+  "slide": "https://www.sosconhistory.net/soscon2019/content/data/commu/2_Day1_1530.pdf",
   "video": "",
-  "description": "",
+  "description": "'우리 팀은 아직 젊고(20-30대) 나름 잘 하는 사람들로 모였는데, 왜 맨날 지는 걸까?' 라는 의문에서 시작되었습니다. 승부욕이 없는 편인데, 축구 경기만은 이기고 싶었습니다. 날씨와 같은 일반적인 요소와, 에이스의 경기 전날 음주 여부와 같은 전혀 예상하지 못했던 요소까지 하나씩 데이터를 모았습니다. 매우 간단한 모델이지만 덕분에 이길 수 있을 만한 상대를 골라 경기를 할 수 있게 되어 기분이 좋습니다.",
   "conference": "SOSCON",
   "year": 2019
 },{
   "title": "유튜브 추천데이터로 그려본 채널 관계 지도",
-  "author": "",
-  "slide": "",
+  "author": "노선상",
+  "slide": "https://www.sosconhistory.net/soscon2019/content/data/commu/2_Day1_1600.pdf",
   "video": "",
-  "description": "",
+  "description": "사이드 프로젝트 소개, 전체 플로우, 결과물 공유 (YouTube Public API + Python + NodeXL)",
   "conference": "SOSCON",
   "year": 2019
 },{
   "title": "ROS Korea 및 OROCA 커뮤니티 소개",
-  "author": "",
-  "slide": "",
+  "author": "최규남",
+  "slide": "https://www.sosconhistory.net/soscon2019/content/data/commu/3_Day%202_0945.pdf",
   "video": "",
-  "description": "",
+  "description": "4차 산업혁명의 도래와 AI 기술의 발전 그리고, 로봇 하드웨어의 모듈화가 빠른 속도로 진행되면서, 로봇이 실생활에서 사용되어지는 멀지 않은 미래는 상상이 가능합니다. 자율주행기술과 AI로 무장한 로봇 제어 기술의 발전에 많은 엔지니어들이 전세계적으로 동참하고 있으며, 우리나라에서도 많은 관련 커뮤니티들이 생겨나고 활동하고 있습니다. 2012년도에 생겨난 “오로카＂커뮤니티를 중심으로 국내 ROS 관련 커뮤니티를 소개하고자 합니다.",
   "conference": "SOSCON",
   "year": 2019
 },{
   "title": "일반인들이 만들어가는 로봇 오픈소스",
-  "author": "",
-  "slide": "",
+  "author": "하지현",
+  "slide": "https://www.sosconhistory.net/soscon2019/content/data/commu/3_Day%202_1000.pdf",
   "video": "",
-  "description": "",
+  "description": "로봇에 관심이 많은 일반인들이 ROS를 배우며, 만든 모바일 로봇의 개발 과정과 이를 활용해 한국지능로봇경진대회에 참가하는 과정에 대해 소개합니다. 로봇 개발에 있어 어떻게 ROS와 오픈소스를 활용하였는지 어떤 어려운 점이 있었고 어떻게 해결해 나아갔는지 일반인들의 관점에서 소개합니다.",
   "conference": "SOSCON",
   "year": 2019
 },{
   "title": "KT 5G AI호텔로봇과 ROS",
-  "author": "",
+  "author": "강태호",
   "slide": "",
   "video": "",
-  "description": "",
+  "description": "동대문 노보텔에서 상용화를 앞두고 있는 KT의 호텔 로봇 개발 과정을 소개합니다. ROS를 활용해서 상용화를 위한 서비스 로봇 시스템을 어떻게 구축 했는지, 어려운 점은 무엇이었는지를 발표를 통해 공유하고자 합니다.",
   "conference": "SOSCON",
   "year": 2019
 },{
