@@ -274,7 +274,7 @@
   youtube: https://www.youtube.com/user/kckohkoh
 - name: 고득녕
   blog: https://blog.naver.com/nackji80/
-  rss: https://blog.rss.naver.com/nackji80.xml
+  rss: https://rss.blog.naver.com/nackji80.xml
   description: 네트워크
 - name: 고명석
   blog: https://ifyoudontknow-youcandothis.tistory.com/
@@ -492,7 +492,7 @@
   github: https://v2.velog.io/rss/0307kwon
 - name: 권수호
   blog: https://blog.naver.com/PostList.nhn?blogId=knix008
-  rss: https://blog.rss.naver.com/knix008.xml
+  rss: https://rss.blog.naver.com/knix008.xml
   description: C
 - name: 권영재
   blog: https://nesoy.github.io/
@@ -1031,7 +1031,7 @@
   egloos: http://himskim.egloos.com/
 - name: 김명주
   blog: https://blog.naver.com/bansuk78
-  rss: https://blog.rss.naver.com/bansuk78.xml
+  rss: https://rss.blog.naver.com/bansuk78.xml
   description: Lagom
   facebook: https://www.facebook.com/profile.php?id=100003114345953
   slideshare: https://www.slideshare.net/ssuser45ecc2
@@ -1058,7 +1058,7 @@
   facebook: https://www.facebook.com/mingeun.kr
 - name: 김민서
   blog: https://blog.naver.com/mseokim011117
-  rss: https://blog.rss.naver.com/mseokim011117.xml
+  rss: https://rss.blog.naver.com/mseokim011117.xml
   description: Swift
   github: https://github.com/mseokim
 - name: 김민석
@@ -1334,7 +1334,7 @@
   rss: https://v2.velog.io/rss/wo0kgod
 - name: 김선철
   blog: https://blog.naver.com/PostList.nhn?blogId=sckim007
-  rss: https://blog.rss.naver.com/sckim007.xml
+  rss: https://rss.blog.naver.com/sckim007.xml
   description: ''
 - name: 김선태
   facebook: https://www.facebook.com/oasisgarden
@@ -1735,7 +1735,7 @@
   slideshare: https://www.slideshare.net/yonghakim900
 - name: 김용현
   blog: https://blog.naver.com/drvoss
-  rss: https://blog.rss.naver.com/drvoss.xml
+  rss: https://rss.blog.naver.com/drvoss.xml
   description: C++
 - name: 김용호
   blog: https://medium.com/@kimyh1981
@@ -7321,7 +7321,7 @@
   linkedin: https://www.linkedin.com/in/jaebum-lee-416ab180/
 - name: 이재석
   blog: http://blog.naver.com/dodream7
-  rss: http://blog.rss.naver.com/dodream7.xml
+  rss: http://rss.blog.naver.com/dodream7.xml
   description: Computer Vision
   facebook: https://www.facebook.com/EonNow
 - name: 이재성
