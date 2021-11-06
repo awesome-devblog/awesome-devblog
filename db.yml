@@ -8494,7 +8494,6 @@
   facebook: https://www.facebook.com/profile.php?id=100003784208546
 - name: 전현준
   blog: https://guswnsxodlf.github.io/
-  rss: https://guswnsxodlf.github.io/feed.xml
   description: Web
   facebook: https://www.facebook.com/guswnsxodlf
   github: https://github.com/guswnsxodlf
@@ -9348,7 +9347,6 @@
   facebook: https://www.facebook.com/profile.php?id=100016225624004
 - name: 조찬영
   blog: http://chanyeong.com/blog
-  rss: http://chanyeong.com/rss.xml
   description: Front-end
 - name: 조찬기
   blog: https://changicho.tistory.com/
@@ -9501,8 +9499,7 @@
   description: Stpring
   github: https://github.com/minwan1
 - name: 진성주
-  blog: https://evanjin.dev/
-  rss: https://evanjin.dev/rss.xml
+  blog: https://evanjin.oopy.io/
   description: Nuxt
   github: https://github.com/seongjoojin
   facebook: https://www.facebook.com/profile.php?id=100016513931686
@@ -9637,9 +9634,6 @@
   description: ''
   github: https://github.com/SeryunCheon
 - name: 천익훈
-  blog: http://cloudscape.pe.kr/
-  rss: http://cloudscape.pe.kr/feed/
-  description: DevOps
   facebook: https://www.facebook.com/ih.chon
   linkedin: https://www.linkedin.com/in/ihchon
 - name: 천종희
