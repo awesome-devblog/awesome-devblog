@@ -9993,7 +9993,6 @@
   github: https://github.com/jicjjang
 - name: 최준영
   blog: https://rokt33r.github.io/
-  rss: https://rokt33r.github.io/atom.xml
   description: React, Electron, Boostnote
   github: https://github.com/Rokt33r
   twitter: https://twitter.com/rokt33r
@@ -10702,10 +10701,6 @@
   twitter: https://twitter.com/angdev_
   facebook: https://www.facebook.com/vang0123v
   tumblr: https://blog.angdev.io/
-- name: 황건구
-  blog: http://blog.hwang.gg/
-  rss: http://blog.hwang.gg/rss/
-  facebook: https://www.facebook.com/under09
 - name: 황규현
   blog: http://lespinside.com
   rss: http://blog.lespinside.com/feed.xml
