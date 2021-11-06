@@ -7194,7 +7194,7 @@
   github: https://github.com/2ujin
 - name: 이유진
   blog: https://euzl.github.io/
-  rss: https://euzl.github.io/feed.xml
+  rss: https://euzl.github.io/rss
   github: https://github.com/euzl
 - name: 이유한
   facebook: https://www.facebook.com/youhan.lee.33
@@ -7271,9 +7271,6 @@
 - name: 이재면
   slideshare: https://www.slideshare.net/jaemyunlee1
 - name: 이재민
-  blog: https://j911.me/
-  rss: https://j911.me/feed
-  description: Web
   github: https://github.com/j911
   slideshare: https://www.slideshare.net/ssuser827c0b
   linkedin: https://www.linkedin.com/in/jaemin-lee-8850b7152/
