@@ -6879,10 +6879,6 @@
   rss: https://rss.blog.naver.com/occidere.xml
   github: https://github.com/occidere
   description: Algorithms, Java, Linux, OpenSources
-- name: 이성호
-  blog: http://blog.scaloid.org/
-  rss: http://blog.scaloid.org/feeds/posts/default
-  description: 스칼라, 안드로이드
 - name: 이성훈
   blog: https://brunch.co.kr/@jamess
   rss: https://brunch.co.kr/rss/@@2Jp
