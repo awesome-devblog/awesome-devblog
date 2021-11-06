@@ -2849,6 +2849,10 @@
   blog: https://medium.com/@nsh235482
   rss: https://medium.com/feed/@nsh235482
   description: Python
+- name: 나유리
+  blog: https://yrnana.github.io/
+  linkedin: https://www.linkedin.com/in/yuri-na-0a29ba137/
+  github: https://github.com/yrnana
 - name: 나윤환
   blog: https://nayunhwan.github.io/
   description: React
