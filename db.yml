@@ -1045,8 +1045,8 @@
   rss: https://1minute-before6pm.tistory.com/rss
   description: Backend
 - name: 김민근
-  blog: https://mingeun.com/
-  rss: https://mingeun.com/feed
+  blog: https://getsolaris.kr/
+  rss: https://getsolaris.kr/feed.xml
   description: Laravel
   github: https://github.com/getsolaris
   facebook: https://www.facebook.com/mingeun.kr
@@ -1093,7 +1093,7 @@
   facebook: https://www.facebook.com/minsu.kim.54584
 - name: 김민수
   blog: https://alstn2468.github.io/
-  rss: https://alstn2468.github.io/feed.xml
+  rss: https://alstn2468.github.io/rss
   description: Algorithm
   facebook: https://www.facebook.com/alstn2468
   linkedin: https://www.linkedin.com/in/minsu-kim-336289160/
@@ -1785,11 +1785,6 @@
   blog: https://androidkr.blogspot.kr/
   rss: https://feeds.feedburner.com/mobilesw
   description: 안드로이드
-- name: 김원호
-  blog: https://undefine.me/
-  rss: https://undefine.me/rss.xml
-  description: Javascript
-  facebook: https://www.facebook.com/wonho.kim.100
 - name: 김유경
   blog: https://medium.com/@kykkjh2984
   rss: https://medium.com/feed/@kykkjh2984
