@@ -4863,9 +4863,6 @@
   rss: https://this1.tistory.com/rss
   github: https://github.com/swi0110
 - name: 송원준
-  blog: https://blog.wonjun.kr/
-  rss: https://blog.wonjun.kr/rss
-  description: ''
   facebook: https://www.facebook.com/profile.php?id=100003692899081
   home: https://wonjun.kr/
 - name: 송윤섭
@@ -5113,7 +5110,6 @@
   description: Linux
 - name: 신태민
   blog: https://cprayer.github.io
-  rss: https://cprayer.github.io/feed.xml
   description: Algorithm
   github: https://github.com/cprayer
   rocketpunch: https://www.rocketpunch.com/@cprayer13
@@ -5195,9 +5191,6 @@
   facebook: https://ko-kr.facebook.com/hosuk0w0
   github: https://github.com/erishforG
 - name: 신호철
-  blog: http://hochulshin.com/
-  rss: http://hochulshin.com/feed
-  description: Java, Algorithm, Linux
   github: https://github.com/dakoo
   facebook: https://www.facebook.com/hochul.shin0
   linkedin: https://www.linkedin.com/in/hochulshin0/
