@@ -9984,6 +9984,11 @@
   rss: https://rss.blog.naver.com/cenodim.xml
   description: Kotlin
   facebook: https://www.facebook.com/Mynoti
+- name: 최정호
+  blog: https://velog.io/@9rganizedchaos
+  rss: https://v2.velog.io/rss/9rganizedchaos
+  github: https://github.com/9rganizedchaos
+  youtube: https://www.youtube.com/channel/UC9t_pFspie5VR0qjkw14G3g
 - name: 최종욱
   blog: https://wook.kr/
   description: ''
