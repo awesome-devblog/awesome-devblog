@@ -6651,6 +6651,11 @@
   blog: https://velog.io/@1571min
   rss: https://v2.velog.io/rss/1571min
   github: https://github.com/1571min
+- name: 이민현
+  blog: https://mintheon.com/
+  rss: https://mintheon.com/feed.xml
+  description: Java, JavaScript, SQL
+  github: https://github.com/mintheon
 - name: 이민호
   blog: https://lumiamitie.github.io/
   rss: https://lumiamitie.github.io/feed.xml
