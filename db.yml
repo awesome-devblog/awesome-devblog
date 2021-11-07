@@ -5174,6 +5174,9 @@
   linkedin: https://www.linkedin.com/in/dongho-sim-39720b11b/
   github: https://github.com/dhsim86
   home: https://dhsim86.github.io/
+- name: 심문성
+  blog: https://puterism.com/
+  github: https://github.com/Puterism
 - name: 심윤섭
   blog: https://ethansup.net/
   rss: https://ethansup.net/rss.xml
@@ -10045,8 +10048,7 @@
   rss: https://medium.com/feed/@JinwooChoi
   description: Swift
 - name: 최진우
-  blog: http://wlswoo.tistory.com
-  rss: https://wlswoo.tistory.com/rss
+  blog: https://choi-jinwoo.github.io/
   description: DGSW, High school student
   github: https://github.com/choi-jinwoo
 - name: 최진호
