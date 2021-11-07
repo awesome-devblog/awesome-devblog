@@ -2574,6 +2574,11 @@
   rss: https://taeny.dev/rss.xml
   github: https://github.com/taenykim
   facebook: https://www.facebook.com/teun1215
+- name: 김태인
+  blog: https://terry-some.tistory.com/
+  rss: https://terry-some.tistory.com/rss
+  github: https://github.com/della-padula
+  youtube: https://www.youtube.com/channel/UC7W2lBYHzGYlIZogDNbwUxA
 - name: 김태정
   blog: https://livenow14.tistory.com/
   rss: https://livenow14.tistory.com/rss
@@ -9540,9 +9545,8 @@
   github: https://github.com/seongjoojin
   facebook: https://www.facebook.com/profile.php?id=100016513931686
 - name: 진소린
-  blog: https://velog.io/@jnsorn
-  rss: https://v2.velog.io/rss/jnsorn
-  description: Redis
+  blog: https://ssoco.tistory.com/
+  rss: https://ssoco.tistory.com/rss
   github: https://github.com/jnsorn
 - name: 진수민
   blog: https://blog.naver.com/pistolcaffe
