@@ -3788,6 +3788,10 @@
   blog: https://bagjunggyu.blogspot.kr/
   rss: https://bagjunggyu.blogspot.com/feeds/posts/default?alt=rss
   description: 리눅스
+- name: 박정우
+  blog: https://www.sunhodev.com/
+  github: https://github.com/woolarinet
+  description: Backend Software Engineer
 - name: 박정욱
   blog: https://medium.com/@jungwook
   rss: https://medium.com/feed/@jungwook
