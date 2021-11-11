@@ -8795,7 +8795,8 @@
   slideshare: https://www.slideshare.net/ssuser70b5b8
   gitbook: https://legacy.gitbook.com/@zerobrain
 - name: 정승현
-  blog: http://www.roach-devlog.com/
+  blog: https://devroach.tistory.com
+  rss: https://devroach.tistory.com/rss
   description: 기술 블로그
   github: https://github.com/tmdgusya
 - name: 정승철
