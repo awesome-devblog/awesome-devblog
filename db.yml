@@ -6869,6 +6869,10 @@
   rss: https://medium.com/feed/@iamssen
   description: Front-end
   github: https://github.com/iamssen
+- name: 이서현
+  blog: https://velog.io/@developerlee79 
+  rss: https://v2.velog.io/rss/developerlee79
+  github: https://github.com/developerlee79
 - name: 이선용
   blog: https://blex.me/@slec
   rss: https://blex.me/rss/@slec
@@ -10951,7 +10955,3 @@
   facebook: https://www.facebook.com/khi0211
   instagram: https://www.instagram.com/sydev_sk/
   linkedin: https://www.linkedin.com/in/steve-kwon-8606ba1b8
-- name: 이서현
-  blog: https://velog.io/@developerlee79
-  rss: https://v2.velog.io/rss/developerlee79
-  github: https://github.com/developerlee79
