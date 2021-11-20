@@ -10905,7 +10905,11 @@
 - name: 황현
   blog: https://xtring-dev.tistory.com/
   rss: https://xtring-dev.tistory.com/rss
-  facebook: https://www.facebook.com/hhyun06
+  github: https://github.com/hyun940630
+  description: front-end dev.
+  facebook: https://www.facebook.com/hhyun06/
+  instagram: https://www.instagram.com/x6tri3n0g/
+  linkedin: https://www.linkedin.com/in/hyun-hwang-195b671a3/
 - name: 홍석현
   facebook: https://www.facebook.com/unifiedh
   twitter: https://twitter.com/unifiedh
@@ -10955,10 +10959,4 @@
   facebook: https://www.facebook.com/khi0211
   instagram: https://www.instagram.com/sydev_sk/
   linkedin: https://www.linkedin.com/in/steve-kwon-8606ba1b8
-- name: 황현
-  blog: https://xtring-dev.tistory.com/
-  github: https://github.com/hyun940630
-  description: front-end dev.
-  facebook: https://www.facebook.com/hhyun06/
-  instagram: https://www.instagram.com/x6tri3n0g/
-  linkedin: https://www.linkedin.com/in/hyun-hwang-195b671a3/
+
