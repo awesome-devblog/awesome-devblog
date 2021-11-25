@@ -1016,6 +1016,12 @@
   rss: https://wraithkim.wordpress.com/feed/
   description: Algorithm
   github: https://github.com/WraithKim
+- name: 김동효
+  blog: https://kdhyo98.tistory.com/
+  rss: https://kdhyo98.tistory.com/rss
+  github: https://github.com/kdhyo
+  description: 일단은 내 이야기
+  instagram: https://www.instagram.com/k_d_hyo/
 - name: 김동희
   blog: https://velog.io/@dev_bomdong
   rss: https://v2.velog.io/rss/dev_bomdong
@@ -10963,9 +10969,3 @@
   facebook: https://www.facebook.com/khi0211
   instagram: https://www.instagram.com/sydev_sk/
   linkedin: https://www.linkedin.com/in/steve-kwon-8606ba1b8
-- name: 김동효
-  blog: https://kdhyo98.tistory.com/
-  rss: https://kdhyo98.tistory.com/rss
-  github: https://github.com/kdhyo
-  description: 일단은 내 이야기
-  instagram: https://www.instagram.com/k_d_hyo/
