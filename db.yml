@@ -9719,6 +9719,13 @@
 - name: 천익훈
   facebook: https://www.facebook.com/ih.chon
   linkedin: https://www.linkedin.com/in/ihchon
+- name: 천재민
+  blog: https://velog.io/@elrion018
+  rss: https://v2.velog.io/rss/elrion018
+  description: Front-end
+  github: https://github.com/elrion018
+  backjoon: https://www.acmicpc.net/user/elrion21
+  linkedin: https://www.linkedin.com/in/jaemin-cheon-5a6a65169/
 - name: 천종희
   blog: https://jong-hui.github.io
   rss: https://jong-hui.github.io/feed.xml
