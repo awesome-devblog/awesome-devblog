@@ -575,6 +575,10 @@
   blog: https://medium.com/@jinkwon711
   rss: https://medium.com/feed/@jinkwon711
   description: Python, Django
+- name: 권진호
+  blog: https://jinhokwon.github.io/
+  rss: https://jinhokwon.github.io/feed.xml
+  github: https://github.com/jinhokwon
 - name: 권창현
   blog: http://thoughts.chkwon.net/
   rss: http://thoughts.chkwon.net/feed/
