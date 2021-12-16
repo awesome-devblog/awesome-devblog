@@ -8617,6 +8617,9 @@
   blog: http://freesearch.pe.kr/
   rss: https://feeds.feedburner.com/gogamza?format=xml
   description: 빅데이터
+- name: 정건우
+  blog: https://www.zigae.com/
+  github: https://github.com/zi-gae
 - name: 정겨울
   blog: https://winterj.me/
   description: Python
