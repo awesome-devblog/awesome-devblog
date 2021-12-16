@@ -7650,6 +7650,10 @@
   rss: https://rss.blog.naver.com/robo813.xml
   description: 한글시계
   facebook: https://www.facebook.com/neo81389
+- name: 이준희
+  blog: https://velog.io/@junh0328
+  rss: https://v2.velog.io/rss/junh0328
+  github: https://github.com/junh0328
 - name: 이중길
   blog: https://blog.naver.com/wndrlf2003
   rss: https://rss.blog.naver.com/wndrlf2003.xml
