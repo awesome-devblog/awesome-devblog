@@ -2967,8 +2967,10 @@
   rss: https://sehajyang.github.io/atom.xml
   description: Springboot, Scala, Python
   twitter: https://twitter.com/sehajyang
-  linkedin: https://www.linkedin.com/in/%EC%9C%A4%EC%A7%80-%EB%82%A8-09b834165/
+  linkedin: https://www.linkedin.com/in/윤지-남-09b834165/
   github: https://github.com/sehajyang
+  stackshare: https://stackshare.io/sehajyang/my-stack
+  rocketpunch: https://www.rocketpunch.com/@sega
 - name: 남정현
   blog: https://medium.com/@rkttu
   rss: https://medium.com/feed/@rkttu
@@ -4165,6 +4167,12 @@
   blog: http://sirini.net/grboard2/blog
   rss: http://sirini.net/grboard2/blog/rss
   description: GR BOARD
+- name: 박희우
+  blog: https://hue-dev.site/
+  rss: https://hue-dev.site/feed.xml
+  github: https://github.com/parkhuiwo0
+  facebook: https://www.facebook.com/parkhuiwo0
+  rocketpunch: https://www.rocketpunch.com/@parkhuiwo0
 - name: 박희원
   blog: https://brunch.co.kr/@itschloe1
   rss: https://brunch.co.kr/rss/@@19LF
