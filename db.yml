@@ -625,6 +625,11 @@
   rss: https://medium.com/feed/@khwsc1
   description: React
   facebook: https://www.facebook.com/AlexHyuckKwon
+- name: 권혁우
+  blog: https://velog.io/@pllap
+  rss: https://v2.velog.io/rss/@pllap
+  github: https://github.com/pllap
+  description: Backend
 - name: 권현수
   blog: https://hye-on-astrogrammer.tistory.com/
   rss: https://hye-on-astrogrammer.tistory.com/rss
