@@ -7433,6 +7433,10 @@
   blog: https://www.unity3dstudy.com/
   rss: https://www.unity3dstudy.com/feed
   description: Unity
+- name: 이재준
+  blog: https://jx2lee.github.io/
+  rss: https://jx2lee.github.io/rss2.xml
+  description: Java, Python, BigData, Cloud
 - name: 이재호
   blog: https://medium.com/@mini.chicken.dev
   rss: https://medium.com/feed/@mini.chicken.dev
