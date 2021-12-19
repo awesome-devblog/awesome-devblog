@@ -4952,6 +4952,11 @@
 - name: 송원준
   facebook: https://www.facebook.com/profile.php?id=100003692899081
   home: https://wonjun.kr/
+- name: 송윤민
+  blog: https://velog.io/@sms8377
+  github: https://github.com/SongYunMin
+  linkedin: https://www.linkedin.com/in/yunmin-song-7579501b2/
+  description: Tech
 - name: 송윤섭
   blog: https://tech.songyunseop.com/
   rss: https://tech.songyunseop.com/atom.xml
@@ -11045,8 +11050,3 @@
   facebook: https://www.facebook.com/khi0211
   instagram: https://www.instagram.com/sydev_sk/
   linkedin: https://www.linkedin.com/in/steve-kwon-8606ba1b8
-- name: Yunmin Song
-  blog: https://velog.io/@sms8377
-  github: https://github.com/SongYunMin
-  linkedin: https://www.linkedin.com/in/yunmin-song-7579501b2/
-  description: Tech
