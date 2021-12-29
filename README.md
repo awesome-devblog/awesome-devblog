@@ -44,6 +44,7 @@
 - [awesome-devblog에 등록하다](https://blog.naver.com/phg98/221376382192)
 - [기술 블로그 슬랙으로 모아보기](https://donghh0221.tistory.com/14)
 - [tistory-readme-stats 개발기](https://formason.tistory.com/22)
+- [(21.12.28) What the hack is RSS??](https://spookyjelly.tistory.com/69)
 
 ## 형제자매 프로젝트
 
