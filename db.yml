@@ -9986,7 +9986,7 @@
   description: Linux
   name: 최수혁
   blog: https://choisuhyeok.tistory.com/
-  ress: https://choisuhyeok.tistory.com//rss
+  rss: https://choisuhyeok.tistory.com/rss
   description: Javascript, React, Node.js
 - name: 최수형
   blog: https://wholeman.dev/
