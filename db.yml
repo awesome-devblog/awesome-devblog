@@ -9936,6 +9936,11 @@
 - name: 최봉환
   facebook: https://www.facebook.com/bonghwan.choi.18
   youtube: https://www.youtube.com/channel/UC3BZupqBa9CZiNSc0x3lJlg
+- name: 최병현
+  blog: https://hyune-c.tistory.com/
+  rss: https://hyune-c.tistory.com/rss
+  description: Java, Spring, 백엔드
+  github: https://github.com/Hyune-c
 - name: 최빈
   blog: https://javaiyagi.tistory.com/
   rss: https://javaiyagi.tistory.com/rss
