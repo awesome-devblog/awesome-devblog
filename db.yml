@@ -1968,11 +1968,11 @@
   description: Back-end
   github: https://github.com/jaehyun8719
 - name: 김재호
-  blog: https://www.benjaminlog.com/
-  rss: https://feeds.feedburner.com/crazytazo?format=xml
-  description: C++
+  blog: https://jeho.page/
+  rss: https://jeho.page/feed.xml
+  description: 에세이
   github: https://github.com/BenjaminKim
-  linkedin: https://www.linkedin.com/in/benjamin-kim-73ab2038/
+  linkedin: https://www.linkedin.com/in/jehokim/
   gitlab: https://gitlab.com/BenjaminKim
 - name: 김재완
   blog: https://lastrites2018.netlify.app/
