@@ -851,6 +851,9 @@
 - name: 토스랩
   blog: https://tosslab.github.io/
   rss: https://tosslab.github.io/feed.xml
+- name: 테이블링
+  blog: https://medium.com/tabling-tech
+  rss: https://medium.com/feed/tabling-tech
 - name: 파비
   blog: https://blog.pabii.co.kr/
   rss: https://blog.pabii.co.kr/feed/
