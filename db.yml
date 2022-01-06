@@ -8092,6 +8092,11 @@
   blog: http://dmlim.egloos.com/
   rss: http://rss.egloos.com/blog/dmlim
   description: Java
+- name: 임동훈
+  blog: https://donghun.dev/
+  github: https://github.com/donghL-dev
+  rss: https://donghun.dev/feed.xml
+  description: 기술 블로그
 - name: 임민철
   blog: https://encodent.com/
   description: IT 기사
