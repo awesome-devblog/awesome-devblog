@@ -90,6 +90,10 @@
 - name: 네이버 널리
   blog: https://nuli.navercorp.com/
   description: 웹 표준, 접근성
+- name: 넷마블 기술 블로그
+  blog: https://netmarble.engineering/
+  description: 게임, 퍼블리싱, 서버, 빅데이터, 보안
+  rss: https://netmarble.engineering/feed/
 - name: 넷매니아즈
   home: https://www.netmanias.com/ko/
   slideshare: https://www.slideshare.net/netmanias-ko
