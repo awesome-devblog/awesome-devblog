@@ -1868,7 +1868,9 @@
   rss: https://yian.tistory.com/rss
   description: Java
   github: https://github.com/Yian-Kim
-  facebook: https://www.facebook.com/devyiankim
+  facebook: https://www.facebook.com/%EA%B0%9C%EB%B0%9C%EC%9E%90-%EC%96%80-YIAN-105291228657337
+  twitter: https://twitter.com/devyiankim
+  linkedin: https://www.linkedin.com/in/yiankim
 - name: 김인우
   blog: https://dlsdn73.tistory.com
   rss: https://dlsdn73.tistory.com/rss
@@ -5657,6 +5659,11 @@
   github: https://github.com/umbum
   facebook: https://www.facebook.com/umbum7601
   linkedin: https://www.linkedin.com/in/성범-엄-22455a179/
+- name: 엄승하
+  blog: https://blog.eomsh.com/
+  rss: https://blog.eomsh.com/rss
+  description: Java
+  github: https://github.com/oshnew
 - name: 엄승현
   blog: https://blog.eomdev.com
   rss: https://blog.eomdev.com/feed
