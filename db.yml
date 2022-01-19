@@ -2045,6 +2045,11 @@
   github: https://github.com/JeongHyeongKim
   facebook: https://www.facebook.com/kim.jeonghyeong.9
 - name: 김정환
+  blog: https://junghwan-hawaii.tistory.com/
+  rss: https://junghwan-hawaii.tistory.com/rss
+  github: https://github.com/Kim-JungHwan
+  description: Android, Front-end
+- name: 김정환
   blog: https://jeonghwan-kim.github.io
   rss: https://jeonghwan-kim.github.io/feed.xml
   description: Javascript, Node
