@@ -883,10 +883,6 @@
   blog: https://www.dokyun.pe.kr/
   rss: https://www.dokyun.pe.kr/rss
   description: ''
-- name: 김도하
-  blog: https://blog.naver.com/adamdoha
-  rss: https://rss.blog.naver.com/adamdoha.xml
-  description: Spring, Java, Backend
 - name: 김도현
   blog: https://blog.naver.com/do9562
   rss: https://rss.blog.naver.com/do9562.xml
