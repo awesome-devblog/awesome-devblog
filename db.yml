@@ -3135,6 +3135,12 @@
   blog: http://occamsrazr.net/
   rss: https://feeds.feedburner.com/occamsrazr/blog?format=xml
   description: 번역
+- name: 류기혁
+  blog: https://ryublock.tistory.com/
+  rss: https://ryublock.tistory.com/rss
+  facebook: https://www.facebook.com/Dev.RyuK
+  github: https://github.com/RyuK-H
+  linkedin: https://www.linkedin.com/in/ryuchain/
 - name: 류성두
   blog: https://sungdoo.dev/
   rss: https://feeds.feedburner.com/sungdoo/
