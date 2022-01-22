@@ -1039,6 +1039,13 @@
   blog: https://velog.io/@dev_bomdong
   rss: https://v2.velog.io/rss/dev_bomdong
   description: Front-end
+- name: 김두현
+  blog: https://medium.com/@beard.rhino
+  rss: https://medium.com/feed/@beard.rhino
+  description: Back-end
+  github: https://github.com/ewbdoohyun
+  linkedin: https://www.linkedin.com/in/doohyun-kim-217609a7/
+  home: https://ewbdoohyun.github.io/
 - name: 김래영
   blog: https://velog.io/@760kry
   rss: https://v2.velog.io/rss/760kry
