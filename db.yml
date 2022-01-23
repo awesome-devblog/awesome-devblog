@@ -4231,7 +4231,7 @@
   rss: https://brunch.co.kr/rss/@@Qk4
 - name: 박태진
   blog: https://fernando.kr/
-  rss: https://fernando.kr/feed
+  rss: https://fernando.kr/rss.xml
   description: 'Fernando 기술 블로그'
   github: https://github.com/techinpark
   twitter: https://twitter.com/techinpark
