@@ -7443,6 +7443,11 @@
   rss: https://jkisaaclee.kro.kr/feed.xml
   github: https://github.com/JKIsaacLee
   facebook: https://www.facebook.com/jaegyung.lee.7
+- name: 이재두
+  blog: https://leejaedoo.github.io/
+  rss: https://leejaedoo.github.io/feed.xml
+  github: https://github.com/LeeJaeDoo
+  description: Back-end, Java, Server-Side
 - name: 이재면
   slideshare: https://www.slideshare.net/jaemyunlee1
 - name: 이재민
@@ -10045,7 +10050,7 @@
   blog: https://cionman.tistory.com/
   rss: https://cionman.tistory.com/rss
   description: Linux
-  name: 최수혁
+- name: 최수혁
   blog: https://choisuhyeok.tistory.com/
   rss: https://choisuhyeok.tistory.com/rss
   description: Javascript, React, Node.js
