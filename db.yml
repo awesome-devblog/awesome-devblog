@@ -3442,6 +3442,11 @@
   rss: https://v2.velog.io/rss/bathingape
   description: Front-end
   github: https://github.com/bathingape
+- name: 박동현
+  blog: https://hydev.tistory.com/
+  github: https://github.com/donghyeon-dev
+  description: Back-end, Spring
+  rss: https://hydev.tistory.com/rss
 - name: 박동호
   github: https://github.com/donghopark
   facebook: https://www.facebook.com/huedonghopark
