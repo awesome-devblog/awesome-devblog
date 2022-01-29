@@ -3588,6 +3588,10 @@
 - name: 박새미
   blog: https://medium.com/@rosd0000
   rss: https://medium.com/feed/@rosd0000
+- name: 박서희
+  blog: https://shplab.tistory.com/
+  rss: https://shplab.tistory.com/rss
+  github: https://github.com/parkseohuinim
 - name: 박석제
   blog: https://parkseokje.github.io/
   rss: https://parkseokje.github.io/atom.xml
