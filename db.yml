@@ -3004,6 +3004,10 @@
   blog: https://softwareeng.tistory.com/
   rss: https://softwareeng.tistory.com/rss
   facebook: https://www.facebook.com/nevermet
+- name: 남윤민
+  blog: https://linuxstory1.tistory.com/
+  rss: https://linuxstory1.tistory.com/rss
+  description: Linux
 - name: 남윤지
   blog: https://sehajyang.github.io
   rss: https://sehajyang.github.io/atom.xml
