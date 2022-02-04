@@ -7817,6 +7817,10 @@
   description: 로봇공학
   linkedin: https://www.linkedin.com/in/jihoonleein/
   github: https://github.com/jihoonl
+- name: 이지훈
+  blog: https://medium.com/@ljh86029926
+  rss: https://medium.com/feed/@ljh86029926
+  description: React
 - name: 이진권
   blog: http://bdyne.net/
   description: Front-end
