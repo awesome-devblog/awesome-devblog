@@ -1726,3 +1726,6 @@
 - name: Samsung SDS
   blog: https://www.samsungsds.com/kr/insights/index.html
   rss: https://www.samsungsds.com/kr/insights/insight_ko_rss.xml
+- name: 일레클
+  blog: https://medium.com/elecle-bike
+  rss: https://medium.com/feed/elecle-bike
