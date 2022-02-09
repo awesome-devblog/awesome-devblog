@@ -6857,6 +6857,7 @@
   blog: https://bab2min.tistory.com/
   rss: https://bab2min.tistory.com/rss
   description: Python
+  facebook: https://www.facebook.com/mincheol.i1
 - name: 이민택
   blog: https://velog.io/@1571min
   rss: https://v2.velog.io/rss/1571min
@@ -6890,7 +6891,9 @@
   blog: https://woolbro.tistory.com/
   rss: https://woolbro.tistory.com/rss
   description: Python, Java
+  github: https://github.com/paullee714
   facebook: https://www.facebook.com/paullee1993
+  linkedin: https://www.linkedin.com/in/paul-lee-a216b313b/
 - name: 이범재
   blog: https://medium.com/@beomjae
   rss: https://medium.com/feed/@beomjae
@@ -9340,6 +9343,12 @@
   github: https://github.com/zxzl
   twitter: https://twitter.com/zxzl
   home: https://hyeungshikjung.com/
+- name: 정형일
+  blog: https://junghyungil.tistory.com/
+  rss: https://junghyungil.tistory.com/rss
+  description: Back-end
+  github: https://github.com/Hyung1Jung
+  facebook: https://www.facebook.com/profile.php?id=100003545666511
 - name: 정혜윤
   blog: https://blog.hyeyoonjung.com/
   rss: https://blog.hyeyoonjung.com/atom.xml
