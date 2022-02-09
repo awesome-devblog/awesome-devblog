@@ -8704,6 +8704,12 @@
   rss: https://dailyheumsi.tistory.com/rss
   description: Data Science
   facebook: https://www.facebook.com/heumsi
+- name: 전우민
+  blog: https://woomin.netlify.app/
+  rss: https://woomin.netlify.app/rss.xml
+  description: Front-end
+  github: https://github.com/Woomin-Jeon
+  facebook: https://www.facebook.com/woomin.jeon.315
 - name: 전윤아
   blog: https://brunch.co.kr/@itisyoona
   rss: https://brunch.co.kr/rss/@@12cS
