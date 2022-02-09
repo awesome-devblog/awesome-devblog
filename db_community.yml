@@ -1729,3 +1729,6 @@
 - name: 일레클
   blog: https://medium.com/elecle-bike
   rss: https://medium.com/feed/elecle-bike
+- name: 래블업
+  blog: https://blog.lablup.com/
+  rss: https://blog.lablup.com/posts/atom.xml
