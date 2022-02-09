@@ -2177,8 +2177,10 @@
 - name: 김종혁
   blog: https://maxkim-j.github.io/
   rss: https://maxkim-j.github.io/feed.xml
+  description: Front-end
   github: https://github.com/MaxKim-J
   rocketpunch: https://www.rocketpunch.com/@hwaseen
+  facebook: https://www.facebook.com/hwaseen
 - name: 김종현
   blog: http://kjh-projects.kro.kr:3100/
   github: https://github.com/Root-kjh
@@ -9810,11 +9812,11 @@
   twitter: https://twitter.com/natenewbie
   instagram: https://www.instagram.com/natenewbie/
 - name: 진태양
-  blog: https://dataportal.kr/
-  rss: https://dataportal.kr/rss/
+  blog: https://weekly.ac/
+  rss: https://weekly.ac/rss
   description: Java/Kotlin Back-End
   instagram: https://www.instagram.com/jin__ssssun/
-  github: https://github.com/960813/
+  github: https://github.com/heli-os
   facebook: https://www.facebook.com/jin.ssssun/
   home: https://jupiterflow.com/
   linkedin: https://www.linkedin.com/in/taeyang-jin/
