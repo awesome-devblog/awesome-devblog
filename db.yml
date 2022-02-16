@@ -1,4 +1,8 @@
 ---
+- name: 강경석
+  blog: https://all-dev-kang.tistory.com/category/%EA%B0%9C%EB%B0%9C
+  github: https://github.com/gyeongseokKang
+  description: 편리함을 추구하는 개발자의 지식 블로그
 - name: 강교일
   blog: https://kdevkr.github.io/
   description: 초보 개발 이야기
