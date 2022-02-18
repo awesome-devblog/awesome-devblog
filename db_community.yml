@@ -1732,3 +1732,6 @@
 - name: 래블업
   blog: https://blog.lablup.com/
   rss: https://blog.lablup.com/posts/atom.xml
+- name: GeekNews
+  home: https://news.hada.io/
+  rss: http://feeds.feedburner.com/geeknews-feed
