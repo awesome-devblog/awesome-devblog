@@ -746,10 +746,6 @@
 - name: 김길호
   blog: https://kilhokim.github.io/
   description: ''
-- name: 김나솔
-  blog: https://brunch.co.kr/@nassol
-  rss: https://brunch.co.kr/rss/@@14Ig
-  description: 개발자 영어
 - name: 김나영
   blog: https://blog.naver.com/phlox__
   rss: https://rss.blog.naver.com/phlox__.xml
