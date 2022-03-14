@@ -727,6 +727,7 @@
 - name: 채널코퍼레이션
   blog: https://channel.io/ko/blog/tag/tech
   home: https://channel.io
+  rss: https://channel.io/ko/blog/rss
 - name: 챗봇 개발자 모임 (인공지능 스피커, 자연어처리)
   home: http://aidev.co.kr/
   facebook: https://www.facebook.com/groups/ChatbotDevKR/
