@@ -11070,29 +11070,6 @@
   blog: https://revf.tistory.com/
   rss: https://revf.tistory.com/rss
   github: https://github.com/revfactory
-- name: 황서연
-  blog: https://seoyeonhwng.medium.com/
-  rss: https://medium.com/feed/@seoyeonhwng
-  description: AWS
-- name: 황성우
-  blog: https://king10tech.github.io/
-  rss: https://king10tech.github.io/feed.xml
-  description: Java
-  facebook: https://www.facebook.com/profile.php?id=100003478036284
-- name: 황인서
-  blog: https://medium.com/@chequer
-  rss: https://medium.com/feed/@chequer
-  description: Spring
-  facebook: https://www.facebook.com/tjdus3361
-- name: 황장호
-  blog: http://xrath.com/
-  rss: http://xrath.com/feed/
-  description: ''
-  github: https://github.com/rath
-  facebook: https://www.facebook.com/xrath
-  twitter: https://twitter.com/xrath
-  flickr: https://www.flickr.com/people/xrath/
-  tumblr: http://rath.coredump.me/
 - name: 황상철
   blog: http://pragmaticstory.com/
   rss: http://pragmaticstory.com/?feed=rss2
@@ -11100,10 +11077,19 @@
   linkedin: https://www.linkedin.com/in/sangcheolhwang/
   slideshare: https://www.slideshare.net/k16wire
   youtube: https://www.youtube.com/channel/UCPwVp-nz3Fzlt9FswmnT16A
+- name: 황서연
+  blog: https://seoyeonhwng.medium.com/
+  rss: https://medium.com/feed/@seoyeonhwng
+  description: AWS
 - name: 황석주
   blog: http://dolppi.egloos.com/
   rss: http://rss.egloos.com/blog/dolppi
   description: 금융공학
+- name: 황성우
+  blog: https://king10tech.github.io/
+  rss: https://king10tech.github.io/feed.xml
+  description: Java
+  facebook: https://www.facebook.com/profile.php?id=100003478036284
 - name: 황성인
   blog: https://blog.woolta.com
   facebook: https://www.facebook.com/profile.php?id=100002288698419
@@ -11135,6 +11121,20 @@
 - name: 황은지
   blog: https://velog.io/@hwang-eunji
   rss: https://v2.velog.io/rss/hwang-eunji
+- name: 황인서
+  blog: https://medium.com/@chequer
+  rss: https://medium.com/feed/@chequer
+  description: Spring
+  facebook: https://www.facebook.com/tjdus3361
+- name: 황장호
+  blog: http://xrath.com/
+  rss: http://xrath.com/feed/
+  description: ''
+  github: https://github.com/rath
+  facebook: https://www.facebook.com/xrath
+  twitter: https://twitter.com/xrath
+  flickr: https://www.flickr.com/people/xrath/
+  tumblr: http://rath.coredump.me/
 - name: 황종후
   blog: https://jh-7.tistory.com/
   rss: https://jh-7.tistory.com/rss
