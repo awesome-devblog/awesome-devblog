@@ -10890,6 +10890,10 @@
   github: https://github.com/zinirun
   rss: https://zinirun.github.io/feed.xml
   instagram: https://www.instagram.com/normalzini/
+- name: 허정원
+  blog: https://jwher.github.io/
+  rss: https://jwher.github.io/feed
+  description: K8S
 - name: 허정진
   blog: https://serpiko.tistory.com/
   rss: https://serpiko.tistory.com/rss
