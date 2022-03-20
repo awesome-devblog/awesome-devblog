@@ -5517,6 +5517,12 @@
   blog: https://toyfab.tistory.com/
   rss: https://toyfab.tistory.com/rss
   description: 마이크로 프로세서
+- name: 안은결
+  blog: https://velog.io/@eungyeole
+  rss: https://v2.velog.io/rss/eungyeole
+  description: Front-end
+  github: https://github.com/eungyeole
+  home: https://eungyeole.super.site/
 - name: 안이수
   blog: https://memnoth.tistory.com/
   rss: https://memnoth.tistory.com/rss
