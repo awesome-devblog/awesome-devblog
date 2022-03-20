@@ -9301,6 +9301,11 @@
   blog: https://korchris.github.io/
   description: ''
   github: https://github.com/KorChris
+- name: 정찬효
+  blog: https://blog.chanhyo.dev/
+  rss: https://blog.chanhyo.dev/rss.xml
+  github: https://github.com/roian6
+  facebook: https://www.facebook.com/DevChanhyo/
 - name: 정창훈
   blog: https://code.iamseapy.com/
   rss: https://code.iamseapy.com/feed
