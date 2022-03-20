@@ -1739,3 +1739,6 @@
 - name: GeekNews
   home: https://news.hada.io/
   rss: http://feeds.feedburner.com/geeknews-feed
+- name: 요즘IT
+  blog: https://yozm.wishket.com/magazine/
+  rss: https://yozm.wishket.com/magazine/feed/
