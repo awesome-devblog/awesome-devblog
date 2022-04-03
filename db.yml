@@ -10216,8 +10216,10 @@
   description: Swift
 - name: 최진우
   blog: https://choi-jinwoo.github.io/
-  description: DGSW, High school student
+  rss: https://choi-jinwoo.github.io/feed.xml
+  description: Junior Frontend Engineer
   github: https://github.com/choi-jinwoo
+  linkedin: https://www.linkedin.com/in/jinwoo-choi-1a136b205/
 - name: 최진호
   blog: http://calmglow.egloos.com/
   rss: http://rss.egloos.com/blog/calmglow
