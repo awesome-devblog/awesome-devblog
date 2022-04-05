@@ -6755,6 +6755,7 @@
   blog: https://bab2min.tistory.com/
   rss: https://bab2min.tistory.com/rss
   description: Python
+  github: https://github.com/bab2min
   facebook: https://www.facebook.com/mincheol.i1
 - name: 이민택
   blog: https://velog.io/@1571min
@@ -10553,11 +10554,13 @@
   facebook: https://www.facebook.com/artistonea/
   github: https://github.com/onealog
 - name: 한정
+  blog: https://junghan92.medium.com/
+  rss: https://medium.com/feed/@junghan92
   description: Front-end
   facebook: https://www.facebook.com/profile.php?id=100005573837145
   github: https://github.com/jung-han
   linkedin: https://www.linkedin.com/in/jung-han-819501125/
-  home: https://jung-han.github.io
+  home: https://www.notion.so/Han-Jung-c43f4bcd2b3f4b3d85b93aee41c5e098
 - name: 한정수
   blog: https://ryan-han.com/
   rss: https://ryan-han.com/index.xml
