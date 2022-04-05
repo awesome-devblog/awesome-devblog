@@ -1203,6 +1203,10 @@
   rss: https://v2.velog.io/rss/loakick
   description: 연플
   github: https://github.com/beygee
+- name: 김병규
+  blog: https://bkim.tistory.com/
+  rss: https://bkim.tistory.com/rss
+  facebook: https://www.facebook.com/BK.Kiim
 - name: 김병부
   slideshare: https://www.slideshare.net/benjaminbkim9
 - name: 김병환
@@ -3501,8 +3505,8 @@
   rss: https://boheeee.tistory.com/rss
   description: React
 - name: 박상권
-  blog: https://gun0912.tistory.com/
-  rss: https://gun0912.tistory.com/rss
+  blog: https://medium.com/@gun0912
+  rss: https://medium.com/feed/@gun0912
   description: Android
   medium: https://medium.com/@gun0912
   facebook: https://www.facebook.com/gun860912
@@ -5603,8 +5607,8 @@
 - name: 양욱진
   description: '프리랜서(?)'
   home: http://comne.kr
-  blog: https://dev.to/composite
-  rss: https://dev.to/feed/composite
+  blog: https://velog.io/@composite
+  rss: https://v2.velog.io/rss/composite
   facebook: https://www.facebook.com/ukjinplant
   linkedin: https://www.linkedin.com/in/ukjinplant
   github: https://github.com/composite
