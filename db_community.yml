@@ -1011,6 +1011,9 @@
   slideshare: https://www.slideshare.net/fastcampus
   facebook: https://www.facebook.com/fastcampus/
   home: https://fastcampus.co.kr/
+- name: 펫프렌즈
+  blog: https://pfdev.medium.com/
+  rss: https://medium.com/feed/@pfdev
 - name: 푸시뉴스
   blog: https://pushnewsdev.github.io/
   rss: https://pushnewsdev.github.io/feed
