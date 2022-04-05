@@ -12,6 +12,9 @@
 - name: 29CM
   blog: https://medium.com/29cm
   rss: https://medium.com/feed/29cm
+- name: 42Seoul
+  blog: https://42place.innovationacademy.kr/
+  rss: https://42place.innovationacademy.kr/feed
 - name: 44BITS
   blog: https://www.44bits.io/
   rss: https://www.44bits.io/ko/feed/posts
