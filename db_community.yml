@@ -847,6 +847,8 @@
   rss: https://fe-developers.kakaoent.com/rss.xml
 - name: 클라우드메이트
   blog: https://tech.cloudmt.co.kr/
+  facebook: https://www.facebook.com/cloudmatekr
+  github: https://github.com/cloudmatelabs
 - name: 코딩지니어스
   blog: https://blog.naver.com/codinggenius
   rss: https://rss.blog.naver.com/codinggenius.xml
@@ -1192,6 +1194,11 @@
   rss: https://code-200.tistory.com/rss
 - name: CQRS
   facebook: https://www.facebook.com/groups/1919342698298205/
+- name: Cloud Villains
+  blog: https://medium.com/ctc-mzc
+  rss: https://medium.com/feed/ctc-mzc
+  description: 메가존클라우드
+  facebook: https://www.facebook.com/CloudVillains
 - name: Cloudflare
   blog: https://blog.cloudflare.com/ko-kr/
   rss: https://blog.cloudflare.com/ko-kr/rss/
