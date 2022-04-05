@@ -501,6 +501,8 @@
 - name: 부스트캠프 - boostcamp
   facebook: https://www.facebook.com/boostcamp.official/
   home: http://boostcamp.connect.or.kr
+- name: 비브로스
+  blog: https://boostbrothers.notion.site/7e4e92a80a8f4ba3ad8f36a1e06fdc30?v=817af4da24e7465a900a5774847b1b28
 - name: 사람인HR 기술 블로그
   blog: https://saramin.github.io/
   rss: https://saramin.github.io/feed.xml
