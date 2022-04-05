@@ -6884,6 +6884,12 @@
   rss: https://john015.netlify.app/rss.xml
   github: https://github.com/john015
   description: front-end, Web
+- name: 이상원
+  blog: https://jaksam.tistory.com/
+  rss: https://jaksam.tistory.com/rss
+  description: 서평
+  facebook: https://www.facebook.com/lee.sangwon1
+  linkedin: https://www.linkedin.com/in/sangwon-lee-459b63156/
 - name: 이상주
   blog: https://surpreem.com/
   rss: https://surpreem.com/feed/
