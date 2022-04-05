@@ -146,6 +146,9 @@
   youtube: https://www.youtube.com/channel/UCO9XtqH5kjfQGn9rotDS0aA
 - name: DACON TV
   youtube: https://www.youtube.com/channel/UCc28kMC4xTZ4Z8T70hxrJFw
+- name: 닷넷데브
+  blog: https://blog.dotnetdev.kr/
+  rss: https://blog.dotnetdev.kr/feed
 - name: 당근마켓
   blog: https://medium.com/daangn
   rss: https://medium.com/feed/daangn
