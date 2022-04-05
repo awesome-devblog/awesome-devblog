@@ -1365,6 +1365,10 @@
   youtube: https://www.youtube.com/channel/UCmI0g3ROh1WrUMZDv2kcjfQ
 - name: Korea Spring User Group
   meetup: https://www.meetup.com/ko-KR/koreasug/
+- name: Korean FE Article
+  blog: https://kofearticle.substack.com/
+  rss: https://kofearticle.substack.com/feed
+  description: Front-end
 - name: Kotlin Korea
   home: http://kotlin.kr/
   blog: http://kotlin.kr/blog/
