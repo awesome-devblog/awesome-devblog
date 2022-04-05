@@ -828,6 +828,9 @@
   rss: https://tech.kakaoenterprise.com/rss
   facebook: https://www.facebook.com/kakaoenterprise
   youtube: https://www.youtube.com/channel/UCVxXa4KKYyw3mQ3KYqze9Ng
+- name: 카카오 엔터테인먼트
+  blog: https://fe-developers.kakaoent.com/
+  rss: https://fe-developers.kakaoent.com/rss.xml
 - name: 클라우드메이트
   blog: https://tech.cloudmt.co.kr/
 - name: 코딩지니어스
