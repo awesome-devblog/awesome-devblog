@@ -2681,6 +2681,10 @@
   github: https://github.com/pilgwon
   twitter: https://twitter.com/pilgwon
   home: https://pilgwon.github.io/
+- name: 김하림
+  blog: https://medium.com/@harimkims
+  rss: https://medium.com/feed/@harimkims
+  facebook: https://www.facebook.com/iicdii
 - name: 김학진
   blog: https://blex.me/@mildsalmon
   rss: https://blex.me/rss/@mildsalmon
@@ -4274,10 +4278,11 @@
   linkedin: https://www.linkedin.com/in/명호-배-b09389183/
   facebook: https://www.facebook.com/skqoaudgh
 - name: 배민혁
-  blog: https://medium.com/@bae200ok
+  blog: https://bae200ok.medium.com/
   rss: https://medium.com/feed/@bae200ok
   description: BackEnd, DataEngineering
   linkedin: https://www.linkedin.com/in/bmh-dev/
+  facebook: https://www.facebook.com/bae126
 - name: 배상익
   blog: https://aidanbae.github.io/
   rss: https://aidanbae.github.io/index.xml
