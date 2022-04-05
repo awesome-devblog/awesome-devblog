@@ -7002,6 +7002,14 @@
   rss: https://rss.blog.naver.com/occidere.xml
   github: https://github.com/occidere
   description: Algorithms, Java, Linux, OpenSources
+- name: 이성필
+  blog: https://goohooh.github.io/
+  rss: https://goohooh.github.io/rss.xml
+  description: Front-end
+  github: https://github.com/goohooh
+  youtube: https://www.youtube.com/channel/UCHINUsMM5UchJHPf4ybWWsQ
+  linkedin: https://www.linkedin.com/in/성필-이-60b275119/
+  facebook: https://www.facebook.com/piriri11
 - name: 이성훈
   blog: https://brunch.co.kr/@jamess
   rss: https://brunch.co.kr/rss/@@2Jp
