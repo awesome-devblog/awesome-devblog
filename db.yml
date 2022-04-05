@@ -7003,6 +7003,10 @@
 - name: 이성용
   linkedin: https://www.linkedin.com/in/sungyong-lee-329a75a4/
   slideshare: https://www.slideshare.net/SungYongLee4
+- name: 이성우
+  blog: https://medium.com/@lswoo
+  rss: https://medium.com/feed/@lswoo
+  description: Cloud
 - name: 이성일
   blog: https://velog.io/@modolee
   rss: https://v2.velog.io/rss/modolee
@@ -10263,6 +10267,8 @@
   rss: https://brunch.co.kr/rss/@@kDx
   description: 스타트업
 - name: 최현묵
+  blog: https://dev-jelly.netlify.app/
+  rss: https://dev-jelly.netlify.app/rss.xml
   slideshare: https://www.slideshare.net/HyunMookChoi
   github: https://github.com/kyunooh
   facebook: https://www.facebook.com/hyunmook.k.choi
