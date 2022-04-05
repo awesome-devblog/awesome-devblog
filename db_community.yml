@@ -969,6 +969,8 @@
 - name: 테이블링
   blog: https://medium.com/tabling-tech
   rss: https://medium.com/feed/tabling-tech
+- name: 티켓플레이스
+  blog: https://tech.youha.info/
 - name: ㅍㅍㅅㅅ 테크
   blog: https://ppss.kr/archives/category/tech
   rss: https://ppss.kr/archives/category/tech/feed
