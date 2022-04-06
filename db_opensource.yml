@@ -696,6 +696,10 @@
   blog: https://grafana.com/blog/
   twitter: https://twitter.com/grafana
   tags: [Monitoring]
+- name: Grafana Tempo
+  home: https://grafana.com/oss/tempo/
+  github: https://github.com/grafana/tempo
+  tags: [Distributed Tracing]
 - name: Grain
   home: https://grain-lang.org/
   github: https://github.com/grain-lang/grain
@@ -739,6 +743,13 @@
   blog: https://www.graalvm.org/blog/
   twitter: https://twitter.com/graalvm
   tags: [Java, Compiler]
+- name: Groovy
+  home: https://groovy-lang.org/
+  github: https://github.com/apache/groovy
+  twitter: https://twitter.com/ApacheGroovy
+  stackoverflow: https://stackoverflow.com/questions/tagged/groovy
+  slack: https://groovycommunity.com/
+  tags: [Programming Language]
 - name: gRPC
   home: https://grpc.io/
   github: https://github.com/grpc/grpc
@@ -897,10 +908,6 @@
   github: https://github.com/tipsy/javalin
   gitter: https://gitter.im/javalin-io/general
   tags: [Java, Back-end Framework]
-- name: Jayway JsonPath
-  github: https://github.com/json-path/JsonPath
-  stackoverflow: https://stackoverflow.com/questions/tagged/jsonpath
-  tags: [JSON]
 - name: Jenkins
   home: https://jenkins.io/
   github: https://github.com/jenkinsci/jenkins
@@ -1547,6 +1554,14 @@
   github: https://github.com/microsoft/playwright
   npm: https://www.npmjs.com/package/playwright
   tags: [Automation]
+- name: pnpm
+  home: https://pnpm.io/
+  github: https://github.com/pnpm/pnpm
+  blog: https://pnpm.io/blog
+  twitter: https://twitter.com/pnpmjs
+  stackoverflow: https://stackoverflow.com/questions/tagged/pnpm
+  npm: https://www.npmjs.com/package/pnpm
+  tags: [Javascript, Tool]
 - name: Polka
   github: https://github.com/lukeed/polka
   npm: https://www.npmjs.com/package/polka
@@ -1744,6 +1759,11 @@
   reddit: https://www.reddit.com/r/redis/
   awesome: https://github.com/JamzyWang/awesome-redis
   tags: [Key-value Store]
+- name: Relay
+  home: https://relay.dev/
+  github: https://github.com/facebook/relay
+  blog: https://relay.dev/blog/
+  tags: [Javascript]
 - name: Remmina
   home: https://remmina.org/
   github: https://github.com/FreeRDP/Remmina
