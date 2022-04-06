@@ -8925,9 +8925,12 @@
   description: Front-end
   github: https://github.com/haeguri
 - name: 정현수
-  blog: https://velog.io/@junghyeonsu
-  rss: https://v2.velog.io/rss/junghyeonsu
+  blog: https://junghyeonsu-dev.vercel.app/
+  rss: https://junghyeonsu-dev.vercel.app/rss.xml
+  description: Front-end
   github: https://github.com/junghyeonsu
+  linkedin: https://www.linkedin.com/in/hyeonsu-jung-5483911a5/
+  youtube: https://www.youtube.com/channel/UCkC6sYPPSvpnRprmp2GcXZw
 - name: 정현일
   blog: https://nuti.tistory.com/
   rss: https://nuti.tistory.com/rss
