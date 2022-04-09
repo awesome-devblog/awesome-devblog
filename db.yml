@@ -1047,6 +1047,13 @@
   blog: https://mansoo-sw.blogspot.kr/
   rss: https://mansoo-sw.blogspot.com/feeds/posts/default
   description: ''
+- name: 김명성
+  blog: https://maeng2418.github.io/
+  rss: https://maeng2418.github.io/rss.xml
+  description: Front-end
+  github: https://github.com/maeng2418
+  facebook: https://www.facebook.com/profile.php?id=100005653248720
+  linkedin: https://www.linkedin.com/in/명성-김-4988b61ba/
 - name: 김명신
   blog: https://himskim.wordpress.com/
   rss: https://himskim.wordpress.com/feed/
