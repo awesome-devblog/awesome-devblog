@@ -9235,6 +9235,11 @@
   description: Back-end
   twitter: https://twitter.com/JungTaehyun
   github: https://github.com/chomman
+- name: 정태환
+  blog: https://linuxer.name/
+  rss: https://linuxer.name/feed/
+  description: Linux
+  facebook: https://www.facebook.com/tset1021
 - name: 정필규
   blog: https://anothel.tistory.com/
   rss: https://anothel.tistory.com/rss
