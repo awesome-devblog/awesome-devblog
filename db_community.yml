@@ -21,13 +21,11 @@
   youtube: https://www.youtube.com/channel/UCPwutg-Q08jMQoPClzD0lTQ/
   facebook: https://www.facebook.com/fortyfourbits/
   twitter: https://twitter.com/@fortyfourbits
-- name: 공공장소
-  home: http://gonggongplace.com
-- name: 글로벌 STEM 교육자 모임 Global STEM Educator Group (with STEAM)
-  facebook: https://www.facebook.com/groups/globalstem/
 - name: 가비아
   blog: https://library.gabia.com/
   rss: https://library.gabia.com/feed
+- name: 강남언니
+  blog: https://blog.gangnamunni.com/blog/tech/
 - name: 개발자들
   facebook: https://www.facebook.com/GoodDeveloper/
   home: https://devdogs.kr/
@@ -39,6 +37,16 @@
   youtube: https://www.youtube.com/channel/UC0h8NzL2vllvp3PjdoYSK4g
 - name: 개발자모드
   facebook: https://www.facebook.com/devmode3/
+- name: 개발자야,놀자
+  facebook: https://www.facebook.com/devyanolja/
+- name: 개발자의 앞길에 맵핵 시전
+  facebook: https://www.facebook.com/dev.loadmap/
+- name: 개발자 커리어 이야기
+  facebook: https://www.facebook.com/devcareer/
+- name: 개발자 라라
+  youtube: https://www.youtube.com/channel/UCjWnBKjlXv550KDiBjtW8vQ
+- name: 개발하는 정대리
+  youtube: https://www.youtube.com/channel/UCutO2H_AVmWHbzvE92rpxjA
 - name: 게임개발포에버
   blog: http://gamedevforever.tistory.com/
   rss: http://feeds.feedburner.com/gamedevforever?format=xml
@@ -47,44 +55,38 @@
 - name: 게임 서버 개발자 모임
   naver: http://cafe.naver.com/ongameserver
   youtube: https://www.youtube.com/channel/UCYnvySStWs6IDeYr8IeyayA
+- name: 게임빌컴투스
+  blog: https://tech.gamevilcom2us.com/
+  rss: https://tech.gamevilcom2us.com/feed
 - name: 고구마S
   naver: https://cafe.naver.com/gogoomas
 - name: 그래프 데이터베이스 in Korea
   meetup: https://www.meetup.com/ko-KR/graphdatabase/
+- name: 공공장소
+  home: http://gonggongplace.com
+- name: 글로벌 STEM 교육자 모임 Global STEM Educator Group (with STEAM)
+  facebook: https://www.facebook.com/groups/globalstem/
 - name: 글로벌 SW교육 연구 모임 Global Computing Education Group
   facebook: https://www.facebook.com/groups/globalsw/
 - name: 기글 하드웨어
   home: https://gigglehd.com/
-- name: 개발자야,놀자
-  facebook: https://www.facebook.com/devyanolja/
+- name: 기프팅
+  blog: https://gifting.oopy.io/
 - name: 굿닥
   blog: http://dev.goodoc.co.kr/
   rss: http://dev.goodoc.co.kr/?feed=rss2
 - name: 꿈많은 청년들
   facebook: https://www.facebook.com/DreamYoungs/
-- name: 개발자의 앞길에 맵핵 시전
-  facebook: https://www.facebook.com/dev.loadmap/
 - name: 김버그
   youtube: https://www.youtube.com/channel/UCFDbz39kFPvU0AUpgHx4ICw
   facebook: https://www.facebook.com/woohyeon.roh/
   home: https://www.rohwoohyeon.com/
-- name: 개발자 커리어 이야기
-  facebook: https://www.facebook.com/devcareer/
 - name: 글루시스
   blog: https://tech.gluesys.com/blog/
   rss: https://tech.gluesys.com/feed.xml
-- name: 게임빌컴투스
-  blog: https://tech.gamevilcom2us.com/
-  rss: https://tech.gamevilcom2us.com/feed
-- name: 개발하는 정대리
-  youtube: https://www.youtube.com/channel/UCutO2H_AVmWHbzvE92rpxjA
-- name: 강남언니
-  blog: https://blog.gangnamunni.com/blog/tech/
 - name: 구름
   blog: https://blog.naver.com/goorm_official
   rss: https://rss.blog.naver.com/goorm_official.xml
-- name: 개발자 라라
-  youtube: https://www.youtube.com/channel/UCjWnBKjlXv550KDiBjtW8vQ
 - name: 나우캠퍼스
   youtube: https://www.youtube.com/channel/UCl65-Jpz6rSkrZdxagpHQfg
 - name: 뉴렉처
@@ -430,8 +432,12 @@
   rss: http://www.makered.or.kr/feed
   facebook: https://www.facebook.com/groups/458166777716821/
 - name: 모두의연구소
-  home: http://www.modulabs.co.kr/
+  blog: https://medium.com/modulabs
+  rss: https://medium.com/feed/modulabs
+  home: https://modulabs.co.kr/
+  twitter: https://twitter.com/drsonicwave
   facebook: https://www.facebook.com/lab4all/
+  instagram: https://www.instagram.com/modulabs_/
 - name: 모두의연구소 커뮤니티
   facebook: https://www.facebook.com/groups/modulabs/
 - name: 모여서 각자 코딩하는 모임
@@ -1454,6 +1460,10 @@
   facebook: https://www.facebook.com/groups/1712143652200320/
 - name: Nginx Korea
   facebook: https://www.facebook.com/groups/nginx/
+- name: NGINX PLUS
+  blog: https://www.nginxplus.co.kr/blog/
+  rss: https://www.nginxplus.co.kr/?feed=rss2&cat=51
+  home: https://www.nginxplus.co.kr/
 - name: NodeMCU 사용자 모임
   facebook: https://www.facebook.com/groups/1984960828444627/
 - name: OKKY
