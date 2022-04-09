@@ -837,6 +837,14 @@
   facebook: https://www.facebook.com/groups/techbookwriting/
 - name: 책 읽는 프로그래머
   facebook: https://www.facebook.com/groups/hanbitreaders/
+- name: 카카오
+  blog: https://tech.kakao.com/
+  rss: https://tech.kakao.com/feed/
+  slideshare: https://www.slideshare.net/ifkakao
+  github: https://github.com/kakao
+- name: 카카오 스타일
+  blog: https://devblog.croquis.com/ko/
+  github: https://github.com/croquiscom
 - name: 카카오 엔터프라이즈
   blog: https://tech.kakaoenterprise.com/
   rss: https://tech.kakaoenterprise.com/rss
@@ -864,11 +872,6 @@
 - name: 쿠팡
   blog: https://medium.com/coupang-tech
   rss: https://medium.com/feed/coupang-tech
-- name: 카카오
-  blog: https://tech.kakao.com/
-  rss: https://tech.kakao.com/feed/
-  slideshare: https://www.slideshare.net/ifkakao
-  github: https://github.com/kakao
 - name: 캐글뽀개기
   facebook: https://www.facebook.com/groups/kagglebreak/
 - name: 캐글코리아
