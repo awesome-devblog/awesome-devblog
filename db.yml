@@ -3013,6 +3013,11 @@
 - name: 남혜연
   blog: https://byline.network/author/smilla/
   description: IT 뉴스
+- name: 남홍식
+  blog: https://velog.io/@hong-brother
+  rss: https://v2.velog.io/rss/hong-brother
+  github: https://github.com/hong-brother
+  facebook: https://www.facebook.com/profile.php?id=100002286284073
 - name: 노경모
   blog: https://brightparagon.wordpress.com/
   rss: https://brightparagon.wordpress.com/feed/
