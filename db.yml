@@ -3426,6 +3426,9 @@
   rss: https://www.cckn.dev/rss.xml
   description: Cloud, Web, IoT
   github: https://github.com/cckn
+- name: 박도하
+  blog: https://medium.com/@doha.park
+  rss: https://medium.com/feed/@doha.park
 - name: 박동건
   blog: https://velog.io/@bathingape
   rss: https://v2.velog.io/rss/bathingape
