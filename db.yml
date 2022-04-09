@@ -671,10 +671,12 @@
   github: https://github.com/Kyeongrok
   youtube: https://www.youtube.com/channel/UCG6V3hF7lN5veSLXWkcMG3g
 - name: 김경환
-  blog: https://brunch.co.kr/@dalgudot
-  rss: https://brunch.co.kr/rss/@@6C10
-  description: UI/UX
+  blog: https://blog.dalgu.app/
+  description: Front-end
+  github: https://github.com/dalgudot
   facebook: https://www.facebook.com/dalgudot
+  brunch: https://brunch.co.kr/@dalgudot
+  linkedin: https://www.linkedin.com/in/dalgudot/
 - name: 김경환
   blog: https://onduway.tistory.com/
   rss: https://onduway.tistory.com/rss
@@ -6021,6 +6023,13 @@
   blog: http://www.simpleisbest.net/
   rss: http://www.simpleisbest.net/syndication.axd
   description: '.NET'
+- name: 유광무
+  blog: https://holykisa.tistory.com/
+  rss: https://holykisa.tistory.com/rss
+  github: https://github.com/kisa002
+  facebook: https://www.facebook.com/Kisa002/
+  instagram: https://www.instagram.com/kisahacker/
+  home: https://haeyum.dev/
 - name: 유다현
   blog: https://yuda.dev/
   rss: https://yuda.dev/rss
