@@ -3991,6 +3991,11 @@
   rss: https://v2.velog.io/rss/korca0220
   github: https://github.com/korca0220
   rocketpunch: https://www.rocketpunch.com/@korca0220
+- name: 박준철
+  blog: https://velog.io/@pjc0247
+  rss: https://v2.velog.io/rss/pjc0247
+  github: https://github.com/pjc0247
+  facebook: https://www.facebook.com/pjc9999
 - name: 박준표
   blog: https://junpyopark.github.io/
   facebook: https://www.facebook.com/profile.php?id=100001823794299
@@ -6325,6 +6330,7 @@
   blog: https://brunch.co.kr/@seongyong
   rss: https://brunch.co.kr/rss/@@3qWA
   description: 기획
+  facebook: https://www.facebook.com/cryptopodo
 - name: 윤성준
   twitter: https://twitter.com/exnis
   linkedin: https://www.linkedin.com/in/sungjoonyoon/
