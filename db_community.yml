@@ -153,6 +153,9 @@
 - name: 닷넷데브
   blog: https://blog.dotnetdev.kr/
   rss: https://blog.dotnetdev.kr/feed
+  github: https://github.com/dotnetdev-kr
+  youtube: https://www.youtube.com/channel/UCxCPX4tUbFyMseJVjVwcb9g
+  home: https://www.dotnetdev.kr/
 - name: 당근마켓
   blog: https://medium.com/daangn
   rss: https://medium.com/feed/daangn
@@ -645,6 +648,9 @@
   slideshare: https://www.slideshare.net/ifunfactory
 - name: 아프리카도서관
   youtube: https://www.youtube.com/channel/UCfm6gDYNrEW2hXCcIrVvj0w
+- name: 아테나스랩
+  blog: https://medium.com/athenaslab
+  rss: https://medium.com/feed/athenaslab
 - name: 아해팀
   blog: https://devahea.github.io/
   rss: https://devahea.github.io/atom.xml
