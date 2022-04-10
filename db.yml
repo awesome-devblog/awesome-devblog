@@ -4951,6 +4951,10 @@
   blog: https://brunch.co.kr/@bumgeunsong
   rss: https://brunch.co.kr/rss/@@15UX
   description: 블록체인
+- name: 송범근
+  blog: https://velog.io/@eddy_song
+  rss: https://v2.velog.io/rss/eddy_song
+  github: https://github.com/BumgeunSong
 - name: 송병훈
   blog: https://blog.naver.com/thdqudgns96
   rss: https://rss.blog.naver.com/thdqudgns96.xml
