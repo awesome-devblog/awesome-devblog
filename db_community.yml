@@ -106,6 +106,8 @@
 - name: 네이버 널리
   blog: https://nuli.navercorp.com/
   description: 웹 표준, 접근성
+- name: 네이버 웹툰
+  youtube: https://www.youtube.com/channel/UCFX3BESorGd53Bye5og1rHA
 - name: 네이버 플레이스
   blog: https://medium.com/naver-place-dev
   rss: https://medium.com/feed/naver-place-dev
