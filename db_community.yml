@@ -1483,6 +1483,16 @@
   blog: https://www.nginxplus.co.kr/blog/
   rss: https://www.nginxplus.co.kr/?feed=rss2&cat=51
   home: https://www.nginxplus.co.kr/
+- name: NHN Cloud
+  blog: https://meetup.toast.com
+  rss: https://meetup.toast.com/rss
+  facebook: https://www.facebook.com/toast.nhn/
+  youtube: https://www.youtube.com/channel/UC982FhzZx87lIWCimFiry_w
+- name: NHN TOAST UI
+  blog: https://ui.toast.com/
+  rss: https://ui.toast.com/rss.xml
+  twitter: https://twitter.com/toastui
+  medium: https://toastui.medium.com/
 - name: NodeMCU 사용자 모임
   facebook: https://www.facebook.com/groups/1984960828444627/
 - name: OKKY
@@ -1631,16 +1641,6 @@
   slack: https://tensorflowkr.slack.com/
   github: https://github.com/tensorflowkorea
   gitbook: https://legacy.gitbook.com/@tensorflowkorea
-- name: TOAST
-  blog: https://meetup.toast.com
-  rss: https://meetup.toast.com/rss
-  facebook: https://www.facebook.com/toast.nhn/
-  youtube: https://www.youtube.com/channel/UC982FhzZx87lIWCimFiry_w
-- name: TOAST UI
-  blog: https://ui.toast.com/
-  rss: https://ui.toast.com/rss.xml
-  twitter: https://twitter.com/toastui
-  medium: https://toastui.medium.com/
 - name: Typed
   blog: https://medium.com/business-canvas
   rss: https://medium.com/feed/business-canvas
