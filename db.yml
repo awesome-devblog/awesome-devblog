@@ -8104,18 +8104,22 @@
   github: https://github.com/alro923
   kaggle: https://www.kaggle.com/uhhyunjoo
   home: https://uhhyunjoo.notion.site/uhhyunjoo-22234441dc6241b7bf10c5174c74722c/
-- name: 이혜성
-  blog: https://blog.silentsoft.org/
-  rss: https://blog.silentsoft.org/feed.xml
-  description: Back-end
-  github: https://github.com/silentsoft
-  facebook: https://www.facebook.com/hyesung.e.lee
 - name: 이현진
   blog: https://jayprogram.tistory.com/
   rss: https://jayprogram.tistory.com/rss
   description: JavaScript, Unity
   facebook: http://www.facebook.com/hjleesm
   github: https://github.com/hjleesm
+- name: 이현호
+  blog: https://dev200ok.blogspot.com/
+  rss: https://dev200ok.blogspot.com/feeds/posts/default
+  description: iOS
+- name: 이혜성
+  blog: https://blog.silentsoft.org/
+  rss: https://blog.silentsoft.org/feed.xml
+  description: Back-end
+  github: https://github.com/silentsoft
+  facebook: https://www.facebook.com/hyesung.e.lee
 - name: 이호성
   blog: https://brunch.co.kr/@leehosung
   rss: https://brunch.co.kr/rss/@@Gp7
