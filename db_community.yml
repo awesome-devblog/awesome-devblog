@@ -713,7 +713,7 @@
 - name: 위데이터랩
   youtube: https://www.youtube.com/channel/UCi9sajR43D21JSkulP6crfQ
 - name: 에이비일팔공
-  blog: https://blog.ab180.co/
+  blog: https://engineering.ab180.co/
   facebook: https://www.facebook.com/ab180.co/
   home: https://www.ab180.co/
 - name: 에이콘
@@ -1645,6 +1645,12 @@
   blog: http://engineering.vcnc.co.kr
   rss: http://engineering.vcnc.co.kr/atom.xml
   github: https://github.com/vcnc/
+- name: Vingle
+  blog: https://medium.com/vingle-tech-blog
+  rss: https://medium.com/feed/vingle-tech-blog
+  twitter: https://twitter.com/vingle_dev
+  facebook: https://www.facebook.com/vingletech
+  youtube: https://www.youtube.com/channel/UC7Byj1Uj3AqaPd6erv75uAg
 - name: Vue.js Korea
   facebook: https://www.facebook.com/groups/vuejs.korea/
   slack: https://vuejs-korea.herokuapp.com
