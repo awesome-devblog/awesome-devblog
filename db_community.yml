@@ -1632,6 +1632,12 @@
   rss: https://ui.toast.com/rss.xml
   twitter: https://twitter.com/toastui
   medium: https://toastui.medium.com/
+- name: Typed
+  blog: https://medium.com/business-canvas
+  rss: https://medium.com/feed/business-canvas
+  twitter: https://twitter.com/typedhq
+  facebook: https://www.facebook.com/Typed.do/
+  instagram: https://www.instagram.com/typed.hq/
 - name: UBcare
   blog: http://tech.ubcare.co.kr/
   rss: http://tech.ubcare.co.kr/feed.xml
