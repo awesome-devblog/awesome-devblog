@@ -5209,7 +5209,6 @@
   rss: https://shinjaeheon.tistory.com/rss
   description: Web
   github: https://github.com/Shin-JaeHeon
-  rankedin: http://rankedin.kr/user/Shin-JaeHeon
   npm: https://www.npmjs.com/~shin-jaeheon
 - name: 신정규
   blog: https://forest.nubimaru.com/
@@ -6031,7 +6030,6 @@
   github: https://github.com/sarojaba
   linkedin: https://www.linkedin.com/in/우준혁-sarojaba/
   twitter: https://twitter.com/sarojaba
-  rankedin: http://rankedin.kr/user/sarojaba
   aboutme: https://about.me/sarojaba
   openprocessing: https://www.openprocessing.org/user/67665
   gitbook: https://legacy.gitbook.com/@sarojaba
@@ -7658,7 +7656,6 @@
   description: Java
   github: https://github.com/sjh836
   facebook: https://www.facebook.com/sjh836
-  rankedin: http://rankedin.kr/user/sjh836
   home: http://devljh.net/
 - name: 이정훈
   blog: https://velog.io/@jhyj0521
@@ -8530,7 +8527,6 @@
   facebook: https://www.facebook.com/superjang11
   twitter: https://twitter.com/cresumerjang
   github: https://github.com/cresumerjang
-  rankedin: http://rankedin.kr/user/cresumerjang
   home: http://superjang.com/
 - name: 장재휴
   blog: https://jaehue.github.io/
@@ -9179,7 +9175,9 @@
   facebook: https://www.facebook.com/jhjh7306
   youtube: https://www.youtube.com/channel/UCGTIjwquc7_JvWdskWbVJQQ
 - name: 정재훈
-  blog: http://uzys.net/
+  blog: https://uzys.tistory.com/
+  rss: https://uzys.tistory.com/rss
+  home: http://uzys.net/
   description: Rankedin
   github: https://github.com/uzysjung
   facebook: https://github.com/uzysjung
@@ -9771,7 +9769,6 @@
   twitter: https://twitter.com/jidolstar
   github: https://github.com/jidolstar
   slideshare: https://www.slideshare.net/jidolstar
-  rankedin: http://rankedin.kr/user/jidolstar
 - name: 지원준
   blog: https://brunch.co.kr/@wjchee
   rss: https://brunch.co.kr/atom/@@3SO
