@@ -881,6 +881,12 @@
   rss: https://rss.blog.naver.com/collabee.xml
 - name: 코딩네이터
   youtube: https://www.youtube.com/channel/UCT_RhM-i6or1qS1JRm4Bqrw
+- name: 큐로플
+  blog: https://velog.io/@qroffle
+  rss: https://v2.velog.io/rss/qroffle
+  github: https://github.com/qroffle
+  twitter: https://twitter.com/qroffle_com
+  home: https://qroffle.com/
 - name: 큐브리드
   blog: https://www.cubrid.com/blog/
   rss: https://www.cubrid.com/blog/rss
