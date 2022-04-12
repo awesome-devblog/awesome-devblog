@@ -5949,7 +5949,7 @@
   home: https://windtale.net/
 - name: 오현석
   description: 스칼라, 스위프트
-  aladin: https://www.aladin.co.kr/author/wauthor_overview.aspx?AuthorSearch=@289919
+  aladin: https://www.aladin.co.kr/m/mauthorinfo.aspx?authorsearch=@289919
 - name: 오혜진
   blog: https://zinee-world.tistory.com/
   rss: https://zinee-world.tistory.com/rss
@@ -8906,6 +8906,10 @@
   description: AI Developer
   slideshare: https://www.slideshare.net/MinjungChung1
   instagram: https://www.instagram.com/ai.developer/
+- name: 정백경
+  blog: https://baekkyoungjung.medium.com/
+  rss: https://medium.com/feed/@baekkyoungjung
+  facebook: https://www.facebook.com/baekkyoungjung
 - name: 정범희
   blog: https://blog.sonim1.com/
   rss: https://blog.sonim1.com/rss
@@ -9750,6 +9754,8 @@
   blog: https://blog.naver.com/jhc9639
   rss: https://rss.blog.naver.com/jhc9639.xml
   facebook: https://www.facebook.com/LucidHong
+  youtube: https://www.youtube.com/channel/UCoN1XLeAX2OazuZdQ9b8U9Q
+  aladin: https://www.aladin.co.kr/m/mauthorinfo.aspx?authorsearch=@8664630
 - name: 지국환
   blog: https://blog.naver.com/wlhermit
   rss: https://rss.blog.naver.com/wlhermit.xml
