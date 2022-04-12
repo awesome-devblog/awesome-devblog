@@ -1318,6 +1318,8 @@
 - name: GDG Daejeon
   facebook: https://www.facebook.com/groups/gdg.daejeon/
   slack: https://gdgkr.slack.com/join/shared_invite/enQtNTk0NTA0NzY4NTkzLTA0NTg4MWJiOTExZmFlNWI4NWQxYWU1NGM0ZjMzZTk3YzY1NTFiNzdmNGQyNTMxMWFmZWI2ZTYzOTAyNjk2MTI
+- name: GeekHub
+  home: https://geekhub.co.kr/
 - name: GeekNews
   home: https://news.hada.io/
   rss: http://feeds.feedburner.com/geeknews-feed
@@ -1343,8 +1345,9 @@
   facebook: https://www.facebook.com/groups/1986745628242135/
 - name: GraphQL Korea
   facebook: https://www.facebook.com/groups/278701352891443/
-- name: GeekHub
-  home: https://geekhub.co.kr/
+- name: GS Retail
+  blog: https://gsretail.tistory.com/
+  rss: https://gsretail.tistory.com/rss
 - name: HelloCoding
   facebook: https://www.facebook.com/sunrinhellocoding/
 - name: HeXA
