@@ -625,6 +625,10 @@
 - name: 스타트링크
   blog: https://startlink.blog/
   rss: https://startlink.blog/feed/
+- name: 슬리드
+  blog: https://slid.medium.com/
+  rss: https://medium.com/feed/@slid
+  category: Company
 - name: 시스코 코리아
   blog: https://gblogs.cisco.com/kr/
   rss: https://gblogs.cisco.com/kr/feed/
