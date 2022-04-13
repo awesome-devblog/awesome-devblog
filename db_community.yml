@@ -1651,6 +1651,12 @@
   slack: https://tensorflowkr.slack.com/
   github: https://github.com/tensorflowkorea
   gitbook: https://legacy.gitbook.com/@tensorflowkorea
+- name: Trenbe 기술블로그
+  blog: https://tech.trenbe.com
+  rss: https://tech.trenbe.com/feed
+  linkedin: https://www.linkedin.com/company/trenbe
+  youtube: https://www.youtube.com/channel/UCf3vRJd9jBy9nVgfAxitKAQ
+  instagram: https://www.instagram.com/trenbe_official
 - name: Typed
   blog: https://medium.com/business-canvas
   rss: https://medium.com/feed/business-canvas
