@@ -494,7 +494,7 @@
   blog: https://velog.io/@0307kwon
   rss: https://v2.velog.io/rss/0307kwon
   description: Front-end
-  github: https://v2.velog.io/rss/0307kwon
+  github: https://github.com/0307kwon
 - name: 권수호
   blog: https://blog.naver.com/PostList.nhn?blogId=knix008
   rss: https://rss.blog.naver.com/knix008.xml
@@ -782,7 +782,6 @@
   blog: https://namhoon.kim/
   rss: https://namhoon.kim/atom.xml
   description: Jekyll, Firebase Korea
-  github: https://github.com/mydamyda
 - name: 김놀부
   blog: https://nolboo.kim/
   rss: https://nolboo.kim/feed.xml
@@ -1156,7 +1155,6 @@
   blog: https://jyami.tistory.com/
   rss: https://jyami.tistory.com/rss
   description: Spring, BackEnd
-  github: https://github.com/mjung1798
   youtube: https://www.youtube.com/channel/UC2RNnR5UkMXWUzdk5Cd3vjw
   facebook: https://www.facebook.com/jyami.kim
 - name: 김민정
@@ -1541,7 +1539,6 @@
 - name: 김수지
   blog: https://www.suzie.world/blog
   description: Front-end
-  github: https://github.com/iamsuzie
   youtube: https://www.youtube.com/channel/UCbt4LmY0tR3Z-XkokBRQsqw
   home: https://www.suzie.world
 - name: 김수지
@@ -1757,7 +1754,6 @@
   blog: https://app-developer.tistory.com
   rss: https://app-developer.tistory.com/rss
   description: iOS
-  github: https://github.com/Developer-Leby
 - name: 김용준
   blog: https://kimkevin.net/
   rss: https://blog.kimkevin.net/feed/
@@ -3307,8 +3303,8 @@
   github: https://github.com/Cruzer-S
 - name: 문영하
   blog: https://moonsiri.tistory.com/
-  github: https://github.com/moonsiri/
   rss: https://moonsiri.tistory.com/rss
+  github: https://github.com/moonsiri
 - name: 문예강
   blog: https://pubul.tistory.com/
   rss: https://pubul.tistory.com/rss
@@ -3380,7 +3376,6 @@
   blog: https://velog.io/@rjsdnqkr1
   rss: https://v2.velog.io/rss/rjsdnqkr1
   description: Android
-  github: https://github.com/rjsdnqkr1
   rocketpunch: https://www.rocketpunch.com/@rjsdnqkr1
 - name: 박경석
   blog: https://pks424.tistory.com/
@@ -3648,8 +3643,8 @@
   blog: https://a1p4ca.netlify.app
   rss: https://a1p4ca.netlify.app/atom.xml
   description: Web
-  github: https://github.com/a1p4ca
-  facebook: https://fb.com/a1p4ca
+  github: https://github.com/smnis
+  facebook: https://www.facebook.com/a1p4ca
 - name: 박성범
   blog: https://parksb.github.io
   description: 컴퓨터공학, 디자인
@@ -5769,7 +5764,6 @@
 - name: 염광호
   blog: https://sabarada.tistory.com
   rss: https://sabarada.tistory.com/rss
-  github: https://github.com/KoangHoYeom
   description: Java, Ethereum, Spring, BackEnd
 - name: 염근철
   blog: https://ykarma1996.tistory.com/
@@ -6256,7 +6250,6 @@
 - name: 유형준
   blog: https://cocopambag.github.io
   description: AI
-  github: https://github.com/cocopambag
 - name: 유형환
   blog: https://cobbybb.tistory.com/
   rss: https://cobbybb.tistory.com/rss
@@ -6561,7 +6554,6 @@
   blog: https://gwangyonglee.tistory.com/
   rss: https://gwangyonglee.tistory.com/rss
   description: iOS
-  github: https://github.com/gwangyonglee
   facebook: https://www.facebook.com/gwangyongleee
   linkedin: https://www.linkedin.com/in/gwangyonglee
   velog: https://velog.io/@gwangyonglee
@@ -8726,7 +8718,6 @@
 - name: 전인섭
   blog: https://velog.io/@sonofhuman20
   rss: https://v2.velog.io/rss/sonofhuman20
-  github: https://github.com/InseobJeon
 - name: 전재열
   blog: https://jayten-jeon.tistory.com/
   rss: https://jayten-jeon.tistory.com/rss
@@ -9007,7 +8998,6 @@
 - name: 정수범
   blog: https://soobaaaam.tistory.com/
   rss: https://soobaaaam.tistory.com/rss
-  github: https://github.com/soobeom-jeong
   description: iOS, Swift
 - name: 정수영
   blog: https://codeameba.netlify.app/
@@ -9198,6 +9188,7 @@
   description: Front-end
   facebook: https://www.facebook.com/wormwlrm
   github: https://github.com/wormwlrm
+  linkedin: https://www.linkedin.com/in/wormwlrm/
 - name: 정주홍
   blog: https://brunch.co.kr/@toughrogrammer
   rss: https://brunch.co.kr/rss/@@1dLN
@@ -10146,7 +10137,6 @@
   blog: https://velog.io/@jeff0720
   rss: https://v2.velog.io/rss/jeff0720
   description: AWS
-  github: https://github.com/jeffchoi72
 - name: 최영재
   blog: https://ororso.tistory.com/
   rss: https://ororso.tistory.com/rss
@@ -10209,7 +10199,6 @@
 - name: 최재강
   blog: https://manchann.tistory.com/
   rss: https://manchann.tistory.com/rss
-  github: https://github.com/manchann
   description: Deep Learning, Cloud Architecture
 - name: 최재길
   blog: https://blog.devjoshua.me/
