@@ -4574,6 +4574,10 @@
   blog: https://medium.com/@darkrasid
   rss: https://medium.com/feed/@darkrasid
   description: Docker
+- name: 서광근
+  blog: https://gwang920.github.io/
+  rss: https://gwang920.github.io/feed.xml
+  github: https://github.com/gwang920
 - name: 서광열
   profile: people/kwangyul.seo.md
   blog: https://gamecodingschool.org/
