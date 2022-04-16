@@ -8500,6 +8500,12 @@
   blog: https://devyongsik.tistory.com/
   rss: https://devyongsik.tistory.com/rss
   description: Java, Lucene
+- name: 장원용
+  blog: https://wonyong-jang.github.io
+  rss: https://wonyong-jang.github.io/feed.xml
+  description: Back End Engineer
+  github: https://github.com/wonyong-jang
+  linkedin: https://www.linkedin.com/in/wonyong-jang-3250b4165
 - name: 장윤수
   blog: https://yunslog.tistory.com/
   rss: https://yunslog.tistory.com/rss
@@ -11195,9 +11201,3 @@
   facebook: https://www.facebook.com/khi0211
   instagram: https://www.instagram.com/sydev_sk/
   linkedin: https://www.linkedin.com/in/steve-kwon-8606ba1b8
-- name: 장원용
-  blog: https://wonyong-jang.github.io
-  rss: https://wonyong-jang.github.io/feed.xml
-  description: Back End Engineer
-  github: https://github.com/wonyong-jang
-  linkedin: https://www.linkedin.com/in/wonyong-jang-3250b4165
