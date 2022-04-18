@@ -49,8 +49,8 @@
 ## 형제자매 프로젝트
 
 - [AWESOME DEVBLOG(포탈)](https://awesome-devblog.netlify.app/)
-- [어썸블로그(안드로이드)](https://play.google.com/store/apps/details?id=org.petabytes.awesomeblogs)
-- [어썸블로그(iOS)](https://itunes.apple.com/us/app/어썸-블로그/id1276023809)
+- [어썸블로그(안드로이드)](https://play.google.com/store/apps/details?id=blogs.awesome.android.awesome_blogs_flutter)
+- [어썸블로그(iOS)](https://apps.apple.com/kr/app/id1557176134)
 - [어썸블로그(페이스북 페이지)](https://www.facebook.com/awesomeblogs/)
 - [Daily DevBlog(뉴스레터)](http://daily-devblog.com/)
 - [DEVBLOG(메타블로그)](http://devblog.selfhow.com/)
