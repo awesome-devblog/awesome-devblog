@@ -1652,6 +1652,8 @@
   blog: https://brunch.co.kr/@youngwungkim
   rss: https://brunch.co.kr/rss/@@8w7
   description: 기획
+  facebook: https://www.facebook.com/keyassist
+  linkedin: https://www.linkedin.com/in/ryan-kim-bb105744/
 - name: 김영재
   blog: https://youngjaekim.wordpress.com/
   rss: https://youngjaekim.wordpress.com/feed/
@@ -5093,6 +5095,11 @@
   twitter: https://twitter.com/LT_Lovetoken
   linkedin: https://www.linkedin.com/in/lovetoken/
   github: https://github.com/lovetoken
+- name: 승형수
+  blog: https://funes-days.com/
+  facebook: https://www.facebook.com/profile.php?id=100000500051127
+  github: https://github.com/huskyhoochu
+  linkedin: https://www.linkedin.com/in/형수-승-697aaa173/
 - name: 신기용
   blog: https://goodgid.github.io/
   rss: https://goodgid.github.io/feed.xml
