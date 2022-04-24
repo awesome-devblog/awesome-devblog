@@ -3219,6 +3219,9 @@
   rss: https://maeng-dev.tistory.com/rss
   description: Rust, Vue
   facebook: https://www.facebook.com/profile.php?id=100006631038938
+- name: 명연재
+  blog: https://brunch.co.kr/@dr153
+  rss: https://brunch.co.kr/rss/@@d6om
 - name: 모상우
   blog: https://brunch.co.kr/@aidenswmo
   rss: https://brunch.co.kr/rss/@@FOY
@@ -9572,7 +9575,7 @@
   description: Angular
   linkedin: https://www.linkedin.com/in/notforme/
 - name: 조은
-  blog: https://medium.com/@euncho
+  blog: https://euncho.medium.com/
   rss: https://medium.com/feed/@euncho
   description: Front-end
   twitter: https://twitter.com/apes01234
