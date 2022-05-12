@@ -4151,6 +4151,10 @@
   twitter: https://twitter.com/mrchypark_
   linkedin: https://www.linkedin.com/in/chanyubpark/
   github: https://github.com/mrchypark
+- name: 박찬영
+  blog: https://univdev.page
+  rss: https://univdev.page/feed.xml
+  description: Front-end, Typescript, Vue, React
 - name: 박찬욱
   blog: https://chanwookpark.github.io/
   description: Back-end
