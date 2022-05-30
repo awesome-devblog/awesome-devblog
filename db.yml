@@ -499,6 +499,12 @@
   blog: https://blog.naver.com/PostList.nhn?blogId=knix008
   rss: https://rss.blog.naver.com/knix008.xml
   description: C
+- name: 권시연
+  blog: https://yeonyeon.tistory.com/
+  rss: https://yeonyeon.tistory.com/rss
+  github: https://github.com/yeon-06
+  twitter: https://twitter.com/yeonLog_
+  description: Back-end
 - name: 권영재
   blog: https://nesoy.github.io/
   rss: https://nesoy.github.io/atom.xml
