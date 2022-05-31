@@ -9253,6 +9253,11 @@
   rss: https://jeong-develop-repository.netlify.app/rss.xml
   description: WEB 개발
   github: https://github.com/bcc829
+- name: 정재엽
+  blog: https://frankle97.tistory.com
+  rss: https://frankle97.tistory.com/rss
+  github: https://github.com/Frankle97
+  description: Back-end
 - name: 정준호
   youtube: https://www.youtube.com/channel/UCNbp-JsE2BUZMwPaC6J8ApQ
 - name: 정지수
