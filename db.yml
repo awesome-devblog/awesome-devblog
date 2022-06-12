@@ -1361,6 +1361,12 @@
   blog: https://sunyzero.tistory.com/
   rss: https://sunyzero.tistory.com/rss
   description: Linux
+- name: 김선영
+  blog: https://blossun.github.io/
+  rss: https://blossun.github.io/feed.xml
+  description: Java
+  github: https://github.com/blossun
+  facebook: https://www.facebook.com/dev.blossun
 - name: 김선우
   blog: https://brunch.co.kr/@artiveloper
   rss: https://brunch.co.kr/rss/@@1RbC
