@@ -4197,6 +4197,10 @@
   twitter: https://twitter.com/say8425
   stackoverflow: https://stackoverflow.com/users/3910390/penguin
   rocketpunch: https://www.rocketpunch.com/@say8425
+- name: 박철우
+  blog: https://parkcheolu.tistory.com/
+  rss: https://parkcheolu.tistory.com/rss
+  description: Java
 - name: 박치완
   blog: https://chiwanpark.com/articles/
   description: ''
@@ -5664,7 +5668,8 @@
   description: IT 칼럼
   facebook: https://www.facebook.com/fstory97
 - name: 양봉수
-  blog: https://yangbongsoo.gitbooks.io/study/content/
+  blog: https://yangbongsoo.tistory.com/
+  rss: https://yangbongsoo.tistory.com/rss
   description: Java, Spring
   github: https://github.com/yangbongsoo
 - name: 양상현
