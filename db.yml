@@ -11141,6 +11141,13 @@
 - name: 황은지
   blog: https://velog.io/@hwang-eunji
   rss: https://v2.velog.io/rss/hwang-eunji
+- name: 황인규
+  blog: https://dlsrb6342.github.io/
+  rss: https://dlsrb6342.github.io/feed.xml
+  description: Java
+  github: https://github.com/dlsrb6342
+  linkedin: https://www.linkedin.com/in/ingyu-hwang-799326149/
+  twitter: https://twitter.com/ingyuHwang2
 - name: 황인서
   blog: https://medium.com/@chequer
   rss: https://medium.com/feed/@chequer
