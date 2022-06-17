@@ -7785,6 +7785,9 @@
   blog: https://jhleed.tistory.com/
   rss: https://jhleed.tistory.com/rss
   description: ''
+- name: 이주경
+  blog: https://medium.com/@leejukyung
+  rss: https://medium.com/feed/@leejukyung
 - name: 이주영
   blog: https://dev-juyoung.github.io/
   rss: https://dev-juyoung.github.io/atom.xml
