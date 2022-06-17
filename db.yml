@@ -9189,6 +9189,12 @@
   blog: http://blog.younjinjeong.io/
   description: Cloud
   tistory: https://kerberosj.tistory.com/
+- name: 정의석
+  blog: https://velog.io/@euisuk-chung
+  rss: https://v2.velog.io/rss/euisuk-chung
+  description: Machine Learning
+  github: https://github.com/euisuk-chung
+  linkedin: https://www.linkedin.com/in/euisuk-chung-b8109a16a/
 - name: 정의정
   blog: https://uiui.blog/
   rss: https://uiui.blog/rss.xml
