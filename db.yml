@@ -146,6 +146,11 @@
   rss: https://willseungh0.tistory.com/rss
   description: Back-end
   github: https://github.com/seungh0
+- name: 강시온
+  blog: https://velog.io/@siontama
+  rss: https://v2.velog.io/rss/siontama
+  github: https://github.com/Yaminyam
+  facebook: https://www.facebook.com/profile.php?id=100004220895840
 - name: 강신동
   description: Machine Learning
   slideshare: https://www.slideshare.net/uspace
