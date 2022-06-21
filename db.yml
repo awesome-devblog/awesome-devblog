@@ -3430,9 +3430,11 @@
   twitter: https://twitter.com/kyungw00k
   github: https://github.com/kyungw00k
 - name: 박경준
-  blog: https://ryanpark.dev/
+  blog: https://medium.com/@ryanparkdev
+  rss: https://medium.com/feed/@ryanparkdev
   description: Domain Driven Design
   facebook: https://www.facebook.com/kyungjun.park.77
+  home: https://ryanpark.dev/
 - name: 박경훈
   nickname: HOONS
   blog: https://hoonsbara.tistory.com/
@@ -6860,6 +6862,11 @@
   linkedin: https://www.linkedin.com/in/mooyoul/
   slideshare: https://www.slideshare.net/mooyoul
   home: https://debug.so
+- name: 이문기
+  blog: https://medium.com/@shinbaek89
+  rss: https://medium.com/feed/@shinbaek89
+  github: https://github.com/LeeMoonki
+  facebook: https://www.facebook.com/wallahbaba
 - name: 이민구
   blog: https://medium.com/@premist
   rss: https://medium.com/feed/@premist
