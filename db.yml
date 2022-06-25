@@ -6557,6 +6557,9 @@
   blog: https://brunch.co.kr/@henen
   rss: https://brunch.co.kr/rss/@@1grC
   description: Android, Vue
+- name: 이가송
+  blog: https://blog.naver.com/leekasong
+  rss: https://rss.blog.naver.com/leekasong.xml
 - name: 이건
   blog: https://geonlee.tistory.com/
   github: https://github.com/dl0312
