@@ -17,14 +17,12 @@
   description: Spring Boot
   facebook: https://www.facebook.com/profile.php?id=100003012256912
 - name: 강규영
-  profile: people/ecogwiki.md
   slideshare: https://www.slideshare.net/jania902
 - name: 강관우
   blog: https://brunch.co.kr/@kd4
   description: 웹개발
   rss: https://brunch.co.kr/rss/@@xTa
 - name: 강대명
-  profile: people/charsyam.md
   blog: https://charsyam.wordpress.com/
   rss: https://charsyam.wordpress.com/feed/
   description: 서버 사이드
@@ -211,7 +209,6 @@
   rss: https://junhyunny.github.io/feed.xml
   description: Java, Spring, Back-End
 - name: 강진우
-  profile: people/alden.md
   blog: https://brunch.co.kr/@alden
   rss: https://brunch.co.kr/rss/@@3Y0
   description: Linux
@@ -439,7 +436,6 @@
   description: 알고리즘
   facebook: https://www.facebook.com/gs14004
 - name: 구종만
-  profile: people/theyearlyprophet.md
   blog: http://theyearlyprophet.com/
   rss: https://feeds.feedburner.com/theyearlyprophet/GGGO
   description: 알고리즘
@@ -3930,7 +3926,6 @@
   rss: https://wisefree.tistory.com/rss
   description: IT 칼럼
 - name: 박재호
-  profile: people/jhrogue.md
   blog: https://jhrogue.blogspot.kr/
   rss: https://feeds.feedburner.com/blogspot/ASpE
   description: 빅데이터, 인공지능
@@ -4642,7 +4637,6 @@
   rss: https://gwang920.github.io/feed.xml
   github: https://github.com/gwang920
 - name: 서광열
-  profile: people/kwangyul.seo.md
   blog: https://gamecodingschool.org/
   rss: https://gamecodingschool.org/feed/
   description: 게임 개발
@@ -7372,6 +7366,11 @@
   description: 스타트업
 - name: 이승훈
   slideshare: https://www.slideshare.net/frhyme
+- name: 이승훈
+  blog: https://kingpiggylab.tistory.com/
+  rss: https://kingpiggylab.tistory.com/rss
+  github: https://github.com/KingPiggy
+  profile: https://lime-cover-28e.notion.site/a5c4bf52a5604e6f85c8301c368a230e
 - name: 이영경
   blog: https://sori-nori.gitlab.io/
   rss: https://sori-nori.gitlab.io/feed.xml
@@ -10758,7 +10757,6 @@
   linkedin: www.linkedin.com/in/seungwook-han-b15221195
 - name: 한승훈
   nickname: kkamagui
-  profile: people/kkamagui.md
   blog: https://kkamagui.tistory.com/
   rss: https://kkamagui.tistory.com/rss
   description: OS
