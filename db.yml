@@ -4318,6 +4318,11 @@
   description: 'Fernando 기술 블로그'
   github: https://github.com/techinpark
   twitter: https://twitter.com/techinpark
+- name: 박하은
+  blog: https://haeun.vercel.app/
+  github: https://github.com/pullingoff
+  linkedin: https://www.linkedin.com/in/hailey-park/
+  twitter: https://twitter.com/devpullingoff
 - name: 반병현
   blog: https://brunch.co.kr/@needleworm
   description: 스타트업
