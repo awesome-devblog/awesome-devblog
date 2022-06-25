@@ -3511,6 +3511,9 @@
   rss: https://cwal.tistory.com/rss
   description: DevOps, Cloud
   linkedin: https://www.linkedin.com/in/명규-박-79145b1a8/
+- name: 박명범
+  blog: https://latte-is-horse.tistory.com/
+  rss: https://latte-is-horse.tistory.com/rss
 - name: 박명진
   blog: https://mjin1220.tistory.com/
   rss: https://mjin1220.tistory.com/rss
@@ -7897,8 +7900,9 @@
   linkedin: https://www.linkedin.com/in/jimin-lee-526a41121/
   slideshare: https://www.slideshare.net/JiminLee36
 - name: 이지민
-  github: https://github.com/americanomin
   blog: https://americanopeople.tistory.com/
+  rss: https://americanopeople.tistory.com/rss
+  github: https://github.com/americanomin
   slideshare: https://www.slideshare.net/jiminlee81
   description: 백엔드
 - name: 이지영
