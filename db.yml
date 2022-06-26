@@ -10653,11 +10653,6 @@
   facebook: https://www.facebook.com/mimuls
   github: https://github.com/mimul
   home: https://www.mimul.com/
-- name: 한건국
-  blog: https://umanking.github.io
-  rss: https://umanking.github.io/rss2.xml
-  description: Java, Spring, JPA
-  github: https://github.com/umanking
 - name: 한고
   nickname: 10년코더
   blog: https://10yearscoder.tistory.com/
