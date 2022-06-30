@@ -10871,9 +10871,10 @@
   github: https://github.com/hajoeun
   linkedin: https://www.linkedin.com/in/hajoeun/
 - name: 한종우
+  blog: https://thearchivelog.dev
+  rss: https://thearchivelog.dev/rss.xml
+  description: 아카이브-로그
   github: https://github.com/jongwooo
-  facebook: https://www.facebook.com/profile.php?id=100030692961524
-  instagram: https://www.instagram.com/j0ng_wooo/
   linkedin: https://www.linkedin.com/in/jongwooo/
 - name: 한주영
   blog: https://medium.com/@jooyunghan
