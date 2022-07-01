@@ -2995,6 +2995,10 @@
   blog: https://medium.com/@minnamgoong
   rss: https://medium.com/feed/@minnamgoong
   description: 스타트업
+- name: 남규석
+  blog: https://nkstar-ios.tistory.com/
+  rss: https://nkstar-ios.tistory.com/rss
+  github: https://github.com/nks0614
 - name: 남규진
   blog: https://namkyujin.com/
   description: Java
