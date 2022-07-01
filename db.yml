@@ -5889,6 +5889,10 @@
   rss: https://kilho.net/feed
   description: 워드프레스
   facebook: https://www.facebook.com/newkilho
+- name: 오다혜
+  blog: https://velog.io/@devohda
+  rss: https://v2.velog.io/rss/devohda
+  github: https://github.com/devohda
 - name: 오명운
   blog: https://homoefficio.github.io/
   rss: https://homoefficio.github.io/atom.xml
