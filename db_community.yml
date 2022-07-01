@@ -1901,6 +1901,9 @@
   slack: https://tensorflowkr.slack.com/
   github: https://github.com/tensorflowkorea
   gitbook: https://legacy.gitbook.com/@tensorflowkorea
+- name: The Daily Geeks
+  blog: https://thedailygeeks.com/
+  rss: https://thedailygeeks.com/feed/
 - name: Trenbe 기술블로그
   blog: https://tech.trenbe.com
   rss: https://tech.trenbe.com/feed
