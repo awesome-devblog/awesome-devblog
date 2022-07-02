@@ -5301,6 +5301,9 @@
   description: Web
   github: https://github.com/Shin-JaeHeon
   npm: https://www.npmjs.com/~shin-jaeheon
+- name: 신재헌
+  blog: https://jaeheon.kr/
+  rss: https://jaeheon.kr/rss
 - name: 신정규
   blog: https://forest.nubimaru.com/
   rss: https://forest.nubimaru.com/rss
