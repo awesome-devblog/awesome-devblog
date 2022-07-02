@@ -5607,6 +5607,10 @@
   blog: https://programmingsummaries.tistory.com/
   rss: https://programmingsummaries.tistory.com/rss
   description: Front-end
+- name: 안재현
+  blog: https://goongoguma.github.io/
+  rss: https://goongoguma.github.io/atom
+  github: https://github.com/goongoguma
 - name: 안정민
   blog: https://minsone.github.io/
   rss: https://minsone.github.io/rss
