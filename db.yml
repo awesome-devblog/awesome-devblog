@@ -3801,6 +3801,13 @@
   blog: https://blog.naver.com/hyo04085
   rss: https://rss.blog.naver.com/hyo04085.xml
   facebook: https://www.facebook.com/soheeparkk
+- name: 박수빈
+  blog: https://blog.soobinpark.com/
+  rss: https://blog.soobinpark.com/rss
+  github: https://github.com/binsoopark
+  facebook: https://www.facebook.com/binsoopark
+  instagram: https://www.instagram.com/binsoopark0/
+  twitter: https://twitter.com/binsoopark
 - name: 박수성
   blog: https://parksuseong.blogspot.com/
   rss: https://parksuseong.blogspot.com/feeds/posts/default
@@ -11153,6 +11160,7 @@
   description: iOS
   github: https://github.com/cozzin
   linkedin: https://www.linkedin.com/in/cozzin
+  inflearn: https://www.inflearn.com/users/@cozzin
 - name: 홍성환
   blog: https://velog.io/@hsh
   rss: https://v2.velog.io/rss/hsh
