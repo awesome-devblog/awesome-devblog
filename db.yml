@@ -2803,10 +2803,6 @@
   github: https://github.com/eclipse4j
   linkedin: https://www.linkedin.com/in/hyeongi-kim-334b8a107/
   facebook: https://www.facebook.com/eclipse4j
-- name: 김현기
-  blog: https://hyunki1019.tistory.com/
-  rss: https://hyunki1019.tistory.com/rss
-  description: Database
 - name: 김현성
   blog: https://hsboee.medium.com/
   rss: https://medium.com/feed/@hsboee
@@ -6305,6 +6301,12 @@
   facebook: https://www.facebook.com/jeonghyeok.yoo
   twitter: https://twitter.com/delivan_yoo
   instagram: https://www.instagram.com/daeng_hyuk2
+- name: 유재상
+  blog: https://devlog.jsyoo5b.net/ko/
+  rss: https://devlog.jsyoo5b.net/ko/index.xml
+  github: https://github.com/JSYoo5B
+  linkedin: https://www.linkedin.com/in/JSYoo5B/
+  description: 시스템 프로그래밍
 - name: 유재석
   blog: https://brunch.co.kr/@yoojs8512
   rss: https://brunch.co.kr/rss/@@9TM
@@ -7181,12 +7183,6 @@
   rss: https://wingnim.tistory.com/rss
   description: Machine Learning
   facebook: https://www.facebook.com/sunwoong.lee.31
-- name: 이선주
-  blog: https://brunch.co.kr/@pliossun
-  rss: https://brunch.co.kr/rss/@@10mY
-  description: Design
-  dribbble: https://dribbble.com/plios_sun
-  rocketpunch: https://www.rocketpunch.com/@pliossun
 - name: 이선협
   blog: https://medium.com/@kciter
   rss: https://medium.com/feed/@kciter
