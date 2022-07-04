@@ -779,6 +779,8 @@
   youtube: https://www.youtube.com/channel/UCi9sajR43D21JSkulP6crfQ
 - name: 에이비일팔공
   blog: https://engineering.ab180.co/
+  rss: https://raw.githubusercontent.com/ab180/engineering-base/master/feed-ab180.rss
+  description: AB180 엔지니어링 베이스
   facebook: https://www.facebook.com/ab180.co/
   home: https://www.ab180.co/
   rocketpunch: https://www.rocketpunch.com/companies/ab180
