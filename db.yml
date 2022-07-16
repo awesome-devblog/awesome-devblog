@@ -1041,6 +1041,10 @@
   rss: https://wraithkim.wordpress.com/feed/
   description: Algorithm
   github: https://github.com/WraithKim
+- name: 김동호
+  blog: https://kelvinkim.net/
+  rss: https://kelvinkim.net/feed/
+  description: 스타트업
 - name: 김동효
   blog: https://kdhyo98.tistory.com/
   rss: https://kdhyo98.tistory.com/rss
