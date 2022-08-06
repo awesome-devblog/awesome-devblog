@@ -4632,6 +4632,12 @@
   blog: http://blog.daum.net/funfunction
   rss: http://blog.daum.net/xml/rss/funfunction
   description: FP
+- name: 변경연
+  blog: https://www.kyungyeon.dev
+  rss: https://kyungyeon.dev/rss.xml
+  description: 함께 성장하는 기쁨을 공유하고 싶은, 퍼포먼스 튜닝에 기쁨을 느끼는, Node.js를 개발하고 공부하는 개발자이며, 공부하고 생각나는 것들을 정리하는 데브로그입니다.
+  linkdin: https://www.linkedin.com/in/%EA%B2%BD%EC%97%B0-%EB%B3%80-6796401a0/
+  twitter: https://twitter.com/eric_backend
 - name: 변규현
   blog: https://novemberde.github.io/
   rss: https://novemberde.github.io/index.xml
