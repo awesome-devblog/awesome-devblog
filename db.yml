@@ -4983,6 +4983,12 @@
   rss: https://rerewww.github.io/feed
   description: 'Web 기술 블로그'
   github: https://github.com/rerewww
+- name: 손수림
+  blog: https://velog.io/@surim014
+  rss: https://v2.velog.io/rss/surim014
+  description: Front-end
+  github: https://github.com/sonsurim
+  home: https://thstnfla.notion.site/Son-Surim-6e288aae9ea3406da7a604f1065f16f0
 - name: 손수민
   blog: https://codeamor.dev/
   rss: https://codeamor.dev/rss.xml
