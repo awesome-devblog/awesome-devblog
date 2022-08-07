@@ -6237,6 +6237,13 @@
   blog: http://www.simpleisbest.net/
   rss: http://www.simpleisbest.net/syndication.axd
   description: '.NET'
+- name: 유경상
+  blog: https://ykss.netlify.app/
+  rss: https://ykss.netlify.app/rss.xml
+  description: Front-end
+  github: https://github.com/ykss
+  facebook: https://www.facebook.com/kyeongsang.yu
+  linkedin: https://www.linkedin.com/in/kyeongsangyu/
 - name: 유광무
   blog: https://holykisa.tistory.com/
   rss: https://holykisa.tistory.com/rss
