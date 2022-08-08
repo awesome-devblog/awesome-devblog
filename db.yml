@@ -2536,6 +2536,11 @@
   rss: https://kimchanjung.github.io/feed.xml
   description: java/spring/react/architecture
   github: https://github.com/kimchanjung
+- name: 김찬희
+  blog: https://velog.io/@superlipbalm
+  rss: https://v2.velog.io/rss/superlipbalm
+  description: Front-end
+  github: https://github.com/superLipbalm
 - name: 김창원
   blog: http://www.changkim.me/
   rss: http://www.changkim.me/feed/
