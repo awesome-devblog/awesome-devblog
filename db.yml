@@ -4688,6 +4688,12 @@
   linkedin: https://www.linkedin.com/in/suminb
   slideshare: https://www.slideshare.net/suminb
   home: https://shortbread.io/
+- name: 복다훈
+  blog: https://velog.io/@dev_boku
+  rss: https://v2.velog.io/rss/dev_boku
+  description: Front-end
+  linkedin: https://www.linkedin.com/in/dahoon-bok-78ab2911b/
+  facebook: https://www.facebook.com/dahoon.bok
 - name: 부종민
   blog: https://durtchrt.github.io/blog/
   description: Java, Spring
@@ -9760,6 +9766,7 @@
   blog: https://velog.io/@sdong001
   rss: https://v2.velog.io/rss/sdong001
   description: Android
+  linkedin: https://www.linkedin.com/in/성동-조-b53829133/
 - name: 조성문
   blog: https://sungmooncho.com/
   rss: https://sungmooncho.com/feed/
