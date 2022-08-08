@@ -6704,6 +6704,10 @@
 - name: 이가송
   blog: https://blog.naver.com/leekasong
   rss: https://rss.blog.naver.com/leekasong.xml
+- name: 이강엽
+  blog: https://velog.io/@lky5697
+  rss: https://v2.velog.io/rss/lky5697
+  description: Front-end
 - name: 이건
   blog: https://geonlee.tistory.com/
   github: https://github.com/dl0312
