@@ -9531,6 +9531,11 @@
 - name: 정지수
   blog: https://medium.com/@harry_41860
   rss: https://medium.com/feed/@harry_41860
+- name: 정지수
+  blog: https://velog.io/@wltn716
+  rss: https://v2.velog.io/rss/wltn716
+  description: Back-end
+  github: https://github.com/jiso0jung
 - name: 정지용
   twitter: https://twitter.com/ways_jung
   slideshare: https://www.slideshare.net/jiyongjung
