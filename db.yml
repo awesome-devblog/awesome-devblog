@@ -9933,6 +9933,11 @@
   rss: https://rss.blog.naver.com/oralol.xml
   facebook: https://www.facebook.com/jaesang.jo.96
   youtube: https://www.youtube.com/channel/UCV3c1DU6YiAGwtfD1B1N2-w
+- name: 조재영
+  blog: https://isntyet.github.io/
+  rss: https://isntyet.github.io/feed.xml
+  github: https://github.com/isntyet
+  facebook: https://www.facebook.com/isntyet
 - name: 조재우
   blog: https://flowkater.io/
   rss: https://flowkater.io/rss.xml
