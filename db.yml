@@ -6380,6 +6380,12 @@
   rss: https://blog.eedler.com/rss
   description: Swift
   aladin: https://www.aladin.co.kr/m/mauthorinfo.aspx?authorsearch=@5864807
+- name: 유윤광
+  blog: https://velog.io/@1996yyk
+  rss: https://v2.velog.io/rss/1996yyk
+  description: Network
+  github: https://github.com/yunkwangyou
+  home: https://yunkwangyou.notion.site/yunkwangyou/Profile-56469f6d83484e328c1f760545756957
 - name: 유윤식
   blog: https://brunch.co.kr/@yysttong
   rss: https://brunch.co.kr/rss/@@1aft
