@@ -5081,6 +5081,10 @@
   blog: https://blog.naver.com/agilesoft
   rss: https://rss.blog.naver.com/agilesoft.xml
   description: Front-end
+- name: 송기정
+  blog: https://masaki.tistory.com/
+  rss: https://masaki.tistory.com/rss
+  description: Database
 - name: 송다운
   blog: https://medium.com/@downy
   rss: https://medium.com/feed/@downy
