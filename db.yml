@@ -7489,6 +7489,10 @@
   rss: https://seunguklee.github.io/atom.xml
   github: https://github.com/seunguklee
   description: PHP
+- name: 이승원
+  blog: https://togomi.tistory.com/
+  rss: https://togomi.tistory.com/rss
+  github: https://github.com/aldlfkahs
 - name: 이승재
   blog: https://saystone.github.io/
   rss: https://saystone.github.io/atom.xml
