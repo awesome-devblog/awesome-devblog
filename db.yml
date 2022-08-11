@@ -421,6 +421,7 @@
   youtube: https://www.youtube.com/channel/UC_KRcBNnFQoN6EsvG87H6cg
 - name: 구영민
   blog: https://youngminz.netlify.app
+  rss: https://youngminz.netlify.app/rss.xml
   description: 백엔드
   rss: https://youngminz.netlify.app/rss.xml
   linkedin: https://www.linkedin.com/in/youngminz
@@ -5037,6 +5038,11 @@
   rss: https://arload.wordpress.com/feed/
   description: 개발방법론, Android
   slideshare: https://www.slideshare.net/arload
+- name: 손영철
+  blog: https://devs0n.tistory.com/
+  rss: https://devs0n.tistory.com/rss
+  github: https://github.com/ivvve/
+  linkedin: https://www.linkedin.com/in/youngcheol-son-536baa179/
 - name: 손은주
   blog: https://medium.com/@EJSohn
   rss: https://medium.com/feed/@EJSohn
