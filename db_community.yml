@@ -77,8 +77,8 @@
 - name: 기프팅
   blog: https://gifting.oopy.io/
 - name: 굿닥
-  blog: http://dev.goodoc.co.kr/
-  rss: http://dev.goodoc.co.kr/?feed=rss2
+  blog: https://blog.goodoc.kr/
+  rss: https://blog.goodoc.kr/rss.xml
   rocketpunch: https://www.rocketpunch.com/companies/goodoc
 - name: 꿈많은 청년들
   facebook: https://www.facebook.com/DreamYoungs/
@@ -463,8 +463,8 @@
 - name: 멋쟁이 사자처럼 at DGIST
   facebook: https://www.facebook.com/likeLionatDGIST/
 - name: 메가존
-  blog: https://cloud.hosting.kr/blog/
-  rss: https://cloud.hosting.kr/feed/
+  blog: https://wondermz.github.io/
+  rss: https://wondermz.github.io/feed.xml
   rocketpunch: https://www.rocketpunch.com/companies/megazone
 - name: 멜론 Design Group
   blog: https://brunch.co.kr/@design-melon
@@ -650,9 +650,6 @@
 - name: 소프트캠퍼스
   home: http://www.softcampus.co.kr/
   youtube: https://www.youtube.com/channel/UCNSz1OJrw5yB8JGi76UQQ-Q
-- name: 솔라나라
-  home: https://www.solanara.net/
-  rss: https://www.solanara.net/rss
 - name: 솔트룩스
   blog: https://blog.naver.com/saltluxmarketing
   rss: https://rss.blog.naver.com/saltluxmarketing.xml
@@ -786,7 +783,7 @@
   rocketpunch: https://www.rocketpunch.com/companies/ab180
 - name: 에이콘
   blog: http://www.acornpub.co.kr/blog
-  rss: http://feeds.feedburner.com/acornpub
+  rss: https://feeds.feedburner.com/acornpub
   facebook: https://www.facebook.com/acornpub/
   twitter: https://twitter.com/acornpub
   rocketpunch: https://www.rocketpunch.com/companies/eikonculpansa
@@ -869,10 +866,6 @@
   facebook: https://www.facebook.com/groups/indiera/
 - name: 자율주행을 좋아하는 사람들의 모임
   kakaotalk: https://open.kakao.com/o/geMJ6H2
-- name: 자바까페
-  blog: http://tech.javacafe.io/
-  rss: http://tech.javacafe.io/feed.xml
-  facebook: https://www.facebook.com/groups/javacafe/
 - name: 자바 모듈 프로그래밍
   facebook: https://www.facebook.com/groups/javamodule/
 - name: 자바의신
@@ -1161,8 +1154,7 @@
   blog: https://team-platform.tistory.com/
   rss: https://team-platform.tistory.com/rss
 - name: 피플펀드
-  blog: https://tech.peoplefund.co.kr/
-  rss: https://tech.peoplefund.co.kr/feed.xml
+  blog: https://blog.peoplefund.co.kr/
   rocketpunch: https://www.rocketpunch.com/companies/peoplefund
 - name: 핑퐁팀
   blog: https://blog.pingpong.us/
@@ -1239,17 +1231,11 @@
   home: https://kernel-dev-ko.github.io/
   groups: https://groups.google.com/forum/#!forum/korea-linux-kernel-developers-meetup
   instagram: https://www.instagram.com/kernel.dev.ko/
-- name: 호스팅케이알
-  blog: https://cloud.hosting.kr/blog/
-  rss: https://cloud.hosting.kr/feed/
-  description: AWS
-  home: https://www.hosting.kr/
 - name: 한국전자통신연구원
   home: https://www.etri.re.kr/
   youtube: https://www.youtube.com/channel/UCkUOpd1eE5elWKukIKYL-9w
 - name: 힐링페이퍼
-  blog: https://healingpaper.github.io/
-  rss: https://healingpaper.github.io/feed
+  blog: https://blog.gangnamunni.com/
   rocketpunch: https://www.rocketpunch.com/companies/healingpaper
 - name: 휴먼스케이프 개발블로그
   blog: https://medium.com/humanscape-tech
@@ -1475,8 +1461,8 @@
   home: https://news.hada.io/
   rss: http://feeds.feedburner.com/geeknews-feed
 - name: Gitple
-  blog: https://tech.gitple.io/
-  rss: https://tech.gitple.io/atom.xml
+  blog: https://tech.finset.io/
+  rss: https://tech.finset.io/atom.xml
 - name: GM Yankee
   youtube: https://www.youtube.com/channel/UC9RsPwY9QfPDGD-IMEwLn3Q
 - name: GNU Korea
@@ -1734,10 +1720,6 @@
   blog: https://medium.com/plustv
   rss: https://medium.com/feed/plustv
   rocketpunch: https://www.rocketpunch.com/companies/plustv
-- name: poplcode
-  blog: https://blog.popl.ml
-  rss: https://blog.popl.ml/rss
-  description: php library
 - name: Popit
   blog: http://www.popit.kr
   rss: http://www.popit.kr/feed/
