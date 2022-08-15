@@ -4754,7 +4754,7 @@
   github: https://github.com/kseo
 - name: 서경석
   blog: https://gseok.github.io/
-  rss: https://gseok.github.io/atom.xml
+  rss: https://gseok.github.io/rss.xml
   description: Front-end, Web
   github: https://github.com/gseok
 - name: 서근
@@ -5728,7 +5728,7 @@
   description: Vue.js
   twitter: https://twitter.com/momentousChange
   instagram: https://www.instagram.com/you_and_mydrawing/
-- name: 안정호  
+- name: 안정호
   description: Web
   github: https://github.com/ahnjungho
   facebook: https://www.facebook.com/ahn.jungho
@@ -7587,7 +7587,7 @@
   rss: https://blog.0chan.dev/feed.xml
   github: https://github.com/20chan
   twitter: https://twitter.com/dev_philly
-  facebook: https://www.facebook.com/ars103  
+  facebook: https://www.facebook.com/ars103
   linkedin: https://www.linkedin.com/in/영찬-이-3727b6121/
   stackoverflow: https://stackoverflow.com/users/5906697/20chan
   description: 'C#, 삽질'
