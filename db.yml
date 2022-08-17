@@ -792,6 +792,10 @@
   rss: https://medium.com/feed/@futureofdev
   description: Android
   github: https://github.com/Elice-kim
+- name: 김남규
+  blog: https://velog.io/@vpdls1511
+  rss: https://v2.velog.io/rss/vpdls1511
+  github: https://github.com/vpdls1511
 - name: 김남윤
   blog: https://cheese10yun.github.io/
   rss: https://cheese10yun.github.io/feed.xml
