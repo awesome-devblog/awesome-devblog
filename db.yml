@@ -754,8 +754,11 @@
   rocketpunch: https://www.rocketpunch.com/@sdaff1004
   description: 주니어 풀스택 개발자 morian-kim
 - name: 김기현
+  blog: https://kh-kim.github.io/
+  rss: https://kh-kim.github.io/feed.xml
   github: https://github.com/kh-kim
   linkedin: https://www.linkedin.com/in/ki-hyun-kim/
+  facebook: https://www.facebook.com/pointzz
 - name: 김기훈
   blog: https://kihoonkim.github.io/
   description: Agile
@@ -8441,6 +8444,12 @@
   blog: https://brunch.co.kr/@leehosung
   rss: https://brunch.co.kr/rss/@@Gp7
   description: 8퍼센트 CTO. 개발 문화
+- name: 이호성
+  blog: https://hoya012.github.io/
+  rss: https://hoya012.github.io/feed.xml
+  github: https://github.com/hoya012
+  facebook: https://www.facebook.com/2.hoseong/
+  linkedin: https://www.linkedin.com/in/hoseong-lee-96709516a/
 - name: 이호연
   nickname: 그랩
   blog: https://brunch.co.kr/@tansfil
