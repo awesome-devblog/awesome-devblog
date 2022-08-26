@@ -6740,6 +6740,11 @@
   blog: https://brunch.co.kr/@brunch4nrs
   rss: https://brunch.co.kr/rss/@@zav
   description: 구글러
+- name: 윤태희
+  blog: https://velog.io/@thyoondev
+  github: https://github.com/thyoondev
+  rss: https://v2.velog.io/rss/thyoondev
+  description: Frontend, Blockchain  
 - name: 윤해은
   blog: https://velog.io/@yhe228
   rss: https://v2.velog.io/rss/yhe228
