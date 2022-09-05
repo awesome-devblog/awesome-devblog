@@ -208,6 +208,11 @@
   github: https://github.com/Junhyunny
   rss: https://junhyunny.github.io/feed.xml
   description: Java, Spring, Back-End
+- name: 강지승
+  blog: https://velog.io/@jiseung
+  rss: https://v2.velog.io/rss/jiseung
+  github: https://github.com/jiseung-kang
+  description: Web Front-end
 - name: 강진우
   blog: https://brunch.co.kr/@alden
   rss: https://brunch.co.kr/rss/@@3Y0
