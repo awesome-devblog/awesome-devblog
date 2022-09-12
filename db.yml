@@ -7800,6 +7800,12 @@
   pinterest: https://www.pinterest.com/eundang/
   tistory: https://second-brain.tistory.com/
 - name: 이장현
+  blog: https://velog.io/@technicalwriter
+  rss: https://v2.velog.io/rss/technicalwriter
+  description: Technical Writer
+  description: Technical Writing
+  aboutme: https://jewel-baritone-908.notion.site/Welcome-to-this-docs-about-this-Techn-96e40a1bc0b842e582e8a966a5f9bc0d
+- name: 이장현
   blog: https://velog.io/@open_h
   rss: https://v2.velog.io/rss/open_h
   description: Front-end
