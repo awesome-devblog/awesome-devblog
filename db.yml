@@ -4675,6 +4675,10 @@
   blog: https://brunch.co.kr/@jeffpaik
   rss: https://brunch.co.kr/rss/@@CHl
   description: 블록체인
+- name: 백종호
+  blog: https://digit-dt.tistory.com/
+  description: 컴공생의 개발자 공부 기록 & 새롭고 자세한 IT소식 기록
+  rss: https://digit-dt.tistory.com/rss  
 - name: 백진후
   blog: https://ake.kr/
   rss: https://ake.kr/rss.xml
