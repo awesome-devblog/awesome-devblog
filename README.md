@@ -45,6 +45,7 @@
 - [기술 블로그 슬랙으로 모아보기](https://donghh0221.tistory.com/14)
 - [tistory-readme-stats 개발기](https://formason.tistory.com/22)
 - [(21.12.28) What the hack is RSS??](https://spookyjelly.tistory.com/69)
+- [[생각 정리] 컨텐츠의 힘 (부제: awesome-devblog)](https://csj000714.tistory.com/564)
 
 ## 형제자매 프로젝트
 
