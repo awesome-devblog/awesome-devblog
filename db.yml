@@ -11627,6 +11627,12 @@
   rss: https://medium.com/feed/@sryu99
   description: Agile
   linkedin: https://www.linkedin.com/in/jason-ryu-b5b8b6a8/
+- name: Joona Yoon
+  nickname: joonas
+  blog: https://blog.joonas.io
+  github: https://github.com/joonas-yoon
+  rss: https://blog.joonas.io/rss
+  description: Computer Sciences
 - name: Justin Yoo
   blog: https://devkimchi.com/
   twitter: https://twitter.com/devkimchi
