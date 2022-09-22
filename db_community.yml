@@ -1,7 +1,4 @@
 ---
-- name: STCLab Tech blog
-  blog: https://medium.com/stclab-tech-blog
-  rss: https://medium.com/feed/stclab-tech-blog
 - name: 0xProject 한국 커뮤니티
   facebook: https://www.facebook.com/groups/1969505666422964/
 - name: 1Day1Make
@@ -753,7 +750,7 @@
 - name: 에듀코딩
   blog: https://blog.naver.com/educoding
   rss: https://rss.blog.naver.com/educoding.xml
-- name: 에스티씨랩 
+- name: 에스티씨랩 블로그
   blog: https://medium.com/stclab-tech-blog
   rss: https://medium.com/feed/stclab-tech-blog
 - name: 웹학교
