@@ -4386,6 +4386,11 @@
   rss: https://rss.blog.naver.com/phg98.xml
   twitter: https://twitter.com/phg98
   description: ''
+- name: 박형민
+  blog: https://thalals.tistory.com
+  rss: https://thalals.tistory.com/rss
+  github: https://github.com/thalals
+  description: BE, Java, Spring, Mysql, AWS
 - name: 박훈
   blog: https://1ambda.blog/
   rss: https://1ambda.blog/feed/
