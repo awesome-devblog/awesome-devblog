@@ -7,7 +7,7 @@
   rss: http://feeds.soundcloud.com/users/soundcloud:users:206137365/sounds.rss
 - name: Full Stack Radio
   home: http://www.fullstackradio.com/
-  rss: https://rss.simplecast.com/podcasts/279/rss
+  rss: https://feeds.transistor.fm/full-stack-radio
 - name: CodeNewbie
   home: https://www.codenewbie.org/
   rss: http://feeds.codenewbie.org/cnpodcast.xml
