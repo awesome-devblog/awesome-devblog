@@ -751,6 +751,9 @@
 - name: 에듀코딩
   blog: https://blog.naver.com/educoding
   rss: https://rss.blog.naver.com/educoding.xml
+- name: 에스티씨랩 블로그
+  blog: https://medium.com/stclab-tech-blog
+  rss: https://medium.com/feed/stclab-tech-blog
 - name: 웹학교
   youtube: https://www.youtube.com/channel/UCjTQHbtYgSVCwU-sfVukZpw
 - name: 유익아카데미
