@@ -6207,6 +6207,10 @@
 - name: 오환영
   blog: https://aws-hyoh.tistory.com/
   rss: https://aws-hyoh.tistory.com/rss
+- name: 오명균
+  blog: https://www.walter-o.com/study
+  github: https://github.com/ropering
+  description: Back-End/Based Notion
 - name: 옥수환
   blog: https://www.charlezz.com/
   rss: https://www.charlezz.com/?feed=rss2
