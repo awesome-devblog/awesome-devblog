@@ -54,6 +54,7 @@
 - [어썸블로그(iOS)](https://apps.apple.com/kr/app/id1557176134)
 - [어썸블로그(페이스북 페이지)](https://www.facebook.com/awesomeblogs/)
 - [Daily DevBlog(뉴스레터)](http://daily-devblog.com/)
+- [Devery(메타블로그)](https://devery.ssunm.app)
 - [DEVBLOG(메타블로그)](http://devblog.selfhow.com/)
 - [TodayDevBlog_bot(텔레그램봇)](https://t.me/TodayDevblog_bot)
 - [TodayDevBlog bot(슬랙 웹훅)](https://github.com/techinpark/today-devblog-bot)
