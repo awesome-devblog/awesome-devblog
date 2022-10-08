@@ -4646,8 +4646,6 @@
   rss: https://rss.blog.naver.com/conaman.xml
   desciprion: Game Development
 - name: 백영진
-  blog: https://koreaceladon.tistory.com/
-  rss: https://koreaceladon.tistory.com/rss
   description: Storage
   facebook: https://www.facebook.com/Apheleia
 - name: 백재연
@@ -4679,10 +4677,6 @@
   twitter: https://twitter.com/cybaek
   linkedin: https://www.linkedin.com/in/cybaek/
   slideshare: https://www.slideshare.net/cybaek
-- name: 범이
-  blog: http://blog.daum.net/funfunction
-  rss: http://blog.daum.net/xml/rss/funfunction
-  description: FP
 - name: 변경연
   blog: https://www.kyungyeon.dev
   rss: https://kyungyeon.dev/rss.xml
@@ -4815,7 +4809,6 @@
   github: https://github.com/tbvjaos510
 - name: 서송이
   blog: https://songii00.github.io/
-  rss: https://songii00.github.io/feed.xml
   github: https://github.com/songii00
 - name: 서승호
   blog: http://seosh81.info/
@@ -4992,8 +4985,8 @@
   twitter: https://twitter.com/scinix
   stackoverflow: https://stackoverflow.com/users/1111002/sio4
 - name: 소인성
-  blog: https://parang.tech/
-  rss: https://parang.tech/rss.xml
+  blog: https://sisparang.tistory.com/
+  rss: https://sisparang.tistory.com/rss
   github: https://github.com/InSeong-So
   rocketpunch: https://www.rocketpunch.com/@InSeong-So
   home: https://inseong-so.github.io/
@@ -6010,8 +6003,6 @@
   description: ''
   facebook: https://www.facebook.com/Jiwon0603
 - name: 오광신
-  blog: http://kwangshin.pe.kr/
-  rss: http://kwangshin.pe.kr/blog/feed/
   description: 함수형 언어
   twitter: https://twitter.com/KwangshinOh
 - name: 오경식
@@ -6040,10 +6031,6 @@
   blog: https://www.namooz.com/
   rss: https://www.namooz.com/feed/
   description: Spring Boot, Angular2
-- name: 오세빈
-  blog: https://osebin.tistory.com/
-  rss: https://osebin.tistory.com/rss
-  description: ''
 - name: 오세용
   blog: http://ohseyong.com/
   rss: http://ohseyong.com/?feed=rss2
@@ -6373,7 +6360,7 @@
   tumblr: https://deminoth.tumblr.com/
 - name: 유성규
   blog: https://skyoo2003.github.io/
-  rss: https://skyoo2003.github.io/feed.xml
+  rss: https://skyoo2003.github.io/index.xml
   description: Ansible
   linkedin: https://www.linkedin.com/in/성규-유-6b2251b7/
   github: https://github.com/skyoo2003
@@ -6660,14 +6647,9 @@
   github: https://github.com/seulgiyoon
   twitter: https://twitter.com/sgyoon_info
 - name: 윤승환
-  blog: http://blog.daum.net/epilogs
-  rss: http://blog.daum.net/xml/rss/epilogs
   description: Elastic
   facebook: https://www.facebook.com/epilogs
 - name: 윤여선
-  blog: https://yeoseon.kr/
-  description: https://yeoseon.kr/
-  rss: https://yeoseon.kr/rss/
   instagram: https://www.instagram.com/yys.kr/
   linkedin: https://www.linkedin.com/in/yyskr/
   github: https://github.com/yeoseon
@@ -6851,8 +6833,8 @@
   github: https://github.com/onedayz
   linkedin: https://www.linkedin.com/in/grey-lee-12973a154/
 - name: 이규영
-  blog: http://mindthelog.com/
-  rss: http://mindthelog.com/feed/
+  blog: https://mindthelog.com/
+  rss: https://mindthelog.com/feed/
   description: 마케팅 분석
 - name: 이규원
   blog: https://gyuwon.github.io/
@@ -6872,7 +6854,6 @@
   github: https://github.com/leekyukin
 - name: 이규혁
   blog: https://kyuhyuk.kr/
-  rss: https://kyuhyuk.kr/feed.xml
   description: Security
   github: https://github.com/LeeKyuHyuk
   facebook: https://www.facebook.com/LeeKyuHyuk
@@ -6944,7 +6925,6 @@
   youtube: https://www.youtube.com/channel/UCYaEmpha96jGMyChRfYoVtA
 - name: 이도행
   blog: http://sonanlee.dev/
-  rss: https://sonanlee.dev/feed/
   github: https://github.com/sonanlee
   linkedin: https://www.linkedin.com/in/sonanlee/
   facebook: https://www.facebook.com/sonan0721
@@ -8263,8 +8243,8 @@
   rss: https://blog.devstory.co.kr/rss.xml
   github: https://github.com/nero-angela
 - name: 이찬호
-  blog: https://teddygood.github.io/
-  rss: https://teddygood.github.io/index.xml
+  blog: https://teddygood.github.io/blog/
+  rss: https://teddygood.github.io/blog/rss.xml
   github: https://github.com/teddygood
   linkedin: https://www.linkedin.com/in/chanho-lee-7aab681a2/
   facebook: https://www.facebook.com/chanho.teddy
@@ -8308,7 +8288,6 @@
   github: https://github.com/sinna94
 - name: 이치웅
   blog: https://chichi.space/
-  rss: https://chichi.space/rss.xml
   description: Javascript
   facebook: https://www.facebook.com/chiwoooong
   github: https://github.com/jyqry
@@ -8789,10 +8768,6 @@
   blog: https://mooneegee.blogspot.kr/
   rss: https://mooneegee.blogspot.com/feeds/posts/default
   description: 3D
-- name: 장민
-  blog: https://m-veloper.github.io/
-  rss: https://m-veloper.github.io/feed.xml
-  description: 초보 개발자의 정리
 - name: 장범준
   blog: https://tjtdkr.me/
   rss: https://tjtdkr.me/feed.xml
@@ -8816,8 +8791,8 @@
   rss: https://brunch.co.kr/rss/@@L61
   description: 웹디자인, CSS Animation
 - name: 장성만
-  blog: https://frontjang.info/
-  rss: https://frontjang.info/rss
+  blog: https://frontjang.tistory.com/
+  rss: https://frontjang.tistory.com/rss
   description: ''
 - name: 장성민
   blog: https://jangkunblog.com/
@@ -9269,8 +9244,6 @@
   description: JavaScript, DevOps
   github: https://github.com/stunstunstun
 - name: 정민호
-  blog: https://anew0m.github.io/blog
-  rss: https://anew0m.github.io/blog/feed.xml
   description: 데이터, 자동화
   github: https://github.com/anew0m
   linkedin: https://linkedin.com/in/anew0m
@@ -9439,8 +9412,6 @@
   twitter: https://twitter.com/wooiljeong
   linkedin: https://www.linkedin.com/in/wooil/
 - name: 정욱재
-  blog: https://jeongukjae.github.io/
-  rss: https://jeongukjae.github.io/feed
   description: 인공지능
   facebook: https://www.facebook.com/JeongUkJae
   github: https://github.com/JeongUkJae
@@ -9521,18 +9492,15 @@
   github: https://github.com/euisuk-chung
   linkedin: https://www.linkedin.com/in/euisuk-chung-b8109a16a/
 - name: 정의정
-  blog: https://uiui.blog/
-  rss: https://uiui.blog/rss.xml
   description: Algorithm
   github: https://github.com/Uijeong97
   facebook: https://www.facebook.com/uiui.jeong
 - name: 정이원
-  blog: https://pywc.dev/
-  rss: https://pywc.dev/rss/
   description: Hacking
   facebook: https://www.facebook.com/p4ulpwns
   instagram: https://www.instagram.com/p4ulpwns/
   github: https://github.com/pywc
+  home: https://pywc.dev/
 - name: 정인용
   blog: https://helloinyong.tistory.com/
   rss: https://helloinyong.tistory.com/rss
@@ -9660,8 +9628,6 @@
   rss: https://v2.velog.io/rss/jinuku
   description: Unity
 - name: 정찬명
-  blog: http://naradesign.net/
-  rss: http://naradesign.net/wp/feed/
   description: Front-end
   twitter: https://twitter.com/naradesign/
   facebook: https://www.facebook.com/naradesign
@@ -10692,7 +10658,7 @@
   home: https://0xabcdef.com/
 - name: 최준건
   blog: https://junegunn.kr/
-  rss: https://junegunn.kr/atom.xml
+  rss: https://junegunn.kr/feed/
   description: fzf
   github: https://github.com/junegunn
   tumblr: https://junegunn.tumblr.com/
@@ -11067,8 +11033,6 @@
   linkedin: https://www.linkedin.com/in/youngbin-han-99b91b110/
   home: https://youngbin.xyz/
 - name: 한영수
-  blog: https://awesomezero.com/
-  rss: https://awesomezero.com/rss.xml
   description: Frontend, React
   facebook: https://www.facebook.com/youngsoo77
   github: https://github.com/heyman333
@@ -11281,8 +11245,8 @@
   linkedin: https://www.linkedin.com/in/jsheo-heo/
   slideshare: https://www.slideshare.net/JasonJungsuHEO
 - name: 허정원
-  blog: https://jwher.github.io/
-  rss: https://jwher.github.io/feed
+  blog: https://jwher.github.io/posts
+  rss: https://jwher.github.io/posts/rss.xml
   description: K8S
 - name: 허정진
   blog: https://serpiko.tistory.com/
@@ -11534,9 +11498,6 @@
   description: Spring
   facebook: https://www.facebook.com/tjdus3361
 - name: 황장호
-  blog: http://xrath.com/
-  rss: http://xrath.com/feed/
-  description: ''
   github: https://github.com/rath
   facebook: https://www.facebook.com/xrath
   twitter: https://twitter.com/xrath
@@ -11560,8 +11521,6 @@
   facebook: https://www.facebook.com/nuxlearHwang
   slideshare: https://www.slideshare.net/ssuser20f0bc
 - name: 황준일
-  blog: http://junil-hwang.com/
-  rss: http://junil-hwang.com/blog/feed/
   description: Front-end, Back-end
   facebook: https://www.facebook.com/profile.php?id=100013271537671
 - name: 황지영
