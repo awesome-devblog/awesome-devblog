@@ -7383,10 +7383,10 @@
   rss: https://medium.com/feed/@lswoo
   description: Cloud
 - name: 이성일
-  blog: https://velog.io/@modolee
-  rss: https://v2.velog.io/rss/modolee
+  blog: https://modolee-blog.tistory.com
+  rss: https://modolee-blog.tistory.com/rss
   github: https://github.com/modolee
-  linkedin: https://www.linkedin.com/in/modolee/
+  linkedin: https://www.linkedin.com/in/modolee
   description: JavaScript, Web Backend, DevOps
 - name: 이성준
   blog: https://blog.naver.com/occidere
