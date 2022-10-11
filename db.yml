@@ -9047,10 +9047,12 @@
   github: https://github.com/FuZer
   facebook: https://www.facebook.com/shtowever
 - name: 전시흠
-  blog: https://dailyheumsi.tistory.com/
-  rss: https://dailyheumsi.tistory.com/rss
-  description: Data Science
+  blog: https://heumsi.github.io/blog
+  rss: https://heumsi.github.io/blog/rss
+  description: 하나씩 점을 찍어 나가며
   facebook: https://www.facebook.com/heumsi
+  linkedin: https://www.linkedin.com/in/siheum-jeon-04222a1b3/
+  github: https://github.com/heumsi
 - name: 전우민
   blog: https://woomin.netlify.app/
   rss: https://woomin.netlify.app/rss.xml
