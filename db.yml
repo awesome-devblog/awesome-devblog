@@ -2747,10 +2747,6 @@
   blog: https://medium.com/@maxtortime_88708
   rss: https://medium.com/feed/@maxtortime_88708
   description: Python
-- name: 김태헌
-  blog: https://brunch.co.kr/@myte
-  rss: https://brunch.co.kr/rss/@@ydx
-  description: 해외 취업
 - name: 김태훈
   blog: https://carpedm20.github.io/
   rss: https://carpedm20.github.io/feeds/rss.xml
@@ -2761,7 +2757,6 @@
   twitter: https://twitter.com/carpedm20
 - name: 김태희
   blog: https://blog.roto.codes/
-  rss: https://blog.roto.codes/rss/
   github: https://github.com/rotoshine
   facebook: https://www.facebook.com/rotoshine
   twitter: https://twitter.com/winterwolf0412
@@ -3208,8 +3203,6 @@
   linkedin: https://www.linkedin.com/in/chanwoo-noh-799b79141/
   stackoverflow: https://stackoverflow.com/users/5286905/rajephon
 - name: 노찬현
-  blog: https://amati.io/
-  rss: https://amati.io/feed/
   description: Front-end
   twitter: https://twitter.com/preserde
   facebook: https://www.facebook.com/porchestra
@@ -3827,8 +3820,6 @@
   github: https://github.com/soromi
   instagram: https://www.instagram.com/soromi_/
 - name: 박소현
-  blog: https://cooding-penguin.netlify.app/
-  rss: https://cooding-penguin.netlify.app/rss.xml
   description: 파이썬, 웹, 컴퓨터비전
   github: https://github.com/coodingpenguin
   instagram: https://www.instagram.com/cooding_penguin/
@@ -4008,10 +3999,6 @@
   blog: https://jhrogue.blogspot.kr/
   rss: https://feeds.feedburner.com/blogspot/ASpE
   description: 빅데이터, 인공지능
-- name: 박정규
-  blog: https://bagjunggyu.blogspot.kr/
-  rss: https://bagjunggyu.blogspot.com/feeds/posts/default?alt=rss
-  description: 리눅스
 - name: 박정우
   blog: https://www.sunhodev.com/
   github: https://github.com/woolarinet
