@@ -803,6 +803,11 @@
   blog: https://velog.io/@vpdls1511
   rss: https://v2.velog.io/rss/vpdls1511
   github: https://github.com/vpdls1511
+- name: 김남우
+  blog: https://tre2man.tistory.com
+  rss: https://tre2man.tistory.com/rss
+  github: https://github.com/tre2man
+  description: Back-end, DevOps
 - name: 김남윤
   blog: https://cheese10yun.github.io/
   rss: https://cheese10yun.github.io/feed.xml
