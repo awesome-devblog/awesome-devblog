@@ -5048,8 +5048,9 @@
   nickname: broccolism
   blog: https://velog.io/@broccolism
   rss: https://v2.velog.io/rss/broccolism
-  description: 개발방법론, Android
-  slideshare: https://www.slideshare.net/arload
+  description: 서버, 아키텍처, Flutter
+  github: https://github.com/broccolism
+  linkedin: https://www.linkedin.com/in/broccolism/
 - name: 손영철
   blog: https://devs0n.tistory.com/
   rss: https://devs0n.tistory.com/rss
