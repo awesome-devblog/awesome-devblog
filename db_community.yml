@@ -945,10 +945,14 @@
   home: http://kakaobrain.com/
   blog: http://kakaobrain.com/blog
   rocketpunch: https://www.rocketpunch.com/companies/kakao
-- name: 카카오 스타일
-  blog: https://devblog.croquis.com/ko/
+- name: 카카오스타일
+  description: 카카오스타일 기술 블로그
+  home: https://kakaostyle.com/
+  blog: https://devblog.kakaostyle.com/ko/
   github: https://github.com/croquiscom
   rocketpunch: https://www.rocketpunch.com/companies/kakao
+  facebook: https://www.facebook.com/kakaostylecareer
+  rss: https://devblog.kakaostyle.com/ko/index.xml
 - name: 카카오 엔터프라이즈
   blog: https://tech.kakaoenterprise.com/
   rss: https://tech.kakaoenterprise.com/rss
