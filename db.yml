@@ -2355,7 +2355,7 @@
   linkedin: https://www.linkedin.com/in/junhee-kim-252376167
 - name: 김준태
   blog: https://devlog.juntae.kim
-  rss: https://api-devlog.juntae.kim/rss
+  rss: https://devlog.juntae.kim/rss/feed.xml
   facebook: https://www.facebook.com/juntae.kim.336/
   github: https://github.com/rlawnsxo131
   description: javascript, typescript, graphql, react, web, serverside, clientside
