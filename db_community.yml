@@ -58,10 +58,6 @@
 - name: 게임 서버 개발자 모임
   naver: http://cafe.naver.com/ongameserver
   youtube: https://www.youtube.com/channel/UCYnvySStWs6IDeYr8IeyayA
-- name: 게임빌컴투스
-  blog: https://tech.gamevilcom2us.com/
-  rss: https://tech.gamevilcom2us.com/feed
-  rocketpunch: https://www.rocketpunch.com/companies/geimbilkeomtuseu
 - name: 고구마S
   naver: https://cafe.naver.com/gogoomas
 - name: 그래프 데이터베이스 in Korea
@@ -78,7 +74,6 @@
   blog: https://gifting.oopy.io/
 - name: 굿닥
   blog: https://blog.goodoc.kr/
-  rss: https://blog.goodoc.kr/rss.xml
   rocketpunch: https://www.rocketpunch.com/companies/goodoc
 - name: 꿈많은 청년들
   facebook: https://www.facebook.com/DreamYoungs/
@@ -191,7 +186,6 @@
 - name: 데보션 (DEVOCEAN)
   facebook: https://www.facebook.com/groups/devocean/
   blog: https://devocean.sk.com
-  rss: https://node2.feed43.com/3645756723853454.xml
 - name: 데이터 분석 커뮤니티
   facebook: https://www.facebook.com/groups/datacommunity/
 - name: 데이터그램
@@ -684,9 +678,6 @@
   blog: https://gblogs.cisco.com/kr/
   rss: https://gblogs.cisco.com/kr/feed/
   rocketpunch: https://www.rocketpunch.com/companies/cisco-systems
-- name: 시큐놀로지랩
-  blog: https://blog.secunologylab.com/
-  rss: https://blog.secunologylab.com/feed
 - name: 시피의 코딩
   youtube: https://www.youtube.com/channel/UCK7lI9EjccHY-b8hHf95Rdw
 - name: 쏘카
@@ -702,8 +693,6 @@
 - name: 아두이노로 학급 코딩하기(Ahakco)
   facebook: https://www.facebook.com/groups/2031442780417576/
 - name: 아이펀팩토리
-  blog: https://blog.ifunfactory.com/
-  rss: https://blog.ifunfactory.com/feed/
   facebook: https://ko-kr.facebook.com/ifunfactory/
   youtube: https://www.youtube.com/channel/UCZwya7NM8zija1I0MgLAIcA
   slideshare: https://www.slideshare.net/ifunfactory
@@ -803,7 +792,7 @@
 - name: 우분투 한국 커뮤니티
   home: https://www.ubuntu-kr.org/
   blog: http://blog.ubuntu-kr.org/
-  rss: http://blog.ubuntu-kr.org/feed.xml
+  rss: https://blog.ubuntu-kr.org/index.xml
   facebook: https://www.facebook.com/groups/ubuntu.ko/
   googleplus: https://plus.google.com/communities/112409570772055358734
   youtube: https://www.youtube.com/channel/UCid525Nc3OXk6SjLZ28cX5Q
@@ -862,7 +851,7 @@
   youtube: https://www.youtube.com/channel/UCBr01MgWLoZyQGvLk7wzOBw
 - name: 이스트소프트
   blog: https://blog.est.ai/
-  rss: https://blog.est.ai/feed/
+  rss: https://blog.est.ai/feed.xml
   rocketpunch: https://www.rocketpunch.com/companies/estsoft
 - name: 이스트 시큐리티
   blog: https://blog.alyac.co.kr/
@@ -1082,8 +1071,9 @@
   facebook: https://www.facebook.com/acupofcode/
 - name: 코딩인카페
   facebook: https://www.facebook.com/codingincafe/
-- name: 한국 메이커 모임
-  facebook: https://www.facebook.com/groups/koreamakers/
+- name: 컴투스
+  blog: https://on.com2us.com/today/tech/
+  rocketpunch: https://www.rocketpunch.com/companies/geimbilkeomtuseu
 - name: 티몬의 개발이야기
   facebook: https://www.facebook.com/tmondev/
   blog: https://blog.naver.com/tmondev
@@ -1152,8 +1142,6 @@
   rss: https://medium.com/feed/@pfdev
   rocketpunch: https://www.rocketpunch.com/companies/pespeurenjeu
 - name: 푸시뉴스
-  blog: https://pushnewsdev.github.io/
-  rss: https://pushnewsdev.github.io/feed
   github: https://github.com/pushnewsdev
   rocketpunch: https://www.rocketpunch.com/companies/pushnews
 - name: 프리렉
@@ -1187,6 +1175,8 @@
   rss: https://hyperconnect.github.io/feed.xml
   github: https://github.com/hyperconnect
   rocketpunch: https://www.rocketpunch.com/companies/haipeokeonegteu-2
+- name: 한국 메이커 모임
+  facebook: https://www.facebook.com/groups/koreamakers/
 - name: 한빛미디어
   home: http://www.hanbit.co.kr/
   facebook: https://www.facebook.com/hanbitmedia/
@@ -1680,8 +1670,8 @@
 - name: Nginx Korea
   facebook: https://www.facebook.com/groups/nginx/
 - name: NGINX PLUS
-  blog: https://www.nginxplus.co.kr/blog/
-  rss: https://www.nginxplus.co.kr/?feed=rss2&cat=51
+  blog: https://nginxstore.com/blog/
+  rss: https://nginxstore.com/feed/
   home: https://www.nginxplus.co.kr/
 - name: NHN Cloud
   blog: https://meetup.toast.com
@@ -1763,9 +1753,6 @@
   slack: https://react-korea.slack.com/
 - name: ReactiveX Lab
   facebook: https://www.facebook.com/groups/reactivexLab/
-- name: Realm Blog
-  blog: https://realm.io/kr/blog/
-  rss: https://realm.io/kr/blog/feed.xml
 - name: Redis Korean User Group
   facebook: https://www.facebook.com/groups/rediskorea/
 - name: Remotty
@@ -1875,15 +1862,8 @@
 - name: SoEn
   home: http://soen.kr/
 - name: SPH
-  blog: http://www.sphinfo.com/blog/
-  rss: http://www.sphinfo.com/feed/
+  blog: https://www.sphinfo.com/blog/
   rocketpunch: https://www.rocketpunch.com/companies/sph
-- name: stdout.fm
-  blog: https://stdout.fm/
-  rss: https://stdout.fm/feed
-  facebook: https://www.facebook.com/stdout.fm/
-  youtube: https://www.youtube.com/channel/UCni26Y9C0Z7H36hPPHuqpSg
-  twitter: https://twitter.com/stdoutfm
 - name: TV플루토
   youtube: https://www.youtube.com/channel/UC8JVpZGSvoIwO6usKUYItHA
 - name: TEAMLAB
