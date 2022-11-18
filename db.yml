@@ -700,6 +700,11 @@
   description: Python, Java
   github: https://github.com/Kyeongrok
   youtube: https://www.youtube.com/channel/UCG6V3hF7lN5veSLXWkcMG3g
+- name: 김경철
+  blog: https://www.devkuma.com/
+  rss: https://www.devkuma.com/index.xml
+  github: https://github.com/devkuma
+  description: 개발에 필요한 모든 지식 공유
 - name: 김경환
   blog: https://blog.dalgu.app/
   description: Front-end
