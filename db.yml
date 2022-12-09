@@ -5703,8 +5703,8 @@
   github: https://github.com/eungyeole
   home: https://eungyeole.super.site/
 - name: 안이수
-  blog: https://memnoth.tistory.com/
-  rss: https://memnoth.tistory.com/rss
+  blog: https://www.ooseel.net/me/
+  rss: https://www.ooseel.net/me/index.xml
   description: webOS, GNOME
   github: https://github.com/memnoth
   gitlab: https://gitlab.gnome.org/memnoth
@@ -9554,6 +9554,10 @@
   description: Deep Learning
   slideshare: https://www.slideshare.net/JAEMINJEONG5
   github: https://github.com/jjeamin
+- name: 정재혁
+  blog: https://velog.io/@yomapi
+  rss: https://v2.velog.io/rss/yomapi
+  facebook: https://www.facebook.com/jaehyeock.jeong
 - name: 정재화
   linkedin: https://www.linkedin.com/in/blrunner/
   slideshare: https://www.slideshare.net/blrunner
