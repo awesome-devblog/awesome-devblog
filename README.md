@@ -62,3 +62,7 @@
 - [딥러닝으로 문서 분류기 만들기](https://nero.devstory.co.kr/post/pj-devblog-classifier/)
 - [devlogmoa](http://devlogmoa.shop/), [Github](https://github.com/monkeyDugi/dev_log_moa)
 - [mysetting](https://mysetting.io/posts/trending/all)
+
+## Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=awesome-devblog/awesome-devblog&type=Date)](https://star-history.com/#awesome-devblog/awesome-devblog&Date)
