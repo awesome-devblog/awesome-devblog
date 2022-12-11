@@ -3953,6 +3953,126 @@
   "conference": "DEVIEW",
   "year": 2020
 },{
+  "title": "AiSuite : Kubeflow를 통해 더 나은 AI 모델 서빙과 MLOps 실현하기",
+  "author": "한완규, 박정욱",
+  "slide": "https://deview.kr/data/deview/session/attach/1_AiSuite Kubeflow를 통해 더 나은 AI 모델 서빙과 MLOps 실현하기.pdf",
+  "video": "https://tv.naver.com/v/23650093",
+  "description": "본 세션에서는 네이버 사내에서 사용되는 Kubeflow 기반의 AI 플랫폼을 구축한 경험과 함께 모델 서빙 과정을 개선하고, MLOps를 실현한 경험을 공유드립니다. 이미 사내 개발자들이 활발히 사용중인 기존 Hadoop 기반의 AI 플랫폼에서 Kubeflow 기반의 새로운 AI 플랫폼으로 옮겨오게 된 이유를 설명드리고, 그로부터 네이버의 수많은 ML 서비스들을 관리하는 방식이 어떻게 변화하게 되었는지 설명드립니다. 먼저, ML 모델 서빙에 기존 플랫폼 대신 KFServing를 사용하게 되면서 얻게 된 이점과 경험을 실제 운영 경험 기반의 관점에서 공유드립니다. 그 이후, MLOps 관점에서 Kubeflow 에서 제공하는 다양한 컴퍼넌트들을 어떻게 유용하게 사용할 수 있는지를 설명드립니다. 또한, Pipelines을 사용해서 데이터 처리, 학습, 서빙을 자동화했던 사례들을 공유드립니다. 그 과정에서 사내의 데이터 저장, 연산, 분석 플랫폼들과 어떻게 연계할 수 있었는지 공유드립니다. 마지막으로 Kubeflow 기반의 AI 플랫폼을 네이버의 환경에 맞게 구축하며 겪었던 경험을 공유드립니다. 이 과정에서 기존 Hadoop 기반의 플랫폼에서 저장소로 사용하던 HDFS를 Kubeflow 기반의 플랫폼에서 볼륨으로 사용하기 위한 Alluxio 도입 경험도 이야기하고자 합니다.",
+  "conference": "DEVIEW",
+  "year": 2021
+},{
+  "title": "CLOps: 넌 모델링만해, 난 서빙할테니",
+  "author": "이현동, 칼 길리우스, 한지승",
+  "slide": "https://deview.kr/data/deview/session/attach/2_CLOps 넌 모델링만해, 난 서빙할테니.pdf",
+  "video": "https://tv.naver.com/v/23651794",
+  "description": "본 세션에서는 최근 사내 정식 오픈한 딥러닝 모델 서빙 플랫폼 CLOps를 개발하면서 해결하고자 했던 문제부터 어떻게 해결하고, 어떤 경험을 얻었는지에 대한 기술과 경험을 공유하려 합니다.",
+  "conference": "DEVIEW",
+  "year": 2021
+},{
+  "title": "Clova Face Kit: 10분 안에 누구나 적용하는 얼굴인식",
+  "author": "유준희, 강정현, 정상엽, 김범수, 이규원",
+  "slide": "https://deview.kr/data/deview/session/attach/3_clovafacekit 10분 안에 누구나 적용하는 얼굴인식.pdf",
+  "video": "https://tv.naver.com/v/23651804",
+  "description": "On-Device ML의 영역은 이제 iOS/Android를 넘어 다양한 영역으로 넓혀가고 있습니다. 본 강연에서는 Clova Face Kit의 구조 및 성능을 개선하기 위해 어떤 방법을 취했는지와 사용법을 간단히 소개합니다. 현재도 다양한 서비스에 사용되고 있는 Clova Face Kit을 보다 많은 분께서 사용하시기를 바라며 본 Hands-On을 준비하였습니다.",
+  "conference": "DEVIEW",
+  "year": 2021
+},{
+  "title": "Efficient imitation learning for robotic manipulation",
+  "author": "Christopher Dance, Theo Cachet, Julien Perez",
+  "slide": "https://deview.kr/data/deview/session/attach/4_Efficient imitation learning for robotic manipulation.pdf",
+  "video": "https://tv.naver.com/v/23650894",
+  "description": "We discuss how robots can learn to perform new tasks given only a few demonstrations of those tasks. In the past, people have addressed such \"few-shot imitation problems\", by training agents to copy the demonstrators' behaviours or by inferring reward functions from demonstrations. We present a new approach to few-shot imitation, called \"demonstration-conditioned reinforcement learning (DCRL)\" which has multiple advantages over past approaches: it can naturally address situations where the demonstrator and the agent are physically different (e.g. human demonstrator and robot agent); it can improve upon suboptimal demonstrations; and it can gracefully recover from unexpected situations (e.g. when an object slips out of the robot's grasp) even though such situations are never encountered in the demonstrations.",
+  "conference": "DEVIEW",
+  "year": 2021
+},{
+  "title": "Efficient Multilingual Neural Machine Translation",
+  "author": "LAURENT BESACIER, VASSILINA NIKOULINA, Alexandre Berard",
+  "slide": "https://deview.kr/data/deview/session/attach/5_Efficient Multilingual Neural Machine Translation.pdf",
+  "video": "https://tv.naver.com/v/23650961",
+  "description": "Multilingual Neural Machine Translation (MNMT) models are the next frontier for large-scale translation providers. They contain the promise of being easier to maintain and to increase performance of low-resource languages through knowledge transfer. However, this often comes at the cost of much larger amount of parameters, and therefore lower inference speed. In this talk we will present research at NLE done on how to efficiently exploit the knowledge transfer offered by multilingual models.",
+  "conference": "DEVIEW",
+  "year": 2021
+},{
+  "title": "Look-alike Modeling and Serving: 비슷한 사람을 찾아주세요",
+  "author": "정찬주, 이소현",
+  "slide": "https://deview.kr/data/deview/session/attach/6_Look-alike Modeling and Serving 비슷한 사람을 찾아주세요.pdf",
+  "video": "https://tv.naver.com/v/23649376",
+  "description": "광고주가 어떤 사람들에게 광고를 보여줬더니 다른 때보다 물건이 잘 팔렸습니다. 계속 높은 성과를 유지하기 위해 이 사람들과 비슷한 사용자들을 찾고 싶다면 어떻게 하면 좋을까요? 본 세션에서는 네이버 광고 타게팅 서비스 모델 중 하나인 look-alike 모델의 기법과 실서비스 적용 경험을 공유하고자 합니다. Look-alike 모델은 광고 서비스 사용자(광고주)가 일부 오디언스 풀을 제공하면, 해당 오디언스 풀에 가장 가까운 유저들을 원하는 수만큼 찾아주는 모델입니다. 사용자 입력에 대한 빠른 응답을 위하여 전체 문제는 offline과 online 두 파트로 분리하였습니다. Offline에서는 딥러닝을 이용하여 유저의 행동을 적절히 임베딩하고, online에서는 이 임베딩 벡터를 기반으로 빠르게 가장 가까운 유저를 찾아 내보내는 작업을 수행합니다. 개발 기간 중 시뮬레이션을 통해 적절하게 제공되는 오디언스 풀 하에서 광고의 CTCVR과 CVR, CTR 등 중요 광고 지표들을 크게 개선할 것으로 기대할 수 있었습니다.",
+  "conference": "DEVIEW",
+  "year": 2021
+},{
+  "title": "UNICON: LABEL 없이 고객문의 유형을 분석 및 설계해보자",
+  "author": "최성재, 고동현, 박정수",
+  "slide": "https://deview.kr/data/deview/session/attach/7_UNICON LABEL 없이 고객문의 유형을 분석 및 설계해보자.pdf",
+  "video": "https://tv.naver.com/v/23651058",
+  "description": "이 세션에서는 고객응대 AI 서비스를 개발하기 위한 과정 중, 수 없이 많은 로그데이터로부터 고빈도의 고객 문의 유형을 분석하고 설계할 때 발생할 수 있는 많은 시간과 비용을 줄이는 방법론을 소개하는 세션입니다. 특히 네이버 스마트 스토어와 같이 한 사람이 판매 업무와 동시에 고객응대 또한 해야 하는 부담을 덜어드리고자 하였습니다. UNICON 은 unsupervised clustering의 방법론 중 하나로, contrastive learning을 기반으로 하는 모델로써 intent discovery task에서 기존 state-of-the-art model 성능 대비 17% 라는 획기적인 성능 향상을 이루어냈습니다. 본 세션에서는 UNICON의 아키텍쳐 및 학습 방식에 대한 설명과 더불어, 실제로 사내에서 적용 예정인 서비스에 대하여 UNICON이 어떻게 적용될 수 있으며, 어떤 효과를 기대할 수 있는지에 대한 설명과 함께 사용 경험에 대해 공유드리도록 하겠습니다.",
+  "conference": "DEVIEW",
+  "year": 2021
+},{
+  "title": "Vision and Language Representation Learning and Beyond",
+  "author": "Jiasen Lu",
+  "slide": "",
+  "video": "https://tv.naver.com/v/23650980",
+  "description": "Motivation to study vision and language reprsentations with different task in a shared model.",
+  "conference": "DEVIEW",
+  "year": 2021
+},{
+  "title": "강화학습, 산업의 난제에 도전하다!: ASIC 반도체 설계(Floorplan) 자동화",
+  "author": "박진우",
+  "slide": "https://deview.kr/data/deview/session/attach/9_강화학습, 산업의 난제에 도전하다! ASIC 반도체 설계(Floorplan) 자동화.pdf",
+  "video": "https://tv.naver.com/v/23650123",
+  "description": "",
+  "conference": "DEVIEW",
+  "year": 2021
+},{
+  "title": "더 감쪽같은 이미지 번역을 위해 (파파고 이미지/AR 번역 개발기)",
+  "author": "노영빈, 김승재",
+  "slide": "https://deview.kr/data/deview/session/attach/10_더 감쪽같은 이미지 번역을 위해 (파파고 이미지AR 번역 개발기).pdf",
+  "video": "https://tv.naver.com/v/23649339",
+  "description": "이 세션에서는 파파고 이미지 번역 기술, 그 중에서도 이미지 내 텍스트를 해당 이미지 위에서 바로 번역해주는 '이미지 바로번역' 기능의 고도화 방법론에 대해 소개합니다. Visual feature만을 활용하여 수행하던 텍스트 블록 감지에 BERT 기반의 방법론을 도입한 경험, 그리고 GAN을 활용하여 원본 텍스트를 더욱 섬세하게 제거한 경험을 공유합니다. 추가로, 이미지를 넘어 실시간으로 영상을 번역할 수 있는 AR 이미지 번역에 대해서도 소개합니다. 효율적인 영상 처리를 위한 엔진 설계와 해당 프로세스의 핵심이 되는 object tracking 기술을 활용한 경험 및 노하우를 공유합니다.",
+  "conference": "DEVIEW",
+  "year": 2021
+},{
+  "title": "데이터, 정말 묻고 더블로 가? : 기계번역 성능 개선 예측 모델",
+  "author": "박천복",
+  "slide": "https://deview.kr/data/deview/session/attach/11_데이터 정말 묻고 더블로 가 기계번역 성능 개선 예측 모델.pdf",
+  "video": "https://tv.naver.com/v/23650657",
+  "description": "본 세션에서는 우리가 특정 도메인을 위한 전용 딥러닝 번역기를 만들고자 할때, \"데이터를 얼마나 넣어야, 나의 전용 모델이 내가 원하는 성능이 나오는지?\" 또는 \"이 데이터를 넣으면 얼마나 성능이 좋아질지?\"를 예측하는 \"perfomance estimation task\"를 풀도록 합니다. 위의 문제를 풀기 위해, 제안한 방법은 주어진 데이터를 활용해 일일이 기계번역 모델을 finetuning할 필요 없이 몇개의 feature들만으로 finetuning한 후의 성능을 예측하도록 합니다. 이러한 방법론은 일일이 학습해야 하는 computation cost를 줄일 수도 있고, 실제 사용자들에게 얼마나 데이터를 넣어야 자신이 원하는 성능에 도달 할 수 있는지를 알 수 있습니다. 또한, 구체적으로 위의 문제를 효과적으로 풀기 위하여 어떠한 feature들을 활용하여 모델의 성능을 높이는 게 좋을지, 어떠한 구조를 만드는게 좋을지에 대해서 다양한 실험을 공유합니다. 그리고 본 세션에서는 가장 좋은 예측 성능을 보여주는 네트워크와 feature 조합을 제안합니다.. 그리고 앞서 정의한 문제상황에서 실제 예측 성능과 다양한 시나리오(e.g., 데이터의 갯수에 따른 성능 예측 등)에 따른 성능을 보여주도록 합니다. 이를 통해, 과거의 방법론들 대비해서 제안한 예측 모델의 정확도가 더욱 높고, 적은 training data 만으로 만들 수 있어 실제 시나리오에서 적용가능함을 보여줍니다.",
+  "conference": "DEVIEW",
+  "year": 2021
+},{
+  "title": "마스크 쓰고도 나를 찾는 얼굴 인식! FaceSign 네이버 신사옥 입성기",
+  "author": "서지연, 김범수, 유준희, 이명연",
+  "slide": "",
+  "video": "https://tv.naver.com/v/23651029",
+  "description": "이 세션에서는 DEVIEW 2019에서 소개되었던 얼굴 인식 서비스 FaceSign이 코로나 시대에 들어서며 어떻게 성장해 왔는지 소개하고, 한정된 조건 안에서 최고의 유저 경험을 위해 고군분투한 고민과 노력들을 공유하고자 합니다.",
+  "conference": "DEVIEW",
+  "year": 2021
+},{
+  "title": "메타버스 시대에 나만의 부캐 만들기",
+  "author": "김선태",
+  "slide": "https://deview.kr/data/deview/session/attach/13_메타버스 시대에 나만의 부캐 만들기.pdf",
+  "video": "https://tv.naver.com/v/23649475",
+  "description": "이 세션에서는 메타버스에서 아바타(디지털 휴먼, 부캐 등)를 만들기 위한 다양한 방법들에 대해서 알아보고, CLOVA Avatar팀에서 진행하고 있는 딥러닝 기반의 아바타 생성 기법에 대해서 소개합니다. 특히 본 세션에서는 Image 기반과 Text 기반으로 사용자와 인터랙션이 가능한 아바타 생성 방법과 인퍼런스된 결과를 3D 캐릭터에 적용하는 방법에 대해서 다루고자 하며, 해당 프로젝트를 진행하면서 겪었던 시행착오와 노하우 그리고 테스트 결과를 공유합니다.",
+  "conference": "DEVIEW",
+  "year": 2021
+},{
+  "title": "보이지 않는 데이터로 머신러닝을 할때: 개발자를 위한 안내서",
+  "author": "정승우",
+  "slide": "",
+  "video": "https://tv.naver.com/v/23650238",
+  "description": "",
+  "conference": "DEVIEW",
+  "year": 2021
+},{
+  "title": "어떻게 더 많은 모델을 더 빠르게 배포할 것인가?",
+  "author": "이승우",
+  "slide": "",
+  "video": "https://tv.naver.com/v/23650633",
+  "description": "하이퍼커넥트에서는 다양한 서비스들이 개발되고 있고 이에 사용할 딥러닝 모델들이 연구되고 있습니다. 하지만 연구가 빠르게 끝나도 이 모델들을 실제로 배포하는 데에는 많은 어려움이 따릅니다. 모델을 빠르게 개발하려면 연구가 끝난 모델을 실제로 출시해서 적용해보고 결과를 얻어야 하는데 배포에 들어가는 시간이 길어질수록 모델 개발 사이클이 느려지는 문제가 있습니다. 본 세션에서는 모델을 관리하고 빠르게 배포하기 위해 개발한 시스템 전반에 대해 소개하고자 합니다. GitOps을 통해 모델을 관리하고 자체 제작한 Kubernetes 컨트롤러를 통해 명령어 한 줄이면 모델을 서버에 배포할 수 있게 했습니다. 세션 내용은 모델 배포 사이클에 어떤 어려움이 있는지, 또 시스템 구성요소들이 이러한 어려움을 어떻게 해결하는지를 소개합니다.",
+  "conference": "DEVIEW",
+  "year": 2021
+},{
   "title": "오픈스택으로 바라보는 AWS와 구글 클라우드 플랫폼",
   "author": "이태영",
   "video": "https://www.youtube.com/watch?v=hKVIxP-hKbc",
