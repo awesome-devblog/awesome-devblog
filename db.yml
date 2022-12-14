@@ -7842,7 +7842,7 @@
   github: https://github.com/malkoG
 - name: 이재영
   blog: https://www.utfda.com/
-  rss: https://www.utfda.com/feed
+  rss: https://www.utfda.com/rss.xml
   github: https://github.com/dlworhd
 - name: 이재용
   blog: https://jaeyo.github.io/
