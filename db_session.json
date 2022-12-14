@@ -4073,6 +4073,166 @@
   "conference": "DEVIEW",
   "year": 2021
 },{
+  "title": "언어 모델 학습과 사용 쉽게 하세요! : 효율적이고 확장성 있는 사내 라이브러리 개발기",
+  "author": "김정환, 안휘진",
+  "slide": "https://deview.kr/data/deview/session/attach/16_언어 모델 학습과 사용 쉽게 하세요! 효율적이고 확장성 있는 사내 라이브러리 개발기.pdf",
+  "video": "https://tv.naver.com/v/23650773",
+  "description": "본 세션에서는 언어 모델을 학습, 배포하기 위한 사내 라이브러리(PPL, LaRva)를 개발하면서 경험한 내용을 공유합니다. 다양한 환경에서 다양한 태스크에 언어모델을 적용할 수 있도록 확장성 있는 구조를 위해 고민한 내용을 소개합니다. 또한 개발 과정 시 겪었던 어려움과 언어 모델 학습 및 활용과 관련한 다양한 방법론을 공유합니다.",
+  "conference": "DEVIEW",
+  "year": 2021
+},{
+  "title": "이곳에 방문하셨군요!: 사진 속 영수증의 가게 찾기.",
+  "author": "김기욱, 박승현, 안종필",
+  "slide": "https://deview.kr/data/deview/session/attach/17_이곳에 방문하셨군요! 사진 속 영수증의 가게 찾기.pdf",
+  "video": "https://tv.naver.com/v/23650797",
+  "description": "본 세션에서는 사진 속 영수증이 어떤 가게의 영수증에 해당하는지를 찾는 문제에 대해 이야기합니다. 사진 속 영수증의 가게를 특정하기 위해서는 먼저 OCR과 Parsing 기술을 활용하여 사진 속 텍스트 정보를 추출해야 하고, 이 정보를 바탕으로 사전에 보유한 DB의 어떠한 엔트리에 해당하는지를 찾아야 합니다. 다만 각 단계에서 부가되는 노이즈의 영향으로 야기되는 많은 어려움들이 있는데요. 이를 상세히 짚어가면서 어떤 어려움이 있고, 그것들을 기계 학습 기반의 Grounding 기술을 통해 어떻게 극복하였는지를 공유합니다.",
+  "conference": "DEVIEW",
+  "year": 2021
+},{
+  "title": "인공지능으로 아기 얼굴 미리보기: 노이즈가 심한 환경에서 이미지 변환 적용하기 (Babyface1.0)",
+  "author": "최광민",
+  "slide": "https://deview.kr/data/deview/session/attach/18_인공지능으로 아기 얼굴 미리보기 노이즈가 심한 환경에서 이미지 변환 적용하기 (Babyface1.0).pdf",
+  "video": "https://tv.naver.com/v/23650198",
+  "description": "본 세션에서는 입체 초음파와 인공지능을 이용하여 생후 아기 얼굴을 예측해주는 서비스인 Babyface 서비스를 개발하면서 겪었던 문제와, 이미지 변환 기술을 그 문제를 해결했던 경험을 공유합니다.",
+  "conference": "DEVIEW",
+  "year": 2021
+},{
+  "title": "인과효과 추정 모형으로 온사이트 마케팅 캠페인 효과 분석하기",
+  "author": "이민호",
+  "slide": "https://deview.kr/data/deview/session/attach/19_인과효과 추정 모형으로 온사이트 마케팅 캠페인 효과 분석하기.pdf",
+  "video": "https://tv.naver.com/v/23650648",
+  "description": "이커머스 환경에서는 고객을 구매로 유도하기 위해 다양한 온사이트 마케팅 액션을 시도합니다. 그런데 이 과정에서 A/B 테스트를 통해 명확하게 성과를 평가할 수 없는 경우가 종종 발생합니다. 마케팅 액션이나 다른 이벤트로 인해 발생한 인과 효과를 실험 없이도 알아낼 수 있을까요? 데이터라이즈에서 인과 효과 추정 모형을 다양한 비즈니스 문제에 적용해본 사례를 공유합니다.",
+  "conference": "DEVIEW",
+  "year": 2021
+},{
+  "title": "진짜 같은 가짜를 생성하는 기술과 그 가짜를 탐지하는 기술, Deepfake Creation & Detection",
+  "author": "정용현, 김도연",
+  "slide": "https://deview.kr/data/deview/session/attach/20_진짜 같은 가짜를 생성하는 기술과 그 가짜를 탐지하는 기술, Deepfake Creation & Detection.pdf",
+  "video": "https://tv.naver.com/v/23650103",
+  "description": "이 발표에는 딥페이크를 생성하는데 사용하는 Generative model의 기술에 대해 소개하고, 딥페이크를 활용한 응용 연구에 대해 소개합니다. 또한 이런 Generative model이 만들어내는 특징을 통해 딥페이크 이미지 인지를 검출하는 방법들을 소개합니다.",
+  "conference": "DEVIEW",
+  "year": 2021
+},{
+  "title": "클로바 보이스의 주인공을 찾습니다! (누구나 만드는 내 목소리 합성기Ⅲ)",
+  "author": "임선미",
+  "slide": "https://deview.kr/data/deview/session/attach/21_클로바 보이스의 주인공을 찾습니다! (누구나 만드는 내 목소리 합성기Ⅲ).pdf",
+  "video": "https://tv.naver.com/v/23649564",
+  "description": "개인화 합성기 3부작의 마지막 버전. 개인화 합성기의 첫 걸음을 뗀 2018년, 적은 분량으로 전문 성우가 아니어도 합성기를 만들어 출시가 가능했던 2020년, 그리고 이제는 누구나, 집에서, 스마트폰만 있으면 녹음해서 합성기를 만들 수 있는 2021년. 네이버 음성합성팀이 누구나 내 목소리를 만들 수 있는 Voice Maker 서비스를 위해 그간 어떤 기술들은 연구하고 개발했는지는 여러분께 공유하는 시간을 갖고자 합니다.",
+  "conference": "DEVIEW",
+  "year": 2021
+},{
+  "title": "100억 대화 데이터 없이도 가능해요! - HyperCLOVA로 만드는 캐릭터 챗봇",
+  "author": "가순원, 이민영, 강재욱",
+  "slide": "https://deview.kr/data/deview/session/attach/1_100억 대화 데이터 없이도 가능해요! - HyperCLOVA로 만드는 캐릭터 챗봇.pdf",
+  "video": "https://tv.naver.com/v/23650564",
+  "description": "본 세션에서는 대량의 SNS 대화 데이터 없이 초거대 사전학습 모델 HyperCLOVA만으로 캐릭터 챗봇을 구축하는 방법을 소개합니다. HyperCLOVA를 어떤 방식으로 제어해야 대화의 특성 요소 - 성격, 프로필, 말투 등의 캐릭터 페르소나와 유저의 대화 참여주도권 등 - 을 조율하면서도 다양한 주제에 대한 대화씬 커버리지를 높일 수 있는 지 알아봅니다.",
+  "conference": "DEVIEW",
+  "year": 2021
+},{
+  "title": "Bring Your Own Data: Business AI 고민? HyperCLOVA에게 무엇이든 물어보살",
+  "author": "김경민, 곽하녹, 신규용",
+  "slide": "https://deview.kr/data/deview/session/attach/2_Bring Your Own Data Business AI 고민 HyperCLOVA에게 무엇이든 물어보살.pdf",
+  "video": "https://tv.naver.com/v/23650477",
+  "description": "자연어처리와 컴퓨터 비젼 분야 등에서는 크고 아름다운 하나의 모델(Foundation Model)로 많은 문제들을 해결하고 있습니다. 저희는 비즈니스를 위한 Foundation Model (HyperCLOVA)을 만들기 위해 많은 실험들을 진행하였고 하나의 큰 모델로 다양한 비즈니스 문제에 적용할 수 있는 성공적인 방법들을 발굴하였습니다. 비즈니스를 위한 HyperCLOVA는 확장성이 강하며 다운스트림 테스크에 적용하면 기존 모델의 성능을 유의미하게 능가합니다. 추천 시스템, 광고타게팅, 쇼핑기획전 개인화 등 다양한 사내 테스크들에 대한 실험 결과 및 실적용 사례를 설명합니다. 더 나아가 외부 회사에서 각자 데이터를 사용하여 그들의 비즈니스 문제에 적용할 수 있는 방안도 알려드립니다. 마지막으로 비즈니스 문제에 대해서 HyperCLOVA가 갖고 있는 향후 비전에 대해서 설명합니다.",
+  "conference": "DEVIEW",
+  "year": 2021
+},{
+  "title": "HyperCLOVA – Korean GPT3: 하이퍼스케일, 그리고 그 후",
+  "author": "김형석, 이상우",
+  "slide": "https://deview.kr/data/deview/session/attach/3_HyperCLOVA – Korean GPT3 하이퍼스케일, 그리고 그 후.pdf",
+  "video": "https://tv.naver.com/v/23649017",
+  "description": "이 세션은 HyperCLOVA의 초거대 한국어 언어모델을 개발하면서 경험하고 발견한 내용에 대해 다룹니다. 특히 올해 5월에 진행한 NAVER AI NOW 이후, 하이퍼 스케일 언어모델에 대한 연구에서 어떤 발전이 있었는지를 소개하고 현재 팀에서 집중하고 있는 문제들을 중심으로 하이퍼 스케일 언어 모델에 관한 발견을 공유합니다.",
+  "conference": "DEVIEW",
+  "year": 2021
+},{
+  "title": "Multilingual HyperCLOVA",
+  "author": "신성진, 김보섭",
+  "slide": "https://deview.kr/data/deview/session/attach/4_Multilingual HyperCLOVA.pdf",
+  "video": "https://tv.naver.com/v/23650514",
+  "description": "이 세션에서는 HyperCLOVA의 초거대 언어모델을 다국어로 확장 하면서 겪었던 내용을 소개 합니다. 다국어 모델을 학습하면서 겪었던 데이터 전처리, 다국어 모델 성능 향상을 위한 모델 실험, 벤치마크 성능 그리고 다국어 모델을 평가하기 위한 평가 방법 및 다양한 팁들을 소개해 드립니다. 마지막으로 다국어 모델을 통해서 언어의 장벽을 깨기 위한 새로운 도전의 초석이 되는 다양한 실험 결과들을 사례와 함께 공유 하고, 앞으로의 방향성에 대해 공유 합니다.",
+  "conference": "DEVIEW",
+  "year": 2021
+},{
+  "title": "네이버 수요예측의 비밀 HyperCLOVA, 빅데이터에서 예측 시그널을 찾을 수 있는 이유",
+  "author": "김경민, 박영진, 이주호, 홍영택",
+  "slide": "https://deview.kr/data/deview/session/attach/5_네이버 수요예측의 비밀 HyperCLOVA, 빅데이터에서 예측 시그널을 찾을 수 있는 이유.pdf",
+  "video": "https://tv.naver.com/v/23650739",
+  "description": "이 세션에서는 HyperCLOVA가 어떻게 네이버 쇼핑 수요예측에 도움이 되는지 소개합니다. 여기서 HyperCLOVA는 네이버에서 만든 초거대 언어모델이 아니라, 좀 더 넓은 개념인 초대규모 데이터와 많은 컴퓨팅 자원을 활용한 방법 또는 모델을 의미합니다. 먼저 수요예측 문제를 설명하고, 왜 HyperCLOVA가 수요예측에 필요했었는지 과거 사례를 통해 설명합니다. 그리고 수요예측을 위한 HyperCLOVA 파이프라인을 소개드리고, 그 적용결과와 효과를 얘기합니다. 다양한 결과를 통해 HyperCLOVA가 모델개발과 피처탐색 시간을 줄여줄 뿐만 아니라, 더 나은 성능을 얻게 해줄 수 있음을 보입니다.",
+  "conference": "DEVIEW",
+  "year": 2021
+},{
+  "title": "세상 빠르고 안전한 챗봇 만들기 (Feat. HyperCLOVA)",
+  "author": "곽동현, 배상환, 함동훈",
+  "slide": "https://deview.kr/data/deview/session/attach/6_세상 빠르고 안전한 챗봇 만들기 (Feat. HyperCLOVA).pdf",
+  "video": "https://tv.naver.com/v/23650713",
+  "description": "최근 급속도로 발전한 open-domain conversation과 open-domain question answering 분야의 기술을 활용하여, domain 특화된 챗봇과 QA system을 만드는 과정을 소개합니다. 우선 높은 수준으로 검증된 데이터를 효율적으로 수집하기 위해 HyperCLOVA라는 Large-scale LM을 활용해 데이터를 자동생성하고, 이를 사람이 검수하는 방식을 사용하였습니다. 이렇게 만들어진 대량의 데이터와 retriever model을 활용하여 chatbot 및 QA system을 만들었고, 각각 어르신 안부전화 서비스와 클로바 홈페이지 QA bot 서비스로 공개될 예정입니다. 앞으로 이러한 기술을 더 발전시켜서 챗봇이 기억력을 갖게하고, QA system과 TOD를 결합하여 능동적인 대화가 이뤄지는 보다 고도화된 챗봇 서비스를 만들고자 합니다.",
+  "conference": "DEVIEW",
+  "year": 2021
+},{
+  "title": "세상에 쓸모없는 데이터는 없다: HyperCLOVA를 이용한 반지도 학습",
+  "author": "유강민, 박동주",
+  "slide": "https://deview.kr/data/deview/session/attach/7_세상에 쓸모없는 데이터는 없다 HyperCLOVA를 이용한 반지도 학습.pdf",
+  "video": "https://tv.naver.com/v/23650419",
+  "description": "사람의 세세한 지도 없이도 똑똑해질 수 있는 AI기술, 반지도 학습(Semi-supervised Learning, SSL) 기법! 본 강연에서는 자연어처리 업계에서 생각하는 기존 반지도 학습의 한계, HyperCLOVA의 등장으로 이러한 한계를 어떻게 극복할 수 있는지, 그리고 네이버에서 쏟아지는 서비스 데이터를 이용해 AI모델이 어떻게 꾸준히 자기개선할 수 있는지 이론부터 실전 후기까지 자세히 살펴볼 예정입니다.",
+  "conference": "DEVIEW",
+  "year": 2021
+},{
+  "title": "초거대 AI, ‘HyperCLOVA’ 서빙기",
+  "author": "김민섭, 이성재",
+  "slide": "https://deview.kr/data/deview/session/attach/8_초거대 AI, ‘HyperCLOVA’ 서빙기.pdf",
+  "video": "https://tv.naver.com/v/23650788",
+  "description": "이 세션에서는 네이버 클로바에서 개발한 HyperCLOVA의 서빙 경험을 전달 드리고, 그 과정에서 발생할 수 있는 이슈들과 해결을 위해 저희가 경험했던 내용들을 공유하고자 합니다. HyperCLOVA와 같은 hyperscale ai는 그 규모와 비용 때문에 모델을 구하기가 쉽지 않고, 모델이 준비됐다 하더라도 레퍼런스가 될 자료가 충분하지 않아 이를 효율적이고 안정적으로 서빙하기 힘든 것이 현실입니다. 본 세션에서는 이러한 상황에서 저희 클로바 팀이 어떻게 HyperCLOVA의 서빙할 수 있었는지 두 가지 관점에서 전달 드리고자 합니다. 첫 번째는 빠른 서비스를 위해서 GPT-3 모델의 핵심로직을 python에서 cuda로 변경한 내용과 이 과정에서 발생했던 주요 이슈들을 살펴볼 것입니다. 두 번째는 앞선 과정에서 준비된 핵심로직을 안정적이고 효율적으로 서빙하기 위해 개발한 백엔드 앱에 대해서 소개해드리고, 서비스 로직을 효율적으로 구현하고자 어떤 고민들을 했는지 함께 공유해 드리고자 합니다.",
+  "conference": "DEVIEW",
+  "year": 2021
+},{
+  "title": "300 억 벡터를 서빙하라! 네이버 검색은 ColBERT 벡터 유사도 검색 도전 중",
+  "author": "반정호, 전보성",
+  "slide": "https://deview.kr/data/deview/session/attach/1_300 억 벡터를 서빙하라! 네이버 검색은 ColBERT 벡터 유사도 검색 도전 중.pdf",
+  "video": "https://tv.naver.com/v/23650668",
+  "description": "이 세션에서는 Text 기반 벡터 유사도 검색 최신 기술인 ColBERT 모델을 네이버 검색 시스템에 적용하는 프로젝트의 경험담을 공유합니다. ColBERT 동작 방식과 그것이 검색 품질 향상에 어떻게 도움을 줄 수 있는지 소개합니다. ColBERT가 필요로 하는 엄청난 연산량을 현실 검색 시간 안에 해내기 위해 적합한 ANN 을 찾고 변경한 내용을 공유합니다. 네이버 검색 엔진에 ColBERT 아키텍처를 적용하고 더 나아가 최적의 검색 성능을 끌어내기 위해서 진행했던 개발 경험을 공유합니다.",
+  "conference": "DEVIEW",
+  "year": 2021
+},{
+  "title": "Controlling Large Pretrained Language Models",
+  "author": "Hady Elsahar, Jos Rozen, German Kruszewski",
+  "slide": "https://deview.kr/data/deview/session/attach/2_Controlling Large Pretrained Language Models.pdf",
+  "video": "https://tv.naver.com/v/23650935",
+  "description": "Large pretrained Language Models (LMs) such as GPT-2/3, or Naver's HyperClova, are game-changers. Their emergent capabilities for language understanding and generation enable hundreds of applications from question answering to creative content generation, dialogue systems, and Human/AI pair programming. Still, having been trained on large corpora of web texts, these LMs suffer from oft-mentioned societal biases ; they also lack fine-grained controllability beyond simple prompting.",
+  "conference": "DEVIEW",
+  "year": 2021
+},{
+  "title": "SPLADE – a sparse BERT-based model for Neural Information Retrieval",
+  "author": "Stéphane Clinchant",
+  "slide": "https://deview.kr/data/deview/session/attach/3_SPLADE – a sparse BERT-based model for Neural Information Retrieval.pdf",
+  "video": "https://tv.naver.com/v/23650919",
+  "description": "Pre-trained Language Models have recently shaken-up the field of Information Retrieval, and hold many promises for improving search engines. There has been a growing interest in replacing term-based approaches like BM25 -- that are still the backbone of commercial search engines -- by neural retrievers which learn representations for queries and documents, in order to fight long standing issues such as the vocabulary mismatch. Because of the strict efficiency requirements for such models, two lines of work stand-out: dense retrieval with approximate nearest neighbors search, and sparse representation learning, that borrows from bag-of-words models and inverted index structures.",
+  "conference": "DEVIEW",
+  "year": 2021
+},{
+  "title": "Stella : NAVER 통합 Knowledge Graph",
+  "author": "김현호",
+  "slide": "https://deview.kr/data/deview/session/attach/4_Stella_NAVER 통합 Knowledge Graph.pdf",
+  "video": "https://tv.naver.com/v/23649948",
+  "description": "이 세션에서는 NAVER에서 가지고 있는 다양한 주제의 DB들을 일관된 그래프구조의 단일한 저장소에 저장하면서 겪은 경험과 시도했던 방법들을 공유하고자 합니다. 그리고 NAVER에서 가지고 있는 지식그래프의 실제 모습을 보실 수 있습니다.",
+  "conference": "DEVIEW",
+  "year": 2021
+},{
+  "title": "검색 개선을 위한 검색 사용자 이해하기",
+  "author": "백준선, 백수현",
+  "slide": "https://deview.kr/data/deview/session/attach/5_검색 개선을 위한 검색 사용자 이해하기.pdf",
+  "video": "https://tv.naver.com/v/23651810",
+  "description": "",
+  "conference": "DEVIEW",
+  "year": 2021
+},{
+  "title": "검색 결과도 더 똑똑해 보일 수 있을까? - 지식스니펫",
+  "author": "이현구",
+  "slide": "https://deview.kr/data/deview/session/attach/6_검색 결과도 더 똑똑해 보일 수 있을까 - 지식스니펫.pdf",
+  "video": "https://tv.naver.com/v/23650115",
+  "description": "이 세션에서는 네이버 지식스니펫이 어떠한 방법으로 추출되고 서비스되는지에 대해 공유합니다. Open-domain Question Answering과 관련하여 저희는 어떻게 접근하고 있는지, 적합한 질의는 어떻게 찾으며, 질의에 맞는 스니펫을 추출하기 위해서는 무엇을 해야하는지, 서비스를 내기 위해 어떠한 고민을 하는지에 대해 알려드리고자 합니다.",
+  "conference": "DEVIEW",
+  "year": 2021
+},{
   "title": "오픈스택으로 바라보는 AWS와 구글 클라우드 플랫폼",
   "author": "이태영",
   "video": "https://www.youtube.com/watch?v=hKVIxP-hKbc",
