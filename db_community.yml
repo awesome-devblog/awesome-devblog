@@ -519,6 +519,15 @@
   facebook: https://www.facebook.com/onlinejudge/
 - name: 박센스
   youtube: https://www.youtube.com/channel/UCi18b8sq1x1SrokadMkT_EQ
+- name: 바나나코딩 - 세상에서 가장 재미있는 코딩학교
+  facebook: https://www.facebook.com/bananacoding.ac/
+- name: 박스앤위스커
+  blog: http://boxnwhis.kr/
+  rss: http://boxnwhis.kr/feed.xml
+  facebook: https://www.facebook.com/boxnwhis.kr/
+  twitter: https://twitter.com/boxnwhiskr
+  linkedin: https://www.linkedin.com/company/box-and-whisker/
+  github: https://github.com/box-and-whisker
 - name: 버즈니 보일러실
   blog: https://boiler.buzzni.com/
 - name: 버즈빌
@@ -533,15 +542,6 @@
   rocketpunch: https://www.rocketpunch.com/companies/bbuzzart
 - name: 부산개발자모임
   facebook: https://www.facebook.com/groups/1758210201108691/
-- name: 바나나코딩 - 세상에서 가장 재미있는 코딩학교
-  facebook: https://www.facebook.com/bananacoding.ac/
-- name: 박스앤위스커
-  blog: http://boxnwhis.kr/
-  rss: http://boxnwhis.kr/feed.xml
-  facebook: https://www.facebook.com/boxnwhis.kr/
-  twitter: https://twitter.com/boxnwhiskr
-  linkedin: https://www.linkedin.com/company/box-and-whisker/
-  github: https://github.com/box-and-whisker
 - name: 부스트코스-boostcourse
   facebook: https://www.facebook.com/boostcourse.connect/
 - name: 블록체인 개발자 모임
@@ -558,8 +558,6 @@
   rocketpunch: https://www.rocketpunch.com/companies/4grit-2
 - name: 빔캠프 VEAMCAMP
   youtube: https://www.youtube.com/channel/UCvx57s_ZBt5VG4fvlStiq2g
-- name: 빵굽는개발자 빵형
-  youtube: https://www.youtube.com/channel/UCLxPNvxa9D-3UIdocAJUxfQ
 - name: "비개모: 비전공자 개발자 모임"
   facebook: https://www.facebook.com/groups/NonmajorDeveloperGroup/
 - name: 보안프로젝트
@@ -578,6 +576,8 @@
 - name: 비브로스
   blog: https://boostbrothers.notion.site/7e4e92a80a8f4ba3ad8f36a1e06fdc30?v=817af4da24e7465a900a5774847b1b28
   rocketpunch: https://www.rocketpunch.com/companies/bbros
+- name: 빵굽는개발자 빵형
+  youtube: https://www.youtube.com/channel/UCLxPNvxa9D-3UIdocAJUxfQ
 - name: 사람인HR 기술 블로그
   blog: https://saramin.github.io/
   rss: https://saramin.github.io/feed.xml
@@ -587,7 +587,7 @@
   blog: https://cyberx.tistory.com/
   rss: https://cyberx.tistory.com/rss
 - name: 삼성 S/W 멤버십
-  blog: http://www.secmem.org/blog/
+  blog: https://infossm.github.io/blog/
   github: https://github.com/infossm
   facebook: https://www.facebook.com/secmem
   youtube: https://www.youtube.com/user/SamsungSWMem
@@ -610,17 +610,6 @@
   home: https://opentutorials.org/
   twitter: https://twitter.com/opentutorialss
   youtube: https://www.youtube.com/channel/UCvc8kv-i5fvFTJBFAk6n1SA
-- name: 스크래치 매니아 프로그래머들
-  naver: https://cafe.naver.com/onell0
-- name: 슬로우뉴스-테크
-  blog: http://slownews.kr/category/tech
-  rss: http://slownews.kr/category/tech/feed
-- name: 싸이그래머
-  facebook: https://www.facebook.com/groups/psygrammer/
-- name: 스마트 앱 개발자 포럼
-  facebook: https://www.facebook.com/groups/smartphone.forum/
-- name: 실무코딩
-  facebook: https://www.facebook.com/groups/smcoding/
 - name: 서플
   blog: https://medium.com/supple
   rss: https://medium.com/feed/supple
@@ -630,20 +619,13 @@
 - name: 서지스윈
   home: https://sergeswin.com/
   rss: http://feeds.feedburner.com/comblog
-- name: 스티비
-  blog: https://blog.stibee.com/
-  rss: https://blog.stibee.com/feed
-  rocketpunch: https://www.rocketpunch.com/companies/stibee
-- name: 스마일게이트 서버개발캠프
-  facebook: https://www.facebook.com/serverdevcamp/
-  rocketpunch: https://www.rocketpunch.com/companies/smilegate
+- name: 서울개발자
+  facebook: https://www.facebook.com/console.man.solo/
+  home: http://www.seoulcodes.com
 - name: 설리번 프로젝트
   home: https://sullivanproject.io/
   facebook: https://www.facebook.com/sullivanproject.in
   instagram: https://www.instagram.com/sullivanproject/
-- name: 서울개발자
-  facebook: https://www.facebook.com/console.man.solo/
-  home: http://www.seoulcodes.com
 - name: 소프트캠퍼스
   home: http://www.softcampus.co.kr/
   youtube: https://www.youtube.com/channel/UCNSz1OJrw5yB8JGi76UQQ-Q
@@ -653,8 +635,17 @@
   home: http://www.saltlux.com/
   instagram: https://www.instagram.com/slx_saltlux/
   rocketpunch: https://www.rocketpunch.com/companies/saltlux-1
+- name: 스마일게이트 서버개발캠프
+  facebook: https://www.facebook.com/serverdevcamp/
+  rocketpunch: https://www.rocketpunch.com/companies/smilegate
+- name: 스마트 앱 개발자 포럼
+  facebook: https://www.facebook.com/groups/smartphone.forum/
 - name: 스무디 TV
   youtube: https://www.youtube.com/channel/UCo-7BoOyUN6SrtCGWaAV81Q
+- name: 스티비
+  blog: https://blog.stibee.com/
+  rss: https://blog.stibee.com/feed
+  rocketpunch: https://www.rocketpunch.com/companies/stibee
 - name: 스파르타코딩클럽
   home: https://spartacodingclub.kr/
   blog: https://blog.naver.com/spartacoding
@@ -670,16 +661,25 @@
   blog: https://startlink.blog/
   rss: https://startlink.blog/feed/
   rocketpunch: https://www.rocketpunch.com/companies/startlink
+- name: 스크래치 매니아 프로그래머들
+  naver: https://cafe.naver.com/onell0
+- name: 슬로우뉴스-테크
+  blog: http://slownews.kr/category/tech
+  rss: http://slownews.kr/category/tech/feed
 - name: 슬리드
   blog: https://slid.medium.com/
   rss: https://medium.com/feed/@slid
   rocketpunch: https://www.rocketpunch.com/companies/slid
+- name: 실무코딩
+  facebook: https://www.facebook.com/groups/smcoding/
 - name: 시스코 코리아
   blog: https://gblogs.cisco.com/kr/
   rss: https://gblogs.cisco.com/kr/feed/
   rocketpunch: https://www.rocketpunch.com/companies/cisco-systems
 - name: 시피의 코딩
   youtube: https://www.youtube.com/channel/UCK7lI9EjccHY-b8hHf95Rdw
+- name: 싸이그래머
+  facebook: https://www.facebook.com/groups/psygrammer/
 - name: 쏘카
   blog: https://tech.socarcorp.kr/
   rss: https://tech.socarcorp.kr/feed.xml
