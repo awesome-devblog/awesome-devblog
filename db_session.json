@@ -4233,6 +4233,78 @@
   "conference": "DEVIEW",
   "year": 2021
 },{
+  "title": "검색어와 상품을 연결하는 스마트한 방법: 네이버 쇼핑 검색 커버리지 개선 기술",
+  "author": "송일현, 하종우",
+  "slide": "https://deview.kr/data/deview/session/attach/7검색어와 상품을 연결하는.pdf",
+  "video": "https://tv.naver.com/v/23649773",
+  "description": "본 세션에서는 네이버 쇼핑 검색에 적용된 다양한 기술 중에서 특히 검색 커버리지를 높이기 위한 딥러닝 모델에 대하여 자세히 소개합니다. 먼저 검색에서 전통적으로 사용되는 키워드 매칭 방식의 커버리지를 보완하기 위한 Query Reformulation(QR), Query Term Importance(QTI) 기술을 설명합니다. QR 은 상품 검색의 품질을 높일 수 있도록 사용자가 입력한 검색어를 재구성하는 기술입니다. QTI 는 검색어를 구성하는 단어의 중요도를 예측하는 기술로서 상품 매칭 및 랭킹에 활용합니다. 다음으로 키워드 매칭을 넘어서 검색어의 의미를 이해하여 상품을 검색하는 쇼핑 딥서치 모델을 설명합니다. 쇼핑 딥서치는 BERT 기반 모델로부터 생성한 검색어 및 상품의 임베딩을 활용하여 상품을 검색하는 기술입니다. 이러한 딥러닝 모델을 소개함에 있어 모델의 품질을 높이고 대규모 검색 트래픽에 대응할 수 있는 시스템을 구축하는 과정에서 발생했던 이슈들과 그를 해결하는 과정에서 얻은 노하우를 함께 공유합니다.",
+  "conference": "DEVIEW",
+  "year": 2021
+},{
+  "title": "국내 최대 이미지 데이터를 서비스 하는 네이버 이미지검색 시스템의 10여 년간의 DevOps 변화와 미래",
+  "author": "김인겸, 주혜원",
+  "slide": "https://deview.kr/data/deview/session/attach/8국내 최대 이미지 데이터를.pdf",
+  "video": "https://tv.naver.com/v/23686959",
+  "description": "본 세션에서는 네이버 검색시스템 소개와 이미지검색 시스템에 대해서 살펴볼 예정입니다. 10년간의 이미지검색 시스템 DevOps의 변화과정에 대해서 경험을 공유하려합니다.",
+  "conference": "DEVIEW",
+  "year": 2021
+},{
+  "title": "대규모 자연어처리 모델 서빙 경험기",
+  "author": "김진웅",
+  "slide": "https://deview.kr/data/deview/session/attach/9_대규모 자연어처리 모델 서빙 경험기.pdf",
+  "video": "https://tv.naver.com/v/23650588",
+  "description": "대규모 자연어 처리 모델인 GPT3를 서빙하면서 겪은 다양한 경험들을 공유 드립니다. 엔지니어링 레벨에서 파악한 GPT3의 특성 및 실험 결과 등을 분석하고, 성능에 많은 영향을 주는 요소들을 정리하고, 서빙을 위한 리소스를 산정 하였습니다.",
+  "conference": "DEVIEW",
+  "year": 2021
+},{
+  "title": "딥러닝 언어 모델 칵테일로 주제별 검색 결과 만들기",
+  "author": "오연택",
+  "slide": "https://deview.kr/data/deview/session/attach/10_딥러닝 언어 모델 칵테일로 주제별 검색 결과 만들기.pdf",
+  "video": "https://tv.naver.com/v/23649984",
+  "description": "주제별 검색 결과 서비스는 검색 사용자의 다양한 의도를 찾아내어, 관련 콘텐츠를 통합검색 한 화면에 잘 정리해서 보여준다는 아이디어에서 시작했습니다. 하지만 매우 복잡한 정보를 잘 체계화하는 서비스를 만들려면, 다양한 NLP 문제를 빠른 시간 내에 해결해야 했고 그만큼 여러 가지 기존 딥러닝 모델(pretrained deep learning model)들을 활용해야 했습니다. 본 세션은 주제별 검색 결과 서비스를 만들면서 우리가 직면했던 문제들을 어떤 모델들을 활용하여, 풀었는지에 대한 소개서입니다. 우리가 사용한 모델들은 단순한 머신러닝 모델부터, Word2Vec, Fasttext, BART, BERT까지 매우 다양합니다. 우리는 주제별 검색 서비스를 만들면서, 복잡한 문제들을 해결하는 하나의 완벽한 해법을 찾기보다는 여러 가지 모델들을 칵테일처럼 잘 섞어서 적재적소에 잘 활용하는 게 더 효율적/효과적일 수 있음을 배웠습니다. 그 자세한 경험을 공유하고자 합니다.",
+  "conference": "DEVIEW",
+  "year": 2021
+},{
+  "title": "생활의달인에 나온 꽈배기 맛집 알고싶으세요? : 질의 의미를 파악해 찾아주는 Deep Local Search",
+  "author": "조용범",
+  "slide": "https://deview.kr/data/deview/session/attach/11_생활의달인에 나온 꽈배기 맛집.pdf",
+  "video": "https://tv.naver.com/v/23650677",
+  "description": "본 세션에서는 지역 검색에서 Q&A에 해당하는 질의를 찾아 질의에 알맞은 정답을 보여주기 위해 기능을 개발하여 적용하기 까지 사용했던 기술과 경험을 공유하려 합니다. 진행했던 기술들의 서비스 적용 결과와 함께 앞으로 진행하게될 프로젝트인 Embedding 기반의 노출 개선 프로젝트에 대해서도 소개해 드리려고 합니다.",
+  "conference": "DEVIEW",
+  "year": 2021
+},{
+  "title": "지식백과 Question Answering: HyperCLOVA 지식의 한계에 도전합니다",
+  "author": "전동현",
+  "slide": "https://deview.kr/data/deview/session/attach/12_지식백과 Question Answering HyperCLOVA 지식의 한계에 도전합니다.pdf",
+  "video": "https://tv.naver.com/v/23649497",
+  "description": "HyperCLOVA는 얼마나 똑똑할까요? 본 세션에서는 거대한 자연어 생성 모델인 HyperCLOVA를 활용하여 Open-domain Question Answering 서비스를 준비하는 과정에 대한 여러 팁들과 활용 방법들을 공유합니다. 기존의 Open-domain Question Answering 에는 아직 한계점들이 많이 존재합니다. 많은 한계점 중에서 HyperCLOVA로 얼마나 극복할 수 있는지, HyperCLOVA기반의 QA에서 불안정성 컨트롤하는 과정, 좋은 데이터는 어떻게 만들어낼 수 있는지 등 HyperCLOVA를 활용한 다양한 실험들을 공유합니다. 그리고 네이버 지식백과 데이터 기반 QA를 활용해 앞으로의 서비스 적용 방안들을 소개합니다.",
+  "conference": "DEVIEW",
+  "year": 2021
+},{
+  "title": "AiTEMS 쇼핑추천의 시작부터 HyperScale AI 도입까지",
+  "author": "양민철, 김동현",
+  "slide": "https://deview.kr/data/deview/session/attach/1_AiTEMS.pdf",
+  "video": "https://tv.naver.com/v/23649833",
+  "description": "본 세션에서는 네이버 쇼핑추천 AiTEMS의 전반적인 소개와 함께 지금까지 서비스 기술을 개발하면서 고민했던 경험과 노하우를 공유합니다. 더 나아가 기존 추천 모델링의 여러 한계점을 넘기 위해 HyperCLOVA를 활용하여 다양한 추천 문제에 적용했던 실험 결과와 사례를 살펴봅니다.",
+  "conference": "DEVIEW",
+  "year": 2021
+},{
+  "title": "BERT로 만든 네이버 플레이스 비슷한 취향 유저 추천 시스템",
+  "author": "주윤상, 유원홍",
+  "slide": "https://deview.kr/data/deview/session/attach/2_BERT로 만든 네이버 플레이스 비슷한 취향 유저 추천 시스템.pdf",
+  "video": "https://tv.naver.com/v/23652089",
+  "description": "네이버 Glace CIC에서 운영하는 네이버 예약과 마이플레이스 서비스에는 하루에도 많은 수의 음식점 리뷰들이 올라오고 있습니다. 나와 음식 취향이 비슷한 유저를 잘 추천해준다면 큰 재미를 느낄거라 생각했고 추천 모델을 개발해서 서비스에 적용했습니다. BERT는 Language Model로 추천과 연관성이 없어 보이지만 여러 실험을 통해 BERT를 이용한 만족스러운 추천엔진을 만들었습니다. 서비스에 내보내려면 모델 개발 이외에 데이터 추출, 모델 학습, 사용자 요청을 받을 수 있는 서버개발, 안정적인 배포 등 많은 과정들이 있습니다. 이런 과정을 하나의 pipeline으로 구성하여 자동화를 하였고 안정적으로 동작하고 있습니다. 올해 신설된 플레이스AI부서에서 초기 시스템을 어떻게 도입했는지와 이번 과제에서 ML Pipeline을 어떻게 적용했는지 설명합니다.",
+  "conference": "DEVIEW",
+  "year": 2021
+},{
+  "title": "Knowledge Graph에게 맛집과 사용자를 묻는다. : GNN으로 맛집 취향 저격 하기!",
+  "author": "전영환, 김준형",
+  "slide": "https://deview.kr/data/deview/session/attach/3_GNN으로 맛집 취향 저격 하기.pdf",
+  "video": "https://tv.naver.com/v/23652392",
+  "description": "좋은 Location Based Recommendation System을 만들기 위해서는 장소 (Point Of Interest)를 이해하는 것이 가장 중요합니다. 저희는 POI를 이해하는데 있어, Graph 기반의 AI/ML 기술들을 적용하고 있습니다. 본 세션에서는 AirSPACE에서 연구하고 개발하고 있는 다양한 Graph 기반의 POI Embedding Model들에 대해 소개합니다. 장소와 관련된 다양한 요소들을 어떻게 Graph로 구성하였는지, 저희의 Embedding의도를 기술적으로 어떻게 풀어냈는지, 그 과정에서 만난 어려움은 어떤 것들이 있는지 얘기하려 합니다. 마지막으로, 각 Model들을 통해, 생성된 POI Embedding들을 다양한 관점에서 평가하여 보고, 어떻게 실제 서비스에서 활용하면 좋을지에 대해 공유하려 합니다.",
+  "conference": "DEVIEW",
+  "year": 2021
+},{
   "title": "오픈스택으로 바라보는 AWS와 구글 클라우드 플랫폼",
   "author": "이태영",
   "video": "https://www.youtube.com/watch?v=hKVIxP-hKbc",
