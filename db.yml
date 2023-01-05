@@ -1916,6 +1916,11 @@
   rss: https://devtimothy.tistory.com/rss
   description: Front-end
   facebook: https://www.facebook.com/yunseop.kim.5
+- name: 김윤지
+  blog: https://6161990src.tistory.com/
+  rss: https://6161990src.tistory.com/rss
+  description: Back-end
+  github: https://github.com/6161990
 - name: 김윤현
   blog: https://blog.uniony.me/
   rss: https://blog.uniony.me/feed.xml
