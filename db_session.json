@@ -4305,6 +4305,134 @@
   "conference": "DEVIEW",
   "year": 2021
 },{
+  "title": "내가 선택하는 내 영화 취향: 뭘고를지 몰라 다 준비해봤어",
+  "author": "권은, 김동국",
+  "slide": "https://deview.kr/data/deview/session/attach/4_내가 선택하는 내 영화 취향 뭘고를지 몰라 다 준비해봤어.pdf",
+  "video": "https://tv.naver.com/v/23651544",
+  "description": "본 세션에서는 네이버 컨텐츠 검색에서 실제로 서비스하고 있는 영화 취향 추천에 대한 내용을 공유합니다. 어떤 데이터를 어떻게 가공해서 사용했는지, 해당 데이터가 어떤 알고리즘에 의해서 모델에 반영되는지 등 모델을 제작하며 고려한 부분과, 모델 제작 중 생기는 문제들을 어떻게 해결하는지를 다룹니다. 또, 많은 유저들의 취향을 어떻게 저장하며 어떤 방식으로 서빙하는지 등 서빙을 위한 플랫폼 설계 방식과 이후 제공되는 결과들에 대해 다룹니다.",
+  "conference": "DEVIEW",
+  "year": 2021
+},{
+  "title": "로그 없이 영끌 키워드 추천: Few-shot Learning and Sequential Pattern-based Keyword Recommendation",
+  "author": "김세호, 최민수, 강상욱",
+  "slide": "https://deview.kr/data/deview/session/attach/5_로그 없이 영끌 키워드 추천.pdf",
+  "video": "https://tv.naver.com/v/23650760",
+  "description": "이 세션에서는 로그가 부족한 상황에서 사용자에게 다양한 키워드를 추천하기 위해 키워드 추천 프로젝트에서 고군분투했던 서비스 적용기를 공유합니다. 편집자가 수동으로 운용하는 실시간 화제 키워드 추천을 자동화하기 위해, 실시간 화제 감지 모델을 사용하여 화제 이슈를 감지하고 발생한 화제 이슈로부터 HyperCLOVA를 사용해 검색 키워드를 추출을 사용한 방법 등을 소개합니다. 사용자의 취향에 맞는 다양한 키워드를 추천하기 위해 Pattern Mining등을 활용하여 키워드 풀을 확장한 사례에 대해 공유드립니다. 라인 검색 키워드 추천 프로젝트의 전반적인 서비스 파이프라인과 키워드 추천 방식 등도 함께 소개드립니다.",
+  "conference": "DEVIEW",
+  "year": 2021
+},{
+  "title": "사용자 의도와 취향을 이해하는 네이버 통합검색",
+  "author": "김기동, 김기동",
+  "slide": "https://deview.kr/data/deview/session/attach/6_사용자 의도와 취향을 이해하는 네이버 통합검색.pdf",
+  "video": "https://tv.naver.com/v/23649879",
+  "description": "사용자 의도와 취향을 이해하는 네이버 통합검색",
+  "conference": "DEVIEW",
+  "year": 2021
+},{
+  "title": "AOD Cloud, Global Cloud 로의 성장스토리",
+  "author": "황준호, 박은애",
+  "slide": "https://deview.kr/data/deview/session/attach/1_AOD Cloud, Global Cloud 로의 성장스토리.pdf",
+  "video": "https://tv.naver.com/v/23651410",
+  "description": "네이버의 AOD 기술을 플랫폼화하고 수많은 네이버 서비스들이 사용중인 AOD Cloud를 소개하고 국내 서비스들을 위해 시작된 작은 플랫폼을 국내를 넘어선 글로벌 플랫폼으로 성장시킨 개발자들의 고민과 노력을 공유하고자 합니다. 글로벌 시장에서 만난 여러가지 이슈에 대한 소개 및 극복과정과 대용량, 멀티리전을 위한 신규 아키텍쳐의 설계와 구현에 대해 공유하고 작업 과정에서 느꼈던 기술적인 고민과 결정들 그 과정에서 나온 센스있는 아이디어들을 저희와 비슷한 고민을 하는 개발자분들과 함께 나눕니다.",
+  "conference": "DEVIEW",
+  "year": 2021
+},{
+  "title": "Domain Graph Service를 활용한 광고 서비스의 GraphQL API 구현 사례",
+  "author": "이광운",
+  "slide": "https://deview.kr/data/deview/session/attach/2_Domain Graph Service를 활용한 광고 서비스의 GraphQL API 구현 사례.pdf",
+  "video": "https://tv.naver.com/v/23652389",
+  "description": "본 세션에서는 쿠팡의 광고 서비스를 개선하면서 도입한 GraphQL과 Netflix의 Domain Graph Service Framework에 대해 개발 및 운영 경험을 공유하려 합니다. 어떤 점들이 개선되었는지 상세하게 공유드리겠습니다.",
+  "conference": "DEVIEW",
+  "year": 2021
+},{
+  "title": "NAVER의 MongoDB 접근통제 개발기 (Feat. Electron & Mongo Wire Protocol)",
+  "author": "박경덕",
+  "slide": "https://deview.kr/data/deview/session/attach/3_NAVER의 MongoDB 접근통제 개발기.pdf",
+  "video": "https://tv.naver.com/v/23651908",
+  "description": "이 세션에서는 네이버 계열사에서 사용하고 있는 DB 접근제어 시스템인 SQL Gateway 에 대해서 알아보고, MongoDB 대상으로 새롭게 구축한 SQL Gateway Client / Server에 대해서 어떻게 설계를 했고 어떠한 이슈들을 풀어 나갔는지에 대해 공유드립니다. 또한 Electron을 사용하면서 느낀점과 MongoDB Wire Protocol을 분석한 내용을 살펴보겠습니다.",
+  "conference": "DEVIEW",
+  "year": 2021
+},{
+  "title": "도쿄는 무관중, 네이버는 무한관중. 라이브로 함께한 2020 올림픽",
+  "author": "노혜성",
+  "slide": "https://deview.kr/data/deview/session/attach/4_도쿄는 무관중, 네이버는 무한관중. 라이브로 함께한 2020 올림픽.pdf",
+  "video": "https://tv.naver.com/v/23651957",
+  "description": "뜨거웠던 여름. 모두의 관심을 끌었던 2020 도쿄 올림픽 네이버 올림픽 라이브 중계를 성공적으로 할 수 있었던 배경에는 NAVER LIVE CLOUD 팀이 있었습니다. 140만 동접의 사용자를 수용한 기술과 경험을 공유하려 합니다.",
+  "conference": "DEVIEW",
+  "year": 2021
+},{
+  "title": "썰 푼다! 주니어 개발자의 프리미엄 콘텐츠 Hub 서버 개발기",
+  "author": "이상민",
+  "slide": "https://deview.kr/data/deview/session/attach/5_썰 푼다! 주니어 개발자의 프리미엄 콘텐츠 Hub 서버 개발기.pdf",
+  "video": "https://tv.naver.com/v/23652646",
+  "description": "우리는 콘텐츠의 시대에 살고 있습니다. 본 세션에서는 창작 콘텐츠가 올바른 가치로 평가되고 공유되는 곳, 네이버의 신규 유료 구독 서비스인 '프리미엄 콘텐츠'의 '콘텐츠 허브 서버' 구축 및 개발 경험을 공유하고자 합니다. 먼저 서비스 및 콘텐츠 허브 소개를 시작으로, Reactor 기반 서버 애플리케이션에서 다양한 Reactor 연산자들을 어떻게 활용하였는지 중점적으로 공유드리고, 콘텐츠 허브의 Kafka 이벤트 및 재처리 구성과 MSA 환경에서 Data Consistency를 유지하기 위해 고민한 흔적을 공유합니다.",
+  "conference": "DEVIEW",
+  "year": 2021
+},{
+  "title": "언택트 시대의 쇼핑, 네이버 쇼핑라이브 개발기",
+  "author": "장준영",
+  "slide": "https://deview.kr/data/deview/session/attach/6_언택트 시대의 쇼핑, 네이버 쇼핑라이브 개발기.pdf",
+  "video": "https://tv.naver.com/v/23651144",
+  "description": "패션 스타일북 서비스로 출발한 ‘셀렉티브’가 국내 1위 라이브커머스 ‘쇼핑라이브’가 되기까지, 코로나19 팬데믹 상황에서 어떻게 빠르게 변화할 수 있었는지 네이버 기술 플랫폼을 활용한 개발 경험과 팁을 공유드리고, 쇼핑라이브 출시 이후 서비스가 빠르게 성장하면서 겪었던 기술적 이슈들과 고민, 그리고 지금의 안정적인 라이브커머스 플랫폼이 되기까지의 변화 과정과 장애 예방을 위한 노력, 경험들을 공유드리고자 합니다.",
+  "conference": "DEVIEW",
+  "year": 2021
+},{
+  "title": "오픈소스 인메모리 데이터 저장소 ARCUS 에서의 데이터 영속성(Persistence) 기술 구현",
+  "author": "장수환",
+  "slide": "https://deview.kr/data/deview/session/attach/7_오픈소스 인메모리 데이터 저장소 ARCUS 에서의 데이터 영속성(Persistence) 기술 구현.pdf",
+  "video": "https://tv.naver.com/v/23652379",
+  "description": "본 세션에서는 인메모리 캐시 시스템 ARCUS에서 데이터 영구 보존을 위해 개발한 데이터 영속성(Data Persistence) 기능에 대한 내용을 공유해 드리려 합니다. ARCUS는 캐시 용도로 고성능을 위해 휘발성 메모리를 사용함에 따라 시스템 장애나 장비 교체, 업그레이드 등의 이유로 시스템이 종료되면 저장해 둔 모든 데이터가 사라지는 특징을 갖고 있습니다. ARCUS를 기존 캐시 용도 외에 저장소 용도로 확장하기 위한 첫 번째 개발 작업으로 데이터 영속성 기능을 구현하였습니다. ARCUS에서 데이터 영속성 구현 방안과 기존 고성능을 최대한 유지하도록 하기 위해 내부적으로 어떻게 구현하였는지와 구현 성능을 소개해드리겠습니다.",
+  "conference": "DEVIEW",
+  "year": 2021
+},{
+  "title": "이제는 운영을 고민할때! ML 서비스 지속가능한 운영도구 CLOW",
+  "author": "최순원, 이승훈, 임준상",
+  "slide": "https://deview.kr/data/deview/session/attach/8_이제는 운영을 고민할때! ML 서비스 지속가능한 운영도구 CLOW.pdf",
+  "video": "https://tv.naver.com/v/23650581",
+  "description": "AI솔루션을 만들어 가능 과정 중 가장 중요 부분은 ML Model 개발 입니다. 하지만 ML Model들을 서비스화 하기 위해서는 다양한 ML Engineering 요구사항들이 필요하고, 이에 대한 중요성 또한 점점 더 커지고 있습니다. 본 세션에서는 MLOps를 위한 ML Pipeline 시스템 개발과정에서 겪었던 문제점들과 이를 해결해가는 과정에 대한 경험을 공유하려고 합니다.",
+  "conference": "DEVIEW",
+  "year": 2021
+},{
+  "title": "일본에서도 VOD를 빠르게 업로드하고 재생할 순 없을까",
+  "author": "장표환, 손한나",
+  "slide": "https://deview.kr/data/deview/session/attach/9_일본에서도 VOD를 빠르게 업로드하고 재생할 순 없을까.pdf",
+  "video": "https://tv.naver.com/v/23649793",
+  "description": "네이버 VOD 클라우드의 일본 리전 구축에 대한 고민과 노하우를 공유합니다. 네이버 글로벌 지원을 위한 배경과 기존 VOD 클라우드의 문제점을 설명하고, 대용량 트래픽을 수용하면서 싱글 리전에서 멀티 리전으로 전환하기 위한 아키텍처, Spring Cloud Gateway를 사용하여, 사용자와 가장 가까운 리전으로 라우팅하고 Low Latency를 달성하는 방법, 그리고 네이버 글로벌 서비스 적용 사례와 마지막으로 어려웠던 점과 향후 개선점을 설명합니다.",
+  "conference": "DEVIEW",
+  "year": 2021
+},{
+  "title": "초대용량 멀티테넌트 시큐어 하둡 클러스터 성장통 경험기",
+  "author": "이유비",
+  "slide": "https://deview.kr/data/deview/session/attach/10_초대용량 멀티테넌트 시큐어 하둡 클러스터 성장통 경험기.pdf",
+  "video": "https://tv.naver.com/v/23650574",
+  "description": "이 발표는 \"대용량 멀티테넌트 시큐어 하둡 클러스터 운영 경험기\" 의 후속편입니다. (https://deview.kr/2020/sessions/394) 네이버 개발자들이 사용하는 사내플랫폼인 하둡 보안이 적용된 C3S 클러스터를 운영하고 있습니다. 현재 운영 중인 C3S는 서비스 시작한 지 2년 6개월 정도 지났는데 지속적으로 클러스터가 성장하고 있습니다. 이 성장과정 속에서 맞닥뜨렸던 여러 이슈, 해결책, 공헌들을 공유합니다.",
+  "conference": "DEVIEW",
+  "year": 2021
+},{
+  "title": "테스트 객체는 엣지 케이스까지 찾아주는 Fixture Monkey에게 맡기세요",
+  "author": "조성아",
+  "slide": "https://deview.kr/data/deview/session/attach/11_테스트 객체는 엣지 케이스까지 찾아주는 Fixture Monkey에게 맡기세요.pdf",
+  "video": "https://tv.naver.com/v/23650158",
+  "description": "당신의 테스트는 안녕하신가요? 테스트는 서비스를 발전시키고 테스트 대상 (System under test, sut)을 이해하는 데 도움을 주고 운영 리스크를 줄여주어야 합니다. 하지만 제 역할을 하는 테스트를 작성하기는 어렵습니다. 우리는 학교 혹은 회사에서 테스트를 작성하는 방법에 대해 배우지 않았기 때문입니다. 방법을 알더라도 시간이 많이 들어 바쁜 우리는 테스트를 포기하곤 합니다. 그래서 올바른 테스트 작성을 도와줄 수 있는 도구를 만들었습니다. 이번 세션에서는 새로운 테스팅 도구 Fixture Monkey를 소개하고 어떻게 국내 최대 결제 서비스, 네이버페이 신규 주문서 테스트를 작성했는지 다루려고 합니다.",
+  "conference": "DEVIEW",
+  "year": 2021
+},{
+  "title": "1통의 재난 문자로 시작한 SRE 도전기 - 40배 이상 트래픽도 막아라!",
+  "author": "이정재, 한병수",
+  "slide": "https://deview.kr/data/deview/session/attach/1_1통의 재난 문자로 시작한 SRE 도전기 - 40배 이상 트래픽도 막아라!.pdf",
+  "video": "https://tv.naver.com/v/23652569",
+  "description": "본 세션에서는 네이버 블로그/지식iN 서비스에서 실천하는 SRE의 A-Z까지 모두 소개해 드립니다. 평소 대비 40배의 트래픽을 수용하기 위한, 혹은 수용 불가한 트래픽을 방어하는 전략 수립 및 구축 사례를 공유드립니다.",
+  "conference": "DEVIEW",
+  "year": 2021
+},{
+  "title": "24/7 웹 서비스 장애 감지를 위한 모니터링 시스템 개발기",
+  "author": "전현준",
+  "slide": "https://deview.kr/data/deview/session/attach/2_247 웹 서비스 장애 감지를 위한 모니터링 시스템 개발기.pdf",
+  "video": "https://tv.naver.com/v/23652365",
+  "description": "본 세션에서는 웹 서비스 모니터링 시스템을 개발하며 겪었던 경험을 공유 합니다. 어떤 도구를 사용하여 모니터링할 것인지? 어떻게 장애를 감지할 수 있는지? 또 테스트 시나리오 관리는 어떻게 할 것인지? 등 개발하며 고민했던 내용과 개발한 시스템을 어떻게 구성하여 운영중이고 또 운영하며 발생했던 문제에 대해서도 공유 합니다.",
+  "conference": "DEVIEW",
+  "year": 2021
+},{
   "title": "오픈스택으로 바라보는 AWS와 구글 클라우드 플랫폼",
   "author": "이태영",
   "video": "https://www.youtube.com/watch?v=hKVIxP-hKbc",
