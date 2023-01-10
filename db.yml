@@ -8078,6 +8078,10 @@
 - name: 이준범
   blog: https://wnsqjadl.medium.com/
   rss: https://medium.com/feed/@wnsqjadl
+- name: 이준석
+  blog: https://sudojslee.github.io/
+  rss: https://sudojslee.github.io/index.xml
+  description: Backend
 - name: 이준용
   blog: https://brunch.co.kr/@junyong
   rss: https://brunch.co.kr/rss/@@QFh
