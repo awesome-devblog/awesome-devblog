@@ -4433,6 +4433,222 @@
   "conference": "DEVIEW",
   "year": 2021
 },{
+  "title": "No measure, No SRE: 장애율 0%대 달성 후 새로운 SRE KPI 개발기",
+  "author": "이권재, 박정률, 이미현",
+  "slide": "https://deview.kr/data/deview/session/attach/3_No measure, No SRE 장애율 0%대 달성 후 새로운 SRE KPI 개발기.pdf",
+  "video": "https://tv.naver.com/v/23650595",
+  "description": "네이버 검색 서비스에 SRE(Site Reliability Engineering)가 도입된지 5년이 되었습니다. 검색 서비스에 SRE를 도입하고, 문화를 만들기 위해 그동안 노력해왔습니다. 그리고 이제는 새로운 길을 걸어가기 위한 준비를 시작합니다. 그 과정의 일환으로, 새로운 KPI를 개발한 이야기를 공유합니다. 새로운 KPI인 MTTM(Mean Time To Mitigation)에 대해 소개해드리고 새로운 KPI가 왜 필요했는지, 그래서 어떤 기준으로 만들었는지 발표를 통해 확인하실 수 있습니다.",
+  "conference": "DEVIEW",
+  "year": 2021
+},{
+  "title": "SRE, 미디어 서비스를 단단하게 (서비스를 단단하게 만드는 기술과 문화)",
+  "author": "이정훈, 김준호",
+  "slide": "https://deview.kr/data/deview/session/attach/4_SRE, 미디어 서비스를 단단하게 (서비스를 단단하게 만드는 기술과 문화).pdf",
+  "video": "https://tv.naver.com/v/23652650",
+  "description": "이 세션에서는 서비스 품질을 위한 SRE / DevOps에 대한 기본적인 설명을 시작으로 담당하는 서비스 내에 실제로 적용해가며 쌓아온 경험을 바탕으로 여러 노하우와 팁을 공유합니다. 잘 형성된 개발 문화가 서비스 품질 및 개발자의 삶에 어떠한 영향을 미칠 수 있는지 살펴보며 네이버에서 리모트 환경 하에서 실제로 서비스를 개발 / 운영하는 방식에 대해 공유를 드립니다. 다양한 사용자 환경의 오류를 어떻게 감지하고 대처할지, 또한 서비스 모니터링은 어떤 식으로 진행을 하고, 다양한 이벤트로 서비스의 트래픽 급증 시에 내부적으로 어떻게 대응하는지 등 서비스 운영 관점에서 도움이 될만한 정보를 제공합니다. 또한 SRE / DevOps 도구의 소개가 아닌 기본적으로 서비스 품질을 위해 서비스 플랫폼 설계 구조 / 모듈화 개념과 이를 지원하기 위한 여러 DevOps 도입 관점에서 최근의 경험을 기반으로 알려드립니다.",
+  "conference": "DEVIEW",
+  "year": 2021
+},{
+  "title": "WhiteBox 모니터링 SRE 플랫폼 COSMOS",
+  "author": "김성일",
+  "slide": "https://deview.kr/data/deview/session/attach/5_WhiteBox 모니터링 SRE 플랫폼 COSMOS.pdf",
+  "video": "https://tv.naver.com/v/23649848",
+  "description": "이 세션에서는 네이버 Place 검색 데이터 파이프라인 구축 및 서비스를 하면서 얻은 경험을 시스템화 해서 구현한 내용을 공유합니다. 서비스를 개발할 때 방어 코드 작성 및 로깅 시스템을 만들 때 어려움을 느끼는 개발자들에게 저희의 노하우를 알려드리고자 합니다. 또한 서비스를 운영하는 운영자의 입장에서, 장애가 발생하기 전 데이터 기반의 장애 예측 시스템을 어떻게 구성하면 좋은지, 장애 발생시 효율적으로 대응하기 위한 SRE 시스템 구성 방식에 대해 소개합니다.",
+  "conference": "DEVIEW",
+  "year": 2021
+},{
+  "title": "앞으로 10년을 책임 질, 네이버 검색 모니터링 시스템 구축기",
+  "author": "강민구, 이선규, 정솔",
+  "slide": "https://deview.kr/data/deview/session/attach/6_앞으로 10년을 책임 질, 네이버 검색 모니터링 시스템 구축기.pdf",
+  "video": "https://tv.naver.com/v/23651013",
+  "description": "네이버 검색의 모니터링 시스템에서 시계열 데이터를 다루는 방법에 대해 소개합니다. 네이버의 검색 서비스 규모가 커지면서 수집 및 저장 해야하는 데이터도 함께 증가했습니다. 기존 구조에 한계를 느껴 대용량 시계열 데이터에 대응하기 위해 10년 이상 된 모니터링 시스템을 개선하고 RDB → 시계열 DB 전환 경험을 공유합니다. 기존 RDB 구조에서 가지고 있었던 한계점과 시계열 DB를 도입하게된 과정, 시계열 DB가 도입되며 개선된 구조와 얻게된 이점, 그리고 어떻게 활용했는지에 대해 공유드리려고 합니다.",
+  "conference": "DEVIEW",
+  "year": 2021
+},{
+  "title": "AIDA Project : 전사 통합 데이터 거버넌스와 권한 관리",
+  "author": "최철규",
+  "slide": "https://deview.kr/data/deview/session/attach/1_AIDA Project  전사 통합 데이터 거버넌스와 권한 관리.pdf",
+  "video": "https://tv.naver.com/v/23651486",
+  "description": "현대의 많은 비지니스가 데이터를 기반으로 움직이고 있습니다. 동시에, 데이터를 사용하는 양과 범위는 끝없이 확대되고 있습니다. 이와 더불어서 데이터 관련된 규제와 법률은 더욱 강화되고 복잡해지고 있습니다. 데이터의 사용 회수와 용도도 증가함과 동시에 데이터와 관련된 규제 또한 대폭 증가하는 이런 상황은 데이터 사용자로 하여금 데이터의 사용성을 떨어뜨리고, Infosec 담당자는 업무는 과중하게 만들고 있습니다. 본 발표에서는 현재의 상황에서 데이터를 안전하고 합법적으로 사용하면서도 사용자의 활용성을 높이는 Data Platform의 구현내용을 공유합니다.",
+  "conference": "DEVIEW",
+  "year": 2021
+},{
+  "title": "CQuery : 쉽고 빠른 SQL 기반 분석 솔루션",
+  "author": "정의근, 신선우",
+  "slide": "https://deview.kr/data/deview/session/attach/2_CQuery  쉽고 빠른 SQL 기반 분석 솔루션.pdf",
+  "video": "https://tv.naver.com/v/23649394",
+  "description": "본 세션은 대용량의 네이버 로그를 잘 활용할 수 있도록, Hive와 Trino를 활용한 SQL 조회 시스템인 CQuery를 만든 과정에 대해 공유하고자 합니다. CQuery 엔진을 적용하면서 발생된 문제와 해결책, 사용자 편의를 위해 제공하게 된 CQuery 기능에 대해서 소개합니다.",
+  "conference": "DEVIEW",
+  "year": 2021
+},{
+  "title": "Riiid Tutor의 데이터를 흐르게 하는 기술",
+  "author": "한성민, 최정우",
+  "slide": "https://deview.kr/data/deview/session/attach/3_Riiid Tutor의 데이터를 흐르게 하는 기술.pdf",
+  "video": "https://tv.naver.com/v/23649382",
+  "description": "뤼이드에서는 AI 서비스 운영에 있어서 데이터 파이프라인을 핵심적인 요소라고 생각하고 있고, 본 세션에서는 이러한 데이터 파이프라인을 구축하여 실 서비스에 적용한 경험을 공유하고자 합니다. AIEd 분야에서 쓰이는 데이터의 종류에 대한 소개를 시작으로, 데이터 도구, 파이프라인을 구성하는 아키텍처, 효율적인 모델 학습을 위한 데이터 수집/가공의 고민, 그리고 도입 과정에서 발생했던 문제들을 어떻게 해결했는지에 대해 다룹니다.",
+  "conference": "DEVIEW",
+  "year": 2021
+},{
+  "title": "글로벌 데이터 주권 강화 시대에 맞는 DATA CUBE 개발 ( GDPR 에 맞서는 개발 )",
+  "author": "김영진, 이모원",
+  "slide": "https://deview.kr/data/deview/session/attach/4_글로벌 데이터 주권 강화 시대에 맞는 DATA CUBE 개발 ( GDPR 에 맞서는 개발 ).pdf",
+  "video": "https://tv.naver.com/v/23649364",
+  "description": "",
+  "conference": "DEVIEW",
+  "year": 2021
+},{
+  "title": "네이버서치ABT: 신뢰할 수 있는 A/B 테스트 플랫폼 개발 및 정착기",
+  "author": "김진영",
+  "slide": "https://deview.kr/data/deview/session/attach/5_네이버서치ABT.pdf",
+  "video": "https://tv.naver.com/v/23651289",
+  "description": "AB테스트는 온라인 서비스의 평가 및 개선을 위해 널리 사용되지만 대용량 데이터를 다루는 큰 조직에서 신뢰성있는 AB테스트 결과를 제공하는 플랫폼을 만드는 일은 여러 난관이 따릅니다. 본 발표에서는 네이버의 검색 및 추천시스템 전체를 대상으로 한 AB테스트 플랫폼을 구축하고, 결과의 신뢰성을 검증하고, 이를 실제 여러 파트너 팀과 협업을 거쳐 적용한 사례를 발표합니다.",
+  "conference": "DEVIEW",
+  "year": 2021
+},{
+  "title": "네이버 최대의 데이터 저장소 운영기 (HBase Locality기반 운영기)",
+  "author": "정한룡",
+  "slide": "https://deview.kr/data/deview/session/attach/6_네이버 최대의 데이터 저장소 운영기 (HBase Locality기반 운영기).pdf",
+  "video": "https://tv.naver.com/v/23651480",
+  "description": "본 세션에서는 HBase기반 데이터 저장소 운영 경험을 공유합니다. 네이버 데이터 저장소는 HBase기반으로 HBase Locality를 높게 유지하면서 운영을 하고 있습니다. HBase Locality에 대하여 알아보고 어떠한 방식으로 성능상 이점을 가지고 올 수 있는지 내부 구조를 살펴봅니다. (HDFS Short-circuit Local Reads) HBase Locality를 높게 유지하면서 운영하는 방법과 HBase Locality를 낮추는 디스크 장애를 처리하면서 겪었던 문제와 해결 방법을 공유합니다. 마지막으로 데이터 저장소에서 HDFS Short-circuit Local Reads를 사용하였을 때 효과를 확인합니다.",
+  "conference": "DEVIEW",
+  "year": 2021
+},{
+  "title": "데이터 드리븐으로 서비스 운영 100% 자동화하기 : 로깅 데이터와 카프카를 활용한 만능 이벤트 프로세싱 아키텍처",
+  "author": "이재은",
+  "slide": "https://deview.kr/data/deview/session/attach/7_데이터드리븐으로서비스운영100%자동화하기.pdf",
+  "video": "https://tv.naver.com/v/23650703",
+  "description": "본 세션에서는 데브시스터즈에서 서비스 중인 쿠키런:킹덤에서 사용된 준실시간 보상처리 자동화 시스템의 개발 과정과 구현 경험에 대해 이야기하고자 합니다.",
+  "conference": "DEVIEW",
+  "year": 2021
+},{
+  "title": "수십억 쇼핑 상품을 클러스터링 하는 방법",
+  "author": "최승권",
+  "slide": "https://deview.kr/data/deview/session/attach/8_수십억 쇼핑 상품을 클러스터링 하는 방법.pdf",
+  "video": "https://tv.naver.com/v/23652701",
+  "description": "네이버에서는 쇼핑 상품의 정확한 정보를 분석하고 매칭하기 위해 데이터를 분석하는 다양한 방법을 연구해 왔습니다. 특히 쇼핑 상품 클러스터링은 그 규모와 데이터의 비정형적인 특징으로 인해 고도의 AI 기술과 시스템 엔지니어링 노하우가 필요합니다. 또한 이미지와 텍스트로 구성된 상품 데이터의 특성에 맞춰 Multimodal 분석이 필수입니다. 이 세션에서는 AI 기술을 사용하여 수십억 상품의 정보를 분석하고 클러스터링하는 방법에 관한 내용을 담고 있습니다. 그리고 저희가 고민하고 있는 도전 과제와 앞으로의 계획에 대해 이야기 해보려 합니다.",
+  "conference": "DEVIEW",
+  "year": 2021
+},{
+  "title": "하루 n억개 웹툰 로그를 처리하는 Realtime Application 만들기",
+  "author": "김시온",
+  "slide": "https://deview.kr/data/deview/session/attach/9_하루 n억개 웹툰 로그를 처리하는 Realtime Application 만들기.pdf",
+  "video": "https://tv.naver.com/v/23651502",
+  "description": "Kafka Streams를 활용하여 실시간으로 데이터를 처리해 본 경험을 공유 드리려 합니다. Streams App의 개발부터, 확장, 그리고 실제 운영하면서 경험했던 내용, Trouble Shooting을 공유드리려 합니다. kafka-streams library의 KStreams로 Raw log를 처리했던 내용을 중심으로 말씀 드립니다. Kafka의 Topic, Partitions과 같은 개념을 알고 계시거나, 실제 Kafka를 사용해보셨다면 발표 내용이 더 잘 이해되실 것 같습니다.",
+  "conference": "DEVIEW",
+  "year": 2021
+},{
+  "title": "10만 컨테이너 양병론",
+  "author": "안혁준",
+  "slide": "https://deview.kr/data/deview/session/attach/1_10만 컨테이너 양병론.pdf",
+  "video": "https://tv.naver.com/v/23651158",
+  "description": "컨테이너는 컴퓨팅 리소스를 제공 하는데 있어 핵심 기술 입니다. 이제 네이버에서도 컨테이너 기술은 없어서는 안될 기술이 되어가고 있습니다. 네이버에서 컨테이너는 점점 더 많이 사용되고 있으며 그에 발맞춰 컨테이너 플랫폼도 지속적으로 성장하고 있습니다. 저희는 네이버의 컨테이너 기술을 책임지는 부서로서 이런 성장 과정에서 다양한 어려움을 겪었고 이를 극복하기 위해 많은 노력을 기울였습니다. 현재 네이버는 단순한 k8s 적용하는 단계에서 더 나아가 네이버의 컴퓨팅 환경 자체를 클라우드 네이티브하게 확장하는 시점에 서 있습니다. 이 세션에서는 우리가 네이버의 컨테이너 기술 발전을 위해 어떤 노력을 했는지와 네이버의 클라우드 네이티브 환경을 위해 무엇을 진행하고 있는지 공유하려고 합니다.",
+  "conference": "DEVIEW",
+  "year": 2021
+},{
+  "title": "Cloud Monitoring Deep Dive",
+  "author": "이승하",
+  "slide": "https://deview.kr/data/deview/session/attach/2_Cloud Monitoring Deep Dive.pdf",
+  "video": "https://tv.naver.com/v/23649897",
+  "description": "본 세션에서는 Multi-tenancy k8s Cluster 환경의 Cloud에서 다양한 컴포넌트들에 대한 모니터링을 어떻게 제공했는지 함께 살펴보려고 합니다. 먼저 모니터링에 대한 이해를 위해, 모니터링에 필요한 요소들을 정의해보고 어떤 부분을 수집하고 가시화했는지 소개드립니다. 그리고 사용자가 늘어나면서, 모니터링에 대한 부하가 점점 누적되어 다양한 문제에 직면하게 된 부분과 이를 어떻게 해결해서, 현재는 어떤 형상의 모니터링을 제공하고 있는지에 대한 내용과 적용 과정을 공유드립니다.",
+  "conference": "DEVIEW",
+  "year": 2021
+},{
+  "title": "Cloud Native Storage for Kubernetes : Kubernetes Stateful Application데이터 저장 방법",
+  "author": "유장선",
+  "slide": "https://deview.kr/data/deview/session/attach/3_Cloud Native Storage for Kubernetes.pdf",
+  "video": "https://tv.naver.com/v/23652453",
+  "description": "Kubernetes확산은 Stateless Container 에서 Stateful Container 범위가 넓어지고 있습니다. Stateful Container를 위해서 데이터를 \"빠르고, 안전하면서 비용 효율적으로\" 저장해야 합니다. 이를 위해 네이버에서는 Ceph 과 OpenStack, 그리고 자체 개발한 Plugin을 통해 Kubernetes와 연동하여 사용중입니다. 네이버에서 컨테이너 데이터를 어떻게 빠르고, 안전하고, 비용 효율적으로 저장하는지와 이를 어떻게 효율적으로 모니터링하는지를 소개합니다.",
+  "conference": "DEVIEW",
+  "year": 2021
+},{
+  "title": "FPGA를 이용한 빠르고 지능적인 Visual Cloud Computing",
+  "author": "김동규",
+  "slide": "https://deview.kr/data/deview/session/attach/4_FPGA를 이용한 빠르고 지능적인 Visual Cloud Computing.pdf",
+  "video": "https://tv.naver.com/v/23649457",
+  "description": "현재 인터넷 상에 유통되는 대부분의 영상데이터들은 클라우드 서버 혹은 On-premise 서버의 CPU를 사용해서 처리가 됩니다. 하지만 영상처리에는 많은 연산량이 필요해서 시간, 비용등의 문제가 발생하고 있습니다. 본 세션에서는 영상처리 task들을 FPGA를 이용해서 가속하는 방법과 저희가 구현한 경험을 공유하고자 합니다. 인공지능을 사용한 대표적인 application으로 SR(Super-Resolution)이 있는데, 저희는 proprietary SR network algorithm을 개발하고, 이 network을 HLS tool 등을 이용해서 RTL 설계를 하였습니다. 이 설계된 network을 FPGA에 porting해서 동작을 시킵니다. 이렇게 FPGA로 porting 된 network은 CPU/GPU로 처리하는 것보다 월등히 빠른 처리능력을 보여줍니다. 이런 예들을 통해 FPGA가 영상처리에 어떻게 효과적으로 사용될 수 있고, 클라우드서버에서도 사용될 수 있는지 보여드리고자 합니다.",
+  "conference": "DEVIEW",
+  "year": 2021
+},{
+  "title": "네이버 클라우드 플랫폼 Terraform Provider 개발기",
+  "author": "김상규",
+  "slide": "https://deview.kr/data/deview/session/attach/5_네이버 클라우드 플랫폼 Terraform Provider 개발기.pdf",
+  "video": "https://tv.naver.com/v/23651001",
+  "description": "본 세션에서는 네이버 클라우드 플랫폼의 Terraform provider를 개발한 경험을 가지고, VPC 예제를 통해 Terraform provider를 만드는 방법을 간단하게 알려드리고, 저희가 겪었던 사례와 팁 들을 공유 해 드리고자 합니다.",
+  "conference": "DEVIEW",
+  "year": 2021
+},{
+  "title": "네이버는 대규모 메모리 클러스터를 어떻게 효율적으로 관리하나",
+  "author": "이기열",
+  "slide": "https://deview.kr/data/deview/session/attach/6_네이버는 대규모 메모리 클러스터를 어떻게 효율적으로 관리하나.pdf",
+  "video": "https://tv.naver.com/v/23651564",
+  "description": "메모리 캐쉬, 저장소는 부하가 크고 기대되는 요구사항이 높아 안정적으로 운영하기에 여러 어려운 점이 있습니다. 네이버에서는 memcached, redis cluster 를 대규모로 운영하고 있고 이러한 어려운 점들과 고려해야 할 점들을 개선하기 위해 계속 노력하고 있습니다. 본 발표에서는 먼저, memcached 와 redis cluster 의 클러스터링 관련 동작에 대해 간단히 설명하고, 진행했던 개선 노력들과 효과, 그리고 앞으로의 계획에 대해 공유하고자 합니다. 분산 메모리 클러스터와 가상화에 대한 내용이지만, 관련 경험이 없어도 이해할 수 있도록 구성하였습니다.",
+  "conference": "DEVIEW",
+  "year": 2021
+},{
+  "title": "매니지드 쿠버네티스 서비스 딜리버리를 위한 기술",
+  "author": "최규범",
+  "slide": "https://deview.kr/data/deview/session/attach/7_매니지드 쿠버네티스 서비스 딜리버리를 위한 기술.pdf",
+  "video": "https://tv.naver.com/v/23651477",
+  "description": "본 세션에서는 네이버 클라우드 플랫폼에서 서비스 중인 Kubernetes Service에서 사용하고 있는 클러스터 관리에 사용한 기술과 경험을 공유하려합니다.",
+  "conference": "DEVIEW",
+  "year": 2021
+},{
+  "title": "물리서버가 좁아진다면, 클라우드로 가즈아~",
+  "author": "김동국",
+  "slide": "https://deview.kr/data/deview/session/attach/8_물리서버가 좁아진다면, 클라우드로 가즈아.pdf",
+  "video": "https://tv.naver.com/v/23649818",
+  "description": "Neo4j Graph DB를 이용하는 플랫폼을 서빙 중인 물리장비에서 Kubernetes 시스템으로 이전하면서 겪은 일들을 공유합니다. 점점 규모가 커지는 서비스에 비해, 물리서버는 규모를 키우는게 쉽지 않습니다. 장기적으로 조금씩 커져나갈 플랫폼을 위해 좀더 유연한 Cluster 환경으로 이전하는 과정을 공유하고, 장단점, 겪은 이슈들과 해결법, 테스트 결과 등을 공유합니다.",
+  "conference": "DEVIEW",
+  "year": 2021
+},{
+  "title": "클라우드 Open AI API를 활용한 슬기로운 Toy Playground 개발하기",
+  "author": "장창환",
+  "slide": "https://deview.kr/data/deview/session/attach/9_클라우드 Open AI API를 활용한 슬기로운 Toy Playground 개발하기.pdf",
+  "video": "https://tv.naver.com/v/23650725",
+  "description": "NAVER Cloud Platform AI API Service 활용하여 쉽고 빠르게 나만의 Toy Playground 서비스를 구현하는 방법을 소개합니다. NAVER Cloud Platform에서는 CLOVA, papago 등 네이버의 다양한 인공지능 서비스를 API 형태로 제공합니다. NAVER Cloud Platform API Gateway를 통해 데이터를 전송하고, 분석된 정보를 사용하여 다양한 서비스로 구현하고 융합하는 방법을 알아봅니다. 총 4개의 실행 가능한 Node.js App 실습 코드를 제공하여 직접 구현하고 실행할 수 있는 방법을 제공합니다. 개발자가 클라우드를 활용하여 서비스에 적용해 볼 수 있는 아이디어를 제공하고, 실습 예제를 통해 담당하고 있는 서비스를 클라우드 서비스로 확장하는 방법을 제공합니다.",
+  "conference": "DEVIEW",
+  "year": 2021
+},{
+  "title": "NAVER 암호화 트래픽을 책임지는 HTTPS 플랫폼 기술",
+  "author": "공진호, 김해랑",
+  "slide": "https://deview.kr/data/deview/session/attach/1_NAVER 암호화 트래픽을 책임지는 HTTPS 플랫폼 기술.pdf",
+  "video": "https://tv.naver.com/v/23651836",
+  "description": "",
+  "conference": "DEVIEW",
+  "year": 2021
+},{
+  "title": "네이버 스토리지 플랫폼의 진화, Nubes",
+  "author": "문상철",
+  "slide": "https://deview.kr/data/deview/session/attach/네이버_스토리지_플랫폼의_진화_Nubes-v5.pdf",
+  "video": "https://tv.naver.com/v/23649905",
+  "description": "MYBOX, 메일, 동영상, 이미지, 오디오, 지도 등의 거의 모든 네이버 서비스들이 생산/소비하는 데이터의 양이 얼마나 될지 생각해보신 적 있으세요? 그 많은 데이터들의 저장 및 관리 방법이 궁금하지 않으세요? 네이버의 오브젝트 스토리지, Nubes 대해 소개합니다.",
+  "conference": "DEVIEW",
+  "year": 2021
+},{
+  "title": "당신의 대문을 책임집니다. Istio/Envoy로 Multi-IDC L7 로드밸런서 만들기",
+  "author": "김동경",
+  "slide": "https://deview.kr/data/deview/session/attach/3_당신의 대문을 책임집니다.pdf",
+  "video": "https://tv.naver.com/v/23651554",
+  "description": "Cloud-native 환경에서 IDC 레벨의 장애에도 무너지지 않는 시스템을 만들기 위해서는 Multi IDC에 구성된 Multi Kubernetes 클러스터가 필요하며, 이러한 환경에서는 여러 Kubernetes 클러스터에 걸쳐 배포된 서비스를 위한 로드밸런서가 필요합니다. Istio/Envoy는 Service mesh를 위해 만들어진 솔루션으로, 동적으로 변경 가능한, 다양한 L7 기능들을 제공합니다. 이 세션에서는 저희가 Istio/Envoy를 활용하여 Multi IDC 환경을 위한 L7 로드밸런서를 만들면서 겪은 경험 및 노하우 등을 공유합니다. 기본적으로 Istio/Envoy와 Kubernetes에 대해 어느정도 지식이 있는 분들을 가정합니다.",
+  "conference": "DEVIEW",
+  "year": 2021
+},{
+  "title": "막힌 데이터의 혈을 뚫자! Pay 플랫폼 CDC 적용 사례",
+  "author": "이혜정, 이정윤, 이동윤, 한우람",
+  "slide": "https://deview.kr/data/deview/session/attach/4_막힌 데이터의 혈을 뚫자! Pay 플랫폼 CDC 적용 사례.pdf",
+  "video": "https://tv.naver.com/v/23651043",
+  "description": "",
+  "conference": "DEVIEW",
+  "year": 2021
+},{
+  "title": "쿠버네티스는 실리콘도 춤추게 한다, 퓨리오사AI의 ML인프라 dogfooding",
+  "author": "이병찬",
+  "slide": "https://deview.kr/data/deview/session/attach/5_쿠버네티스는 실리콘도 춤추게 한다.pdf",
+  "video": "https://tv.naver.com/v/23651826",
+  "description": "이 세션에서는 ML Lifecycle에서 활용할 수 있는 GPU 또는 NPU(AI 가속칩)를 쿠버네티스 도입을 통해 효과적으로 사용할 수 있는 방법을 설명합니다. FuriosaAI에서는 쿠버네티스를 어떻게 활용하여 제한된 자원인 GPU 또는 NPU와 같은 하드웨어 장치를 사람의 개입을 최소한으로 줄이고 시스템의 제어를 통해 분배, 회수하는 작업을 수행하는지 소개합니다. Jupyter Lab과 같은 개발환경이나 CI/CD, MLOps 등의 도구와 함께 사용할 때 생산성이 향상됨과 동시에 전체적인 비용도 절감할 수 있는 방법에 대해 설명합니다.",
+  "conference": "DEVIEW",
+  "year": 2021
+},{
   "title": "오픈스택으로 바라보는 AWS와 구글 클라우드 플랫폼",
   "author": "이태영",
   "video": "https://www.youtube.com/watch?v=hKVIxP-hKbc",
