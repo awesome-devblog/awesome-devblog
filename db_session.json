@@ -4649,6 +4649,238 @@
   "conference": "DEVIEW",
   "year": 2021
 },{
+  "title": "네이버 라이브 송출 기술의 첨병 PRISM Live Studio",
+  "author": "송지철",
+  "slide": "https://deview.kr/data/deview/session/attach/1_네이버 라이브 송출 기술의 첨병 PRISM Live Studio.pdf",
+  "video": "https://tv.naver.com/v/23650047",
+  "description": "네이버가 라이브 송출 도메인의 기술과 기능을 발굴하고 확보하며 개선해 나가는 전략에 대해 공유합니다.",
+  "conference": "DEVIEW",
+  "year": 2021
+},{
+  "title": "라이브 커머스와 COVID-19, 급변하는 환경에서의 네이버 모바일 라이브기술 대응",
+  "author": "김정명, 변우식",
+  "slide": "https://deview.kr/data/deview/session/attach/2_라이브 커머스와 COVID-19, 급변하는 환경에서의 네이버 모바일 라이브기술 대응.pdf",
+  "video": "https://tv.naver.com/v/23651925",
+  "description": "네이버의 모바일 라이브 스트리밍은 V LIVE와 같은 엔터테인먼트 라이브 비즈니스를 넘어, BAND와 네이버 쇼핑 라이브에 이르기까지. 이제 분야를 특정하지 않고 다양한 서비스와 결합하여, 자연스럽게 서비스 성공을 위한 필수적인 기술과 기능으로 발전하였습니다. 본 세션에서는 네이버 라이브 스트리밍 서비스의 생산과 소비를 책임지는 송출과 재생 기술에 대해 소개합니다. 송출에서는 글로벌, 저품질 환경에서도 안정적으로 라이브를 송출할 수 있는 네트워크 기술과, 모든 것이 원격에서 이루어질 미래에 대응하기 위한 양방향 기술에 대한 고민, 모바일 라이브의 한계를 극복하고, 전문성 있는 방송의 영역을 넘볼 수 있게 하는 영상 기능의 구현과 그 노력에 대해 이야기합니다. 재생에서는 초대량의 트래픽이 발생하는 올림픽과 같은 전 지구적 이벤트를 성공적으로 대응한 경험을 시작으로, 쇼핑라이브의 차별화된 시청 경험을 가능하게 할 초저지연 재생 기술, 타임머신 기능과 영상 탐색에 따른 썸네일 최적화 노하우를 공유합니다. 그리고 미래 라이브 스트리밍에 대비한 계획을 함께 소개합니다.",
+  "conference": "DEVIEW",
+  "year": 2021
+},{
+  "title": "개인정보 보호를 위한 동형암호 기술과 활용사례",
+  "author": "최현민",
+  "slide": "https://deview.kr/data/deview/session/attach/1_개인정보 보호를 위한 동형암호 기술과 활용사례.pdf",
+  "video": "https://tv.naver.com/v/23652547",
+  "description": "오늘날 빅데이터와 머신러닝 기술의 발전과 개인정보를 활용할 수 있는 법적 제도가 마련 됨으로써 개인정보를 활용한 다양한 서비스들이 출시되고 있습니다. 그만큼 개인정보의 유출의 위험성도 커지고 있습니다. 개인정보를 사용하기 위해 비식별화 기술들을 사용할 수 있지만 기존의 비식별화 방식들은 한계점들이 있습니다. 이번 강연에서는 차세대 암호 기술로 알려진 동형암호를 활용하여 개인의 프라이버시를 보호하고, 네이버 클라우드에서 최근 출시한 동형암호 서비스인 HEaaN Homomorphic Analytics의 소개합니다. 마지막으로, 동형암호를 활용한 해외사례와 국내 사례를 살펴봄으로써 동형암호를 활용한 다양한 서비스를 구상하는데 인사이트를 제공합니다.",
+  "conference": "DEVIEW",
+  "year": 2021
+},{
+  "title": "보안을 생각하는 개발자의 필수품 - Toothless",
+  "author": "정연희",
+  "slide": "https://deview.kr/data/deview/session/attach/2_보안을 생각하는 개발자의 필수품 - Toothless.pdf",
+  "video": "https://tv.naver.com/v/23650067",
+  "description": "서비스를 개발하고 배포하는 기존의 DevOps에서 자동으로 보안 점검을 수행하는 DevSecOps 시스템(Toothless)을 소개합니다. DevSecOps가 무엇이고, 현재의 개발 Flow에 DevSecOps를 적용했을 때 이점, 그리고 그것을 구현한 Toothless 시스템에 대해 소개합니다.",
+  "conference": "DEVIEW",
+  "year": 2021
+},{
+  "title": "웨일 피싱과 전쟁 중",
+  "author": "이민수, 최병운",
+  "slide": "https://deview.kr/data/deview/session/attach/3_웨일 피싱과 전쟁 중.pdf",
+  "video": "https://tv.naver.com/v/23651653",
+  "description": "이 세션에서는 네이버 회원들을 괴롭히는 피싱에 대해서 알아보고, 회원들을 피싱으로부터 보호하기 위한 웨일 브라우저의 노력과 그 결과를 공유합니다. 피싱 정보 수집 및 탐지 자동화를 위해 연구를 진행했던 다양한 기술(URL 기반 탐지, 웹 페이지 text 기반 탐지, 이미지 기반 탐지)들에 대해서 공유합니다. 또한 이러한 기술이 웨일 브라우저에 어떻게 적용될 수 있는지에 대해서 설명합니다. 피싱의 진화에 따라 웨일 팀과 Security 팀에서 대응하고 있는 방식에 대해서 소개하고, 우리가 네이버의 데이터를 피싱 대응에 어떻게 활용하는지에 대해서 소개합니다.",
+  "conference": "DEVIEW",
+  "year": 2021
+},{
+  "title": "Inside React (동시성을 구현하는 기술)",
+  "author": "심흥운",
+  "slide": "https://deview.kr/data/deview/session/attach/1_Inside React (동시성을 구현하는 기술).pdf",
+  "video": "https://tv.naver.com/v/23652451",
+  "description": "Facebook의 React Team은 지난 6월, React 18 alpha 버전을 발표하고 정식 버전의 릴리즈를 준비하고 있습니다. 본 세션에서는 앞으로 공개될 React 18을 준비하며 React의 방향성을 함께 살펴보고, 핵심 특징인 Concurrent Rendering과 그것을 구현하고 있는 기반 기술에 대해 연구한 내용을 공유하고자 합니다.",
+  "conference": "DEVIEW",
+  "year": 2021
+},{
+  "title": "Next.js, Apollo와 함께 리액트 개발의 Next Level로 가자!",
+  "author": "이건",
+  "slide": "https://deview.kr/data/deview/session/attach/2_Next.js, Apollo와 함께 리액트 개발의 Next Level로 가자.pdf",
+  "video": "https://tv.naver.com/v/23652620",
+  "description": "프리미엄 콘텐츠의 콘텐츠 창작자를 위한 관리자 페이지인 프리미엄 콘텐츠 스튜디오에 Next.js와 Apollo Client를 도입하면서 고민했던 경험을 공유합니다. 이전 기술 스택과 Next.js와 Apollo Client의 비교를 통해 특징을 파악하고, 이전 기술에 비해 어떤 점들이 나아졌는 지 알아봅니다. 그리고 프로젝트에 Next.js와 Apollo Client를 적용할 경우 겪을만한 문제 상황을 제시하고 이에 대한 해결책을 공유합니다.",
+  "conference": "DEVIEW",
+  "year": 2021
+},{
+  "title": "React, Vue, Svelte… 변화하는 프레임워크 속에서 컴포넌트 발전하기",
+  "author": "전용우",
+  "slide": "https://deview.kr/data/deview/session/attach/3_React, Vue, Svelte… 변화하는 프레임워크 속에서 컴포넌트 발전하기.pdf",
+  "video": "https://tv.naver.com/v/23650554",
+  "description": "이 시간에는 다양한 프레임워크에서 동작하는 Cross Framework Component을 발표한 후 2년간 운영하면서 겪었던 다양한 고민들과 경험들을 공유합니다. 나의 컴포넌트를 다양한 프레임워크에서 동작하기 원하는 개발자들에게 도움이 될 것이라고 생각합니다.",
+  "conference": "DEVIEW",
+  "year": 2021
+},{
+  "title": "The state of JavaScript & FE, 2021 Edition (2021년 FE 동향, 한방에 끝내기)",
+  "author": "박재성",
+  "slide": "https://deview.kr/data/deview/session/attach/4_The state of JavaScript & FE, 2021 Edition (2021년 FE 동향, 한방에 끝내기).pdf",
+  "video": "https://tv.naver.com/v/23652447",
+  "description": "JavaScript와 Front-end 생태계는 해마다 큰 폭으로, 그리고 매우 빠른 속도로 변화가 이뤄지고 있습니다. 2021년 생태계는 어느 곳에 집중하고, 어떤 방향으로 나아가고 있을까요? 비 JavaScript 언어를 활용한 JavaScript 도구들의 확산, 개발 환경에서의 unbundle 방식접근, wasm과 PWA의 미래는 무엇일지, 2021년 한 해의 변화들을 직접 확인해 보시기 바랍니다.",
+  "conference": "DEVIEW",
+  "year": 2021
+},{
+  "title": "WhateverBuilder - HomeBuilder로 만드는 웹의 모든것",
+  "author": "현성식",
+  "slide": "https://deview.kr/data/deview/session/attach/5_WhateverBuilder - HomeBuilder로 만드는 웹의 모든것.pdf",
+  "video": "https://tv.naver.com/v/23649508",
+  "description": "본 세션에서는 SmartEditor의 기술을 기반으로 만든 사이트 제작 플랫폼 HomeBuilder에 대해 소개하고 기술 노하우와 경험들을 애기 합니다. 연결, 편집, 확장이라는 문제에 대해 FrontEnd와 BackEnd, 그리고 설계구조 에서 어떤 고민 들을 했고 어떻게 문제를 해결 했는지 공유 드리고, 홈빌더가 추구하는 미래인 WhateverBuilder 에 대해 소개드리고 AI, OpenAPI, SaaS 등을 통한 No-Code 플랫폼의 미래에 대해 이야기 합니다.",
+  "conference": "DEVIEW",
+  "year": 2021
+},{
+  "title": "그치만...이렇게 하지 않으면 넷플릭스가 관심을 주지 않는걸 (시리즈온 TV App 개발기)",
+  "author": "박제익, 배선우",
+  "slide": "",
+  "video": "https://tv.naver.com/v/23649784",
+  "description": "올해 2월, 네이버 웹툰의 OTT 서비스인 시리즈온의 tv app이 첫 배포되었습니다. 이러한 시리즈온 tv app 개발 경험을 여러분에게 공유하려고 합니다. 저사양 tv 에서 많은 데이터 기반의 View에서 부드러운 에니메이션을 만들기 위해서 어떠한 방법을 사용했는지, TV 에서는 모바일이나 pc와는 다른 사용자 접근성을 제공해야하는데, 저희가 이 부분을 어떠한 방법으로 극복했는지 이야기 해보려고 합니다.",
+  "conference": "DEVIEW",
+  "year": 2021
+},{
+  "title": "네이버 검색의 Server Driven UI - LAPIN",
+  "author": "김정기, 김명진",
+  "slide": "https://deview.kr/data/deview/session/attach/7_네이버 검색의 Server Driven UI - LAPIN.pdf",
+  "video": "https://tv.naver.com/v/23652077",
+  "description": "본 세션에서는 기존 FE 업무 프로세스를 개선하여 빠르고 효율적으로 기능을 제공하기 위해 실제 경험을 바탕으로 알게된 노하우와 팁을 설명합니다. 라이브러리 재 사용성을 넘어 데이터 기반으로 생성된 화면과 UI 기능을 한번에 제공하여 매우 빠르고 효과적으로 서비스를 제공합니다. 사내 검색 클러스터 기반으로 오토스케일과 무중단 배포 및 장애를 효율적으로 진단하고 대응하는 사례와 시스템 구축을 위해 적용된 SDUI/MSA/SSR 개념 소개와 실무에서 도움이 되는 다양한 팁을 소개합니다.",
+  "conference": "DEVIEW",
+  "year": 2021
+},{
+  "title": "데이터 시각화의 꽃 APM FE 개발 이야기",
+  "author": "김동빈, 김도윤",
+  "slide": "https://deview.kr/data/deview/session/attach/8_데이터 시각화의 꽃 APM FE 개발 이야기.pdf",
+  "video": "https://tv.naver.com/v/23651934",
+  "description": "본 세션에서는 APM에서 Front-end 개발은 어떠한지 소개하고, APM이라는 카테고리에서 사용되는 다양한 UI 컴포넌트들의 기술적 난제들이 무엇인지, 그리고 어떻게 해결하고 있는지에 대한 노하우와 팁을 공유합니다.",
+  "conference": "DEVIEW",
+  "year": 2021
+},{
+  "title": "슬기로운 웨일앱 개발",
+  "author": "김동훈",
+  "slide": "https://deview.kr/data/deview/session/attach/9_슬기로운 웨일앱 개발.pdf",
+  "video": "https://tv.naver.com/v/23652538",
+  "description": "브라우저를 더욱 풍성하게, 웨일앱과 함께하면 인터넷 생활을 보다 더 자유롭고 풍성하게 즐길수 있습니다. 본 발표에서는 웨일 플랫폼에서 사용할수 있는 웨일앱을 만드는 과정과 배포, 유지보수 하는 방법을 이야기 합니다. 지금까지 웨일앱을 개발하면서 많이 실수했던 부분, 노하우, 배포 자동화 등을 공유하고 Live Coding으로 시연합니다.",
+  "conference": "DEVIEW",
+  "year": 2021
+},{
+  "title": "웹과 브라우저를 위한 프로파일링과 성능 개선",
+  "author": "박정우",
+  "slide": "https://deview.kr/data/deview/session/attach/10_웹과 브라우저를 위한 프로파일링과 성능 개선.pdf",
+  "video": "https://tv.naver.com/v/23652467",
+  "description": "본 세션에서는 웨일 브라우저와 웹페이지 성능을 개선했던 경험을 공유하며 프로파일링 방법에 대해 알려드립니다.",
+  "conference": "DEVIEW",
+  "year": 2021
+},{
+  "title": "피그마 API로 하나 되는 우리 : 피그마 API를 활용해 협업 효율성 올리기",
+  "author": "임송이",
+  "slide": "https://deview.kr/data/deview/session/attach/11_피그마API로 하나되는 우리.pdf",
+  "video": "https://tv.naver.com/v/23651902",
+  "description": "이 세션에서는 프론트엔드 개발자가 최근 디자인 업무에서 많이 사용하는 피그마의 API를 활용해 협업 효율성을 어떻게 높일 수 있는지 이야기 합니다. 피그마는 겉은 디자인 프로그램이지만 속은 자바스크립트 기반의 웹앱입니다. 피그마는 제품을 보다 자유롭게 활용할 수 있도록 다양한 API 기능을 제공하고 있습니다. 그래서 디자이너와 밀접하게 협업하는 프론트엔드 개발자와 찰떡궁합입니다. 피그마 API를 잘 사용하면 디자이너와 효율적으로 협업할 수 있고 나아가 피그마를 사용하는 조직의 모든 사람들의 업무 효율성을 높일 수 있습니다. 본 세션에서는 피그마와 피그마 API의 특성을 이해하고 실제로 현업에서 협업의 효율성을 높이기 위해 피그마 API를 활용한 사례를 소개합니다. 나아가 실제 업무에 적용하면서 얻은 가치, 업무에 적용하면서 깨달은 팁들을 공유하려고 합니다.",
+  "conference": "DEVIEW",
+  "year": 2021
+},{
+  "title": "Android Jetpack Compose 실제 서비스 적용 후기",
+  "author": "남상혁",
+  "slide": "https://deview.kr/data/deview/session/attach/1_Android Jetpack Compose 실제 서비스 적용 후기.pdf",
+  "video": "https://tv.naver.com/v/23652473",
+  "description": "일본의 배달서비스 데마에칸의 운전자용 앱 리뉴얼 프로젝트에 Android 최신기술인 Jetpack Compose를 적용하면서 겪은 시행착오와 활용사례를 소개하고, Jetpack Compose가 실제 서비스에 적용할 수 있는지 고민하시는 분들께 도움을 드리고자 합니다. Jetpack Compose를 실무 프로젝트에 도입했을때 느꼈던 장단점을 공유합니다. 저희가 고민하며 적용한 설계 방향을 공유하고, 수많은 삽질을 통해 경험한 이슈와 해결책 등을 알려드립니다.",
+  "conference": "DEVIEW",
+  "year": 2021
+},{
+  "title": "Android 스토리지 접근 동작 변화, PRISM SDK에선 이렇게 대응했다",
+  "author": "남상규",
+  "slide": "https://deview.kr/data/deview/session/attach/2_Android 스토리지 접근 동작 변화, PRISM SDK에선 이렇게 대응했다.pdf",
+  "video": "https://tv.naver.com/v/23652355",
+  "description": "개인정보 보호 강화를 위한 Android 10 이후의 변화와 올해 Google Play의 정책 변경에 따라 대다수의 앱에서 외장 스토리지에 접근할 수 있는 방법과 범위가 제한되었습니다. 네이버가 제공하는 여러 앱의 라이브 스트리밍 및 비디오 편집 기능 구현에 쓰이는 PRISM SDK를 개발하면서도 이 변화에 각별히 신경 써서 대응해야 했습니다. SDK를 사용하는 앱, 그리고 처리 대상 컨텐트의 유형에 관계 없이 스토리지 접근을 요하는 기능이 올바르게 동작하도록 수정해야 했기 때문입니다. 이 세션에서는 PRISM SDK 프로젝트에서 Android의 스토리지 접근 동작 변경에 대응하기 위해 어떻게 계획을 세우고 필요한 작업을 수행했는지 이야기합니다. 그뿐만 아니라 여러분께서 유사한 작업을 수행하실 때 도움이 될 만한 몇 가지 팁을 나눕니다.",
+  "conference": "DEVIEW",
+  "year": 2021
+},{
+  "title": "Android 앱 개발자는 왜 자진해서 서버 개발자가 되었나: 클로바앱의 점진적 배포와 호환성 관리",
+  "author": "정언, 이진명",
+  "slide": "https://deview.kr/data/deview/session/attach/3_Android 앱 개발자는 왜 자진해서 서버 개발자가 되었나 클로바앱의 점진적 배포와 호환성 관리.pdf",
+  "video": "https://tv.naver.com/v/23652504",
+  "description": "클로바앱은 음성 UI 기반 어시스턴트 서비스의 단일 GUI로, 서비스 이용자들에게 필수적인 제어 UX를 제공하고 있습니다. 서비스의 주요 제품은 스피커 클라이언트와 도메인 스킬이고, 서버는 이들을 잇는 플랫폼으로 동작할 때, 이들 모두에 대해 알아야 하는 앱에는 어떤 복잡도가 누적될 수 있을까요? 이 세션에서는 클로바앱에서 Android 앱 개발자가 직접 클로바앱 전용으로 API 규격을 만들고 관리하며 어쩌다 보니 서버사이드 개발을 겸하게 된 사례를 소개합니다. 반 년 간의 개발 프로토타이핑, 반 년 간의 기획 검토와 품질 검증을 비롯한 실용화와 실증을 거치고, 이후 1 년 간 프로덕션에서 제 역할을 하며, 2 년 동안 이 프로젝트의 목표는 어떻게 변해 왔는지 알려드립니다. 누구보다 빨리 달려야 제자리를 지키는 서비스에서, 강물보다 빨리 헤엄쳐서 흐름을 거슬러 오르는 연어로 사는 수많은 개발자들에게 공감과 먼지팁을 전달하고자 합니다.",
+  "conference": "DEVIEW",
+  "year": 2021
+},{
+  "title": "AVPlayer’s Custom ResourceLoader, 어떻게 사용할까요? (AVAssetResourceLoaderDelegate 노하우 공유)",
+  "author": "강성현",
+  "slide": "https://deview.kr/data/deview/session/attach/4_AVPlayer’s Custom ResourceLoader, 어떻게 사용할까요 (AVAssetResourceLoaderDelegate 노하우 공유).pdf",
+  "video": "https://tv.naver.com/v/23652319",
+  "description": "AVPlayer에서 허용하는 커스터마이징, AVAssetResourceLoader 사용방법을 소개합니다. 본 세션에서는 플레이어 커스터마이징에 대한 고민과 AVAssetResourceLoader을 이용한 자산로드에 관한 커스터마이징을 이야기 합니다. 그리고 손쉽게 사용할 수 있는 몇가지의 방법들과 활용방안을 제시합니다.",
+  "conference": "DEVIEW",
+  "year": 2021
+},{
+  "title": "CoreImage와 Metal을 이용하여 영상에 다양한 효과 적용하기",
+  "author": "이재현",
+  "slide": "https://deview.kr/data/deview/session/attach/5_CoreImage와 Metal을 이용하여 영상에 다양한 효과 적용하기.pdf",
+  "video": "https://tv.naver.com/v/23652596",
+  "description": "본 세션에서는 Apple에서 제공하는 프레임워크를 이용하여 비디오를 처리하는 과정을 실습합니다. 실습을 통해 AVFoundation, CoreImage, Metal을 이용한 비디오 처리 파이프라인에 대해 경험할 수 있습니다. 실습에 필요한 API에 대해 설명드리고, 실제로 코딩하는 모습을 보여드리면서 세션을 진행합니다.",
+  "conference": "DEVIEW",
+  "year": 2021
+},{
+  "title": "Kotlin Multiplatform Mobile을 활용한 데마에칸 드라이버앱 개발 이야기",
+  "author": "김광현",
+  "slide": "https://deview.kr/data/deview/session/attach/6_Kotlin Multiplatform Mobile을 활용한 데마에칸 드라이버앱 개발 이야기.pdf",
+  "video": "https://tv.naver.com/v/23652724",
+  "description": "이 세션에서는 일본의 배달서비스 데마에칸의 운전자용 앱 리뉴얼 프로젝트에 iOS/Android 간의 코드 공유를 위한 Kotlin Multiplatform Mobile을 사용하면서 겪은 시행착오와 활용사례를 소개하고 이를 통해 얻은 성장과 인사이트를 공유하려 합니다. 또한 KMM을 실무 프로젝트에 도입하므로서 고민하고 적용한 설계 방향을 공유하고 수많은 삽질을 통해 경험한 이슈와 해결책 등을 알려드립니다.",
+  "conference": "DEVIEW",
+  "year": 2021
+},{
+  "title": "SwiftUI 도전기: CLOVA Note",
+  "author": "손대근",
+  "slide": "https://deview.kr/data/deview/session/attach/7_SwiftUI 도전기 CLOVA Note.pdf",
+  "video": "https://tv.naver.com/v/23652315",
+  "description": "CLOVA Note 서비스에 SwiftUI를 적용한 경험을 공유합니다. SwiftUI는 Apple Platform Application 개발을 위한 새로운 프레임워크입니다. SwiftUI의 초기 버전은 UIKit에서 지원하던 기능들을 전부 지원하지는 않습니다. CLOVA Note에서 SwiftUI를 적용하기 위해 어떤 Architecture를 사용했고 SwiftUI에서 지원하지 않는 기능들을 구현하기 위해 UIKit을 통합하여 서비스를 출시하기까지의 과정에 대한 내용입니다.",
+  "conference": "DEVIEW",
+  "year": 2021
+},{
+  "title": "네이티브로 개발 된 앱을 플러터로 바꾸고 있습니다. (네이버 블로그앱에 플러터 도입 1년의 과정)",
+  "author": "김승원",
+  "slide": "https://deview.kr/data/deview/session/attach/8_네이티브로 개발 된 앱을 플러터로 바꾸고 있습니다. (네이버 블로그앱에 플러터 도입 1년의 과정).pdf",
+  "video": "https://tv.naver.com/v/23649861",
+  "description": "이 세션에서는 iOS, 안드로이드 네이티브 앱으로 서비스 중이던 네이버 블로그앱에 플러터를 도입하여 개발 및 적용 후 배포한 지난 1년 간의 실제 경험을 공유합니다. 네이티브로 개발 중이던 블로그앱에 왜 플러터를 도입하게 되었는지, 어떠한 방법과 과정으로 작업을 해나갔는지 공유합니다. 또한 그 결과는 어땠는지, 어떤 문제가 있었고 어떻게 해결했는지 이야기해드리려고 합니다. 또한 플러터로 작업한 지난 1년 간을 돌아보며 개발 생산성 측면, 조직 업무 측면에서 플러터 도입에 대해서 고찰해보고, 작업자 개인으로서 저의 느낀점도 함께 들려드리겠습니다. 마무리 정리와 함께, 발표를 들으시는 여러분의 조직에도 플러터를 도입해도 좋을지 고민해보실 수 있도록 경험자로서 의견도 말씀드리겠습니다.",
+  "conference": "DEVIEW",
+  "year": 2021
+},{
+  "title": "Chat-Ops : 프로젝트 관리 자동화를 통해서 슬기로운 remote 업무 환경 구축하기 (feat. AI/ML)",
+  "author": "강현명, 권문범, 김상민, 임성훈",
+  "slide": "https://deview.kr/data/deview/session/attach/1_Chat-Ops  프로젝트 관리 자동화를 통해서 슬기로운 remote 업무 환경 구축하기 (feat. AIML)_KR.pdf",
+  "video": "https://tv.naver.com/v/23650690",
+  "description": "Chat-Ops와 Dev-Ops를 이용한 빌드 자동화와 프로젝트 관리 노하우를 공유합니다. 실제 개발을 제외한 업무로부터 인력 소요를 최소한으로 줄여 퍼포먼스 향상을 경험했습니다. 다른 앱/서비스 개발 조직들이 어떻게 비개발 업무로부터 자유로워지면서, 개발 업무에 더욱 집중하고 효율적으로 관리할 지에 대한 내용입니다. Slack / Jenkins / NELO / Fastlane / Python 등의 도구와 언어의 유기적 환경의 설계와 구현에 대해 다룹니다.",
+  "conference": "DEVIEW",
+  "year": 2021
+},{
+  "title": "TensorFlow JS로 AI기반 디자인 시스템 만들기",
+  "author": "박주형",
+  "slide": "https://deview.kr/data/deview/session/attach/2_TensorFlow JS로 AI기반 디자인 시스템 만들기.pdf",
+  "video": "https://tv.naver.com/v/23652352",
+  "description": "최근 프로덕트 개발 과정에서는 디자인 시스템이 빼먹을 수 없는 필수 요소가 되고 있습니다. 하지만 점점 복잡해지는 디자인 시스템으로 인해 생겨나는 사용자 문제점이 또 많았습니다. 이런 사용자 문제점을 해결해보고저 저를 비롯한 네이버와 라인의 프로덕트 디자이너 몇명이 모여서 스터디 그룹을 시작했습니다. 저희는 TensorFlow를 활용해서 기계가 사람을 대신해서 복잡하고 방대한 디자인 컴포넌트들을 학습하고 디자인 화면에서 가이드라인에 맞지 않는 것을 발견하면 디자이너에게 자동으로 오타를 경고해주는 일종의 디자인 맞춤법 검사기 프로젝트인 Zeplin-ML을 만들었습니다. 이 세션에서는 이 프로젝트를 시작하게 된 동기와 TensorFlowJS로 모델을 만드는 과정, 이를 모든 과정을 통해 얻은 경험과 꿀팁, 그리고 마지막으로 배포 후 흥미로운 반응에 대해 하나하나 설명하겠습니다!",
+  "conference": "DEVIEW",
+  "year": 2021
+},{
+  "title": "문화를 코딩합니다. (feat. 언택트 시대에 개발하는 방법)",
+  "author": "배근배",
+  "slide": "https://deview.kr/data/deview/session/attach/3_문화를 코딩합니다. (feat. 언택트 시대에 개발하는 방법).pdf",
+  "video": "https://tv.naver.com/v/23651510",
+  "description": "본 세션에서는 covid-19로 인해 변해버린 개발자의 삶을 바꿔나가는 문화 코딩에 대하여 이야기를 나눠보려 합니다. 2020년, covid-19로 시작된 팬데믹 시대는 모든 부분에서 우리의 삶을 송두리째 바꿨고 이에 업무 또한 리모트 워크로 전환될 수밖에 없었습니다. 그 누구도 경험해 보지 못한 초유의 사태로 인하여 간단히 해결될 수 있었던 문제들도 쉽게 해결되지 않는 문제로 바뀌었으며, 쉬웠던 커뮤니케이션 또한 어렵게 바뀌었습니다. 그리고 언택트 시대에서 경험하게 된 수많은 처음인 것들은 모든 게 불편했습니다. 이러한 환경의 변화와 새로운 시도들은 기존에 형성된 문화와 지속적으로 충돌할 수밖에 없었고 우리는 새로운 문화를 코딩해야 했습니다. 실제 1년간 변화를 만들어가고 있는 문화를 Culture, Programing, SRE/DevOps 의 3가지 사례를 통해 공유합니다. 궁극적으로 이를 통해 얻은 인사이트와 장점을 함께 재밌게 이야기하며 즐겨보고자 합니다.",
+  "conference": "DEVIEW",
+  "year": 2021
+},{
+  "title": "웨일의 차량용 S/W 플랫폼 도전기 - 웨일 Auto PoC",
+  "author": "안영기, 최현덕",
+  "slide": "https://deview.kr/data/deview/session/attach/4_웨일의 차량용 SW 플랫폼 도전기 - 웨일 Auto PoC.pdf",
+  "video": "https://tv.naver.com/v/23651489",
+  "description": "본 세션에서는 웨일을 차량용 플랫폼으로 만들기 위한 전반적인 설계과 시행 착오 과정을 공유합니다. 웹앱 기반의 앱을 구동한다는 일반적인 목적과, 차량용이라는 특수한 목적을 어떻게 융합하였는지, 하나의 시스템으로, 차량 좌석별로 달라지는 화면 출력과 제어 권한을 어떻게 나누어 가상화하였는지, SW 친화적인 웨일과 HW 친화적인 AGL(차량용 리눅스)가 어떻게 결합이 되었는지에 대한 궁금증을 풀어 드립니다.",
+  "conference": "DEVIEW",
+  "year": 2021
+},{
+  "title": "크로미움으로 크로스플랫폼 앱 개발하기",
+  "author": "이원규",
+  "slide": "https://deview.kr/data/deview/session/attach/5_크로미움으로 크로스플랫폼 앱 개발하기.pdf",
+  "video": "https://tv.naver.com/v/23651495",
+  "description": "크로미움 브라우저는 여러 데스크탑 환경 뿐 아니라 모바일 환경에서도 동작합니다. 크로미움 안에는 크로스플랫폼 환경에서 빌드/실행 가능한 소프트웨어를 만들 수 있는 도구가 준비되어 있습니다. 이 강연에서는 C++개발자가 크로스플랫폼 앱을 만들 때 크로미움을 SDK로서 활용할 수 있는 방법을 소개합니다.",
+  "conference": "DEVIEW",
+  "year": 2021
+},{
   "title": "오픈스택으로 바라보는 AWS와 구글 클라우드 플랫폼",
   "author": "이태영",
   "video": "https://www.youtube.com/watch?v=hKVIxP-hKbc",
