@@ -1626,6 +1626,10 @@
   blog: https://i-bada.blogspot.kr/
   rss: https://i-bada.blogspot.com/feeds/posts/default
   description: ''
+- name: 김승모
+  blog: https://velog.io/@endmoseung
+  rss: https://v2.velog.io/rss/endmoseung
+  github: https://github.com/endmoseung
 - name: 김승호
   blog: https://raccoonyy.github.io/
   rss: https://raccoonyy.github.io/rss/
