@@ -6918,6 +6918,10 @@
   blog: https://brunch.co.kr/@designforhuman
   rss: https://brunch.co.kr/rss/@@RSS
   description: 디자인
+- name: 이다희
+  blog: https://velog.io/@steadygo247
+  rss: https://v2.velog.io/rss/steadygo247
+  github: https://github.com/daheeyeu
 - name: 이대명
   blog: https://moka-a.github.io/
   rss: https://moka-a.github.io/feed.xml
@@ -8156,6 +8160,7 @@
   rss: https://v2.velog.io/rss/hyounglee
   description: Front-end
   github: https://github.com/MiaJLee
+  linkedin: https://www.linkedin.com/in/ji-hyung-lee-8b3ba9157/
   rocketpunch: https://www.rocketpunch.com/@ijihyeongce94a52a133d4753
 - name: 이지혜
   blog: http://jihyeleee.com/
