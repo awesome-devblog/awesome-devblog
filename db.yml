@@ -2203,6 +2203,11 @@
 - name: 김종인
   blog: http://zzong.net
   description: Java, Spring
+- name: 김종진
+  blog: https://logonme.net/
+  rss: https://logonme.net/feed/
+  github: https://github.com/nasir17git
+  description: DevOps
 - name: 김종철
   blog: https://infoscis.github.io/
   rss: https://infoscis.github.io/feed.xml
