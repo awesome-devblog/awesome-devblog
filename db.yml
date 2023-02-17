@@ -317,6 +317,11 @@
   blog: https://brunch.co.kr/@maru7091
   rss: https://brunch.co.kr/rss/@@LOc
   description: 스타트업
+- name: 고범수
+  blog: https://berom.tistory.com/
+  rss: https://berom.tistory.com/rss
+  github: https://github.com/GoBeromsu
+  description: 백엔드, 옵시디언
 - name: 고석진
   blog: https://appear.github.io/
   linkedin: https://www.linkedin.com/in/석진-고-07644614a/
