@@ -556,8 +556,6 @@
   facebook: https://www.facebook.com/MrJin
   linkedin: https://www.linkedin.com/in/yongjinkwon/
 - name: 권욱제
-  blog: http://wookje.dance/
-  rss: http://wookje.github.io/rss/
   description: 알고리즘
   github: https://github.com/wookje
   backjoon: https://www.acmicpc.net/user/wookje
@@ -1781,8 +1779,6 @@
   blog: https://medium.com/@younghoo88
   rss: https://medium.com/feed/@younghoo88
 - name: 김영훈
-  blog: https://blog.martinwork.co.kr/
-  rss: https://blog.martinwork.co.kr/feed.xml
   description: AI, Javascript
   github: https://github.com/martinyounghoonkim
   linkedin: https://www.linkedin.com/in/younghoon-kim-2a1530149/
@@ -4268,11 +4264,10 @@
   github: https://github.com/jypthemiracle
   twitter: https://twitter.com/jypthemiracle
 - name: 박진홍
-  blog: https://xlffm3.github.io/
-  rss: https://xlffm3.github.io/feed.xml
   description: Java
   github: https://github.com/xlffm3
   facebook: https://www.facebook.com/qkrwlsghd
+  linkedin: https://www.linkedin.com/in/xlffm3/
 - name: 박찬민
   blog: https://walkinpcm.blogspot.kr/
   rss: https://walkinpcm.blogspot.com/feeds/posts/default
@@ -5062,10 +5057,6 @@
   description: Front-end
   github: https://github.com/sonsurim
   home: https://thstnfla.notion.site/Son-Surim-6e288aae9ea3406da7a604f1065f16f0
-- name: 손수민
-  blog: https://codeamor.dev/
-  rss: https://codeamor.dev/rss.xml
-  description: JS Fullstack
 - name: 손승하
   blog: https://sonseungha.tistory.com/
   rss: https://sonseungha.tistory.com/rss
@@ -5618,11 +5609,6 @@
   rss: https://gils-lab.tistory.com/rss
   facebook: https://www.facebook.com/ahn.kilseung
   aladin: https://www.aladin.co.kr/m/mauthorinfo.aspx?authorsearch=@8775392
-- name: 안나영
-  blog: https://nadudan.github.io/
-  rss: https://nadudan.github.io/feed
-  github: https://github.com/NadudAn
-  linkedin: https://www.linkedin.com/in/nayeong-an-486463231/
 - name: 안도형
   blog: https://rinae.dev/
   rss: https://rinae.dev/rss.xml
@@ -7518,12 +7504,8 @@
   facebook: https://www.facebook.com/profile.php?id=100007569735100
   linkedin: https://www.linkedin.com/in/승규-이-965b53149/
 - name: 이승민
-  blog: https://medium.com/@maryangmin
-  rss: https://medium.com/feed/@maryangmin
   description: Android
   speakerdeck: https://speakerdeck.com/maryang
-  facebook: https://www.facebook.com/maryangmin
-  github: https://github.com/maryangmin
   linkedin: https://www.linkedin.com/in/maryangmin/
 - name: 이승연
   blog: https://gruuuuu.github.io/
@@ -8411,8 +8393,6 @@
   description: 개발자 영어
   twitter: https://twitter.com/hylsteely
 - name: 이현규
-  blog: https://codefict.com/
-  rss: https://codefict.com/feed.xml
   description: Python, Go
   twitter: https://twitter.com/vazrupe
   github: https://github.com/vazrupe
@@ -8942,7 +8922,6 @@
   behance: https://www.behance.net/the_junhyuk
 - name: 장지수
   blog: https://simonjisu.github.io/
-  rss: https://simonjisu.github.io/feed.xml
   description: Python
   facebook: https://www.facebook.com/simonjisu
   github: https://github.com/simonjisu
@@ -11441,11 +11420,6 @@
   description: Reactive Programming
   github: https://github.com/lespinsideg
   linkedin: https://www.linkedin.com/in/lespinside/
-- name: 황교빈
-  blog: https://archive.htrucci.com
-  description: Java, Back-End
-  rss: https://archive.htrucci.com/feed/
-  gitlab: https://gitlab.com/htrucci
 - name: 황대영
   blog: https://ddayin.tistory.com
   rss: https://ddayin.tistory.com/rss
