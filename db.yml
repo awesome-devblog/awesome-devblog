@@ -10567,6 +10567,10 @@
   rss: https://blog.yena.io/feed.xml
   description: SQL
   github: https://github.com/nachoi
+- name: 최예빈
+  blog: https://keepgoin9.tistory.com/
+  rss: https://keepgoin9.tistory.com/rss
+  github: https://github.com/yebin-choi
 - name: 최용석
   blog: https://dydtjr1128.github.io/
   rss: https://dydtjr1128.github.io/feed.xml
