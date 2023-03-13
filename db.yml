@@ -5152,6 +5152,11 @@
   blog: https://medium.com/@downy
   rss: https://medium.com/feed/@downy
   description: Python, Django
+  name: 송도윤
+  blog: https://doyoonsong.vercel.app/
+  rss: https://doyoonsong.vercel.app/rss.xml
+  github: https://github.com/SongDerrick
+  description: Python, Problem Solving, Data Engineering, ML/DL
 - name: 송동훈
   linkedin: https://www.linkedin.com/in/donghoonsong/
   instagram: https://www.instagram.com/hoon_donghoon/
