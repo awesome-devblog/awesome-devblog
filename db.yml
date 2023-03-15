@@ -9185,6 +9185,11 @@
   blog: http://freesearch.pe.kr/
   rss: https://feeds.feedburner.com/gogamza?format=xml
   description: 빅데이터
+- name: 정건영
+  blog: https://colabear754.tistory.com/
+  rss: https://colabear754.tistory.com/rss
+  github: https://github.com/Colabear754
+  description: Kotlin, Java, Back-end
 - name: 정건우
   blog: https://www.zigae.com/
   github: https://github.com/zi-gae
