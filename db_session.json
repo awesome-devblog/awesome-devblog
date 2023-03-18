@@ -17586,4 +17586,94 @@
   "slide": "https://songys.github.io/2019LangCon/data/keyword.pdf",
   "conference": "LangCon",
   "year": 2019
+},{
+  "title": "데이터 분석에서 가치 만들어내기",
+  "author": "김상우",
+  "slide": "https://2017.datayanolja.kr/slide/2016/1-키노트/키노트-1-데이터 분석에서 가치 만들어내기-김상우.pdf",
+  "conference": "데이터야놀자",
+  "year": 2016
+},{
+  "title": "오픈소스 시작부터 끝까지",
+  "author": "조현종",
+  "slide": "https://2017.datayanolja.kr/slide/2016/1-키노트/키노트-2-오픈소스 시작부터 끝까지-조현종.pdf",
+  "conference": "데이터야놀자",
+  "year": 2016
+},{
+  "title": "KakaoBank with opensource",
+  "author": "성동찬",
+  "slide": "https://2017.datayanolja.kr/slide/2016/1-키노트/키노트-3-KakaoBank with opensource-성동찬.pdf",
+  "conference": "데이터야놀자",
+  "year": 2016
+},{
+  "title": "Hadoop 10 주년과 Hadoop3.0의 등장",
+  "author": "서동진",
+  "slide": "https://2017.datayanolja.kr/slide/2016/1-키노트/키노트-4-Hadoop 10 주년과 Hadoop3.0의 등장-서동진.pdf",
+  "conference": "데이터야놀자",
+  "year": 2016
+},{
+  "title": "제플린과 오픈소스 생태계, 그리고 실리콘밸리",
+  "author": "이문수",
+  "slide": "https://2017.datayanolja.kr/slide/2016/1-키노트/키노트-5-제플린과 오픈소스 생태계, 그리고 실리콘밸리-이문수.pdf",
+  "conference": "데이터야놀자",
+  "year": 2016
+},{
+  "title": "Spark와 Zeppelin을 활용한 머신러닝 실전 적용기",
+  "author": "김태준",
+  "slide": "https://2017.datayanolja.kr/slide/2016/2-발표-벙커/발표-1-Spark와 Zeppelin을 활용한 머신러닝 실전 적용기-김태준.pdf",
+  "conference": "데이터야놀자",
+  "year": 2016
+},{
+  "title": "데이터로 가치를 만드는 것이 어려운 이유",
+  "author": "이주형",
+  "slide": "https://2017.datayanolja.kr/slide/2016/2-발표-벙커/발표-2-데이터로 가치를 만드는 것이 어려운 이유-이주형.pdf",
+  "conference": "데이터야놀자",
+  "year": 2016
+},{
+  "title": "Spark SQL 실시간 스트리밍 (Structured Streaming)",
+  "author": "권혁진",
+  "slide": "https://2017.datayanolja.kr/slide/2016/2-발표-벙커/발표-3-Spark SQL 실시간 스트리밍 (Structured Streaming)-권혁진.pdf",
+  "conference": "데이터야놀자",
+  "year": 2016
+},{
+  "title": "글로벌 사례로보는 데이터로 돈 버는 법",
+  "author": "고영혁",
+  "slide": "https://2017.datayanolja.kr/slide/2016/2-발표-벙커/발표-4-글로벌 사례로보는 데이터로 돈 버는 법-고영혁.pdf",
+  "conference": "데이터야놀자",
+  "year": 2016
+},{
+  "title": "데이터 과학을 위한 저작도구",
+  "author": "이광춘",
+  "slide": "https://2017.datayanolja.kr/slide/2016/2-발표-벙커/발표-5-데이터 과학을 위한 저작도구-이광춘.docx",
+  "conference": "데이터야놀자",
+  "year": 2016
+},{
+  "title": "Data Analytics with Druid",
+  "author": "정유선",
+  "slide": "https://2017.datayanolja.kr/slide/2016/2-발표-살롱/발표-1-DATA ANALYTICS WITH DRUID-정유선.pdf",
+  "conference": "데이터야놀자",
+  "year": 2016
+},{
+  "title": "아이돌그룹 연예기사 개수와 음원차트 상관관계",
+  "author": "하정철",
+  "slide": "https://2017.datayanolja.kr/slide/2016/2-발표-살롱/발표-2-아이돌그룹 연예기사 개수와 음원차트 상관관계-하정철.pdf",
+  "conference": "데이터야놀자",
+  "year": 2016
+},{
+  "title": "줄리아0.5와 DataFrames.jl TensorFlow.jl",
+  "author": "노우경",
+  "slide": "https://2017.datayanolja.kr/slide/2016/2-발표-살롱/발표-3-줄리아0.5와 DataFrames.jl TensorFlow.jl-노우경.zip",
+  "conference": "데이터야놀자",
+  "year": 2016
+},{
+  "title": "(딥러닝없음주의) 알파고의 시간",
+  "author": "황준식",
+  "slide": "https://2017.datayanolja.kr/slide/2016/2-발표-살롱/발표-4-(딥러닝없음주의)알파고의 시간-황준식.pdf",
+  "conference": "데이터야놀자",
+  "year": 2016
+},{
+  "title": "Custom DevOps Monitoring System in MelOn",
+  "author": "유승민",
+  "slide": "https://2017.datayanolja.kr/slide/2016/2-발표-살롱/발표-5-Custom DevOps Monitoring System in MelOn-유승민.pdf",
+  "conference": "데이터야놀자",
+  "year": 2016
 }]
