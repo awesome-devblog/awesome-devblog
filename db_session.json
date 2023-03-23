@@ -17676,4 +17676,186 @@
   "slide": "https://2017.datayanolja.kr/slide/2016/2-발표-살롱/발표-5-Custom DevOps Monitoring System in MelOn-유승민.pdf",
   "conference": "데이터야놀자",
   "year": 2016
+},{
+  "title": "비트윈 데이터분석팀의 하루",
+  "author": "김상우",
+  "slide": "https://speakerdeck.com/swkimme/biteuwin-deiteotimyi-haru",
+  "conference": "데이터야놀자",
+  "year": 2017
+},{
+  "title": "울어도 돼, 사실 MNIST는 없거든",
+  "author": "황준식",
+  "slide": "https://2017.datayanolja.kr/slide/171013_junsikwhang_datayanolja_v4.pdf",
+  "conference": "데이터야놀자",
+  "year": 2017
+},{
+  "title": "머신러닝을 활용한 상품 매칭/추천",
+  "author": "김동열",
+  "conference": "데이터야놀자",
+  "year": 2017
+},{
+  "title": "엔지니어 관점에서 바라본 데이터 시각화",
+  "author": "한성민",
+  "slide": "https://www.slideshare.net/KennethCeyer/ss-80764533",
+  "conference": "데이터야놀자",
+  "year": 2017
+},{
+  "title": "개발 설계 해본 함수모형 회귀분석 및 극값데이터마이닝알고리즘과 알바셀파 프로젝트",
+  "author": "김석준",
+  "conference": "데이터야놀자",
+  "year": 2017
+},{
+  "title": "\"머신러닝 무엇이 중요한가?\" 삽질로 경험한 머신러닝 시스템 아키텍쳐",
+  "author": "조대협",
+  "slide": "https://www.slideshare.net/Byungwook/ss-80842059",
+  "conference": "데이터야놀자",
+  "year": 2017
+},{
+  "title": "인공신경망을 속이는 데이터 - Adversarial Machine Learning",
+  "author": "윤성국",
+  "conference": "데이터야놀자",
+  "year": 2017
+},{
+  "title": "금융권 오픈소스 및 머신러닝 도입 이야기",
+  "author": "김형준",
+  "slide": "https://2017.datayanolja.kr/slide/170919_hjk_datayanolja_v1.0.1..pdf",
+  "conference": "데이터야놀자",
+  "year": 2017
+},{
+  "title": "머신러닝/딥러닝 학습시 수학 공부법",
+  "author": "이창신",
+  "slide": "https://drive.google.com/file/d/0B7eHpNfc1uhQSjlRaDVzWFlWZTA/view",
+  "conference": "데이터야놀자",
+  "year": 2017
+},{
+  "title": "AI업무 징징징",
+  "author": "임도형",
+  "slide": "https://2017.datayanolja.kr/slide/데놀17-AI업무-징징징-임도형.pdf",
+  "conference": "데이터야놀자",
+  "year": 2017
+},{
+  "title": "데이터 과학자가 일 잘 하는 법에 대한 흔하지 않은 이야기",
+  "author": "이주형",
+  "slide": "https://drive.google.com/file/d/0B7URaKiuWhUaVTBNY0VhNWhXalk/view",
+  "conference": "데이터야놀자",
+  "year": 2017
+},{
+  "title": "스포츠 빅데이터 활용사례와 시사점",
+  "author": "김명락",
+  "conference": "데이터야놀자",
+  "year": 2017
+},{
+  "title": "강남출근길에 정자/판교역 내릴 사람 예측하기",
+  "author": "최규민",
+  "slide": "https://www.slideshare.net/ssuser2fe594/2107-80754131",
+  "conference": "데이터야놀자",
+  "year": 2017
+},{
+  "title": "싱싱한 재료를 제품으로, 데이터를 데이터 제품으로",
+  "author": "이광춘",
+  "slide": "https://statkclee.github.io/ds-authoring/slides/ds_data_product.html#/",
+  "conference": "데이터야놀자",
+  "year": 2017
+},{
+  "title": "인공신경망을 활용한 축구선수 팀 추천하기",
+  "author": "장준환",
+  "conference": "데이터야놀자",
+  "year": 2017
+},{
+  "title": "음악 데이터 수집부터 웹 어플리케이션까지",
+  "author": "금상은, 이종필",
+  "slide": "https://drive.google.com/file/d/0B8TfPTGCVmw2Wk1rNmNKaGdVR1U/view",
+  "conference": "데이터야놀자",
+  "year": 2017
+},{
+  "title": "데이터, 유치원 그리고 머신러닝",
+  "author": "최승준",
+  "slide": "https://www.facebook.com/seungjoon.choi/videos/10213408903872587/",
+  "conference": "데이터야놀자",
+  "year": 2017
+},{
+  "title": "비물질적인 데이터를 어떻게 이해해야하나!",
+  "author": "한상곤",
+  "slide": "https://drive.google.com/file/d/0B5icSyaLKgxULXNzdnQ1Y01OQ3c/view",
+  "conference": "데이터야놀자",
+  "year": 2017
+},{
+  "title": "제조 데이터의 특징 이해와 분석과 엔지니어링 융합에 대하여",
+  "author": "박준용",
+  "conference": "데이터야놀자",
+  "year": 2017
+},{
+  "title": "데이터로 시작하는 작심삼일 (Feat. 구글 데이터 스튜디오)",
+  "author": "맹윤호",
+  "slide": "https://2017.datayanolja.kr/slide/170917_yunhomaeng_datayanolja_v1.0.1.pdf",
+  "conference": "데이터야놀자",
+  "year": 2017
+},{
+  "title": "4차산업혁명, 인공지능 분석알고리즘의 이해와 만성질환자/일반인을 위한 시공간 상황 데이터 분석 서비스 경험 공유",
+  "author": "이혜영",
+  "conference": "데이터야놀자",
+  "year": 2017
+},{
+  "title": "데이터야 안전하게 놀아보자",
+  "author": "성동찬",
+  "slide": "https://drive.google.com/file/d/0B1PDX9LaTv_xYVFUbVp2Ti1waUU/view",
+  "conference": "데이터야놀자",
+  "year": 2017
+},{
+  "title": "MySQL 디비에 자바(JDBC)가 접속하면 벌어지는 일들을 알아보아요",
+  "author": "조현종",
+  "slide": "https://www.slideshare.net/hangum/ss-80803201",
+  "conference": "데이터야놀자",
+  "year": 2017
+},{
+  "title": "창조 데이터: 데이터 수집 어디까지 해봤니?",
+  "author": "김태준",
+  "slide": "https://drive.google.com/file/d/0BxjA_jkt17IIOEo4RkFsUGtjdDA/view",
+  "conference": "데이터야놀자",
+  "year": 2017
+},{
+  "title": "쌓는다고 다 데이터인가? - 로그 기깔나게 잘 디자인하는 법",
+  "author": "백정상",
+  "slide": "https://www.slideshare.net/mobile/jeongsangbaek/ss-80795259",
+  "conference": "데이터야놀자",
+  "year": 2017
+},{
+  "title": "검색엔진이 데이터를 다루는 방법",
+  "author": "김종민",
+  "slide": "https://www.slideshare.net/kjmorc/ss-80803233",
+  "conference": "데이터야놀자",
+  "year": 2017
+},{
+  "title": "노가다 없이 한국어 뉴스/댓글 데이터 분석하기",
+  "author": "김현중",
+  "slide": "https://drive.google.com/file/d/0BzuQe1Onrxp6VE5JcllfMW5SMmc/view",
+  "conference": "데이터야놀자",
+  "year": 2017
+},{
+  "title": "커머스 로그 통합 시스템 개발 분투기(수집부터 모니터링까지)",
+  "author": "전수현",
+  "conference": "데이터야놀자",
+  "year": 2017
+},{
+  "title": "데이터의 HA/DR 사고사례와 교훈",
+  "author": "이진현",
+  "conference": "데이터야놀자",
+  "year": 2017
+},{
+  "title": "스타크래프트2 강화학습",
+  "author": "송호연",
+  "slide": "https://www.slideshare.net/sjhshy/2-starcraft-ii-reinforcement-learning-80779324",
+  "conference": "데이터야놀자",
+  "year": 2017
+},{
+  "title": "원숭이 뇌를 측정하려다 역조련 당한 이야기",
+  "author": "심진우",
+  "conference": "데이터야놀자",
+  "year": 2017
+},{
+  "title": "재미가 우선 패널토의 - 데이터수다(데수다)",
+  "author": "김성훈, 샐리, 이창신",
+  "slide": "https://brunch.co.kr/@borashow/173",
+  "conference": "데이터야놀자",
+  "year": 2017
 }]
