@@ -9705,6 +9705,11 @@
   description: Front-end
   twitter: https://twitter.com/naradesign/
   facebook: https://www.facebook.com/naradesign
+- name: 정찬영
+  blog: https://bbogle2.tistory.com
+  rss: https://bbogle2.tistory.com/rss
+  github: https://github.com/jchyng
+  description: java, spring
 - name: 정찬웅
   blog: https://korchris.github.io/
   description: ''
