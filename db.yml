@@ -5604,6 +5604,10 @@
   blog: https://aspdotnet.tistory.com
   rss: https://aspdotnet.tistory.com/rss
   description: .NET, DB
+- name: 신주영
+  blog: https://joy.pe.kr/
+  rss: https://joy.pe.kr/rss.xml
+  description: Front-end
 - name: 안경찬
   blog: https://medium.com/@joypinkgom
   rss: https://medium.com/feed/@joypinkgom
