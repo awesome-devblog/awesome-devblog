@@ -19,6 +19,7 @@
 
 - [awesome-devblog에 내 블로그 등록하기](https://soobaaaam.tistory.com/5)
 - [awesome-devblog에 블로그 추가](https://jhhwang4195.tistory.com/6)
+- [[GitHub] 오픈소스 프로젝트 Contributor 되기](https://moonnight0.tistory.com/80)
 
 ## 소개 및 언급된 글
 
@@ -47,6 +48,7 @@
 - [tistory-readme-stats 개발기](https://formason.tistory.com/22)
 - [(21.12.28) What the hack is RSS??](https://spookyjelly.tistory.com/69)
 - [[생각 정리] 컨텐츠의 힘 (부제: awesome-devblog)](https://csj000714.tistory.com/564)
+- [개발 아티클 여기서 읽어보세요 | 라인개발실록](https://youtu.be/YFdHEbuSWMU?t=246)
 
 ## 형제자매 프로젝트
 
