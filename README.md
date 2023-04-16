@@ -1,7 +1,7 @@
 # Awesome Devblog
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
-[![Gitter chat](https://badges.gitter.im/awesome-devblog/Lobby.png)](https://gitter.im/awesome-devblog/Lobby "Gitter chat")
+[![Gitter chat](https://badges.gitter.im/awesome-devblog/Lobby.png)](https://app.gitter.im/#/room/#awesome-devblog_Lobby:gitter.im)
 
 ## 개요
 
