@@ -1359,11 +1359,11 @@
   meetup: https://www.meetup.com/ko-KR/Data-Scientist-Meetup-in-Seoul/
 - name: Daum 개발자 네트워크
   facebook: https://www.facebook.com/daumdevelopers/
-- name: Delivery Hero Korea
-  blog: https://medium.com/deliverytechkorea
-  rss: https://medium.com/feed/deliverytechkorea
-  facebook: https://www.facebook.com/deliveryherokorea
-  rocketpunch: https://www.rocketpunch.com/companies/deliveryhero
+- name: 위대한 상상(요기요)
+  blog: https://techblog.yogiyo.co.kr
+  rss: https://techblog.yogiyo.co.kr/feed
+  facebook: https://www.facebook.com/YogiyoCompany
+  rocketpunch: https://www.rocketpunch.com/companies/rgpkorea
 - name: devCAT Studio
   home: https://devcat.com/
   twitter: https://twitter.com/devCAT_official
