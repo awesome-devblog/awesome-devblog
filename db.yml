@@ -104,7 +104,7 @@
   linkedin: https://www.linkedin.com/in/brandonkang/
   slideshare: https://www.slideshare.net/BrandonK
   facebook: https://www.facebook.com/brandon.kang.9674
-- name : 강석재
+- name: 강석재
   blog: https://parodev.tistory.com/
   rss: https://parodev.tistory.com/rss
   description: 소프트웨어 개발 팁 (프론트, 백, 그래픽스)
@@ -9355,7 +9355,6 @@
   nickname: Kendrick
   linkedin: https://www.linkedin.com/in/sonim1/
   github: https://github.com/sonim1
-  youtube: https://www.youtube.com/@bumfoo
   home: https://sonim1.com/
 - name: 정병기
   blog: https://byeongkijeong.github.io/
@@ -9507,7 +9506,7 @@
   blog: https://root-devvoo.github.io/
   rss: https://root-devvoo.github.io/feed.xml
   github: https://github.com/root-devvoo
-  linkedin: https://www.linkedin.com/in/woocheol-jung-959915220/  
+  linkedin: https://www.linkedin.com/in/woocheol-jung-959915220/
 - name: 정욱재
   description: 인공지능
   facebook: https://www.facebook.com/JeongUkJae
