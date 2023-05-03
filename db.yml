@@ -5845,6 +5845,10 @@
   rss: https://postgame.tistory.com/rss
   description: 게임개발, 웹툰
   speakerdeck: https://speakerdeck.com/jungwon2
+- name: 안지훈
+  github: https://github.com/Jihoonahn
+  blog: https://blog.jihoon.me
+  rss: https://blog.jihoon.me/feed.rss
 - name: 안형근
   facebook: https://www.facebook.com/ahg223
   github: https://github.com/ahg223
@@ -11711,7 +11715,3 @@
   facebook: https://www.facebook.com/khi0211
   instagram: https://www.instagram.com/sydev_sk/
   linkedin: https://www.linkedin.com/in/steve-kwon-8606ba1b8
-- name: 안지훈
-  github: https://github.com/Jihoonahn
-  blog: https://blog.jihoon.me
-  rss: https://blog.jihoon.me/feed.rss
