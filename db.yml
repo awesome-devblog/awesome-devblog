@@ -11265,6 +11265,11 @@
   description: Spring Boot
   github: https://github.com/moregorenine
   twitter: https://twitter.com/w4springrain
+- name: 한진탁
+  blog: https://www.timegambit.com
+  rss: https://www.timegambit.com/feed.xml
+  github: https://github.com/jintak0401
+  description: Time Gambit의 웹 위주 개발 블로그
 - name: 한창석
   blog: https://free-strings.blogspot.kr/
   rss: https://free-strings.blogspot.kr/atom.xml
