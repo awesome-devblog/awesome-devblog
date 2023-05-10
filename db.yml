@@ -11567,6 +11567,12 @@
   blog: http://dolppi.egloos.com/
   rss: http://rss.egloos.com/blog/dolppi
   description: 금융공학
+- name: 황선태
+  blog: https://pozafly.github.io/
+  rss: https://pozafly.github.io/rss
+  instagram: https://www.instagram.com/pozafly_/
+  description: Front-end
+  github: https://github.com/pozafly
 - name: 황성우
   description: Java
   facebook: https://www.facebook.com/profile.php?id=100003478036284
