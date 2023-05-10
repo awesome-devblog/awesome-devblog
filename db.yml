@@ -6439,9 +6439,9 @@
   twitter: https://twitter.com/SungdooYoo
   github: https://github.com/e-sung
 - name: 유수민
-  blog : https://velog.io/@sweet_sumin
-  rss : https://v2.velog.io/rss/sweet_sumin
-  github : https://github.com/sue4869
+  blog: https://velog.io/@sweet_sumin
+  rss: https://v2.velog.io/rss/sweet_sumin
+  github: https://github.com/sue4869
   description: Backend, Java
 - name: 유시형
   blog: https://sihyungyou.github.io/
@@ -11567,6 +11567,12 @@
   blog: http://dolppi.egloos.com/
   rss: http://rss.egloos.com/blog/dolppi
   description: 금융공학
+- name: 황선태
+  blog: https://pozafly.github.io/
+  rss: https://pozafly.github.io/rss
+  instagram: https://www.instagram.com/pozafly_/
+  description: Front-end
+  github: https://github.com/pozafly
 - name: 황성우
   description: Java
   facebook: https://www.facebook.com/profile.php?id=100003478036284
