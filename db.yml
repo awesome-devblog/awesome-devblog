@@ -6439,9 +6439,9 @@
   twitter: https://twitter.com/SungdooYoo
   github: https://github.com/e-sung
 - name: 유수민
-  blog: https://velog.io/@sweet_sumin
-  rss: https://v2.velog.io/rss/sweet_sumin
-  github: https://github.com/sue4869
+  blog : https://velog.io/@sweet_sumin
+  rss : https://v2.velog.io/rss/sweet_sumin
+  github : https://github.com/sue4869
   description: Backend, Java
 - name: 유시형
   blog: https://sihyungyou.github.io/
