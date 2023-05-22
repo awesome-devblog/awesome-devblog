@@ -10650,8 +10650,8 @@
   blog: https://choi-seunghwan.tistory.com/
   rss: https://choi-seunghwan.tistory.com/rss
 - name: 최승환
-  blog: https://besfir.github.io/ko
-  rss: https://besfir.github.io/feed-dev.xml
+  blog: https://besfir.vercel.app/ko
+  rss: https://besfir.vercel.app/feed-dev.xml
 - name: 최영주
   blog: https://moonnight0.tistory.com/
   github: https://github.com/ysy56
