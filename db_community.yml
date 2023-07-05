@@ -1748,6 +1748,10 @@
   slack: https://pytorchkr.slack.com/
 - name: Python Korea
   facebook: https://www.facebook.com/groups/pythonkorea/
+- name: QuotaLab
+  blog: https://quotabook.com/ko/blog/tech
+  home: https://quotabook.com/
+  rss: https://rss.mgmt.quotalab.com/tech.rss
 - name: Rancher User Group
   facebook: https://www.facebook.com/groups/1139420319448983/
 - name: React Native Korea
@@ -1960,7 +1964,3 @@
   blog: https://devblog.croquis.com/
   github: https://github.com/croquiscom
   rocketpunch: https://www.rocketpunch.com/companies/croquis
-- name: QuotaLab
-  blog: https://quotabook.com/ko/blog/tech
-  home: https://quotabook.com/
-  rss: https://rss.mgmt.quotalab.com/tech.rss
