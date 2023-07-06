@@ -2956,6 +2956,11 @@
   github: https://github.com/lalwr
   rss: https://lalwr.blogspot.com/feeds/posts/default?alt=rss
   description: java
+- name: 김혜빈
+  blog: https://ohwhatisthis.tistory.com/
+  rss: https://ohwhatisthis.tistory.com/rss
+  github: https://github.com/hyeebin
+  description: 주코의 iOS, Swift
 - name: 김혜성
   description: Mattermost
   github: https://github.com/cometkim
