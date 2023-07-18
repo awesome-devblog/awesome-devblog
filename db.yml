@@ -3834,6 +3834,11 @@
   rss: https://blog.fupfin.com/?feed=rss2
   description: Java
   slideshare: https://www.slideshare.net/gyumee
+- name: 박성훈
+  blog: https://hoon9901.github.io/
+  rss: https://hoon9901.github.io/rss
+  description: Backend, Java, Infra
+  github: https://github.com/Hoon9901
 - name: 박성현
   blog: https://helloworldpark.github.io/
   rss: https://helloworldpark.github.io/feed.xml
