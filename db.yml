@@ -6263,6 +6263,12 @@
   blog: https://www.walter-o.com/study
   github: https://github.com/ropering
   description: Back-End/Based Notion
+- name: 오효근
+  blog: https://zerohertz.github.io/
+  rss: https://zerohertz.github.io/rss2.xml
+  description: Machine Learning, Computer Vision, MLOps
+  github: https://github.com/Zerohertz
+  linkedin: https://www.linkedin.com/in/hyogeun-oh-67470b242/
 - name: 옥수환
   blog: https://www.charlezz.com/
   rss: https://www.charlezz.com/?feed=rss2
