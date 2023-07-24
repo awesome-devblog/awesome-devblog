@@ -3428,6 +3428,11 @@
   blog: https://velog.io/@mythos
   rss: https://v2.velog.io/rss/mythos
   github: https://github.com/Cruzer-S
+- name: 문영채
+  blog: https://octoping.tistory.com
+  rss: https://octoping.tistory.com/rss
+  description: Backend
+  github: https://github.com/Octoping925
 - name: 문영하
   blog: https://moonsiri.tistory.com/
   rss: https://moonsiri.tistory.com/rss
