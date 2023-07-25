@@ -847,6 +847,10 @@
   rss: https://nolboo.kim/feed.xml
   description: 번역 모음
   github: https://github.com/nolboo
+- name: 김다민
+  blog: https://dobyming.github.io/
+  rss: https://dobyming.github.io/rss.xml
+  description: Web, Front-end
 - name: 김다희
   blog: https://velog.io/@heehee
   rss: https://v2.velog.io/rss/heehee
