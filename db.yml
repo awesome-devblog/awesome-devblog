@@ -8530,12 +8530,14 @@
   rss: https://rss.blog.naver.com/hidejj79.xml
   description: ''
 - name: 이현우
-  blog: https://velog.io/@l2hyunwoo
-  rss: https://v2.velog.io/rss/l2hyunwoo
-  description: Android
+  nickname: 누누(Nunu)
+  blog: https://medium.com/@l2hyunwoo
+  rss: https://medium.com/feed/@l2hyunwoo
+  description: Newbie Mobile Developer Nunu Lee (@l2hyunwoo)
   linkedin: https://www.linkedin.com/in/hyunwoo-lee-0412/
   github: https://github.com/l2hyunwoo
   instagram: https://www.instagram.com/l2hyunwoo/
+  speakerdeck: https://speakerdeck.com/l2hyunwoo/
 - name: 이현주
   blog: https://wayhome25.github.io/
   rss: https://wayhome25.github.io/atom.xml
