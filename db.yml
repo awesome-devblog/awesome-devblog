@@ -737,6 +737,10 @@
   blog: https://velog.io/@kskim
   rss: https://v2.velog.io/rss/kskim
   github: https://github.com/KS-KIM
+- name: 김광일
+  blog: https://davincicoding.tistory.com/
+  rss: https://davincicoding.tistory.com/rss
+  description: 파이썬 알고리즘 정보올림피아드 코딩테스트 다빈치코딩  
 - name: 김광현
   nickname: 광파리
   blog: https://kwang82.blogspot.kr/
