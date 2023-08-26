@@ -4606,7 +4606,7 @@
   home: http://www.simple.pe.kr/
 - name: 배정환
   blog: https://gomgomi.github.io
-  rss: https://gomgomi.github.io/rss
+  rss: https://gomgomi.github.io/feed.xml
 - name: 배주웅
   blog: https://velog.io/@jbae
   rss: https://v2.velog.io/rss/jbae
