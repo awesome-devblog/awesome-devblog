@@ -1076,6 +1076,10 @@
   facebook: https://www.facebook.com/acupofcode/
 - name: 코딩인카페
   facebook: https://www.facebook.com/codingincafe/
+- name: 코멘토
+  blog: https://developer.comento.kr
+  github: https://github.com/comento
+  rss: https://developer.comento.kr/rss.xml
 - name: 컴투스
   blog: https://on.com2us.com/today/tech/
   rocketpunch: https://www.rocketpunch.com/companies/geimbilkeomtuseu
