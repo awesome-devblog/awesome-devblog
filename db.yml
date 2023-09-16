@@ -2564,7 +2564,7 @@
   github: https://github.com/greekZorba
 - name: 김진혁
   blog: https://tk-one.github.io/
-  rss: https://tk-one.github.io/atom.xml
+  rss: https://tk-one.github.io/rss2.xml
   description: Node.js
   facebook: https://www.facebook.com/MiraGeKJH
   github: https://github.com/TK-one
@@ -4201,7 +4201,7 @@
   linkedin: https://www.linkedin.com/in/94junpyop/
 - name: 박준호
   blog: https://www.junojunho.com/
-  rss: https://www.junojunho.com/feed
+  rss: https://junojunho.com/index.xml
   github: https://github.com/cnaa97
   linkedin: https://www.linkedin.com/in/cnaa97/
   description: Front-end
@@ -4417,10 +4417,6 @@
   linkedin: https://www.linkedin.com/in/1ambda/
   github: https://github.com/1ambda
   facebook: https://www.facebook.com/1ambda
-- name: 박희근
-  blog: https://sirini.blog/
-  rss: https://sirini.blog/feed/
-  description: GR BOARD
 - name: 박희우
   github: https://github.com/parkhuiwo0
   facebook: https://www.facebook.com/parkhuiwo0
@@ -5762,8 +5758,8 @@
   github: https://github.com/eungyeole
   home: https://eungyeole.super.site/
 - name: 안이수
-  blog: https://www.ooseel.net/me/
-  rss: https://www.ooseel.net/me/index.xml
+  blog: https://www.ooseel.net/
+  rss: https://www.ooseel.net/index.xml
   description: webOS, GNOME
   github: https://github.com/memnoth
   gitlab: https://gitlab.gnome.org/memnoth
@@ -6099,10 +6095,6 @@
   blog: https://wergia.tistory.com/
   rss: https://wergia.tistory.com/rss
   description: 게임 개발
-- name: 오상준
-  blog: https://www.namooz.com/
-  rss: https://www.namooz.com/feed/
-  description: Spring Boot, Angular2
 - name: 오세용
   blog: http://ohseyong.com/
   rss: http://ohseyong.com/?feed=rss2
@@ -8763,12 +8755,6 @@
   description: Java
   twitter: https://twitter.com/jinwooe
   rocketpunch: https://www.rocketpunch.com/@jinwooe.1
-- name: 임창현
-  blog: https://www.three-snakes.com/
-  rss: https://www.three-snakes.com/rss.xml
-  github: https://github.com/threesnakes
-  linkedin: https://www.linkedin.com/in/changhyun-lim-86334a194/
-  description: Web, Front
 - name: 임채성
   blog: https://puleugo.tistory.com/
   rss: https://puleugo.tistory.com/rss
@@ -8870,11 +8856,6 @@
   blog: https://mooneegee.blogspot.kr/
   rss: https://mooneegee.blogspot.com/feeds/posts/default
   description: 3D
-- name: 장범준
-  blog: https://tjtdkr.me/
-  rss: https://tjtdkr.me/feed.xml
-  github: https://github.com/tjtdkr
-  facebook: https://www.facebook.com/tjtdkr
 - name: 장봄
   blog: https://velog.io/@denmark-choco
   rss: https://v2.velog.io/rss/denmark-choco
@@ -9204,8 +9185,6 @@
   description: Spring
   github: https://github.com/supawer0728
 - name: 전창완
-  blog: https://wani.kr/
-  rss: https://wani.kr/feed.xml
   description: PHP, Backend
   github: https://github.com/wan2land
   twitter: https://twitter.com/wan2land
@@ -10196,12 +10175,6 @@
   github: https://github.com/zerocho
   youtube: https://www.youtube.com/channel/UCp-vBtwvBmDiGqjvLjChaJw
   npm: https://www.npmjs.com/~zerocho
-- name: 조현제
-  blog: http://hyunje.com/
-  rss: http://hyunje.com/feed.xml
-  description: Data Analysis
-  facebook: https://www.facebook.com/Retriever.Jo
-  github: https://github.com/retrieverJo
 - name: 조현종
   blog: https://hangumkj.blogspot.com/
   rss: https://hangumkj.blogspot.com/feeds/posts/default
