@@ -5762,8 +5762,8 @@
   github: https://github.com/eungyeole
   home: https://eungyeole.super.site/
 - name: 안이수
-  blog: https://www.ooseel.net/me/
-  rss: https://www.ooseel.net/me/index.xml
+  blog: https://www.ooseel.net/
+  rss: https://www.ooseel.net/index.xml
   description: webOS, GNOME
   github: https://github.com/memnoth
   gitlab: https://gitlab.gnome.org/memnoth
