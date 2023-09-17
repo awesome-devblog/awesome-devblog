@@ -1487,6 +1487,7 @@
   description: Design
   rocketpunch: https://www.rocketpunch.com/@sykime1012107180447fc
   dribbble: https://dribbble.com/woody_woody
+  home: https://greenray.kr/
 - name: 김성엽
   blog: https://blog.naver.com/tipsware
   rss: https://rss.blog.naver.com/tipsware.xml
@@ -5004,11 +5005,6 @@
   rss: https://sbs1621.tistory.com/rss
   github: https://github.com/sbs1621
   linkedin: https://www.linkedin.com/in/병석-성-124090247/
-- name: 성연
-  blog: https://brunch.co.kr/@cliche-cliche
-  rss: https://brunch.co.kr/rss/@@2hV3
-  description: Design
-  home: https://greenray.kr/
 - name: 성열우
   github: https://github.com/SungYeolWoo
   linkedin: https://www.linkedin.com/in/whitehairprogrammer/
