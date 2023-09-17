@@ -2967,7 +2967,7 @@
   description: nimf
 - name: 김호영
   blog: https://blog.hodory.dev/
-  rss: https://blog.hodory.dev/feed
+  rss: https://blog.hodory.dev/index.xml
   description: PHP, Spring Boot, Javascript
   github: https://github.com/hodory
 - name: 김홍배
