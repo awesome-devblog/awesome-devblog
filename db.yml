@@ -9730,12 +9730,6 @@
   rss: https://blog.chanhyo.dev/rss.xml
   github: https://github.com/roian6
   facebook: https://www.facebook.com/DevChanhyo/
-- name: 정창훈
-  blog: https://code.iamseapy.com/
-  rss: https://code.iamseapy.com/feed
-  description: iOS
-  facebook: https://www.facebook.com/iamseapy
-  twitter: https://twitter.com/seapy
 - name: 정채환
   blog: https://funchcode.github.io/
   rss: https://funchcode.github.io/index.xml
