@@ -6434,12 +6434,6 @@
   rss : https://v2.velog.io/rss/sweet_sumin
   github : https://github.com/sue4869
   description: Backend, Java
-- name: 유시형
-  blog: https://sihyungyou.github.io/
-  rss: https://sihyungyou.github.io/feed.xml
-  description: Swift
-  github: https://github.com/sihyungyou
-  youtube: https://www.youtube.com/channel/UCxb0aG8YjuLpkvBZekp1C5g
 - name: 유영모
   blog: https://medium.com/@SlackBeck
   rss: https://medium.com/feed/@SlackBeck
