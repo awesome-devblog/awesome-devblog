@@ -1106,11 +1106,6 @@
 - name: ㅍㅍㅅㅅ 테크
   blog: https://ppss.kr/archives/category/tech
   rss: https://ppss.kr/archives/category/tech/feed
-- name: 파비
-  blog: https://blog.pabii.co.kr/
-  rss: https://blog.pabii.co.kr/feed/
-  description: Data Science
-  home: https://pabii.co.kr/
 - name: 파이썬 처음처럼
   kakaotalk: https://open.kakao.com/o/gG6kgabb
 - name: 파워빌더 커뮤니티(PBExpertClub)
