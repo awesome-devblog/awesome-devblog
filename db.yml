@@ -363,6 +363,10 @@
   blog: https://velog.io/@edie_ko
   rss: https://v2.velog.io/rss/edie_ko
   github: https://github.com/positiveko
+- name: 고지안
+  blog: https://jakpentest.tistory.com/  
+  rss: https://jakpentest.tistory.com/rss
+  description: IT학습/삽질/회고
 - name: 고재현
   blog: https://delphiforwin.blogspot.com/
   rss: https://delphiforwin.blogspot.com/feeds/posts/default?alt=rss
@@ -11665,6 +11669,3 @@
   facebook: https://www.facebook.com/khi0211
   instagram: https://www.instagram.com/sydev_sk/
   linkedin: https://www.linkedin.com/in/steve-kwon-8606ba1b8
-- name: jak010
-  blog: https://jakpentest.tistory.com/  
-  description: IT학습/삽질/회고
