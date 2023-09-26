@@ -5577,6 +5577,11 @@
   rss: https://ethansup.net/rss.xml
   description: Web
   github: https://github.com/SimYunSup
+- name: 심지수
+  blog: https://www.ryuollojy.com/
+  rss: https://www.ryuollojy.com/rss/feed.xml
+  github: https://github.com/rlj1202
+  linkedin: https://www.linkedin.com/in/jisusim/
 - name: 심혜진
   blog: https://simhyejin.github.io/
   rss: https://simhyejin.github.io/atom.xml
