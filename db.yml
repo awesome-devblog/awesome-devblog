@@ -2915,6 +2915,11 @@
 - name: 김현호
   github: https://github.com/opzyra
   home: https://devhyun.com/
+- name: 김현희
+  blog: https://su-mmer.tistory.com/
+  rss: https://su-mmer.tistory.com/rss
+  description: Cloud
+  github: https://github.com/su-mmer
 - name: 김형준
   blog: http://www.gisdeveloper.co.kr/
   rss: http://www.gisdeveloper.co.kr/?feed=rss2
