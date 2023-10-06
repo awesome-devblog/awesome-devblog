@@ -5628,6 +5628,11 @@
   blog: https://aspdotnet.tistory.com
   rss: https://aspdotnet.tistory.com/rss
   description: .NET, DB
+- name: 심재철
+  blog: https://simsimjae.tistory.com/
+  rss: https://simsimjae.tistory.com/rss
+  github: https://github.com/simsimjae
+  home: https://simsimjae.dev/
 - name: 신주영
   blog: https://joy.pe.kr/
   rss: https://joy.pe.kr/rss.xml
