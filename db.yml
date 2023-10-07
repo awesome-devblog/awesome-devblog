@@ -3170,6 +3170,10 @@
   blog: https://kyounghwan01.github.io/blog/
   description: Front-end
   github: https://github.com/Kyounghwan01
+- name: 노두현
+  blog: https://velog.io/@doodream
+  rss: https://v2.velog.io/rss/doodream
+  github: https://github.com/Doodream
 - name: 노상범
   blog: https://medium.com/@sbroh
   rss: https://medium.com/feed/@sbroh
