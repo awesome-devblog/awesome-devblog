@@ -50,6 +50,7 @@
 - [[생각 정리] 컨텐츠의 힘 (부제: awesome-devblog)](https://csj000714.tistory.com/564)
 - [개발 아티클 여기서 읽어보세요 | 라인개발실록](https://youtu.be/YFdHEbuSWMU?t=246)
 - [어썸데브블로그에 내 블로그가 등록 됐다](https://su-mmer.tistory.com/106)
+- [디스콰이엇](https://disquiet.io/product/%EC%96%B4%EC%8D%B8%EB%8D%B0%EB%B8%8C%EB%B8%94%EB%A1%9C%EA%B7%B8)
 
 ## 형제자매 프로젝트
 
