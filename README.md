@@ -49,6 +49,7 @@
 - [(21.12.28) What the hack is RSS??](https://spookyjelly.tistory.com/69)
 - [[생각 정리] 컨텐츠의 힘 (부제: awesome-devblog)](https://csj000714.tistory.com/564)
 - [개발 아티클 여기서 읽어보세요 | 라인개발실록](https://youtu.be/YFdHEbuSWMU?t=246)
+- [어썸데브블로그에 내 블로그가 등록 됐다](https://su-mmer.tistory.com/106)
 
 ## 형제자매 프로젝트
 
