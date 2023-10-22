@@ -10503,8 +10503,8 @@
   instagram: https://www.instagram.com/syakuis/
 - name: 최성기
   blog: https://leafbird.github.io/devnote/
-  rss: https://feeds.feedburner.com/florist_devnote?format=xml
-  description: C++
+  rss: https://leafbird.github.io/devnote/rss2.xml 
+  description: C#, Game
   twitter: https://twitter.com/leafbird_tw
   facebook: https://www.facebook.com/florist.sk
   github: https://github.com/leafbird
