@@ -435,6 +435,11 @@
   description: Algorithm
   facebook: https://www.facebook.com/profile.php?id=100000697013969
   youtube: https://www.youtube.com/channel/UC_KRcBNnFQoN6EsvG87H6cg
+- name: 구성우
+  blog: https://sungwookoo.tistory.com/
+  github: https://github.com/sungwookoo
+  rss: https://sungwookoo.tistory.com/rss
+  description: 웹개발
 - name: 구영민
   blog: https://youngminz.netlify.app
   rss: https://youngminz.netlify.app/rss.xml
