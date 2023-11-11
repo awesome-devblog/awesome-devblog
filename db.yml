@@ -1640,6 +1640,13 @@
   blog: https://velog.io/@endmoseung
   rss: https://v2.velog.io/rss/endmoseung
   github: https://github.com/endmoseung
+- name: 김승욱
+  blog: https://datadoctorblog.com/
+  rss: https://datadoctorblog.com/rss2.xml
+  description: Data Science
+  github: https://github.com/encaion/
+  facebook: https://www.facebook.com/encaion
+  inflearn: https://www.inflearn.com/users/62878
 - name: 김승호
   blog: https://raccoonyy.github.io/
   rss: https://raccoonyy.github.io/rss/
