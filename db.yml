@@ -2963,6 +2963,9 @@
 - name: 김혜성
   description: Mattermost
   github: https://github.com/cometkim
+- name: 김혜성
+  blog: https://velog.io/@khsfun0312
+  rss: https://v2.velog.io/rss/khsfun0312
 - name: 김혜진
   blog: https://velog.io/@yejinh
   rss: https://v2.velog.io/rss/yejinh
