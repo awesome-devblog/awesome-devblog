@@ -3966,6 +3966,7 @@
   description: ''
 - name: 박용준
   blog: https://pyjun01.github.io/
+  linkedin: https://www.linkedin.com/in/pyjun01/
   facebook: https://www.facebook.com/profile.php?id=100007085719197
 - name: 박용훈
   blog: https://b-programmer.tistory.com
@@ -11160,6 +11161,11 @@
   rss: https://v2.velog.io/rss/onea
   facebook: https://www.facebook.com/artistonea/
   github: https://github.com/onealog
+- name: 한재윤
+  blog: https://otzslayer.github.io/
+  rss: https://otzslayer.github.io/feed.xml
+  github: https://github.com/otzslayer
+  linkedin: https://www.linkedin.com/in/jaeyoon-han-41a431112/
 - name: 한정
   blog: https://junghan92.medium.com/
   rss: https://medium.com/feed/@junghan92
