@@ -568,7 +568,7 @@
 - name: 권욱제
   description: 알고리즘
   github: https://github.com/wookje
-  backjoon: https://www.acmicpc.net/user/wookje
+  baekjoon: https://www.acmicpc.net/user/wookje
   codeforces: http://codeforces.com/profile/wookje.happy
   facebook: https://www.facebook.com/profile.php?id=100008317802738
   opgg: https://overlog.gg/detail/overview/239042227252217170213224
@@ -2295,7 +2295,7 @@
 - name: 김종현
   blog: http://kjh-projects.kro.kr:3100/
   github: https://github.com/Root-kjh
-  backjoon: https://www.acmicpc.net/user/kjh3141
+  baekjoon: https://www.acmicpc.net/user/kjh3141
 - name: 김종현
   blog: https://kim-jong-hyun.tistory.com/
   rss: https://kim-jong-hyun.tistory.com/rss
@@ -4717,7 +4717,7 @@
 - name: 백승지
   blog: https://blog.naver.com/conaman
   rss: https://rss.blog.naver.com/conaman.xml
-  desciprion: Game Development
+  description: Game Development
 - name: 백영진
   description: Storage
   facebook: https://www.facebook.com/Apheleia
@@ -5536,8 +5536,8 @@
   description: Algorithm
   github: https://github.com/cprayer
   rocketpunch: https://www.rocketpunch.com/@cprayer13
-  backjoon: https://www.acmicpc.net/user/cprayer
-  codeforce: https://codeforces.com/profile/cprayer
+  baekjoon: https://www.acmicpc.net/user/cprayer
+  codeforces: https://codeforces.com/profile/cprayer
 - name: 신현묵
   blog: https://velog.io/@zetlos
   rss: https://v2.velog.io/rss/zetlos
@@ -6352,7 +6352,7 @@
 - name: 우종규
   blog: https://brunch.co.kr/@dnwhdrb98
   rss: https://brunch.co.kr/rss/@@94tS
-  descriptoin: UX
+  description: UX
   home: https://rudderwoo.design/
 - name: 우종선
   blog: https://fors.tistory.com/
@@ -7379,7 +7379,7 @@
   description: TensorFlow
 - name: 이상협
   blog: https://tkdguq05.github.io/
-  desciption: Data Science & Engineering
+  description: Data Science & Engineering
   rss: https://tkdguq05.github.io/rss2.xml
   facebook: https://www.facebook.com/sanghyub.lee.501/
   linkedin: https://www.linkedin.com/in/sanghyub-lee-100589160/
@@ -7620,7 +7620,7 @@
   rss: https://v2.velog.io/rss/litien
   github: https://github.com/koogk7
   instagram: https://www.instagram.com/litien02/
-  backjoon: https://www.acmicpc.net/user/sch0115
+  baekjoon: https://www.acmicpc.net/user/sch0115
 - name: 이승현
   blog: https://hamait.tistory.com/
   rss: https://hamait.tistory.com/rss
@@ -7748,7 +7748,7 @@
   rss: https://leeyh0216.github.io/feed
   description: Java, Spark
   github: https://github.com/leeyh0216
-  backjoon: https://www.acmicpc.net/user/leeyh0216
+  baekjoon: https://www.acmicpc.net/user/leeyh0216
   rocketpunch: https://www.rocketpunch.com/@leeyh0216
 - name: 이우길
   blog: https://velog.io/@dev_leewoooo
@@ -8026,7 +8026,7 @@
   description: Algorithm
   github: https://github.com/hotehrud
   codepen: https://codepen.io/mygumi
-  backjoon: https://www.acmicpc.net/user/mygumi
+  baekjoon: https://www.acmicpc.net/user/mygumi
 - name: 이정환
   blog: https://velog.io/@winterlood
   rss: https://v2.velog.io/rss/winterlood
@@ -9511,7 +9511,7 @@
   linkedin: https://www.linkedin.com/in/JeongUkJae/
 - name: 정원봉
   facebook: https://www.facebook.com/kindfamilybear
-  youtbue: https://www.youtube.com/channel/UCHGrcaroTQjz9wyASXQAmYQ
+  youtube: https://www.youtube.com/channel/UCHGrcaroTQjz9wyASXQAmYQ
 - name: 정원석
   blog: https://wonseokjung.github.io/
   rss: https://wonseokjung.github.io/feed.xml
@@ -10388,7 +10388,7 @@
   description: Node.js
   github: https://github.com/jokj624
   linkedin: https://www.linkedin.com/in/jeong-ah-chae-56a681130/
-  backjoon: https://www.acmicpc.net/user/jokj624
+  baekjoon: https://www.acmicpc.net/user/jokj624
 - name: 천민호
   blog: https://kesakiyo.tistory.com/
   rss: https://kesakiyo.tistory.com/rss
@@ -10406,7 +10406,7 @@
   rss: https://v2.velog.io/rss/elrion018
   description: Front-end
   github: https://github.com/elrion018
-  backjoon: https://www.acmicpc.net/user/elrion21
+  baekjoon: https://www.acmicpc.net/user/elrion21
   linkedin: https://www.linkedin.com/in/jaemin-cheon-5a6a65169/
 - name: 천종희
   blog: https://jong-hui.github.io
