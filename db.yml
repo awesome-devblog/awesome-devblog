@@ -6465,9 +6465,10 @@
   bitbucket: https://bitbucket.org/if1live/
   steam: https://steamcommunity.com/id/if1live/
 - name: 유보미
-  github: https://github.com/commelier
-  twitter: https://twitter.com/_commelier
-  linkedin: https://www.linkedin.com/in/bomee-ryu/
+  linkedin: https://www.linkedin.com/in/bomeeryu
+  blog: https://thecommelier.tistory.com/
+  rss: https://thecommelier.tistory.com/rss
+  description: 해외개발자, 해외취업, 영국, 안드로이드
 - name: 유상엽
   blog: https://medium.com/@Dev_Bono
   rss: https://medium.com/feed/@Dev_Bono
@@ -11692,10 +11693,6 @@
 - name: 홍석현
   facebook: https://www.facebook.com/unifiedh
   twitter: https://twitter.com/unifiedh
-- name: Bomee Ryu
-  blog: https://thecommelier.tistory.com/
-  rss: https://thecommelier.tistory.com/rss
-  description: 해외개발자, 해외취업, 영국, 안드로이드
 - name: Hohyeon Moon
   blog: https://www.hohyeonmoon.com
   rss: https://www.hohyeonmoon.com/feed.rss
