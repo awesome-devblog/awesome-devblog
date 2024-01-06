@@ -360,7 +360,7 @@
   rss: https://v2.velog.io/rss/edie_ko
   github: https://github.com/positiveko
 - name: 고지안
-  blog: https://jakpentest.tistory.com/  
+  blog: https://jakpentest.tistory.com/
   rss: https://jakpentest.tistory.com/rss
   description: IT학습/삽질/회고
 - name: 고재현
@@ -753,7 +753,7 @@
 - name: 김광일
   blog: https://davincicoding.tistory.com/
   rss: https://davincicoding.tistory.com/rss
-  description: 파이썬 알고리즘 정보올림피아드 코딩테스트 다빈치코딩  
+  description: 파이썬 알고리즘 정보올림피아드 코딩테스트 다빈치코딩
 - name: 김광현
   nickname: 광파리
   blog: https://kwang82.blogspot.kr/
@@ -5118,6 +5118,12 @@
   rss: https://arload.wordpress.com/feed/
   description: 개발방법론, Android
   slideshare: https://www.slideshare.net/arload
+- name: 손영신
+  blog: https://pizzathiefz.github.io
+  rss: https://pizzathiefz.github.io/feed.xml
+  linkedin: https://www.linkedin.com/in/youngshin-son-a03386218/
+  github: https://github.com/pizzathiefz
+  description: 데이터 분석
 - name: 손영인
   nickname: broccolism
   blog: https://velog.io/@broccolism
@@ -10573,7 +10579,7 @@
   instagram: https://www.instagram.com/syakuis/
 - name: 최성기
   blog: https://leafbird.github.io/devnote/
-  rss: https://leafbird.github.io/devnote/rss2.xml 
+  rss: https://leafbird.github.io/devnote/rss2.xml
   description: C#, Game
   twitter: https://twitter.com/leafbird_tw
   facebook: https://www.facebook.com/florist.sk
@@ -11546,7 +11552,7 @@
   blog: https://daekyue.tistory.com/
   github: https://github.com/Daekyue
   rss: https://daekyue.tistory.com/rss
-  description: flutter기초, 자기계발   
+  description: flutter기초, 자기계발
 - name: 황대영
   blog: https://ddayin.tistory.com
   rss: https://ddayin.tistory.com/rss
