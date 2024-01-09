@@ -3933,6 +3933,10 @@
 - name: 박승호
   linkedin: https://www.linkedin.com/in/승호-박-45aa97125/
   slideshare: https://www.slideshare.net/ssuseraefa0b
+- name: 박시형
+  blog: https://teveloper.tistory.com/
+  rss: https://teveloper.tistory.com/rss
+  description: Front-End
 - name: 박시홍
   blog: https://hongsii.github.io/
   rss: https://hongsii.github.io/atom.xml
@@ -6497,9 +6501,9 @@
   twitter: https://twitter.com/SungdooYoo
   github: https://github.com/e-sung
 - name: 유수민
-  blog : https://velog.io/@sweet_sumin
-  rss : https://v2.velog.io/rss/sweet_sumin
-  github : https://github.com/sue4869
+  blog: https://velog.io/@sweet_sumin
+  rss: https://v2.velog.io/rss/sweet_sumin
+  github: https://github.com/sue4869
   description: Backend, Java
 - name: 유영모
   blog: https://medium.com/@SlackBeck
