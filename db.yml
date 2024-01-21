@@ -2937,6 +2937,11 @@
   blog: https://www.morolog.dev/
   rss: https://www.morolog.dev/rss
   github: https://github.com/sleepingmoro
+- name: 김현지
+  blog: https://hj0216.tistory.com/
+  rss: https://hj0216.tistory.com/rss
+  github: https://github.com/HJ0216
+  description: TIL
 - name: 김현호
   github: https://github.com/opzyra
   home: https://devhyun.com/
