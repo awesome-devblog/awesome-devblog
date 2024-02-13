@@ -452,6 +452,12 @@
   linkedin: https://www.linkedin.com/in/youngminz
   github: https://github.com/youngminz
   stackoverflow: https://stackoverflow.com/users/3096304/youngminz
+- name: 구영표
+  blog: https://marshallku.com
+  rss: https://marshallku.com/dev/feed
+  description: 웹개발
+  github: https://github.com/marshallku
+  linkedin: https://www.linkedin.com/in/marshallku/
 - name: 구인본
   blog: https://inbon.net/
   twitter: https://twitter.com/inbonk
