@@ -3781,6 +3781,10 @@
 - name: 박상조
   blog: https://medium.com/@bunjang_george
   rss: https://medium.com/feed/@bunjang_george
+- name: 박상준
+  blog: https://velog.io/@qkrtkdwns3410
+  rss: https://v2.velog.io/rss/qkrtkdwns3410
+  github: https://github.com/qkrtkdwns3410
 - name: 박상철
   blog: https://velog.io/@park_sang
   rss: https://v2.velog.io/rss/park_sang
