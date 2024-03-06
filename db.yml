@@ -11063,6 +11063,10 @@
   description: Keras, Python
   facebook: https://www.facebook.com/wonho.ha.1466
   slideshare: https://www.slideshare.net/wonhoha
+- name: 하조은
+  blog: https://hajoeun.blog/
+  github: https://github.com/hajoeun
+  linkedin: https://www.linkedin.com/in/hajoeun/
 - name: 하준호
   blog: https://brunch.co.kr/@hajunho
   rss: https://brunch.co.kr/rss/@@R17
@@ -11071,6 +11075,12 @@
   twitter: https://twitter.com/hajunho
   github: https://github.com/hajunho
   home: https://hajunho.com/
+- name: 하현준
+  blog: https://velog.io/@haryan248
+  rss: https://v2.velog.io/rss/haryan248
+  github: https://github.com/haryan248
+  linkedin: https://www.linkedin.com/in/hyunjoon-ha-564a271b9/
+  resume: https://www.rallit.com/resumes/174216@haryan96
 - name: 하호준
   slideshare: https://www.slideshare.net/hojunlife
 - name: 하호진
@@ -11291,10 +11301,6 @@
   linkedin: https://www.linkedin.com/in/kazikai/
   github: https://github.com/kazikai
   twitter: https://twitter.com/kazikai84
-- name: 하조은
-  blog: https://hajoeun.blog/
-  github: https://github.com/hajoeun
-  linkedin: https://www.linkedin.com/in/hajoeun/
 - name: 한종우
   blog: https://thearchivelog.dev
   rss: https://thearchivelog.dev/rss.xml
