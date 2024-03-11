@@ -1860,6 +1860,11 @@
   rss: https://yohanpro.com/rss.xml
   description: Front-end
   github: https://github.com/yohanpro
+- name: 김용건
+  blog: https://potwings.tistory.com/
+  rss: https://potwings.tistory.com/rss
+  description: Web Developer
+  github: https://github.com/potwings
 - name: 김용균
   blog: https://edykim.com/ko/
   rss: https://edykim.com/ko/feed.xml
