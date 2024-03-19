@@ -1158,6 +1158,11 @@
   description: Front-end
   facebook: https://www.facebook.com/profile.php?id=100011189436233
   github: https://github.com/demain18
+- name: 김명지
+  blog: https://shout-to-my-mae.tistory.com/
+  rss: https://shout-to-my-mae.tistory.com/rss
+  description: 차근차근 Back-end
+  github: https://github.com/Starlight258
 - name: 김민규
   blog: https://pkgonan.github.io/
   rss: https://pkgonan.github.io/feed
