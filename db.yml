@@ -2893,6 +2893,8 @@
   description: Data Structure
 - name: 김해준
   blog: https://ravenkim97.tistory.com/
+  rss: https://ravenkim97.tistory.com/rss
+  github: https://github.com/ravenkim
   description: Front-end
 - name: 김헌기
   blog: https://hunlabs.wordpress.com/
