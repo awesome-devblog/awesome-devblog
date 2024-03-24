@@ -571,6 +571,10 @@
   description: 퀀트
   facebook: https://www.facebook.com/MrJin
   linkedin: https://www.linkedin.com/in/yongjinkwon/
+- name: 권우석
+  blog: https://egg528.github.io/blog
+  rss: https://egg528.github.io/blog/rss.xml
+  github: https://github.com/egg528
 - name: 권욱제
   description: 알고리즘
   github: https://github.com/wookje
