@@ -314,8 +314,8 @@
   rss: https://brunch.co.kr/rss/@@LOc
   description: 스타트업
 - name: 고범수
-  blog: https://berom.tistory.com/
-  rss: https://berom.tistory.com/rss
+  blog: https://medium.com/@berom0227/
+  rss: https://medium.com/@berom0227/feed
   github: https://github.com/GoBeromsu
   description: 백엔드, 옵시디언
 - name: 고석진
