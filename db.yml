@@ -4471,6 +4471,13 @@
   linkedin: https://www.linkedin.com/in/chiwanpark
   speakerdeck: https://speakerdeck.com/chiwanpark
   home: https://chiwanpark.com/
+- name: 박한수
+  blog: https://velog.io/@invidam
+  rss: https://v2.velog.io/rss/@invidam
+  description: 개발 이야기, 에세이 등 여러 글들을 씁니다.
+  github: https://github.com/Invidam
+  twitter: https://twitter.com/vidam_in
+  linkedin: https://www.linkedin.com/in/hansu-park-66b757271
 - name: 박한준
   blog: https://velog.io/@cyranocoding
   rss: https://v2.velog.io/rss/cyranocoding
