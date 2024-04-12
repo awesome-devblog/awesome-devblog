@@ -10822,6 +10822,11 @@
   blog: https://goldenthumb.net/
   rss: https://goldenthumb.net/feed
   github: https://github.com/goldenthumb
+- name: 최우성
+  blog: https://dev-ws.tistory.com/
+  rss: https://dev-ws.tistory.com/rss
+  github: https://github.com/woosung1223
+  description: 백엔드, CS
 - name: 최원영
   blog: https://blog.voidmainvoid.net/
   rss: https://blog.voidmainvoid.net/rss
