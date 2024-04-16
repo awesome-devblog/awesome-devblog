@@ -533,8 +533,7 @@
   description: Front-end
   github: https://github.com/0307kwon
 - name: 권수호
-  blog: https://blog.naver.com/PostList.nhn?blogId=knix008
-  rss: https://rss.blog.naver.com/knix008.xml
+  blog: https://blog.naver.com/cybervictor008
   description: C
 - name: 권시연
   blog: https://yeonyeon.tistory.com/
@@ -1341,7 +1340,6 @@
   instagram: https://www.instagram.com/kim_bo_1/
 - name: 김봉조
   blog: https://fishpoint.tistory.com/
-  rss: https://fishpoint.tistory.com/rss
   description: 라즈베리 파이
   facebook: https://www.facebook.com/kimbongzo
   instagram: https://www.instagram.com/kimbongzo/
