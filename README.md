@@ -70,7 +70,7 @@
 - [DEVBLOG(메타블로그)](http://devblog.selfhow.com/)
 - [TodayDevBlog_bot(텔레그램봇)](https://t.me/TodayDevblog_bot)
 - [TodayDevBlog bot(슬랙 웹훅)](https://github.com/techinpark/today-devblog-bot)
-- [딥러닝으로 문서 분류기 만들기](https://nero.devstory.co.kr/post/pj-devblog-classifier/)
+- [딥러닝으로 문서 분류기 만들기](https://blog.devstory.co.kr/post/devblog-classifier)
 - [devlogmoa](http://devlogmoa.shop/), [Github](https://github.com/monkeyDugi/dev_log_moa)
 - [mysetting](https://mysetting.io/posts/trending/all)
 
