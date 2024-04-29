@@ -541,6 +541,11 @@
   github: https://github.com/yeon-06
   twitter: https://twitter.com/yeonLog_
   description: Back-end
+- name: 권영광
+  blog: https://velog.io/@kwon0koang
+  rss: https://v2.velog.io/rss/kwon0koang
+  github: https://github.com/kwon0koang
+  resume: https://kwon0koang.notion.site/Resume-5ae47f1182b248df9b936fa1ddaf9537
 - name: 권영재
   blog: https://nesoy.github.io/
   rss: https://nesoy.github.io/atom.xml
