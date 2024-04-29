@@ -1045,6 +1045,7 @@
   facebook: https://www.facebook.com/profile.php?id=100008189377563
   linkedin: https://www.linkedin.com/in/dongeun-kim-114a44187
   youtube: https://www.youtube.com/channel/UCB_qK0V8LR73NMYjtz29O9A
+  profile: https://transparent-piccolo-a69.notion.site/120-62bda4e6f1d846f3ae9261cccb95ac84
 - name: 김동이
   blog: https://velog.io/@dongyi
   rss: https://v2.velog.io/rss/dongyi
@@ -7515,6 +7516,10 @@
   blog: https://medium.com/@lswoo
   rss: https://medium.com/feed/@lswoo
   description: Cloud
+- name: 이성인
+  blog: https://velog.io/@adultlee
+  rss: https://v2.velog.io/rss/adultlee
+  github: https://github.com/adultlee
 - name: 이성일
   blog: https://modolee-blog.tistory.com
   rss: https://modolee-blog.tistory.com/rss
