@@ -7005,6 +7005,11 @@
   description: '10년뒤의 내가 읽어도 이해하기 위한 기술 블로그'
   github: https://github.com/onedayz
   linkedin: https://www.linkedin.com/in/grey-lee-12973a154/
+- name: 이규락
+  blog: https://velog.io/@devgyurak
+  rss: https://v2.velog.io/rss/devgyurak
+  github: https://github.com/leegyurak
+  resume: https://devgyurak.notion.site/17d3629ecdb341f1bef6477ca0e6499b
 - name: 이규영
   blog: https://mindthelog.com/
   rss: https://mindthelog.com/feed/
