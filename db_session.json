@@ -4881,6 +4881,60 @@
   "conference": "DEVIEW",
   "year": 2021
 },{
+  "title": "하나의 코드로 React, Vue, Svelte 등 모든 프레임워크를 지원할 수 있는 CFCs Reactive",
+  "author": "최연규",
+  "slide": "https://deview.kr/data/deview/session/attach/[111]%ED%95%98%EB%82%98%EC%9D%98+%EC%BD%94%EB%93%9C%EB%A1%9C+React,+Vue,+Svelte+%EC%A0%84%EB%B6%80+%EC%A7%80%EC%9B%90%ED%95%98%EB%8A%94+CFCs+Reactive.pdf",
+  "video": "https://tv.naver.com/v/33860329",
+  "description": "하나의 코드로 모든 프레임워크를 지원할 수 있는 CFCs Reactive를 소개합니다. CFCs Reactive는 하나의 코드로 함수 컴포넌트에서 사용할 수 있는 Reactive Component를 만들 수 있습니다. CFCs와 CFCs Reactive를 만들게 된 계기와 그 결과물을 오픈소스로 공개합니다.",
+  "tags": ["Web"],
+  "conference": "DEVIEW",
+  "year": 2023
+},{
+  "title": "네이버 검색은 어떻게 나보다 더 내 의도를 잘 아는가? : AiRSearch 반응형 추천",
+  "author": "임희재",
+  "slide": "https://deview.kr/data/deview/session/attach/[121]%EB%84%A4%EC%9D%B4%EB%B2%84+%EA%B2%80%EC%83%89%EC%9D%80+%EC%96%B4%EB%96%BB%EA%B2%8C+%EB%82%98%EB%B3%B4%EB%8B%A4+%EB%8D%94+%EB%82%B4+%EC%9D%98%EB%8F%84%EB%A5%BC+%EC%9E%98+%EC%95%84%EB%8A%94%EA%B0%80_+-+AiRSearch+%EB%B0%98%EC%9D%91%ED%98%95+%EC%B6%94%EC%B2%9C_0307.pdf",
+  "video": "https://tv.naver.com/v/33857605",
+  "description": "이 발표에서는 네이버 검색에서 반응형으로 컨텐츠를 추천하는 기술을 소개합니다. 최근 검색 연구 및 서비스는 질의 의도에 적합한 결과를 제공하는 것을 넘어서 사용자에게 필요한 정보를 추천하고 있습니다. 따라서 네이버 검색에서도 추천 기술과 융합하여 기존의 검색결과를 보여주고 끝나는 것이 아니라, 사용자 행동에 따라 반응형으로 추천하는 interactive한 검색을 시도하고 있습니다. 그 중에서 네이버 AiRSearch 반응형으로 1년 동안 진행한 연구 실험 결과와 서비스 적용 경험을 공유하려고 합니다.",
+  "tags": ["AI/ML", "Recommendation", "Search"],
+  "conference": "DEVIEW",
+  "year": 2023
+},{
+  "title": "'더' 잘 읽히고 자연스러운 이미지 번역을 위해(파파고 텍스트 렌더링 개발기)",
+  "author": "이현수",
+  "slide": "https://deview.kr/data/deview/session/attach/[141]+'%EB%8D%94'+%EC%9E%98+%EC%9D%BD%ED%9E%88%EA%B3%A0+%EC%9E%90%EC%97%B0%EC%8A%A4%EB%9F%AC%EC%9A%B4+%EC%9D%B4%EB%AF%B8%EC%A7%80+%EB%B2%88%EC%97%AD%EC%9D%84+%EC%9C%84%ED%95%B4(%ED%8C%8C%ED%8C%8C%EA%B3%A0+%ED%85%8D%EC%8A%A4%ED%8A%B8+%EB%A0%8C%EB%8D%94%EB%A7%81+%EA%B0%9C%EB%B0%9C%EA%B8%B0).pdf",
+  "video": "https://tv.naver.com/v/33862360",
+  "description": "이 세션에서는 파파고 이미지 바로 번역 기술, 그 중에서도 번역된 글자를 이미지에 합성하는 '텍스트 렌더링' 기능의 고도화 방법론에 대해 소개합니다. 자연스러운 텍스트 렌더링을 위해서는 우선 원본 글자를 매끄럽게 지울 수 있어야 합니다. GAN을 활용하여 원본 텍스트를 더욱 섬세하게 제거한 경험을 공유합니다. 추가로 '더' 자연스러운 텍스트 렌더링을 위해 필요한 요소들과 관련 기술에 대해 소개합니다. 원문의 스타일을 유지하는 데 필요한 텍스트 색상, 원문의 문단 구조를 유지하면서 텍스트를 합성하는 데 필요한 정렬, 번역된 텍스트의 가독성에 큰 영향을 미칠 수 있는 글꼴 크기 등 텍스트 렌더링과 관련된 문제를 다루는 기술과 노하우를 공유한다. 본 세션에서 소개한 인페인팅 방법은 모델 개선 방법에 대한 독창성 및 성능이 검증이 되었고, 유럽 컴퓨터 비젼 학회(ECCV 2022)에 논문으로 채택되었습니다.",
+  "tags": ["AI/ML", "Audio/Image/Video"],
+  "conference": "DEVIEW",
+  "year": 2023
+},{
+  "title": "초등학생 AI모델 고등학교 보내기: Continual Learning으로 지속적으로 성장하는 AI 시스템 만들기",
+  "author": "정현희, 박경호",
+  "slide": "https://deview.kr/data/deview/session/attach/[112]%EC%B4%88%EB%93%B1%ED%95%99%EC%83%9D%20AI%EB%AA%A8%EB%8D%B8%20%EA%B3%A0%EB%93%B1%ED%95%99%EA%B5%90%20%EB%B3%B4%EB%82%B4%EA%B8%B0%20Continual%20Learning%EC%9C%BC%EB%A1%9C%20%EC%A7%80%EC%86%8D%EC%A0%81%EC%9C%BC%EB%A1%9C%20%EC%84%B1%EC%9E%A5%ED%95%98%EB%8A%94%20AI%20%EC%8B%9C%EC%8A%A4%ED%85%9C%20%EB%A7%8C%EB%93%A4%EA%B8%B0.pdf",
+  "video": "https://tv.naver.com/v/33860403",
+  "description": "만약 새로운 Task가 발생했다면, 모델을 새로 디자인하고, 재학습하여 다시 배포하는 것이 최선일까요? 이전에 만들어둔 모델을 활용하여, 새로운 Task를 지속적으로 풀어나가는 Continuous AI System을 디자인할 수 있다면, 개발자의 리소스를 최소화하면서도 사람처럼 생각하는 똑똑한 모델을 만들 수 있지 않을까요? 본 세션에서는 쏘카에서 연구 및 비즈니스에 적용한 지속적으로 성장하는 AI System에 소개드리고 서비스에 적용한 경험을 공유하고자 합니다. 현실에서는 학습시킨 모델을 지속적으로 업데이트 해주어야 하는데, 이 과정에서 몇가지 Challenge가 있습니다. 본 세션에서는 이때 발생하는 Challenge를 해결하기 위해 디자인한 AI System 구조와 이를 구성하는 3가지 Component에 대해 소개합니다. 마지막으로, Continuous AI System을 운영 환경에 배포한 Software Architecture, 적용 사례 및 비즈니스 임팩트, 그리고 데모를 소개하면서 현실에 어떻게 도입하였는지 소개합니다.",
+  "tags": ["AI/ML", "Data"],
+  "conference": "DEVIEW",
+  "year": 2023
+},{
+  "title": "눈으로 보며 듣는 음성 기록, 클로바노트 서비스의 웹 기술 톺아보기",
+  "author": "임대현, 이은성",
+  "slide": "https://deview.kr/data/deview/session/attach/[122]+%EB%88%88%EC%9C%BC%EB%A1%9C+%EB%B3%B4%EB%A9%B0+%EB%93%A3%EB%8A%94+%EC%9D%8C%EC%84%B1+%EA%B8%B0%EB%A1%9D,+%ED%81%B4%EB%A1%9C%EB%B0%94%EB%85%B8%ED%8A%B8+%EC%84%9C%EB%B9%84%EC%8A%A4%EC%9D%98+%EC%9B%B9+%EA%B8%B0%EC%88%A0+%ED%86%BA%EC%95%84%EB%B3%B4%EA%B8%B0.pdf",
+  "video": "https://tv.naver.com/v/33857632",
+  "description": "이 세션에서는 클로바노트 서비스가 무엇인지 간략하게 설명하고, 이 서비스에서 FE 개발자들이 어떻게 AI 서비스를 지탱하고 있는지에 대해 노하우와 팁을 공유합니다. 코로나로 화상 회의가 일상화 된 세상에서 Zoom 서비스가 가장 큰 비중을 차지하고 있는데요. 클로바노트가 발 빠르게 Zoom과 실시간으로 연결하여 음성 데이터를 추출하는 방법을 공유합니다. 또한 웹을 앱처럼 오프라인에서 작동하는 경험을 공유과 풀 반응형 서비스를 위해 반응형 드리븐 개발을 경험을 공유합니다.",
+  "tags": ["Web"],
+  "conference": "DEVIEW",
+  "year": 2023
+},{
+  "title": "바닥까지 파보는! Hbase random read 성능 개선기",
+  "author": "김정민, 채상은",
+  "slide": "https://deview.kr/data/deview/session/attach/[132]%EB%B0%94%EB%8B%A5%EA%B9%8C%EC%A7%80+%ED%8C%8C%EB%B3%B4%EB%8A%94!+HBase+random+read+%EC%84%B1%EB%8A%A5+%EA%B0%9C%EC%84%A0%EA%B8%B0.pdf",
+  "video": "https://tv.naver.com/v/33860664",
+  "description": "이 세션에서는 네이버에서 성균관대학교 DICL (Data Intensive Computing Lab) 연구실과 함께 HBase에서 발생 가능한 read amplification 문제를 분석하고, 구조적 해결책을 찾아 read 성능을 개선한 사례를 공유합니다. HBase의 LSM-Tree 기반의 내부 구조와 HBase의 data read path, cache 구조에 대해 분석해보고, read amplification이 발생하는 원인을 알아봅니다. 여러 가설과 검증 과정을 통해 최종적으로 동적 크기의 블록 생성과 Hot한 Key들만 캐싱하는 Key-Value cache 기능을 개발 적용하여 read amplification를 완화 시키고 성능을 향상시킨 이야기와 benchmark 결과를 공유 드립니다. 그리고, 범용적인 대규모 분산 저장소 운영에 성능과 리소스 사용 관리가 중요하면서도 어려운 이유와 네이버의 데이터 저장소가 성능 개선과 효율화에 진심인 이유에 대해 논해봅니다.",
+  "tags": ["Data", "Server"],
+  "conference": "DEVIEW",
+  "year": 2023
+},{
   "title": "오픈스택으로 바라보는 AWS와 구글 클라우드 플랫폼",
   "author": "이태영",
   "video": "https://www.youtube.com/watch?v=hKVIxP-hKbc",
