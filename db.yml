@@ -1369,14 +1369,6 @@
   rss: https://netpple.github.io/feed
   description: Container
   facebook: https://www.facebook.com/sam.kim.56808
-- name: 김상원
-  blog: https://brunch.co.kr/@hero4earth
-  rss: https://brunch.co.kr/rss/@@NjN
-  description: 데이터 분석
-  facebook: https://www.facebook.com/eddy.sangwon
-  github: https://github.com/hero4earth
-  linkedin: https://www.linkedin.com/in/hero4earth
-  home: http://hero4earth.com/
 - name: 김상연
   blog: https://kimsangyeon-github-io.vercel.app/
   rss: https://kimsangyeon-github-io.vercel.app/feed.xml
@@ -1389,6 +1381,18 @@
   facebook: https://www.facebook.com/twysg
   github: https://github.com/sangyeol-kim
   rocketpunch: https://www.rocketpunch.com/@f7a9ec3c52fa4b1b
+- name: 김상우
+  blog: https://velog.io/@heyksw
+  rss: https://v2.velog.io/rss/heyksw
+  github: https://github.com/socar-abel
+- name: 김상원
+  blog: https://brunch.co.kr/@hero4earth
+  rss: https://brunch.co.kr/rss/@@NjN
+  description: 데이터 분석
+  facebook: https://www.facebook.com/eddy.sangwon
+  github: https://github.com/hero4earth
+  linkedin: https://www.linkedin.com/in/hero4earth
+  home: http://hero4earth.com/
 - name: 김상윤
   facebook: https://www.facebook.com/profile.php?id=100028386872756
 - name: 김상헌
