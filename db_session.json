@@ -4935,6 +4935,78 @@
   "conference": "DEVIEW",
   "year": 2023
 },{
+  "title": "UI 빌더를 지탱하는 레고 블록 같은 아키텍처 만들기",
+  "author": "김훈민",
+  "slide": "https://deview.kr/data/deview/session/attach/[113]UI+%EB%B9%8C%EB%8D%94%EB%A5%BC+%EC%A7%80%ED%83%B1%ED%95%98%EB%8A%94+%EB%A0%88%EA%B3%A0+%EB%B8%94%EB%A1%9D+%EA%B0%99%EC%9D%80+%EC%95%84%ED%82%A4%ED%85%8D%EC%B2%98+%EB%A7%8C%EB%93%A4%EA%B8%B0.pdf",
+  "video": "https://tv.naver.com/v/33860461",
+  "description": "치열해진 경쟁과 빠르게 변해가는 비즈니스 환경은 프런트엔드 개발/운영 비용 효율화를 요구하고 있습니다. '레고 블록을 조립하듯 애플리케이션을 만들 순 없을까?'",
+  "tags": ["Web"],
+  "conference": "DEVIEW",
+  "year": 2023
+},{
+  "title": "지금까지 이런 검색은 없었다. 이것은 검색인가 추천인가 - 네이버 스마트블록 개인화 검색",
+  "author": "한상규, 옥슬기, 최형주",
+  "slide": "https://deview.kr/data/deview/session/attach/[123]+%EC%A7%80%EA%B8%88%EA%B9%8C%EC%A7%80+%EC%9D%B4%EB%9F%B0+%EA%B2%80%EC%83%89%EC%9D%80+%EC%97%86%EC%97%88%EB%8B%A4.+%EC%9D%B4%EA%B2%83%EC%9D%80+%EA%B2%80%EC%83%89%EC%9D%B8%EA%B0%80+%EC%B6%94%EC%B2%9C%EC%9D%B8%EA%B0%80+-+%EB%84%A4%EC%9D%B4%EB%B2%84+%EC%8A%A4%EB%A7%88%ED%8A%B8%EB%B8%94%EB%A1%9D+%EA%B0%9C%EC%9D%B8%ED%99%94+%EA%B2%80%EC%83%89.pdf",
+  "video": "https://tv.naver.com/v/33857666",
+  "description": "이 세션에서는 사용자가 원하는 콘텐츠를 쉽고 빠르게 찾도록 돕기 위한 스마트블록 개인화 검색에 대해 이야기합니다. 스마트블록 개인화 검색 알고리즘의 근간을 이루는 랭킹 모델과 검색 및 개인화 피쳐에 대해 상세히 공유하고, 서빙 시스템 구조를 개념적으로 소개합니다. 또한 개인화된 검색 결과를 제공했을 때 만족도가 높은 사용자 그룹에 대한 분석 결과를 공유합니다. 콜드 스타트 문제를 해결하기 위한 고민들과 A/B test 를 통해 스마트블록 개인화 검색 서비스를 개선해온 실제 경험에 기반한 노하우와 팁들도 소개합니다.",
+  "tags": ["AI/ML", "Recommendation", "Search"],
+  "conference": "DEVIEW",
+  "year": 2023
+},{
+  "title": "CQuery : 우당탕탕 Trino와 썸타기",
+  "author": "유재호",
+  "slide": "https://deview.kr/data/deview/session/attach/[133]CQuery%20-%20%EC%9A%B0%EB%8B%B9%ED%83%95%ED%83%95%20Trino%EC%99%80%20%EC%8D%B8%ED%83%80%EA%B8%B0.pdf",
+  "video": "https://tv.naver.com/v/33862499",
+  "description": "본 세션에서는 AIDA CQuery를 통해 네이버에서 서비스로부터 나온 다양한 데이터를 어떻게 빠르고 안전하게 분석할 수 있는지 운영 전반을 공유하려고 합니다. CQuery Trino 엔진을 적용하면서 운영 및 개발한 부분들에 대해서 소개합니다.",
+  "tags": ["Data", "Search"],
+  "conference": "DEVIEW",
+  "year": 2023
+},{
+  "title": "검출과 인식 모델을 하나로? : challenge 우승 OCR 서비스 모델 새 출시!",
+  "author": "길태호, 서석민",
+  "slide": "https://deview.kr/data/deview/session/attach/[143]%EA%B2%80%EC%B6%9C%EA%B3%BC%EC%9D%B8%EC%8B%9D%EB%AA%A8%EB%8D%B8%EC%9D%84%ED%95%98%EB%82%98%EB%A1%9C+challenge+%EC%9A%B0%EC%8A%B9+OCR%EB%AA%A8%EB%8D%B8+%EC%83%88%EC%B6%9C%EC%8B%9C.pdf",
+  "video": "https://tv.naver.com/v/33862691",
+  "description": "이번 세션에서는 Text Vision 팀에서 Next OCR model 개발을 위해 했던 고민들과 해결해 나간 과정을 공유합니다. 기존 2개의 model (text detection 과 recognition) 으로 OCR을 하며 발생했던 문제들과 새로운 End-To-End 모델이 가지는 장점 및 새롭게 할 수 있게 된 것을 소개합니다. 또한 AI 모델을 실제 서비스로 배포하기 위해 진행한 Out Of Domain Data수집과 QA 대해 소개합니다. ECCV OOV scene text understanding 대회에서 우승한 경험을 공유합니다.",
+  "tags": ["AI/ML", "Audio/Image/Video"],
+  "conference": "DEVIEW",
+  "year": 2023
+},{
+  "title": "중요한 건 꺾이지 않는 마음: 스마트에디터의 도전",
+  "author": "김성원, 이진",
+  "slide": "https://deview.kr/data/deview/session/attach/[114]%EC%A4%91%EC%9A%94%ED%95%9C_%EA%B1%B4_%EA%BA%BE%EC%9D%B4%EC%A7%80_%EC%95%8A%EB%8A%94_%EB%A7%88%EC%9D%8C_%EC%B5%9C%EC%A2%85.pdf",
+  "video": "https://tv.naver.com/v/33860525",
+  "description": "새로운 스마트 에디터를 구현하면서 사용한 기술을 소개합니다.",
+  "tags": ["Web"],
+  "conference": "DEVIEW",
+  "year": 2023
+},{
+  "title": "네이버 스케일로 카프카 컨슈머 사용하기",
+  "author": "이동진",
+  "slide": "https://deview.kr/data/deview/session/attach/[124]%EB%84%A4%EC%9D%B4%EB%B2%84%EC%8A%A4%EC%BC%80%EC%9D%BC%EB%A1%9C%EC%B9%B4%ED%94%84%EC%B9%B4%EC%BB%A8%EC%8A%88%EB%A8%B8%EC%82%AC%EC%9A%A9%ED%95%98%EA%B8%B0.pdf",
+  "video": "https://tv.naver.com/v/33857687",
+  "description": "카프카 컨슈머는 많은 경우 잘 동작하는 물건이지만, 쿠버네티스 환경에서 사용하는 것이 그리 쉽지만은 않습니다. 이 세션에서는 카프카 컨슈머를 쿠버네티스 환경에서 사용할 때 주의할 점과 네이버가 어떻게 이 문제를 해결했는지를 살펴봅니다.",
+  "tags": ["Data", "Server"],
+  "conference": "DEVIEW",
+  "year": 2023
+},{
+  "title": "상황에 맞는 취향 장소 발견하기. HyperLocal 추천 시스템 A to Z",
+  "author": "전영환",
+  "slide": "https://deview.kr/data/deview/session/attach/[134]%EC%83%81%ED%99%A9%EC%97%90+%EB%A7%9E%EB%8A%94+%EC%B7%A8%ED%96%A5+%EC%9E%A5%EC%86%8C+%EB%B0%9C%EA%B2%AC%ED%95%98%EA%B8%B0.+HyperLocal+%EC%B6%94%EC%B2%9C+%EC%8B%9C%EC%8A%A4%ED%85%9C+A+to+Z_Final%20(1).pdf",
+  "video": "https://tv.naver.com/v/34032810",
+  "description": "이 세션에서는 Local Domain에서 접할 수 있는 다양한 Data와 추천의 상황들에 대해 공유합니다. 각 상황에서 어떻게 하면 좋은 추천을 할 수 있을지에 대해 고민했던 것들을 소개합니다. Heterogeneous Domain Data, Multimodal Data를 잘 이해하는 방법, 여러 Task에 적용가능하도록 Representation Learning을 하는 방법, NAVER에서의 다양한 User Behavior를 Graph 구조를 통해 잘 이해하는 방법 등 기술을 연구하고 개발하는 과정에서의 노하우와 팁을 발표합니다. 또한 실제 서비스에 적용하기의 고민 Point들을 나눕니다. 그리고 이렇게 서비스에 적용된 추천 기술들이 사용자들이 어떻게 사용하고 있고, 이를 통해 어떠한 가치를 얻어가는지에 대해 소개합니다.",
+  "tags": ["AI/ML", "Recommendation", "Search"],
+  "conference": "DEVIEW",
+  "year": 2023
+},{
+  "title": "클로바노트의 두뇌: NAVER의 End-to-End 음성인식 엔진 소개",
+  "author": "정민규, 김한규",
+  "slide": "https://deview.kr/data/deview/session/attach/[144]%ED%81%B4%EB%A1%9C%EB%B0%94%EB%85%B8%ED%8A%B8%EC%9D%98+%EB%91%90%EB%87%8C+NAVER%EC%9D%98+End-to-End+%EC%9D%8C%EC%84%B1%EC%9D%B8%EC%8B%9D+%EC%97%94%EC%A7%84+%EC%86%8C%EA%B0%9C.pdf",
+  "video": "https://tv.naver.com/v/33863145",
+  "description": "",
+  "tags": ["AI/ML", "Audio/Image/Video"],
+  "conference": "DEVIEW",
+  "year": 2023
+},{
   "title": "오픈스택으로 바라보는 AWS와 구글 클라우드 플랫폼",
   "author": "이태영",
   "video": "https://www.youtube.com/watch?v=hKVIxP-hKbc",
