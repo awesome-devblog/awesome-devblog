@@ -9636,9 +9636,8 @@
   twitter: https://twitter.com/wooiljeong
   linkedin: https://www.linkedin.com/in/wooil/
 - name: 정우철
-  description: 성장하는 개발자 DEVVOO
-  blog: https://root-devvoo.github.io/
-  rss: https://root-devvoo.github.io/feed.xml
+  blog: https://velog.io/@root-devvoo
+  rss: https://v2.velog.io/rss/root-devvoo
   github: https://github.com/root-devvoo
   linkedin: https://www.linkedin.com/in/devvoo/
 - name: 정욱재
