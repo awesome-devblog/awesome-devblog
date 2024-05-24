@@ -1957,6 +1957,10 @@
   rss: https://brunch.co.kr/atom/@@13x1
   description: 게임 개발
 - name: 김우정
+  blog: https://blog.wooseop.kim
+  rss: https://blog.wooseop.kim/index.xml
+  github: https://github.com/wooseopkim
+- name: 김우정
   blog: https://kimlog.me/
   rss: https://kimlog.me/rss.xml
   twitter: https://twitter.com/gnujoow
