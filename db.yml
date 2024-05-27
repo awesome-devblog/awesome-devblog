@@ -8523,6 +8523,12 @@
   rss: https://twpower.github.io/feed.xml
   github: https://github.com/TWpower
   linkedin: https://www.linkedin.com/in/twpower/
+- name: 이태수
+  blog: https://medium.com/@taesulee93
+  rss: https://medium.com/feed/@taesulee93
+  description: Java, Kotlin, Spring, Back-end
+  github: https://github.com/dlxotn216
+  linkedin: https://www.linkedin.com/in/tae-su-lee-0385371a5
 - name: 이태화
   blog: https://platformengineer.tistory.com/
   rss: https://platformengineer.tistory.com/rss
