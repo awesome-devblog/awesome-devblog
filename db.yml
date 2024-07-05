@@ -11908,6 +11908,11 @@
 - name: 홍석현
   facebook: https://www.facebook.com/unifiedh
   twitter: https://twitter.com/unifiedh
+- name: 홍승백
+  blog: https://blog.naver.com/baek2sm
+  rss: https://rss.blog.naver.com/baek2sm.xml
+  description: 인공지능
+  github: https://github.com/baek2sm/
 - name: Hohyeon Moon
   blog: https://www.hohyeonmoon.com
   rss: https://www.hohyeonmoon.com/feed.rss
