@@ -2349,6 +2349,11 @@
   blog: https://velog.io/@beberiche
   rss: https://v2.velog.io/rss/beberiche
   description: Nodejs
+- name: 김종현
+  blog: https://heiwais25.github.io/
+  rss: https://heiwais25.github.io/feed.xml
+  github: https://github.com/heiwais25
+  facebook: https://www.facebook.com/rlawhdgusvv
 - name: 김종희
   blog: https://kimpaper.github.io/
   rss: https://kimpaper.github.io/index.xml
