@@ -21,7 +21,7 @@
   rss: https://www.44bits.io/ko/feed/posts
   youtube: https://www.youtube.com/channel/UCPwutg-Q08jMQoPClzD0lTQ/
   facebook: https://www.facebook.com/fortyfourbits/
-  twitter: https://twitter.com/@fortyfourbits
+  x: https://x.com/@fortyfourbits
 - name: 가비아
   blog: https://library.gabia.com/
   rss: https://library.gabia.com/feed
@@ -167,7 +167,7 @@
 - name: 당근마켓
   blog: https://medium.com/daangn
   rss: https://medium.com/feed/daangn
-  twitter: https://twitter.com/danggeunteam
+  x: https://x.com/danggeunteam
   facebook: https://www.facebook.com/danggeunmarket/
   github: https://github.com/daangn
   home: https://www.notion.so/3d0197c137ec43d18ff739b5b254a3c8
@@ -260,7 +260,7 @@
   blog: https://blog.remotemonster.com/
   rss: https://blog.remotemonster.com/feed
   description: WebRTC
-  twitter: https://twitter.com/remotemonster
+  x: https://x.com/remotemonster
   facebook: https://www.facebook.com/RemoteMonster/
   rocketpunch: https://www.rocketpunch.com/companies/remotemonster
 - name: 리베하얀
@@ -272,7 +272,7 @@
   rss: https://engineering.linecorp.com/ko/feed/
   youtube: https://www.youtube.com/channel/UC4CjFOoZlYSaqMHEDFCKcXQ
   facebook: https://www.facebook.com/line.developers
-  twitter: https://twitter.com/line_developers
+  x: https://x.com/line_developers
   home: https://engineering.linecorp.com/ko/
   rocketpunch: https://www.rocketpunch.com/companies/line
 - name: 래블업
@@ -474,7 +474,7 @@
   blog: https://medium.com/modulabs
   rss: https://medium.com/feed/modulabs
   home: https://modulabs.co.kr/
-  twitter: https://twitter.com/drsonicwave
+  x: https://x.com/drsonicwave
   facebook: https://www.facebook.com/lab4all/
   instagram: https://www.instagram.com/modulabs_/
 - name: 모두의연구소
@@ -523,7 +523,7 @@
   blog: http://boxnwhis.kr/
   rss: http://boxnwhis.kr/feed.xml
   facebook: https://www.facebook.com/boxnwhis.kr/
-  twitter: https://twitter.com/boxnwhiskr
+  x: https://x.com/boxnwhiskr
   linkedin: https://www.linkedin.com/company/box-and-whisker/
   github: https://github.com/box-and-whisker
 - name: 버즈니 보일러실
@@ -551,7 +551,7 @@
 - name: 뷰저블
   blog: https://brunch.co.kr/@beusable
   rss: https://brunch.co.kr/rss/@@30Rl
-  twitter: https://twitter.com/4grit_beusable
+  x: https://x.com/4grit_beusable
   home: https://www.beusable.net/
   rocketpunch: https://www.rocketpunch.com/companies/4grit-2
 - name: 빔캠프 VEAMCAMP
@@ -606,7 +606,7 @@
 - name: 생활코딩
   facebook: https://www.facebook.com/groups/codingeverybody/
   home: https://opentutorials.org/
-  twitter: https://twitter.com/opentutorialss
+  x: https://x.com/opentutorialss
   youtube: https://www.youtube.com/channel/UCvc8kv-i5fvFTJBFAk6n1SA
 - name: 서플
   blog: https://medium.com/supple
@@ -778,7 +778,7 @@
   blog: http://www.acornpub.co.kr/blog
   rss: https://feeds.feedburner.com/acornpub
   facebook: https://www.facebook.com/acornpub/
-  twitter: https://twitter.com/acornpub
+  x: https://x.com/acornpub
   rocketpunch: https://www.rocketpunch.com/companies/eikonculpansa
 - name: 엠비안
   blog: http://blog.embian.com/
@@ -810,7 +810,7 @@
   blog: http://blog.insightbook.co.kr
   rss: http://blog.insightbook.co.kr/rss
   facebook: https://www.facebook.com/insightbook/
-  twitter: https://twitter.com/insightbook
+  x: https://x.com/insightbook
 - name: 오픈 드론 프로젝트
   facebook: https://www.facebook.com/groups/opendrone/
 - name: 오픈소스컨설팅
@@ -982,7 +982,7 @@
   blog: https://velog.io/@qroffle
   rss: https://v2.velog.io/rss/qroffle
   github: https://github.com/qroffle
-  twitter: https://twitter.com/qroffle_com
+  x: https://x.com/qroffle_com
   home: https://qroffle.com/
 - name: 큐브리드
   blog: https://www.cubrid.com/blog/
@@ -1008,7 +1008,7 @@
   facebook: https://www.facebook.com/codebusking.show/
   home: https://codebusking.show/
   youtube: https://www.youtube.com/channel/UCrKE8ihOKHxYHBzI0Ys-Oow
-  twitter: https://twitter.com/codebusking
+  x: https://x.com/codebusking
 - name: 코드스피츠
   facebook: https://www.facebook.com/groups/codespitz/
   youtube: https://www.youtube.com/channel/UCKXBpFPbho1tp-Ntlfc25kA
@@ -1036,11 +1036,11 @@
   facebook: https://www.facebook.com/groups/1963638103652580/
 - name: 클리앙
   home: https://www.clien.net/
-  twitter: https://twitter.com/clien_archive
+  x: https://x.com/clien_archive
   android: https://play.google.com/store/apps/details?id=com.esstudio.clien
 - name: 클리어보스
   facebook: https://www.facebook.com/groups/clearboth/
-  twitter: https://twitter.com/clearboth_kr
+  x: https://x.com/clearboth_kr
 - name: 캘리탐험대
   youtube: https://www.youtube.com/channel/UCZX4ss_cfINJANJdNMgxjvg
 - name: 코드스쿼드
@@ -1199,7 +1199,7 @@
 - name: 하이브아레나
   home: https://hivearena.com/
   facebook: https://www.facebook.com/hivearena/
-  twitter: https://twitter.com/hivearena
+  x: https://x.com/hivearena
   instagram: https://www.instagram.com/hivearena/
   rocketpunch: https://www.rocketpunch.com/companies/hivearena
 - name: 한국 그린데이터
@@ -1273,7 +1273,7 @@
   blog: https://blog.aliencube.org/
   rss: https://blog.aliencube.org/feed.xml
   facebook: https://www.facebook.com/aliencube.community/
-  twitter: https://twitter.com/aliencubeorg
+  x: https://x.com/aliencubeorg
 - name: Angular Korea
   facebook: https://www.facebook.com/groups/ngkorea/
 - name: AI Robotics KR
@@ -1299,13 +1299,13 @@
   slack: https://awskrug.slack.com/
   meetup: https://www.meetup.com/ko-KR/awskrug/
   github: https://github.com/awskrug
-  twitter: https://twitter.com/awskrug
+  x: https://x.com/awskrug
   slideshare: https://www.slideshare.net/awskr
 - name: AWS Korea
   blog: https://aws.amazon.com/ko/blogs/korea/
   rss: https://aws.amazon.com/ko/blogs/korea/feed/
   facebook: https://www.facebook.com/amazonwebservices.ko/
-  twitter: https://twitter.com/awskorea
+  x: https://x.com/awskorea
   slideshare: https://www.slideshare.net/awskorea
 - name: AXISJ
   home: http://axisj.com/
@@ -1367,7 +1367,7 @@
   facebook: https://www.facebook.com/daumdevelopers/
 - name: devCAT Studio
   home: https://devcat.com/
-  twitter: https://twitter.com/devCAT_official
+  x: https://x.com/devCAT_official
   facebook: https://www.facebook.com/devCAT.official
   instagram: https://www.instagram.com/devcat.studio_official/
   slideshare: https://www.slideshare.net/devcatpublications
@@ -1388,7 +1388,7 @@
 - name: Django Girls Seoul
   home: https://djangogirls.org/seoul/
   facebook: https://www.facebook.com/djangogirlsseoul/
-  twitter: https://twitter.com/djangogirlseoul
+  x: https://x.com/djangogirlseoul
   medium: https://medium.com/djangogirlsseoul-codecamp
   rss: https://medium.com/feed/djangogirlsseoul-codecamp
 - name: Docker Seoul
@@ -1451,7 +1451,7 @@
 - name: GDG Seoul
   facebook: https://www.facebook.com/groups/gdgseoul/
   slack: https://gdgkr.slack.com/
-  twitter: https://twitter.com/gdgseoul
+  x: https://x.com/gdgseoul
 - name: GDG Suwon
   googlegroups: https://groups.google.com/forum/#!forum/gdg-suwon
 - name: GDG Cloud Korea
@@ -1597,7 +1597,7 @@
   blog: http://kotlin.kr/blog/
   rss: http://kotlin.kr/feed.xml
   facebook: https://www.facebook.com/groups/kotlinkr/
-  twitter: https://twitter.com/kotlinkr
+  x: https://x.com/kotlinkr
   meetup: https://www.meetup.com/ko-KR/kotlinkr/
   slack: https://kotlinkr.slack.com/
   github: https://github.com/kotlinkr
@@ -1659,7 +1659,7 @@
   blog: https://d2.naver.com/
   rss: https://d2.naver.com/d2.atom
   facebook: https://www.facebook.com/naverd2/
-  twitter: https://twitter.com/naver_d2
+  x: https://x.com/naver_d2
   youtube: https://www.youtube.com/channel/UCNrehnUq7Il-J7HQxrzp7CA
   slideshare: https://www.slideshare.net/deview
   rocketpunch: https://www.rocketpunch.com/companies/d2startupfactory
@@ -1688,7 +1688,7 @@
 - name: NHN TOAST UI
   blog: https://ui.toast.com/
   rss: https://ui.toast.com/rss.xml
-  twitter: https://twitter.com/toastui
+  x: https://x.com/toastui
   medium: https://toastui.medium.com/
   rocketpunch: https://www.rocketpunch.com/companies/nhn
 - name: NodeMCU 사용자 모임
@@ -1768,7 +1768,7 @@
 - name: Redis Korean User Group
   facebook: https://www.facebook.com/groups/rediskorea/
 - name: Remotty
-  twitter: https://twitter.com/remottykr
+  x: https://x.com/remottykr
   github: https://github.com/remotty
 - name: Rust Seoul
   meetup: https://www.meetup.com/ko-KR/Rust-Seoul/
@@ -1796,7 +1796,7 @@
   facebook: https://www.facebook.com/seoulai/
   meetup: https://www.meetup.com/ko-KR/Seoul-Artificial-Intelligence/
   slack: https://seoulai.slack.com/
-  twitter: https://twitter.com/seoul_ai
+  x: https://x.com/seoul_ai
 - name: Seoul Elixir Meetup
   meetup: https://www.meetup.com/ko-KR/Seoul-Elixir-Meetup/
 - name: Seoul Ruby Meetup
@@ -1903,7 +1903,7 @@
 - name: Typed
   blog: https://medium.com/business-canvas
   rss: https://medium.com/feed/business-canvas
-  twitter: https://twitter.com/typedhq
+  x: https://x.com/typedhq
   facebook: https://www.facebook.com/Typed.do/
   instagram: https://www.instagram.com/typed.hq/
   rocketpunch: https://www.rocketpunch.com/companies/businesscanvas
@@ -1930,7 +1930,7 @@
 - name: Vingle
   blog: https://medium.com/vingle-tech-blog
   rss: https://medium.com/feed/vingle-tech-blog
-  twitter: https://twitter.com/vingle_dev
+  x: https://x.com/vingle_dev
   facebook: https://www.facebook.com/vingletech
   youtube: https://www.youtube.com/channel/UC7Byj1Uj3AqaPd6erv75uAg
   rocketpunch: https://www.rocketpunch.com/companies/vingle
@@ -1945,7 +1945,7 @@
 - name: WATCHA
   blog: https://medium.com/watcha
   rss: https://medium.com/feed/watcha
-  twitter: https://twitter.com/watcha_app
+  x: https://x.com/watcha_app
   facebook: https://www.facebook.com/watchaInc/
   home: https://team.watcha.com/
   rocketpunch: https://www.rocketpunch.com/companies/watcha
