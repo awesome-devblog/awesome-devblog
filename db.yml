@@ -6345,11 +6345,10 @@
   github: https://github.com/saengmotmi
   facebook: https://www.facebook.com/jongtaek5/
 - name: 오준상
-  blog: https://highschool-dev.tistory.com/
-  rss: https://highschool-dev.tistory.com/rss
+  blog: https://velog.io/@pandati0710
+  rss: https://v2.velog.io/rss/pandati0710
   description: Front-end
   github: https://github.com/sema0710
-  velog: https://velog.io/@pandati0710
 - name: 오준석
   blog: https://brunch.co.kr/@hopeless
   rss: https://brunch.co.kr/rss/@@2iiS
@@ -11309,7 +11308,6 @@
   facebook: https://www.facebook.com/profile.php?id=100004761372043
 - name: 한상훈
   blog: https://brunch.co.kr/@skykamja24
-  rss: https://brunch.co.kr/rss/@@EMK
   description: 에어데스크
 - name: 한상훈
   blog: https://developer-52.tistory.com/
@@ -11918,6 +11916,11 @@
   facebook: https://www.facebook.com/hhyun06/
   instagram: https://www.instagram.com/x6tri3n0g/
   linkedin: https://www.linkedin.com/in/hyun-hwang-195b671a3/
+- name: 황현민
+  blog: https://velog.io/@200woni
+  rss: https://v2.velog.io/rss/200woni
+  github: https://github.com/hyunmin200
+  linkedin: https://www.linkedin.com/in/현민-황-493b14302/
 - name: 홍석현
   facebook: https://www.facebook.com/unifiedh
   x: https://x.com/unifiedh
