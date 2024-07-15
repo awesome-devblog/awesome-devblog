@@ -2589,6 +2589,11 @@
   github: https://github.com/vmfhrmfoaj
   linkedin: https://www.linkedin.com/in/jinseop-kim-127b3480/
 - name: 김진성
+  blog: https://coor.tistory.com/
+  rss: https://coor.tistory.com/rss
+  description: Java, Backend
+  github: https://github.com/coorr
+- name: 김진성
   blog: https://jinseong0928.blogspot.kr/
   rss: https://jinseong0928.blogspot.com/feeds/posts/default
   description: ''
