@@ -1864,6 +1864,10 @@
   blog: https://velog.io/@yerini
   rss: https://v2.velog.io/rss/yerini
   description: Front-end
+- name: 김예은
+  blog: https://splendidlolli.tistory.com
+  rss: https://splendidlolli.tistory.com/rss
+  description: Backend
 - name: 김예찬
   blog: https://kycfeel.github.io/
   rss: https://kycfeel.github.io/feed.xml
