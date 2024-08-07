@@ -3550,8 +3550,8 @@
   rss: https://v2.velog.io/rss/mythos
   github: https://github.com/Cruzer-S
 - name: 문영채
-  blog: https://octoping.tistory.com
-  rss: https://octoping.tistory.com/rss
+  blog: https://until.blog/@octoping
+  rss: https://until.blog/@octoping/rss.xml
   description: Backend
   github: https://github.com/Octoping925
 - name: 문영하
