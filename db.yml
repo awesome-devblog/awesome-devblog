@@ -5933,14 +5933,11 @@
   github: https://github.com/eungyeole
   home: https://eungyeole.super.site/
 - name: 안이수
-  blog: https://www.ooseel.net/
-  rss: https://www.ooseel.net/index.xml
-  description: webOS, GNOME
-  github: https://github.com/memnoth
-  gitlab: https://gitlab.gnome.org/memnoth
-  x: https://x.com/iamt0mmy
-  facebook: https://www.facebook.com/yisooan91
-  wordpress: https://yisooan.wordpress.com/
+  blog: https://dev.to/lsahn
+  rss: https://dev.to/feed/lsahn
+  description: Kernel, Arm64, MMU
+  linkedin: https://www.linkedin.com/in/leesoo-ahn
+  github: https://github.com/lsahn-gh
 - name: 안재열
   blog: https://doublem.org/
   rss: https://doublem.org/feed.xml
