@@ -811,6 +811,10 @@
   rss: http://blog.insightbook.co.kr/rss
   facebook: https://www.facebook.com/insightbook/
   x: https://x.com/insightbook
+- name: 인티그레이션
+  blog: https://velog.io/@medistream/posts
+  rss: https://v2.velog.io/rss/medistream
+  home: https://www.integrationcorp.co.kr/  
 - name: 오픈 드론 프로젝트
   facebook: https://www.facebook.com/groups/opendrone/
 - name: 오픈소스컨설팅
