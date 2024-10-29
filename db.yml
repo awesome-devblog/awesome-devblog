@@ -2567,6 +2567,11 @@
   blog: https://brunch.co.kr/@jihere1001
   rss: https://brunch.co.kr/rss/@@3op
   description: 프로토타이핑
+- name: 김지홍
+  blog: https://h0ng.dev/
+  rss: https://h0ng.dev/rss.xml
+  description: hong dev blog
+  github: https://github.com/JiHongKim98
 - name: 김지환
   linkedin: https://www.linkedin.com/in/지환-김-9335a0a9/
   slideshare: https://www.slideshare.net/mastrayer
