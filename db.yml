@@ -6934,9 +6934,9 @@
   slideshare: https://www.slideshare.net/balladofgale
 - name: 윤우식
   blog: https://suitee.me/
-  description: Node.js, Python, Backend
-  instagram: https://www.instagram.com/yoon.homme/
-  linkedin: https://www.linkedin.com/in/suitelab/
+  rss: https://suitee.me/rss.xml
+  description: Node.js, Kotlin, AWS, Spring Boot, Backend, 성능 최적화
+  linkedin: https://www.linkedin.com/in/suitee
   github: https://github.com/suites
 - name: 윤인성
   youtube: https://www.youtube.com/channel/UCJM7NRGBP9l5xOXU4XEU6UA
