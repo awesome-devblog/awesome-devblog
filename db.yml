@@ -6292,6 +6292,11 @@
   blog: https://wergia.tistory.com/
   rss: https://wergia.tistory.com/rss
   description: 게임 개발
+- name: 오서영
+  blog: https://standing-o.github.io/
+  rss: https://standing-o.github.io/feed.xml
+  description: AI, MLOps 기술 블로그
+  github: https://github.com/standing-o
 - name: 오세용
   blog: http://ohseyong.com/
   rss: http://ohseyong.com/?feed=rss2
