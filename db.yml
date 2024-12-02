@@ -8898,6 +8898,15 @@
   blog: https://blog.naver.com/dlaxodud2388
   rss: https://rss.blog.naver.com/dlaxodud2388.xml
   github: https://github.com/dladncks1217
+- name: 임의상
+  blog: https://blog.amoseui.com
+  rss: https://blog.amoseui.com/rss.xml
+  description: Chromium, Open Source, Web, Android
+  github: https://github.com/amoseui
+  linkedin: https://www.linkedin.com/in/amoseui/
+  medium: https://medium.com/@amoseui
+  speakerdeck: https://speakerdeck.com/amoseui
+  x: https://x.com/amoseui
 - name: 임재연
   home: https://imreplay.com/
   description: Hacking
