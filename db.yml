@@ -1731,7 +1731,7 @@
   rss: https://llmooon.github.io/feed.xml
   description: Algorithm
   github: https://github.com/llmooon
-  - name: 김언화
+- name: 김언화
   blog: https://eonhwa-theme.tistory.com/
   rss: https://eonhwa-theme.tistory.com/rss
   description: Frontend dev
