@@ -2762,6 +2762,11 @@
   blog: https://velog.io/@foxkim
   rss: https://v2.velog.io/rss/foxkim
   description: ''
+- name: 김태윤
+  blog: https://tomorrow-lab.github.io 
+  rss: https://tomorrow-lab.github.io/index.xml
+  github: https://github.com/partrita
+  description: 바이오인포메틱스를 주로 다루는 기술 블로그
 - name: 김태은
   github: https://github.com/taenykim
   facebook: https://www.facebook.com/teun1215
