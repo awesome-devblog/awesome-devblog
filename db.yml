@@ -31,8 +31,8 @@
   linkedin: https://www.linkedin.com/in/daemyung-kang-7538a731/
   slideshare: https://www.slideshare.net/charsyam2
 - name: 강동윤
-  blog: https://kdy1.dev/
-  rss: https://kdy1.dev/rss.xml
+  blog: https://kdy1.dev/en/blog
+  rss: https://kdy1.dev/en/blog/rss.xml
   description: swc
   github: https://github.com/kdy1
   facebook: https://www.facebook.com/profile.php?id=100024888122318
@@ -330,8 +330,8 @@
   rss: https://medium.com/feed/@robertjune
   facebook: https://www.facebook.com/profile.php?id=100012348969710
 - name: 고영훈
-  blog: https://koyo.kr/
-  rss: https://koyo.kr/index.xml
+  blog: https://koyo.kr/posts/
+  rss: https://koyo.kr/atom.xml
   description: Network
   github: https://github.com/koyokr
   linkedin: https://www.linkedin.com/in/younghun-ko-249125135/
@@ -402,8 +402,8 @@
   home: https://hyewon-kwak-portfolio.vercel.app/
   linkedin: https://www.linkedin.com/in/hyewon-kwak-7ba5531b7/
 - name: 곽희범
-  blog: https://norux.me/
-  rss: https://norux.me/rss
+  blog: https://norus.tistory.com/
+  rss: https://norus.tistory.com/rss
   description: Javascript
   github: https://github.com/norux
 - name: 구교준
@@ -463,8 +463,8 @@
   facebook: https://www.facebook.com/profile.php?id=100012676655679
   github: https://github.com/gujc71
 - name: 구재현
-  blog: https://koosaga.com/
-  rss: https://koosaga.com/rss
+  blog: https://amugelab.tistory.com
+  rss: https://amugelab.tistory.com/rss
   description: 알고리즘
   facebook: https://www.facebook.com/gs14004
 - name: 구종만
@@ -561,12 +561,12 @@
 - name: 권오흠
   youtube: https://www.youtube.com/channel/UC-cOmaeWLm7Ii7erMQNatvA
 - name: 권용근
-  blog: https://blog.kingbbode.com/
-  rss: https://blog.kingbbode.com/rss
+  blog: https://kingbbode.tistory.com/
+  rss: https://kingbbode.tistory.com/rss
   description: Spring
   github: https://github.com/kingbbode
-  tistory: https://kingbbode.tistory.com/
   facebook: https://www.facebook.com/kingbbode
+  resume: https://resume.kingbbode.com/
 - name: 권용진
   blog: https://brunch.co.kr/@nsung
   rss: https://brunch.co.kr/rss/@@H9i
@@ -864,9 +864,6 @@
   description: JPA
   github: https://github.com/namjunemy
 - name: 김놀부
-  blog: https://nolboo.kim/
-  rss: https://nolboo.kim/feed.xml
-  description: 번역 모음
   github: https://github.com/nolboo
 - name: 김다민
   blog: https://dobyming.github.io/
@@ -1164,7 +1161,7 @@
   description: Backend
 - name: 김민근
   blog: https://getsolaris.kr/
-  rss: https://getsolaris.kr/index.xml
+  rss: https://getsolaris.kr/feed.xml
   description: Laravel
   github: https://github.com/getsolaris
   facebook: https://www.facebook.com/mingeun.kr
@@ -1349,8 +1346,8 @@
   github: https://github.com/harfangk
   x: https://x.com/harfangk
 - name: 김백
-  blog: https://baek-kim-dev.site/
-  rss: https://baek-kim-dev.site/rss
+  blog: https://bk-investing.tistory.com/
+  rss: https://bk-investing.tistory.com/rss
   description: 개발, IT기업 취업, 알고리즘
 - name: 김삼영
   blog: https://netpple.github.io/
@@ -1390,7 +1387,7 @@
   github: https://github.com/rlarnfktkd1
 - name: 김상훈
   blog: https://interpiler.com/
-  rss: https://interpiler.com/index.php/feed/
+  rss: https://interpiler.com/feed.xml
   description: IT 칼럼
 - name: 김상희
   blog: https://medium.com/@sanghee
@@ -1816,8 +1813,8 @@
   description: Android
   github: https://github.com/quarl894
 - name: 김영찬
-  blog: https://sansamlife.com/
-  rss: https://sansamlife.com/rss
+  blog: https://develop.tistory.com/
+  rss: https://develop.tistory.com/rss
   facebook: https://www.facebook.com/youngchan.kim.9480
 - name: 김영하
   blog: https://brunch.co.kr/@fermat39
@@ -1878,7 +1875,6 @@
   facebook: https://www.facebook.com/profile.php?id=100004319825599
 - name: 김용묵
   blog: http://moogi.new21.org/
-  rss: http://moogi.new21.org/tc/rss
   description: 한글 언어, C++
 - name: 김용욱
   blog: https://dalinaum.github.io/
@@ -2145,7 +2141,6 @@
   x: https://x.com/jungsun_kim
 - name: 김정식
   blog: https://joungsik.github.io/
-  rss: https://joungsik.github.io/index.xml
   github: https://github.com/JoungSik
 - name: 김정웅
   youtube: https://www.youtube.com/channel/UCY8gYfkky1jYZbiba4x8Yvg
@@ -2184,12 +2179,9 @@
   linkedin: https://www.linkedin.com/in/jeonghean-kim/
   github: https://github.com/dev-yakuza
   instagram: https://www.instagram.com/dev_yakuza/
-- name: 김정현
-  blog: https://gluebyte.tumblr.com/
-  rss: https://gluebyte.tumblr.com/rss
 - name: 김정형
-  blog: https://hello-world.kr/
-  rss: https://hello-world.kr/rss
+  blog: https://coding-deer.tistory.com/
+  rss: https://coding-deer.tistory.com/rss
   github: https://github.com/JeongHyeongKim
   facebook: https://www.facebook.com/kim.jeonghyeong.9
 - name: 김정환
