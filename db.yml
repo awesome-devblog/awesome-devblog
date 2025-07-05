@@ -7438,6 +7438,11 @@
   blog: https://pgmrlsh.tistory.com/
   rss: https://pgmrlsh.tistory.com/rss
   description: TensorFlow
+- name: 이상현
+  blog: https://www.shdev.blog/
+  rss: https://www.shdev.blog/ko/rss/feed
+  description: Front-end, Web
+  github: https://github.com/4anghyeon
 - name: 이상협
   blog: https://tkdguq05.github.io/
   description: Data Science & Engineering
