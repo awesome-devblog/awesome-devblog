@@ -7427,10 +7427,6 @@
   stackoverflow: https://stackoverflow.com/users/524588/sanghyun-lee
   github: https://github.com/sangdol
 - name: 이상현
-  blog: https://pgmrlsh.tistory.com/
-  rss: https://pgmrlsh.tistory.com/rss
-  description: TensorFlow
-- name: 이상현
   blog: https://www.shdev.blog/
   rss: https://www.shdev.blog/ko/rss/feed
   description: Front-end, Web
