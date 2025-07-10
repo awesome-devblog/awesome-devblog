@@ -957,6 +957,10 @@
   blog: https://kdohyeon.tistory.com
   rss: https://kdohyeon.tistory.com/rss
   description: 백엔드 개발
+- name: 김도현
+  blog: https://dohyeon.dev
+  rss: https://dohyeon.dev/api/rss
+  description: 개발
 - name: 김도형
   blog: https://brunch.co.kr/@iliyard
   rss: https://brunch.co.kr/rss/@@HP3
@@ -2755,7 +2759,7 @@
   rss: https://v2.velog.io/rss/foxkim
   description: ''
 - name: 김태윤
-  blog: https://tomorrow-lab.github.io 
+  blog: https://tomorrow-lab.github.io
   rss: https://tomorrow-lab.github.io/index.xml
   github: https://github.com/partrita
   description: 바이오인포메틱스를 주로 다루는 기술 블로그
