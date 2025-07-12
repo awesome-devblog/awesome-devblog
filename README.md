@@ -50,6 +50,7 @@
 - [디스콰이엇](https://disquiet.io/product/%EC%96%B4%EC%8D%B8%EB%8D%B0%EB%B8%8C%EB%B8%94%EB%A1%9C%EA%B7%B8)
 - [어썸데브블로그에 내 블로그가 등록 됐다](https://su-mmer.tistory.com/106)
 - [깃허브 contributor](https://blog.naver.com/jyjy8940/223120806381)
+- [바이브코딩으로 만드는 어썸 데브블로그](https://velog.io/@koeunyeon/바이브코딩으로-만드는-어썸-데브블로그)
 
 ## 랭킹
 - Github Topics
@@ -73,6 +74,7 @@
 - [딥러닝으로 문서 분류기 만들기](https://blog.devstory.co.kr/post/devblog-classifier)
 - [devlogmoa](http://devlogmoa.shop/), [Github](https://github.com/monkeyDugi/dev_log_moa)
 - [mysetting](https://mysetting.io/posts/trending/all)
+- [개발자의 놀이터](https://feed-sync-scribe.lovable.app/)
 
 ## Star History
 
