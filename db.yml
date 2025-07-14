@@ -2450,8 +2450,8 @@
   rss: https://brunch.co.kr/rss/@@l9p
   description: ''
 - name: 김지오
-  blog: https://blog.wldh.org/
-  rss: https://blog.wldh.org/rss
+  blog: https://yuoa.tistory.com/
+  rss: https://yuoa.tistory.com/rss
   github: https://github.com/wldh-g
   facebook: https://www.facebook.com/wldh.aa
   x: https://x.com/wldh_aa
@@ -2486,8 +2486,8 @@
   rss: https://medium.com/feed/@originerd
   description: React
 - name: 김지헌
-  blog: https://java.ihoney.pe.kr/
-  rss: https://java.ihoney.pe.kr/rss
+  blog: https://honeymonjava.tistory.com/
+  rss: https://honeymonjava.tistory.com/rss
   description: Java
   github: https://github.com/ihoneymon
   x: https://x.com/ihoneymon
@@ -2643,16 +2643,14 @@
   facebook: https://www.facebook.com/profile.php?id=100014499787423
   github: https://github.com/changhoi
 - name: 김창회
-  blog: https://kormelon.com
-  rss: https://kormelon.com/rss
   description: Front-End
   github: https://github.com/chkim116
 - name: 김철민
   blog: https://kbs4674.tistory.com/
   rss: https://kbs4674.tistory.com/rss
 - name: 김청진
-  blog: https://jinblog.kr
-  rss: https://jinblog.kr/rss
+  blog: https://jinfactory.tistory.com/
+  rss: https://jinfactory.tistory.com/rss
   description: IT소식/리뷰, 개발(웹, 모바일)
   facebook: https://fb.jinblog.kr
   youtube: https://www.youtube.com/channel/UCaqmFHhWWCvQt2xsWNmEHgQ
@@ -2697,8 +2695,8 @@
   rss: https://beyondj2ee.wordpress.com/feed/
   description: Java
 - name: 김태범
-  blog: https://hackability.kr/
-  rss: https://hackability.kr/rss
+  blog: https://hackability.tistory.com/
+  rss: https://hackability.tistory.com/rss
   description: Hacking
   facebook: https://www.facebook.com/taebeom.kim.790
   github: https://github.com/ktb88
@@ -3549,8 +3547,8 @@
   rss: https://medium.com/feed/hgmin
   linkedin: https://www.linkedin.com/in/hgmin/
 - name: 민형기
-  blog: https://pinkwink.kr/
-  rss: https://pinkwink.kr/rss
+  blog: https://pinkwink.tistory.com/
+  rss: https://pinkwink.tistory.com/rss
   description: Robot, Data Science
   facebook: https://www.facebook.com/hyunggi.min.16
   github: https://github.com/PinkWink
@@ -3581,12 +3579,6 @@
   linkedin: https://www.linkedin.com/in/kyungwook-park-6421b858/
   x: https://x.com/kyungw00k
   github: https://github.com/kyungw00k
-- name: 박경준
-  blog: https://ryanpark.dev/
-  rss: https://ryanpark.dev/rss
-  description: Domain Driven Design
-  facebook: https://www.facebook.com/kyungjun.park.77
-  home: https://ryanpark.dev/
 - name: 박경훈
   nickname: HOONS
   blog: https://hoonsbara.tistory.com/
@@ -3755,7 +3747,6 @@
   description: ''
 - name: 박상길
   blog: https://likejazz.com/
-  rss: https://likejazz.com/rss
   description: 도서 리뷰
 - name: 박상길
   blog: https://parksangkil.github.io/ko/
@@ -3942,8 +3933,8 @@
   rss: https://rss.blog.naver.com/hyo04085.xml
   facebook: https://www.facebook.com/soheeparkk
 - name: 박수빈
-  blog: https://blog.soobinpark.com/
-  rss: https://blog.soobinpark.com/rss
+  blog: https://binsoopark.tistory.com/
+  rss: https://binsoopark.tistory.com/rss
   github: https://github.com/binsoopark
   facebook: https://www.facebook.com/binsoopark
   instagram: https://www.instagram.com/binsoopark0/
@@ -8048,8 +8039,8 @@
   blog: https://velog.io/@lychee
   rss: https://v2.velog.io/rss/lychee
 - name: 이정주
-  blog: https://webnautes.tistory.com/
-  rss: https://webnautes.tistory.com/rss
+  blog: https://webnautes.kr/
+  rss: https://webnautes.kr/rss/
   description: Machine Learning, Android
   youtube: https://www.youtube.com/channel/UCQeLdtodgFWThPxVeWjAncA
   facebook: https://www.facebook.com/jeongju.lee.5648
