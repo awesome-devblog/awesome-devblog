@@ -9998,8 +9998,8 @@
   linkedin: https://www.linkedin.com/in/kaden-sungbin-cho-a06ba2159/
   rss: https://kadensungbincho.com/feed/blog/feed.xml
 - name: 조성수
-  blog: https://printf.kr/
-  rss: https://printf.kr/feed
+  blog: https://ppiyakk2.tistory.com/
+  rss: https://ppiyakk2.tistory.com/feed
   description: Linux, Openstack
 - name: 조성윤
   linkedin: https://www.linkedin.com/in/sung-yun-jo-22b5b5155/
@@ -10049,8 +10049,8 @@
   rss: https://brunch.co.kr/rss/@@262h
   description: DevOps
 - name: 조영규
-  blog: http://dev.youngkyu.kr/
-  rss: http://dev.youngkyu.kr/rss
+  blog: https://youngkyu.tistory.com/
+  rss: https://youngkyu.tistory.com/rss
   description: Android
 - name: 조영인
   blog: https://codersbrunch.blogspot.com/
@@ -10211,8 +10211,8 @@
   youtube: https://www.youtube.com/channel/UCp-vBtwvBmDiGqjvLjChaJw
   npm: https://www.npmjs.com/~zerocho
 - name: 조현우
-  blog: https://blog.haenu.com/
-  rss: https://blog.haenu.com/rss
+  blog: https://dokdo2013.tistory.com/
+  rss: https://dokdo2013.tistory.com/rss
   description: Web Full-stack
   github: https://github.com/dokdo2013
   x: https://x.com/doyoniiii_
@@ -10363,6 +10363,8 @@
   description: iOS
   x: https://x.com/natenewbie
   instagram: https://www.instagram.com/natenewbie/
+  linkedin: https://www.linkedin.com/in/jaemyeong
+  github: https://github.com/jaemyeong
 - name: 진태양
   blog: https://dataportal.kr/
   rss: https://dataportal.kr/rss.xml
@@ -10730,8 +10732,8 @@
   github: https://github.com/woosung1223
   description: 백엔드, CS
 - name: 최원영
-  blog: https://blog.voidmainvoid.net/
-  rss: https://blog.voidmainvoid.net/rss
+  blog: https://voidmainvoid.tistory.com/
+  rss: https://voidmainvoid.tistory.com/rss
   description: Big Data, DevOps
   github: https://github.com/AndersonChoi
   facebook: https://www.facebook.com/Choi.Anderson
@@ -11663,8 +11665,8 @@
   facebook: https://www.facebook.com/sunghyunzz
   home: https://sunghyunzz.com/
 - name: 황세영
-  blog: https://nahwasa.com/
-  rss: https://nahwasa.com/rss
+  blog: https://nahwasa.tistory.com/
+  rss: https://nahwasa.tistory.com/rss
   github: https://github.com/nahwasa
   description: Back-end, PS, CS
 - name: 황세현
@@ -11787,9 +11789,9 @@
   linkedin: https://www.linkedin.com/in/jason-ryu-b5b8b6a8/
 - name: Joona Yoon
   nickname: joonas
-  blog: https://blog.joonas.io
+  blog: https://joonas.tistory.com/
+  rss: https://joonas.tistory.com/rss
   github: https://github.com/joonas-yoon
-  rss: https://blog.joonas.io/rss
   description: Computer Sciences
 - name: Justin Yoo
   blog: https://devkimchi.com/
