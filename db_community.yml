@@ -268,12 +268,12 @@
   rss: https://rss.blog.naver.com/rebehayan.xml
   youtube: https://www.youtube.com/channel/UCq7-gOh15ChDcFJ9xN9SYmg
 - name: 라인
-  blog: https://engineering.linecorp.com/ko/blog
-  rss: https://engineering.linecorp.com/ko/feed/
+  blog: https://techblog.lycorp.co.jp/ko
+  rss: https://techblog.lycorp.co.jp/ko/feed/index.xml
   youtube: https://www.youtube.com/channel/UC4CjFOoZlYSaqMHEDFCKcXQ
   facebook: https://www.facebook.com/line.developers
   x: https://x.com/line_developers
-  home: https://engineering.linecorp.com/ko/
+  linkedin: https://www.linkedin.com/company/line-messenger
   rocketpunch: https://www.rocketpunch.com/companies/line
 - name: 래블업
   blog: https://blog.lablup.com/
