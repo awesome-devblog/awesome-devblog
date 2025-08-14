@@ -1595,6 +1595,10 @@
   rss: https://rutgo-letsgo.tistory.com/rss
   description: 주니어 백엔드 개발자
   github: https://github.com/ksy90101
+- name: 김세훈
+  blog: https://aliencoder.tistory.com/
+  rss: https://aliencoder.tistory.com/rss
+  description: Data Science, Cumputer Science
 - name: 김소현
   blog: https://aa9390.github.io/
   rss: https://aa9390.github.io/feed.xml
