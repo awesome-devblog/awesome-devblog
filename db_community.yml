@@ -1981,3 +1981,6 @@
   blog: https://techblog.samsung.com/
   description: Computer Science
   rss: https://techblog.samsung.com/rss
+- name: WegglePlus Blog
+  blog: https://weggle-plus.co.kr/rss.xml
+  rss: https://weggle-plus.co.kr/blog/rss.xml
