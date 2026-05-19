@@ -4884,10 +4884,14 @@
   github: https://github.com/egaoneko
 - name: 서대영
   blog: https://www.daleseo.com/
+  rss: https://www.daleseo.com/rss.xml
   description: Javascript, AWS
   facebook: https://www.facebook.com/dale0713
   github: https://github.com/DaleSeo
   linkedin: https://www.linkedin.com/in/daleseo/
+  x: https://x.com/DaleSeo
+  youtube: https://youtube.com/@DaleSeo
+  inflearn: https://www.inflearn.com/users/@daleseo
 - name: 서민구
   description: Programming, Data Analysis
   x: https://x.com/Minkoo
