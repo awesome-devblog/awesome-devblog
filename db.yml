@@ -368,6 +368,11 @@
 - name: 고현민
   youtube: https://www.youtube.com/channel/UC2nkWbaJt1KQDi2r2XclzTQ
   facebook: https://www.facebook.com/yalcodic/
+- name: 공담형
+  blog: https://codecreature.tistory.com/
+  rss: https://codecreature.tistory.com/rss
+  description: Software & Computer CS
+  github: https://github.com/damhyeong
 - name: 공재웅
   blog: https://whackur.tistory.com/
   rss: https://whackur.tistory.com/rss
@@ -2765,7 +2770,7 @@
   rss: https://v2.velog.io/rss/foxkim
   description: ''
 - name: 김태윤
-  blog: https://tomorrow-lab.github.io 
+  blog: https://tomorrow-lab.github.io
   rss: https://tomorrow-lab.github.io/index.xml
   github: https://github.com/partrita
   description: 바이오인포메틱스를 주로 다루는 기술 블로그
