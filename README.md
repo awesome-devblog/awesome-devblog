@@ -78,4 +78,4 @@
 
 ## Star History
 
-[![Star History Chart](https://api.star-history.com/svg?repos=awesome-devblog/awesome-devblog&type=Date)](https://star-history.com/#awesome-devblog/awesome-devblog&Date)
+[![Star History Chart](https://star-history.dera.page/svg?repos=awesome-devblog/awesome-devblog&type=Date)](https://star-history.dera.page/#awesome-devblog/awesome-devblog&Date)
