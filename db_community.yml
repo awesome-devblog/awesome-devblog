@@ -711,6 +711,10 @@
   home: http://annyung.oops.org/
 - name: 알고리즘에 고통받는 취준생을 위한 안내서
   facebook: https://www.facebook.com/algoguide/
+- name: 알고케어
+  blog: https://medium.com/algocare-career
+  rss: https://medium.com/feed/algocare-career
+  home: https://career.algocare.ai
 - name: 야놀자
   blog: https://yanolja.github.io/
   rss: https://yanolja.github.io/feed.xml
