@@ -8820,6 +8820,11 @@
   blog: https://mooneegee.blogspot.kr/
   rss: https://mooneegee.blogspot.com/feeds/posts/default
   description: 3D
+- name: 장민우
+  blog: https://wanglan.tistory.com/
+  github: https://github.com/JANG-MINWOO
+  description: AI 세상에서 살아남기 - Claude Code·AI 에이전트 실전 기록
+  rss: https://wanglan.tistory.com/rss
 - name: 장봄
   blog: https://velog.io/@denmark-choco
   rss: https://v2.velog.io/rss/denmark-choco
