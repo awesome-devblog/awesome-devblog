@@ -37,7 +37,7 @@
   category: Shell
 - name: ExtendsClass
   url: https://extendsclass.com/
-  description: Online toolbox for front and back-end developers: Playgrounds (Regex, SQLite), Random data generation (CSV, JSON, SQL), Code checkers (PHP, Python, Ruby), API tools (REST/SOAP clients, JSON storage).
+  description: 'Online toolbox for front and back-end developers: Playgrounds (Regex, SQLite), Random data generation (CSV, JSON, SQL), Code checkers (PHP, Python, Ruby), API tools (REST/SOAP clients, JSON storage).'
   category: Programming
 - name: Ezgif
   url: https://ezgif.com/
