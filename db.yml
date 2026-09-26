@@ -4493,6 +4493,11 @@
   description: 스타트업
   facebook: https://www.facebook.com/needleworm
   x: https://x.com/halfbottle_ban
+- name: 반석
+  blog: https://journey.securityon.org
+  rss: https://journey.securityon.org/rss.xml
+  description: SecurityOn Research Journey
+  github: https://github.com/securityon
 - name: 반정훈
   blog: https://vanslog.io
   rss: https://vanslog.io/index.xml
