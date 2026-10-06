@@ -267,6 +267,11 @@
   blog: https://blog.naver.com/rebehayan
   rss: https://rss.blog.naver.com/rebehayan.xml
   youtube: https://www.youtube.com/channel/UCq7-gOh15ChDcFJ9xN9SYmg
+- name: 리뷰노트
+  blog: https://review.kimwon.com/
+  rss: https://review.kimwon.com/feed/
+  description: IT 도구 사용법·설치기
+  github: https://github.com/BraveCat79/awesome-devtools-ko
 - name: 라인
   blog: https://techblog.lycorp.co.jp/ko
   rss: https://techblog.lycorp.co.jp/ko/feed/index.xml
