@@ -7957,6 +7957,11 @@
   blog: https://blog.jyslash.com/@jungyounglee
   description: UI 디자인
   facebook: https://www.facebook.com/leejungyoung
+- name: 이정우
+  blog: https://blog.ramsbaby.com/
+  rss: https://blog.ramsbaby.com/rss.xml
+  github: https://github.com/Ramsbaby
+  description: 백엔드 장애·성능 실전, AI 개발 도구(MCP·Claude Code)
 - name: 이정운
   blog: https://medium.com/@jwlee98
   rss: https://medium.com/feed/@jwlee98
