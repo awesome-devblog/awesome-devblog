@@ -72,6 +72,7 @@
 - [딥러닝으로 문서 분류기 만들기](https://blog.devstory.co.kr/post/devblog-classifier)
 - [devlogmoa](http://devlogmoa.shop/), [Github](https://github.com/monkeyDugi/dev_log_moa)
 - [mysetting](https://mysetting.io/posts/trending/all)
+- [테크곳간](https://www.techgotgan.co.kr/digest/2026-W43?utm_source=awesome_devblog&utm_medium=resource_list&utm_campaign=developer_discovery_2026w44) - 여러 회사 기술 블로그 글을 검색하고 주제·블로그별로 다시 찾는 공개 아카이브
 - [개발자의 놀이터](https://feed-sync-scribe.lovable.app/)
 
 ## Star History
