@@ -1161,6 +1161,14 @@
   facebook: https://www.facebook.com/fastcampus/
   home: https://fastcampus.co.kr/
   rocketpunch: https://www.rocketpunch.com/companies/fastcampus
+- name: 페미위키
+  blog: https://femiwiki.com/?curid=30779
+  rss: https://femiwiki.com/index.php?curid=81532&action=raw&templates=expand&smaxage=3600
+  home: https://femiwiki.com/
+  github: https://github.com/femiwiki
+  facebook: https://www.facebook.com/femiwikidotcom/
+  x: https://x.com/femiwikidotcome
+  discord: https://discord.gg/umzYjJcbvH
 - name: 펫프렌즈
   blog: https://pfdev.medium.com/
   rss: https://medium.com/feed/@pfdev
