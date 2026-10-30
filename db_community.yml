@@ -1186,6 +1186,10 @@
 - name: 플랫폼 개발팀
   blog: https://team-platform.tistory.com/
   rss: https://team-platform.tistory.com/rss
+- name: 플로트(FLOAT) 흐름 블로그
+  blog: https://blog.hrum.ai/
+  rss: https://blog.hrum.ai/feed/
+  home: https://hrum.ai/
 - name: 피플펀드
   blog: https://blog.peoplefund.co.kr/
   rocketpunch: https://www.rocketpunch.com/companies/peoplefund
