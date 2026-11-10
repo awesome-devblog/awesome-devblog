@@ -157,6 +157,10 @@
   rss: https://medium.com/feed/@youngjin.kang
   github: https://github.com/youngjin-k
   description: Front-end
+- name: 강영진
+  blog: https://thingspool.net/
+  github: https://github.com/architsch
+  rss: https://thingspool.net/feed.atom
 - name: 강영훈
   blog: https://brunch.co.kr/@yhkang0513
   rss: https://brunch.co.kr/rss/@@3waF
