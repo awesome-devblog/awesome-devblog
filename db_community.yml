@@ -1262,6 +1262,9 @@
   home: http://hansicgu.com/
   facebook: https://www.facebook.com/hansicgu/
   naver: https://cafe.naver.com/hansicgu
+- name: 한지 (Hanji)
+  blog: https://hanji.agentcat.app/
+  rss: https://hanji.agentcat.app/feed.xml
 - name: 함께하는 딥러닝
   facebook: https://www.facebook.com/groups/withdl/
 - name: 함수형 자바스크립트
